@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=oc>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Benvenguda sus Ubuntu</title>
+<link rel="stylesheet" type="text/css" href="oc.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Guida del burèu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guide del burèu Ubuntu</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Benvenguda sus Ubuntu</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Ubuntu presenta <span class="em">Unity</span>, una faiçon completament repensée d'utilizar vòstre ordenador. Unity es concebut per minimizar las distraccions, vous donar mai de plaça per trabalhar e vos ajudar a organizar eficaçament vòstre trabalh.</p>
+<p class="p">Aqueste guida es concebut per respondre a vòstras questions sus l'utilizacion d'Unity e de vòstre burèu Ubuntu. Anam d'en primièr prene un moment per examiner certanas des principales caracteristicas d'Unity e la faiçon dont podètz les utilizar.</p>
+</div>
+<div id="unity-overview" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Aviar amb Unity</span></h2></div>
+<div class="region">
+<div class="contents"><div class="media media-image"><div class="inner"><img src="figures/unity-overview.png" class="media media-block" alt="Lo burèu Unity"></div></div></div>
+<div id="launcher-home-button" class="sect"><div class="inner">
+<div class="hgroup"><h3 class="title"><span class="title">Lo aviador</span></h3></div>
+<div class="region"><div class="contents">
+<div class="media media-image floatstart"><div class="inner"><img src="figures/unity-launcher.png" class="media media-block" alt="Lo aviador"></div></div>
+<p class="p">Lo <span class="gui">aviador</span> apareis automaticament al aviada de votre session. Il vos permet d'accedir rapidament a las aplicacions los maiutilizadas.</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="unity-launcher-intro.html" title="Utilizar lo aviador per aviar des aplicacions">En saber mai sus la barra d'aviadors.</a></span></p></li></ul></div></div></div>
+</div></div>
+</div></div>
+<div id="the-dash" class="sect"><div class="inner">
+<div class="hgroup"><h3 class="title"><span class="title">Lo tablèu de bòrd</span></h3></div>
+<div class="region"><div class="contents">
+<p class="p">Lo <span class="gui">boton Ubuntu</span> se tròba prèp del caire superior esquèrra de l'ecran e es totjorn l'element lo mai naut de la barra d'aviadors. Se vous clicatz sul <span class="gui">boton Ubuntu</span>, Unity vous presentara una fonction suplementària del burèu, lo <span class="gui">tablèu de bòrd</span>.</p>
+<div class="media media-image"><div class="inner"><img src="figures/unity-dash.png" class="media media-block" alt="Lo tablèu de bòrd de Unity"></div></div>
+<p class="p">Lo <span class="em">Tablèu de bòrd</span> es concebut per facilitar la recèrca, la dobertura e l'utilizacion de las aplicacions, dels fichièrs, de la musica e mai encara. Per exemple, se sasissètz lo mot « document » dins la <span class="em">Barra de recèrca</span>, lo Tablèu de bòrd aficharà las aplicacions que vous permetràn de redigir o modificar des documents. Il aficharà tanben los dorsièrs e documents sus lesquels avètz trabalhlé recentament.</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="unity-dash-intro.html" title="Trobatz des aplicacions, des fichièrs, de la musica e mai amb lo Tablèu de bòrd">En saber mai sul tablèu de bòrd.</a></span></p></li></ul></div></div></div>
+</div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Mai d'entresenhas</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="shell-overview.html" title="Burèu, aplicacions &amp; fenèstras">Burèu, aplicacions &amp; fenèstras</a><span class="desc"> — <span class="link"><a href="unity-introduction.html" title="Benvenguda sus Ubuntu">Introduction</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Los acorchis de clavièr utiles">acorchis de clavièr</a></span>, <span class="link"><a href="shell-windows.html" title="Fenèstras e Espacis de trabalh">fenèstras</a></span>…</span>
+</li>
+<li class="links "><a href="index.html" title="Guida del burèu Ubuntu">Guida del burèu Ubuntu</a></li>
+</ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Vejatz tanben</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="about-this-guide.html" title="A prepaus d'aqueste guida">A prepaus d'aqueste guida</a><span class="desc"> — Aquí qualques conselhs sus l'utilizacion del Guida del burèu Ubuntu.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

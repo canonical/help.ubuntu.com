@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang=th>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>As a Domain Controller</title>
+<link rel="stylesheet" type="text/css" href="th.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../16.04" class="trail">Ubuntu 16.04</a> » <a class="trail" href="index.html" title="คู่มือ Ubuntu Server">คู่มือ Ubuntu Server</a> » <a class="trail" href="samba.html" title="Samba">Samba</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="samba-fileprint-security.html" title="Securing File and Print Server">ก่อนหน้า</a><a class="nextlinks-next" href="samba-ad-integration.html" title="Active Directory Integration">ถัดไป</a>
+</div>
+<div class="hgroup"><h1 class="title">As a Domain Controller</h1></div>
+<div class="region">
+<div class="contents"><p class="para">ถึงแม้ว่าแซมบ้าไม่สามารถทำงานได้เหมือนกับเครื่องควบคุมโดเมนหลัก (Primary Domain Controller หรือ PDC) ใน Active Directory แต่แซมบ้าก็สามารถทำงานเสมือนเครื่องควบคุมโดเมนแบบวินโดว์ NT4 ได้  โดยประโยชน์หลักของการทำแบบนี้คือการมีที่เดียวที่เป็นศูนย์กลางในการจัดการบัญชีผู้ใช้และเครื่องคอมพิวเตอร์ในเครือขาย  นอกจากนั้นแซมบ้าสามารถใช้ฐานเก็บข้อมูลผู้ใช้ได้หลายแบบอีกด้วย</p></div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="samba-dc.html#samba-pdc-smbpasswd" title="เครื่องควบคุมโดเมนหลัก">เครื่องควบคุมโดเมนหลัก</a></li>
+<li class="links"><a class="xref" href="samba-dc.html#samba-bdc-smbpasswd" title="เครื่องควบคุมโดเมนสำรอง (Backup Domain Controller)">เครื่องควบคุมโดเมนสำรอง (Backup Domain Controller)</a></li>
+<li class="links"><a class="xref" href="samba-dc.html#samba-dc-resources" title="แหล่งข้อมูล">แหล่งข้อมูล</a></li>
+</ul></div>
+<div class="sect2 sect" id="samba-pdc-smbpasswd"><div class="inner">
+<div class="hgroup"><h2 class="title">เครื่องควบคุมโดเมนหลัก</h2></div>
+<div class="region"><div class="contents">
+<p class="para">ในส่วนนี้จะอธิบายวิธีการตั้งค่าแซมบ้าเป็นเครื่องควบคุมโดเมนหลักหรือ Primary Domain Controller (PDC) โดยใช้ฐานข้อมูลแบบ smbpasswd ที่เป็นแบบเริ่มต้นของแซมบ้า</p>
+<div class="steps"><div class="inner"><ol class="steps">
+<li class="steps">
+
+          <p class="para">
+          First, install Samba, and <span class="app application">libpam-winbind</span> to sync the user accounts,
+          by entering the following in a terminal prompt:
+          </p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install samba libpam-winbind</span>
+</pre></div>
+        
+        </li>
+<li class="steps">
+
+          <p class="para">จากนั้นให้แก้ไขไฟล์ <span class="file filename">/etc/samba/smb.conf</span> โดยเปลี่ยนโหมด <span class="em emphasis">security</span> เป็น <span class="em emphasis">user</span>  และเปลี่ยนชื่อ <span class="em emphasis">workgroup</span> เป็นชื่อขององค์กรของคุณ:</p>
+
+<div class="code"><pre class="contents ">   workgroup = EXAMPLE
+   ...
+   security = user
+</pre></div>
+
+        </li>
+<li class="steps">
+
+          <p class="para">
+          In the commented <span class="quote">“Domains”</span> section add or uncomment the following (the last line has been split to fit the format of this document):
+          </p>
+
+<div class="code"><pre class="contents ">   domain logons = yes
+   logon path = \\%N\%U\profile
+   logon drive = H:
+   logon home = \\%N\%U
+   logon script = logon.cmd
+   add machine script = sudo /usr/sbin/useradd -N -g machines -c Machine -d
+         /var/lib/samba -s /bin/false %u
+</pre></div>
+
+          <div class="note" title="หมายเหตุ"><div class="inner"><div class="region"><div class="contents">
+            <p class="para">ถ้าคุณไม่ต้องการจะใช้โปรไฟล์สัญจร (<span class="em emphasis">Roaming Profiles</span>) ให้คอมเม้นต์ค่า <span class="em emphasis">logon home</span> และ <span class="em emphasis">logon path</span> เอาไว้</p>
+          </div></div></div></div>
+ 
+          <div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+              <p class="para"><span class="em emphasis">domain logons:</span> ให้บริการ netlogon ซึ่งทำให้แซมบ้าทำงานเป็นเครื่องควบคุมหลักของโดเมน</p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para"><span class="em emphasis">logon path:</span> เก็บโปรไฟล์ของผู้ใช้ในวินโดว์ไว้ในแฟ้มข้อมูลของผู้ใช้บนอูบุนตู (home directory) คุณสามารถแก้ไข <span class="em emphasis">[profiles]</span> เพื่อให้ทุกโปรไฟล์อยู่ในแฟ้มข้อมูลเดียวกันได้</p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para"><span class="em emphasis">logon drive:</span> ระบุชื่อไดรฟ์ในวินโดว์ที่ชี้ไปหาแฟ้มข้อมูลของผู้ใช้บนอูบุนตู</p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para"><span class="em emphasis">logon home:</span> ระบุตำแหน่งของแฟ้มข้อมูลผู้ใช้บนอูบุนตู</p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para"><span class="em emphasis">logon script:</span> ระบุสคริปต์ที่ทำงานที่เครื่องวินโดว์หลังจากผู้ใช้ได้ลงชื่อเข้าใช้ระบบ  โดยสคริปต์นี้จะต้องอยู่ในแชร์ชื่อ <span class="em emphasis">[netlogon]</span></p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para"><span class="em emphasis">add machine script:</span> สคริปต์เพื่อสร้างบัญชีเครื่องคอมพิวเตอร์ลูกข่ายหรือ <span class="em emphasis">Machine Trust Account</span> ที่จะต้องมีเพื่อให้เครื่องลูกข่ายเข้าร่วมกับโดเมนได้โดยอัตโนมัติ</p>
+              <p class="para">ในตัวอยางนี้กลุ่มชื่อ <span class="em emphasis">machines</span> จะถูกสร้างโดยใช้เครื่องมือชื่อ <span class="app application">addgroup</span>  กรุณาดู <a class="xref" href="user-management.html#adding-deleting-users" title="Adding and Deleting Users">Adding and Deleting Users</a> สำหรับรายละเอียดเพิ่มเติมในการเพิ่มและลบผู้ใช้</p>
+
+            </li>
+</ul></div>
+
+        </li>
+<li class="steps">
+     
+          <p class="para">ให้เอาคอมเม้นต์ของแชร์ชื่อ <span class="em emphasis">[homes]</span> ออกเพื่ออนุญาติให้วินโดว์สามารถ map <span class="em emphasis">logon home</span> ได้</p>
+
+<div class="code"><pre class="contents ">[homes]
+   comment = Home Directories
+   browseable = no
+   read only = no
+   create mask = 0700
+   directory mask = 0700
+   valid users = %S
+</pre></div>
+
+        </li>
+<li class="steps">
+
+          <p class="para">เมื่อคุณตั้งค่าแซมบ้าเป็นเครื่องควบคุมหลักของโดเมน คุณจะต้องสร้างแชร์ชื่อ <span class="em emphasis">[netlogon]</span>  โดยให้เอาคอมเม้นต์ของบรรทัดนี้ออกเพื่อให้แชร์ทำงานได้:</p>
+
+<div class="code"><pre class="contents ">[netlogon]
+   comment = Network Logon Service
+   path = /srv/samba/netlogon
+   guest ok = yes
+   read only = yes
+   share modes = no
+</pre></div>
+
+          <div class="note" title="หมายเหตุ"><div class="inner"><div class="region"><div class="contents">
+            <p class="para">แซมบ้าตั้งค่าของแชร์ <span class="em emphasis">netlogon</span> ไปที่ <span class="file filename">/home/samba/netlogon</span> โดยอัตโนมัติ  แต่ถ้าคุณจะอ้างอิงตาม Filesystem Hierarchy Standard (FHS) ให้เปลี่ยนการตั้งค่าให้ชี้ไปที่ <a href="http://www.pathname.com/fhs/pub/fhs-2.3.html#SRVDATAFORSERVICESPROVIDEDBYSYSTEM" class="ulink" title="http://www.pathname.com/fhs/pub/fhs-2.3.html#SRVDATAFORSERVICESPROVIDEDBYSYSTEM">/srv</a> แทน</p>
+          </div></div></div></div>
+
+        </li>
+<li class="steps">
+
+          <p class="para">จากนั้นให้สร้างแฟ้มข้อมูลสำหรับ <span class="file filename">netlogon</span> และไฟล์ว่างๆที่ยังไม่มีเนื้อหา (สำหรับตอนนี้) ชื่อ <span class="file filename">logon.cmd</span> :</p> 
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo mkdir -p /srv/samba/netlogon</span>
+<span class="cmd command">sudo touch /srv/samba/netlogon/logon.cmd</span>
+</pre></div>
+ 
+          <p class="para">คุณสามารถใส่คำสั่งของวินโดว์ที่จะทำงานเมื่อผู้ใช้เข้าใช้ระบบในไฟล์ <span class="file filename">logon.cmd</span> นี้เพื่อปรับค่าของเครื่องลูกข่ายตามที่คุณต้องการ</p>
+
+        </li>
+<li class="steps">
+
+          <p class="para">
+          Restart Samba to enable the new domain controller:
+          </p> 
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo systemctl restart smbd.service nmbd.service</span>
+</pre></div>
+
+        </li>
+<li class="steps">
+
+          <p class="para">
+          Lastly, there are a few additional commands needed to setup the appropriate rights.
+          </p>
+
+          <p class="para">เนื่องจากว่าผู้ใช้ <span class="em emphasis">root</span> นั้นถูกป้องกันไม่ให้ถูกใช้งานโดยอัตโนมัติ คุณจะต้องสร้างความสัมพันธ์ระหว่างกลุ่มของผู้ดูแลโดเมนในอูบุนตูกับกลุ่มของผู้ดูแลโดเมนในวินโดว์ (<span class="em emphasis">Domain Admins</span>) โดยใช้คำสั่ง <span class="app application">net</span> ดังนี้:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo net groupmap add ntgroup="Domain Admins" unixgroup=sysadmin rid=512 type=d</span>
+</pre></div>
+
+          <div class="note" title="หมายเหตุ"><div class="inner"><div class="region"><div class="contents">
+            <p class="para">เปลี่ยนชื่อกลุ่มจาก <span class="em emphasis">sysadmin</span>เป็นชื่อที่คุณต้องการ   ผู้ใช้ที่คุณใช้เมื่อทำให้เครื่องลูกข่ายเข้าร่วมกับโดเมนนั้นจะต้องเป็นผู้ใช้ที่อยู่ในกลุ่ม <span class="em emphasis">sysadmin</span> และกลุ่ม <span class="em emphasis">admin</span>  เพราะว่ากลุ่ม <span class="em emphasis">admin</span> อนุญาติให้ใช้โปรแกรม <span class="app application">sudo</span> ได้</p>
+            <p class="para">
+            If the user does not have Samba credentials yet, you can add them with
+            the <span class="app application">smbpasswd</span> utility, change the <span class="em emphasis">sysadmin</span> username appropriately:
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo smbpasswd -a sysadmin</span>
+</pre></div>
+            </p>
+          </div></div></div></div>
+
+          <p class="para">
+          Also, rights need to be explicitly provided to the <span class="em emphasis">Domain Admins</span> group to allow the 
+          <span class="em emphasis">add machine script</span> (and other admin functions) to work. This is achieved by executing:
+          </p>
+<div class="screen"><pre class="contents "><span class="cmd command">net rpc rights grant -U sysadmin "EXAMPLE\Domain Admins" SeMachineAccountPrivilege \
+SePrintOperatorPrivilege SeAddUsersPrivilege SeDiskOperatorPrivilege \
+SeRemoteShutdownPrivilege</span>
+</pre></div>
+
+        </li>
+<li class="steps">
+
+          <p class="para">หลังจากเริ่มโปรแกรมแซมบ้า คุณน่าจะสามารถให้เครื่องลูกข่ายวินโดว์เข้าร่วมโดเมนเหมือนๆกับที่คุณทำในโดเมน NT4 ได้แล้ว</p>
+
+        </li>
+</ol></div></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="samba-bdc-smbpasswd"><div class="inner">
+<div class="hgroup"><h2 class="title">เครื่องควบคุมโดเมนสำรอง (Backup Domain Controller)</h2></div>
+<div class="region"><div class="contents">
+<p class="para">เราแนะนำให้คุณติดตั้งเครื่องควบคุมโดเมนสำรองหรือ Backup Domain Controller (BDC) เพิ่มกรณีที่คุณมีเครื่องควบคุมโดเมนหลัก (PDC) อยู่ในเครือข่าย  เนื่องจากว่าเครื่องลูกข่ายยังจะสามารถลงชื่อเข้าใช้เครือข่ายได้ถึงแม้ว่าเครื่องควบคุมโดเมนหลักจะเสียไม่สามารถให้บริการได้</p>
+<p class="para">สำหรับการตั้งค่าแซมบ้าเป็น BDC นั้นคุณจะต้องมีวิธีที่จะคัดลอกข้อมูลเกี่ยวกับบัญชีต่างๆระหว่าง PDC และ BDC  ซึ่งคุณสามารถทำได้หลายวิธีเช่นใช้ <span class="app application">scp</span>, <span class="app application">rsync</span> หรือจะใช้ <span class="app application">LDAP</span> เป็น <span class="em emphasis">passdb backend</span> ก็ได้</p>
+<p class="para">การใช้ LDAP เป็นวิธีที่ดีที่สุดในการคัดลอกข้อมูลบัญชีเนื่องจากว่าข้อมูลในเครื่องควบคุมโดเมนทั้งสองจะถ่ายโอนข้อมูลระหว่างกันทันทีเมื่อมีการเปลี่ยนแปลง แต่ว่าการติดตั้งเซิร์ฟเวอร์ LDAP ก็เป็นอะไรที่อาจจะซับซ้อนเกินความจำเป็นสำหรับเครือข่ายที่มีจำนวนผู้ใช้และเครื่องคอมพิวเตอร์ไม่เยอะ  สำหรับรายละเอียดเพิ่มเติมกรุณาอ่าน <a class="xref" href="samba-ldap.html" title="Samba and LDAP">Samba and LDAP</a></p>
+<div class="steps"><div class="inner"><ol class="steps">
+<li class="steps">
+   
+          <p class="para">
+          First, install <span class="app application">samba</span> and <span class="app application">libpam-winbind</span>.  From a terminal enter:
+          </p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install samba libpam-winbind</span>
+</pre></div>
+
+        </li>
+<li class="steps">
+
+          <p class="para">จากนั้นให้แก้ไขไฟล์ <span class="file filename">/etc/samba/smb.conf</span> และเอาคอมเม้นต์ของบรรทัดเหล่านี้ในหมวด <span class="em emphasis">[global]</span> ออก:</p>
+
+<div class="code"><pre class="contents ">   workgroup = EXAMPLE
+   ...
+   security = user
+</pre></div>
+
+        </li>
+<li class="steps">
+
+        <p class="para">ในหมวด <span class="em emphasis">Domains</span> ที่ถูกคอมเม้นต์อยู่ ให้เอาคอมเม้นต์ออก หรือจะเพิ่มบรรทัดเหล่านี้ก็ได้:</p>
+
+<div class="code"><pre class="contents ">   domain logons = yes
+   domain master = no
+</pre></div>
+        
+        </li>
+<li class="steps">
+
+          <p class="para">อย่าลืมตรวจสอบให้แน่ใจว่าผู้ใช้มีสิทธิ์ในการอ่านไฟล์ใน <span class="file filename">/var/lib/samba</span> ด้วย  ยกตัวอย่างเช่น ถ้าคุณต้องการอนุญาติให้ผู้ใช้ในกลุ่ม <span class="em emphasis">admin</span> ใช้โปรแกรม <span class="app application">scp</span> กับไฟล์ได้ ให้พิมพ์คำสั่ง:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo chgrp -R admin /var/lib/samba</span>
+</pre></div>
+
+        </li>
+<li class="steps">
+
+          <p class="para">จากนั้นให้ทำการคัดลอกบัญชีผู้ใช้โดยใช้ <span class="app application">scp</span> เพื่อคัดลอกแฟ้มข้อมูล <span class="file filename">/var/lib/samba</span> จากเครื่องควบคุมโดเมนหลัก (PDC):</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo scp -r username@pdc:/var/lib/samba /var/lib</span>
+</pre></div>
+
+          <div class="note" title="หมายเหตุ"><div class="inner"><div class="region"><div class="contents">
+            <p class="para">แทนที่ <span class="em emphasis">username</span> ด้วยชื่อผู้ใช้และ <span class="em emphasis">pdc</span> ด้วยชื่อเครื่องหรือเลขที่ IP ของเครื่อง PDC ของคุณ</p>
+          </div></div></div></div>
+
+        </li>
+<li class="steps">
+          
+          <p class="para">จากนั้นให้เริ่มโปรแกรม <span class="app application">แซมบ้า</span> ใหม่</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo systemctl restart smbd.service nmbd.service</span>
+</pre></div>
+
+        </li>
+</ol></div></div>
+<p class="para">คุณสามารถทดสอบได้ว่าเครื่องควบคุมโดเมนสำรองทำงานได้อย่างถูกต้องโดยการปิดโปรแกรมแซมบ้าบนเครื่องหลัก (PDC) จากนั้นก็ลองลงชื่อเข้าใช้จากเครื่องลูกข่ายวินโดว์ของคุณที่อยู่ในโดเมน</p>
+<p class="para">อีกอย่างหนึ่งที่คุณต้องคำนึงก็คือถ้าคุณได้ตั้งค่า <span class="em emphasis">logon home</span> ที่ชี้ไปที่แฟ้มข้อมูลบนเครื่อง PDC และเครื่อง PDC เกิดเสียหรือไม่สามารถให้บริการได้ขึ้นมา คุณจะไม่สามารถเข้าใช้งานไดรฟ์ <span class="em emphasis">Home</span> ของผู้ใช้ได้เช่นกัน  ด้วยเหตุนี้เราแนะนำให้คุณเก็บแฟ้มที่เป็น <span class="em emphasis">logon home</span> ไว้บนเครื่องที่เป็นไฟล์เซิร์ฟเวอร์อื่นที่ไม่ใช่เครื่อง PDC และ BDC</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="samba-dc-resources"><div class="inner">
+<div class="hgroup"><h2 class="title">แหล่งข้อมูล</h2></div>
+<div class="region"><div class="contents"><div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+          <p class="para">สำหรับการตั้งค่าแซมบ้าขั้นสูง กรุณาดูที่ <a href="http://samba.org/samba/docs/man/Samba-HOWTO-Collection/" class="ulink" title="http://samba.org/samba/docs/man/Samba-HOWTO-Collection/">Samba HOWTO Collection</a></p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">คุณสามารถอ่านคู่มือนี้<a href="http://www.amazon.com/exec/obidos/tg/detail/-/0131882228" class="ulink" title="http://www.amazon.com/exec/obidos/tg/detail/-/0131882228">ในแบบหนังสือ</a>ได้</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">หนังสือ <a href="http://www.oreilly.com/catalog/9780596007690/" class="ulink" title="http://www.oreilly.com/catalog/9780596007690/">Using Samba</a> จากสำนักพิพม์ O'Reilly ก็เป็นแหล่งอ้างอิงที่ดี</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><a href="http://samba.org/samba/docs/man/Samba-HOWTO-Collection/samba-pdc.html" class="ulink" title="http://samba.org/samba/docs/man/Samba-HOWTO-Collection/samba-pdc.html">บทที่ 4</a> ของ Samba HOWTO Collection อธิบายวิธีการติดตั้งเครื่องควบคุมโดเมนหลัก (Primary Domain Controller)</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><a href="http://us3.samba.org/samba/docs/man/Samba-HOWTO-Collection/samba-bdc.html" class="ulink" title="http://us3.samba.org/samba/docs/man/Samba-HOWTO-Collection/samba-bdc.html">บทที่ 5</a> ของ Samba HOWTO Collection อธิบายวิธีการติดตั้งเครื่องควบคุมโดเมนสำรอง (Backup Domain Controller)</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">
+          The <a href="https://help.ubuntu.com/community/Samba" class="ulink" title="https://help.ubuntu.com/community/Samba">Ubuntu Wiki Samba </a> page.
+          </p>
+        </li>
+</ul></div></div></div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="samba-fileprint-security.html" title="Securing File and Print Server">ก่อนหน้า</a><a class="nextlinks-next" href="samba-ad-integration.html" title="Active Directory Integration">ถัดไป</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p></div>
+</div>
+</body>
+</html>

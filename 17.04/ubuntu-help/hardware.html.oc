@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang=oc>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Material &amp; pilòts</title>
+<link rel="stylesheet" type="text/css" href="oc.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Guida del burèu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guide del burèu Ubuntu</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Material &amp; pilòts</span></h1></div>
+<div class="region">
+<div class="contents">
+<div class="links topiclinks"><div class="inner"><div class="region">
+<div class="links-grid ">
+<div class="links-grid-link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="bluetooth-connect-device.html" title="Associacion d'un ordenador a un periferic Bluetooth">Connexion</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Mandadís d'un fichièr cap a un periferic Bluetooth">mandadís de fichièrs</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Activacion o desactivacion del Bluetooth">activacion e desactivacion</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="keyboard.html" title="Clavièr">Clavièr</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html" title="Utilizar de fonts d'entrada alternativas">Fonts d'entrada</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Clignotement del cursor">clignotement del cursor</a></span>, <span class="link"><a href="windows-key.html" title="Qu'est-ce que la tòca « Super » ?">tòca Super</a></span>, <span class="link"><a href="a11y.html#mobility" title="Deficiéncias motrises">accessibilitat del clavièr</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="disk.html" title="Disques durs &amp; periferics d'emmagazinatge">Disques durs &amp; periferics d'emmagazinatge</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="disk-capacity.html" title="Verificacion de l'espaci de disc libre">Espaci de disc</a></span>, <span class="link"><a href="disk-benchmark.html" title="Test the performance of a disk">performance</a></span>, <span class="link"><a href="disk-check.html" title="Verificacion d'éventuels problèmas de disc dur">problèmas</a></span>, <span class="link"><a href="disk-particions.html" title="disk-particions">volums e particions</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="power.html" title="Energia &amp; batariá">Energia &amp; batariá</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="power-suspend.html" title="Que se passe-t-il quand je mets en velha mon ordenador ?">Veille</a></span>, <span class="link"><a href="power-batterylife.html" title="Économie d'energia e accroissement de la longévité de la batariá">estalvis d'energia</a></span>, <span class="link"><a href="shell-exit.html#shutdown" title="Atudar o reaviar">mise fòra tension</a></span>, <span class="link"><a href="power-whydim.html" title="Diminution de la luminositat de l'ecran aprèp un certan temps d'inactivitat">rétroéclairage de l'ecran</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="color.html" title="Gestion de la color">Gestion de la color</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html" title="Perqué la gestion de las colors es importanta ?">Perqué es important ?</a></span>, <span class="link"><a href="color.html#perfiles" title="color#perfiles">Perfils de colors</a></span>, <span class="link"><a href="color.html#calibration" title="Escandalhatge">Cossí escandalhar un periferic</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="printing.html" title="Impression">Impression</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="printing-setup.html" title="Configuracion d'una imprimenta">Configuracion locala</a></span>, <span class="link"><a href="printing-order.html" title="Inversion de l'òrdre d'impression">inversion e rassemblement</a></span>, <span class="link"><a href="printing-2sided.html" title="Impression recto verso e agençament multipaginas">recto verso e multipagina</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="mouse.html" title="Mirga">Mirga</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html" title="Utilizacion de la mirga amb la man esquèrra">Utilizacion per esquèrrars</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Adapter la rapiditat de la mirga e del pavat tactil">velocitat e sensibilitat</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Clicar, lisar o far desfilar amb l'ajuda del pavat tactil">clic e desfilament amb lo pavat tactil</a></span>…</span></div>
+</div>
+</div></div></div>
+<div class="links topiclinks"><div class="inner">
+<div class="title title-links"><h2><span class="title">Autras rubricas</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="hardware-driver-proprietary.html" title="Qu'es aquò un pilòt proprietari ?">Qu'es aquò un pilòt proprietari ?</a><span class="desc"> — Los pilòts proprietaris son pas liurament disponibles o open font</span>
+</li>
+<li class="links ">
+<a href="hardware-driver.html" title="Qu'es aquò un pilòt ?">Qu'es aquò un pilòt ?</a><span class="desc"> — Un pilòt de material/periferic permet a vòstre ordenador d'utilizar les periferics que i son connectats.</span>
+</li>
+</ul></div>
+</div></div>
+</div>
+<div id="problems" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Problèmas coneguts</span></h2></div>
+<div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><ul>
+<li class="links ">
+<a href="net-wireless-troubleshooting.html" title="Depanatge de la ret sens fial">Depanatge de la ret sens fial</a><span class="desc"> — Identificar e resòlvre los problèmas de connexions sens fial</span>
+</li>
+<li class="links "><a href="bluetooth.html#problems" title="Problèmas">Problèmas Bluetooth</a></li>
+<li class="links ">
+<a href="hardware-problems-graphics.html" title="Problèmas d'ecran">Problèmas d'ecran</a><span class="desc"> — Resòlvre los problèmas d'ecran o de carta graphique.</span>
+</li>
+<li class="links ">
+<a href="power.html#problems" title="Problèmas">Problèmas d'energia</a><span class="desc"> — Resòlvre los problèmas relatius a l'energia e a las batariás.</span>
+</li>
+<li class="links ">
+<a href="printing.html#problems" title="Problèmas d'impression">Problèmas d'impression</a><span class="desc"> — Cancelling a print job, clearing a paper jam, print-outs with missing colors…</span>
+</li>
+<li class="links ">
+<a href="hardware-cardreader.html" title="Problèmas de lectors de cartas de donadas">Problèmas de lectors de cartas de donadas</a><span class="desc"> — Resòlvre los problèmas de lectors de cartas de donadas</span>
+</li>
+<li class="links ">
+<a href="sound-broken.html" title="Problèmas de son">Problèmas de son</a><span class="desc"> — Reglar los problèmas d'abséncia de son o de son de marrida qualité.</span>
+</li>
+</ul></div></div></div></div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Mai d'entresenhas</span></h2></div>
+<div class="region"><ul><li class="links "><a href="index.html" title="Guida del burèu Ubuntu">Guida del burèu Ubuntu</a></li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

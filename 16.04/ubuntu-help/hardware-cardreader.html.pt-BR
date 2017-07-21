@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=pt-BR>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Problemas com leitor de cartões de memória.</title>
+<link rel="stylesheet" type="text/css" href="pt-BR.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia do Ubuntu Deskop</a> » <a class="trail" href="media.html" title="Som, vídeo e fotos">Som, vídeo e fotos</a> › <a class="trail" href="media.html#photos" title="Fotos e câmeras digitais">Fotos</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia do Ubuntu Deskop</a> » <a class="trail" href="hardware.html" title="Hardware e drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemas comuns">Problemas</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Problemas com leitor de cartões de memória.</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Muitos computadores contém leitores para SD (Secure Digital), MMC (MultiMediaCard), SmartMedia, Memory Stick, CompactFlash, e outros cartões de memória. Eles devem ser automaticamente detectados e <span class="link"><a href="disk-partitions.html" title="Gerencie volumes e partições">montados</a></span>. Aqui seguem alguns passos para resolução de problemas caso isso não ocorra:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Assegure-se de que o cartão está colocado corretamente. Muitos cartões parecem que estão de cabeça para baixo quando inseridos corretamente. Assegure-se também que o cartão está assentado corretamente na entrada. Alguns cartões, especialmente o CampactFlash, requerem um pouco de força para serem inseridos corretamente. Tome cuidado para não empurrar com força demais! Se você encontrar algo sólido, não force o cartão.</p></li>
+<li class="steps"><p class="p">Abra <span class="app">Arquivos</span> usando o <span class="gui">Painel</span>. O cartão inserido aparece na lista de <span class="gui">Dispositivos</span> na barra lateral esquerda? Algumas vezes o cartão aparece na lista, mas não está montado; clique uma vez para montá-lo. (Se a barra lateral não está visível, pressione <span class="key"><kbd>F9</kbd></span> ou clique <span class="guiseq"><span class="gui">Ver</span> ▸ <span class="gui"> Barra Lateral</span> ▸ <span class="gui"> Mostrar a  barra lateral</span></span>.)</p></li>
+<li class="steps"><p class="p">Se o seu cartão não aparece na barra lateral, clique em <span class="guiseq"><span class="gui">Ir</span> ▸ <span class="gui">Computador</span></span>. Se o seu leitor de cartão estiver corretamente configurado, ele deverá aparecer como uma unidade quando nenhum cartão está presente, e como o próprio cartão quando o cartão tiver sido montado (veja na figura abaixo).</p></li>
+<li class="steps"><p class="p">Se você vir o leitor de cartão mas não o cartão, o problema pode ser o próprio cartão. Tente um outro cartão ou verifique o cartão em um leitor diferente, se possível.</p></li>
+</ol></div></div></div>
+<p class="p">Se nenhum cartão ou unidade estiver disponível na pasta <span class="gui">Computador</span>, é possível que seu leitor de cartão não funcione com o Linux devido a questões de driver. Se o seu leitor de cartão é interno (está dentro do computador em vez de estar fora), isso é mais provável. A melhor solução é conectar o seu dispositivo (câmera, telefone celular, etc) em uma porta USB do computador. Leitores de cartão USB externos também estão disponíveis e são muito melhor suportados pelo Linux.</p>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Mais informações</span></h2></div>
+<div class="region"><ul>
+<li class="links "><a href="media.html#photos" title="Fotos e câmeras digitais">Fotos</a></li>
+<li class="links "><a href="hardware.html#problems" title="Problemas comuns">Problemas de hardware</a></li>
+</ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

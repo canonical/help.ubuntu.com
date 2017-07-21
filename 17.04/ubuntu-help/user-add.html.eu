@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang=eu>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Add a new user account</title>
+<link rel="stylesheet" type="text/css" href="eu.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="User &amp; system settings">Settings</a> » <a class="trail" href="user-accounts.html" title="User accounts">Users</a> › <a class="trail" href="user-accounts.html#manage" title="Manage user accounts">Accounts</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Add a new user account</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">You can add multiple user accounts to your computer. Give one account
+  to each person in your household or company. Every user has their own
+  home folder, documents, and settings.</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Click the icon at the far right of the <span class="gui">menu bar</span> and select <span class="gui">System Settings</span>.</p></li>
+<li class="steps"><p class="p">Open <span class="gui">User Accounts</span>.</p></li>
+<li class="steps"><p class="p">You need <span class="link"><a href="user-admin-explain.html" title="How do administrative privileges work?">administrator privileges</a></span>
+  to add user accounts. Click <span class="gui">Unlock</span> in the top right corner and type
+  your password.</p></li>
+<li class="steps"><p class="p">In the list of accounts on the left, click the <span class="key"><kbd>+</kbd></span> button
+  to add a new user account.</p></li>
+<li class="steps"><p class="p">If you want the new user to have
+  <span class="link"><a href="user-admin-explain.html" title="How do administrative privileges work?">administrative access</a></span> to the computer,
+  select <span class="gui">Administrator</span> for the account type. Administrators can do things
+  like add and delete users, install software and drivers, and change the date and
+  time.</p></li>
+<li class="steps"><p class="p">Enter the new user's full name. The username will be filled in
+  automatically based on the full name. The default is probably OK, but you can
+  change it if you  like.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Create</span>.</p></li>
+<li class="steps">
+<p class="p">The account is initially disabled until you choose what to do about
+  the user's password. Under <span class="gui">Login Options</span> click <span class="gui">Account
+  disabled</span> next to <span class="gui">Password</span>. Select <span class="gui">Set a password now</span>
+  from the <span class="gui">Action</span> drop-down list, and have the user type their
+  password in the <span class="gui">New password</span> and <span class="gui">Confirm password</span> fields.
+  See <span class="link"><a href="user-goodpassword.html" title="Choose a secure password">Choose a secure password</a></span>.</p>
+<p class="p">You can also click the button next to the
+  <span class="gui">New password</span> field to select a randomly generated secure password.
+  These passwords are hard for others to guess, but they can be hard to remember,
+  so be careful.</p>
+</li>
+<li class="steps"><p class="p">Click <span class="gui">Change</span>.</p></li>
+</ol></div></div></div>
+<div class="note" title="Oharra"><div class="inner"><div class="region"><div class="contents"><p class="p">In the <span class="gui">User Accounts</span> window you can click the image next
+ to the user's name on the right to set an image for the account. This image will
+ be shown in the login window. GNOME provides some stock photos you can use, or
+ you can select your own or take a picture with your webcam.</p></div></div></div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Informazio gehiago</span></h2></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html#manage" title="Manage user accounts">Manage user accounts</a></li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Ikus ere</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="shell-guest-session.html" title="Launch a restricted guest session">Launch a restricted guest session</a><span class="desc"> — Let a friend or colleague borrow your computer in a secure manner.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang=lv>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Droša uzturēšanās internetā</title>
+<link rel="stylesheet" type="text/css" href="lv.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="net-general.html" title="Tīkla noteikumi un padomi">Tīkla noteikumi un padomi</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Droša uzturēšanās internetā</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Iespējams, ka iemesls, kāpēc lietojat Linux, ir tā spēcīgā drošība, ar ko tas ir pazīstams. Viens iemesls, kāpēc Linux ir salīdzinoši drošs no ļaunprogrammatūras un vīrusiem, ir tā mazākais lietotāju skaits. Vīrusi tiek mērķēti uz populārām operētājsistēmām, tādām kā Windows, kurām ir daudz lielāks lietotāju skaits. Linux ir arī ļoti drošs sakarā ar tā atvērtā koda dabu, kas ļauj ekspertiem mainīt un uzlabot drošības iespējas, kas iekļautas katrā distribūcijā.</p>
+<p class="p">Neskatoties uz pieņemtajiem mēriem, lai nodrošinātu, ka Linux instalācija ir droša, vienmēr pastāv ievainojamības. Kā vidējais interneta lietotājs, jūs varētu apdraudēt:</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p">Pikšķerēšanas shēmas (vietnes un e-pasti, kas, maldinot par savu identitāti, mēģina iegūt sensitīvus datus)</p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-email-virus.html" title="Vai man vajag skenēt savus e-pastus pret vīrusiem?">Ļaunprātīgu e-pastu pārsūtīšanas</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-antivirus.html" title="Vai man vajag anti-vīrus programmu?">Lietotnes ar ļaunprātīgiem nolūkiem (vīrusi)</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-wireless-wepwpa.html" title="Ko nozīmē WEP un WPA?">Nepilnvarota attālināta/lokāla tīkla piekļuve</a></span></p></li>
+</ul></div></div></div>
+<p class="p">Lai būtu drošs internetā, paturiet prātā šādus padomus:</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p">Uzmanieties no e-pastiem, pielikumiem vai saitēm, kas ir sūtīti no cilvēkiem, kurus nepazīstat.</p></li>
+<li class="list"><p class="p">Ja vietnes piedāvājums ir pārāk labs, lai būtu īsts, vai jautā pēc sensitīvas informācijas, kas šķiet nav nemaz vajadzīga, tad padomājiet divreiz par to, kādus datus jūs sniedzat un kādas ir potenciālās sekas, ja šie dati nonāk pie identitātes zagļiem vai citiem likuma pārkāpējiem.</p></li>
+<li class="list"><p class="p">Esiet uzmanīgi, atļaujot <span class="link"><a href="user-admin-explain.html" title="Kā strādā administratīvās tiesības?">root līmeņa tiesības</a></span> jebkurai lietotnei , it īpaši tām, kuras iepriekš neesat lietojuši vai lietotnes, kuras nav plaši zināmas. Iedodot jebkuram vai jebkam root līmeņa tiesības, jūs pakļaujat savu datoru augstam drošības ievainojamības riskam.</p></li>
+<li class="list"><p class="p">Pārliecinieties, ka ir palaisti tikai nepieciešamie attālinātas piekļuves pakalpojumi. SSH vai VNC var būt noderīgi, bet no otras puses tie pakļauj datoru uzbrukumiem, ja dators nav kārtīgi nodrošināts. Apsveriet izmantot <span class="link"><a href="net-firewall-on-off.html" title="Ieslēgt vai bloķēt ugunsmūra pieeju">ugunsmūri</a></span>, lai pasargātu datoru no uzbrukumiem.</p></li>
+</ul></div></div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-general.html" title="Tīkla noteikumi un padomi">Tīkla noteikumi un padomi</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="Atrodiet savu IP adresi.">Atrodi savu IP adresi</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Ko nozīmē WEP un WPA?">WEP un WPA drošība</a></span>, <span class="link"><a href="net-macaddress.html" title="Kas ir MAC adrese?">MAC adreses</a></span>, <span class="link"><a href="net-proxy.html" title="Norādīt starpnieka iestatījumus">starpnieki</a></span>…</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

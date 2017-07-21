@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang=tr>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>As a Domain Controller</title>
+<link rel="stylesheet" type="text/css" href="tr.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../16.04" class="trail">Ubuntu 16.04</a> » <a class="trail" href="index.html" title="Ubuntu Sunucu Rehberi">Ubuntu Sunucu Rehberi</a> » <a class="trail" href="samba.html" title="Samba">Samba</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="samba-fileprint-security.html" title="Securing File and Print Server">Önceki</a><a class="nextlinks-next" href="samba-ad-integration.html" title="Active Directory Integration">Sonraki</a>
+</div>
+<div class="hgroup"><h1 class="title">As a Domain Controller</h1></div>
+<div class="region">
+<div class="contents"><p class="para">Her ne kadar bir Aktif Dizin Birincil Alan kontrolörü (PDC) gibi çalışmazsa bile, Samba sunucu, bir Windows NT sitili alan kontrolörü gibi göstermek için yapılandırılabilir. Bu yapılandırmanın büyük bir avantajı kullanıcı ve makine kimliklerini merkezde toplayabilmesidir. Ayrıca Samba kullanıcı bilgilerini depolamak için çoklu arka uçlar kullanabilir.</p></div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="samba-dc.html#samba-pdc-smbpasswd" title="Birincil Alan Kontrolörü">Birincil Alan Kontrolörü</a></li>
+<li class="links"><a class="xref" href="samba-dc.html#samba-bdc-smbpasswd" title="Yedek Alan Denetimcisi">Yedek Alan Denetimcisi</a></li>
+<li class="links"><a class="xref" href="samba-dc.html#samba-dc-resources" title="Kaynaklar">Kaynaklar</a></li>
+</ul></div>
+<div class="sect2 sect" id="samba-pdc-smbpasswd"><div class="inner">
+<div class="hgroup"><h2 class="title">Birincil Alan Kontrolörü</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Bu bölüm Samba'yı varsayılan smbpasswd arka uç kullanarak Birincil Alan Kontrolörü (PDC) gibi yapılandırmayı içerir.</p>
+<div class="steps"><div class="inner"><ol class="steps">
+<li class="steps">
+
+          <p class="para">
+          First, install Samba, and <span class="app application">libpam-winbind</span> to sync the user accounts,
+          by entering the following in a terminal prompt:
+          </p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install samba libpam-winbind</span>
+</pre></div>
+        
+        </li>
+<li class="steps">
+
+          <p class="para">Sonra, <span class="file filename">/etc/samba/smb.conf</span>'i düzenleyerek Samba'yı yapılandırın <span class="em emphasis">güvenlik</span> kipi, <span class="em emphasis">kullanıcı</span> ve <span class="em emphasis">çalışma grubu</span> ile ilgili organizasyonunu ayarla:</p>
+
+<div class="code"><pre class="contents ">   workgroup = ÖRNEK
+   ...
+   security = kullanıcı
+</pre></div>
+
+        </li>
+<li class="steps">
+
+          <p class="para">
+          In the commented <span class="quote">“Domains”</span> section add or uncomment the following (the last line has been split to fit the format of this document):
+          </p>
+
+<div class="code"><pre class="contents ">   domain logons = yes
+   logon path = \\%N\%U\profile
+   logon drive = H:
+   logon home = \\%N\%U
+   logon script = logon.cmd
+   add machine script = sudo /usr/sbin/useradd -N -g machines -c Machine -d
+         /var/lib/samba -s /bin/false %u
+</pre></div>
+
+          <div class="note" title="Not"><div class="inner"><div class="region"><div class="contents">
+            <p class="para">Eğer <span class="em emphasis">Dolaşım Profilleri</span>'ni kullanmak istemiyorsan <span class="em emphasis">bağlantı evi</span> ve <span class="em emphasis">bağlantı yolu</span> seçeneklerini açıklamalı bırakın.</p>
+          </div></div></div></div>
+ 
+          <div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+              <p class="para"><span class="em emphasis">alan bağlantıları:</span> Samba'da bir alan kontrolörü gibi işlem gören ağ bağlantısı servisi sunar.</p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para"><span class="em emphasis">bağlantı yolu:</span> kullanıcıları Windows profilini onların kendi ev dizinine yerleştirir. Ayrıca tek bir dizin altında bütün profilleri <span class="em emphasis">[profiller]</span> paylaşım yeri yapılandırmak mümkündür</p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para"><span class="em emphasis">bağlantı sürücüsü:</span> yerel yolun ev dizinini belirtir.</p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para"><span class="em emphasis">bağlantı evi:</span> yerleşim ev dizinini belirtir.</p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para"><span class="em emphasis">bağlantı betiği:</span> kullanıcının ilk girdiğinde yerel olarak betiği çalıştırır. Betik <span class="em emphasis">[ağ bağlantısı]</span> paylaşımında olması gerekir.</p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para"><span class="em emphasis">makine betiği ekle:</span> alana girmeye yarayan çalışma istasyonu için gereken <span class="em emphasis">Makine Koruma Hesabı</span>'nı otomatik oluşturan betik.</p>
+              <p class="para">Bu örnekte <span class="em emphasis">makineler</span> grubu, <span class="app application">addgroup</span> uygulaması kullanılarak oluşturulmalıdır. Ayrıntılar için <a class="xref" href="user-management.html#adding-deleting-users" title="Kullanıcı Ekleme ve Silme">Kullanıcı Ekleme ve Silme</a>'a bakınız.</p>
+
+            </li>
+</ul></div>
+
+        </li>
+<li class="steps">
+     
+          <p class="para"><span class="em emphasis">bağlantı evi</span>'nin eşleşmesi için <span class="em emphasis">[evler]</span> paylaşımını açıklamasız bırakın:</p>
+
+<div class="code"><pre class="contents ">[evler]
+   açıklama = Ev Dizinleri
+   açılabilir = hayır
+   yalnız okunur = hayır
+   oluşturma maskesi = 0700
+   dizin maskesi = 0700
+   geçerli kullanıcılar = %S
+</pre></div>
+
+        </li>
+<li class="steps">
+
+          <p class="para">Bir <span class="em emphasis">[ağ bağlantısı]</span> paylaşımını alan kontrolörü gibi yapılandırılmalıdır. Paylaşımı aktifleştirmek için açıklamasız:</p>
+
+<div class="code"><pre class="contents ">[ağ bağlantısı]
+   açıklama = Ağ Bağlantı Servisi
+   yol = /srv/samba/netlogon
+   misafir erişimi = evet
+   yalnız okunur = evet
+   paylaşım kipleri = hayır
+</pre></div>
+
+          <div class="note" title="Not"><div class="inner"><div class="region"><div class="contents">
+            <p class="para">Orjinal <span class="em emphasis">ağ bağlantısı</span> paylaşım yolu <span class="file filename">/home/samba/netlogon</span>'dur. Fakat, Dosya sistemi Hiyerarşi Standartı (FHS) kaydı, <a href="http://www.pathname.com/fhs/pub/fhs-2.3.html#SRVDATAFORSERVICESPROVIDEDBYSYSTEM" class="ulink" title="http://www.pathname.com/fhs/pub/fhs-2.3.html#SRVDATAFORSERVICESPROVIDEDBYSYSTEM">/srv</a> özel site veri sağlama sistem tarafından doğru yerdedir</p>
+          </div></div></div></div>
+
+        </li>
+<li class="steps">
+
+          <p class="para">Şimdi <span class="file filename">ağ bağlantısı</span> dizini ve şimdilik boş olan bir <span class="file filename">logon.cmd</span> betik dosyası oluştur:</p> 
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo mkdir -p /srv/samba/netlogon</span>
+<span class="cmd command">sudo touch /srv/samba/netlogon/logon.cmd</span>
+</pre></div>
+ 
+          <p class="para">Herhangi normal bir Windows bağlantı betik komutunu istemci ortamlarını düzenlemek için <span class="file filename">logon.cmd</span> dosyasına girebilirsin.</p>
+
+        </li>
+<li class="steps">
+
+          <p class="para">
+          Restart Samba to enable the new domain controller:
+          </p> 
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo systemctl restart smbd.service nmbd.service</span>
+</pre></div>
+
+        </li>
+<li class="steps">
+
+          <p class="para">
+          Lastly, there are a few additional commands needed to setup the appropriate rights.
+          </p>
+
+          <p class="para">Normalde pasif olan <span class="em emphasis">root</span> ile çalışma istasyonu alanına, Windows <span class="em emphasis">Alan Yöneticileri</span> grubu ile eşleşen sistem grubu gerekir. <span class="app application">net</span> uygulamasını uçbirimde kullan:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo net groupmap add ntgroup="Alan Yöneticileri" unixgroup=sysadmin rid=512 type=d</span>
+</pre></div>
+
+          <div class="note" title="Not"><div class="inner"><div class="region"><div class="contents">
+            <p class="para"><span class="em emphasis">sysadmin</span>'i istediğin grupla değiştir. Ayrıca, alana girmek için kullanılan kullanıcı hem <span class="em emphasis">sysadmin</span> grubunun hem de <span class="em emphasis">admin</span> grubunun bir üyesi olmalıdır. <span class="em emphasis">admin</span> grubu <span class="app application">sudo</span> kullanımına izin verir.</p>
+            <p class="para">
+            If the user does not have Samba credentials yet, you can add them with
+            the <span class="app application">smbpasswd</span> utility, change the <span class="em emphasis">sysadmin</span> username appropriately:
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo smbpasswd -a sysadmin</span>
+</pre></div>
+            </p>
+          </div></div></div></div>
+
+          <p class="para">Ayrıca, <span class="em emphasis">add machine script</span> (ve diğer admin fonksiyonlarını) çalıştırmaları için <span class="em emphasis">Domain Admins</span> grubuna gereken izinler açıkça verilmiş olmalıdır. Bu işlem şu komut çalıştırılarak sağlanır:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">net rpc rights grant -U sysadmin "EXAMPLE\Domain Admins" SeMachineAccountPrivilege \
+SePrintOperatorPrivilege SeAddUsersPrivilege SeDiskOperatorPrivilege \
+SeRemoteShutdownPrivilege</span>
+</pre></div>
+
+        </li>
+<li class="steps">
+
+          <p class="para">Şimdi Windows istemcilerine katılabilirsin. Alan, bir Windows sunucusundaki NT4 alanına giriyormuş gibi aynı davranışı gösterir.</p>
+
+        </li>
+</ol></div></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="samba-bdc-smbpasswd"><div class="inner">
+<div class="hgroup"><h2 class="title">Yedek Alan Denetimcisi</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Ağdaki Birincil Alan Kontrolörü (PDC), Yedek Alan Kontrolörüne sahip olanların en iyisidir. Bu, istemci PDC'lerinin kullanılamaz olmasına izin verir.</p>
+<p class="para">Samba'yı bir BDC gibi yapılandırdığında, PDC hesap bilgisi ile senkronize olacak bir yol gerekir. Bunu yapmanın birçok yolu vardır. Bazıları <span class="app application">scp</span>, <span class="app application">rsync</span> veya <span class="em emphasis">passdb backend</span> gibi <span class="app application">LDAP</span> kullanmaktır .</p>
+<p class="para">LDAP'ı kullanma, hesap bilgisi senkronize etmek için en sağlam yoldur. Çünkü her iki alan kontrolörü gerçekte aynı bilgiyi kullanır. Yine deLDAP sunucu ayarlama, az sayıdaki bilgisayar ve kullanıcılar için aşırı karmaşıktır. Ayrıntılar için <a class="xref" href="samba-ldap.html" title="Samba ve LDAP">Samba ve LDAP</a>'a bakınız.</p>
+<div class="steps"><div class="inner"><ol class="steps">
+<li class="steps">
+   
+          <p class="para">
+          First, install <span class="app application">samba</span> and <span class="app application">libpam-winbind</span>.  From a terminal enter:
+          </p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install samba libpam-winbind</span>
+</pre></div>
+
+        </li>
+<li class="steps">
+
+          <p class="para">Şimdi <span class="file filename">/etc/samba/smb.conf</span>'i düzenle <span class="em emphasis">[global]</span>'da açıklamasız olarak şöyle yaz:</p>
+
+<div class="code"><pre class="contents ">   workgroup = ÖRNEK
+   ...
+   security = kullanıcı
+</pre></div>
+
+        </li>
+<li class="steps">
+
+        <p class="para">Açıklamada <span class="em emphasis">Alanlar</span>'ı açıklamasız bırak veya ekle:</p>
+
+<div class="code"><pre class="contents ">   alan bağlantıları = evet
+   master alan = hayır
+</pre></div>
+        
+        </li>
+<li class="steps">
+
+          <p class="para">Bir kullanıcının <span class="file filename">/var/lib/samba</span> dosyalarını okumaya hakkı olduğundan emin ol. Örneğin; <span class="em emphasis">admin</span> grubundaki kullanıcılara <span class="app application">scp</span> dosyalarında  izin vermek için giriniz:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo chgrp -R admin /var/lib/samba</span>
+</pre></div>
+
+        </li>
+<li class="steps">
+
+          <p class="para">Sonra, kullanıcı hesabına PDC'den <span class="file filename">/var/lib/samba</span> dizini kopyalamak için <span class="app application">scp</span> kullan:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo scp -r kullanıcı@pdc:/var/lib/samba /var/lib</span>
+</pre></div>
+
+          <div class="note" title="Not"><div class="inner"><div class="region"><div class="contents">
+            <p class="para"><span class="em emphasis">kullanıcı</span> ve <span class="em emphasis">pdc</span>'yi senin aktif olan alan adı ve IP Adresi ile değiştir.</p>
+          </div></div></div></div>
+
+        </li>
+<li class="steps">
+          
+          <p class="para">Son olarak, <span class="app application">samba</span>'yı yeniden başlat:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo systemctl restart smbd.service nmbd.service</span>
+</pre></div>
+
+        </li>
+</ol></div></div>
+<p class="para">Çalışan Yedek Alan kontrolörünü durdurarak test edebilirsin. Sonra Windows istemcisine girmeyi deneyin.</p>
+<p class="para">Akılda tutulması gereken diğer şey, <span class="em emphasis">bağlantı evi</span> seçeneğinin PDC'de bir dizin gibi yapılandırılıp yapılandırılmadığıdır. PDC ve kullanıcı <span class="em emphasis">Ev</span> sürücüsü kullanılamaz olacak. Bu sebepten dolayı PDC ve BDC'den <span class="em emphasis">bağlantı evi</span>'ni yapılandırmak en iyisidir.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="samba-dc-resources"><div class="inner">
+<div class="hgroup"><h2 class="title">Kaynaklar</h2></div>
+<div class="region"><div class="contents"><div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+          <p class="para">Sambanın gelişmiş yapılandırmaları için <a href="http://samba.org/samba/docs/man/Samba-HOWTO-Collection/" class="ulink" title="http://samba.org/samba/docs/man/Samba-HOWTO-Collection/">Samba HOWTO Collection</a>'a bakınız.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">Kılavuz ayrıca, Amazon'da <a href="http://www.amazon.com/exec/obidos/tg/detail/-/0131882228" class="ulink" title="http://www.amazon.com/exec/obidos/tg/detail/-/0131882228">basılmış olarak</a> da bulunmaktadır.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">O'Reilly's <a href="http://www.oreilly.com/catalog/9780596007690/" class="ulink" title="http://www.oreilly.com/catalog/9780596007690/">Using Samba</a> iyi bir kaynaktır.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">Samba HOWTO Koleksiyonu <a href="http://samba.org/samba/docs/man/Samba-HOWTO-Collection/samba-pdc.html" class="ulink" title="http://samba.org/samba/docs/man/Samba-HOWTO-Collection/samba-pdc.html">4. Bölüm</a>'ü Birincil Alan Kontrolörü ayarlarını açıklar.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">Samba HOWTO Koleksiyonu <a href="http://us3.samba.org/samba/docs/man/Samba-HOWTO-Collection/samba-bdc.html" class="ulink" title="http://us3.samba.org/samba/docs/man/Samba-HOWTO-Collection/samba-bdc.html">5. Bölüm</a>'ü Yedek Alan Kontrolörünü açıklar.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><a href="https://help.ubuntu.com/community/Samba" class="ulink" title="https://help.ubuntu.com/community/Samba">Ubuntu Wiki Samba </a> sayfası.</p>
+        </li>
+</ul></div></div></div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="samba-fileprint-security.html" title="Securing File and Print Server">Önceki</a><a class="nextlinks-next" href="samba-ad-integration.html" title="Active Directory Integration">Sonraki</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p></div>
+</div>
+</body>
+</html>

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang=el>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Κάντε κλικ, σύρετε ή κυλήστε με την πινακίδα αφής</title>
+<link rel="stylesheet" type="text/css" href="el.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="mouse.html" title="Ποντίκι">Ποντίκι</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="mouse.html" title="Ποντίκι">Ποντίκι</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Κάντε κλικ, σύρετε ή κυλήστε με την πινακίδα αφής</span></h1></div>
+<div class="region">
+<div class="contents"><p class="p">Μπορείτε να κάνετε απλό κλικ, διπλό κλικ, να σύρετε και να κυλίσετε χρησιμοποιώντας μόνο την πινακίδα αφής σας, χωρίς ξεχωριστά πλήκτρα υλικού.</p></div>
+<div id="tap" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Πάτημα για κλικ</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Μπορείτε να πατήσετε την πινακίδα αφής σας για να κάνετε κλικ αντί να χρησιμοποιήσετε ένα κουμπί.</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Ποντίκι &amp; επιφάνεια αφής</span>.</p></li>
+<li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Ποντίκι &amp; πινακίδα αφής</span> για να ανοίξετε τον πίνακα.</p></li>
+<li class="steps">
+<p class="p">Στην ενότητα <span class="gui">Πινακίδα αφής</span>, επιλέξτε <span class="gui">Πάτημα για κλικ</span>.</p>
+<div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">Η ενότητα <span class="gui">Πινακίδα αφής</span> εμφανίζεται μόνο εάν το σύστημά σας έχει μια πινακίδα αφής.</p></div></div></div></div>
+</li>
+</ol></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p">Για κλικ, πατήστε στην πινακίδα αφής.</p></li>
+<li class="list"><p class="p">Για διπλό κλικ, πατήστε δυο φορές.</p></li>
+<li class="list"><p class="p">Για να σύρετε ένα στοιχείο, κάντε διπλό πάτημα αλλά μην σηκώσετε το δάκτυλό σας μετά το δεύτερο πάτημα. Σύρετε το στοιχείο όπου το θέλετε, έπειτα σηκώστε το δάκτυλό σας για απόθεση.</p></li>
+<li class="list"><p class="p">Εάν η πινακίδα αφής υποστηρίζει πατήματα πολλαπλών δακτύλων, κάντε δεξί κλικ πατώντας με δύο δάκτυλα μονομιάς. Αλλιώς, χρειάζεστε ακόμα να χρησιμοποιήσετε πλήκτρα υλικού για να κάνετε δεξί κλικ. Δείτε <span class="link"><a href="a11y-right-click.html" title="Προσομοίωση δεξιού κλικ του ποντικιού">Προσομοίωση δεξιού κλικ του ποντικιού</a></span> για μια μέθοδο δεξιού κλικ χωρίς ένα δεύτερο πλήκτρο ποντικιού.</p></li>
+<li class="list"><p class="p">Εάν η πινακίδα αφής υποστηρίζει πατήματα πολλαπλών δακτύλων, <span class="link"><a href="mouse-middleclick.html" title="Μεσαίο κλικ">μεσαίο κλικ</a></span> πιέζοντας με τρία δάκτυλα μονομιάς.</p></li>
+</ul></div></div></div>
+<div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">Όταν πατάτε ή σύρετε με πολλά δάκτυλα, βεβαιωθείτε ότι τα δάκτυλά σας απλώνονται αρκετά μακριά. Εάν τα δάκτυλά σας είναι υπερβολικά κοντά, ο υπολογιστής σας μπορεί να θεωρήσει ότι είναι ένα μονό δάκτυλο.</p></div></div></div></div>
+</div></div>
+</div></div>
+<div id="twofingerscroll" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Κύλιση με δυο δάκτυλα</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Μπορείτε να κυλίσετε την πινακίδα αφής σας χρησιμοποιώντας δύο δάκτυλα.</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Ποντίκι &amp; επιφάνεια αφής</span>.</p></li>
+<li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Ποντίκι &amp; πινακίδα αφής</span> για να ανοίξετε τον πίνακα.</p></li>
+<li class="steps"><p class="p">Στην ενότητα <span class="gui">Πινακίδα αφής</span>, επιλέξτε <span class="gui">Κύλιση με δύο δάκτυλα</span>.</p></li>
+</ol></div></div></div>
+<p class="p">Όταν αυτό επιλέγεται, πατώντας και σύροντας με ένα δάκτυλο θα δουλέψει κανονικά, αλλά εάν σύρετε με δύο δάκτυλα κατά μήκος οποιουδήποτε μέρους της πινακίδα αφής, θα κυλίσει. Μετακινήστε τα δάκτυλά σας μεταξύ της κορυφής και του τέλους της πινακίδας αφής για να κυλίσετε προς τα πάνω και προς τα κάτω, ή μετακινήστε τα δάκτυλά σας κατά πλάτος για πλευρική κύλιση. Να είσαστε προσεκτικοί να τοποθετήσετε τα δάκτυλά σας κάπως μακριά. Εάν τα δάκτυλά σας είναι υπερβολικά κοντά μαζί, φαίνονται σαν ένα μεγάλο δάκτυλο στην πινακίδα αφής σας.</p>
+<div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">Η κύλιση με δύο δάκτυλα μπορεί να μην δουλέψει με όλες τις πινακίδες αφής.</p></div></div></div></div>
+</div></div>
+</div></div>
+<div id="contentsticks" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Φυσική κύλιση</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Μπορείτε να σύρετε το περιεχόμενο σαν να γλιστράτε ένα φυσικό κομμάτι χαρτιού χρησιμοποιώντας την πινακίδα αφής.</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Ποντίκι &amp; επιφάνεια αφής</span>.</p></li>
+<li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Ποντίκι &amp; πινακίδα αφής</span> για να ανοίξετε τον πίνακα.</p></li>
+<li class="steps"><p class="p">Στην ενότητα <span class="gui">Πινακίδα αφής</span>, επιλέξτε <span class="gui">Φυσική κύλιση</span>.</p></li>
+</ol></div></div></div>
+<div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">Αυτή η λειτουργία είναι επίσης γνωστή ως <span class="em">Αντίστροφη κύλιση</span>.</p></div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="mouse.html" title="Ποντίκι">Ποντίκι</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="Χρησιμοποιήστε το αριστερό ποντίκι">Αριστερόχειρες</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Προσαρμογή ταχύτητας του ποντικιού και τις πινακίδας αφής">Ταχύτητα και ευαισθησία</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Κάντε κλικ, σύρετε ή κυλήστε με την πινακίδα αφής">Πάτημα πινακίδας αφής και κύλιση</a></span>…</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

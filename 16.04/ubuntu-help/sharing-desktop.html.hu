@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=hu>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Az asztal megosztása</title>
+<link rel="stylesheet" type="text/css" href="hu.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Súgó"></span></span> Ubuntu felhasználói kézikönyv</a> » <a class="trail" href="net.html" title="Hálózatok, web, e-mail és csevegés">Hálózatok, web, e-mail és csevegés</a> » <a class="trail" href="sharing.html" title="Megosztás">Megosztás</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Az asztal megosztása</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Lehetővé teheti másoknak, hogy egy asztalmegjelenítő alkalmazás segítségével megjelenítsék és irányítsák asztalát egy másik számítógépről. Az <span class="app">Asztal megosztása</span> beállítóablakban lehetővé teheti másoknak az asztala elérését, és megadhatja a biztonsági beállításokat is.</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">A <span class="gui">Dashban</span> nyissa meg az <span class="app">Asztal megosztása</span> alkalmazást.</p></li>
+<li class="steps"><p class="p">A <span class="gui">Más felhasználók láthatják az asztalát</span> jelölőnégyzet bejelölésével engedélyezheti, hogy mások megjelenítsék az asztalát. Ez azt jelenti, hogy mások megpróbálhatnak csatlakozni a számítógépéhez, és láthatják képernyője tartalmát.</p></li>
+<li class="steps"><p class="p">A <span class="gui">Más felhasználók irányíthatják az asztalát</span> jelölőnégyzet bejelölésével engedélyezheti, hogy mások felügyeljék az asztalát. Ez azt jelenti, hogy mások mozgathatják az egérmutatóját, alkalmazásokat futtathatnak és fájlokat böngészhetnek a számítógépén, az éppen Ön által használt biztonsági beállításoktól függően.</p></li>
+</ol></div></div></div>
+</div>
+<div id="security" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Biztonság</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Gondolja át az egyes biztonsági beállítások használatának következményeit, mielőtt engedélyezi azokat.</p>
+<div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms">Hozzáférés megadása a gépéhez</dt>
+<dd class="terms">
+<p class="p">Ha szeretné eldönteni, hogy egy adott személynek engedélyezi-e a hozzáférést az asztalához, jelölje be a <span class="gui">Meg kell erősítenie minden kapcsolódást a számítógéphez</span> négyzetet. Ha ezt kikapcsolja, akkor a rendszer nem kérdez rá, hogy engedélyezi-e a hozzáférést a számítógépéhez annak, aki éppen ezzel próbálkozik.</p>
+<div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">Ez a beállítás alapesetben engedélyezve van.</p></div></div></div></div>
+</dd>
+<dt class="terms">Jelszó engedélyezése</dt>
+<dd class="terms">
+<p class="p"><span class="gui">A felhasználónak meg kell adnia ezt a jelszót</span> négyzet kiválasztásával megkövetelheti másoktól jelszó használatát a számítógépéhez való csatlakozás előtt. Ha nem használja ezt a beállítást, akkor bárki megpróbálhatja megjeleníteni az asztalát.</p>
+<div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">Ez a beállítás alapesetben le van tiltva, de engedélyezze, és adjon meg egy jelszót.</p></div></div></div></div>
+</dd>
+<dt class="terms">Asztalának elérhetővé tétele az interneten keresztül</dt>
+<dd class="terms">
+<p class="p">Ha routere támogatja az UPnP Internet Gateway Device Protocolt, és ez engedélyezett, akkor lehetővé teheti az asztala megjelenítését a helyi hálózaton kívülről is. Ennek engedélyezéséhez jelölje be az <span class="gui">UPnP router automatikus beállítása portok megnyitására és továbbítására</span> négyzetet. Ennek alternatívájaként a routert saját kezűleg is beállíthatja.</p>
+<div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">Ez a beállítás alapesetben le van tiltva.</p></div></div></div></div>
+</dd>
+</dl></div></div></div>
+</div></div>
+</div></div>
+<div id="notification-icon" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Értesítésiterület-ikon megjelenítése</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Ahhoz, hogy az asztalát éppen megjelenítő felhasználót leválaszthassa, engedélyeznie kell ezt a beállítást. Ha a <span class="gui">Mindig</span> beállítást választja, akkor ez az ikon attól függetlenül látható lesz, hogy éppen megjeleníti-e valaki az asztalát.</p>
+<div class="note note-warning" title="Figyelmeztetés"><div class="inner"><div class="region"><div class="contents"><p class="p">Ha ez a beállítás le van tiltva, akkor a biztonsági beállításoktól függően lehetséges, hogy valaki az Ön tudomása nélkül kapcsolódjon asztalához.</p></div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">További információk</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="sharing.html" title="Megosztás">Megosztás</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Az asztal megosztása">Asztalmegosztás</a></span>, <span class="link"><a href="files-share.html" title="Fájlok megosztása és átvitele">Fájlok megosztása</a></span>…</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=ug>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>سىمسىز توردىكى مەسىلىلەرنى ھەل قىلىش</title>
+<link rel="stylesheet" type="text/css" href="ug.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="ئۇبۇنتۇ ئۈستەلئۈستى قوللانمىسى"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="ياردەم"></span></span> ئۇبۇنتۇ ئۈستەلئۈستى قوللانمىسى</a> » <a class="trail" href="net.html" title="تورغا باغلاش، تور كۆرۈش، ئېلخەت ۋە مۇڭدىشىش">تورغا باغلاش، تور كۆرۈش، ئېلخەت ۋە مۇڭدىشىش</a> » <a class="trail" href="net-wireless.html" title="سىمسىز تور">سىمسىز تور</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="ئۇبۇنتۇ ئۈستەلئۈستى قوللانمىسى"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="ياردەم"></span></span> ئۇبۇنتۇ ئۈستەلئۈستى قوللانمىسى</a> » <a class="trail" href="hardware.html" title="قاتتىق دېتال ۋە قوزغاتقۇلار">قاتتىق دېتال</a> › <a class="trail" href="hardware.html#problems" title="كۆپ كۆرۈلىدىغان مەسىلىلەر">مەسىلىلەر</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks"><a class="nextlinks-next" href="net-wireless-troubleshooting-initial-check.html" title="سىمسىز توردىكى مەسىلىلەرنى ھەل قىلىش">كېيىنكى</a></div>
+<div class="hgroup"><h1 class="title"><span class="title">سىمسىز توردىكى مەسىلىلەرنى ھەل قىلىش</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">بۇ قەدەممۇ-قەدەم قىيىن مەسىلىگە جاۋاب يېتەكچىسى بولۇپ سىزگە ياردەملىشىپ سىمسىز تور مەسىلىسىنى ئىزدەپ ھەل قىلىدۇ. ئەگەر سىمسىز تورغا باغلىنالمىسىڭىز تۆۋەندىكى يېتەكچىنى سىناڭ.</p>
+<p class="p">بىز تۆۋەندىكى قەدەم باسقۇچ ئارقىلىق كومپيۇتېرىڭىزنى ئىنتېرنېتقا باغلايمىز:</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact">
+<li class="list"><p class="p">دەسلەپكى تەكشۈرۈشنى ئىجرا قىلىش</p></li>
+<li class="list"><p class="p">قاتتىق دېتالىڭىزغا ئائىت ئۇچۇرلارنى توپلاش</p></li>
+<li class="list"><p class="p">قاتتىق دېتالىڭىزنى تەكشۈرۈش</p></li>
+<li class="list"><p class="p">سىمسىز يېتەكلىگۈچكە باغلىنىشنى سىناش</p></li>
+<li class="list"><p class="p">مودېم ۋە يېتەكلىگۈچنى تەكشۈرۈشنى ئىجرا قىلىش</p></li>
+</ul></div></div></div>
+<p class="p">مەشغۇلاتنى باشلاشتا، بەتنىڭ ئوڭ ئۈستىدىكى <span class="em">كېيىنكى</span> ئۇلىنىشنى چېكىڭ. بۇ ئۇلىنىش ۋە ئۇنىڭ كەينىدىكى ئوخشاپ كېتىدىغان ئۇلىنىش سىزنى يېتەكچىنىڭ ھەر قايسى قەدەم باسقۇچلىرىنى تاماملاشقا يېتەكچىلىك قىلىدۇ.</p>
+<div class="note" title="ئىزاھات"><div class="inner">
+<div class="title title-note"><h2><span class="title">بۇيرۇق قۇرى ئىشلىتىش</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Some of the instructions in this guide ask you to type commands into the <span class="em">command line</span> (Terminal). You can find the Terminal application in the <span class="gui">Dash</span>.</p>
+<p class="p">ئەگەر بۇيرۇق ئىشلىتىشتە پىششىق بولسىڭىز، ئەنسىرىمىسىڭىزمۇ بولىدۇ، بۇ يېتەكچى ھەر بىر قەدەم باسقۇچتا تەپسىلىي يېتەكچىنى كۆرسىتىدۇ. پەقەت ھەممە بۇيرۇقنىڭ چوڭ كىچىك يېزىلىشنى پەرقلەندۈرىدىغانلىقى، كىرگۈزگەن ھەممە بۇيرۇقنىڭ مەزكۇر يېتەكچىدە كۆرسىتىلگەن بىلەن <span class="em">تامامەن</span> ئوخشاش بولىدىغانلىقىنى ئەستە تۇتۇڭ، ئاخىرىدا بۇيرۇقنى كىرگۈزۈپ بولۇپ <span class="key"><kbd>Enter</kbd></span> نى بېسىشنى ئۇنتۇماڭ.</p>
+</div></div>
+</div></div>
+</div>
+<div class="links nextlinks"><a class="nextlinks-next" href="net-wireless-troubleshooting-initial-check.html" title="سىمسىز توردىكى مەسىلىلەرنى ھەل قىلىش">كېيىنكى</a></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">تېخىمۇ كۆپ ئۇچۇر</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="net-wireless.html" title="سىمسىز تور">سىمسىز تور</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html" title="سىمسىز تورغا باغلىنىش">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html" title="يوشۇرۇن سىمسىز تورغا باغلىنىش">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-edit-connection.html" title="سىمسىز باغلىنىشنى تەھرىرلەش">Edit connection settings</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html" title="سىمسىز تور نېمىشقا ھەمىشە ئۈزۈلۈپ كېتىدۇ؟">Disconnecting</a></span>…
+    </span>
+</li>
+<li class="links "><a href="hardware.html#problems" title="كۆپ كۆرۈلىدىغان مەسىلىلەر">قاتتىق دېتالدىكى مەسىلىلەر</a></li>
+</ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">مۇناسىۋەتلىك مەزمۇنلار</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless-connect.html" title="سىمسىز تورغا باغلىنىش">سىمسىز تورغا باغلىنىش</a><span class="desc"> — ئىنتېرنېتقا سىمسىز باغلىنىدۇ.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

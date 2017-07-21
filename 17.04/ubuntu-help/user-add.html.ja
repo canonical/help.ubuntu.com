@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang=ja>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>新しいユーザーアカウントの追加</title>
+<link rel="stylesheet" type="text/css" href="ja.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="ヘルプ"></span></span>Ubuntu デスクトップガイド</a> » <a class="trail" href="prefs.html" title="ユーザーとシステムの設定">設定</a> » <a class="trail" href="user-accounts.html" title="ユーザーアカウント">ユーザー</a> › <a class="trail" href="user-accounts.html#manage" title="ユーザーアカウントの管理">アカウント</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">新しいユーザーアカウントの追加</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">お使いのコンピューターには、複数のユーザーアカウントを追加できます。自宅や会社の各人にそれぞれアカウントを登録します。各ユーザーは、自分自身のフォルダー、ドキュメントおよび設定を持ちます。</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p"><span class="gui">メニューバー</span>の右端にあるアイコンをクリックし、<span class="gui">システム設定</span>を選択してください。</p></li>
+<li class="steps"><p class="p"><span class="gui">ユーザーアカウント</span>を開きます。</p></li>
+<li class="steps"><p class="p">You need <span class="link"><a href="user-admin-explain.html" title="管理者権限はどのように動作しますか?">administrator privileges</a></span>
+  to add user accounts. Click <span class="gui">Unlock</span> in the top right corner and type
+  your password.</p></li>
+<li class="steps"><p class="p">アカウント一覧の左側にある、<span class="key"><kbd>+</kbd></span>ボタンをクリックして新しいユーザーアカウントを追加します。</p></li>
+<li class="steps"><p class="p">新しいユーザーに、お使いのコンピューターの<span class="link"><a href="user-admin-explain.html" title="管理者権限はどのように動作しますか?">管理者権限</a></span>を与える場合は、アカウントの種類で<span class="gui">管理者</span>を選択します。管理者は、ユーザーの追加や削除、ソフトウェアやドライバーのインストール、日付や時刻の変更などができます。</p></li>
+<li class="steps"><p class="p">ユーザーのフルネームを入力します。ユーザー名は、フルネームに基づいて自動的に入力されます。デフォルトのユーザー名でもおそらく問題ないでしょうが、お好みのものに変更してもかまいません。</p></li>
+<li class="steps"><p class="p"><span class="gui">作成</span>をクリックします。</p></li>
+<li class="steps">
+<p class="p">The account is initially disabled until you choose what to do about
+  the user's password. Under <span class="gui">Login Options</span> click <span class="gui">Account
+  disabled</span> next to <span class="gui">Password</span>. Select <span class="gui">Set a password now</span>
+  from the <span class="gui">Action</span> drop-down list, and have the user type their
+  password in the <span class="gui">New password</span> and <span class="gui">Confirm password</span> fields.
+  See <span class="link"><a href="user-goodpassword.html" title="安全なパスワードを選択する">安全なパスワードを選択する</a></span>.</p>
+<p class="p">あるいは、<span class="gui">新しいパスワード</span>欄の横のボタンをクリックして、ランダムに生成された安全なパスワードを選択することもできます。このパスワードは、他の人が推測するのは困難ですが、ユーザー自身が思い出すのも難しいでしょう。扱いにはご注意ください。</p>
+</li>
+<li class="steps"><p class="p"><span class="gui">変更</span>をクリックします。</p></li>
+</ol></div></div></div>
+<div class="note" title="注記"><div class="inner"><div class="region"><div class="contents"><p class="p">In the <span class="gui">User Accounts</span> window you can click the image next
+ to the user's name on the right to set an image for the account. This image will
+ be shown in the login window. GNOME provides some stock photos you can use, or
+ you can select your own or take a picture with your webcam.</p></div></div></div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">詳細</span></h2></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html#manage" title="ユーザーアカウントの管理">ユーザーアカウントの管理</a></li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">関連項目</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="shell-guest-session.html" title="制限付きのゲストセッションの起動">制限付きのゲストセッションの起動</a><span class="desc"> — 友人や同僚に安全な方法でコンピューターを貸す。</span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

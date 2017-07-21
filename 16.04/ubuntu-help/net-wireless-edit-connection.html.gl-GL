@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=gl-GL>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Editar a conexión sen fíos</title>
+<link rel="stylesheet" type="text/css" href="gl.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do escritorio de Ubuntu</a> » <a class="trail" href="net.html" title="Rede, web, correo electrónico e chat">Rede, web, correo electrónico e chat</a> » <a class="trail" href="net-wireless.html" title="Redes sen fíos">Redes sen fíos</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Editar a conexión sen fíos</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Este tema describe todas as opcións dispoñíbeis para editar unha conexión de rede sen fíos. Para facelo, prema no <span class="gui">menú de rede</span> na barra do menú e seleccione <span class="gui">Editar conexións</span>.</p>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">A maioría das redes non terán ningún problema se se deixa esta configuración predeterminada, polo que probabelmente non será necesario cambiar ningunha delas. Moitas das opcións que aquí se proporcionan daranlle un maior control sobre redes máis avanzadas.</p></div></div></div></div>
+</div>
+<div id="available" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Dispoñíbel para todos os usuarios/Conectar automaticamente</span></h2></div>
+<div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">Conectar automaticamente</span></dt>
+<dd class="terms">
+<p class="p">Seleccione esta opción se desexa que o computador se tente conectar a esta rede sen fíos cando estea no rango de captura.</p>
+<p class="p">Algunhas redes están configuradas para conectarse automaticamente cando estean no rango, o computador conectarase á primeira que apareza na lapela <span class="gui">Sen fíos</span> na xanela <span class="gui">Conexións de rede</span>. Non se desconectará dunha rede dispoñíbel para conectarse a outra diferente que acaba de entrar no rango.</p>
+</dd>
+<dt class="terms"><span class="gui">Dispoñíbel para todos os usuarios</span></dt>
+<dd class="terms">
+<p class="p">Marque isto se quere que todos os usuarios do seu computador poidan acceder a esta rede sen fíos. Se a rede ten un <span class="link"><a href="net-wireless-wepwpa.html" title="Que significa WEP e WPA?">contrasinal WEP/WPA</a></span> e marca esta opción, só terá que escribir o contrasinal unha vez. O resto de usuarios no seu computador poderán conectarse á rede sen ter o contrasinal.</p>
+<p class="p">Se marca esta opción, ten que ser un <span class="link"><a href="user-admin-explain.html" title="Como funcionan os privilexios administrativos?">administrador</a></span> para cambiar a configuración desta rede. Pódeselle pedir que escriba o seu contrasinal de administrador.</p>
+</dd>
+</dl></div></div></div></div></div>
+</div></div>
+<div id="wireless" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Sen fíos</span></h2></div>
+<div class="region">
+<div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">SSID</span></dt>
+<dd class="terms"><p class="p">Este é o nome da rede sen fíos á que se conecta, tamén coñecido como o <span class="em">Service Set Identifier</span>. Non o modifique a menos que xa cambiara o nome da rede sen fíos (por exemplo, ao cambiar a configuración do seu enrutador sen fíos ou estación base).</p></dd>
+<dt class="terms"><span class="gui">Modo</span></dt>
+<dd class="terms">
+<p class="p">Use isto para especificar se está conectado a unha rede de <span class="gui">Infraestrutura</span> (onde os computadores  se conectan sen fíos a un router ou estación base) ou a unha rede <span class="gui">Ad-hoc</span> (onde non hai unha estación base e os computadores se conectan entre si). A maioría de redes son do tipo infraestrutura pero quizais desexe <span class="link"><a href="net-wireless-adhoc.html" title="Crear un punto de acceso a unha rede sen fíos">configurar a súa propia rede ad-hoc</a></span> .</p>
+<p class="p">Se selecciona <span class="gui">Ad-hoc</span>, verá outras dúas opcións, <span class="gui">Banda</span> e <span class="gui">Canle</span>. Isto determina en que banda de frecuencia sen fíos funcionará a rede sen fíos ad-hoc. Algúns computadores só poden funcionar en certas bandas (por exemplo, só <span class="gui">A</span> ou só <span class="gui">B/G</span>), polo que debe escoller unha banda que todos os computadores na rede ad-hoc poidan usar). En lugares concorridos, o máis seguro é que existan varias redes sen fíos compartindo a mesma canle; isto pode ralentizar a súa conexión, polo que pode cambiar a canle que está usando.</p>
+</dd>
+<dt class="terms"><span class="gui">BSSID</span></dt>
+<dd class="terms"><p class="p">Este é o <span class="em">Identificador de conxunto de servizo básico</span>. O SSID (ver arriba) é o nome da rede que as persoas poden ler; o BSSID é o nome que o computador entende (é unha cadea de letras e números que supostamente é única na rede sen fíos). Se unha <span class="link"><a href="net-wireless-hidden.html" title="Conectar a unha rede sen fíos oculta">rede está oculta</a></span>, non terá un SSID pero si terá un BSSID.</p></dd>
+<dt class="terms"><span class="gui">Enderezo MAC do dispositivo</span></dt>
+<dd class="terms">
+<p class="p">O <span class="link"><a href="net-macaddress.html" title="Que é un enderezo MAC?">enderezo MAC</a></span> é un código que identifica un dispositivo hardware de rede (por exemplo, unha tarxeta sen fíos, unha tarxeta Ethernet ou un enrutador). Cada dispositivo que pode conectarse a unha rede ten un enderezo MAC que se lle asignou na fábrica.</p>
+<p class="p">Esta opción pódese usar para cambiar o enderezo MAC da súa tarxeta de rede.</p>
+</dd>
+<dt class="terms"><span class="gui">Enderezo MAC clonado</span></dt>
+<dd class="terms"><p class="p">O seu hardware de rede (tarxeta sen fíos) pode simular un enderezo MAC distinto. Isto é útil se ten un dispositivo ou servizo que só se comunica con certos enderezos MAC (por exemplo, un módem de banda larga por cable). Se estabelece ese enderezo MAC na caixa para o <span class="gui">enderezo MAC clonado</span>, o dispositivo/servizo asumirá o enderezo clonado cjomo se fose o real.</p></dd>
+<dt class="terms"><span class="gui">MTU</span></dt>
+<dd class="terms"><p class="p">Este axuste cambia a <span class="em">Unidade de transmisión máxima</span>, que é o tamaño máximo do anaco de datos que pode enviar pola rede. Cando os ficheiros se envían por unha rede, os datos córtanse en anacos máis pequenos (ou paquetes). O MTU óptimo para a súa rede dependerá da probabilidade da perda de paquetes (debido a unha conexión con ruido) e da velocidade da conexión. En xeral, non precisa cambiar esta configuración.</p></dd>
+</dl></div></div></div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">Vexa tamén</span></h3></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless-hidden.html" title="Conectar a unha rede sen fíos oculta">Conectar a unha rede sen fíos oculta</a><span class="desc"> — Prema no <span class="gui">menú de rede</span> na barra de menú e seleccione <span class="gui">Conectarse a unha rede sen fíos oculta</span>.</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+</div></div>
+<div id="security" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Seguranza sen fíos</span></h2></div>
+<div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">Seguranza</span></dt>
+<dd class="terms">
+<p class="p">Isto define o tipo de <span class="em">cifrado</span> que usa a súa rede sen fíos. As conexións cifradas axúdanlle a protexer a súa conexión sen fíos, polo que outras persoas non poderán «escoitar» e ver que sitios web está visitando.</p>
+<p class="p">Algúns tipos de cifrado son máis fortes que outros, pero poden ser incompatíbeis con equipos de redes sen fíos antigos. Normalmente precisa escribir un contrasinal para a conexión. Algúns tipos de seguranza máis sofisticados tamén requiren un nome de usuario e un «certificado» dixital. Vexa <span class="link"><a href="net-wireless-wepwpa.html" title="Que significa WEP e WPA?">Que significa WEP e WPA?</a></span> para obter máis información sobre os tipos de cifrado de redes sen fíos máis populares.</p>
+</dd>
+</dl></div></div></div></div></div>
+</div></div>
+<div id="ipv4" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Configuracións de IPv4</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Use esta lapela para definir información como o enderezo IP do computador e os servidores DNS que debe usar. Cambie o <span class="gui">Método</span> para ver as diferentes maneiras de obter/axustar esa información.</p>
+<p class="p">Están dispoñíbeis os seguintes métodos:</p>
+<div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">Automático (DHCP)</span></dt>
+<dd class="terms"><p class="p">Obtén información como o enderezo IP e o servidor DNS para usar desde o <span class="em">servidor DHCP</span>. Un servidor DHCP é un computador (ou outro dispositivo, como un enrutador) conectado á rede que decide que configuración de rede debe ter o seu computador. Cando se conecta por primeira vez á rede, asignaránselle automaticamente as configuracións correctas. A maioría das redes usan DHCP.</p></dd>
+<dt class="terms"><span class="gui">Só enderezos automáticos (DHCP)</span></dt>
+<dd class="terms"><p class="p">Se escolle esta configuración, o computador obterá o enderezo IP desde un servidor DHCP, pero terá que definir de forma manual o resto da información (como o servidor DNS a usar).</p></dd>
+<dt class="terms"><span class="gui">Manual</span></dt>
+<dd class="terms"><p class="p">Seleccione esta opción se quere definir toda a configuración da rede, incluíndo o enderezo IP que o computador debe usar.</p></dd>
+<dt class="terms"><span class="gui">Só ligazón local</span></dt>
+<dd class="terms"><p class="p">A <span class="em">Ligazón local</span> é unha forma de conectar computadores nunha rede sen requirir un servidor DHCP nin definir manualmente os enderezos IP e outra información. Se se conecta a unha rede de Ligazón local, os computadores decidirán por si mesmos que enderezos IP usar. Isto é útil se quere conectar temporalmente algúns computadores para que se poidan comunicar entre eles.</p></dd>
+<dt class="terms"><span class="gui">Desactivada</span></dt>
+<dd class="terms"><p class="p">Esta opción desactivará a conexión de rede e non lle permitirá conectarse. Teña en conta que <span class="gui">IPv4</span> e <span class="gui">IPv6</span> trátanse como conexións separadas incluso se funcionan pola mesma tarxeta de rede. Se ten unha delas activada, quizais desexe desactivar a outra.</p></dd>
+</dl></div></div></div>
+</div></div>
+</div></div>
+<div id="ipv6" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Configuracións de IPv6</span></h2></div>
+<div class="region"><div class="contents"><p class="p">É similar á lapela <span class="gui">IPv4</span> agás en que funciona co novo estándar IPv6. As redes máis modernas usan IPv6, pero IPv4 segue sendo máis popular polo momento.</p></div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Máis información</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless.html" title="Redes sen fíos">Redes sen fíos</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Conectarse a unha rede sen fíos">Conectar a unha rede sen fíos</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Conectar a unha rede sen fíos oculta">Redes ocultas</a></span>, <span class="link"><a href="net-wireless-edit-connection.html" title="Editar a conexión sen fíos">Editar os axustes da conexión</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Por que a rede sen fíos se desconecta de cando en vez?">Desconexión</a></span>…</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

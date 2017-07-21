@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang=uk>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Діагностика бездротових мереж</title>
+<link rel="stylesheet" type="text/css" href="uk.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Керівництво користувача Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Керівництво користувача Ubuntu</a> » <a class="trail" href="net.html" title="Мережі, Інтернет, електронна пошта й балачки">Мережі, Інтернет, електронна пошта й балачки</a> » <a class="trail" href="net-wireless.html" title="Бездротові мережі">Бездротові мережі</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Діагностика бездротових мереж">Діагностика бездротових мереж</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Керівництво користувача Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Керівництво користувача Ubuntu</a> » <a class="trail" href="hardware.html" title="Обладнання й драйвери">Обладнання</a> › <a class="trail" href="hardware.html#problems" title="Типові проблеми">Проблеми</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Діагностика бездротових мереж">Діагностика бездротових мереж</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks"><a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-check.html" title="Усунення проблем бездротового з’єднання">Назад</a></div>
+<div class="hgroup">
+<h1 class="title"><span class="title">Діагностика бездротових мереж</span></h1>
+<h2 class="subtitle"><span class="subtitle">Переконайтеся, що встановлено працюючі драйвери</span></h2>
+</div>
+<div class="region">
+<div class="contents">
+<p class="p">На цьому етапі можни вияснити, чи можливо отримати працюючі драйвери для бездротового адаптера. <span class="em">Драйвер пристрою</span> — це невелика програма, що повідомляє комп’ютеру, як повинен працювати апаратний пристрій. Навіть якщо бездротовий адаптер й розпізнається комп’ютером, в адаптера може й не бути правильно працюючих драйверів. Можливо, вдасться підшукати інші, працюючі драйвери для бездротового адаптера. Спробуйте деякі з наступних варіантів:</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list" style="list-style-type:disc">
+<li class="list">
+<p class="p">З’ясуйте, чи є ваш бездротовий адаптер у переліку пристроїв що підтримуються</p>
+<p class="p">У більшості Linux-дистрибутивів є перелік підтримуваних бездротових пристроїв. Інколи ці списки містять додаткову інформацію про те, як примусити драйвери для певних адаптерів працювати правильно. Перейдіть до переліку вашого дистрибутиву (наприклад, <span class="link"><a href="https://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported" title="https://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported">Ubuntu</a></span>, <span class="link"><a href="http://linuxwireless.org/en/users/Drivers" title="http://linuxwireless.org/en/users/Drivers">Fedora</a></span> або <span class="link"><a href="http://en.opensuse.org/HCL:Network_(Wireless)" title="http://en.opensuse.org/HCL:Network_(Wireless)">openSuSE</a></span>) й подивіться, чи є там ваша марка та модель бездротового адаптера. Можливо, вдасться скористатися отриманою інформацією та примусити працювати ваші драйвери для бездротового пристрою.</p>
+</li>
+<li class="list">
+<p class="p">Пошукайте додаткові відкриті або власницькі драйвери</p>
+<p class="p">Недивлячись на те що Ubuntu включає у себе підтримку великої кількості пристроїв, деякі драйвери повинні бути встановлені окремо. Використовуйте інструмент <span class="gui">Драйвери пристроїв</span> для перевірки на такі додаткові, відкриті або <span class="link"><a href="hardware-driver-proprietary.html" title="Що таке власницькі драйвери?">власницькі</a></span>, драйвери.</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Клацніть кнопку у найправішій частині панелі меню й виберіть <span class="gui">Параметри системи</span>.</p></li>
+<li class="steps"><p class="p">У розділі «Система» виберіть <span class="gui">Проґрами та оновлення</span>.</p></li>
+<li class="steps"><p class="p">Перейдіть на вкладку <span class="gui">Додаткові драйвери</span>.</p></li>
+</ol></div></div></div>
+</li>
+<li class="list">
+<p class="p">Використовуйте драйвери Windows для вашого адаптера</p>
+<p class="p">Зазвичай неможна використовувати драйвер пристрою, що розроблений для однієї операційної системи (наприклад, для Windows), у іншій операційній системі (наприклад, у Linux). Це відбувається з-за того, що ці операційні системи по-різному взаємодіють з пристроями. Недивлячись на це, для бездротових адаптерів можна встановити режим сумісності, що називається <span class="em">NDISwrapper</span>, який дозволить використовувати деякі Windows-драйвери бездротових пристроїв у Linux. Це зручно, адже драйвери бездротових адаптерів для Windows є майже завжди, у той час як драйвери для Linux інколи недоступні. Взнайте більше про використання NDISwrapper <span class="link"><a href="http://sourceforge.net/apps/mediawiki/ndiswrapper/index.php?title=Main_Page" title="http://sourceforge.net/apps/mediawiki/ndiswrapper/index.php?title=Main_Page">тут</a></span>. Зауважте, не усі драйвери бездротових пристроїв можна використовувати у NDISwrapper.</p>
+<p class="p">Повна інформація про ndiswrapper розташована на <span class="link"><a href="https://help.ubuntu.com/community/WifiDocs/Driver/Ndiswrapper" title="https://help.ubuntu.com/community/WifiDocs/Driver/Ndiswrapper">цій сторінці</a></span>, включаючи довідку з усунення несправностей, специфічних для ndiswrapper.</p>
+</li>
+</ul></div></div></div>
+<div class="links serieslinks"><div class="inner"><div class="region"><ul>
+<li class="links"><a href="net-wireless-troubleshooting.html" title="Діагностика бездротових мереж">Діагностика бездротових мереж</a></li>
+<li class="links"><a href="net-wireless-troubleshooting-initial-check.html" title="Діагностика бездротових мереж">Діагностика бездротових мереж</a></li>
+<li class="links"><a href="net-wireless-troubleshooting-hardware-info.html" title="Діагностика бездротових мереж">Діагностика бездротових мереж</a></li>
+<li class="links"><a href="net-wireless-troubleshooting-hardware-check.html" title="Усунення проблем бездротового з’єднання">Усунення проблем бездротового з’єднання</a></li>
+<li class="links">Діагностика бездротових мереж</li>
+</ul></div></div></div>
+</div>
+<div class="links nextlinks"><a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-check.html" title="Усунення проблем бездротового з’єднання">Назад</a></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Докладніше</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless-troubleshooting.html" title="Діагностика бездротових мереж">Діагностика бездротових мереж</a><span class="desc"> — Виявлення та усунення проблем з бездротовими з’єднаннями</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

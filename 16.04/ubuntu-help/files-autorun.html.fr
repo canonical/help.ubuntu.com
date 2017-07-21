@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=fr>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Ouverture d'applications associées à des périphériques ou des disques</title>
+<link rel="stylesheet" type="text/css" href="fr.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide du bureau Ubuntu</a> » <a class="trail" href="media.html" title="Son, images &amp; vidéos">Son, images &amp; vidéos</a> › <a class="trail" href="media.html#music" title="Musique et lecteurs audio portables">Musique et lecteurs</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide du bureau Ubuntu</a> » <a class="trail" href="files.html" title="Fichiers, dossiers &amp; recherches">Fichiers</a> › <a class="trail" href="files.html#removable" title="Médias amovibles et disques externes">Médias amovibles et disques externes</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide du bureau Ubuntu</a> » <a class="trail" href="media.html" title="Son, images &amp; vidéos">Son, images &amp; vidéos</a> › <a class="trail" href="media.html#photos" title="Photos et appareils numériques">Photos</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide du bureau Ubuntu</a> » <a class="trail" href="media.html" title="Son, images &amp; vidéos">Son, images &amp; vidéos</a> › <a class="trail" href="media.html#videos" title="Vidéos et caméras">Vidéos</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Ouverture d'applications associées à des périphériques ou des disques</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Il est possible de faire en sorte qu'une application démarre automatiquement quand un périphérique est connecté ou quand un disque ou une carte média est inséré. Par exemple, vous pouvez désirer que votre gestionnaire de photos démarre quand vous connectez votre appareil photo numérique. Vous pouvez aussi désactiver cette possibilité, de sorte que rien ne se passe quand vous connectez quelque chose.</p>
+<p class="p">Pour choisir l'application qui doit s'exécuter quand vous connectez un quelconque périphérique :</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Cliquez sur l'icône tout à droite de la <span class="gui">barre de menu</span> et sélectionnez <span class="gui">Paramètres système...</span>.</p></li>
+<li class="steps"><p class="p">Sélectionnez <span class="guiseq"><span class="gui">Détails</span> ▸ <span class="gui">Médias amovibles</span></span>.</p></li>
+<li class="steps">
+<p class="p">Trouvez votre périphérique ou votre type de média souhaité, puis choisissez une application ou une action pour ce type de média. Veuillez consulter ci-dessous les descriptions des différents types de périphériques et de médias disponibles.</p>
+<p class="p">Au lieu de lancer une application, vous pouvez aussi configurer le média de façon à ce que le périphérique s'affiche dans le gestionnaire de fichiers. Lorsque cela se produit, il vous est demandé quoi faire, sinon rien ne se passe automatiquement.</p>
+</li>
+<li class="steps"><p class="p">L'option <span class="gui">Programme</span> est légèrement différente des autres : si l'ordinateur détecte qu'il y a un programme sur le disque que vous avez inséré, il peut essayer de lancer automatiquement le programme si vous le voulez. C'est approprié si vous avez une application installée sur un CD et que vous voulez qu'il la démarre quand le disque est inséré (par exemple, une présentation).</p></li>
+<li class="steps"><p class="p">Si vous ne voyez pas apparaître le périphérique ou le type de média que vous voulez modifier dans la liste (comme des disques Blu-ray ou des lecteurs e-book), cliquez sur <span class="gui">Autres médias</span> pour avoir une liste plus complète de périphériques. Choisissez le votre dans la liste du menu déroulant <span class="gui">Type</span> et l'application ou l'action souhaitée dans la liste <span class="gui">Action</span>.</p></li>
+</ol></div></div></div>
+<div class="note note-tip" title="Astuce"><div class="inner"><div class="region"><div class="contents"><p class="p">Si vous ne voulez pas voir s'ouvrir d'application automatiquement, quelque soit ce qui est inséré,cochez <span class="gui">Ne jamais demander ou lancer de programme à l'insertion de médias</span> en bas de la fenêtre Médias amovibles</p></div></div></div></div>
+</div>
+<div id="files-types-of-devices" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Types de périphériques et de médias</span></h2></div>
+<div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms">Disques audio</dt>
+<dd class="terms"><p class="p">Choisissez votre lecteur de musique ou extracteur préféré pour gérer les CD audio. Si vous utilisez des DVD audio (DVD-A), définissez dans <span class="gui">Autres médias</span> comment les ouvrir. Si vous ouvrez un disque audio avec le gestionnaire de fichiers, les pistes s'affichent au format WAV ; vous pouvez les lire avec n'importe quelle application audio.</p></dd>
+<dt class="terms">Disques vidéo</dt>
+<dd class="terms"><p class="p">Choisissez votre lecteur vidéo préféré pour gérer les DVD vidéo. Cliquez sur le bouton <span class="gui">Autres médias</span> pour choisir une application qui gère les Blu-ray, DVD HD, CD vidéo (VCD) et CD super vidéo (SVCD). Si des DVD ou d'autres disques vidéo ne fonctionnent pas correctement quand vous les insérez, veuillez consulter <span class="link"><a href="video-dvd.html" title="Pourquoi les DVD ne se lisent-ils pas ?">Pourquoi les DVD ne se lisent-ils pas ?</a></span>.</p></dd>
+<dt class="terms">Disques vierges</dt>
+<dd class="terms"><p class="p">Cliquez sur le bouton <span class="gui">Autres médias</span> pour choisir une application de gravure sur CD, DVD, disques Blu-ray et DVD HD vierges.</p></dd>
+<dt class="terms">Appareils photos et photos</dt>
+<dd class="terms">
+<p class="p">Cliquez sur le menu déroulant <span class="gui">Photos</span> pour choisir une application de gestion de photos quand vous connectez votre appareil photo numérique ou un support de stockage de photos comme une carte CF, SD, MMC ou MS. Vous pouvez aussi tout simplement consulter ces mêmes photos avec le gestionnaire de fichiers.</p>
+<p class="p">Dans le menu <span class="gui">Autres médias</span>, vous pouvez choisir une application qui gère les CD d'image Kodak comme ceux que vous obtenez dans un magasin. Ce sont des CD de données classiques qui contiennent des fichiers image au format JPEG situés dans un dossier nommé <span class="file">PICTURES</span>.</p>
+</dd>
+<dt class="terms">Lecteurs de musique</dt>
+<dd class="terms"><p class="p">Choisissez une application pour gérer la bibliothèque musicale sur votre lecteur de musique portable ou gérer les fichiers vous-même en utilisant le gestionnaire de fichiers.</p></dd>
+<dt class="terms">Lecteurs de livres numériques</dt>
+<dd class="terms"><p class="p">Cliquez sur le bouton <span class="gui">Autres médias</span> pour choisir une application qui gère les livres de votre lecteur de livre numériques, ou bien gérez-les vous-même avec le gestionnaire de fichiers.</p></dd>
+<dt class="terms">Logiciel</dt>
+<dd class="terms">
+<p class="p">Certains disques et médias amovibles contiennent des logiciels qui sont sensés se lancer automatiquement quand vous les insérez. Utilisez l'option <span class="gui">Logiciel</span> pour contrôler quoi faire quand un média contenant des logiciels dont le démarrage est automatique est inséré. Il vous sera ainsi toujours demandé une confirmation avant que le logiciel ne soit exécuté.</p>
+<div class="note note-warning" title="Avertissement"><div class="inner"><div class="region"><div class="contents"><p class="p">N'exécutez jamais un logiciel depuis un média en lequel vous n'avez pas confiance.</p></div></div></div></div>
+</dd>
+</dl></div></div></div></div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
+<div class="region"><ul>
+<li class="links "><a href="media.html#music" title="Musique et lecteurs audio portables">Musique et lecteurs</a></li>
+<li class="links "><a href="files.html#removable" title="Médias amovibles et disques externes">Médias amovibles et disques externes</a></li>
+<li class="links "><a href="media.html#photos" title="Photos et appareils numériques">Photos</a></li>
+<li class="links "><a href="media.html#videos" title="Vidéos et caméras">Vidéos</a></li>
+</ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

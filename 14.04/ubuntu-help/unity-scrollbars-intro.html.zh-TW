@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang=zh-TW>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>什麼是疊層式滾動條？</title>
+<link rel="stylesheet" type="text/css" href="zh-TW.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Ubuntu 桌面版手冊"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="幫助"></span></span> Ubuntu 桌面版手冊</a> » <a class="trail" href="shell-overview.html" title="桌面、應用程式與視窗">桌面</a> › <a class="trail" href="shell-overview.html#desktop" title="桌面">桌面</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">什麼是疊層式滾動條？</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Ubuntu includes <span class="em">overlay scrollbars</span> which take up less screen space than
+traditional scrollbars, giving you more room for your content. While inspired by mobile devices
+where traditional scrollbars aren't needed, Ubuntu's overlay scrollbars are designed to work
+just as well with a mouse.</p>
+<p class="p">某些程式，如 Firefox 和 LibreOffice 尚未支援新式的滾動條。</p>
+</div>
+<div id="using" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">使用滾動條</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">疊層式滾動條會在可滾動的區域邊緣顯示，樣子是一個細橘色條。滾動條的位置跟您螢幕在可滾動內容的位置相對應。條帶的長度跟內容長度有關；條帶越短，內容的長度也越長。</p>
+<p class="p">將您的滑鼠游標，移動到內容的捲動邊緣上任何一點，<span class="gui">滑動鈕</span>就會出現。</p>
+<div class="list"><div class="inner">
+<div class="title title-list"><h3><span class="title">使用滾動條的方式：</span></h3></div>
+<div class="region"><ul class="list">
+<li class="list"><p class="p">點擊<span class="gui">滑動鈕</span>的上半部，可以向上滾動一頁。點擊下半部則會向下滾動一頁。</p></li>
+<li class="list"><p class="p">將<span class="gui">滑動鈕</span>向上、向下拖曳，可以移動螢幕位置，確實到您想要的地方。</p></li>
+<li class="list"><p class="p">在<span class="gui">滑動鈕</span>上<span class="link"><a href="mouse-middleclick.html" title="中鍵點擊">中鍵點擊</a></span>，可以不須拖曳、一頁頁滾動即可移動螢幕位置。這在文件很長的時候非常有用。</p></li>
+</ul></div>
+</div></div>
+</div></div>
+</div></div>
+<div id="disable-scrollbars" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">停用滾動條：</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">如果您比較喜歡傳統樣式的滾動條，可以將新的滾動條停用：</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Open the <span class="app">Terminal</span> by pressing <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>t</kbd></span></span>
+    or by searching for <span class="input">terminal</span> in the <span class="gui">Dash</span>.
+    </p></li>
+<li class="steps">
+<p class="p">輸入以下的指令並按下 <span class="key"><kbd>Enter</kbd></span>：</p>
+<div class="code"><pre class="contents ">gsettings set com.canonical.desktop.interface scrollbar-mode normal</pre></div>
+</li>
+</ol></div></div></div>
+<p class="p">如果您改變心意，想要重新啟用滾動條，執行以下指令：</p>
+<div class="code"><pre class="contents ">gsettings reset com.canonical.desktop.interface scrollbar-mode</pre></div>
+<div class="note note-tip" title="提示"><div class="inner"><div class="region"><div class="contents"><p class="p">將您的佈景主題設成<span class="link"><a href="a11y-contrast.html" title="調整對比">高對比</a></span>也會停用疊層式滾動條。</p></div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">更多資訊</span></h2></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html#desktop" title="桌面">桌面</a></li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">另請參閱</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="mouse-touchpad-click.html" title="Click, drag, or scroll with the touchpad">Click, drag, or scroll with the touchpad</a><span class="desc"> — Click, drag, or scroll using taps and gestures on your touchpad.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

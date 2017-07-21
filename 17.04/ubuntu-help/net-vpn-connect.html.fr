@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang=fr>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Connexion à un VPN</title>
+<link rel="stylesheet" type="text/css" href="fr.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide du bureau Ubuntu</a> » <a class="trail" href="net.html" title="Réseau, Web, courriel &amp; chat">Réseau, Web, courriel &amp; chat</a> » <a class="trail" href="net-wired.html" title="Réseau filaire">Réseau filaire</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide du bureau Ubuntu</a> » <a class="trail" href="net.html" title="Réseau, Web, courriel &amp; chat">Réseau, Web, courriel &amp; chat</a> » <a class="trail" href="net-wireless.html" title="Réseau sans fil">Réseau sans fil</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Connexion à un VPN</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Un VPN (<span class="em">Virtual Private Network</span> ou <span class="em">Réseau Privé Virtuel</span>) est une façon de se connecter à un réseau local en passant par internet. Voici un exemple : admettons que vous vouliez vous connecter au réseau local de votre entreprise alors que vous êtes en déplacement professionnel. Recherchez d'abord une connexion internet disponible (comme à votre hôtel), et connectez-vous ensuite au VPN de votre entreprise. La connexion est identique à celle que vous avez à votre réseau d'entreprise quand vous êtes sur place, sauf qu'elle passe par le réseau internet de votre hôtel. Les connexions VPN sont normalement chiffrées pour empêcher les personnes ne possédant pas les identifiants de votre réseau local d'y accéder.</p>
+<p class="p">Il existe un grand nombre de types différents de RPV. Vous aurez peut être à installer des logiciels supplémentaires en fonction du type de RPV auquel vous vous connectez. Trouvez les informations de connexion du service qui est en charge du RPV et regardez quel <span class="em">client de RPV</span> vous devez utiliser. Puis, ouvrez l'application <span class="app">Logiciels Ubuntu</span> et recherchez le paquet <span class="app">network-manager</span> qui fonctionne avec votre RPV (s'il en existe un) et installez-le.</p>
+<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">S'il n'existe pas de paquet « NetworkManager » pour votre type de VPN, vous devrez sans doute télécharger et installer un logiciel client chez le fournisseur qui a fourni le logiciel du VPN. Il y a certainement aussi une procédure à suivre pour le rendre opérationnel.</p></div></div></div></div>
+<p class="p">Une fois ceci fait, vous pouvez configurer votre connexion VPN :</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Cliquez sur le  <span class="gui">menu réseau</span> dans la barre de menu et sous  <span class="gui">Connexions VPN</span>, sélectionnez <span class="gui">Configurer VPN</span>.</p></li>
+<li class="steps"><p class="p">Cliquez sur <span class="gui">Ajouter</span> et choisissez votre type de connexion VPN.</p></li>
+<li class="steps"><p class="p">Cliquez sur <span class="gui">Créer</span> et suivez les instructions à l'écran en saisissant les informations qui vous sont demandées, comme votre nom d'utilisateur et votre mot de passe au fur et à mesure de votre avancement.</p></li>
+<li class="steps"><p class="p">Quand vous aurez terminé de configurer le VPN, cliquez sur <span class="gui">menu réseau</span> dans la barre de menu, allez dans <span class="gui">Connexions</span> et cliquez sur la connexion que vous venez de créer. Ceci tentera d'établir une connexion au VPN - l'icône du réseau changera lorsqu'il essaiera de se connecter.</p></li>
+<li class="steps"><p class="p">Si tout se passe bien, vous serez connecté avec succès au VPN. Sinon, vous devez vérifier les paramètres VPN que vous avez saisis. Pour cela, cliquez sur l'icône réseau, ouvrez <span class="gui">Paramètres du réseau</span> et allez à l'onglet <span class="gui">VPN</span>.</p></li>
+<li class="steps"><p class="p">Pour vous déconnecter du VPN, cliquez sur le menu réseau et sélectionnez <span class="gui">Déconnecter</span> sous le nom de la connexion à ce VPN.</p></li>
+</ol></div></div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="net-wired.html" title="Réseau filaire">Réseau filaire</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html" title="Connexion à un réseau filaire (Ethernet)">Connexions internet filaires</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Création d'une connexion avec une adresse IP fixe">adresses IP fixes</a></span>…</span>
+</li>
+<li class="links ">
+<a href="net-wireless.html" title="Réseau sans fil">Réseau sans fil</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html" title="Connexion à un réseau sans fil">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html" title="Connexion à un réseau sans fil masqué">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-edit-connection.html" title="Edit a Wi-Fi connection">Edit connection settings</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html" title="Interruptions intempestives du réseau sans fil">Disconnecting</a></span>…
+    </span>
+</li>
+</ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

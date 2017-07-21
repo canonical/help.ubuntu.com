@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang=bs>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Alat za otkrivanje poteškoća u vezi bežičnih mreža</title>
+<link rel="stylesheet" type="text/css" href="bs.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Ubuntu Desktop Priručnik"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoć"></span></span> Ubuntu Desktop Priručnik</a> » <a class="trail" href="hardware.html" title="Hardware i upravljački programi">Hardver</a> › <a class="trail" href="hardware.html#problems" title="Uobičajeni problemi">Problemi</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Alat za otkrivanje poteškoća u vezi bežičnih mreža">Alat za otkrivanje poteškoća u vezi bežičnih mreža</a> » </div>
+<div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Ubuntu Desktop Priručnik"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoć"></span></span> Ubuntu Desktop Priručnik</a> » <a class="trail" href="net.html" title="Umrežavanje, web, elektronska pošta i ćaskanje">Umrežavanje, web, elektronska pošta i ćaskanje</a> » <a class="trail" href="net-wireless.html" title="Bežično Umrežavanje">Bežično Umrežavanje</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Alat za otkrivanje poteškoća u vezi bežičnih mreža">Alat za otkrivanje poteškoća u vezi bežičnih mreža</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks"><a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-check.html" title="Rješavanje problema bežične konekcije">Previous</a></div>
+<div class="hgroup">
+<h1 class="title"><span class="title">Alat za otkrivanje poteškoća u vezi bežičnih mreža</span></h1>
+<h2 class="subtitle"><span class="subtitle">Osigurajte se da su instalirani ispravni drajveri.</span></h2>
+</div>
+<div class="region">
+<div class="contents">
+<p class="p">U ovom koraku možete da provjerite da vidite da li možete da nabavite radne upravljačke programe uređaja za vaš bežični prilagođivač. <span class="em">Upravljački program uređaja</span> je komad softvera koji govori računaru kako da natjera hardverski uređaj da radi ispravno. Čak i ako je bežični prilagođivač prepoznat od strane računara, možda nema upravljačke programe koji rade dobro. Možete biti u mogućnosti da pronađete drugačije upravljačke programe za bežični prilagođivač koji će završiti posao. Pokušajte neku od sledećih opcija:</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list">
+<p class="p">Uvjerite se da je vaš bežični adapter na listi podržanih uređaja</p>
+<p class="p">Većina distribucija Linuxa sadrži spisak bežičnih uređaja za koje imaju podršku. Ponekad, ovi spiskovi obezbeđuju dodatne podatke o tome kako da osposobite da upravljački programi rade ispravno za određene prilagođivače. Idite na spisak za vašu distribuciju (na primer, <span class="link"><a href="https://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported" title="https://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported">Ubuntu</a></span>, <span class="link"><a href="http://linuxwireless.org/en/users/Drivers" title="http://linuxwireless.org/en/users/Drivers">Fedora</a></span> ili <span class="link"><a href="http://en.opensuse.org/HCL:Network_(Wireless)" title="http://en.opensuse.org/HCL:Network_(Wireless)">openSuSE</a></span>) i pogledajte da li se marka i model vašeg bežičnog prilagođivača nalazi na spisku. Bićete u mogućnosti da odatle iskoristite neke podatke da biste osposobili za rad vaše bežičn eupravljačke programe.</p>
+</li>
+<li class="list">
+<p class="p">Potrazite dodatne drivere.</p>
+<p class="p">Iako Ubuntu sadrzi podrsku za dosta uredjaja, neki drajveri se moraju instalirati odvojemo. Koristite <span class="gui">Additional Drivers</span> alat da provjerite dodatno ili <span class="link"><a href="hardware-driver-proprietary.html" title="Šta su vlasnički upravljački programi?">proprietary</a></span> drajvere.</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Kliknite dugme na sasvim desnoj strani trake menija i odaberite <span class="gui">Sistemska Podešavanja</span>.</p></li>
+<li class="steps"><p class="p">U dijelu Sistem, kliknite <span class="gui">Softver izvori</span>.</p></li>
+<li class="steps"><p class="p">Prebacite se na <span class="gui">Dodatni Drajveri</span> tab.</p></li>
+</ol></div></div></div>
+</li>
+<li class="list">
+<p class="p">Koristite Windows drajvere za vaš adapter</p>
+<p class="p">Uopšteno, ne možete da koristite upravljačke programe uređaja osmišljene za jedan operativni sistem (kao što je Windows) na drugom operativnom sistemu (kao što je Linuks). Zato što oni na drugačije načine rukuju uređajima. Za bežične prilagođivače, međutim, možete da instalirate sloj saglasnosti pod nazivom <span class="em">NDISomotač</span> koji vam dopuštaju da koristite neke Vindouzove bežične upravljačke programe na Linuxu. Ovo je korisno zato što bežični prilagođivači skoro uvek imaju dostupne Vindouzove upravljačke programe, s obzirom da Linuxovi upravljački programi ponekad nisu dostupni. Možete da saznate više o tome kako da koristite NDISomotač <span class="link"><a href="http://sourceforge.net/apps/mediawiki/ndiswrapper/index.php?title=Main_Page" title="http://sourceforge.net/apps/mediawiki/ndiswrapper/index.php?title=Main_Page">ovde</a></span>. Znajte da ne mogu svi bežični upravljački programi biti korišćeni u NDISomotaču.</p>
+<p class="p">Potpune informacije o Ndiswrapper sadržane na <span class="link"><a href="https://help.ubuntu.com/community/WifiDocs/Driver/Ndiswrapper" title="https://help.ubuntu.com/community/WifiDocs/Driver/Ndiswrapper"> ovoj stranici </a></span> uključujući i pomoć pri rješavanju problema specifičnih za za Ndiswrapper.</p>
+</li>
+</ul></div></div></div>
+<div class="links serieslinks"><div class="inner"><div class="region"><ul>
+<li class="links"><a href="net-wireless-troubleshooting.html" title="Alat za otkrivanje poteškoća u vezi bežičnih mreža">Alat za otkrivanje poteškoća u vezi bežičnih mreža</a></li>
+<li class="links"><a href="net-wireless-troubleshooting-initial-check.html" title="Alat za otkrivanje poteškoća u vezi bežičnih mreža">Alat za otkrivanje poteškoća u vezi bežičnih mreža</a></li>
+<li class="links"><a href="net-wireless-troubleshooting-hardware-info.html" title="Alat za otkrivanje poteškoća u vezi bežičnih mreža">Alat za otkrivanje poteškoća u vezi bežičnih mreža</a></li>
+<li class="links"><a href="net-wireless-troubleshooting-hardware-check.html" title="Rješavanje problema bežične konekcije">Rješavanje problema bežične konekcije</a></li>
+<li class="links">Alat za otkrivanje poteškoća u vezi bežičnih mreža</li>
+</ul></div></div></div>
+</div>
+<div class="links nextlinks"><a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-check.html" title="Rješavanje problema bežične konekcije">Previous</a></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">More Information</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless-troubleshooting.html" title="Alat za otkrivanje poteškoća u vezi bežičnih mreža">Alat za otkrivanje poteškoća u vezi bežičnih mreža</a><span class="desc"> — Identifikujte i riješite probleme sa bežičnim povezivanjima</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

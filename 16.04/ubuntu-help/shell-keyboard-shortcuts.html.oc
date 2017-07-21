@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=oc>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Los acorchis de clavièr utiles</title>
+<link rel="stylesheet" type="text/css" href="oc.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Guida del burèu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guide del burèu Ubuntu</a> » <a class="trail" href="shell-overview.html" title="Burèu, aplicacions &amp; fenèstras">Burèu</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Guida del burèu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guide del burèu Ubuntu</a> » <a class="trail" href="hardware.html" title="Material &amp; pilòts">Material</a> » <a class="trail" href="keyboard.html" title="Clavièr">Clavièr</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Guida del burèu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guide del burèu Ubuntu</a> » <a class="trail" href="prefs.html" title="Preferéncias utilizaire &amp; sistèma">Parametratges</a> » <a class="trail" href="keyboard.html" title="Clavièr">Clavièr</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Guida del burèu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guide del burèu Ubuntu</a> » <a class="trail" href="tips.html" title="Trucs e astúcias">Trucs e astúcias</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Los acorchis de clavièr utiles</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Aquesta pagina provesís un apercebut dels acorchis clavièr que vos pòdon ajudar a utilizar vòstre burèu e las aplicacions mai eficaçament. Se podètz pas utilizar de mirga ni d'aparelh de puntatge, consultatz <span class="link"><a href="keyboard-nav.html" title="Navigation al clavièr">Navigation al clavièr</a></span> per saber cossí navegar dins las interfàcias unicament via lo clavièr.</p>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="true"></div>
+<div class="inner">
+<div class="title title-table"><h2><span class="title">Se desplaçar sul burèu</span></h2></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F4</kbd></span></span></p></td>
+<td><p class="p">Tampar la fenèstra actuala.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Far aparéisser la fenèstra des comandas (per aviar des comandas rapidament)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html" title="Bascular entre las fenèstras">Cambiar rapidament de fenèstra.</a></span> Mantenètz la tòca <span class="key"><kbd>Maj</kbd></span> quichada per inversar l'òrdre de percors.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>`</kbd></span></span></p></td>
+<td style="border-top-style: solid;">
+<p class="p">Cambiar de fenèstra dins una meteissa aplicacion, o dempuèi l'aplicacion seleccionada aprèp <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p>
+<p class="p">This shortcut uses <span class="key"><kbd>`</kbd></span> on US keyboards, where the <span class="key"><kbd>`</kbd></span>
+    key is above <span class="key"><kbd>Tab</kbd></span>. On all other keyboards, the shortcut is
+    <span class="key"><kbd>Alt</kbd></span> plus whatever key is above <span class="key"><kbd>Tab</kbd></span>.</p>
+</td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><a href="windows-key.html" title="Qu'est-ce que la tòca « Super » ?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>S</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Activar lo selector d'espaci de trabalh. Zoom arrièr sus totes los <span class="link"><a href="shell-workspaces.html" title="Qu'es aquò un Espacis de trabalh e a quoi sert-il ?">Espacis de trabalh</a></span>.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><a href="windows-key.html" title="Qu'est-ce que la tòca « Super » ?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>W</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Activar lo mòde « Expo ». Aficha totas las fenèstras de l'espaci de trabalh actual.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Flèches</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html" title="Cambiar d'espaci de trabalh">Bascular entre los espacis de trabalh.</a></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Flèches</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html" title="Desplaçar una fenèstra cap a un autre Espacis de trabalh">Desplaçar la fenèstra actuala cap a un espaci de trabalh diferent.</a></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Supr</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html" title="Desconnexion, atudament, cambiament d'utilizaire">Se desconnectar.</a></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><a href="windows-key.html" title="Qu'est-ce que la tòca « Super » ?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>D</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Cache totas las fenèstras e aficha lo burèu. Quichatz tornamai sus las tòcas per restablir vòstras fenèstras.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>L</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html#lock-screen" title="Verrolhar l'ecran">Verrolhar l'ecran.</a></span></p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h2><span class="title">Acorchis corrents de modificacion</span></h2></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>A</kbd></span></span></p></td>
+<td><p class="p">Seleccionar tot lo tèxte o totes los elements d'una lista.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>X</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Couper (levar) lo tèxte o los elements seleccionats e les metre dins lo quichapapièrs.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Copiar lo tèxte o los elements seleccionats dins lo quichapapièrs.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>V</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Pegar lo contengut del quichapapièrs.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Z</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Anullar la darrièra accion</p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h2><span class="title">Captura d'ecran</span></h2></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p"><span class="key"><kbd>Impression ecran</kbd></span></p></td>
+<td><p class="p"><span class="link"><a href="screen-shot-record.html#screenshot" title="Prendre una captura d'ecran">Fait una captura d'ecran.</a></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Impression ecran</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html#screenshot" title="Prendre una captura d'ecran">Far una captura d'ecran d'una fenèstra.</a></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Maj</kbd></span>+<span class="key"><kbd>Impression ecran</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html#screenshot" title="Prendre una captura d'ecran">Far una captura d'ecran d'una zòna de la fenèstra.</a></span> Lo puntador se càmbia en crotz. Clicatz e seleccionatz una zòna.</p></td>
+</tr>
+</table></div>
+</div>
+</div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Mai d'entresenhas</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="shell-overview.html" title="Burèu, aplicacions &amp; fenèstras">Burèu, aplicacions &amp; fenèstras</a><span class="desc"> — <span class="link"><a href="unity-introduction.html" title="Benvenguda sus Ubuntu">Introduction</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Los acorchis de clavièr utiles">acorchis de clavièr</a></span>, <span class="link"><a href="shell-windows.html" title="Fenèstras e Espacis de trabalh">fenèstras</a></span>…</span>
+</li>
+<li class="links ">
+<a href="keyboard.html" title="Clavièr">Clavièr</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Utilizar de fonts d'entrada alternativas">Fonts d'entrada</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Clignotement del cursor">clignotement del cursor</a></span>, <span class="link"><a href="windows-key.html" title="Qu'est-ce que la tòca « Super » ?">tòca Super</a></span>, <span class="link"><a href="a11y.html#mobility" title="Deficiéncias motrises">accessibilitat del clavièr</a></span>…</span>
+</li>
+<li class="links ">
+<a href="tips.html" title="Trucs e astúcias">Trucs e astúcias</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Sasir los caractèrs especials">Caractèrs especials</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Clic mitan">acorchis del clic mitan</a></span>…</span>
+</li>
+</ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Vejatz tanben</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="screen-shot-record.html" title="Capturas d'ecran">Capturas d'ecran</a><span class="desc"> — Capturar un imatge de çò que se passe a l'ecran.</span>
+</li>
+<li class="links ">
+<a href="keyboard-shortcuts-set.html" title="Definicion d'acorchis clavièr">Definicion d'acorchis clavièr</a><span class="desc"> — Definir o modificar les acorchis de clavièr dins los paramètres <span class="gui">Clavièr</span>.</span>
+</li>
+<li class="links ">
+<a href="keyboard-nav.html" title="Navigation al clavièr">Navigation al clavièr</a><span class="desc"> — Utilizar las aplicacions e lo burèu sens mirga.</span>
+</li>
+<li class="links ">
+<a href="windows-key.html" title="Qu'est-ce que la tòca « Super » ?">Qu'est-ce que la tòca « Super » ?</a><span class="desc"> — La tòca Super permet d'accedir al Tablèu de bòrd e al Aviador.</span>
+</li>
+</ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

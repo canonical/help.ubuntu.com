@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=nl>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Weergaven-voorkeuren in Bestanden</title>
+<link rel="stylesheet" type="text/css" href="nl.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Handleiding Ubuntu-desktop</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> » <a class="trail" href="nautilus-prefs.html" title="Bestandsbeheer-voorkeuren">Bestandsbeheer-voorkeuren</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Weergaven-voorkeuren in <span class="app">Bestanden</span></span></h1></div>
+<div class="region">
+<div class="contents"><p class="p">U kan de standaardweergave voor nieuwe mappen wijzigen, hoe bestanden en mappen standaard worden gesorteerd, het zoom-niveau voor pictogram- en compacte weergaven, en of bestanden in de boomweergave moeten worden weergegeven. Kies in de menubalk <span class="guiseq"><span class="gui">Bestanden</span> ▸ <span class="gui">Voorkeuren</span></span> terwijl <span class="app">Files</span> is geopend en klik het <span class="gui">Weergaven</span> tabblad.</p></div>
+<div id="default-view" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Standaardweergave</span></h2></div>
+<div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">Nieuwe mappen starten in</span></dt>
+<dd class="terms"><p class="p">Nieuwe mappen worden standaard in pictogramweergave weergegeven. Als u liever lijstweergave gebuikt, dan kunt u het hier als standaard instellen. Tevens kunt u tijdens het bladeren voor elke map een andere weergave instellen door in de taakbalk op de <span class="gui">Items als list weergeven</span> of de <span class="gui">Items als een raster met pictogrammen weergeven</span>-knop te klikken.</p></dd>
+<dt class="terms"><span class="gui">Items ordenen</span></dt>
+<dd class="terms">
+<p class="p">U kan in de voorkeuren de voor mappen gebruikte standaard sorteervolgorde met behulp van de <span class="gui">Items sorteren</span> keuzelijst wijzigen om op naam, bestandsgrootte, bestandstype, wijzigingsdatum, wanneer ze het laatst geopend zijn, of wanneer ze naar de prullenbak zijn verplaatst te sorteren.</p>
+<p class="p">U kan per map aangeven hoe u de <span class="link"><a href="files-sort.html" title="Bestanden en mappen sorteren">bestanden wil laten sorteren</a></span> door in de taakbalk op de <span class="media"><span class="media media-image"><img src="figures/go-down.png" class="media media-inline" alt="Weergaveopties"></span></span>-knop te klikken en vervolgens <span class="gui">Op naam</span>, <span class="gui">Op grootte</span>, <span class="gui">Op type</span> of <span class="gui">Op wijzigingsdatum</span> te kiezen, of door in lijstweergave op de kopteksten van de lijstkolommen te klikken. Dit menu heeft alleen effect op de huidige map.</p>
+</dd>
+<dt class="terms"><span class="gui">Mappen vóór bestanden sorteren</span></dt>
+<dd class="terms"><p class="p">De bestandsbeheerder geeft niet langer de mappen vóór de bestanden weer. Kies deze optie om alle mappen vóórde lijst met bestanden te laten weergeven.</p></dd>
+<dt class="terms"><span class="gui">Verborgen bestanden en reservekopiebestanden tonen</span></dt>
+<dd class="terms">
+<p class="p">De bestandsbeheerder geeft standaard geen <span class="link"><a href="files-hidden.html" title="Een bestand verbergen">verborgen bestanden</a></span> en mappen weer. U kunt door deze optie te kiezen ten alle tijde verborgen bestanden weergeven.</p>
+<p class="p">U kunt ook verborgen bestanden in een individueel venster weer laten geven door uit het <span class="media"><span class="media media-image"><img src="figures/go-down.png" class="media media-inline" alt="Weergaveopties"></span></span>-menu in de taakbalk, <span class="gui">Verborgen bestanden weergeven</span> te kiezen.</p>
+</dd>
+</dl></div></div></div></div></div>
+</div></div>
+<div id="icon-view-defaults" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Standaardinstellingen pictogrammenweergave</span></h2></div>
+<div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">Standaard zoomfactor</span></dt>
+<dd class="terms">
+<p class="p">In pictogramweergave kunt u de tekst en de pictogrammen standaard groter of kleiner maken door deze optie te gebruiken. U kunt deze instelling ook per map wijzigen door in de taakbalk op de <span class="media"><span class="media media-image"><img src="figures/go-down.png" class="media media-inline" alt="Weergaveopties"></span></span>knop te klikken en <span class="gui">Inzoomen</span>, <span class="gui">Uitzoomen</span> of <span class="gui">Normale grootte</span> te klikken. Als u regelmatig een hoger of lager zoom-niveau gebruikt, kunt u met deze optie de standaard instellen.</p>
+<p class="p">In pictogramweergave worden er, gebaseerd op uw zoom-niveau, meer of minder <span class="link"><a href="nautilus-display.html#icon-captions" title="Pictogrambijschriften">bijschriften</a></span> weergegeven.</p>
+</dd>
+</dl></div></div></div></div></div>
+</div></div>
+<div id="list-view-defaults" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Standaardinstellingen lijstweergave</span></h2></div>
+<div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">Standaard zoomfactor</span></dt>
+<dd class="terms"><p class="p">U kunt in lijstweergave de tekst en pictogrammen groter of kleiner maken door deze optie te gebruiken. U kunt deze instelling ook per map wijzigen door in de taakbalk op de <span class="media"><span class="media media-image"><img src="figures/go-down.png" class="media media-inline" alt="Weergaveopties"></span></span>knop te klikken en <span class="gui">Inzoomen</span>, <span class="gui">Uitzoomen</span> of <span class="gui">Normale grootte</span> te kiezen.</p></dd>
+</dl></div></div></div></div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Meer informatie</span></h2></div>
+<div class="region"><ul><li class="links "><a href="nautilus-prefs.html" title="Bestandsbeheer-voorkeuren">Bestandsbeheer-voorkeuren</a></li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

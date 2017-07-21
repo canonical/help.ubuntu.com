@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang=tr>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Ses, video ve görüntüler</title>
+<link rel="stylesheet" type="text/css" href="tr.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Ubuntu Masaüstü Rehberi"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Yardım"></span></span> Ubuntu Masaüstü Rehberi</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Ses, video ve görüntüler</span></h1></div>
+<div class="region">
+<div class="contents"></div>
+<div id="sound" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Temel ses</span></h2></div>
+<div class="region">
+<div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
+<div class="links-twocolumn">
+<div class="linkdiv "><a class="linkdiv" href="sound-broken.html" title="Ses sorunları"><span class="title">Ses sorunları</span><span class="linkdiv-dash"> — </span><span class="desc">Zayıf ses kalitesi ya da sesin olmaması gibi sorunları gider.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-alert.html" title="Alarm sesini seçin ya da etkisizleştirin"><span class="title">Alarm sesini seçin ya da etkisizleştirin</span><span class="linkdiv-dash"> — </span><span class="desc">İletilerde çalınacak sesi seçin, alarm sesini ayarlayın ya da alarm seslerini etkisizleştirin.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-usemic.html" title="Farklı bir mikrofon kullanın"><span class="title">Farklı bir mikrofon kullanın</span><span class="linkdiv-dash"> — </span><span class="desc">Analog ya da USB mikrofon kullan ve bir öntanımlı giriş aygıtı seç.</span></a></div>
+</div>
+<div class="links-twocolumn">
+<div class="linkdiv "><a class="linkdiv" href="sound-usespeakers.html" title="Farklı hoparlörler ve kulaklıklar kullanın"><span class="title">Farklı hoparlörler ve kulaklıklar kullanın</span><span class="linkdiv-dash"> — </span><span class="desc">Hoparlörleri ya da kulaklıkları bağlayın ve öntanımlı bir ses çıktı aygıtı seçin.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-volume.html" title="Ses düzeyini değiştir"><span class="title">Ses düzeyini değiştir</span><span class="linkdiv-dash"> — </span><span class="desc">Bilgisayar için ses düzeyini ayarlayın ve her uygulama için yüksekliğini denetleyin.</span></a></div>
+</div>
+</div></div></div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h3><span class="title">Daha Fazla Bilgi</span></h3></div>
+<div class="region"><ul><li class="links ">
+<a href="prefs.html" title="Kullanıcı ve sistem ayarları">Kullanıcı ve sistem ayarları</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Klavye">Klavye</a></span>, <span class="link"><a href="mouse.html" title="Fare">fare</a></span>, <span class="link"><a href="prefs-display.html" title="Görünüm &amp; ekran">ekran</a></span>, <span class="link"><a href="prefs-language.html" title="Bölge &amp; Dil">diller</a></span>, <span class="link"><a href="user-accounts.html" title="Kullanıcı hesapları">kullanıcı hesapları</a></span>…</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+</div></div>
+<div id="music" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Müzik ve taşınabilir müzik çalarlar</span></h2></div>
+<div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
+<div class="links-twocolumn">
+<div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="Aygıtlar veya diskler için uygulamaları açın"><span class="title">Aygıtlar veya diskler için uygulamaları açın</span><span class="linkdiv-dash"> — </span><span class="desc">Uygulamaları CD'ler DVD'ler, fotoğraf makineleri, ses çalarlar ve diğer aygıtlar/ortamlar için otomatik olarak çalıştırın.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-player-notrecognized.html" title="Neden ses oynatıcımı taktığımda tanınmadı?"><span class="title">Neden ses oynatıcımı taktığımda tanınmadı?</span><span class="linkdiv-dash"> — </span><span class="desc">Onun bir ses oynatıcı olduğunu bilgisayara söylemek için <span class="input">.is_audio_player</span> dosyası ekleyin.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-player-newipod.html" title="Yeni İPod'um çalışmıyor."><span class="title">Yeni İPod'um çalışmıyor.</span><span class="linkdiv-dash"> — </span><span class="desc">Yeni alınan iPod'ların kullanmadan önce iTunes yazılımını kullanarak yapılandırılması gerekir.</span></a></div>
+</div>
+<div class="links-twocolumn">
+<div class="linkdiv "><a class="linkdiv" href="music-cantplay-drm.html" title="Çevrimiçi bir müzik mağazasından aldığım şarkıları çalamıyorum"><span class="title">Çevrimiçi bir müzik mağazasından aldığım şarkıları çalamıyorum</span><span class="linkdiv-dash"> — </span><span class="desc">Bu dosya biçimi için destek yüklü olmayabilir ya da şarkılar "kopyalama korumalı" olabilir.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-player-ipodtransfer.html" title="İçine kopyaladığımda İPod'umda şarkılar gözükmüyor."><span class="title">İçine kopyaladığımda İPod'umda şarkılar gözükmüyor.</span><span class="linkdiv-dash"> — </span><span class="desc">Şarkıları kopyalamak için bir müzik oynatıcı kullannın ve daha sonra İPodu güvenli bir şekilde kaldırın.</span></a></div>
+</div>
+</div></div></div></div></div>
+</div></div>
+<div id="photos" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Fotoğraflar ve dijital fotoğraf makineleri</span></h2></div>
+<div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="Aygıtlar veya diskler için uygulamaları açın"><span class="title">Aygıtlar veya diskler için uygulamaları açın</span><span class="linkdiv-dash"> — </span><span class="desc">Uygulamaları CD'ler DVD'ler, fotoğraf makineleri, ses çalarlar ve diğer aygıtlar/ortamlar için otomatik olarak çalıştırın.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="hardware-cardreader.html" title="Ortam kartı okuma sorunları"><span class="title">Ortam kartı okuma sorunları</span><span class="linkdiv-dash"> — </span><span class="desc">Ortam kartı okuyucu sorunlarını çözün</span></a></div></div>
+</div></div></div></div></div>
+</div></div>
+<div id="videos" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Videolar ve video kameralar</span></h2></div>
+<div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
+<div class="links-twocolumn">
+<div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="Aygıtlar veya diskler için uygulamaları açın"><span class="title">Aygıtlar veya diskler için uygulamaları açın</span><span class="linkdiv-dash"> — </span><span class="desc">Uygulamaları CD'ler DVD'ler, fotoğraf makineleri, ses çalarlar ve diğer aygıtlar/ortamlar için otomatik olarak çalıştırın.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-sending.html" title="Benim yaptığım videoları diğerleri oynatamıyor"><span class="title">Benim yaptığım videoları diğerleri oynatamıyor</span><span class="linkdiv-dash"> — </span><span class="desc">Doğru video çözücülerinin kurulmuş olduğunu kontrol edin.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-dvd.html" title="DVD'ler neden çalışmıyor?"><span class="title">DVD'ler neden çalışmıyor?</span><span class="linkdiv-dash"> — </span><span class="desc">Doğru kodekleri indirmemiş olabilirsiniz veya DVD nin yanlış yüzünü okutuyor olabilirsiniz.</span></a></div>
+</div>
+<div class="links-twocolumn">
+<div class="linkdiv "><a class="linkdiv" href="app-cheese.html" title="Web kameranızı kullanarak eğlenceli fotoğraflar ve videolar oluşturun."><span class="title">Web kameranızı kullanarak eğlenceli fotoğraflar ve videolar oluşturun.</span><span class="linkdiv-dash"> — </span><span class="desc">Kendi kişisel fotoğraf çekme kabininiz gibidir.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-dvd-restricted.html" title="DVD oynatmak için gerekli kısıtlanmış çözücüleri nasıl etkinleştirebilirim?"><span class="title">DVD oynatmak için gerekli kısıtlanmış çözücüleri nasıl etkinleştirebilirim?</span><span class="linkdiv-dash"> — </span><span class="desc">Çoğu ticari DVD şifrelenmiştir ve şifre çözücü yazılım olmadan oynatılamaz.</span></a></div>
+</div>
+</div></div></div></div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Daha Fazla Bilgi</span></h2></div>
+<div class="region"><ul><li class="links "><a href="index.html" title="Ubuntu Masaüstü Rehberi">Ubuntu Masaüstü Rehberi</a></li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

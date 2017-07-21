@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=de>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Ihren Rechner mit einem Bluetooth-Gerät verbinden</title>
+<link rel="stylesheet" type="text/css" href="de.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu-Leitfaden</a> » <a class="trail" href="hardware.html" title="Hardware und Treiber">Hardware</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Ihren Rechner mit einem Bluetooth-Gerät verbinden</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Bevor Sie ein Bluetooth-Gerät wie eine Maus oder ein Headset verwenden können, müssen Sie Ihren Rechner zunächst mit dem Gerät verbinden. Dies wird auch als »Koppeln« der Bluetooth-Geräte bezeichnet.</p>
+<div class="note note-important" title="Wichtig"><div class="inner"><div class="region"><div class="contents"><p class="p">Stellen Sie sicher, dass das Bluetooth-Gerät Ihres Rechners eingeschaltet ist, bevor Sie diese Anleitung befolgen. Siehe <span class="link"><a href="bluetooth-turn-on-off.html" title="Bluetooth ein- oder ausschalten">Bluetooth ein- oder ausschalten</a></span>.</p></div></div></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Klicken Sie auf das Bluetooth-Symbol in der Menüleiste und wählen Sie <span class="gui">Neues Gerät konfigurieren</span>.</p></li>
+<li class="steps"><p class="p">Machen Sie das andere Bluetooth-Gerät <span class="link"><a href="bluetooth-visibility.html" title="Was ist Bluetooth-Sichtbarkeit?">erkennbar oder sichtbar</a></span> und platzieren Sie es in einem Umkreis von 10 Metern um Ihren Rechner. Dann wählen Sie <span class="gui">Weiter</span>. Ihr Rechner beginnt nun nach Geräten zu suchen.</p></li>
+<li class="steps"><p class="p">Falls zu viele Geräte aufgelistet werden, wählen Sie einen bestimmten <span class="gui">Gerätetyp</span> in der Auswahlliste, um die Anzeige in der Liste einzuschränken.</p></li>
+<li class="steps">
+<p class="p">Wählen Sie <span class="gui">PIN-Optionen …</span>, um festzulegen, wie eine PIN an das andere Gerät übertragen wird.</p>
+<div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents"><p class="p">Die automatische PIN-Einstellung verwendet einen sechsstelligen Zifferncode. Ein Geräte ohne Eingabetasten oder Berührungsbildschirm erfordert möglicherweise den spezifischen Code 0000 oder überhaupt keinen Code. Schauen Sie in der Anleitung Ihres Gerätes nach, um die richtigen Einstellungen zu ermitteln.</p></div></div></div></div>
+<p class="p">Wählen Sie die Ihrem Gerät entsprechende PIN-Einstellung aus und wählen Sie dann <span class="gui">Schließen</span>.</p>
+</li>
+<li class="steps"><p class="p">Klicken Sie dann auf <span class="gui">Fortfahren</span>. Falls Sie keine voreingestellte PIN verwenden, wird die PIN auf dem Bildschirm angezeigt.</p></li>
+<li class="steps">
+<p class="p">Bestätigen Sie die PIN auf Ihrem anderen Gerät, falls Sie dazu aufgefordert werden. Das Gerät sollte die PIN anzeigen, die Sie auf Ihrem Rechnerbildschirm sehen oder es sollte Sie auffordern, eine PIN einzugeben. Bestätigen Sie die PIN auf dem Gerät, dann wählen Sie <span class="gui">Stimmt überein</span>.</p>
+<p class="p">Die meisten Geräte akzeptieren die Eingabe nur, wenn Sie innerhalb von 20 Sekunden geschieht, anderenfalls kann die Verbindung nicht abgeschlossen werden. Falls dies passieren sollte, gehen Sie zur Geräteliste zurück und beginnen Sie erneut.</p>
+</li>
+<li class="steps"><p class="p">Eine Meldung informiert Sie darüber, dass die Verbindung erfolgreich abgeschlossen wurde. Klicken Sie auf <span class="gui">Schließen</span>.</p></li>
+</ol></div></div></div>
+<p class="p">Sie können später <span class="link"><a href="bluetooth-remove-connection.html" title="Eine Verbindung zwischen Bluetooth-Geräten entfernen">eine Bluetooth-Verbindung entfernen</a></span>, falls gewünscht.</p>
+<div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">Der Zugriff auf Ihre freigegebenen Dateien wird über <span class="gui">Bluetooth-Freigabe</span> eingestellt. Siehe <span class="link"><a href="sharing-bluetooth.html" title="Einstellungszugriff über Bluetooth">Einstellungszugriff über Bluetooth</a></span>.</p></div></div></div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Ihren Rechner mit einem Bluetooth-Gerät verbinden">Verbinden</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Eine Datei an ein Bluetooth-Gerät senden">Dateien senden</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Bluetooth ein- oder ausschalten">An- und Abschalten</a></span> …</span>
+</li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Siehe auch</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="sharing-bluetooth.html" title="Einstellungszugriff über Bluetooth">Einstellungszugriff über Bluetooth</a><span class="desc"> — Bluetooth Dateiaustausch- und Empfangsoptionen.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

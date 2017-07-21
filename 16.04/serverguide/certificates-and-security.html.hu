@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang=hu>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Tanúsítványok</title>
+<link rel="stylesheet" type="text/css" href="hu.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../16.04" class="trail">Ubuntu 16.04</a> » <a class="trail" href="index.html" title="Ubuntu kiszolgáló kézikönyve">Ubuntu kiszolgáló kézikönyve</a> » <a class="trail" href="security.html" title="Biztonság">Biztonság</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="apparmor.html" title="AppArmor">Előző</a><a class="nextlinks-next" href="ecryptfs.html" title="eCryptfs">Következő</a>
+</div>
+<div class="hgroup"><h1 class="title">Tanúsítványok</h1></div>
+<div class="region">
+<div class="contents">
+<p class="para">Napjainkban a titkosítás egyik legnépszerűbb formája a <span class="em emphasis">nyilvános kulcsú</span> titkosítás. A nyilvános kulcsú titkosítás egy <span class="em emphasis">nyilvános kulcsot</span> és egy <span class="em emphasis">személyes kulcsot</span> használ. A rendszer működésének alapja az információk <span class="em emphasis">titkosítása</span> a nyilvános kulccsal. Az információk ezután csak a személyes kulccsal <span class="em emphasis">fejthetők vissza</span>.</p>
+<p class="para">
+            A common use for public-key cryptography is encrypting application traffic using a Secure Socket Layer (SSL) or 
+            Transport Layer Security (TLS) connection. One example: configuring Apache to provide <span class="em emphasis">HTTPS</span>, the
+            HTTP protocol over SSL. This allows a way to encrypt traffic using a protocol that does not itself provide encryption.
+            </p>
+<p class="para">
+            A <span class="em emphasis">Certificate</span> is a method used to distribute a <span class="em emphasis">public key</span> and other information
+            about a server and the organization who is responsible for it. Certificates can be digitally signed by a 
+            <span class="em emphasis">Certification Authority</span>, or CA. A CA is a trusted third party that has confirmed that the information
+            contained in the certificate is accurate.
+            </p>
+</div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="certificates-and-security.html#types-of-certificates" title="Tanúsítványok típusai">Tanúsítványok típusai</a></li>
+<li class="links"><a class="xref" href="certificates-and-security.html#generating-a-csr" title="Tanúsítvány-aláírási kérés (CSR) előállítása">Tanúsítvány-aláírási kérés (CSR) előállítása</a></li>
+<li class="links"><a class="xref" href="certificates-and-security.html#creating-a-self-signed-certificate" title="Önaláírású tanúsítvány létrehozása">Önaláírású tanúsítvány létrehozása</a></li>
+<li class="links"><a class="xref" href="certificates-and-security.html#installing-the-certificate" title="A tanúsítvány telepítése">A tanúsítvány telepítése</a></li>
+<li class="links"><a class="xref" href="certificates-and-security.html#certificate-authority" title="Hitelesítésszolgáltató">Hitelesítésszolgáltató</a></li>
+<li class="links"><a class="xref" href="certificates-and-security.html#certificate-references" title="Hivatkozások">Hivatkozások</a></li>
+</ul></div>
+<div class="sect2 sect" id="types-of-certificates"><div class="inner">
+<div class="hgroup"><h2 class="title">Tanúsítványok típusai</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Biztonságos kiszolgáló nyilvános kulcsú titkosítás használatára való beállításához a legtöbb esetben el kell küldenie a hitelesítési kérést (a nyilvános kulccsal együtt), a cég azonosságának bizonyítékát, valamint a CA díjazását. A CA ellenőrzi a hitelesítési kérést és az azonosságot, majd visszaküldi a biztonságos kiszolgálóhoz használható tanúsítványt. Ennek alternatívájaként létrehozhat <span class="em emphasis">önaláírású</span> tanúsítványt is.</p>
+<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents">
+              <p class="para">
+              Note that self-signed certificates should not be used in most production environments.
+              </p>
+            </div></div></div></div>
+<p class="para">A HTTPS példát folytatva a CA által aláírt tanúsítvány két fontos képességet biztosít az önaláírású tanúsítványokkal szemben:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+            <p class="para">A böngészők (általában) automatikusan felismerik a tanúsítványt, és lehetővé teszik a biztonságos kapcsolat létrehozását a felhasználó megkérdezése nélkül.</p>
+            </li>
+<li class="list itemizedlist">
+            <p class="para">Amikor egy CA aláírt tanúsítványt ad ki, garantálja a böngésző számára weboldalakat biztosító szervezet azonosságát.</p>
+            </li>
+</ul></div>
+<p class="para">
+             Most Web browsers, and computers, that support SSL have a list of CAs whose
+             certificates they automatically accept. If a browser
+             encounters a certificate whose authorizing CA is not in the
+             list, the browser asks the user to either accept or decline
+             the connection. Also, other applications may generate an error message when using
+             a self-signed certificate.
+            </p>
+<p class="para">A CA-tól tanúsítvány beszerzésének folyamata viszonylag egyszerű. A teendők listája röviden:</p>
+<div class="list orderedlist"><ol class="list orderedlist">
+<li class="list orderedlist">
+               <p class="para">Hozzon létre egy személyes és nyilvános titkosításikulcs-párt.</p>
+            </li>
+<li class="list orderedlist">
+                 <p class="para">Hozzon létre egy tanúsítványigénylést a nyilvános kulcs alapján. A tanúsítványigénylés a kiszolgálóról és az azt működtető cégről tartalmaz információkat.</p>
+            </li>
+<li class="list orderedlist">
+                 <p class="para">Küldje el a tanúsítványigénylést a személyazonosságát igazoló dokumentumokkal egy CA-nak. Nem tehetünk javaslatokat, hogy melyiket válassza. Döntését korábbi tapasztalataira, vagy barátai és kollégái tapasztalataira, vagy pusztán pénzügyi tényezőkre is alapozhatja.</p>
+
+                    <p class="para">Miután kiválasztotta a CA-t, kövesse az általuk adott utasításokat a tanúsítvány megszerzéséhez.</p>
+            </li>
+<li class="list orderedlist">
+               <p class="para">Miután a CA meggyőződött arról, hogy Ön valóban az, akinek mondja magát, elküldi a digitális tanúsítványt.</p>
+            </li>
+<li class="list orderedlist">
+              <p class="para">Telepítse a tanúsítványt a biztonságos kiszolgálóra, és állítsa be a megfelelő alkalmazásokat annak használatára.</p>
+            </li>
+</ol></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="generating-a-csr"><div class="inner">
+<div class="hgroup"><h2 class="title">Tanúsítvány-aláírási kérés (CSR) előállítása</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Akár egy CA-tól szerzi be a tanúsítványt, akár önaláírt tanúsítványt akar használni, az első lépés a kulcs előállítása.</p>
+<p class="para">       
+          If the certificate will be used by service daemons, such as Apache, Postfix, Dovecot, etc., 
+          a key without a passphrase is often appropriate. Not having a passphrase allows the services
+          to start without manual intervention, usually the preferred way to start a daemon.
+          </p>
+<p class="para">Ez a szakasz ismerteti egy jelmondattal rendelkező, és egy azzal nem rendelkező kulcs előállítását. A jelmondat nélküli kulcs ezután szolgáltatásdémonok által használt tanúsítvány előállításához lesz felhasználva.</p>
+<div class="note note-warning" title="Figyelmeztetés"><div class="inner"><div class="region"><div class="contents">
+            <p class="para">A biztonságos szolgáltatás jelmondat nélküli futtatása kényelmes, mert nem igényli a jelmondat megadását a szolgáltatás minden egyes elindításakor. Ugyanakkor nem biztonságos, és a kulcs veszélybe kerülése a kiszolgáló veszélybe kerülését is jelenti.</p>
+          </div></div></div></div>
+<p class="para">A tanúsítvány-aláírási kéréshez használandó <span class="em emphasis">kulcsok</span> előállításához adja ki a következő parancsot:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">openssl genrsa -des3 -out kiszolgáló.key 2048</span>
+</pre></div>
+<div class="code"><pre class="contents ">Generating RSA private key, 2048 bit long modulus
+..........................++++++
+.......++++++
+e is 65537 (0x10001)
+Enter pass phrase for kiszolgáló.key:
+</pre></div>
+<p class="para">Ezután adja meg a jelmondatot. A nagyobb biztonság érdekében legalább nyolc karakterből kell állnia. A -des3 megadásakor a minimális hossz négy karakter. Tartalmaznia kell számokat és/vagy írásjeleket, és nem lehet szótári szó. Ne feledje, hogy a jelmondat megkülönbözteti a kis- és nagybetűket.</p>
+<p class="para">Ellenőrzési célból írja be újra a jelmondatot. A sikeres ismételt megadás után elkészül a kiszolgálókulcs, és a <span class="file filename">server.key</span> fájlba kerül mentésre.</p>
+<p class="para">Hozza létre a nem biztonságos, jelmondat nélküli kulcsot, és keverje meg a kulcsneveket:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">openssl rsa -in server.key -out server.key.insecure</span>
+<span class="cmd command">mv server.key server.key.secure</span>
+<span class="cmd command">mv server.key.insecure server.key</span>
+</pre></div>
+<p class="para">A nem biztonságos kulcs neve most <span class="file filename">server.key</span>, és segítségével előállíthatja a jelmondat nélküli CSR-t.</p>
+<p class="para">A CSR előállításához adja ki a következő parancsot:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">openssl req -new -key server.key -out server.csr</span>
+</pre></div>
+<p class="para">A parancs bekéri a jelmondatot. A helyes jelmondat megadása után bekéri a cégnevet, az oldal címét, e-mail azonosítót stb. A részletes adatok megadása után elkészül a CSR, és a <span class="file filename">server.csr</span> fájlba kerül mentésre.</p>
+<p class="para">Ezután ezt a CSR fájlt elküldheti feldolgozásra egy CA-nak. A CA a CSR fájlt fogja használni, és kiadja a tanúsítványt. Másrészt, ezen CSR segítségével létrehozhat önaláírású tanúsítványt is.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="creating-a-self-signed-certificate"><div class="inner">
+<div class="hgroup"><h2 class="title">Önaláírású tanúsítvány létrehozása</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Az önaláírású tanúsítvány létrehozásához adja ki a következő parancsot:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">openssl x509 -req -days 365 -in server.csr -signkey server.key -out server.crt</span>
+</pre></div>
+<p class="para">A fenti parancs bekéri a jelmondatot. A helyes jelmondat megadása után létrejön a tanúsítvány, és a <span class="file filename">server.crt</span> fájlba kerül mentésre.</p>
+<div class="note note-warning" title="Figyelmeztetés"><div class="inner"><div class="region"><div class="contents">
+        <p class="para">Ha kiszolgálóját éles környezetben szeretné használni, akkor egy CA által aláírt tanúsítványra lesz szüksége. Az önaláírású tanúsítványok használata nem javasolt.</p>
+        </div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="installing-the-certificate"><div class="inner">
+<div class="hgroup"><h2 class="title">A tanúsítvány telepítése</h2></div>
+<div class="region"><div class="contents">
+<p class="para">A következő parancsok kiadásával telepítheti a <span class="file filename">server.key</span> kulcsfájlt és a <span class="file filename">server.crt</span> tanúsítványfájlt, vagy a CA által kiadott tanúsítványfájlt:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo cp server.crt /etc/ssl/certs</span>
+<span class="cmd command">sudo cp server.key /etc/ssl/private</span>
+</pre></div>
+<p class="para">Ezután egyszerűen állítsa be a nyilvános kulcsú titkosítást használni képes alkalmazásokat a <span class="em emphasis">tanúsítvány</span> és <span class="em emphasis">kulcs</span> fájlok használatára. Segítségükkel az <span class="app application">Apache</span> például a HTTPS, a <span class="app application">Dovecot</span> IMAPS és POP3S szolgáltatásokat nyújthatja.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="certificate-authority"><div class="inner">
+<div class="hgroup"><h2 class="title">Hitelesítésszolgáltató</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Ha hálózatán a szolgáltatások néhány önaláírású tanúsítványnál többet igényelnek, érdemes lehet saját belső <span class="em emphasis">hitelesítésszolgáltatót (CA)</span> készíteni. A saját CA által aláírt tanúsítványok használata lehetővé teszi, hogy a tanúsítványokat használó különböző szolgáltatások megbízzanak az azonos CA által kibocsátott tanúsítványokat használó szolgáltatásokban.</p>
+<div class="steps"><div class="inner"><ol class="steps">
+<li class="steps">
+  
+              <p class="para">Első lépésként hozza létre a CA tanúsítványát tartalmazó könyvtárakat és a kapcsolódó fájlokat:</p>    
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo mkdir /etc/ssl/CA</span>
+<span class="cmd command">sudo mkdir /etc/ssl/newcerts</span>
+</pre></div>
+
+            </li>
+<li class="steps">
+  
+              <p class="para">A CA működéséhez néhány további fájl is szükséges, egy a CA által utoljára használt sorozatszám tárolására, mivel minden tanúsítványnak egyedi sorozatszámot kell használnia, és egy másik a kibocsátott tanúsítványok rögzítésére:</p>    
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo sh -c "echo '01' &gt; /etc/ssl/CA/serial"</span>
+<span class="cmd command">sudo touch /etc/ssl/CA/index.txt</span>
+</pre></div>
+
+            </li>
+<li class="steps">
+  
+              <p class="para">A harmadik fájl a CA beállítófájlja. Noha nem feltétlenül szükséges, több tanúsítvány kibocsátásakor nagyon kényelmes. Szerkessze az <span class="file filename">/etc/ssl/openssl.cnf</span> fájlt, és a <span class="em emphasis">[ CA_default ]</span> szakaszban módosítsa a következőket:</p>    
+
+<div class="code"><pre class="contents ">dir             = /etc/ssl              # Where everything is kept
+database        = $dir/CA/index.txt     # database index file.
+certificate     = $dir/certs/cacert.pem # The CA certificate
+serial          = $dir/CA/serial        # The current serial number
+private_key     = $dir/private/cakey.pem# The private key
+</pre></div>    
+
+            </li>
+<li class="steps">
+  
+              <p class="para">
+              Next, create the self-signed root certificate:
+              </p>    
+
+<div class="screen"><pre class="contents "><span class="cmd command">openssl req -new -x509 -extensions v3_ca -keyout cakey.pem -out cacert.pem -days 3650</span>
+</pre></div>
+
+              <p class="para">A program bekéri a tanúsítvány részleteit.</p>
+
+            </li>
+<li class="steps">
+  
+              <p class="para">Ezután telepítse a gyökértanúsítványt és a kulcsot:</p>    
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo mv cakey.pem /etc/ssl/private/</span>
+<span class="cmd command">sudo mv cacert.pem /etc/ssl/certs/</span>
+</pre></div>
+
+            </li>
+<li class="steps">
+  
+              <p class="para">Most már készen áll tanúsítványok aláírására. Első lépésként egy tanúsítvány-aláírási kérésre (CSR) lesz szükség, a részletekért lásd: <a class="xref" href="certificates-and-security.html#generating-a-csr" title="Tanúsítvány-aláírási kérés (CSR) előállítása">Tanúsítvány-aláírási kérés (CSR) előállítása</a>. A CSR beszerzése után adja ki a következő parancsot a CA által aláírt tanúsítvány kiadásához:</p>    
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo openssl ca -in server.csr -config /etc/ssl/openssl.cnf</span>
+</pre></div>
+
+              <p class="para">A CA kulcs jelszavának megadása után a program megkéri a tanúsítvány aláírására, majd az új tanúsítvány véglegesítésére. Ezután nagyobb mennyiségű információ jelenik meg a tanúsítvány létrehozásával kapcsolatban.</p>
+
+            </li>
+<li class="steps">   
+
+              <p class="para">Létrejön egy új, <span class="file filename">/etc/ssl/newcerts/01.pem</span> nevű fájl, amely ugyanezeket az információkat tartalmazza. Másoljon át mindent a <span class="em emphasis">-----BEGIN CERTIFICATE-----</span> és <span class="em emphasis">----END CERTIFICATE-----</span> sorok közül egy új fájlba. Ezt arról a kiszolgálóról nevezze el, amelyen a tanúsítványt használni tervezi. A <span class="file filename">levelezes.pelda.hu.crt</span> például egy szép beszédes név.</p>
+
+              <p class="para">Az ezt követő tanúsítványok neve <span class="file filename">02.pem</span>, <span class="file filename">03.pem</span> stb. lesz.</p>
+
+              <div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents">
+                <p class="para">A <span class="file filename">levelezes.pelda.hu.crt</span> helyett használjon saját beszédes nevet.</p>
+              </div></div></div></div>
+
+            </li>
+<li class="steps">
+  
+              <p class="para">Végül másolja át az új tanúsítványt az azt igénylő gépre, és állítsa be a megfelelő alkalmazásokat annak használatára. A tanúsítványok telepítésének alapértelmezett helye az <span class="file filename">/etc/ssl/certs</span>. Ez túlbonyolított fájljogosultságok használata nélkül több szolgáltatás számára is lehetővé teszi ugyanazon tanúsítvány használatát.</p>    
+
+              <p class="para">A CA tanúsítvány használatára beállítható alkalmazásokhoz át kell másolnia az <span class="file filename">/etc/ssl/certs/cacert.pem</span> fájlt az egyes kiszolgálók <span class="file filename">/etc/ssl/certs/</span> könyvtárába.</p>
+
+            </li>
+</ol></div></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="certificate-references"><div class="inner">
+<div class="hgroup"><h2 class="title">Hivatkozások</h2></div>
+<div class="region"><div class="contents"><div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+              <p class="para">
+              For more detailed instructions on using cryptography see the
+              <a href="http://tldp.org/HOWTO/SSL-Certificates-HOWTO/index.html" class="ulink" title="http://tldp.org/HOWTO/SSL-Certificates-HOWTO/index.html">SSL Certificates HOWTO</a> by tldp.org:
+              </p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para">
+              The Wikipedia <a href="http://en.wikipedia.org/wiki/HTTPS" class="ulink" title="http://en.wikipedia.org/wiki/HTTPS">HTTPS</a> page has more information regarding HTTPS.
+              </p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para">Az <span class="em emphasis">OpenSSL-lel</span> kapcsolatos további információkért lásd az <a href="http://www.openssl.org/" class="ulink" title="http://www.openssl.org/">OpenSSL honlapját</a>.</p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para">
+              Also, O'Reilly's <a href="http://oreilly.com/catalog/9780596002701/" class="ulink" title="http://oreilly.com/catalog/9780596002701/">Network Security with OpenSSL</a> is a good
+              in-depth reference.
+              </p>
+            </li>
+</ul></div></div></div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="apparmor.html" title="AppArmor">Előző</a><a class="nextlinks-next" href="ecryptfs.html" title="eCryptfs">Következő</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p></div>
+</div>
+</body>
+</html>

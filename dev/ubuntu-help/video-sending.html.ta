@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang=ta>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>நான் தயாரித்த வீடியோவை மற்றவர்களால் இயக்க முடியவில்லை</title>
+<link rel="stylesheet" type="text/css" href="ta.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="ஒலி, வீடியோ &amp; படங்கள்">ஒலி, வீடியோ &amp;  படங்கள்</a> › <a class="trail" href="media.html#videos" title="வீடியோக்கள் மற்றும் வீடியோ கேமராக்கள்">வீடியோக்கள்</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">நான் தயாரித்த வீடியோவை மற்றவர்களால் இயக்க முடியவில்லை</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">நீங்கள் உங்கள் Linux கணினியில் உருவாக்கிய வீடியோவை Windows அல்லது Mac OS ஐப் பயன்படுத்தும் மற்றவர்களுக்கு அனுப்பினால், அதை இயக்குவதில் சிக்கல் ஏற்படக்கூடும்.</p>
+<p class="p">உங்கள் வீடியோவை இயக்க அவர்கள் கணினியில் சரியான <span class="em">கோடெக்குகள்</span> நிறுவப்பட்டிருக்க வேண்டும். கோடெக் என்பது வீடியோவை எடுத்து திரையில் காட்டுவது எப்படி எனத் தெரிந்த ஒரு சிறு மென்பொருளாகும். பல வீடியோ வடிவங்கள் உள்ளன, அவற்றை இயக்க ஒவ்வொன்றுக்கும் ஒரு கோடெக் தேவை. உங்கள் வீடியோவின் வடிவமைப்பு எது என அறிய இதைச் செய்யலாம்:</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p">Open <span class="app">Files</span> from the
+      <span class="gui"><a href="shell-introduction.html#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview.</p></li>
+<li class="list"><p class="p">Right-click on the video file and select <span class="gui">Properties</span>.</p></li>
+<li class="list"><p class="p">Go to the <span class="gui">Audio/Video</span> or <span class="gui">Video</span> tab and look at
+      which <span class="gui">Codec</span> are listed under <span class="gui">Video</span> and
+      <span class="gui">Audio</span> (if the video also has audio).</p></li>
+</ul></div></div></div>
+<p class="p">வீடியோவை இயக்குவதில் சிக்கலை எதிர்கொள்பவரிடம், சரியான கோடெக் நிறுவப்பட்டுள்ளதா எனக் கேட்கவும். அவர்களின் வீடியோ இயக்கு பயன்பாட்டின் பெயரையும் தேவையான கோடெக்கின் பெயரையும் சேர்த்து இணையத்தில் தேடுவது பயனுள்ளதாக இருக்கும். உதாரணமாக, உங்கள் வீடியோ <span class="em">Theora</span> வடிவமைப்பைப் பயன்படுத்தி, உங்கள் நண்பர் அதை இயக்கிக் காண Windows Media Player ஐ பயன்படுத்த முயற்சிக்கிறார் எனில், "theora windows media player" என இணையத்தில் தேட வேண்டும். சரியான கோடெக் நிறுவப்படாவிட்டால், பொதுவாக அதை நீங்கள் இலவசமாக பதிவிறக்கி நிறுவ முடியும்.</p>
+<p class="p">நீங்கள் சரியான கோடெக்கைக் கண்டறிய முடியாவிட்டால், <span class="link"><a href="http://www.videolan.org/vlc/" title="http://www.videolan.org/vlc/">VLC media player</a></span> ஐ முயற்சிக்கவும். அது Windows மற்றும் Mac OS மற்றும் Linux இலும் வேலை செய்யும், மேலும் அது பல வீடியோ வடிவமைப்புகளை ஆதரிக்கும். அதுவும் தோல்வியடைந்தால், உங்கள் வீடியோவை வேறு வடிவமைப்புக்கு மாற்ற முயற்சிக்கவும். பெரும்பாலான வீடியோ திருத்திகளைக் கொண்டு இதைச் செய்ய முடியும், சில குறிப்பிட்ட வீடியோ மாற்று பயன்பாடுகளும் உள்ளன. இது போன்ற பயன்பாடு ஏதேனும் உள்ளதா என மென்பொருள் நிறுவி பயன்பாட்டில் பார்க்கவும்.</p>
+<div class="note" title="குறிப்பு"><div class="inner"><div class="region"><div class="contents"><p class="p">உங்கள் வீடியோவை மற்றவர் இயக்குவதைத் தடுக்கும் சில பிற சிக்கல்களும் உள்ளன. நீங்கள் வீடியோவை அவர்களுக்கு அனுப்பும் போது வீடியோ சேதமடைந்திருக்கலாம் (சில சமயம் பெரிய கோப்புகள் சரியாக நகலெடுக்கப்படாமல் போகலாம்), அவர்களின் வீடியோ இயக்கி பயன்பாட்டில் சிக்கல் இருக்கலாம் அல்லது வீடியோ சரியாக உருவாக்கப்படாதிருக்கலாம் (வீடியோவை நீங்கள் சேமிக்கும் போது ஏதேனும் பிழைகள் ஏற்பட்டிருக்கலாம்).</p></div></div></div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
+<div class="region"><ul><li class="links "><a href="media.html#videos" title="வீடியோக்கள் மற்றும் வீடியோ கேமராக்கள்">வீடியோக்கள்</a></li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

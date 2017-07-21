@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang=de>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Eine Datei an ein Bluetooth-Gerät senden</title>
+<link rel="stylesheet" type="text/css" href="de.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu-Leitfaden</a> » <a class="trail" href="hardware.html" title="Hardware und Treiber">Hardware</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu-Leitfaden</a> » <a class="trail" href="net.html" title="Netzwerk, Web, E-Mail und Chat">Netzwerk, Web, E-Mail und Chat</a> » <a class="trail" href="sharing.html" title="Freigabe">Freigabe</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Eine Datei an ein Bluetooth-Gerät senden</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Sie können Dateien an verbundene Bluetooth-Geräte, zum Beispiel Mobiltelefone oder andere Rechner, senden. Einige Gerätetypen ermöglichen keine Übertragungen von Dateien beziehungweise von bestimmten Dateitypen. Sie können Dateien auf einem von drei möglichen Wegen senden: Über das Bluetooth-Symbol in der Menüleiste, über das Bluetooth-Einstellungsfenster oder direkt über die Dateiverwaltung.</p>
+<p class="p">Wie Sie Dateien direkt aus der Dateiverwaltung senden, finden Sie unter <span class="link"><a href="files-share.html" title="Dateien freigeben und übertragen">Dateien freigeben und übertragen</a></span>.</p>
+<div class="note note-important" title="Wichtig"><div class="inner"><div class="region"><div class="contents"><p class="p">Stellen Sie sicher, dass das Bluetooth-Gerät Ihres Rechners eingeschaltet ist, bevor Sie diese Anleitung befolgen. Siehe <span class="link"><a href="bluetooth-turn-on-off.html" title="Bluetooth ein- oder ausschalten">Bluetooth ein- oder ausschalten</a></span>.</p></div></div></div></div>
+<div class="steps"><div class="inner">
+<div class="title title-steps"><h2><span class="title">Dateien über das Bluetooth-Symbol senden</span></h2></div>
+<div class="region"><ol class="steps">
+<li class="steps"><p class="p">Klicken Sie auf das Bluetooth-Symbol in der Menüleiste und wählen Sie <span class="gui">Dateien an Gerät senden</span>.</p></li>
+<li class="steps">
+<p class="p">Wählen Sie die gewünschte Datei aus und klicken Sie auf <span class="gui">Auswählen</span>.</p>
+<p class="p">Um mehr als eine Datei aus einem Ordner zu versenden, halten Sie beim Markieren der Dateien die <span class="key"><kbd>Strg</kbd></span>-Taste gedrückt.</p>
+</li>
+<li class="steps">
+<p class="p">Wählen Sie in der Liste das Gerät aus, an welches Sie die Dateien senden möchten, und klicken Sie auf <span class="gui">Senden</span>.</p>
+<p class="p">Die Geräteliste zeigt sowohl <span class="link"><a href="bluetooth-connect-device.html" title="Ihren Rechner mit einem Bluetooth-Gerät verbinden">Geräte, mit denen Sie bereits verbunden sind,</a></span> als auch <span class="link"><a href="bluetooth-visibility.html" title="Was ist Bluetooth-Sichtbarkeit?">sichtbare Geräte</a></span> im Empfangsradius. Falls Sie sich mit dem ausgewählten Gerät zuvor noch nicht verbunden haben, werden Sie dazu aufgefordert sich mit dem Gerät zu koppeln, nachdem Sie auf <span class="gui">Senden</span> klicken. Dies erfordert wahrscheinlich eine Bestätigung auf dem anderen Gerät.</p>
+<p class="p">Sie können die Liste mit Hilfe der Auswahlliste <span class="gui">Gerätetyp</span> auf bestimmte Gerätetypen begrenzen, falls zu viele Geräte angezeigt werden.</p>
+</li>
+<li class="steps"><p class="p">Der Besitzer des empfangenden Gerätes muss üblicherweise eine Taste drücken, um eine Datei zu akzeptieren. Falls der Empfänger die Datei abweist, wird das Ergebnis der Dateiübertragung auf Ihrem Bildschirm angezeigt.</p></li>
+</ol></div>
+</div></div>
+<div class="steps"><div class="inner">
+<div class="title title-steps"><h2><span class="title">Dateien aus den Bluetooth-Einstellungen senden</span></h2></div>
+<div class="region"><ol class="steps">
+<li class="steps"><p class="p">Klicken Sie auf das Bluetooth-Symbol in der Menüleiste und wählen Sie <span class="gui">Bluetooth-Einstellungen</span>.</p></li>
+<li class="steps"><p class="p">Wählen Sie in der Liste das Gerät aus, an welches Sie die Dateien versenden möchten. Die Liste zeigt nur Geräte an, mit denen Sie bereits verbunden sind. Weiter Informationen unter <span class="link"><a href="bluetooth-connect-device.html" title="Ihren Rechner mit einem Bluetooth-Gerät verbinden">Ihren Rechner mit einem Bluetooth-Gerät verbinden</a></span>.</p></li>
+<li class="steps"><p class="p">In den Geräteinformationen auf der rechten Seite klicken Sie auf <span class="gui">Dateien senden</span>.</p></li>
+<li class="steps">
+<p class="p">Wählen Sie die gewünschte Datei aus und klicken Sie auf <span class="gui">Auswählen</span>.</p>
+<p class="p">Um mehr als eine Datei aus einem Ordner zu versenden, halten Sie beim Markieren der Dateien die <span class="key"><kbd>Strg</kbd></span>-Taste gedrückt.</p>
+</li>
+<li class="steps"><p class="p">Der Besitzer des empfangenden Gerätes muss üblicherweise eine Taste drücken, um eine Datei zu akzeptieren. Falls der Empfänger die Datei abweist, wird das Ergebnis der Dateiübertragung auf Ihrem Bildschirm angezeigt.</p></li>
+</ol></div>
+</div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Ihren Rechner mit einem Bluetooth-Gerät verbinden">Verbinden</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Eine Datei an ein Bluetooth-Gerät senden">Dateien senden</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Bluetooth ein- oder ausschalten">An- und Abschalten</a></span> …</span>
+</li>
+<li class="links ">
+<a href="sharing.html" title="Freigabe">Freigabe</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Ihren Rechner freigeben">Arbeitsfläche teilen</a></span>, <span class="link"><a href="files-share.html" title="Dateien freigeben und übertragen">Dateien teilen</a></span> …</span>
+</li>
+</ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Siehe auch</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="files-share.html" title="Dateien freigeben und übertragen">Dateien freigeben und übertragen</a><span class="desc"> — Senden Sie Dateien aus der Dateiverwaltung an Ihre E-Mail-Kontakte.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

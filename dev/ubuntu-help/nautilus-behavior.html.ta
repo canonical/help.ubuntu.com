@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang=ta>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>கோப்பு மேலாளர் நடத்தை முன்னுரிமைகள்</title>
+<link rel="stylesheet" type="text/css" href="ta.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="கோப்புகள், கோப்புறைகள் மற்றும் தேடல்">கோப்புகள்</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » <a class="trail" href="nautilus-prefs.html" title="கோப்பு மேலாளர் முன்னுரிமைகள்">கோப்பு மேலாளர் முன்னுரிமைகள்</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">கோப்பு மேலாளர் நடத்தை முன்னுரிமைகள்</span></h1></div>
+<div class="region">
+<div class="contents"><p class="p">கோப்புகளைத் திறக்க ஒற்றை சொடுக்கம் செய்ய வேண்டுமா அல்லது இரு சொடுக்கம் செய்ய வேண்டுமா என்பதையும், செயல்படுத்தக்கூடிய உரை கோப்புகள் எப்படி கையாளப்படுகின்றன என்பதையும் குப்பைத் தொட்டி எப்படி நடந்துகொள்ள வேண்டும் என்பதையும் நீங்கள் கட்டுப்படுத்த முடியும். மேல் பட்டியில் <span class="gui">கோப்புகள்</span> ஐ சொடுக்கி <span class="gui">முன்னுரிமைகள்</span> ஐ தேர்வு செய்து, <span class="gui">நடத்தை</span> தாவலைத் தேர்ந்தெடுக்கவும்.</p></div>
+<div id="behavior" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">நடத்தை</span></h2></div>
+<div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">உருப்படிகளைத் திறக்க ஒற்றை சொடுக்கம்</span></dt>
+<dt class="terms"><span class="gui">உருப்படிகளைத் திறக்க இரு சொடுக்கம்</span></dt>
+<dd class="terms"><p class="p">முன்னிருப்பாக, சொடுக்கம் செய்யும் போது கோப்புகள் தேர்வு செய்யப்படும், இரு சொடுக்கும் போது அவை திறக்கப்படும். நீங்கள் மாறாக கோப்புகள் மற்றும் கோப்புறைகளை ஒரு முறை சொடுக்கும் போது அவை திறக்குமாறும் அமைக்கலாம். நீங்கள் ஒற்றை சொடுக்க முறையைப் பயன்படுத்தும் போது ஒன்று அல்லது அதற்கு மேற்பட்ட கோப்புகளைத் தேர்ந்தெடுக்க சொடுக்கும் போது, <span class="key"><kbd>Ctrl</kbd></span> விசையைப் பிடித்துக்கொள்ள வேண்டும்.</p></dd>
+</dl></div></div></div></div></div>
+</div></div>
+<div id="executable" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">செயல்படுத்தக்கூடிய உரை கோப்புகள்</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">நீங்கள் இயக்கக்கூடிய ஒரு நிரலைக் கொண்டுள்ள உரைக் கோப்பே செயல்படுத்தக்கூடிய உரை கோப்பு எனப்படும். ஒரு கோப்பு நிரலாக செயல்படுத்தப்பட வேண்டுமெனில் அதை <span class="link"><a href="nautilus-file-properties-permissions.html" title="கோப்பு அனுமதிகளை அமைத்தல்">கோப்பு அனுமதிகளும்</a></span> அனுமதிக்க வேண்டும். <span class="link"><a href="nautilus-file-properties-permissions.html" title="கோப்பு அனுமதிகளை அமைத்தல்"> கோப்பு அனுமதிகளை </a></span> ஒரு திட்டம் என ரன் கோப்பு அனுமதிக்க வேண்டும். <span class="sys">Shell</span>, <span class="sys">Python</span> மற்றும் <span class="sys">Perl</span> ஸ்கிரிப்ட்டுகள் இவற்றில் பொதுவானவை. அவற்றின் நீட்டிப்புகள் முறையே <span class="file">.sh</span>, <span class="file">.py</span> மற்றும் <span class="file">.pl</span> ஆகும்.</p>
+<p class="p">நீங்கள் செயல்படுத்தக்கூடிய உரை கோப்பு ஒன்றைத் திறக்கும் போது, நீங்கள் இவ்விருப்பங்களைத் தேர்வு செய்யலாம்:</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p"><span class="gui">செயல்படுத்தக்கூடிய உரை கோப்புகளை திறக்கும் போது அவற்றை இயக்குதல்</span></p></li>
+<li class="list"><p class="p"><span class="gui">செயல்படுத்தக்கூடிய உரை கோப்புகளை திறக்கும் போது அவற்றைக் காணுதல்</span></p></li>
+<li class="list"><p class="p"><span class="gui">ஒவ்வொரு முறையும் கேட்டல்</span></p></li>
+</ul></div></div></div>
+<p class="p"><span class="gui">ஒவ்வொரு முறையும் கேட்டல்</span> என்பது தேர்ந்தெடுக்கப்பட்டால், நீங்கள் தேர்ந்தெடுத்த உரை கோப்பை இயக்க வேண்டுமா அல்லது காண வேண்டுமா என கேட்கும் ஒரு பாப்-அப் உரையாடல் காண்பிக்கப்படும்.</p>
+<p class="p">Executable text files are also called <span class="em">scripts</span>. All scripts in the
+ <span class="file">~/.local/share/nautilus/scripts</span> folder will appear in the context
+ menu for a file under the <span class="gui">Scripts</span> submenu. When a
+ script is executed from a local folder, all selected files will be pasted to
+ the script as parameters. To execute a script on a file:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">விரும்பிய கோப்புறைக்குச் செல்லவும்.</p></li>
+<li class="steps"><p class="p">விரும்பும் கோப்பைத் தேர்ந்தெடுக்கவும்.</p></li>
+<li class="steps"><p class="p">சூழல் மெனுவைத் திறக்க கோப்பை வலது சொடுக்கம் செய்து <span class="gui">Scripts</span> மெனுவிலிருந்து இயக்க விரும்பும் ஸ்கிரிப்ட்டைத் தேர்ந்தெடுக்கவும்.</p></li>
+</ol></div></div></div>
+<div class="note note-important" title="முக்கியமானது"><div class="inner"><div class="region"><div class="contents"><p class="p">வலை அல்லது <span class="sys">ftp</span> உள்ளடக்கத்தைக் காட்டும் ஒரு கோப்புறையில் இருந்து ஒரு ஸ்கிரிப்ட்டை இயக்கினால், அதற்கு எந்த அளவுருக்களும் வழங்கப்படாது.</p></div></div></div></div>
+</div></div>
+</div></div>
+<div id="trash" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">குப்பைத்தொட்டி</span></h2></div>
+<div class="region">
+<div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">Ask before emptying the Trash</span></dt>
+<dd class="terms"><p class="p">இந்த விருப்பம் முன்னிருப்பாக தேர்வு செய்யப்பட்டிருக்கும். குப்பைத் தொட்டியை காலியாக்கும் போது, நீங்கள் குப்பைத் தொட்டியை காலி செய்ய வேண்டுமா அல்லது கோப்புகளை அழிக்க வேண்டுமா என்று உறுதிப்படுத்துமாறு ஒரு செய்தி காண்பிக்கப்படும்.</p></dd>
+</dl></div></div></div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">இதனையும் பார்</span></h3></div>
+<div class="region"><ul><li class="links ">
+<a href="files-delete.html" title="கோப்புகள் மற்றும் கோப்புறைகளை அழித்தல்">கோப்புகள் மற்றும் கோப்புறைகளை அழித்தல்</a><span class="desc"> — இனி தேவைப்படாத கோப்புகள் அல்லது கோப்புறைகளை நீக்குதல்.</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="nautilus-prefs.html" title="கோப்பு மேலாளர் முன்னுரிமைகள்">கோப்பு மேலாளர் முன்னுரிமைகள்</a><span class="desc"> — View and set preferences for the file browser.</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

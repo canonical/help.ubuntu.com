@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang=it>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>libvirt</title>
+<link rel="stylesheet" type="text/css" href="it.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../16.04" class="trail">Ubuntu 16.04</a> » <a class="trail" href="index.html" title="Guida a Ubuntu Server">Guida a Ubuntu Server</a> » <a class="trail" href="virtualization.html" title="Virtualizzazione">Virtualizzazione</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="virtualization.html" title="Virtualizzazione">Indietro</a><a class="nextlinks-next" href="qemu.html" title="Qemu">Avanti</a>
+</div>
+<div class="hgroup"><h1 class="title">libvirt</h1></div>
+<div class="region">
+<div class="contents">
+<p class="para">La libreria <span class="app application">libvirt</span> è utilizzata per interfacciarsi con differenti tecnologie di virtualizzazione. Prima di iniziare a utilizzare <span class="app application">libvirt</span> è utile accertarsi che il proprio hardware supporti le estensioni di virtualizzazione necessarie per <span class="app application">KVM</span>. In un terminale, digitare quanto segue:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">kvm-ok</span>
+</pre></div>
+<p class="para">Verrà stampato un messaggio che indica se la CPU <span class="em emphasis">supporta</span> o <span class="em emphasis">non supporta</span> la virtualizzazione hardware.</p>
+<div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents">
+      <p class="para">Su molti computer con processori che supportano la virtualizzazione hardware assistita, è necessario attivare un'opzione nel BIOS per abilitarla.</p>
+    </div></div></div></div>
+</div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="libvirt.html#virtual-networking" title="Rete virtuale">Rete virtuale</a></li>
+<li class="links"><a class="xref" href="libvirt.html#libvirt-installation" title="Installazione">Installazione</a></li>
+<li class="links"><a class="xref" href="libvirt.html#libvirt-virt-install" title="virt-install">virt-install</a></li>
+<li class="links"><a class="xref" href="libvirt.html#libvirt-virt-clone" title="virt-clone">virt-clone</a></li>
+<li class="links"><a class="xref" href="libvirt.html#libvirt-management" title="Gestire la macchina virtuale">Gestire la macchina virtuale</a></li>
+<li class="links"><a class="xref" href="libvirt.html#libvirt-virt-viewer" title="Visualizzatore di macchine virtuali">Visualizzatore di macchine virtuali</a></li>
+<li class="links"><a class="xref" href="libvirt.html#libvirt-resources" title="Risorse">Risorse</a></li>
+</ul></div>
+<div class="sect2 sect" id="virtual-networking"><div class="inner">
+<div class="hgroup"><h2 class="title">Rete virtuale</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Esistono diversi modi per consentire accesso alla rete esterna a una macchina virtuale. La configurazione di rete predefinita è include regole di <span class="em emphasis">bridging</span> e <span class="em emphasis">iptables</span> che implementano la rete  <span class="em emphasis">usermode</span>, che utilizza il protocollo SLIRP. Il traffico è passato attraverso l'interfaccia dell'host verso la rete esterna.</p>
+<p class="para">Affinché gli host esterni possano accedere i servizi su una macchina virtuale, è necessario configurare un tipo di <span class="em emphasis">bridge</span> diverso da quello predefinito. Questo consente alle interfacce virtuali di connettersi alla rete esterna attraverso l'interfaccia fisica, facendole apparire come normali host al resto della rete.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="libvirt-installation"><div class="inner">
+<div class="hgroup"><h2 class="title">Installazione</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Per installare i pacchetti necessari, da un terminale digitare:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install qemu-kvm libvirt-bin</span>
+</pre></div>
+<p class="para">Dopo aver installato <span class="app application">libvirt-bin</span>, l'utente usato per la gestione delle macchine virtuali deve essere aggiunto al gruppo <span class="em emphasis">libvirtd</span>. In questo modo, all'utente è garantito accesso alle configurazioni avanzate di rete.</p>
+<p class="para">In un terminale digitare:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo adduser $USER libvirtd</span>
+</pre></div>
+<div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents">
+        <p class="para">Se l'utente scelto è quello corrente, è necessario terminare la sessione e ri-accedervi affinché le modifiche abbiano effetto.</p>
+      </div></div></div></div>
+<div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents">
+          <p class="para">In more recent releases (&gt;= Yakkety) the group was renamed to <span class="em emphasis">libvirt</span>. Upgraded systems get a new <span class="em emphasis">libvirt</span> group with the same gid as the <span class="em emphasis">libvirtd</span> group to match that.</p>
+      </div></div></div></div>
+<p class="para">È ora possibile installare un sistema operativo <span class="em emphasis">ospite</span>. La procedura di installazione di una macchina virtuale è la stessa di un sistema operativo normale ed è quindi necessario automatizzare la procedura oppure avere una tastiera e uno schermo collegati al computer.</p>
+<p class="para">Nel caso delle macchine virtuali, un'interfaccia grafica è analoga all'uso di una tastiera e di un mouse. Invece di installare un'interfaccia grafica, è possibile usare <span class="app application">virt-viewer</span> per connettersi alla console di una macchina virtuale via <span class="app application">VNC</span>. Per maggiori informazioni, consultare la <a class="xref" href="libvirt.html#libvirt-virt-viewer" title="Visualizzatore di macchine virtuali">Visualizzatore di macchine virtuali</a>.</p>
+<p class="para">There are several ways to automate the Ubuntu installation
+      process, for example using preseeds, kickstart, etc. Refer to the <a href="https://help.ubuntu.com/16.04/installation-guide/" class="ulink" title="https://help.ubuntu.com/16.04/installation-guide/">Ubuntu
+      Installation Guide</a> for details.</p>
+<p class="para">Yet another way to install an Ubuntu virtual machine is to use
+      <span class="app application">uvtool</span>.
+      This application, available as of 14.04, allows you to set up
+      specific VM options, execute custom post-install scripts, etc. For
+      details see <a class="xref" href="cloud-images-and-uvtool.html" title="Immagini cloud e uvtool">Immagini cloud e uvtool</a>.</p>
+<p class="para">Libvirt può anche essere configurato per funzionare con <span class="app application">Xen</span>. Per maggiori dettagli, consultare la pagina della comunità di Xen riportata di seguito.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="libvirt-virt-install"><div class="inner">
+<div class="hgroup"><h2 class="title">virt-install</h2></div>
+<div class="region"><div class="contents">
+<p class="para"><span class="app application">virt-install</span> fa parte del pacchetto <span class="app application">virtinst</span>: per installarlo, in un terminale digitare:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install virtinst</span>
+</pre></div>
+<p class="para">Durante l'uso di <span class="app application">virt-install</span> sono disponibili molte azioni, per esempio:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo virt-install -n web_devel -r 256 \
+--disk path=/var/lib/libvirt/images/web_devel.img,bus=virtio,size=4 -c \
+ubuntu-16.04-server-i386.iso --network network=default,model=virtio \
+--graphics vnc,listen=0.0.0.0 --noautoconsole -v</span>
+</pre></div>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">-n web_devel</span>: il nome della nuova macchine virtuale usato in questo esempio sarà <span class="em emphasis">web_devel</span>.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">-r 256:</span>: specifica la quantità di memoria che la macchina virtuale userà, in megabyte.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">--disk path=/var/lib/libvirt/images/web_devel.img,size=4:</span>: indica il percorso al disco virtuale che può essere un file, una partizione o un volume logico. In questo esempio è un file chiamato <span class="file filename">web_devel.img</span> nella directory /var/lib/libvirt/images/, con una dimensione di 4 gigabyte, che usa <span class="em emphasis">virtio</span> come bus del disco.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">-c ubuntu-16.04-server-i386.iso:</span> file to be used as a virtual
+          CDROM. The file can be either an ISO file or the path to the host's
+          CDROM device.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">--network</span> fornisce dettagli sull'interfaccia della rete della VM. Qui è usata la rete <span class="em emphasis">predefinita</span>, e il modello di interfaccia è configurato per <span class="em emphasis">virtio</span>.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">--graphics vnc,listen=0.0.0.0:</span>: esporta la console virtuale usando VNC e su tutte le interfacce host. Tipicamente i server non hanno interfaccia grafica (GUI) e pertanto è possibile connettere via VNC un altro computer basato su interfaccia grafica sulla rete locale (LAN) per completare l'installazione.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">--noautoconsole</span>: non si collegherà automaticamente alla console della macchina virtuale.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">-v</span>: crea un ospite completamente virtualizzato.</p>
+        </li>
+</ul></div>
+<p class="para">After launching <span class="app application">virt-install</span> you can
+      connect to the virtual machine's console either locally using a GUI (if
+      your server has a GUI), or via a remote VNC client from a GUI-based
+      computer.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="libvirt-virt-clone"><div class="inner">
+<div class="hgroup"><h2 class="title">virt-clone</h2></div>
+<div class="region"><div class="contents">
+<p class="para">L'applicazione <span class="app application">virt-clone</span> può essere usata per copiare una macchina virtuale in un'altra, per esempio:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo virt-clone -o web_devel -n database_devel -f /path/to/database_devel.img</span> 
+</pre></div>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">-o</span>: macchina virtuale originale.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">-n</span>: nome della nuova macchina virtuale.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">-f</span>: percorso al file, volume logico o partizione da usare per la nuova macchina virtuale.</p>
+        </li>
+</ul></div>
+<p class="para">Usare anche le opzioni <span class="em emphasis">-d</span> o <span class="em emphasis">--debug</span> per risolvere i problemi che potrebbero verificarsi con <span class="app application">virt-clone</span>.</p>
+<div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents">
+        <p class="para">Sostituire <span class="em emphasis">web_devel</span> e <span class="em emphasis">database_devel</span> con i nomi delle macchine virtuali appropriati.</p>
+      </div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="libvirt-management"><div class="inner">
+<div class="hgroup"><h2 class="title">Gestire la macchina virtuale</h2></div>
+<div class="region">
+<div class="contents"></div>
+<div class="sect3 sect" id="virsh"><div class="inner">
+<div class="hgroup"><h3 class="title">virsh</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Sono disponibili diverse utilità per la gestione delle macchine virtuali e di <span class="app application">libvirt</span>. L'utilità <span class="app application">virsh</span> può essere utilizzata dalla riga di comando. Alcuni esempi:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+            <p class="para">Per elencare le macchine virtuali in esecuzione:</p>
+
+            <div class="screen"><pre class="contents "><span class="cmd command">virsh list</span>
+</pre></div>
+          </li>
+<li class="list itemizedlist">
+            <p class="para">Per avviare una macchina virtuale:</p>
+
+            <div class="screen"><pre class="contents "><span class="cmd command">virsh start web_devel</span>
+</pre></div>
+          </li>
+<li class="list itemizedlist">
+            <p class="para">Similmente, per lanciare una macchina virtuale durante l'avvio del computer:</p>
+
+            <div class="screen"><pre class="contents "><span class="cmd command">virsh autostart web_devel</span>
+</pre></div>
+          </li>
+<li class="list itemizedlist">
+            <p class="para">Riavviare una macchina virtuale con:</p>
+
+            <div class="screen"><pre class="contents "><span class="cmd command">virsh reboot web_devel</span>
+</pre></div>
+          </li>
+<li class="list itemizedlist">
+            <p class="para">Lo <span class="em emphasis">stato</span> di una macchina virtuale può essere salvato in un file per poterlo ripristinare successivamente. Il seguente comando salva lo stato della macchina virtuale in un file nominato in base alla data.</p>
+
+            <div class="screen"><pre class="contents "><span class="cmd command">virsh save web_devel web_devel-022708.state</span>
+</pre></div>
+
+            <p class="para">Una volta salvata, la macchina virtuale non sarà più in esecuzione.</p>
+          </li>
+<li class="list itemizedlist">
+            <p class="para">Per ripristinare una macchina virtuale:</p>
+
+            <div class="screen"><pre class="contents "><span class="cmd command">virsh restore web_devel-022708.state</span>
+</pre></div>
+          </li>
+<li class="list itemizedlist">
+            <p class="para">Per arrestare una macchina virtuale:</p>
+
+            <div class="screen"><pre class="contents "><span class="cmd command">virsh shutdown web_devel</span>
+</pre></div>
+          </li>
+<li class="list itemizedlist">
+            <p class="para">Per montare un CD-ROM in una macchina virtuale, digitare:</p>
+
+            <div class="screen"><pre class="contents "><span class="cmd command">virsh attach-disk web_devel /dev/cdrom /media/cdrom</span>
+</pre></div>
+          </li>
+</ul></div>
+<div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents">
+          <p class="para">Nell'esempio precedente, sostituire <span class="em emphasis">web_devel</span> con il nome della macchina virtuale appropriata e <span class="file filename">web_devel-022708.state</span> con un nome file descrittivo.</p>
+          <p class="para">
+              If virsh (or other vir* tools) shall connect to something else than the default qemu-kvm/system hipervisor one can find alternatives for the <span class="em emphasis">connect</span> option in <span class="em emphasis">man virsh</span> or <a href="http://libvirt.org/uri.html" class="ulink" title="http://libvirt.org/uri.html">libvirt doc</a>
+          </p>
+        </div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="migration"><div class="inner">
+<div class="hgroup"><h3 class="title">migration</h3></div>
+<div class="region"><div class="contents">
+<p class="para">There are different types of migration available depending on the versions of libvirt and the hipervisor being used.
+         In general those types are:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist"> <p class="para"><a href="https://libvirt.org/migration.html#offline" class="ulink" title="https://libvirt.org/migration.html#offline">offline migration</a></p> </li>
+<li class="list itemizedlist"> <p class="para"><a href="https://libvirt.org/migration.html" class="ulink" title="https://libvirt.org/migration.html">live migration</a></p> </li>
+<li class="list itemizedlist"> <p class="para"><a href="http://wiki.qemu.org/Features/PostCopyLiveMigration" class="ulink" title="http://wiki.qemu.org/Features/PostCopyLiveMigration">postcopy migration</a></p> </li>
+</ul></div>
+<p class="para">There are various options to those methods, but the entry point for all of them is <span class="em emphasis">virsh migrate</span>. Read the integrated help for more detail.</p>
+<div class="screen"><pre class="contents "> <span class="cmd command">virsh migrate --help</span> </pre></div>
+<p class="para">Some useful documentation on constraints and considerations about live migration can be found at the <a href="https://wiki.ubuntu.com/QemuKVMMigration" class="ulink" title="https://wiki.ubuntu.com/QemuKVMMigration">Ubuntu Wiki</a></p>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="virt-manager"><div class="inner">
+<div class="hgroup"><h3 class="title">Gestore della macchina virtuale</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Il pacchetto <span class="app application">virt-manager</span> contiene un'utilità grafica per gestire le macchie virtuali locali e remote. Per installare virt-manager digitare:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install virt-manager</span>
+</pre></div>
+<p class="para">Dato che <span class="app application">virt-manager</span> richiede un'interfaccia grafica (GUI), è raccomandato installarlo su una workstation o una postazione di prova invece che un server di produzione. Per connettersi al servizio <span class="app application">libvirt</span> locale:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">virt-manager -c qemu:///system</span>
+</pre></div>
+<p class="para">È possibile collegarsi al servizio <span class="app application">libvirt</span> in esecuzione su un altro host digitando, in un terminale:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">virt-manager -c qemu+ssh://virtnode1.mydomain.com/system</span>
+</pre></div>
+<div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents">
+          <p class="para">L'esempio precedente assume che la connessione <span class="app application">SSH</span> tra il sistema di gestione e virtnode1.mydomain.com sia già configurata e utilizzi le chiavi SSH per l'autenticazione. Le <span class="em emphasis">chiavi</span> SSH sono necessarie perché <span class="app application">libvirt</span> invia il prompt password a un altro processo. Per maggiori informazioni sulla configurazione di <span class="app application">SSH</span>, consultare la <a class="xref" href="openssh-server.html" title="Server OpenSSH">Server OpenSSH</a></p>
+        </div></div></div></div>
+</div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect2 sect" id="libvirt-virt-viewer"><div class="inner">
+<div class="hgroup"><h2 class="title">Visualizzatore di macchine virtuali</h2></div>
+<div class="region"><div class="contents">
+<p class="para">L'applicazione <span class="app application">virt-viewer</span> consente di collegarsi alla console di una macchina virtuale. <span class="app application">virt-viewer</span> non richiede un'interfaccia grafica per interagire con la macchina virtuale.</p>
+<p class="para">Per installare <span class="app application">virt-viewer</span>, da un terminale digitare:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install virt-viewer</span>
+</pre></div>
+<p class="para">Una volta installata e in esecuzione, è possibile connettersi alla console della macchina virtuale digitando:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">virt-viewer web_devel</span>
+</pre></div>
+<p class="para">Analogamente a <span class="app application">virt-manager</span>, <span class="app application">virt-viewer</span> può collegarsi a un host remoto utilizzando <span class="em emphasis">SSH</span> con chiave di autenticazione:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">virt-viewer -c qemu+ssh://virtnode1.miodominio.it/system web_devel</span>
+</pre></div>
+<p class="para">Assicurarsi di sostituire <span class="em emphasis">web_devel</span> con il nome corretto della macchina virtuale.</p>
+<p class="para">Se configurato per usare un'interfaccia di rete <span class="em emphasis">bridge</span>, è anche possibile impostare un accesso <span class="app application">SSH</span> alla macchina virtuale.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="libvirt-resources"><div class="inner">
+<div class="hgroup"><h2 class="title">Risorse</h2></div>
+<div class="region"><div class="contents"><div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+          <p class="para">Cosultare il sito web di <a href="http://www.linux-kvm.org/" class="ulink" title="http://www.linux-kvm.org/">KVM</a> per ulteriori dettagli.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">Per maggiori informazioni su <span class="app application">libvirt</span>, consultare <a href="http://libvirt.org/" class="ulink" title="http://libvirt.org/">il sito web di libvirt</a></p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">The <a href="http://virt-manager.org/" class="ulink" title="http://virt-manager.org/">Virtual
+          Machine Manager</a> site has more information on
+          <span class="app application">virt-manager</span> development.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">È anche possibile passare nel canale IRC <span class="em emphasis">#ubuntu-virt</span> su <a href="http://freenode.net/" class="ulink" title="http://freenode.net/">freenode</a> per discutere delle tecnologie di virtualizzazione in Ubuntu.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">Un'altra ottima risorsa è la <a href="https://help.ubuntu.com/community/KVM" class="ulink" title="https://help.ubuntu.com/community/KVM">documentazione online</a> riguardo KVM.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">Per maggiori informazioni su Xen, compreso il suo utilizzo con libvirt, consultare la pagina della documentazione di <a href="https://help.ubuntu.com/community/Xen" class="ulink" title="https://help.ubuntu.com/community/Xen">Xen</a>.</p>
+        </li>
+</ul></div></div></div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="virtualization.html" title="Virtualizzazione">Indietro</a><a class="nextlinks-next" href="qemu.html" title="Qemu">Avanti</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p></div>
+</div>
+</body>
+</html>

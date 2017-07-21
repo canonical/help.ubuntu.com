@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang=el>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Ανίχνευση προβλημάτων ασύρματης σύνδεσης</title>
+<link rel="stylesheet" type="text/css" href="el.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-wireless.html" title="Ασύρματη δικτύωση">Ασύρματη δικτύωση</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Ανιχνευτής προβλημάτων ασύρματου δικτύου</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> › <a class="trail" href="hardware.html#problems" title="Κοινά προβλήματα">Προβλήματα</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Ανιχνευτής προβλημάτων ασύρματου δικτύου</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Προηγούμενο</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Επόμενο</a>
+</div>
+<div class="hgroup">
+<h1 class="title"><span class="title">Ανίχνευση προβλημάτων ασύρματης σύνδεσης</span></h1>
+<h2 class="subtitle"><span class="subtitle">Ελέγξετε ότι ο ασύρματος προσαρμογέας αναγνωρίστηκε</span></h2>
+</div>
+<div class="region">
+<div class="contents">
+<p class="p">Ακόμα κι αν ο ασύρματος προσαρμογέας είναι συνδεμένος στον υπολογιστή, ενδέχεται να μην έχει αναγνωριστεί ως συσκευή δικτύου από τον υπολογιστή. Σε αυτό το βήμα, θα ελέγξετε εάν η συσκευή αναγνωρίστηκε κατάλληλα.</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Ανοίξτε ένα παράθυρο τερματικού, πληκτρολογήστε <span class="cmd">lshw -C network</span> και πατήστε <span class="key"><kbd>Enter</kbd></span>. Εάν αυτό δίνει ένα μήνυμα σφάλματος, μπορεί να χρειαστείτε να εγκαταστήσετε το πρόγραμμα <span class="app">lshw</span> στον υπολογιστή σας.</p></li>
+<li class="steps">
+<p class="p">Κοιτάξτε τις πληροφορίες που εμφανίστηκαν και βρείτε την ενότητα <span class="em">Ασύρματη διεπαφή</span>. Εάν ο ασύρματος προσαρμογέας σας ανιχνεύτηκε σωστά, θα πρέπει να δείτε κάτι παρόμοιο (αλλά όχι ταυτόσημο) με αυτό:</p>
+<div class="code"><pre class="contents ">*-network
+       description: Wireless interface
+       product: PRO/Wireless 3945ABG [Golan] Network Connection
+       vendor: Intel Corporation</pre></div>
+</li>
+<li class="steps">
+<p class="p">Εάν μια ασύρματη συσκευή είναι καταχωρημένη, συνεχίστε στο <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Βήμα οδηγών συσκευής</a></span>.</p>
+<p class="p">Εάν μια ασύρματη συσκευή <span class="em">δεν</span> είναι καταχωρημένη, τα επόμενα βήματα που παίρνετε θα εξαρτηθούν από τον τύπο της συσκευής που χρησιμοποιείτε. Δείτε την παρακάτω ενότητα που είναι σχετική με τον τύπο του ασύρματου προσαρμογέα που έχει ο υπολογιστής σας (<span class="link"><a href="#pci" title="PCI (εσωτερικός) ασύρματος προσαρμογέας">εσωτερικό PCI</a></span>, <span class="link"><a href="#usb" title="Ασύρματος προσαρμογέας USB">USB</a></span>, ή <span class="link"><a href="#pcmcia" title="Έλεγχος για μια συσκευή PCMCIA">PCMCIA</a></span>).</p>
+</li>
+</ol></div></div></div>
+</div>
+<div id="pci" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">PCI (εσωτερικός) ασύρματος προσαρμογέας</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Οι εσωτερικοί προσαρμογείς PCI είναι οι πιο συνηθισμένοι και βρίσκονται στους περισσότερους φορητούς υπολογιστές στα τελευταία λίγα χρόνια. Για να ελέγξετε εάν ο ασύρματος προσαρμογέας σας PCI αναγνωρίστηκε:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Ανοίξτε ένα τερματικό, πληκτρολογήστε <span class="cmd">lspci</span> και πατήστε <span class="key"><kbd>Enter</kbd></span>.</p></li>
+<li class="steps">
+<p class="p">Κοιτάξτε τη λίστα των συσκευών που προβάλλονται και βρείτε οποιαδήποτε είναι σημειωμένη ως <span class="code">ελεγκτής δικτύου</span> ή <span class="code">ελεγκτής Ethernet</span>. Αρκετές συσκευές μπορεί να είναι σημειωμένες με αυτόν τον τρόπο· αυτή που αντιστοιχεί στον ασύρματο προσαρμογέα μπορεί να περιλαμβάνει λέξεις όπως <span class="code">ασύρματο</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> ή <span class="code">802.11</span>. Ιδού ένα παράδειγμα πώς μπορεί να μοιάζει η καταχώριση:</p>
+<div class="code"><pre class="contents ">Network controller: Intel Corporation PRO/Wireless 3945ABG [Golan] Network Connection</pre></div>
+</li>
+<li class="steps"><p class="p">Εάν βρήκατε τον ασύρματο προσαρμογέα σας στη λίστα, συνεχίστε στο <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Βήμα οδηγών συσκευής</a></span>. Εάν δεν βρήκατε τίποτα σχετικό με τον ασύρματο προσαρμογέα σας, δείτε <span class="link"><a href="#not-recognized" title="Δεν αναγνωρίστηκε ο ασύρματος προσαρμογέας">τις παρακάτω οδηγίες</a></span>.</p></li>
+</ol></div></div></div>
+</div></div>
+</div></div>
+<div id="usb" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Ασύρματος προσαρμογέας USB</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Οι ασύρματοι προσαρμογείς που συνδέονται σε μια θύρα USB στον υπολογιστή σας είναι λιγότερο συνηθισμένοι. Μπορούν να συνδεθούν άμεσα σε μια θύρα USB, ή μπορούν να συνδεθούν με ένα καλώδιο USB. Οι προσαρμογείς ευρυζωνικού 3G/κινητού φαίνονται αρκετά παρόμοιοι με ασύρματους (wifi) προσαρμογείς, έτσι εάν νομίζετε ότι έχετε έναν ασύρματο προσαρμογέα USB, διπλοελέγξτε ότι δεν είναι στην πραγματικότητα ένας προσαρμογέας 3G. Για να ελέγξετε εάν ο ασύρματος προσαρμογέας σας USB αναγνωρίστηκε:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Ανοίξτε ένα τερματικό, πληκτρολογήστε <span class="cmd">lsusb</span> και πατήστε <span class="key"><kbd>Enter</kbd></span>.</p></li>
+<li class="steps">
+<p class="p">Κοιτάξτε τη λίστα των συσκευών που προβάλλονται και βρείτε οποιαδήποτε φαίνεται να αναφέρεται σε μια ασύρματη ή δικτυακή συσκευή. Αυτή που αντιστοιχεί στον ασύρματο προσαρμογέα μπορεί να περιλαμβάνει λέξεις όπως <span class="code">ασύρματο</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> ή <span class="code">802.11</span>. Ιδού ένα παράδειγμα πώς μπορεί να μοιάζει η καταχώριση:</p>
+<div class="code"><pre class="contents ">Bus 005 Device 009: ID 12d1:140b Huawei Technologies Co., Ltd. EC1260 Wireless Data Modem HSD USB Card</pre></div>
+</li>
+<li class="steps"><p class="p">Εάν βρήκατε τον ασύρματο προσαρμογέα σας στη λίστα, συνεχίστε στο <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Βήμα οδηγών συσκευής</a></span>. Εάν δεν βρήκατε τίποτα σχετικό με τον ασύρματο προσαρμογέα σας, δείτε <span class="link"><a href="#not-recognized" title="Δεν αναγνωρίστηκε ο ασύρματος προσαρμογέας">τις παρακάτω οδηγίες</a></span>.</p></li>
+</ol></div></div></div>
+</div></div>
+</div></div>
+<div id="pcmcia" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Έλεγχος για μια συσκευή PCMCIA</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Οι ασύρματοι προσαρμογείς PCMCIA είναι τυπικά ορθογώνιες κάρτες που έχουν σχισμή στην πλευρά του φορητού υπολογιστή. Βρίσκονται συνήθως σε παλιότερους υπολογιστές. Για να ελέγξετε εάν ο προσαρμογέας PCMCIA αναγνωρίστηκε:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Εκκινήστε τον υπολογιστή σας <span class="em">χωρίς</span> τον ασύρματο προσαρμογέα συνδεμένο.</p></li>
+<li class="steps">
+<p class="p">Ανοίξτε ένα τερματικό και πληκτρολογήστε τα παρακάτω, έπειτα πατήστε <span class="key"><kbd>Enter</kbd></span>:</p>
+<div class="code"><pre class="contents ">tail -f /var/log/messages</pre></div>
+<p class="p">Αυτό θα εμφανίσει μια λίστα μηνυμάτων σχετικών με το υλικό του υπολογιστή σας και θα ενημερωθεί αυτόματα εάν κάτι με το υλικό σας άλλαξε.</p>
+</li>
+<li class="steps"><p class="p">Εισάγετε τον ασύρματο προσαρμογέα σας στη σχισμή PCMCIA και δείτε τι αλλάζει στο παράθυρο τερματικού. Οι αλλαγές πρέπει να περιλαμβάνουν κάποιες πληροφορίες για τον ασύρματο προσαρμογέα σας. Κοιτάξτε τις και δείτε αν μπορείτε να τις ταυτοποιήσετε.</p></li>
+<li class="steps"><p class="p">Για να μην εκτελεστεί η εντολή στο τερματικό, πατήστε <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span>. Αφού έχετε κάνει αυτό, μπορείτε να κλείσετε το τερματικό εάν θέλετε.</p></li>
+<li class="steps"><p class="p">Εάν βρήκατε οποιαδήποτε πληροφορία για τον ασύρματο προσαρμογέα σας, συνεχίστε στο <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">βήμα οδηγών συσκευής</a></span>. Εάν δεν βρήκατε τίποτα σχετικό με τον ασύρματο προσαρμογέα σας, δείτε <span class="link"><a href="#not-recognized" title="Δεν αναγνωρίστηκε ο ασύρματος προσαρμογέας">τις παρακάτω οδηγίες</a></span>.</p></li>
+</ol></div></div></div>
+</div></div>
+</div></div>
+<div id="not-recognized" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Δεν αναγνωρίστηκε ο ασύρματος προσαρμογέας</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Εάν ο ασύρματος προσαρμογέας δεν αναγνωρίστηκε, μπορεί να μην δουλεύει σωστά ή οι σωστοί οδηγοί ενδέχεται να μην είναι εγκατεστημένοι για αυτόν. Για να δείτε εάν υπάρχουν οδηγοί που μπορείτε να εγκαταστήσετε εξαρτάται από ποια διανομή Linux χρησιμοποιείτε (όπως Ubuntu, Arch, Fedora ή openSUSE).</p>
+<p class="p">Για να πάρετε συγκεκριμένη βοήθεια, κοιτάξτε τις επιλογές υποστήριξης στον ιστότοπο της διανομή σας. Αυτές μπορεί να περιλαμβάνουν λίστες αλληλογραφίας και συνομιλίες ιστού όπου μπορείτε να ρωτήσετε για τον προσαρμογέα ασυρμάτου, για παράδειγμα.</p>
+</div></div>
+</div></div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Προηγούμενο</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Επόμενο</a>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless-troubleshooting.html" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Ανιχνευτής προβλημάτων ασύρματου δικτύου</a><span class="desc"> — Ταυτοποιήστε και διορθώστε προβλήματα με ασύρματες συνδέσεις</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

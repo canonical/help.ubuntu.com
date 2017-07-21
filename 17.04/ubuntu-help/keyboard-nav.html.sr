@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang=sr>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Навигација тастатуром</title>
+<link rel="stylesheet" type="text/css" href="sr.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Помоћ"></span></span> Убунтуов водич за радну површ</a> » <a class="trail" href="a11y.html" title="Универзални приступ">Универзални приступ</a> › <a class="trail" href="a11y.html#mobility" title="Оштећења покрета">Оштећења покрета</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Помоћ"></span></span> Убунтуов водич за радну површ</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="keyboard.html" title="Тастатура">Тастатура</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Помоћ"></span></span> Убунтуов водич за радну површ</a> » <a class="trail" href="hardware.html" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="keyboard.html" title="Тастатура">Тастатура</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Навигација тастатуром</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Ова страница описује навигацију тастатуром за људе који не могу да користе миша или други показивачки уређај, или који желе што више да користе тастатуру. За пречице тастатуре које су корисне свим корисницима, погледајте <span class="link"><a href="shell-keyboard-shortcuts.html" title="Корисне пречице тастатуре">Корисне пречице тастатуре</a></span>.</p>
+<div class="note note-tip" title="Савет"><div class="inner"><div class="region"><div class="contents"><p class="p">Ако не можете да користите показивачки уређај као што је миш, можете да управљате показивачем миша користећи бројни одељак на вашој тастатури. Погледајте <span class="link"><a href="mouse-mousekeys.html" title="Кликните и померите показивач миша користећи тастатуру">Кликните и померите показивач миша користећи тастатуру</a></span> за појединости.</p></div></div></div></div>
+<div class="table"><div class="inner">
+<div class="title title-table"><h2><span class="title">Крећите се корисничким сучељем</span></h2></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p"><span class="key"><kbd>Таб</kbd></span> и <span class="keyseq"><span class="key"><kbd>Ктрл</kbd></span>+<span class="key"><kbd>Таб</kbd></span></span></p></td>
+<td>
+<p class="p">Поставите први план тастатуре над разним дугмићима. <span class="keyseq"><span class="key"><kbd>Ктрл</kbd></span>+<span class="key"><kbd>Таб</kbd></span></span> премешта између група дугмади, као са бочне површи на главни садржај. <span class="keyseq"><span class="key"><kbd>Ктрл</kbd></span>+<span class="key"><kbd>Таб</kbd></span></span> може такође да прекине управљање које користи сам <span class="key"><kbd>Таб</kbd></span>, као што је област текста.</p>
+<p class="p">Придржите <span class="key"><kbd>Шифт</kbd></span> да преместите први план обрнутим редом.</p>
+</td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Тастери стрелица</p></td>
+<td style="border-top-style: solid;">
+<p class="p">Премештајте избор између ставки у једном управљању, или уз скуп односних управљања. Користите тастере стрелица да поставите у први план дугмад на траци алата, изаберете ставке на списку или у прегледу иконицама, или да изаберете радио дугме из групе.</p>
+<p class="p">У прегледу стаблом, користите леву и десну стрелицу да скупите и раширите ставке са садржајем.</p>
+</td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ктрл</kbd></span>+Тастери стрелица</span></p></td>
+<td style="border-top-style: solid;"><p class="p">У прегледу списком или иконицама, преместите први план тастатуре на другу ставку а да не мењате изабрану ставку.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Шифт</kbd></span>+Тастери стрелица</span></p></td>
+<td style="border-top-style: solid;"><p class="p">У прегледу списком или иконицама, изаберите све ставке од тренутно изабране све до новофокусиране ставке.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Размак</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Активирајте ставку из првог плана као што је дугме, кућица избора, или ставка списка.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ктрл</kbd></span>+<span class="key"><kbd>Размак</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">У прегледу списком или иконицама, изаберите или поништите избор ставке из првог плана а да не поништите избор осталих ставки.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Алт</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Држите притиснутим тастер <span class="key"><kbd>Алт</kbd></span> да откријете <span class="em">убрзиваче</span>: подвучена слова ставки изборника, дугмади, и осталих управљања. Притисните <span class="key"><kbd>Алт</kbd></span> и подвучено слово да активирате управљање, као да сте кликнули на њ.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Изађи</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Напустите изборник, облачић, пребацивач, или прозорче.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Ф10</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Отворите први изборник на траци изборника прозора. Користите стрелице да се крећете по изборницима.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Помак</kbd></span>+<span class="key"><kbd>Ф10</kbd></span></span> или тастер изборника</p></td>
+<td style="border-top-style: solid;"><p class="p">Прикажите приручни изборник за тренутни избор, као да сте кликнули десним тастером миша.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ктрл</kbd></span>+<span class="key"><kbd>Ф10</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">У управнику датотека, прикажите приручни изборник за текућу фасциклу, као да сте кликнули десним тастером миша на позадину а не на неку ставку.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ктрл</kbd></span>+<span class="key"><kbd>Страница горе</kbd></span></span> и <span class="keyseq"><span class="key"><kbd>Ктрл</kbd></span>+<span class="key"><kbd>Страница доле</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">У сучељу језичака, пребаците се на језичак на лево или десно.</p></td>
+</tr>
+</table></div>
+</div></div>
+<div class="table"><div class="inner">
+<div class="title title-table"><h2><span class="title">Крећите се радном површином</span></h2></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Алт</kbd></span>+<span class="key"><kbd>Таб</kbd></span></span></p></td>
+<td><p class="p"><span class="link"><a href="shell-windows-switching.html" title="Пребацујте се између прозора">Брзо се пребацујте између прозора.</a></span> Држите притиснутим <span class="key"><kbd>Помак</kbd></span> за преокренути поредак.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Алт</kbd></span>+<span class="key"><kbd>`</kbd></span></span></p></td>
+<td style="border-top-style: solid;">
+<p class="p">Пребацујте се између прозора из истог програма, или из изабраног програма после <span class="keyseq"><span class="key"><kbd>Алт</kbd></span>+<span class="key"><kbd>Таб</kbd></span></span>.</p>
+<p class="p">Ова пречица користи <span class="key"><kbd>`</kbd></span> на америчким тастатурама, на којима се тастер <span class="key"><kbd>`</kbd></span> налази изнад тастера <span class="key"><kbd>Таб</kbd></span>. На свим осталим тастатурама, пречица је <span class="key"><kbd>Алт</kbd></span> плус тастер изнад тастера <span class="key"><kbd>Таб</kbd></span>.</p>
+</td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ктрл</kbd></span>+<span class="key"><kbd>Алт</kbd></span>+<span class="key"><kbd>Тастери стрелица</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html" title="Пребацујте се између радних простора">Пребацујте се између радних простора.</a></span></p></td>
+</tr>
+</table></div>
+</div></div>
+<div class="table"><div class="inner">
+<div class="title title-table"><h2><span class="title">Крећите се прозорима</span></h2></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Алт</kbd></span>+<span class="key"><kbd>Ф4</kbd></span></span></p></td>
+<td><p class="p">Затворите тренутни прозор.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Алт</kbd></span>+<span class="key"><a href="windows-key.html" title="Шта је то тастер „Супер“?"><kbd>Супер</kbd></a></span>+<span class="key"><kbd>↓</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Вратите увеличан прозор на његову изворну величину.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Алт</kbd></span>+<span class="key"><kbd>Ф7</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Преместите текући прозор. Притисните <span class="keyseq"><span class="key"><kbd>Алт</kbd></span>+<span class="key"><kbd>Ф7</kbd></span></span>, затим користите стрелице да преместите прозор. Притисните <span class="key"><kbd>Унеси</kbd></span> да завршите са премештањем прозора, или <span class="key"><kbd>Изађи</kbd></span> да га вратите на његово првобитно место.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Алт</kbd></span>+<span class="key"><kbd>Ф8</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Промените величину текућег прозора. Притисните <span class="keyseq"><span class="key"><kbd>Алт</kbd></span>+<span class="key"><kbd>Ф8</kbd></span></span>, затим користите стрелице да промените величину прозора. Притисните <span class="key"><kbd>Унеси</kbd></span> да завршите са променом величине прозора, или <span class="key"><kbd>Изађи</kbd></span> да га вратите на његову првобитну величину.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ктрл</kbd></span>+<span class="key"><kbd>Алт</kbd></span>+<span class="key"><kbd>Помак</kbd></span>+<span class="key"><kbd>Тастери стрелица</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html" title="Преместите прозор на други радни простор">Преместите тренутни прозор на други радни простор.</a></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Алт</kbd></span>+<span class="key"><a href="windows-key.html" title="Шта је то тастер „Супер“?"><kbd>Супер</kbd></a></span>+<span class="key"><kbd>↑</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-maximize.html" title="Повећајте и поништите повећање прозора">Увећајте</a></span> прозор.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ктрл</kbd></span>+<span class="key"><a href="windows-key.html" title="Шта је то тастер „Супер“?"><kbd>Супер</kbd></a></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Увећајте прозор усправно дуж леве стране екрана.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Алт</kbd></span>+<span class="key"><a href="windows-key.html" title="Шта је то тастер „Супер“?"><kbd>Супер</kbd></a></span>+<span class="key"><kbd>→</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Увећајте прозор усправно дуж десне стране екрана.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Алт</kbd></span>+<span class="key"><kbd>Размак</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Прикажите изборник прозора, као да сте кликнули десним тастером миша на траку наслова.</p></td>
+</tr>
+</table></div>
+</div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Још података</span></h2></div>
+<div class="region"><ul>
+<li class="links "><a href="a11y.html#mobility" title="Оштећења покрета">Оштећења покрета</a></li>
+<li class="links ">
+<a href="keyboard.html" title="Тастатура">Тастатура</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Користите заменске изворе улаза">Извори улаза</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Учините да курсор тастатуре трепери">треперење курсора</a></span>, <span class="link"><a href="windows-key.html" title="Шта је то тастер „Супер“?">тастер супер</a></span>, <span class="link"><a href="a11y.html#mobility" title="Оштећења покрета">приступачност тастатуре</a></span>…</span>
+</li>
+</ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Погледајте и</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="shell-keyboard-shortcuts.html" title="Корисне пречице тастатуре">Корисне пречице тастатуре</a><span class="desc"> — Крећите се по радној површи користећи тастатуру.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

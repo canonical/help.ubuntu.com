@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang=nl>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Waarom wordt mijn muziekspeler niet herkend wanneer ik hem aansluit?</title>
+<link rel="stylesheet" type="text/css" href="nl.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Handleiding Ubuntu-desktop</a> » <a class="trail" href="media.html" title="Geluid, video &amp; foto's">Geluid, video &amp; foto's</a> › <a class="trail" href="media.html#music" title="Muziek en draagbare geluidsspelers">Muziek en audiospelers</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Waarom wordt mijn muziekspeler niet herkend wanneer ik hem aansluit?</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Als uw muziekspeler (MP3-speler e.d.) aangesloten is op de computer maar u kunt hem niet zien in uw audio-afspeeltoepassing, dan is hij mogelijk niet op de juiste manier herkend als muziekspeler.</p>
+<p class="p">Probeer de speler los te koppelen en sluit deze weer aan. Als dat niet helpt, <span class="link"><a href="files-browse.html" title="Door bestanden en mappen bladeren"> open dan bestandsbeheer</a></span>. U zou de speler moeten zien onder <span class="gui"> Apparaten </span> in de zijbalk - klik er op om de map van de audiospeler te openen. Klik op <span class="guiseq"><span class="gui">Bestand</span> ▸ <span class="gui">Nieuw document</span> ▸ <span class="gui">Leeg document</span></span>, typ <span class="input">.is_audio_player</span> en druk op <span class="key"><kbd>Enter</kbd></span> (de punt en lage strepen zijn belangrijk, en alle letters moeten kleine letters zijn). Het bestand vertelt uw computer dat het apparaat een audiospeler is.</p>
+<p class="p">Zoek nu de muziekspeler in de zijbalk van het bestandsbeheer, en werp de muziekspeler uit (klik met de rechtermuisknop op <span class="gui">Ontkoppelen</span>). Haal de muziekspeler uit de computer en plaats deze er opnieuw in. Deze keer zou de muziekspeler door uw muziekbeheertoepassing herkend moet worden. Als dit niet zo is kunt u proberen uw muziekbeheertoepassing af te sluiten en opnieuw te starten.</p>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Deze instructies zullen niet werken voor iPods en sommige andere muziekspelers. Maar ze zouden wel moeten werken als uw speler een USB-apparaat voor <span class="em">Massaopslag</span> is; in de handleiding ervan staat of het dat is.</p></div></div></div></div>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Wanneer u weer kijkt in de map van de muziekspeler, dan ziet u niet het bestand <span class="input">.is_audio_player</span>. Dit komt doordat de punt in de naam van het bestand aangeeft dat het een verborgen bestand is. U kunt controleren of het er nog is door te klikken op <span class="guiseq"><span class="gui">Beeld</span> ▸ <span class="gui">Verborgen bestanden tonen</span></span>.</p></div></div></div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Meer informatie</span></h2></div>
+<div class="region"><ul><li class="links "><a href="media.html#music" title="Muziek en draagbare geluidsspelers">Muziek en audiospelers</a></li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Zie ook</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="music-player-newipod.html" title="Mijn nieuwe iPod werkt niet">Mijn nieuwe iPod werkt niet</a><span class="desc"> — Nieuwe iPods moeten eerst ingesteld worden via de iTunes software voor u ze kunt gebruiken.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

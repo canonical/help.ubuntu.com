@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang=gl-GL>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Conectarse a unha rede sen fíos</title>
+<link rel="stylesheet" type="text/css" href="gl.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do escritorio de Ubuntu</a> » <a class="trail" href="net.html" title="Rede, web, correo electrónico e chat">Rede, web, correo electrónico e chat</a> » <a class="trail" href="net-wireless.html" title="Redes sen fíos">Redes sen fíos</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Conectarse a unha rede sen fíos</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Se ten un computador cunha tarxeta sen fíos, pode conectarse a unha rede detectábel para obter acceso a Internet, ver ficheiros compartidos en rede e outras posibiidades.</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Se o computador ten un interruptor de hardware para a conectividade sen fíos, asegúrese de que está acendido.</p></li>
+<li class="steps">
+<p class="p">Prema no <span class="gui">menú de rede</span> na barra do menú e escolla a rede á que desexa conectarse.</p>
+<p class="p">Se o nome da rede non está na lista, seleccione <span class="gui">Máis redes</span> para ver se está máis abaixo da lista. Se así tampouco encontra a súa rede, pode que esta estea fóra de cobertura ou que <span class="link"><a href="net-wireless-hidden.html" title="Conectar a unha rede sen fíos oculta">estea oculta</a></span>.</p>
+</li>
+<li class="steps">
+<p class="p">Se a rede está protexida por un contrasinal (<span class="link"><a href="net-wireless-wepwpa.html" title="Que significa WEP e WPA?">chave de cifrado</a></span>), escriba o contrasinal cando se lle pida e prema <span class="gui">Conectar</span>.</p>
+<p class="p">Se non coñece a chave, pode que estea escrita na parte inferior do enrutador sen fíos ou da estación base, quizais no manual de instrucións, tamén pode preguntar á persoa que administra a rede sen fíos.</p>
+</li>
+<li class="steps"><p class="p">A icona de rede cambiará a súa aparencia segundo o computador tente conectarse á rede.</p></li>
+<li class="steps"><p class="p">Se a conexión se realiza correctamente, a icona cambiará a un punto con varias barras enriba. Máis barras indican unha conexión máis forte á rede. Se hai poucas barras, significa que a conexión é débil e pode que non sexa fiábel.</p></li>
+</ol></div></div></div>
+<p class="p">Se a conexión non ten éxito, <span class="link"><a href="net-wireless-noconnection.html" title="Introducín o contrasinal axeitado, pero sigo sen poder conectarme.">preguntaráselle de novo o contrasinal</a></span> ou diráselle que a conexión non se levou a cabo. Pode haber varias causas para que suceda isto, un contrasinal erróneo, un sinal demasiado feble ou un problema coa tarxeta de rede. Vexa <span class="link"><a href="net-wireless-troubleshooting.html" title="Resolución de problemas en redes sen fíos">Resolución de problemas en redes sen fíos</a></span> para máis información.</p>
+<p class="p">Unha conexión máis forte a unha rede sen fíos non significa necesariamente que teña unha conexión a internet máis rápida, ou que terá velocidades de descarga máis rápidas. As conexións sen fíos conectan o computador ao <span class="em">dispositivo que fornece a conexión a internet</span> (como un enrutador ou módem), pero as dúas conexións son realmente distintas, polo que terán velocidades distintas.</p>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Máis información</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless.html" title="Redes sen fíos">Redes sen fíos</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Conectarse a unha rede sen fíos">Conectar a unha rede sen fíos</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Conectar a unha rede sen fíos oculta">Redes ocultas</a></span>, <span class="link"><a href="net-wireless-edit-connection.html" title="Editar a conexión sen fíos">Editar axustes da conexión</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Por que a rede sen fíos se desconecta de cando en vez?">Desconectando</a></span>…</span>
+</li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="net-wireless-noconnection.html" title="Introducín o contrasinal axeitado, pero sigo sen poder conectarme.">Introducín o contrasinal axeitado, pero sigo sen poder conectarme.</a><span class="desc"> — Comprobe dúas veces o contrasinal, tente usar unha frase de paso no lugar dun contrasinal, apague e acenda a tarxeta sen fíos de novo...</span>
+</li>
+<li class="links ">
+<a href="net-wireless-disconnecting.html" title="Por que a rede sen fíos se desconecta de cando en vez?">Por que a rede sen fíos se desconecta de cando en vez?</a><span class="desc"> — É posíbel que teña un sinal débil ou que a rede non lle permite conectar correctamente.</span>
+</li>
+<li class="links ">
+<a href="net-wireless-troubleshooting.html" title="Resolución de problemas en redes sen fíos">Resolución de problemas en redes sen fíos</a><span class="desc"> — Identificar e resolver problemas coas conexións sen fíos</span>
+</li>
+</ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

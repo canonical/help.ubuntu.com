@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=uk>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Запуск додатків для пристроїв або дисків</title>
+<link rel="stylesheet" type="text/css" href="uk.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Керівництво користувача Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Керівництво користувача Ubuntu</a> » <a class="trail" href="media.html" title="Звук, відео та зображення">Звук, відео та зображення</a> › <a class="trail" href="media.html#videos" title="Відео й відеокамери">Відео</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Керівництво користувача Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Керівництво користувача Ubuntu</a> » <a class="trail" href="media.html" title="Звук, відео та зображення">Звук, відео та зображення</a> › <a class="trail" href="media.html#music" title="Музика й портативні аудіоплеєри">Музика і програвачі</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Керівництво користувача Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Керівництво користувача Ubuntu</a> » <a class="trail" href="files.html" title="Файли, теки й пошук">Файли</a> › <a class="trail" href="files.html#removable" title="Переносні пристрої й зовнішні диски">Переносні пристрої й зовнішні диски</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Керівництво користувача Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Керівництво користувача Ubuntu</a> » <a class="trail" href="media.html" title="Звук, відео та зображення">Звук, відео та зображення</a> › <a class="trail" href="media.html#photos" title="Фотографії й цифрові камери">Фотографії</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Запуск додатків для пристроїв або дисків</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Можна зробити так, щоб при під’єднанні пристрою, вставці диска або картки пам’яті автоматично запускався додаток. Наприклад, при під’єднанні цифрового фотоапарата може знадобитися запуск програми для керування колекцією фотографій. Цю функцію можна й вимкнути, й тоді при під’єднанні пристроїв не буде виконуватися ніяких дій.</p>
+<p class="p">Щоб налаштувати, які додатки мають запускатися при під’єднанні певних пристроїв:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Натисніть піктограму з правого краю <span class="gui">панелі меню</span> і виберіть <span class="gui">Системні параметри</span>.</p></li>
+<li class="steps"><p class="p">Виберіть <span class="guiseq"><span class="gui">Відомості про систему</span> ▸ <span class="gui">Змінні носії</span></span>.</p></li>
+<li class="steps">
+<p class="p">Знайдіть потрібний пристрій або тип носія, а потім виберіть додаток чи дію для цього типу носія. Див. нижче опис різноманітних типів пристроїв та носіїв.</p>
+<p class="p">Крім того, замість запуску додатку можна вибрати показ у менеджері файлів вмісту пристрою. При під’єднанні пристрою можна отримувати запит про подальші дії, або нічого автоматично не буде відбуватися.</p>
+</li>
+<li class="steps"><p class="p">Опція <span class="gui">Додаток</span> трохи відрізняється від інших — якщо комп’ютер виявляє, що на вставленому диску є програма, він може за потреби спробувати автоматично запустити таку програму. Це добре тоді, коли на вашому компакт-диску є додаток (наприклад, для керування слайд-шоу) й потрібно, щоб при вставці диска він стартував.</p></li>
+<li class="steps"><p class="p">Якщо у переліку відсутній пристрій чи носій, спосіб опрацювання якого потрібно змінити (наприклад, відеодиски Blu-Ray або пристрої читання електронних книг), клацніть <span class="gui">Інший носій</span>, щоб побачити детальний перелік пристроїв. Виберіть тип пристрою або носія з випадаючого переліку <span class="gui">Тип</span>, а додаток або дію з випадаючого переліку <span class="gui">Дія</span>.</p></li>
+</ol></div></div></div>
+<div class="note note-tip" title="Підказка"><div class="inner"><div class="region"><div class="contents"><p class="p">Якщо потрібно, щоб ніякі додатки не відкривалися автоматично, який би пристрій не під’єднувався, виберіть знизу вікна <span class="gui">Ніколи не питати й не запускати програми при під’єднанні носія</span>.</p></div></div></div></div>
+</div>
+<div id="files-types-of-devices" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Типи пристроїв або носіїв</span></h2></div>
+<div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms">Аудіо компакт-диски</dt>
+<dd class="terms"><p class="p">Виберіть ваш улюблений музичний додаток або програму для витягування треків з CD, для роботи з аудіо компакт-дисками. Якщо використовуються аудіо DVD (DVD-A), виберіть спосіб їх відкривання за допомогою <span class="gui">Інший носій</span>. При відкритті аудіо компакт-диска у файловому менеджері треки буде показано як WAV-файли, їх можна відтворитии у будь-якому музичному програвачі.</p></dd>
+<dt class="terms">Відеодиски</dt>
+<dd class="terms"><p class="p">Виберіть ваш улюблений відео-застосунок для роботи з відеодисками. Використовуйте кнопку <span class="gui">Інший носій</span> для встановлення додатку для дисків Blu-ray, HD DVD, відеодисків VCD та компакт-дисків Super Video (SVCD). Якщо при вставці відео-DVD або інших відеодисків вони працюють неправильно, див. розділ <span class="link"><a href="video-dvd.html" title="Чому не відтворюється DVD?">Чому не відтворюється DVD?</a></span>.</p></dd>
+<dt class="terms">Чисті диски</dt>
+<dd class="terms"><p class="p">Використовуйте кнопку <span class="gui">Інші носії</span>, щоб вибрати додаток для запису дисків для чистих компакт-дисків, чистих дисків DVD, чистих дисків Blu-ray та чистих дисків HD DVD.</p></dd>
+<dt class="terms">Фотоапарати та фотографії</dt>
+<dd class="terms">
+<p class="p">Використовуйте випадаючий перелік <span class="gui">Фотографії</span>, щоб обрати застосунок для роботи з фотографіями, що стартує при під’єднанні цифрового фотоапарата або при вставці картки пам’яті фотоапарата, такий як CF, SD, MMC або MS. Крім того, можна просто переглянути фотографії за допомогою менеджера файлів.</p>
+<p class="p">За допомогою кнопки <span class="gui">Інші носії</span> можна вибрати застосунок для відкривання компакт-дисків Kodak picture, які вам могли записати у крамниці. Це звичайні компакт-диски з даними, що містять зображення у форматі JPEG у теці <span class="file">PICTURES</span>.</p>
+</dd>
+<dt class="terms">Музичні програвачі</dt>
+<dd class="terms"><p class="p">Виберіть додаток для керування музичною бібліотекою на вашому портативному музичному програвачі або керуйте файлами самостійно за допомогою менеджера файлів.</p></dd>
+<dt class="terms">Пристрої читання електронних книг</dt>
+<dd class="terms"><p class="p">Використовуйте кнопку <span class="gui">Інші носії</span>, щоб вибрати застосунок для керування книгами на вашому пристрої читання електронних книг, або керуйте файлами самостійно за допомогою менеджера файлів.</p></dd>
+<dt class="terms">Додаток</dt>
+<dd class="terms">
+<p class="p">Деякі диски й змінні носії містять програму, яку очікується автоматично запускати при вставці носія. Використовуйте опцію <span class="gui">Додаток</span> для керування діями, що виконуються при вставці носія з автоматично стартуючим додатком. Перед запуском програми завжди буде запит на підтвердження.</p>
+<div class="note note-warning" title="Попередження"><div class="inner"><div class="region"><div class="contents"><p class="p">Ніколи не запускайте програми з носіїв, яким не довіряєте.</p></div></div></div></div>
+</dd>
+</dl></div></div></div></div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Докладніше</span></h2></div>
+<div class="region"><ul>
+<li class="links "><a href="media.html#videos" title="Відео й відеокамери">Відео</a></li>
+<li class="links "><a href="media.html#music" title="Музика й портативні аудіоплеєри">Музика і програвачі</a></li>
+<li class="links "><a href="files.html#removable" title="Переносні пристрої й зовнішні диски">Переносні пристрої й зовнішні диски</a></li>
+<li class="links "><a href="media.html#photos" title="Фотографії й цифрові камери">Фотографії</a></li>
+</ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

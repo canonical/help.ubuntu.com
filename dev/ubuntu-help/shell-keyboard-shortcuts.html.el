@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang=el>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Χρήσιμες συντομεύσεις πληκτρολογίου</title>
+<link rel="stylesheet" type="text/css" href="el.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Η επιφάνεια εργασία σας">Επιφάνεια εργασίας</a> › <a class="trail" href="shell-overview.html#apps" title="Εφαρμογές και παράθυρα">Εφαρμογές και παράθυρα</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="keyboard.html" title="Πληκτρολόγιο">Πληκτρολόγιο</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="Συμβουλές &amp; κόλπα">Συμβουλές &amp; κόλπα</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="keyboard.html" title="Πληκτρολόγιο">Πληκτρολόγιο</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Χρήσιμες συντομεύσεις πληκτρολογίου</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Αυτή η σελίδα παρέχει μια επισκόπηση των συντομεύσεων πληκτρολογίου που μπορούν να σας βοηθήσουν να χρησιμοποιήσετε την επιφάνεια εργασίας και τις εφαρμογές σας πιο αποτελεσματικά. Εάν δεν μπορείτε να χρησιμοποιήσετε καθόλου το ποντίκι ή μια συσκευή κατάδειξης, δείτε για περισσότερες πληροφορίες στην περιήγηση διεπαφών χρήστη με μόνο το πληκτρολόγιο <span class="link"><a href="keyboard-nav.html" title="Περιήγηση μέσω πληκτρολογίου">Περιήγηση μέσω πληκτρολογίου</a></span>.</p>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="true"></div>
+<div class="inner">
+<div class="title title-table"><h2><span class="title">Περιήγηση της επιφάνειας εργασίας</span></h2></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> ή το πλήκτρο <span class="key"><a href="keyboard-key-super.html" title="Τι είναι το πλήκτρο Λογότυπο;"><kbd>Λογότυπο</kbd></a></span></p></td>
+<td><p class="p">Αλλάξτε μεταξύ της επισκόπησης <span class="gui">Δραστηριότητες</span> και της επιφάνειας εργασίας. Στην επισκόπηση, αρχίστε να πληκτρολογείτε για άμεση αναζήτηση των εφαρμογών, επαφών και εγγράφων σας.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Ανάδυση του παραθύρου εντολών (για γρήγορη εκτέλεση εντολών)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Λογότυπο</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html" title="Εναλλαγή μεταξύ παραθύρων">Γρήγορη αλλαγή μεταξύ παραθύρων</a></span>. Κρατήστε πατημένο το <span class="key"><kbd>Shift</kbd></span> για αντίστροφη σειρά.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Λογότυπο</kbd></span>+<span class="key"><kbd>`</kbd></span></span></p></td>
+<td style="border-top-style: solid;">
+<p class="p">Αλλάξτε μεταξύ των παραθύρων από την ίδια εφαρμογή, ή από την επιλεγμένη εφαρμογή χρησιμοποιώντας το <span class="keyseq"><span class="key"><kbd>Λογότυπο</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</p>
+<p class="p">Αυτή η συντόμευση χρησιμοποιεί <span class="key"><kbd>`</kbd></span> σε πληκτρολόγια ΗΠΑ, όπου το πλήκτρο <span class="key"><kbd>`</kbd></span> είναι πάνω από το πλήκτρο <span class="key"><kbd>Tab</kbd></span>. Σε όλα τα άλλα πληκτρολόγια, η συντόμευση είναι <span class="key"><kbd>Λογότυπο</kbd></span> συν το πλήκτρο πάνω από το <span class="key"><kbd>Tab</kbd></span>.</p>
+</td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Εστιάστε το πληκτρολόγιο στην πάνω γραμμή. Στην επισκόπηση <span class="gui">Δραστηριότητες</span>, αλλάξτε την εστίαση του πληκτρολογίου μεταξύ της πάνω γραμμής, του ταμπλό, της επισκόπησης παραθύρων, της λίστας εφαρμογών, του πεδίου αναζήτησης και της περιοχής ειδοποιήσεων. Χρησιμοποιήστε τα βέλη για να περιηγηθείτε.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Λογότυπο</kbd></span>+<span class="key"><kbd>A</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Εμφάνιση της λίστας εφαρμογών.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">
+      <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> or
+      <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Up</kbd></span></span>, and
+      <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span> or
+      <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Down</kbd></span></span>
+    </p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html" title="Εναλλαγή μεταξύ των χώρων εργασίας">Εναλλαγή μεταξύ χώρων εργασίας</a></span>.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Λογότυπο</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> και <span class="keyseq"><span class="key"><kbd>Λογότυπο</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html" title="Μετακίνηση παραθύρου σε διαφορετικό χώρο εργασίας">Μετακίνηση του τρέχοντος παραθύρου σε έναν διαφορετικό χώρο εργασίας</a></span>.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Move the current window one monitor to the left.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>→</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Move the current window one monitor to the right.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Delete</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html" title="Αποσύνδεση, τερματισμός ή αλλαγή χρηστών">Τερματισμός</a></span>.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Λογότυπο</kbd></span>+<span class="key"><kbd>L</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html#lock-screen" title="Κλείδωμα της οθόνης">Κλείδωμα της οθόνης.</a></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Λογότυπο</kbd></span>+<span class="key"><kbd>Μ</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Ανοίξτε την <span class="link"><a href="shell-notifications.html#messagetray" title="Η περιοχή ειδοποιήσεων">περιοχή ειδοποιήσεων</a></span>. Πατήστε ξανά τα πλήκτρα <span class="keyseq"><span class="key"><kbd>Λογότυπο</kbd></span>+<span class="key"><kbd>M</kbd></span></span> ή το <span class="key"><kbd>Esc</kbd></span> για κλείσιμο.</p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h2><span class="title">Κοινές συντομεύσεις επεξεργασίας</span></h2></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>A</kbd></span></span></p></td>
+<td><p class="p">Επιλογή όλων των κειμένων ή αντικειμένων σε μια λίστα.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>X</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Αποκοπή (αφαίρεση) του επιλεγμένου κειμένου ή αντικειμένων και τοποθέτησή τους στο πρόχειρο.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Αντιγραφή επιλεγμένου κειμένου ή αντικειμένων στο πρόχειρο.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>V</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Επικόλληση των περιεχομένων του προχείρου.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Z</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Αναίρεση της τελευταίας ενέργειας.</p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h2><span class="title">Σύλληψη από την οθόνη</span></h2></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p"><span class="key"><kbd>Prt Scrn</kbd></span></p></td>
+<td><p class="p"><span class="link"><a href="screen-shot-record.html#screenshot" title="Λήψη στιγμιότυπου">Λήψη στιγμιότυπου.</a></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Prt Scrn</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html#screenshot" title="Λήψη στιγμιότυπου">Λήψη στιγμιότυπου ενός παραθύρου.</a></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Prt Scrn</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html#screenshot" title="Λήψη στιγμιότυπου">Λήψη στιγμιότυπου μιας περιοχής της οθόνης.</a></span> Ο δείκτης αλλάζει σε στόχο. Κάντε κλικ και σύρτε τον για να επιλέξετε μια περιοχή.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>R</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html#screencast" title="Λήψη ενός στιγμιότυπου οθόνης">Έναρξη και τερματισμός εγγραφής στιγμιοτύπου οθόνης.</a></span></p></td>
+</tr>
+</table></div>
+</div>
+</div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
+<div class="region"><ul>
+<li class="links "><a href="shell-overview.html#apps" title="Εφαρμογές και παράθυρα">Εφαρμογές και παράθυρα</a></li>
+<li class="links ">
+<a href="keyboard.html" title="Πληκτρολόγιο">Πληκτρολόγιο</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Διατάξεις πληκτρολογίου</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Κάντε τον δρομέα πληκτρολογίου να αναβοσβήνει">αναβόσβησμα δρομέα</a></span>, <span class="link"><a href="a11y.html#mobility" title="Κινητικά προβλήματα">προσιτότητα πληκτρολογίου</a></span>…</span>
+</li>
+<li class="links ">
+<a href="tips.html" title="Συμβουλές &amp; κόλπα">Συμβουλές &amp; κόλπα</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Εισαγωγή ειδικών χαρακτήρων">Ειδικοί χαρακτήρες</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Μεσαίο κλικ">Συντομεύσεις μεσαίου κλικ</a></span>…</span>
+</li>
+</ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="keyboard-nav.html" title="Περιήγηση μέσω πληκτρολογίου">Περιήγηση μέσω πληκτρολογίου</a><span class="desc"> — Χρησιμοποιήστε εφαρμογές και την επιφάνεια εργασίας χωρίς ποντίκι.</span>
+</li>
+<li class="links ">
+<a href="keyboard-shortcuts-set.html" title="Ρύθμιση συντομεύσεων πληκτρολογίου">Ρύθμιση συντομεύσεων πληκτρολογίου</a><span class="desc"> — Ορίστε ή αλλάξτε τις συντομεύσεις πληκτρολογίου στις ρυθμίσεις <span class="gui">Πληκτρολογίου</span>.</span>
+</li>
+<li class="links ">
+<a href="keyboard-key-super.html" title="Τι είναι το πλήκτρο Λογότυπο;">Τι είναι το πλήκτρο <span class="key"><kbd>Λογότυπο</kbd></span>;</a><span class="desc"> — Το πλήκτρο <span class="key"><kbd>Λογότυπο</kbd></span> ανοίγει την επισκόπηση <span class="gui">Δραστηριότητες</span>. Μπορείτε συνήθως να το βρείτε δίπλα στο πλήκτρο <span class="key"><kbd>Alt</kbd></span> στο πληκτρολόγιό σας.</span>
+</li>
+<li class="links ">
+<a href="keyboard-key-menu.html" title="Τι είναι το πλήκτρο Μενού;">Τι είναι το πλήκτρο <span class="key"><kbd>Μενού</kbd></span>;</a><span class="desc"> — Το πλήκτρο <span class="key"><kbd>Μενού</kbd></span> ξεκινά ένα μενού περιεχομένου με το πληκτρολόγιο αντί με δεξιό κλικ.</span>
+</li>
+</ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

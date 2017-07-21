@@ -1,0 +1,723 @@
+<!DOCTYPE html>
+<html lang=tr>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Gelişmiş Yükleme</title>
+<link rel="stylesheet" type="text/css" href="tr.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../16.04" class="trail">Ubuntu 16.04</a> » <a class="trail" href="index.html" title="Ubuntu Sunucu Rehberi">Ubuntu Sunucu Rehberi</a> » <a class="trail" href="installation.html" title="Kurulum">Kurulum</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="installing-upgrading.html" title="Yükseltme">Önceki</a><a class="nextlinks-next" href="kernel-crash-dump.html" title="Kernel Crash Dump">Sonraki</a>
+</div>
+<div class="hgroup"><h1 class="title">Gelişmiş Yükleme</h1></div>
+<div class="region">
+<div class="contents"></div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="advanced-installation.html#software-raid" title="Yazılımsal RAID">Yazılımsal RAID</a></li>
+<li class="links"><a class="xref" href="advanced-installation.html#lvm" title="Mantıksal Birim Yönetimi (LVM)">Mantıksal Birim Yönetimi (LVM)</a></li>
+<li class="links"><a class="xref" href="advanced-installation.html#iscsi" title="iSCSI">iSCSI</a></li>
+</ul></div>
+<div class="sect2 sect" id="software-raid"><div class="inner">
+<div class="hgroup"><h2 class="title">Yazılımsal RAID</h2></div>
+<div class="region">
+<div class="contents">
+<p class="para">
+        Redundant Array of Independent Disks "RAID" is a method of using multiple disks to provide different balances of
+        increasing data reliability and/or increasing input/output performance, depending on the RAID level being used.
+        RAID is implemented in either software 
+        (where the operating system knows about both drives and actively maintains both of them) or hardware 
+        (where a special controller makes the OS think there's only one drive and maintains the drives 'invisibly').
+        </p>
+<p class="para">Linux'un (ve Ubuntu) mevcut sürümlerini içeren RAID yazılımı, <span class="app application">'mdadm'</span> sürücü tabanlıdır ve 'donanım-RAID' konrolcüleri olarak adlandırılan çoğu donanımdan daha iyi çalışır. Bu bölüm, biri <span class="em emphasis">/</span> ve diğeri de <span class="em emphasis">swap</span> olan iki fiziksel sürücüdeki iki RAID1 bölümü kullanarak Ubuntu Server Edition yüklemeyi sana gösterecek.</p>
+</div>
+<div class="sect3 sect" id="raid-partitioning"><div class="inner">
+<div class="hgroup"><h3 class="title">Bölümleme</h3></div>
+<div class="region"><div class="contents">
+<p class="para"><span class="em emphasis">Diskleri bölümleme</span> adımına ulaşana kadar yükleme adımlarını takip edin. Sonra:</p>
+<div class="steps"><div class="inner"><ol class="steps">
+<li class="steps">
+ 
+              <p class="para">Bölümleme yöntemi olarak <span class="em emphasis">Elle</span>'yi seçin.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">İlk sabit sürücüyü seçin ve <span class="em emphasis">"Bu aygıtta yeni boş bölüm tablosu oluşturulsun mu?"</span>yu onaylayın.</p>
+
+              <p class="para">RAID dizisinin bir bölümü olmasını istediğin her sürücü için bu adımı tekrarlayın.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">İlk sürücüdeki <span class="em emphasis">"BOŞ ALAN"</span>ı ardından da <span class="em emphasis">"Yeni bölüm oluştur"</span>u seçin.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Sonra bölümün <span class="em emphasis">Boyut</span>unu seçin. Bu bölüm <span class="em emphasis">swap</span> bölümü olacak ve swap boyutu için genel kuralı RAM'in iki katıdır. Bölüm boyutunu girin, sonra <span class="em emphasis">Birincil</span>, ardından <span class="em emphasis">Başlangıç</span>ı seçin.</p>
+
+              <div class="note" title="Not"><div class="inner"><div class="region"><div class="contents">
+                <p class="para">
+                A swap partition size of twice the available RAM capacity may not always be desirable, especially on systems with large amounts of RAM.
+                Calculating the swap partition size for servers is highly dependent on how the system is going to be used.
+                </p>
+              </div></div></div></div>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Üstteki <span class="em emphasis">"Kullan:"</span> satırını seç. Normalde bu, <span class="em emphasis">"Ext4 journaling dosya sistemi"</span>ni <span class="em emphasis">"RAID için fiziksel birim"</span>e değiştirin, ardından <span class="em emphasis">"Bölüm oluşturmayı tamamla"</span>.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para"><span class="em emphasis">/</span> bölümü için tekrar, ilk sürücüdeki <span class="em emphasis">"Boş Alan"</span>ı seçin, sonra <span class="em emphasis">"Yeni bölüm oluştur"</span>.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Sürücünün geri kalan boş alanını kullanın ve <span class="em emphasis">Devam</span>ı ardından <span class="em emphasis">Birincil</span>'i seçin.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Swap bölümünde olduğu gibi üstteki satırdan <span class="em emphasis">"Kullan:"</span>ı seçin, onu <span class="em emphasis">"RAID için fiziksel birim"</span>e değiştirin. Ayrıca <span class="em emphasis">"Önyüklenebilir işaret:"</span> satırını <span class="em emphasis">"açık"</span> olarak değiştirin. Ardından <span class="em emphasis">"Bölüm oluşturmayı tamamla"</span>yı seçin.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Diğer disk ve bölümler için üçten sekize kadar olan adımları tekrarlayın.</p>
+
+            </li>
+</ol></div></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="raid-configuration"><div class="inner">
+<div class="hgroup"><h3 class="title">RAID Yapılandırma</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Bölüm kurulumu ile diziler yapılandırmaya hazırdır.</p>
+<div class="steps"><div class="inner"><ol class="steps">
+<li class="steps">
+ 
+              <p class="para">Geri "Diskleri Bölümle" ana sayfasına gidin, üstteki <span class="em emphasis">"Yazılımsal RAID'i Yapılandır"</span>ı seçin.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Değişikliklerin diske yazılması için <span class="em emphasis">"evet"</span>i seçin.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para"><span class="em emphasis">"MD aygıtı oluştur"</span>.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Bu örnek için <span class="em emphasis">"RAID1"</span>i seçin, fakat eğer farklı bir kurulum kullanıyorsan uygun türü seçin (RAID0 RAID1 RAID5 gibi).</p>
+
+              <div class="note" title="Not"><div class="inner"><div class="region"><div class="contents">
+                <p class="para"><span class="em emphasis">RAID5</span>'i kullanmak için en az <span class="em emphasis">üç</span> sürücü gerekir. RAID0 veya RAID1'de sadece <span class="em emphasis">iki</span> sürücü gereklidir.</p>
+              </div></div></div></div>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Aktif aygıtların sayısını <span class="em emphasis">"2"</span> olarak veya elindeki sabit sürücü miktarına göre girin. Ardından <span class="em emphasis">"Devam"</span>ı seçin.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Sonra, yedek aygıtların sayısını girin, normalde <span class="em emphasis">"0"</span>'dır, ardından <span class="em emphasis">"Devam"</span>ı seçin.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Kullanılacak bölümü seçin. Genellikle sda1, sdb1, sdc1, vb. olurlar. Sayılar genellikle eşleşecek ve farklı harfler farklı sabit sürücülere denk gelir.</p>
+
+              <p class="para"><span class="em emphasis">Swap</span> bölümü için <span class="em emphasis">sda1</span> ve <span class="em emphasis">sdb1</span>'i seçin. Sonraki adıma geçmek için <span class="em emphasis">"Devam"</span>ı tıklayın.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para"><span class="em emphasis">/</span> bölümü için, <span class="em emphasis">sda2</span> ve <span class="em emphasis">sdb2</span>'yi seçerek <span class="em emphasis">üç</span>ten <span class="em emphasis">yedi</span>ye kadar olan adımları tekrarlayın .</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para"><span class="em emphasis">"Son"</span>u seçerek bitirin.</p>
+
+            </li>
+</ol></div></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="raid-formatting"><div class="inner">
+<div class="hgroup"><h3 class="title">Biçimlendirme</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Şimdi sabit sürücü ve RAID aygıtların bir listesi bulunuyor. Sonraki adım RAID aygıtları biçimlendirme ve bağlama noktasını ayarlamadır. RAID aygıtlar, biçimlendirme ve bağlamada bir yerel sabit sürücü gibi davranır.</p>
+<div class="steps"><div class="inner"><ol class="steps">
+<li class="steps">
+ 
+              <p class="para"><span class="em emphasis">"RAID1 aygıtı #0"</span> bölümü altındaki <span class="em emphasis">"#1"</span>'i seçin.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para"><span class="em emphasis">"Kullan:"</span>ı seçin. Ardından <span class="em emphasis">"swap alanı"</span>, sonra da <span class="em emphasis">"Bölüm oluşturmayı tamamla"</span>yı seçin.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Sonra, <span class="em emphasis">"RAID1 aygıt #1"</span> bölümü altındaki <span class="em emphasis">"#1"</span>'i seçin.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para"><span class="em emphasis">"Kullan:"</span>ı, sonra da <span class="em emphasis">"Ext4 journaling dosya sistemi"</span>ni seçin.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Ardından <span class="em emphasis">"Birleştirme noktası"</span>nı ve <span class="em emphasis">"/ - kök dosya sistemi"</span>ni seçin. Diğer seçenekleri uygun olacak şekilde değiştirin, sonra <span class="em emphasis">"Bölüm oluşturmayı tamamla"</span>yı seçin.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Son olarak <span class="em emphasis">"Bölümlendirmeyi tamamla ve değişiklikleri diske yaz"</span>ı seçin.</p>
+
+            </li>
+</ol></div></div>
+<p class="para">Eğer RAID dizisinde yerleştirmek için kök bölümünü seçersen, yükleyici <span class="em emphasis">indirilmiş</span> durumda başlatmak isteyip, istemediğini soracak. Daha fazla ayrıntı için <a class="xref" href="advanced-installation.html#raid-degraded" title="İndirilmiş RAID">İndirilmiş RAID</a>'e bakın.</p>
+<p class="para">Sonra bu yükleme işlemi normal olarak devam edecek.</p>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="raid-degraded"><div class="inner">
+<div class="hgroup"><h3 class="title">İndirilmiş RAID</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Bilgisayar ömrünün bazı noktalarında disk hatası meydana gelebilir. Yazılımsal RAID kullanırken bu olduğunda, işletim sistemi diziyi <span class="em emphasis">indirilmiş</span> olarak bilinen durum içine yerleştirecek.</p>
+<p class="para">Eğer dizi veri bozulmasından dolayı indirilirse, normalde Ubuntu Server Edition üç saniye sonra <span class="em emphasis">initramfs</span>'ye başlatacak. initramfs başladıktan onbeş saniye sonra devam etmek için bir seçenek gelecek ve sistem başlayacak veya elle düzeltilecek. initramfs başlaması istenen durum olabilir de olmayada bilir, özellikle makine uzak konumda ise. İndirilmiş dizide başlatma birkaç yolla yapılabilir:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+
+              <p class="para"><span class="app application">dpkg-reconfigure</span> uygulaması normal durumu yapılandırmak için kullanılabilir ve işlem esnasında, gösterim, e-posta olayları, vb gibi dizi için ek ayarlar sorulacak. <span class="app application">mdadm</span>'i yeniden yapılandırmak için şunu girin:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo dpkg-reconfigure mdadm</span>
+</pre></div>
+
+             </li>
+<li class="list itemizedlist">
+
+              <p class="para"><span class="cmd command">dpkg-reconfigure mdadm</span> işlemi <span class="file filename">/etc/initramfs-tools/conf.d/mdadm</span> yapılandırma dosyasını değiştirecek. Sistemin durumunu ön yapılandırabilen gelişmiş seçeneğe sahiptir ve elle düzenlenebilir:</p>
+
+<div class="code"><pre class="contents ">BOOT_DEGRADED=true
+</pre></div>
+
+          <div class="note" title="Not"><div class="inner"><div class="region"><div class="contents">
+            <p class="para">Yapılandırma dosyasının üzerine Çekirdek argümanı kullanılarak yazılabilir.</p>
+          </div></div></div></div>          
+
+            </li>
+<li class="list itemizedlist">
+    
+              <p class="para">Çekirdek argümanı kullanma sistemi indirgenmiş olarak başlanmayı sağlar:</p>
+
+              <div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+                  <p class="para">Sunucu başlarken, <span class="app application">Grub</span> menüsünü açmak için <span class="key keycap"><kbd>Shift</kbd></span>'e basın.</p>
+                </li>
+<li class="list itemizedlist">
+                  <p class="para">Çekirdeğinizin komut seçeneklerini düzenlemek için <span class="key keycap"><kbd>e</kbd></span>'ye basın</p>
+                </li>
+<li class="list itemizedlist">
+                  <p class="para">Çekirdek satırını seçmek için <span class="key keycap"><kbd>aşağı</kbd></span> yön tuşuna basın.</p>
+                </li>
+<li class="list itemizedlist">
+                  <p class="para">Satırın sonuna <span class="em emphasis">"bootdegraded=true"</span> (tırnak işareti olmadan) ekleyin.</p>
+                </li>
+<li class="list itemizedlist">
+                  <p class="para">Sistemi başlatmak için <span class="keyseq keycombo"><span class="key keycap"><kbd>Ctrl</kbd></span>+<span class="key keycap"><kbd>x</kbd></span></span>'e basın.</p>
+                </li>
+</ul></div>
+
+            </li>
+</ul></div>
+<p class="para">Sistem başladıktan sonra diziyi (ayrıntılar için <a class="xref" href="advanced-installation.html#raid-maintenance" title="RAID Bakımı">RAID Bakımı</a> bakın) düzenleyebilir ya da önemli verileri büyük donanım hatasından dolayı başka makineye taşıyabilirsiniz.</p>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="raid-maintenance"><div class="inner">
+<div class="hgroup"><h3 class="title">RAID Bakımı</h3></div>
+<div class="region"><div class="contents">
+<p class="para"><span class="app application">mdadm</span> uygulaması herhangi bir dizinin durumunu görmek, diziye diskler eklemek, diskleri kaldırmak, vb için kullanılabilir:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+              <p class="para">Dizinin durumunu görmek için terminalden şunu girin:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo mdadm -D /dev/md0</span>
+</pre></div>
+            
+              <p class="para"><span class="em emphasis">-D</span>, <span class="file filename">/dev/md0</span> aygıtı hakkında  <span class="em emphasis">ayrıntılı</span> bilgi göstermesini <span class="app application">mdadm</span>'e söyler. <span class="file filename">/dev/md0</span> yerine uygun RAID aygıtı yazın.</p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para">Dizideki bir diskin durumunu göstermek için:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo mdadm -E /dev/sda1</span>
+</pre></div>
+              <p class="para">Çıktı eğer <span class="cmd command">mdadm -D</span> komutuna çok benziyorsa, her disk için <span class="file filename">/dev/sda1</span>'i ayarlayın.</p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para">Eğer bir disk hatalı ve diziden kaldırılması gerekiyorsa, şunu girin:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo mdadm --remove /dev/md0 /dev/sda1</span>
+</pre></div>
+              <p class="para"><span class="file filename">/dev/md0</span> ve <span class="file filename">/dev/sda1</span>'i uygun RAID aygıt ve diski ile değiştirin.</p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para">Benzer şekilde yeni disk eklemek için:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo mdadm --add /dev/md0 /dev/sda1</span>
+</pre></div>
+            </li>
+</ul></div>
+<p class="para">Bazen bir disk, sürücüde fiziksel bir yanlışlık olmazsa bile <span class="em emphasis">hatalı</span> durumuna değiştirilebilir. Bu durum, sürücüyü diziden kaldırıp, tekrar eklemekten genellikle daha iyi bir seçimdir. Bu, sürücüyü dizi ile tekrar senkronize olmasına sebep olur. Eğer sürücü dizi ile senkronize olmazsa, bu donanım hatasının iyi bir işaretidir.</p>
+<p class="para"><span class="file filename">/proc/mdstat</span> dosyası da sistemdeki RAID aygıtları hakkında kullanışlı bilgi içerir:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">cat /proc/mdstat</span>
+<span class="output computeroutput">Personalities : [linear] [multipath] [raid0] [raid1] [raid6] [raid5] [raid4] [raid10] 
+md0 : active raid1 sda1[0] sdb1[1]
+      10016384 blocks [2/2] [UU]
+      
+kullanılmayan aygıtlar: &lt;none&gt;</span>
+</pre></div>
+<p class="para">Aşağıdaki komut senkronize olan sürücünün durumunu seyretmek için harikadır.</p>
+<div class="screen"><pre class="contents "><span class="cmd command">watch -n1 cat /proc/mdstat</span>
+</pre></div>
+<p class="para"><span class="app application">watch</span> (seyretme) komutunu durdurmak için <span class="em emphasis">Ctrl+c</span>'ye basın.</p>
+<p class="para">Eğer hatalı bir sürücüyü değiştirmeye ihtiyacın varsa, sürücü değiştirildikten ve senkronize edildikten sonra, <span class="app application">grub</span>'un yüklenmesi gerekir. Yeni sürücüye <span class="app application">grub</span>u yüklemek için aşağıdakini girin:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo grub-install /dev/md0</span>
+</pre></div>
+<p class="para"><span class="file filename">/dev/md0</span> yerine uygun dizi aygıt adı yazın.</p>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="raid-resources"><div class="inner">
+<div class="hgroup"><h3 class="title">Kaynaklar</h3></div>
+<div class="region"><div class="contents">
+<p class="para">RAID dizilerinin konusu, yapılandırılabilir RAID'in gereğinden fazla yöntemi olduğundan dolayı karmaşıktır. Daha fazla bilgi için lütfen aşağıdaki bağlantılara bakın:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+              <p class="para"><a href="https://help.ubuntu.com/community/Installation#raid" class="ulink" title="https://help.ubuntu.com/community/Installation#raid">Ubuntu Wiki Articles on RAID</a>.</p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para">
+              <a href="http://www.faqs.org/docs/Linux-HOWTO/Software-RAID-HOWTO.html" class="ulink" title="http://www.faqs.org/docs/Linux-HOWTO/Software-RAID-HOWTO.html">Yazılımsal RAID NASIL</a>
+              </p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para">
+              <a href="http://oreilly.com/catalog/9781565927308/" class="ulink" title="http://oreilly.com/catalog/9781565927308/">Linux'de RAID Yönetme</a>
+              </p>
+            </li>
+</ul></div>
+</div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect2 sect" id="lvm"><div class="inner">
+<div class="hgroup"><h2 class="title">Mantıksal Birim Yönetimi (LVM)</h2></div>
+<div class="region">
+<div class="contents"><p class="para">Mantıksal Birim Yönetimi veya <span class="em emphasis">LVM</span>, bir veya daha fazla fiziksel sabit disk olmaksızın, yöneticilerin <span class="em emphasis">mantıksal</span> birim oluşturmasını sağlar. LVM birimleri tek bir diskte, hem yazılımsal RAID bölümlerde hem de standart bölümlerde bulunur. Birimler de genişletilebilir ve sistemdeki gerekli değişikliklere daha esnek davranırlar.</p></div>
+<div class="sect3 sect" id="lvm-overview"><div class="inner">
+<div class="hgroup"><h3 class="title">Genel Bakış</h3></div>
+<div class="region"><div class="contents">
+<p class="para">LVM'nin güç ve esneklik büyük oranda etkiye sahiptir. LVM yükleme işlemine girişmeden önce, bazı terimleri bilmek çok iyi bir başlangıç olacaktır.</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+              <p class="para">
+              <span class="em emphasis">Physical Volume (PV):</span> physical hard disk, disk partition or software RAID partition
+              formatted as LVM PV.
+              </p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para">
+              <span class="em emphasis">Volume Group (VG):</span> is made from one or more physical volumes. A VG can can be
+              extended by adding more PVs. A VG is like a virtual disk drive, from which one or more logical volumes are carved.
+              </p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para">
+              <span class="em emphasis">Logical Volume (LV):</span> is similar to a partition in a non-LVM system. A LV is formatted
+              with the desired file system (EXT3, XFS, JFS, etc), it is then available for mounting and data storage.
+              </p>
+            </li>
+</ul></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="lvm-installation"><div class="inner">
+<div class="hgroup"><h3 class="title">Kurulum</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Bu bölümdeki örnek gibi, Ubuntu Server Edition'u bir LVM birime bağlı <span class="file filename">/srv</span> ile yüklemeyi kapsar. İlk yükleme esnasında sadece bir Fiziksel Birim (PV), Birim Grubu (VG)'nun bir parçası olacak. Diğer PV, bir VG'nin nasıl genişletilebileceğini göstermesi için yüklemeden sonra eklenecek.</p>
+<p class="para">LVM için birkaç yükleme seçeneği vardır, <span class="em emphasis">"Rehberli - tüm diski kullan ve LVM'yi kur"</span> kullanılabilir alanın bir kısmını LVM'ye ayırmanı sağlar, <span class="em emphasis">"Rehberli - tümünü kullan ve şifreli LVM kur"</span> veya <span class="em emphasis">Elle</span> bölümleri kur ve LVM'yi yapılandır. Bu aşamada yükleme esnasındaki tek yol sistemi hem LVM hem de standart bölümlemeler ile yapılandırmak, Kılavuz yaklaşımını kullanmaktır.</p>
+<div class="steps"><div class="inner"><ol class="steps">
+<li class="steps">
+
+              <p class="para"><span class="em emphasis">Diskleri bölümleme</span> adımına ulaşana kadar yükleme adımlarını takip edin. Sonra:</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para"><span class="em emphasis">"Diskleri Bölümleme</span> ekranında <span class="em emphasis">"Kılavız"</span>u seç.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Sabit diski seç ve sonraki ekrandan <span class="em emphasis">"Bu aygıtta yeni boş bölüm tablosu oluştur"</span>mak için "evet"i.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Sonra, standart <span class="em emphasis">/boot</span>, <span class="em emphasis">swap</span> ve <span class="em emphasis">/</span> bölümlerini istediğin herhangi bir dosya sistemi ile oluştur.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">LVM <span class="em emphasis">/srv</span> için, yeni bir <span class="em emphasis">Mantıksal</span> bölüm oluştur. Sonra <span class="em emphasis">"Kullan"</span>ı <span class="em emphasis">"LVM için fiziksel birim"</span>e değiştir ardından <span class="em emphasis">"Bölüm oluşturmayı tamamla"</span>.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Şimdi, üstten <span class="em emphasis">"Mantıksal Birim Yöneticisini Yapılandır"</span>ı ardından da değişikliklerin diske yazılması için <span class="em emphasis">"Evet"</span>i seçin.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Sonraki ekrandaki <span class="em emphasis">"LVM yapılandırma eylemi"</span> için, <span class="em emphasis">"Birim grubu oluştur"</span>u seçin. <span class="em emphasis">vg01</span> veya daha açıklamalı bir ad girin. Ad girdikten sonra, LVM için yapılı bölümü ardından <span class="em emphasis">"Devam"</span>ı seçin.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para"><span class="em emphasis">"LVM yapılandırma eylemi"</span> ekranına geri git, <span class="em emphasis">"Mantıksal birim oluştur"</span>u seç. Yeni oluşturulan birim grubunu seçin ve yeni LV için gir ad girin, örneğin bağlama noktasına kastıyla <span class="em emphasis">srv</span>. Sonra tüm bölümün bulunacağı bir boyut seçin. Çünkü daha sonra genişletilmiş olabilir. <span class="em emphasis">"Son"</span>u seçerek ana <span class="em emphasis">"Diskler Bölümleme"</span> ekranına göneceksin.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Şimdi yeni LVM'ye bir dosya sistemi ekle. <span class="em emphasis">"LVM VG vg01, LV srv"</span> veya buna benzer seçtiğin bir adın altındaki bölümü, ardından da <span class="em emphasis">Kullan</span>ı seç. Bağlama noktası olacak şekilde normal <span class="em emphasis">/srv</span> seçimi gibi bir dosya sistemi kur. Bittikten sonra, <span class="em emphasis">"Bölüm oluşturmayı tamamla"</span>yı seçin.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Son olarak, <span class="em emphasis">"Biçimlendirmeyi bitir ve değişiklikleri diske yaz"</span>ı seçin. Ardından değişiklikleri onaylayın ve yüklemenin geri kalan kısmına devam edin.</p>
+
+            </li>
+</ol></div></div>
+<p class="para">LVM hakkındaki bilgiyi göstermesi için kullanışlı birkaç uygulama vardır:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist"><p class="para"><span class="em emphasis">pvdisplay:</span> shows information about Physical Volumes.</p></li>
+<li class="list itemizedlist"><p class="para"><span class="em emphasis">vgdisplay:</span> Birim Grupları hakkındaki bilgiyi gösterir.</p></li>
+<li class="list itemizedlist"><p class="para"><span class="em emphasis">lvdisplay:</span> shows information about Logical Volumes.</p></li>
+</ul></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="lvm-extending"><div class="inner">
+<div class="hgroup"><h3 class="title">Birim Gruplarını Genişletme</h3></div>
+<div class="region"><div class="contents">
+<p class="para">
+          Continuing with <span class="em emphasis">srv</span> as an LVM volume example, this section covers adding a second hard disk, creating
+          a Physical Volume (PV), adding it to the volume group (VG), extending the logical volume <span class="file filename">srv</span>
+          and finally extending the filesystem. This example assumes a second hard disk has been added to the system. In
+          this example, this hard disk will be named <span class="file filename">/dev/sdb</span> and we will use the entire disk as a physical volume 
+          (you could choose to create partitions and use them as different physical volumes)
+          </p>
+<div class="note note-warning" title="Uyarı"><div class="inner"><div class="region"><div class="contents">
+          <p class="para">
+              Make sure you don't already have an existing <span class="file filename">/dev/sdb</span> before issuing the commands below. You could lose some data if you issue those commands on a non-empty disk. 
+          </p>
+        </div></div></div></div>
+<div class="steps"><div class="inner"><ol class="steps">
+<li class="steps">
+ 
+              <p class="para">Önce, fiziksel birim oluşturmak için terminalde şunu çalıştırın:</p>
+
+                <div class="screen"><pre class="contents "><span class="cmd command">sudo pvcreate /dev/sdb</span>
+                </pre></div>
+
+            </li>
+<li class="steps">
+
+              <p class="para">Şimdi Birim Grubunu (VG) genişletin:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo vgextend vg01 /dev/sdb</span>
+</pre></div>
+
+            </li>
+<li class="steps">
+
+              <p class="para">Boş fiziksel genişleme bulmak için <span class="app application">vgdisplay</span>i kullanın - Boş PE / boyut (ayırabileceğin boyut). Boş boyutun 511 PE ( 2GB'a eşittir. 1 PE = 4MB) olduğunu ve tüm kullanılabilir boş alanı kullanacağımızı varsayıyoruz. Kendi PE ve/veya boş alanını kullan.</p>
+
+              <p class="para">Şimdi Mantıksal Birim (LV) farklı metotlarda genişletilebilir. Biz LV'yi genişletmek için sadece PE'nin nasıl kullanılacağını göreceğiz:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo lvextend /dev/vg01/srv -l +511</span>
+</pre></div>
+
+              <p class="para"><span class="em emphasis">-l</span> seçeneği LV'nin PE kullanılarak genişlemesini sağlar. <span class="em emphasis">-L</span> seçeneği LV'nin Mega, Giga, Tera, vb. baytları kullanarak genişlemesini sağlar.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">
+              Even though you are supposed to be able to <span class="em emphasis">expand</span> an ext3 or ext4 filesystem without unmounting it first, 
+              it may be a good practice to unmount it anyway and check the filesystem, so that you don't mess up the day you want to reduce
+              a logical volume (in that case unmounting first is compulsory).
+              </p>
+
+              <p class="para">Aşağıdaki komutlar <span class="em emphasis">EXT3</span> veya <span class="em emphasis">EXT4</span> dosya sistemi içindir. Eğer başka bir dosya sistemi kullanıyorsan diğer uygulamalar da olabilir.</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo umount /srv</span>
+<span class="cmd command">sudo e2fsck -f /dev/vg01/srv</span>
+</pre></div>
+
+              <p class="para"><span class="app application">e2fsck</span>'nın <span class="em emphasis">-f</span> seçeneği dosya sistemi temiz olsa bile kontrol etmeyi gerçekleştirir.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Son olarak, dosya sistemini yeniden boyutlandır:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo resize2fs /dev/vg01/srv</span>
+</pre></div>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Şimdi bölümü birleştirin ve boyutunu kontrol edin.</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">mount /dev/vg01/srv /srv &amp;&amp; df -h /srv</span>
+</pre></div>
+
+            </li>
+</ol></div></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="lvm-resources"><div class="inner">
+<div class="hgroup"><h3 class="title">Kaynaklar</h3></div>
+<div class="region"><div class="contents"><div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+              <p class="para"><a href="https://help.ubuntu.com/community/Installation#lvm" class="ulink" title="https://help.ubuntu.com/community/Installation#lvm">Ubuntu Wiki LVM Articles</a>'a bakın.</p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para">Daha fazla bilgi için <a href="http://tldp.org/HOWTO/LVM-HOWTO/index.html" class="ulink" title="http://tldp.org/HOWTO/LVM-HOWTO/index.html">LVM HOWTO</a>ya bakın.</p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para">Diğer güzel rehber O'Reilly'in linuxdevcenter.com sitesindeki <a href="http://www.linuxdevcenter.com/pub/a/linux/2006/04/27/managing-disk-space-with-lvm.html" class="ulink" title="http://www.linuxdevcenter.com/pub/a/linux/2006/04/27/managing-disk-space-with-lvm.html">Managing Disk Space with LVM</a>'dir.</p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para">
+              For more information on <span class="app application">fdisk</span> see the
+              <a href="http://manpages.ubuntu.com/manpages/xenial/en/man8/fdisk.8.html" class="ulink" title="http://manpages.ubuntu.com/manpages/xenial/en/man8/fdisk.8.html">fdisk man page</a>.
+              </p>
+            </li>
+</ul></div></div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect2 sect" id="iscsi"><div class="inner">
+<div class="hgroup"><h2 class="title">iSCSI</h2></div>
+<div class="region">
+<div class="contents"><p class="para">The iSCSI protocol can be used to install Ubuntu on systems with
+        or without hard disks attached.</p></div>
+<div class="sect3 sect"><div class="inner">
+<div class="hgroup"><h3 class="title">Installation on a diskless system</h3></div>
+<div class="region"><div class="contents">
+<p class="para">The first steps of a diskless iSCSI installation are identical
+          to the <a class="xref" href="installing-from-cd.html" title="Kurulum">Kurulum</a> section up to "Hard drive
+          layout".</p>
+<div class="steps"><div class="inner"><ol class="steps">
+<li class="steps">
+              <p class="para">The installer will display a warning with the following
+              message:</p>
+
+              <div class="screen"><pre class="contents ">No disk drive was detected. If you know the name of the driver needed by your disk drive, you can select it from the list.</pre></div>
+            </li>
+<li class="steps">
+              <p class="para">Select the item in the list titled <span class="em emphasis">login to iSCSI
+              targets.</span></p>
+            </li>
+<li class="steps">
+              <p class="para">You will be prompted to Enter an IP address to scan for
+              iSCSI targets with a description of the format for the address.
+              Enter the IP address for the location of your iSCSI target and
+              navigate to <span class="em emphasis">&lt;continue&gt;</span> then hit
+              <span class="key keycap"><kbd>ENTER</kbd></span></p>
+            </li>
+<li class="steps">
+              <p class="para">If authentication is required in order to access the iSCSI
+              device, provide the <span class="em emphasis">username</span> in the next
+              field. Otherwise leave it blank.</p>
+            </li>
+<li class="steps">
+              <p class="para">If your system is able to connect to the iSCSI provider, you
+              should see a list of available iSCSI targets where the operating
+              system can be installed. The list should be similar to the
+              following :</p>
+
+              <div class="screen"><pre class="contents ">Select the iSCSI targets you wish to use.
+
+iSCSI targets on 192.168.1.29:3260:
+
+[ ] iqn.2016-03.TrustyS-iscsitarget:storage.sys0
+
+&lt;Go Back&gt;                          &lt;Continue&gt;
+
+</pre></div>
+            </li>
+<li class="steps">
+              <p class="para">Select the iSCSI target that you want to use with the space
+              bar. Use the arrow keys to navigate to the target that you want to
+              select.</p>
+            </li>
+<li class="steps">
+              <p class="para">Navigate to <span class="em emphasis">&lt;Continue&gt;</span> and hit
+              <span class="key keycap"><kbd>ENTER</kbd></span>.</p>
+            </li>
+</ol></div></div>
+<p class="para">If the connection to the iSCSI target is successful, you will be
+          prompted with the <span class="em emphasis">[!!] Partition disks</span>
+          installation menu. The rest of the procedure is identical to any
+          normal installation on attached disks. Once the installation is
+          completed, you will be asked to reboot.</p>
+</div></div>
+</div></div>
+<div class="sect3 sect"><div class="inner">
+<div class="hgroup"><h3 class="title">Installation on a system with disk attached</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Again, the iSCSI installation on a normal server with one or
+          many disks attached is identical to the <a class="xref" href="installing-from-cd.html" title="Kurulum">Kurulum</a> section until we reach the disk
+          partitioning menu. Instead of using any of the Guided selection, we
+          need to perform the following steps :</p>
+<div class="steps"><div class="inner"><ol class="steps">
+<li class="steps">
+              <p class="para">Navigate to the Manual menu entry</p>
+            </li>
+<li class="steps">
+              <p class="para">Select the Configure iSCSI Volumes menu entry</p>
+            </li>
+<li class="steps">
+              <p class="para">Choose the Log into iSCSI targets</p>
+            </li>
+<li class="steps">
+              <p class="para">You will be prompted to Enter an IP address to scan for
+              iSCSI targets. with a description of the format for the address.
+              Enter the IP address and navigate to
+              <span class="em emphasis">&lt;continue&gt;</span> then hit <span class="key keycap"><kbd>ENTER</kbd></span></p>
+            </li>
+<li class="steps">
+              <p class="para">If authentication is required in order to access the iSCSI
+              device, provide the <span class="em emphasis">username</span> in the next
+              field or leave it blank.</p>
+            </li>
+<li class="steps">
+              <p class="para">If your system is able to connect to the iSCSI provider, you
+              should see a list of available iSCSI targets where the operating
+              system can be installed. The list should be similar to the
+              following :</p>
+
+            <div class="screen"><pre class="contents ">Select the iSCSI targets you wish to use.
+
+iSCSI targets on 192.168.1.29:3260:
+
+[ ] iqn.2016-03.TrustyS-iscsitarget:storage.sys0
+
+&lt;Go Back&gt;                          &lt;Continue&gt;
+</pre></div>
+            </li>
+<li class="steps">
+              <p class="para">Select the iSCSI target that you want to use with the space
+              bar. Use the arrow keys to navigate to the target that you want to
+              select</p>
+            </li>
+<li class="steps">
+              <p class="para">Navigate to &lt;Continue&gt; and hit <span class="key keycap"><kbd>ENTER</kbd></span>.</p>
+            </li>
+<li class="steps">
+              <p class="para">If successful, you will come back to the menu asking you to
+              Log into iSCSI targets. Navigate to Finish and hit <span class="key keycap"><kbd>ENTER</kbd></span></p>
+            </li>
+</ol></div></div>
+<p class="para">The newly connected iSCSI disk will appear in the overview
+          section as a device prefixed with SCSI. This is the disk that you
+          should select as your installation disk. Once identified, you can
+          choose any of the partitioning methods.</p>
+<div class="note note-warning" title="Uyarı"><div class="inner"><div class="region"><div class="contents">
+            <p class="para">Depending on your system configuration, there may be other
+            SCSI disks attached to the system. Be very careful to identify the
+            proper device before proceeding with the installation. Otherwise,
+            irreversible data loss may result from performing an installation on
+            the wrong disk.</p>
+          </div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect3 sect"><div class="inner">
+<div class="hgroup"><h3 class="title">Rebooting to an iSCSI target</h3></div>
+<div class="region"><div class="contents">
+<p class="para">The procedure is specific to your hardware platform. As an
+          example, here is how to reboot to your iSCSI target using iPXE</p>
+<div class="screen"><pre class="contents ">iPXE&gt; dhcp
+
+Configuring (net0 52:54:00:a4:f2:a9)....... ok
+
+iPXE&gt; sanboot iscsi:192.168.1.29::::iqn.2016-03.TrustyS-iscsitarget:storage.sys0
+</pre></div>
+<p class="para">If the procedure is successful, you should see the Grub menu
+          appear on the screen.</p>
+</div></div>
+</div></div>
+</div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="installing-upgrading.html" title="Yükseltme">Önceki</a><a class="nextlinks-next" href="kernel-crash-dump.html" title="Kernel Crash Dump">Sonraki</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p></div>
+</div>
+</body>
+</html>

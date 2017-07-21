@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang=uk>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Комп’ютер не відтворює ніяких звуків</title>
+<link rel="stylesheet" type="text/css" href="uk.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Керівництво користувача Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Керівництво користувача Ubuntu</a> » <a class="trail" href="prefs.html" title="Налаштування користувача та системи">Параметри</a> » <a class="trail" href="media.html#sound" title="Основні налаштування звуку">Звук</a> » <a class="trail" href="sound-broken.html" title="Проблеми зі звуком">Проблеми зі звуком</a> » </div>
+<div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Керівництво користувача Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Керівництво користувача Ubuntu</a> » <a class="trail" href="hardware.html" title="Обладнання й драйвери">Обладнання</a> › <a class="trail" href="hardware.html#problems" title="Типові проблеми">Проблеми</a> » <a class="trail" href="sound-broken.html" title="Проблеми зі звуком">Проблеми зі звуком</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Комп’ютер не відтворює ніяких звуків</span></h1></div>
+<div class="region">
+<div class="contents"><p class="p">Якщо комп’ютер не відтворює ніяких звуків, наприклад при спробі відтворення музики, спробуйте вжити наступних кроків з усунення проблем, можливо, вони допоможуть вирішити проблему.</p></div>
+<div id="mute" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Перевірте чи не вимкнено звук</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Клацніть <span class="gui">звукове меню</span> на панелі меню (воно виглядає як гучномовець) й переконайтеся, що звук не вимкнено й гучність його не зменшена до кінця.</p>
+<p class="p">Деякі портативні комп’ютери мають перемикачі або клавіші для вимикання звуку — спробуйте натиснути таку клавішу, щоб перевірити, чи не увімкнеться звук.</p>
+<p class="p">Потрібно також перевірити що не вимкнено звук застосунку, що використовується для відтворення звуку (наприклад, музичному програвачу або відеопрогравачу). У головному вікні програми може бути кнопка вимикання звуку або керування гучністю — перевірте й її. Також клацніть звукове меню на панелі меню й виберіть <span class="gui">Параметри звуку</span>. Після відкриття вікна <span class="gui">Звук</span> перейдіть на вкладку <span class="gui">Додатки</span> й перевірте, що звук вашого додатку не вимкнено.</p>
+</div></div>
+</div></div>
+<div id="speakers" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Перевірте, чи увімкнено динаміки й чи правильно вони під’єднані</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Якщо ваш комп’ютер має зовнішні аудіодинаміки, перевірте, чи вони увімкнені, й чи не зменшена до кінця гучність. Переконайтеся у тому, що роз’єм динаміків надійно вставлений у гніздо аудіовиходу на задній панелі комп’ютера. Це гніздо зазвичай зеленого кольору.</p>
+<p class="p">Деякі звукові картки вміють перемикати гнізда, що використовуються ними для виводу (на динаміки) й вводу (наприклад, з мікрофона). Вихідне гніздо працюючи у Linux може відрізнятия від того що використовується у Windows або Mac OS. Спробуйте по черзі перемикати кабель динаміків у різні аудіороз’єми на комп’ютері.</p>
+<p class="p">Й нарешті, перевірте, чи надійно аудіодріт під’єднаний до задьої панелі динаміків. Зверніть увагу, що деякі динаміки мають більше одного входу.</p>
+</div></div>
+</div></div>
+<div id="device" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Перевірте, чи правильний звуковий пристрій обрано</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">На деяких комп’ютерах встановлено декілька звукових пристроїв. Деякі з них можуть виводити звук, а деякі ні так що потрібно перевірити, чи правильний пристрій обрано. Для вибору правильного пристрою вам, ймовірно, доведеться застосувати метод спроб та помилок.</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Клацніть <span class="gui">звукове меню</span> на <span class="gui">панелі меню</span> й виберіть <span class="gui">Параметри звуку</span>.</p></li>
+<li class="steps"><p class="p">У вікні <span class="gui">Звук</span> що з’явилося спробуйте вибрати інший вихідний пристрій з переліку <span class="gui">Відтворення звуку через</span>.</p></li>
+<li class="steps"><p class="p">Клацніть <span class="gui">Перевірити динаміки</span> для обраного пристрою. У спливаючому вікні клацніть на кнопці кожного динаміка. Кожна кнопка відтворить своє розташування лише для каналу, що відповідає цьому динаміку.</p></li>
+<li class="steps"><p class="p">Якщо це не допоможе, спробуйте зробити те саме для кожного пристрою у переліку.</p></li>
+</ol></div></div></div>
+</div></div>
+</div></div>
+<div id="hardware-detected" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Перевірте, чи правильно визначено звукову картку</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Можливо, ваша звукова картка визначена неправильно. У цьому випадку комп’ютер буде вважати, що відтворити звук неможливо. Ймовірна причина неправильного визначення звукової картки — драйвери цієї картки не встановлено.</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Перейдіть у <span class="link"><a href="unity-dash-intro.html" title="Головне меню — пошук додатків, файлів, музики й багато іншого">головне меню</a></span> й відкрийте Термінал.</p></li>
+<li class="steps"><p class="p">Наберіть <span class="cmd">aplay -l</span> та натисніть <span class="key"><kbd>Enter</kbd></span>.</p></li>
+<li class="steps"><p class="p">Буде показано перелік властивостей. Якщо у ньому відсутні <span class="gui">пристрої відтворення</span>, то звукова картка не визначена.</p></li>
+</ol></div></div></div>
+<p class="p">Якщо звукова картка не визначена, то для неї може бути потрібним ручне встановлення драйверів. Спосіб встановлення залежить від того, яка в вас звукова картка.</p>
+<p class="p">Подивитися, яка в вас звукова картка, можна за допомогою команди <span class="cmd">lspci</span> у <span class="app">Терміналі</span>. Детальніші результати можна отримати, запустивши команду <span class="cmd">lspci</span> від ім’я <span class="link"><a href="user-admin-explain.html" title="Як працюють адміністративні права?">суперкористувача</a></span> — уведіть <span class="cmd">sudo lspci</span> та наберіть свій пароль. Подивіться, чи є у переліку <span class="em">audio controller</span> або <span class="em">audio device</span> — там повинні бути вказані виробник та модель звукової картки. <span class="cmd">sudo lspci -v</span> покаже перелік з ще повнішою інформацією.</p>
+<p class="p">Ви зможете знайти та інсталювати драйвери для вашої картки за допомогою функції пошуку в Інтернеті. У іншому випадку ви можете <span class="link"><a href="report-ubuntu-bug.html" title="Повідомте про проблеми з Ubuntu">повідомити про помилку</a></span>.</p>
+<p class="p">Якщо знайти драйвери для вашої звукової картки не вдасться, можливо буде ліпше придбати нову звукову картку. Можна купити звукову картку, яка встановлюється всередину комп’ютера, або зовнішню, що під’єднується через USB.</p>
+</div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Докладніше</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="sound-broken.html" title="Проблеми зі звуком">Проблеми зі звуком</a><span class="desc"> — Вирішення проблем з відсутністю або поганою якістю звуку.</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

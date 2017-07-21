@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang=zh-CN>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>CUPS － 打印服务器</title>
+<link rel="stylesheet" type="text/css" href="zh_CN.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../16.04" class="trail">Ubuntu 16.04</a> » <a class="trail" href="index.html" title="Ubuntu 服务器指南">Ubuntu 服务器指南</a> » <a class="trail" href="file-servers.html" title="文件服务器">文件服务器</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="iscsi-initiator.html" title="iSCSI Initiator">上一页</a><a class="nextlinks-next" href="email-services.html" title="邮件服务">下一页</a>
+</div>
+<div class="hgroup"><h1 class="title">CUPS － 打印服务器</h1></div>
+<div class="region">
+<div class="contents">
+<p class="para">Ubuntu 印刷和打印服务的主要机制是 <span class="em em-bold emphasis">CUPS</span> (Common UNIX Printing System，通用 UNIX 打印系统)。这个打印系统是一个免费可用的、可移植的打印虚拟层，并已成为大多数 Linux 发行版的新打印标准。</p>
+<p class="para">CUPS 管理打印作业和队列，并使用标准的 Internet 打印协议 (IPP) 提供网络打印，该协议提供最大范围的打印机支持，从点阵打印机到激光打印机以及位于两者之间的许多打印机。CUPS 也支持 PostScript Printer Description (PPD) 和网络打印机的自动检测，以及提供基于 Web 的简单配置和管理工具。</p>
+</div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="cups.html#cups-installation" title="安装">安装</a></li>
+<li class="links"><a class="xref" href="cups.html#cups-configuration" title="配置">配置</a></li>
+<li class="links"><a class="xref" href="cups.html#cups-web" title="Web Interface">Web Interface</a></li>
+<li class="links"><a class="xref" href="cups.html#cups-references" title="参考资料">参考资料</a></li>
+</ul></div>
+<div class="sect2 sect" id="cups-installation"><div class="inner">
+<div class="hgroup"><h2 class="title">安装</h2></div>
+<div class="region"><div class="contents">
+<p class="para">
+            To install CUPS on your Ubuntu computer, simply use <span class="app application">sudo</span> with the <span class="app application">apt</span> command and give the packages to install as the first parameter. A complete CUPS install has many package dependencies, but they may all be specified on the same command line.  Enter the following at a terminal prompt to install CUPS:
+          </p>
+<p class="para">
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install cups</span>
+</pre></div>
+          </p>
+<p class="para">
+          Upon authenticating with your user password, the packages should be downloaded
+		  and installed without error. Upon the conclusion of installation, the CUPS server 
+		  will be started automatically. 
+ 	  </p>
+<p class="para">
+          For troubleshooting purposes, you can access CUPS 
+		  server errors via the error log file at: <span class="file filename">/var/log/cups/error_log</span>.
+		  If the error log does not show enough information to troubleshoot any problems you
+		  encounter, the verbosity of the CUPS log can be increased by changing the <span class="em em-bold emphasis">LogLevel</span> directive in the configuration file (discussed below)
+		  to "debug" or even "debug2", which logs everything, from the default of "info".  If 
+		  you make this change, remember to change it back once you've solved your problem, to 
+		  prevent the log file from becoming overly large.
+          </p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="cups-configuration"><div class="inner">
+<div class="hgroup"><h2 class="title">配置</h2></div>
+<div class="region"><div class="contents">
+<p class="para">可以通过 <span class="file filename">/etc/cups/cupsd.conf</span> 文件中的指令来配置通用 UNIX 打印系统服务器的行为的。CUPS 配置文件与 Apache HTTP 服务器的主配置文件语法相同，因此熟悉编辑 Apache 配置文件的用户在编辑 CUPS 配置文件时会感到相当容易。在这里将显示一些您可能想要改变初始值的设置范例。</p>
+<div class="note note-tip" title="提示"><div class="inner"><div class="region"><div class="contents">
+               <p class="para">在编辑配置文件之前，您应该将原始文件做个副本并将其写保护，以便您可以将原始文件作为参考并在必要时重用它。</p>
+               <p class="para">拷贝 <span class="file filename">/etc/cups/cupsd.conf</span> 文件并对其写保护，可以在终端提示符后执行以下命令：</p>
+               </div></div></div></div>
+<p class="para">
+<div class="screen"><pre class="contents "><span class="cmd command">sudo cp /etc/cups/cupsd.conf /etc/cups/cupsd.conf.original</span>
+<span class="cmd command">sudo chmod a-w /etc/cups/cupsd.conf.original</span>
+</pre></div>
+               </p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+                <p class="para">
+                <span class="em em-bold emphasis">ServerAdmin</span>: To configure the email 
+				address of the designated administrator of the CUPS server, simply 
+				edit the <span class="file filename">/etc/cups/cupsd.conf</span> configuration file 
+				with your preferred text editor, and add or modify the <span class="em emphasis">ServerAdmin</span> line accordingly.  For example, 
+				if you are the Administrator for the CUPS server, and your e-mail 
+				address is 'bjoy@somebigco.com', then you would modify the ServerAdmin 
+				line to appear as such:
+                </p>
+                <p class="para">
+<div class="screen"><pre class="contents ">ServerAdmin bjoy@somebigco.com
+</pre></div>
+                </p>
+                </li>
+<li class="list itemizedlist">
+                <p class="para">
+                <span class="em em-bold emphasis">Listen</span>: By default on Ubuntu, the CUPS 
+				server installation listens only on the loopback interface at IP address 
+				<span class="em emphasis">127.0.0.1</span>. In order to instruct the 
+				CUPS server to listen on an actual network adapter's IP address, you must 
+				specify either a hostname, the IP address, or optionally, an IP 
+				address/port pairing via the addition of a Listen directive.  For example, 
+				if your CUPS server resides on a local network at the IP address <span class="em emphasis">192.168.10.250</span> and you'd like to make it 
+				accessible to the other systems on this subnetwork, you would edit the 
+				<span class="file filename">/etc/cups/cupsd.conf</span> and add a Listen 
+				directive, as such:
+                </p>
+                <p class="para">
+<div class="screen"><pre class="contents ">Listen 127.0.0.1:631 # existing loopback Listen
+Listen /var/run/cups/cups.sock # existing socket Listen
+Listen 192.168.10.250:631 # Listen on the LAN interface, Port 631 (IPP)
+</pre></div>
+                </p>
+                <p class="para">在上面的例子里，如果您不想 <span class="app application">cupsd </span> 监听环回地址 (127.0.0.1) ，您可能注释或删除了相关语句。但最好保留它以监听局域网 (LAN) 的以太网接口。为了能监听一个特定主机名所绑定的所有的网络接口，您可以为 <span class="em emphasis">socrates</span> 主机名创建一个 Listen 条目，如下所示：</p>
+                <p class="para">
+<div class="screen"><pre class="contents ">Listen socrates:631 # Listen on all interfaces for the hostname 'socrates'
+</pre></div>
+                </p> 
+				<p class="para">或者忽略 Listen 语句并使用 <span class="em emphasis">Port</span> 来代替，如：</p>
+<p class="para">
+<div class="screen"><pre class="contents ">Port 631 # Listen on port 631 on all interfaces
+</pre></div>
+</p>
+                </li>
+</ul></div>
+<p class="para">关于 CUPS 服务器配置文件中配置语句的更多范例，通过在终端提示符后输入以下命令可以查阅相关的系统手册页：</p>
+<p class="para">
+<div class="screen"><pre class="contents "><span class="cmd command">man cupsd.conf</span>
+</pre></div>
+               </p>
+<div class="note" title="备注"><div class="inner"><div class="region"><div class="contents">
+                <p class="para">无论您在什么时间修改了 <span class="file filename">/etc/cups/cupsd.conf</span> 配置文件，您都需要重启 CUPS 服务，在终端提示符后键入以下命令：</p>
+                </div></div></div></div>
+<p class="para">
+<div class="screen"><pre class="contents "><span class="cmd command">sudo systemctl restart cups.service</span>
+</pre></div>
+                </p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="cups-web"><div class="inner">
+<div class="hgroup"><h2 class="title">Web Interface</h2></div>
+<div class="region"><div class="contents">
+<div class="note note-tip" title="提示"><div class="inner"><div class="region"><div class="contents">
+	    <p class="para">
+	    CUPS can be configured and monitored using a web interface, which by default is available at <a href="http://localhost:631/admin" class="ulink" title="http://localhost:631/admin">http://localhost:631/admin</a>.  The web interface can be used to perform all printer management tasks.
+	    </p>
+	  </div></div></div></div>
+<p class="para">
+	  In order to perform administrative tasks via the web interface, you must either have the root account enabled on your server, or authenticate as a user in the <span class="em emphasis">lpadmin</span> group.  For security reasons, CUPS won't authenticate a user that doesn't have a password.
+	  </p>
+<p class="para">
+	  To add a user to the <span class="em emphasis">lpadmin</span> group, run at the terminal prompt:
+<div class="screen"><pre class="contents "><span class="cmd command">sudo usermod -aG lpadmin username</span>
+</pre></div>
+	  </p>
+<p class="para">
+	    Further documentation is available in the <span class="em emphasis">Documentation/Help</span> tab of the web interface.
+	  </p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="cups-references"><div class="inner">
+<div class="hgroup"><h2 class="title">参考资料</h2></div>
+<div class="region"><div class="contents">
+<p class="para">
+        <a href="http://www.cups.org/" class="ulink" title="http://www.cups.org/">CUPS 网络</a>
+        </p>
+<p class="para">
+        <a href="http://wiki.debian.org/SAN/iSCSI/open-iscsi" class="ulink" title="http://wiki.debian.org/SAN/iSCSI/open-iscsi">Debian Open-iSCSI page</a>
+        </p>
+</div></div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="iscsi-initiator.html" title="iSCSI Initiator">上一页</a><a class="nextlinks-next" href="email-services.html" title="邮件服务">下一页</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p></div>
+</div>
+</body>
+</html>

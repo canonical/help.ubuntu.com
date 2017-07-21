@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=it>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Preferenze sul funzionamento del gestore di file</title>
+<link rel="stylesheet" type="text/css" href="it.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Guida Ubuntu Desktop</a> » <a class="trail" href="files.html" title="File, cartelle e ricerche">File</a> » <a class="trail" href="nautilus-prefs.html" title="Preferenze del gestore di file">Preferenze del gestore di file</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Preferenze sul funzionamento del gestore di file</span></h1></div>
+<div class="region">
+<div class="contents"><p class="p">È possibile controllare il comportamento dell'apertura dei file, con clic singolo o doppio-clic, come sono gestiti i file di testo eseguibili e il funzionamento del cestino. Fare clic su <span class="gui">File</span> nella barra dei menù, scegliere <span class="gui">Preferenze</span> e selezionare la scheda <span class="gui">Comportamento</span>.</p></div>
+<div id="behavior" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Comportamento</span></h2></div>
+<div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">Singolo clic per aprire gli oggetti</span></dt>
+<dt class="terms"><span class="gui">Doppio-clic per aprire gli oggetti</span></dt>
+<dd class="terms"><p class="p">In modo predefinito, un singolo clic seleziona i file, mentre il doppio-clic li apre. È possibile scegliere di aprire file e cartelle con un singolo clic. Quando in modalità singolo clic, per selezionare più file, premere il tasto <span class="key"><kbd>Ctrl</kbd></span> mentre si esegue il clic per selezionare uno o più file.</p></dd>
+</dl></div></div></div></div></div>
+</div></div>
+<div id="executable" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">File di testo eseguibili</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Un file di testo eseguibile è un file che contiene un programma che può essere eseguito. I <span class="link"><a href="nautilus-file-properties-permissions.html" title="Impostare i permessi sui file">Permessi</a></span> devono inoltre consentire di eseguire il file come un programma. I più comuni sono gli script <span class="sys">Shell</span>, <span class="sys">Python</span> e <span class="sys">Perl</span> con rispettive estensioni <span class="file">.sh</span>, <span class="file">.py</span> e <span class="file">.pl</span>.</p>
+<p class="p">Quando si apre un file di testo eseguibile, è possibile scegliere fra:</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p"><span class="gui">Eseguire i file di testo eseguibili quando vengono aperti</span></p></li>
+<li class="list"><p class="p"><span class="gui">Mostrare i file di testo eseguibili quando vengono aperti</span></p></li>
+<li class="list"><p class="p"><span class="gui">Chiedere ogni volta</span></p></li>
+</ul></div></div></div>
+<p class="p">Se è selezionato <span class="gui">Chiedere ogni volta</span>, verrà visualizzata una finestra che chiede se eseguire o visualizzare il file di testo selezionato.</p>
+<p class="p">I file di testo eseguibili sono chiamati anche script. Tutti gli script nella cartella  <span class="file">~/.local/share/nautilus/scripts</span> sono visualizzati nel menù contestuale di un file nel sottomenù <span class="gui">Script</span>. Quando viene eseguito uno script in una cartella locale, tutti i file selezionati saranno uniti nello script come parametri. Per eseguire uno script su di un file:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Aprire la cartella.</p></li>
+<li class="steps"><p class="p">Selezionare il file.</p></li>
+<li class="steps"><p class="p">Fare clic con il pulsante destro sul file per aprire il menù contestuale e selezionare lo script da eseguire nel menù <span class="gui">Script</span>.</p></li>
+</ol></div></div></div>
+<div class="note note-important" title="Importante"><div class="inner"><div class="region"><div class="contents"><p class="p">Non verranno forniti parametri quando lo script viene eseguito da una cartella remota così come da una cartella che contiene  contenuti web o <span class="sys">ftp</span>.</p></div></div></div></div>
+</div></div>
+</div></div>
+<div id="trash" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Cestino</span></h2></div>
+<div class="region">
+<div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">Confermare lo svuotamento del cestino o l'eliminazione dei file</span></dt>
+<dd class="terms"><p class="p">Questa opzione è selezionata in modo predefinito. Svuotando il cestino, apparirà un messaggio che richiede conferma prima di eseguire l'operazione.</p></dd>
+<dt class="terms">
+<span class="gui">Includere un comando «Elimina» che scavalchi il cestino</span>.</dt>
+<dd class="terms">
+<p class="p">Selezionando questa opzione comparirà la voce <span class="gui">Elimina</span> nel menù che appare facendo clic col pulsante destro del mouse su un elemento nell'applicazione <span class="app">File</span>.</p>
+<div class="note note-warning" title="Avvertimento"><div class="inner"><div class="region"><div class="contents"><p class="p">Eliminare un elemento utilizzando la funzione <span class="gui">Elimina</span> scavalcherà il Cestino. L'elemento sarà completamente rimosso dal sistema e non esiste alcun modo per recuperarlo.</p></div></div></div></div>
+</dd>
+</dl></div></div></div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">Confronta anche</span></h3></div>
+<div class="region"><ul><li class="links ">
+<a href="files-delete.html" title="Eliminare file e cartelle">Eliminare file e cartelle</a><span class="desc"> — Rimuovere file e cartelle non più necessarie.</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
+<div class="region"><ul><li class="links "><a href="nautilus-prefs.html" title="Preferenze del gestore di file">Preferenze del gestore di file</a></li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

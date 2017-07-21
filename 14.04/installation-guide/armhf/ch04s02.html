@@ -1,0 +1,169 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>4.2. Downloading Files from Ubuntu Mirrors</title>
+<link rel="stylesheet" type="text/css" href="install.css">
+<meta name="generator" content="DocBook XSL Stylesheets V1.76.1">
+<link rel="home" href="index.html" title="Ubuntu Installation Guide">
+<link rel="up" href="ch04.html" title="Chapter 4. Obtaining System Installation Media">
+<link rel="prev" href="ch04s01.html" title="4.1. Official Ubuntu CD-ROMs">
+<link rel="next" href="ch04s03.html" title="4.3. Preparing Files for TFTP Net Booting">
+</head>
+<body bgcolor="white" text="black" link="#0000FF" vlink="#840084" alink="#0000FF">
+<div class="navheader">
+<table width="100%" summary="Navigation header">
+<tr><th colspan="3" align="center">4.2. Downloading Files from Ubuntu Mirrors</th></tr>
+<tr>
+<td width="20%" align="left">
+<a accesskey="p" href="ch04s01.html">Prev</a> </td>
+<th width="60%" align="center">Chapter 4. Obtaining System Installation Media</th>
+<td width="20%" align="right"> <a accesskey="n" href="ch04s03.html">Next</a>
+</td>
+</tr>
+</table>
+<hr>
+</div>
+<div class="sect1" title="4.2. Downloading Files from Ubuntu Mirrors">
+<div class="titlepage"><div><div><h2 class="title" style="clear: both">
+<a name="downloading-files"></a>4.2. Downloading Files from Ubuntu Mirrors</h2></div></div></div>
+<p>
+
+To find the nearest (and thus probably the fastest) mirror, see the
+<a class="ulink" href="http://wiki.ubuntu.com/Archive" target="_top">list of Ubuntu mirrors</a>.
+
+</p>
+<p>
+
+When downloading files from an Ubuntu mirror using FTP, be sure to download the
+files in <span class="emphasis"><em>binary</em></span> mode, not text or automatic mode.
+
+</p>
+<div class="sect2" title="4.2.1. Where to Find Installation Images">
+<div class="titlepage"><div><div><h3 class="title">
+<a name="where-files"></a>4.2.1. Where to Find Installation Images</h3></div></div></div>
+<p>
+The installation images are located on each Ubuntu mirror in the directory
+<a class="ulink" href="http://archive.ubuntu.com/ubuntu/dists/trusty/main/installer-armhf/current/images" target="_top">ubuntu/dists/trusty/main/installer-armhf/current/images/</a>
+— the <a class="ulink" href="http://archive.ubuntu.com/ubuntu/dists/trusty/main/installer-armhf/current/images/MANIFEST" target="_top">MANIFEST</a>
+lists each image and its purpose.
+</p>
+<div class="sect3" title="4.2.1.1. NSLU2 Installation Files">
+<div class="titlepage"><div><div><h4 class="title">
+<a name="nslu2-install-files"></a>4.2.1.1. NSLU2 Installation Files</h4></div></div></div>
+<p>
+
+A firmware image is provided for the Linksys NSLU2 which will automatically
+boot <code class="classname">debian-installer</code>.  This image can be uploaded
+via the Linksys web frontend or with upslug2.  This firmware image can be
+obtained from 
+<a class="ulink" href="http://archive.ubuntu.com/ubuntu/dists/trusty/main/installer-armhf/current/images/ixp4xx/netboot/di-nslu2.bin" target="_top">.../images/ixp4xx/netboot/di-nslu2.bin</a>
+  .
+
+</p>
+</div>
+<div class="sect3" title="4.2.1.2. Thecus N2100 Installation Files">
+<div class="titlepage"><div><div><h4 class="title">
+<a name="n2100-install-files"></a>4.2.1.2. Thecus N2100 Installation Files</h4></div></div></div>
+<p>
+
+A firmware image is provided for the Thecus N2100 which will automatically
+boot <code class="classname">debian-installer</code>.  This image can be installed
+using the Thecus firmware upgrade process. This firmware image can be
+obtained from 
+<a class="ulink" href="http://archive.ubuntu.com/ubuntu/dists/trusty/main/installer-armhf/current/images/iop32x/netboot/n2100.bin" target="_top">.../images/iop32x/netboot/n2100.bin</a>
+  .
+
+</p>
+</div>
+<div class="sect3" title="4.2.1.3. GLAN Tank Installation Files">
+<div class="titlepage"><div><div><h4 class="title">
+<a name="glantank-install-files"></a>4.2.1.3. GLAN Tank Installation Files</h4></div></div></div>
+<p>
+
+The GLAN Tank requires a kernel and ramdisk on an ext2 partition on the
+disk on which you intend to install Debian.  These images can be obtained
+from 
+<a class="ulink" href="http://archive.ubuntu.com/ubuntu/dists/trusty/main/installer-armhf/current/images/iop32x/netboot/" target="_top">.../images/iop32x/netboot/glantank/</a>
+  .
+
+</p>
+</div>
+<div class="sect3" title="4.2.1.4. Kurobox Pro Installation Files">
+<div class="titlepage"><div><div><h4 class="title">
+<a name="kuroboxpro-install-files"></a>4.2.1.4. Kurobox Pro Installation Files</h4></div></div></div>
+<p>
+
+The Kurobox Pro requires a kernel and ramdisk on an ext2 partition on the
+disk on which you intend to install Debian.  These images can be obtained
+from 
+<a class="ulink" href="http://archive.ubuntu.com/ubuntu/dists/trusty/main/installer-armhf/current/images/orion5x/netboot/buffalo/kuroboxpro" target="_top">.../images/orion5x/netboot/buffalo/kuroboxpro</a>
+  .
+
+</p>
+</div>
+<div class="sect3" title="4.2.1.5. HP mv2120 Installation Files">
+<div class="titlepage"><div><div><h4 class="title">
+<a name="mv2120-install-files"></a>4.2.1.5. HP mv2120 Installation Files</h4></div></div></div>
+<p>
+
+A firmware image is provided for the HP mv2120 which will automatically
+boot <code class="classname">debian-installer</code>.  This image can be installed
+with uphpmvault on Linux and other systems and with the HP Media
+Vault Firmware Recovery Utility on Windows.  The firmware image can be
+obtained from 
+<a class="ulink" href="http://archive.ubuntu.com/ubuntu/dists/trusty/main/installer-armhf/current/images/orion5x/netboot/hp/mv2120/netboot.img" target="_top">.../images/orion5x/netboot/hp/mv2120/netboot.img</a>
+  .
+
+</p>
+</div>
+<div class="sect3" title="4.2.1.6. QNAP Turbo Station Installation Files">
+<div class="titlepage"><div><div><h4 class="title">
+<a name="qnap-install-files"></a>4.2.1.6. QNAP Turbo Station Installation Files</h4></div></div></div>
+<p>
+
+The installation files for the QNAP Turbo Station consist of a kernel and
+ramdisk as well as a script to write these images to flash.  You can obtain
+the installation files for QNAP TS-109 and TS-209 from
+
+<a class="ulink" href="http://archive.ubuntu.com/ubuntu/dists/trusty/main/installer-armhf/current/images/orion5x/netboot/qnap/" target="_top">.../images/orion5x/netboot/qnap/</a>
+   and for QNAP TS-110, TS-119, TS-210, TS-219,
+TS-219P from 
+<a class="ulink" href="http://archive.ubuntu.com/ubuntu/dists/trusty/main/installer-armhf/current/images/kirkwood/network-console/qnap/" target="_top">.../images/kirkwood/network-console/qnap/</a>
+  .
+
+</p>
+</div>
+<div class="sect3" title="4.2.1.7. SheevaPlug and OpenRD Installation Files">
+<div class="titlepage"><div><div><h4 class="title">
+<a name="marvell-install-files"></a>4.2.1.7. SheevaPlug and OpenRD Installation Files</h4></div></div></div>
+<p>
+
+The installation files for the Marvell SheevaPlug and OpenRD devices
+consist of a kernel and initrd for U-Boot.  You can obtain these files
+from 
+<a class="ulink" href="http://archive.ubuntu.com/ubuntu/dists/trusty/main/installer-armhf/current/images/kirkwood/netboot/marvell/" target="_top">.../images/kirkwood/netboot/marvell/</a>
+  .
+
+</p>
+</div>
+</div>
+</div>
+<div class="navfooter">
+<hr>
+<table width="100%" summary="Navigation footer">
+<tr>
+<td width="40%" align="left">
+<a accesskey="p" href="ch04s01.html">Prev</a> </td>
+<td width="20%" align="center"><a accesskey="u" href="ch04.html">Up</a></td>
+<td width="40%" align="right"> <a accesskey="n" href="ch04s03.html">Next</a>
+</td>
+</tr>
+<tr>
+<td width="40%" align="left" valign="top">4.1. Official Ubuntu CD-ROMs </td>
+<td width="20%" align="center"><a accesskey="h" href="index.html">Home</a></td>
+<td width="40%" align="right" valign="top"> 4.3. Preparing Files for TFTP Net Booting</td>
+</tr>
+</table>
+</div>
+</body>
+</html>

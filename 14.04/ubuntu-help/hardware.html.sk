@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang=sk>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Hardvér a ovládače</title>
+<link rel="stylesheet" type="text/css" href="sk.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Príručka pre Ubuntu desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomocník"></span></span> Príručka pre Ubuntu desktop</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Hardvér a ovládače</span></h1></div>
+<div class="region">
+<div class="contents">
+<div class="links topiclinks"><div class="inner"><div class="region">
+<div class="links-grid ">
+<div class="links-grid-link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></div>
+<div class="desc"><span class="desc">
+    <span class="link"><a href="bluetooth-connect-device.html" title="Connect your computer to a Bluetooth device">Connect</a></span>,
+    <span class="link"><a href="bluetooth-send-file.html" title="Send a file to a Bluetooth device">send files</a></span>,
+    <span class="link"><a href="bluetooth-turn-on-off.html" title="Zapnutie alebo vypnutie bluetooth">turn on and off</a></span>…
+  </span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="disk.html" title="Disky a úložiská">Disky a úložiská</a></div>
+<div class="desc"><span class="desc">
+    <span class="link"><a href="disk-capacity.html" title="Kontrola zostávajúceho voľného miesta">Disk space</a></span>,
+    <span class="link"><a href="disk-benchmark.html" title="Testovanie výkonu pevného disku">performance</a></span>,
+    <span class="link"><a href="disk-check.html" title="Skontrolovanie chýb na disku">problems</a></span>,
+    <span class="link"><a href="disk-partitions.html" title="Správa zväzkov a oddielov">volumes and partitions</a></span>…
+  </span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="keyboard.html" title="Klávesnica">Klávesnica</a></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="keyboard-layouts.html" title="Use alternative input sources">Input sources</a></span>,
+      <span class="link"><a href="keyboard-cursor-blink.html" title="Blikanie kurzora klávesnice">cursor blinking</a></span>,
+      <span class="link"><a href="windows-key.html" title='What is the "Super" key?'>super key</a></span>,
+      <span class="link"><a href="a11y.html#mobility" title="Pohybové postihnutie">keyboard accessibility</a></span>…
+    </span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="mouse.html" title="Myš">Myš</a></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="mouse-lefthanded.html" title="Myš pre ľavákov">Left-handed</a></span>,
+      <span class="link"><a href="mouse-sensitivity.html" title="Rýchlosť pohybu myši a touchpadu">speed and sensitivity</a></span>,
+      <span class="link"><a href="mouse-touchpad-click.html" title="Click, drag, or scroll with the touchpad">touchpad clicking and scrolling</a></span>…
+    </span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="power.html" title="Power &amp; battery">Power &amp; battery</a></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="power-suspend.html" title="What happens when I suspend my computer?">Suspend</a></span>,
+      <span class="link"><a href="power-batterylife.html" title="Use less power and improve battery life">energy savings</a></span>,
+      <span class="link"><a href="shell-exit.html#shutdown" title="Power off or restart">power off</a></span>,
+      <span class="link"><a href="power-whydim.html" title="Prečo mi obrazovka stmavne po nejakej dobe?">screen dimming</a></span>…
+    </span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="color.html" title="Správa farieb">Správa farieb</a></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="color-whyimportant.html" title="Prečo je správa farieb dôležitá">Why is this important</a></span>,
+      <span class="link"><a href="color.html#profiles" title="Profily farieb">Color profiles</a></span>,
+      <span class="link"><a href="color.html#calibration" title="Kalibrácia">How to calibrate a device</a></span>…
+    </span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="printing.html" title="Tlačiť">Tlačiť</a></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="printing-setup.html" title="Nastavenia lokálnej tlačiarne">Local setup</a></span>,
+      
+      <span class="link"><a href="printing-order.html" title="Vytvoriť stránky tlače v inom poradí">order and collate</a></span>,
+      <span class="link"><a href="printing-2sided.html" title="Tlačiť obojstranné a viacstránkových usporiadanie">two-sided and multi-page</a></span>…
+    </span></div>
+</div>
+</div></div></div>
+<div class="links topiclinks"><div class="inner">
+<div class="title title-links"><h2><span class="title">Ďalšie témy</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="hardware-driver.html" title="Čo je to ovládač?">Čo je to ovládač?</a><span class="desc"> — Ovládač zariadenia je niečo, čo umožňuje počítaču používať zariadenie, ktoré k nemu pripojíme.</span>
+</li>
+<li class="links ">
+<a href="hardware-driver-proprietary.html" title="Čo sú to neslobodné ovládače?">Čo sú to neslobodné ovládače?</a><span class="desc"> — Neslobodné ovládače nie sú voľne dostupné alebo nemajú otvorený zdrojový kód.</span>
+</li>
+</ul></div>
+</div></div>
+</div>
+<div id="problems" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Časté problémy</span></h2></div>
+<div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><ul>
+<li class="links "><a href="bluetooth.html#problems" title="Problémy">Bluetooth problems</a></li>
+<li class="links ">
+<a href="power.html#problems" title="Problémy">Power problems</a><span class="desc"> — Troubleshoot problems with power and batteries.</span>
+</li>
+<li class="links ">
+<a href="hardware-problems-graphics.html" title="Problémy s obrazom">Problémy s obrazom</a><span class="desc"> — Riešenie problémov s obrazom a grafikou.</span>
+</li>
+<li class="links ">
+<a href="hardware-cardreader.html" title="Problémy s čítačkou kariet">Problémy s čítačkou kariet</a><span class="desc"> — Riešenie problémov s čítačkou kariet</span>
+</li>
+<li class="links ">
+<a href="printing.html#problems" title="Problémy tlačiarne">Problémy tlačiarne</a><span class="desc"> — Undetected printers, paper jams, print-outs that look wrong…</span>
+</li>
+<li class="links ">
+<a href="sound-broken.html" title="Sound problems">Sound problems</a><span class="desc"> — Troubleshoot problems like having no sound or having poor sound quality.</span>
+</li>
+<li class="links ">
+<a href="net-wireless-troubleshooting.html" title="Wireless network troubleshooter">Wireless network troubleshooter</a><span class="desc"> — Identify and fix problems with wireless connections</span>
+</li>
+</ul></div></div></div></div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Viac informácií</span></h2></div>
+<div class="region"><ul><li class="links "><a href="index.html" title="Príručka pre Ubuntu desktop">Príručka pre Ubuntu desktop</a></li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

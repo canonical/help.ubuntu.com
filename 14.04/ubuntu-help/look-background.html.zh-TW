@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang=zh-TW>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>改變桌面背景</title>
+<link rel="stylesheet" type="text/css" href="zh-TW.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Ubuntu 桌面版手冊"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="幫助"></span></span> Ubuntu 桌面版手冊</a> » <a class="trail" href="prefs.html" title="使用者與系統設定值">設定值</a> » <a class="trail" href="prefs-display.html" title="顯示與螢幕">顯示與螢幕</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">改變桌面背景</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">您可以用圖片、單色或是漸層來更換桌面背景。</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">在桌面上點擊右鍵，選擇<span class="gui">更改桌面背景</span>。</p></li>
+<li class="steps"><p class="p">選擇一張圖像或是顏色。設定值會立即生效。<span class="link"><a href="shell-workspaces-switch.html" title="在工作區間切換">切換至一個空的工作區</a></span>來檢視整張桌面。</p></li>
+</ol></div></div></div>
+<p class="p">右上方的下拉清單內有三個選項。</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list">
+<p class="p">選擇<span class="gui">桌布</span>，這裡有很多隨 Ubuntu 一同發布的專業背景圖像，您可以自由選擇。除了 Ubuntu 自己的桌布以外，其他的預設桌布選項，都是由社群的桌布比賽優勝者製作的。</p>
+<p class="p">某些桌布會有部份透明，背景顏色可以穿透過來。點選這些桌布時，右下角會出現一個顏色選擇按鈕。</p>
+</li>
+<li class="list"><p class="p">選擇<span class="gui">圖片資料夾</span>，您可以從「圖片」資料夾內，選擇一張您擁有的照片當作桌布。大多數照片管理程式都會把照片存在這裡。</p></li>
+<li class="list"><p class="p">選擇<span class="gui">顏色與漸層</span>，只用一個平塗顏色或是線性漸層當作桌面。右下角會出現可以選擇顏色的按鈕。</p></li>
+</ul></div></div></div>
+<p class="p">您也可以點擊 <span class="gui">+</span> 按鈕，瀏覽電腦內任何一張圖片。用這種方式加入的圖片會出現在<span class="gui">圖片資料夾</span>底下。選擇任一張圖片，點擊 <span class="gui">-</span> 按鈕，可以將它們從清單內移除。將圖片從清單內移除，原本的檔案並不會被刪除。</p>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">更多資訊</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="prefs-display.html" title="顯示與螢幕">顯示與螢幕</a><span class="desc"> — 
+      <span class="link"><a href="look-background.html" title="改變桌面背景">Background</a></span>,
+      <span class="link"><a href="look-resolution.html" title="更改螢幕的大小或旋轉角度">size and rotation</a></span>,
+      <span class="link"><a href="display-dimscreen.html" title="設定螢幕亮度">brightness</a></span>…
+    </span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

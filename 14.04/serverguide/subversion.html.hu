@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang=hu>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Subversion</title>
+<link rel="stylesheet" type="text/css" href="hu.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Ubuntu kiszolgáló kézikönyve">Ubuntu kiszolgáló kézikönyve</a> » <a class="trail" href="version-control-system.html" title="Verziókezelő rendszerek">Verziókezelő rendszerek</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="git.html" title="Git">Előző</a><a class="nextlinks-next" href="version-control-ref.html" title="Hivatkozások">Következő</a>
+</div>
+<div class="hgroup"><h1 class="title">Subversion</h1></div>
+<div class="region">
+<div class="contents"><p class="para">A Subversion egy nyílt forrású verziókezelő rendszer. A Subversion segítségével forrásfájlok és dokumentumok előzményeit rögzítheti. Használatával a fájlok és könyvtárak időbeli változásait kezelheti. A fájlokat tartalmazó fa a központi tárolóban található. A tároló hasonlít egy átlagos fájlkiszolgálóra, kivéve hogy a fájlok és könyvtárak minden módosítását feljegyzi.</p></div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="subversion.html#subversion-installation" title="Telepítés">Telepítés</a></li>
+<li class="links"><a class="xref" href="subversion.html#subversion-configuration" title="A kiszolgáló beállítása">A kiszolgáló beállítása</a></li>
+<li class="links"><a class="xref" href="subversion.html#access-methods" title="Hozzáférési módok">Hozzáférési módok</a></li>
+</ul></div>
+<div class="sect2 sect" id="subversion-installation"><div class="inner">
+<div class="hgroup"><h2 class="title">Telepítés</h2></div>
+<div class="region"><div class="contents">
+<p class="para">A Subversion tároló HTTP feletti eléréséhez telepítenie kell egy webkiszolgálót. Az Apache2 jól működik a Subversionnel. Az Apache2 telepítésével és beállításával kapcsolatos információkért nézze meg az Apache2 szakasz HTTP alszakaszát. A Subversion tároló HTTPS feletti eléréséhez digitális tanúsítványt kell telepítenie és beállítania az Apache2 webkiszolgálóra. A digitális tanúsítvány telepítésével és beállításával kapcsolatban nézze meg az Apache2 szakasz HTTPS alszakaszát.</p>
+<p class="para">A Subversion telepítéséhez adja ki a következő parancsot:</p>
+<p class="para">
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt-get install subversion apache2 libapache2-svn</span>
+</pre></div>
+	    </p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="subversion-configuration"><div class="inner">
+<div class="hgroup"><h2 class="title">A kiszolgáló beállítása</h2></div>
+<div class="region">
+<div class="contents"><p class="para">Ez a lépés feltételezi, hogy a fenti csomagokat telepítette a rendszerre. Ez a szakasz ismerteti a Subversion tároló létrehozásának, és a projekt elérésének módját.</p></div>
+<div class="sect3 sect" id="create-svn-repos"><div class="inner">
+<div class="hgroup"><h3 class="title">Subversion tároló létrehozása</h3></div>
+<div class="region"><div class="contents">
+<p class="para">A Subversion tároló a következő parancs kiadásával hozható létre:</p>
+<p class="para">
+<div class="screen"><pre class="contents "><span class="cmd command">svnadmin create /tároló/útvonala/projekt</span>
+</pre></div>
+        </p>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="import-svn-files"><div class="inner">
+<div class="hgroup"><h3 class="title">Fájlok importálása</h3></div>
+<div class="region"><div class="contents"><p class="para">A tároló létrehozása után fájlokat <span class="em emphasis">importálhat</span> a tárolóba. A fájlokat tartalmazó könyvtár importálásához adja ki a következő parancsot: <div class="screen"><pre class="contents "><span class="cmd command">svn import /importálandó/könyvtár/útvonala file:///tároló/útvonala/projekt</span>
+</pre></div></p></div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect2 sect" id="access-methods"><div class="inner">
+<div class="hgroup"><h2 class="title">Hozzáférési módok</h2></div>
+<div class="region">
+<div class="contents">
+<p class="para">A Subversion tárolók számos különböző módon érhetők el - helyi lemezen vagy hálózati protokollok használatával. A tároló helye azonban mindig URL. Az alábbi táblázat leírja a különböző URL sémák leképezését az elérhető hozzáférési módszerekre.</p>
+<div class="table">
+<div class="title"><h3><span class="title">Hozzáférési módok</span></h3></div>
+<table summary="Hozzáférési módok" style="border: solid 1px;">
+<thead><tr>
+<th class="td-colsep"><p class="para">Séma</p></th>
+<th><p class="para">Hozzáférési mód</p></th>
+</tr></thead>
+<tbody>
+<tr>
+<td class="td-colsep"><p class="para">file://</p></td>
+<td><p class="para">közvetlen tárolóelérés (helyi lemezen)</p></td>
+</tr>
+<tr class="shade">
+<td class="td-colsep"><p class="para">http://</p></td>
+<td><p class="para">A Subversiont ismerő Apache2 webkiszolgáló elérése WebDAV protokollon keresztül</p></td>
+</tr>
+<tr>
+<td class="td-colsep"><p class="para">https://</p></td>
+<td><p class="para">Ugyanaz, mint a http://, de SSL titkosítással</p></td>
+</tr>
+<tr class="shade">
+<td class="td-colsep"><p class="para">svn://</p></td>
+<td><p class="para">svnserve kiszolgáló egyedi protokollon való elérése</p></td>
+</tr>
+<tr>
+<td class="td-colsep"><p class="para">svn+ssh://</p></td>
+<td><p class="para">Ugyanaz, mint az svn://, de SSH alagúton keresztül</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p class="para">Ez a szakasz ismerteti a Subversion beállításának módját az összes fenti hozzáférési módhoz. Itt csak az alapok kerülnek bemutatásra. A részletesebb használati utasításokat az <a href="http://svnbook.red-bean.com/" class="ulink" title="http://svnbook.red-bean.com/">svn könyvben</a> találja.</p>
+</div>
+<div class="sect3 sect" id="direct-repos-access"><div class="inner">
+<div class="hgroup"><h3 class="title">Közvetlen tároló-hozzáférés (file://)</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Mind közül ez a legegyszerűbb hozzáférési módszer. Nem igényli Subversion kiszolgálófolyamatok futását. Ez a módszer a Subversion ugyanazon gépről való elérésére használható. A terminálba kiadott parancs szintaxisa a következő:</p>
+<p class="para">
+<div class="screen"><pre class="contents "><span class="cmd command">svn co file:///tároló/útvonala/projekt</span>
+</pre></div>
+        </p>
+<p class="para">vagy</p>
+<p class="para">
+<div class="screen"><pre class="contents "><span class="cmd command">svn co file://localhost/tárolók/útvonala/projekt</span>
+</pre></div>
+        </p>
+<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents">
+		<p class="para">Ha nem adja meg a gépnevet, három osztásjelet (///) kell használni - kettő a protokollhoz (ebben az esetben file), egy pedig az útvonal kezdő osztásjele. Ha megadja a gépnevet, két osztásjelet (//) kell használni.</p>
+	</div></div></div></div>
+<p class="para">A tároló jogosultságai a fájlrendszer jogosultságaitól függenek. Ha a felhasználó rendelkezik írási/olvasási jogosultságokkal, lekérheti a fájlokat a tárolóból, és véglegesítheti is azokat.</p>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="access-via-webdav"><div class="inner">
+<div class="hgroup"><h3 class="title">Hozzáférés WebDAV protokollon (http://)</h3></div>
+<div class="region"><div class="contents">
+<p class="para">
+                          To access the Subversion repository via WebDAV protocol, you must configure your Apache 2 web server. Add the following snippet between the 
+                          <span class="em emphasis">&lt;VirtualHost&gt;</span> and <span class="em emphasis">&lt;/VirtualHost&gt;</span> elements in
+                          <span class="file filename">/etc/apache2/sites-available/000-default.conf</span>, or another VirtualHost file:
+                          </p>
+<div class="code"><pre class="contents "> &lt;Location /svn&gt;
+  DAV svn
+  SVNParentPath /path/to/repos
+  AuthType Basic
+  AuthName "Your repository name"
+  AuthUserFile /etc/subversion/passwd
+  Require valid-user
+ &lt;/Location&gt; 
+</pre></div>
+<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents">
+		<p class="para">The above configuration snippet assumes that Subversion
+    repositories are created under <span class="file filename">/path/to/repos</span>
+    directory using <span class="cmd command">svnadmin</span> command and that the HTTP user has sufficent access rights to the files (see below).  They can be
+    accessible using <span class="cmd command">http://hostname/svn/repos_name</span>
+    url.</p>
+    </div></div></div></div>
+<p class="para">
+         Changing the apache configuration like the above requires to reload
+         the service with the following command
+         </p>
+<div class="screen"><pre class="contents ">    <span class="cmd command">sudo service apache2 reload</span>
+</pre></div>
+<p class="para">
+         To import or commit files to your Subversion repository over
+         HTTP, the repository should be owned by the HTTP user. In
+         Ubuntu systems, the HTTP user is
+         <span class="cmd command">www-data</span>.  To change the ownership of the
+         repository files enter the following command from terminal
+         prompt:
+         </p>
+<div class="screen"><pre class="contents ">    <span class="cmd command">sudo chown -R www-data:www-data /tárolók/útvonala</span>
+</pre></div>
+<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents">
+        <p class="para">A tároló tulajdonosának <span class="cmd command">www-data</span>-ra módosítása után nem lesz képes fájlok importálására vagy véglegesítésére a tárolóba az <span class="cmd command">svn import file:///</span> parancs futtatásával a <span class="cmd command">www-data</span>-tól eltérő felhasználóval.</p>
+        </div></div></div></div>
+<p class="para">Ezután létre kell hoznia az <span class="file filename">/etc/subversion/passwd</span> fájlt, amely majd a felhasználóhitelesítési adatokat tartalmazza. A fájl létrehozásához adja ki a következő parancsot (ez létrehozza a fájlt, és hozzáadja az első felhasználót):</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo htpasswd -c /etc/subversion/passwd felhasználó_neve</span>
+</pre></div>
+<p class="para">További felhasználók felvételéhez hagyja el a <span class="em emphasis">„-c”</span> kapcsolót, mivel ennek megadásakor a parancs helyettesíti a régi fájlt. Ehelyett a következő alakot használja:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo htpasswd /etc/subversion/passwd felhasználó_neve</span>
+</pre></div>
+<p class="para">Ez a parancs bekéri a jelszót. A jelszó megadása után a felhasználó felvételre kerül. Ezután a tároló elérhető a következő parancs futtatásával:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">svn co http://kiszolgálónév/svn</span></pre></div>
+<div class="note note-warning" title="Figyelmeztetés"><div class="inner"><div class="region"><div class="contents">
+		<p class="para">A jelszó egyszerű szövegként kerül átvitelre. Ha a jelszó ellopása miatt aggódik, ajánlott SSL titkosítás használata. Ezt a következő szakasz részletezi.</p>
+	</div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="access-via-webdav-with-ssl"><div class="inner">
+<div class="hgroup"><h3 class="title">Elérés WebDAV protokollon SSL titkosítással (https://)</h3></div>
+<div class="region"><div class="contents">
+<p class="para"> 
+					Accessing Subversion repository via WebDAV protocol with SSL 
+					encryption (https://) is similar to http:// except that you 
+					must install and configure the digital certificate in your 
+					Apache2 web server.  To use SSL with Subversion add the above
+                                        Apache2 configuration to <span class="file filename">/etc/apache2/sites-available/default-ssl.conf</span>.
+                                        For more information on setting up Apache2 with SSL see <a class="xref" href="httpd.html#https-configuration" title="A HTTPS beállítása">A HTTPS beállítása</a>.
+					</p>
+<p class="para">Telepíthet egy aláíró hatóság által kibocsátott digitális tanúsítványt. Ennek alternatívájaként a saját aláírású tanúsítványt is telepítheti.</p>
+<p class="para">Ez a lépés feltételezi, hogy telepített és beállított egy digitális tanúsítványt az Apache2 webkiszolgálójához. Ezután a Subversion tároló eléréséhez nézze meg a fenti szakaszt. A hozzáférési módszerek a protokoll kivételével azonosak. A Subversion tároló eléréséhez a https:// protokollt kell használnia.</p>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="access-via-custom-protocol"><div class="inner">
+<div class="hgroup"><h3 class="title">Elérés egyedi protokollon keresztül (svn://)</h3></div>
+<div class="region"><div class="contents">
+<p class="para">A Subversion tároló létrehozása után beállíthatja a hozzáférés-felügyeletet a <span class="file filename">/tároló/útvonala/projekt/conf/svnserve.conf</span> fájl szerkesztésével. A hitelesítés beállításához például a beállítófájl következő sorait kell kivenni megjegyzésből:</p>
+<div class="code"><pre class="contents "># [general]
+# password-db = passwd</pre></div>
+<p class="para">A fenti sorok aktiválása után a passwd fájlban tarthatja karban a felhasználók listáját. Ugyanabban a könyvtárban szerkessze a <span class="file filename">passwd</span> fájlt, és vegye fel az új felhasználót. A szintaxis a következő:</p>
+<div class="code"><pre class="contents ">felhasználónév = jelszó</pre></div>
+<p class="para">További részletekért nézze meg a fájlt.</p>
+<p class="para">Ezután a Subversion elérhető az egyéni svn:// protokollon, ugyanarról vagy másik gépről. Az SVN kiszolgáló az svnserve parancs kiadásával futtatható. A szintaxis a következő:</p>
+<div class="code"><pre class="contents ">$ svnserve -d --foreground -r /tárolók/útvonala
+# -d -- démon mód
+# --foreground -- futtatás előtérben (hibakereséshez hasznos)
+# -r -- kiszolgálandó könyvtár gyökere
+
+A használattal kapcsolatos részletekért adja ki a következőt:
+$ svnserve --help</pre></div>
+<p class="para">A parancs futtatása után a Subversion elkezdi az alapértelmezett portot (3690) figyelni. A projekttároló eléréséhez futtassa a következő parancsot:</p>
+<p class="para">
+<div class="screen"><pre class="contents "><span class="cmd command">svn co svn://gépnév/projekt projekt --username felhasználó_neve</span>
+</pre></div>
+                                        </p>
+<p class="para">A kiszolgáló a beállításainak megfelelően bekéri a jelszót. A hitelesítés után lekéri a fájlokat a Subversion tárolóból. A projekt tárolójának és helyi másolatának szinkronizálásához futtassa az <span class="cmd command">update</span> részparancsot. A parancs szintaxisa a következő:</p>
+<p class="para">
+<div class="screen"><pre class="contents "><span class="cmd command">cd projekt_könyvtár ; svn update</span>
+</pre></div>
+                                        </p>
+<p class="para">Az egyes Subversion részparancsok használatával kapcsolatos további részletekért nézze meg a kézikönyvet. A co (checkout) paranccsal kapcsolatos információkért például adja ki a következő parancsot:</p>
+<p class="para"><div class="screen"><pre class="contents "><span class="cmd command">svn co help</span></pre></div></p>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="access-via-custom-protocol-with-ssh"><div class="inner">
+<div class="hgroup"><h3 class="title">Access via custom protocol with SSH encryption (svn+ssh://)</h3></div>
+<div class="region"><div class="contents">
+<p class="para">A beállítás és a kiszolgálófolyamat ugyanaz, mint az svn:// módszer esetén. Részletekért lásd a fenti szakaszt. Ez a lépés feltételezi, hogy követte a fenti szakaszt, és elindította a Subversion kiszolgálót az <span class="app application">svnserve</span> paranccsal.</p>
+<p class="para">Feltételezzük továbbá, hogy az SSH kiszolgáló fut a gépen, és engedélyezi a bejövő kapcsolatokat. Ennek ellenőrzéséhez próbáljon bejelentkezni a gépre SSH-val. Ha sikerül, minden rendben. Ellenkező esetben ezt a problémát meg kell oldani a folytatás előtt.</p>
+<p class="para">Az svn+ssh:// protokollt a Subversion tárolók SSL-lel titkosított eléréséhez használják. Az adatátvitel ezzel a módszerrel kerül titkosításra. A projekt tárolójának eléréséhez (példaként egy lekérés művelettel) a következő parancsszintaxist kell használnia:</p>
+<p class="para">
+<div class="screen"><pre class="contents ">    <span class="cmd command">svn co svn+ssh://ssh_username@hostname/path/to/repos/project</span>
+</pre></div>
+                                        </p>
+<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents"><p class="para">Ezzel a hozzáférési módszerrel a Subversion tároló eléréséhez a teljes útvonalat kell használnia (/tárolók/útvonala/projekt).</p></div></div></div></div>
+<p class="para">A kiszolgáló a beállításainak megfelelően bekéri a jelszót. Ekkor az SSH-n keresztüli belépéshez használt jelszót kell megadnia. A hitelesítés után lekéri a fájlokat a Subversion tárolóból.</p>
+</div></div>
+</div></div>
+</div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="git.html" title="Git">Előző</a><a class="nextlinks-next" href="version-control-ref.html" title="Hivatkozások">Következő</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p></div>
+</div>
+</body>
+</html>

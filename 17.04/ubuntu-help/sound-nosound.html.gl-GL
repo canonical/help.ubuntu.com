@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang=gl-GL>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Non podo escoitar ningún son do computador</title>
+<link rel="stylesheet" type="text/css" href="gl.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do escritorio de Ubuntu</a> » <a class="trail" href="prefs.html" title="Configuracións do usuario e sistema">Configuración</a> » <a class="trail" href="media.html#sound" title="Son básico">Son</a> » <a class="trail" href="sound-broken.html" title="Problemas de son">Problemas de son</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do escritorio de Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemas comúns">Problemas</a> » <a class="trail" href="sound-broken.html" title="Problemas de son">Problemas de son</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Non podo escoitar ningún son do computador</span></h1></div>
+<div class="region">
+<div class="contents"><p class="p">Se non pode escoitar ningún son no seu computador, por exemplo cando reproduce música, tente estes pasos de resolución de erros para ver se pode arranxar o problema.</p></div>
+<div id="mute" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Asegúrese que o son non está desactivado</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Prema no <span class="gui">menú do son</span> na barra do menú (semella un altofalante) e asegúrese de que o son non está silenciado nin apagado.</p>
+<p class="p">Algúns equipos portátiles teñen interruptores de silencio ou teclas nos seus teclados; probe a premer a tecla para ver se se activa o son.</p>
+<p class="p">Tamén debería comprobar que non silenciou o aplicativo que usa para reproducir son (p.e: o reprodutor de música ou de vídeo). É posíbel que o aplicativo teña un botón de volume e silencio na xanela principal. Tamén pode premer no menú de son da barra do menú e seleccionar <span class="gui">Preferencias de son</span>. Cando apareza a xanela <span class="gui">Son</span> vaia á lapela de <span class="gui">Aplicativos</span> e comprobe que non está «Sen son».</p>
+</div></div>
+</div></div>
+<div id="speakers" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Comprobe que os altofalantes están acendidos e están conectados correctamente</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Se o seu equipo ten altofalantes externos, asegúrese de que están acendidos e que o volume está activado. Confireme que o cable do altofalante está conectado ao enchufe de saída na parte posterior do equipo. Esta toma é polo xeral de cor verde claro.</p>
+<p class="p">Algunhas tarxetas de son son capaces de cambiar o enchufe que usan para a saída (dos altofalantes) e para a entrada (desde o micrófono, por exemplo). O enchufe de saída pode ser diferente cando se executa Linux no canto de Windows ou Mac OS. Tente conectar o cable do altofalante aos diferentes enfuches de son no equipo, para ver cal deles funciona.</p>
+<p class="p">Unha última cousa que comprobar é que o cabo de son estea conectado correctamente na parte traseira dos altofalantes. Algúns altofalantes teñen máis dunha entrada.</p>
+</div></div>
+</div></div>
+<div id="device" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Comprobe que o dispositivo de son correcto está seleccionado</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Algúns equipos teñen varios «dispositivos de son» instalados. Algúns deles son capaces de producir son e outros non, así que vostede debe comprobar que ten seleccionado o correcto. Isto podería implicar algún ensaio e erro para elixir o correcto.</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Prema no <span class="gui">menú do son</span> na <span class="gui">barra do menú</span> e despois en <span class="gui">Preferencias do son</span>.</p></li>
+<li class="steps"><p class="p">Na xanela do <span class="gui">Son</span> que aparece, probe a seleccionar unha saída diferente na lista <span class="gui">Reproducir son a través de</span>.</p></li>
+<li class="steps"><p class="p">Seleccione un dispositivo e prema <span class="gui">Probar o son</span>. Na xanela emerxente que aparece, prema no botón de cada altofalante. Cada botón unicamente emitirá son pola canle correspondente a ese altofalante.</p></li>
+<li class="steps"><p class="p">Se iso non funciona, pode tentar facer o mesmo con calquera dos dispositivos que se mostran.</p></li>
+</ol></div></div></div>
+</div></div>
+</div></div>
+<div id="hardware-detected" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Comprobe que a tarxeta de son se detectou correctamente</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Pode que a tarxeta de son non se detectase correctamente. Se aconteceu isto, o equipo asumirá que non é capaz de reproducir son. Unha posíbel razón para que non se detecte a tarxeta correctamente é que non están instalados os controladores.</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Vaia ao <span class="link"><a href="unity-dash-intro.html" title="Buscar aplicativos, ficheiros, música e máis cousas desde o Panel">Panel</a></span> e abra o Terminal.</p></li>
+<li class="steps"><p class="p">Escriba <span class="cmd">aplay -l</span> e prema <span class="key"><kbd>Intro</kbd></span>.</p></li>
+<li class="steps"><p class="p">Mostrarase unha lista de dispositivos. Se non hai ningún <span class="gui">dispositivo de hardware para reprodución</span> significa que non detectou a súa tarxeta.</p></li>
+</ol></div></div></div>
+<p class="p">Se non se detecta a súa tarxeta de son, pode que teña que instalar manualmente os controladores. A forma de facelo dependerá da tarxeta que teña.</p>
+<p class="p">Pode ver que tarxeta de son corresponde ao seu aparato usando a orde <span class="cmd">lspci</span> no <span class="app">Terminal</span>. Pode obter resultados máis detallados se executa <span class="cmd">lspci</span> como <span class="link"><a href="user-admin-explain.html" title="Como funcionan os privilexios administrativos?">superusuario</a></span>; introduza <span class="cmd">sudo lspci</span> e escriba o contrasinal. Vexa se aparece un <span class="em">controlador de son</span> ou un <span class="em">dispositivo de son</span> na lista. Debería verse a marca e o número do modelo. Se desexa información máis detallada execute no terminal <span class="cmd">sudo lspci -v</span>.</p>
+<p class="p">Pode atopar e instalar controladores para a tarxeta buscándoos en internet. Ou tamén pode <span class="link"><a href="report-ubuntu-bug.html" title="Informar dun problema en Ubuntu">enviarnos un informe de fallo</a></span>.</p>
+<p class="p">Se non pode conseguir os controladores para a tarxeta de son, quizais prefira comprar unha tarxeta de son nova. Pode obter tarxetas de son que se poden instalar dentro o equipo e tarxetas de son externas USB.</p>
+</div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Máis información</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="sound-broken.html" title="Problemas de son">Problemas de son</a><span class="desc"> — Resolver problemas de ausencia do son ou dunha calidade pobre.</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

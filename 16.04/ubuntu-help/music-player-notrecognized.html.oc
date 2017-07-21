@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=oc>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Non reconeissença de mon lector de musica aprèp connexion</title>
+<link rel="stylesheet" type="text/css" href="oc.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Guida del burèu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guide del burèu Ubuntu</a> » <a class="trail" href="media.html" title="Son, imatges &amp; vidèos">Son, imatges &amp; vidèos</a> › <a class="trail" href="media.html#music" title="Musique e lectors àudio portables">Musique e lectors</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Non reconeissença de mon lector de musica aprèp connexion</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Quand brancatz vòstre lector de musica a vòstre ordenador e que lo vesètz pas aparéisser dins vòstra aplicacion de gestion de la musica, es sens dobte qu'il a pas été bien reconegut coma un lector de musica.</p>
+<p class="p">Ensajatz del desbrancar puèi del rebrancar lo lector. Se aquò càmbia pas res, <span class="link"><a href="files-browse.html" title="Consultacion de vòstres fichièrs e dorsièrs">dobrissètz lo gestionari de fichièrs</a></span>. Lo lector deuriá aparéisser dins lo panèl lateral demest los <span class="gui">Periferics</span> - clicatz dessús per dobrir lo dorsièr del lector de musica. Apuèi, clicatz sus <span class="guiseq"><span class="gui">Fichièr</span> ▸ <span class="gui">Novèl</span> ▸ <span class="gui">Document void</span></span>, sasissètz <span class="input">.is_audio_player</span> e quichatz sus <span class="key"><kbd>Entrada</kbd></span> (lo punt atal que los caractèrs de solinhament son importants e tot deu èsser en minuscula). Aqueste fichièr indica a vòstre sistèma qu'aqueste volum es un lector de musica.</p>
+<p class="p">Recercatz ara aqueste lector de musica dins lo panèl lateral del gestionari de fichièrs e ejectatz-lo (clic dreit puèi <span class="gui">Ejectar</span>). Débrancatz-lo puèi rebrancatz-le. Aqueste còp, deuriá èsser reconegut coma lector de musica per vòstra aplicacion de gestion de la musica. Siquenon, tampatz l'aplicacion puèi dobrissètz-la tornamai.</p>
+<div class="note" title="Nòta"><div class="inner"><div class="region"><div class="contents"><p class="p">Aquestas instruccions son pas aplicablas als iPods e autres lectors multimèdias. Elles ne son valables que se vòstre lector es un volum <span class="em">de stockage de masse USB</span>. Consultatz son manual pel savoir.</p></div></div></div></div>
+<div class="note" title="Nòta"><div class="inner"><div class="region"><div class="contents"><p class="p">Se vous gaitatz tornamai dins lo dorsièr del lector de musica, veiretz pas lo fichièr <span class="input">.is_àudio_player</span> perque lo punt devant son nom indica al gestionari de fichièrs que s'agís d'un fichièr amagat. Podètz verificatz qu'il existís bien en clicant sus <span class="guiseq"><span class="gui">Afichatge</span> ▸ <span class="gui">Afichar los fichièrs amagats</span></span>.</p></div></div></div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Mai d'entresenhas</span></h2></div>
+<div class="region"><ul><li class="links "><a href="media.html#music" title="Musique e lectors àudio portables">Musique e lectors</a></li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Vejatz tanben</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="music-player-newipod.html" title="Mon novèl iPod fonciona pas">Mon novèl iPod fonciona pas</a><span class="desc"> — Un iPod tot nòu necessita d'èsser configurat a partir del logicial d'iTunes abans d'èsser operacional.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang=de>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Was ist ein Farbraum?</title>
+<link rel="stylesheet" type="text/css" href="de.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu-Leitfaden</a> » <a class="trail" href="prefs.html" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="color.html" title="Farbverwaltung">Farbverwaltung</a> › <a class="trail" href="color.html#profiles" title="Farbprofile">Farbprofile</a> » </div>
+<div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu-Leitfaden</a> » <a class="trail" href="hardware.html" title="Hardware und Treiber">Hardware</a> » <a class="trail" href="color.html" title="Farbverwaltung">Farbverwaltung</a> › <a class="trail" href="color.html#profiles" title="Farbprofile">Farbprofile</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Was ist ein Farbraum?</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Ein Farbraum ist eine festgelegte Farbpalette. Bekannte Farbräume sind u.a. sRGB, AdobeRGB und ProPhotoRGB.</p>
+<p class="p">Der menschliche Sehapparat ist kein einfacher RGB-Sensor, aber mit einer CIE-1931-Normfarbtafel, die die menschliche Farbwahrnehmung in Hufeisenform zeigt, können wir die Wahrnehmung des Auges zumindest annähernd darstellen. Wie man erkennen kann, gibt es beim menschlichen Sehen mehr Abstufungen von grün als von blau oder rot. Mit einem dreifarbigen Farbraum wie RGB stellen wir die Farbe auf dem Rechner mittels dreier Werte dar, mit denen wir aber lediglich ein <span class="em">Dreieck</span> von Farben kodieren können.</p>
+<div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents"><p class="p">Die Verwendung solcher Modelle wie der CIE-1931-Farbspezifikation ist eine radikale Vereinfachung des menschlichen Sehens. Reale Gamuts werden als 3D-Hülsen ausgedrückt, im Gegensatz zu zweidimensionalen Projektionen. Eine 2D-Darstellung einer 3D-Form kann unter Umständen zu Irrtümern führen. Wenn Sie also die 3D-Hülse sehen wollen, sollten Sie die Anwendung <span class="code">gnome-color-manager</span> installieren und dann <span class="code">gcm-viewer</span> ausführen.</p></div></div></div></div>
+<div class="figure"><div class="inner">
+<a href="#" class="zoom" data-zoom-in-title="Abbildungen in normaler Größe anzeigen" data-zoom-out-title="Abbildungen verkleinern"></a><div class="region">
+<div class="contents"><div class="media media-image"><div class="inner"><img src="figures/color-space.png" class="media media-block" alt=""></div></div></div>
+<div class="desc">sRGB, AdobeRGB und ProPhotoRGB werden von weißen Dreiecken repräsentiert</div>
+</div>
+</div></div>
+<p class="p">Als erstes betrachten wir sRGB, welcher der kleinste Farbraum ist und die geringste Anzahl an Farben kodieren kann. Er entspricht annähernd einem zehn Jahre alten CRT-Bildschirm, weshalb die meisten modernen Bildschirme mehr Farben darstellen können. sRGB stellt den <span class="em">kleinsten-gemeinsamen-Nenner</span>-Standard dar und wird in einer Vielzahl von Anwendungen (das Internet eingeschlossen) verwendet.</p>
+<p class="p">AdobeRGB wird häufig als <span class="em">Bearbeitungs-Farbraum</span> verwendet. Er kann mehr Farben als sRGB kodieren, was bedeutet, dass man in Fotografien Farben anpassen kann, ohne sich zu viele Sorgen machen zu müssen, dass die hellsten Farben überstrahlen oder Schwarztöne absaufen.</p>
+<p class="p">ProPhoto ist der größte verfügbare Speicher und wird regelmäßig zur Dokumentenarchivierung genutzt. Er kann nahezu alle Farben kodieren, welche das menschliche Auge erkennen kann, und auch solche, die für den Menschen nicht sichtbar sind!</p>
+<p class="p">Aber wenn ProPhoto deutlich besser ist, warum benutzen wir es dann nicht immer? Die Antwort hängt mit der <span class="em">Quantisierung</span> zusammen. Wenn Sie nur 8 Bit (256 Stufen) für die Kodierung eines Kanals zur Verfügung haben, erhöht sich bei einem größeren Bereich die Schrittbreite zwischen den einzelnen Werten.</p>
+<p class="p">Größere Stufen bedeuten eine größere Abweichung zwischen der aufgenommenen und der gespeicherten Farbe, und bei manchen Farben stellt dies ein großes Problem dar. Es stellt sich heraus, dass Schlüsselfarben wie beispeilsweise Hautfarben sehr wichtig sind, und schon bei geringen Abweichungen werden selbst ungeübte Betrachter feststellen, dass mit dem Foto etwas nicht stimmt.</p>
+<p class="p">Selbstverständlich werden bei einem Bild mit 16-Bit-Farbtiefe viel mehr Abstufungen vorhanden sein und Quantisierungsfehler deutlich verringert, jedoch wird dadurch die Dateigröße eines solchen Bildes verdoppelt. Die meisten Bildinhalte heutzutage haben eine Farbtiefe von 8bpp, also 8 Bits pro Pixel.</p>
+<p class="p">Farbverwaltung ist ein Prozess der Umwandlung eines Farbraums in einen anderen. Ein Farbraum kann dabei ein bekannter Farbraum sein, wie sRGB, oder ein benutzerdefinierter Farbraum wie das Profil Ihres Bildschirms oder Druckers.</p>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
+<div class="region"><ul><li class="links "><a href="color.html#profiles" title="Farbprofile">Farbprofile</a></li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Siehe auch</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="color-whatisprofile.html" title="Was ist ein Farbprofil?">Was ist ein Farbprofil?</a><span class="desc"> — Ein Farbprofil ist eine einfache Datei, die einen Farbraum oder eine Geräteantwort ausdrückt.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

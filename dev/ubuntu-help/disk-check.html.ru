@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang=ru>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Проверка жёсткого диска на наличие неисправностей</title>
+<link rel="stylesheet" type="text/css" href="ru.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="disk.html" title="Диски и другие устройства хранения информации">Диски и другие устройства хранения информации</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Проверка жёсткого диска на наличие неисправностей</span></h1></div>
+<div class="region">
+<div class="contents"></div>
+<div id="disk-status" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Проверка жёсткого диска</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Жёсткие диски имеют встроенный диагностический инструмент <span class="app">SMART</span> (Self-Monitoring, Analysis, and Reporting Technology), постоянно проверяющий диск на наличие потенциальных проблем. SMART предупредит вас в случае возможности выхода диска из строя, чтобы помочь избежать потери важных данных.</p>
+<p class="p">Хотя SMART запускается автоматически, можно также поверить исправность диска с помощью приложения <span class="app">Диски</span>:</p>
+<div class="steps"><div class="inner">
+<div class="title title-steps"><h3><span class="title">Проверка исправности диска с помощью приложения <span class="app">Диски</span></span></h3></div>
+<div class="region"><ol class="steps">
+<li class="steps"><p class="p">Откройте <span class="gui">Обзор</span> и откройте приложение <span class="app">Диски</span>.</p></li>
+<li class="steps"><p class="p">Select the disk you want to check from the list of storage devices on
+    the left. Information and status of the disk will be shown.</p></li>
+<li class="steps"><p class="p">Click the menu button and select <span class="gui">SMART Data &amp; Self-Tests…</span>.
+    The <span class="gui">Overall Assessment</span> should say "Disk is OK".</p></li>
+<li class="steps"><p class="p">See more information under <span class="gui">SMART Attributes</span>, or click the
+    <span class="gui">Start Self-test</span> button to run a self-test.</p></li>
+</ol></div>
+</div></div>
+</div></div>
+</div></div>
+<div id="disk-not-healthy" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Что делать, если диск неисправен?</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Even if the <span class="gui">Overall Assessment</span> indicates that the disk
+  <span class="em">isn't</span> healthy, there may be no cause for alarm. However, it's better
+  to be prepared with a <span class="link"><a href="backup-why.html" title="Резервное копирование важных данных">backup</a></span> to prevent data
+  loss.</p>
+<p class="p">Статус «На грани отказа» означает, что диск в основном исправен, но были замечены признаки износа, что означает, что диск может начать сбоить в ближайшем будущем. Если вашему диску (или компьютеру) несколько лет, то, скорей всего, вы увидите это сообщение не один раз во время проверок работоспособности диска. Необходимо на постоянной основе <span class="link"><a href="backup-how.html" title="Как создать резервную копию">делать резервные копии важных файлов</a></span> и время от времени проверять состояние диска, чтобы успеть заметить признаки ухудшения.</p>
+<p class="p">Если состояние ухудшается, возможно, стоит показать компьютер или диск профессионалу для дальнейшей диагностики или ремонта.</p>
+</div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="disk.html" title="Диски и другие устройства хранения информации">Диски и другие устройства хранения информации</a><span class="desc"> — <span class="link"><a href="disk-capacity.html" title="Проверка оставшегося свободного места на диске">Дисковое пространство</a></span>, <span class="link"><a href="disk-benchmark.html" title="Тестирование производительности жёсткого диска">производительность</a></span>, <span class="link"><a href="disk-check.html" title="Проверка жёсткого диска на наличие неисправностей">неполадки</a></span>, <span class="link"><a href="disk-partitions.html" title="Управление томами и разделами">тома и разделы</a></span>…</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

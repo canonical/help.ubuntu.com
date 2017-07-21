@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang=de>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>AppArmor</title>
+<link rel="stylesheet" type="text/css" href="de.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Ubuntu–Server-Leitfaden">Ubuntu–Server-Leitfaden</a> » <a class="trail" href="security.html" title="Sicherheit">Sicherheit</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="firewall.html" title="Firewall">Zurück</a><a class="nextlinks-next" href="certificates-and-security.html" title="Zertifikate">Weiter</a>
+</div>
+<div class="hgroup"><h1 class="title">AppArmor</h1></div>
+<div class="region">
+<div class="contents">
+<p class="para"><span class="app application">AppArmor</span> ist eine Linux-Sicherheitsmodul-Implementierung von Namen-basierten Zugangskontrollen. AppArmor beschränkt individuelle Programme auf eine Anzahl gelisteter Dateien und im POSIX 1003.1e-Standard (Draft-Version) festgelegten Fähigkeiten.</p>
+<p class="para"><span class="app application">AppArmor</span> wird standardmäßig installiert und geladen. Es benutzt <span class="em emphasis">Profile</span> einer Anwendung, um festzulegen, welche Dateien und Zugriffe die Anwendung verlangt. Einige Pakete werden ihre eigenen Profile installieren und zusätzlich können weitere Profile im <span class="app application">apparmor-profiles</span>-Paket gefunden werden.</p>
+<p class="para">Um das <span class="app application">apparmor-profiles</span>-Paket aus einem Terminal zu installieren, geben Sie folgendes ein:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt-get install apparmor-profiles</span>
+</pre></div>
+<p class="para">AppArmor-Profile haben zwei Ausführungsmodi:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+	      <p class="para">»Complaining/Learning«: Profilverletzungen sind erlaubt und werden protokolliert. Nützlich zum Testen und Entwickeln neuer Profile.</p>
+	    </li>
+<li class="list itemizedlist">
+	      <p class="para">»Enforced/Confined«: Setzt die Strategie durch und protokolliert die Verletzung.</p>
+	    </li>
+</ul></div>
+</div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="apparmor.html#apparmor-usage" title="AppArmor benutzen">AppArmor benutzen</a></li>
+<li class="links"><a class="xref" href="apparmor.html#apparmor-profiles" title="Profile">Profile</a></li>
+<li class="links"><a class="xref" href="apparmor.html#apparmor-references" title="Referenzen">Referenzen</a></li>
+</ul></div>
+<div class="sect2 sect" id="apparmor-usage"><div class="inner">
+<div class="hgroup"><h2 class="title">AppArmor benutzen</h2></div>
+<div class="region"><div class="contents">
+<div class="note note-warning" title="Warnung"><div class="inner"><div class="region"><div class="contents">
+   		  <p class="para">
+   		  This section is plagued by a bug (<a href="https://bugs.launchpad.net/ubuntu/+source/apparmor/+bug/1304134" class="ulink" title="https://bugs.launchpad.net/ubuntu/+source/apparmor/+bug/1304134">LP #1304134</a>) 
+		  and instructions will not work as advertised.
+   		  </p>
+	       </div></div></div></div>
+<p class="para">Das <span class="app application">apparmor-utils</span>-Paket enthält Befehlszeilenwerkzeuge, die Sie benutzen können, um den Ausführungsmodus von <span class="app application">AppArmor</span> zu ändern, den Status eines Profils zu finden, neue Profile zu erstellen etc.</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+	    	<p class="para"><span class="app application">apparmor_status</span> wird benutzt, um den derzeitigen Status der AppArmor-Profile anzusehen.</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apparmor_status</span>
+</pre></div>
+	      </li>
+<li class="list itemizedlist">
+	        <p class="para"><span class="app application">aa-complain</span> versetzt ein Profil in <span class="em emphasis">complain</span>-Modus.</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo aa-complain /Pfad/zu/bin</span>
+</pre></div>
+	      </li>
+<li class="list itemizedlist">
+	        <p class="para"><span class="app application">aa-enforce</span> versetzt ein Profil in <span class="em emphasis">enforce</span>-Modus.</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo aa-enforce /Pfad/zu/bin</span>
+</pre></div>
+	      </li>
+<li class="list itemizedlist">
+	    	<p class="para">Im Ordner <span class="file filename">/etc/apparmor.d</span> sind die AppArmor-Profile angesiedelt. Es kann benutzt werden, um den <span class="em emphasis">Modus</span> aller Profile zu manipulieren.</p>
+	    	<p class="para">Geben Sie folgendes ein, um alle Profile in »complain«-Modus zu versetzen:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo aa-complain /etc/apparmor.d/*</span>
+</pre></div>
+	    <p class="para">Um alle Profile in »enforce«-Modus zu versetzen:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo aa-enforce /etc/apparmor.d/*</span>
+</pre></div>
+	      </li>
+<li class="list itemizedlist">
+	        <p class="para"><span class="app application">apparmor_parser</span> wird benutzt, um ein Profil in den Kernel zu laden. Es kann auch benutzt werden, ein gerade geladenes Profil mittels der <span class="em emphasis">-r</span>-Option nochmals zu laden. Um ein Profil zu laden:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">cat /etc/apparmor.d/profile.name | sudo apparmor_parser -a</span>
+</pre></div>
+		<p class="para">Um ein Profil neu zu laden:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">cat /etc/apparmor.d/profile.name | sudo apparmor_parser -r</span>
+</pre></div>
+	      </li>
+<li class="list itemizedlist">
+	   	<p class="para">
+	   	<span class="file filename">service apparmor</span> can be used to <span class="em emphasis">reload</span> all profiles:
+	   	</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo service apparmor reload</span>
+</pre></div>
+	      </li>
+<li class="list itemizedlist">
+	    	<p class="para">Der <span class="file filename">/etc/apparmor.d/disable</span>-Ordner kann zusammen mit der <span class="app application">apparmor_parser -R</span>-Option benutzt werden, um ein Profil zu <span class="em emphasis">deaktivieren</span>.</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ln -s /etc/apparmor.d/profile.name /etc/apparmor.d/disable/</span>
+<span class="cmd command">sudo apparmor_parser -R /etc/apparmor.d/profile.name</span>
+</pre></div>
+	        <p class="para">Um ein deaktiviertes Profil zu <span class="em emphasis">reaktivieren</span>, entfernen Sie den symbolischen Link zum Profil im Verzeichnis <span class="file filename">/etc/apparmor.d/disable/</span>. Dann laden Sie das Profil mit der <span class="em emphasis">-a</span>-Option.</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo rm /etc/apparmor.d/disable/profile.name</span>
+<span class="cmd command">cat /etc/apparmor.d/profile.name | sudo apparmor_parser -a</span>
+</pre></div>
+	      </li>
+<li class="list itemizedlist">
+	    	<p class="para"><span class="app application">AppArmor</span> kann deaktiviert und das Kernelmodul entladen werden, indem man Folgendes eingibt:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo service apparmor stop</span>
+<span class="cmd command">sudo update-rc.d -f apparmor remove</span>
+</pre></div>
+	      </li>
+<li class="list itemizedlist">
+	        <p class="para">Um <span class="app application">AppArmor</span> zu reaktivieren, geben Sie folgendes ein:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo service apparmor start</span>
+<span class="cmd command">sudo update-rc.d apparmor defaults</span>
+</pre></div>
+	      </li>
+</ul></div>
+<div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents">
+	      <p class="para">Ersetzen Sie <span class="em emphasis">profile.name</span> mit dem Namen des Profils, das Sie ändern möchten. Ersetzen Sie ebenfalls <span class="file filename">/Pfad/zu/bin/</span> mit dem tatsächlichen ausführbaren Dateipfad. Benutzen Sie beispielsweise für den Befehl <span class="app application">ping</span> <span class="file filename">/bin/ping</span>.</p>
+	    </div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="apparmor-profiles"><div class="inner">
+<div class="hgroup"><h2 class="title">Profile</h2></div>
+<div class="region">
+<div class="contents">
+<p class="para"><span class="app application">AppArmor</span>-Profile sind einfache Textdateien, die sich in <span class="file filename">/etc/apparmor.d/</span> befinden. Die Dateien sind nach dem vollständigen Pfad zur ausführbaren Datei, die sie darstellen, benannt. Hierbei wird »/« mit ».« ersetzt. Beispielsweise ist <span class="file filename">/etc/apparmor.d/bin.ping</span> das AppArmor-Profil für den Befehl <span class="file filename">/bin/ping</span>.</p>
+<p class="para">Es gibt zwei Haupttypen von Regeln, die in Profilen verwendet werden:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+	        <p class="para">
+	        <span class="em emphasis">Path entries:</span> detail which files an application can access in the file system.
+	        </p>
+	      </li>
+<li class="list itemizedlist">
+	        <p class="para"><span class="em emphasis">Befähigungseinträge:</span> bestimmen, welche Privilegien ein begrenzter Prozess nutzen darf.</p>
+	      </li>
+</ul></div>
+<p class="para">
+	    As an example, take a look at <span class="file filename">/etc/apparmor.d/bin.ping</span>:
+	    </p>
+<div class="code"><pre class="contents ">#include &lt;tunables/global&gt;
+/bin/ping flags=(complain) {
+  #include &lt;abstractions/base&gt;
+  #include &lt;abstractions/consoles&gt;
+  #include &lt;abstractions/nameservice&gt;
+
+  capability net_raw,
+  capability setuid,
+  network inet raw,
+  
+  /bin/ping mixr,
+  /etc/modules.conf r,
+}
+</pre></div>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+	        <p class="para"><span class="em emphasis">#include &lt;tunables/global&gt;:</span> beinhalten Angaben aus anderen Dateien. Dies erlaubt es, Angaben, die mehrere Dateien betreffen, in einer gemeinsamen Datei zu platzieren.</p>
+	      </li>
+<li class="list itemizedlist">
+	        <p class="para"><span class="em emphasis">/bin/ping flags=(complain):</span> bestimmt den Pfad zum Programm, für das das Profil erstellt wurde und legt auch den <span class="em emphasis">complain</span>-Modus fest.</p>
+	      </li>
+<li class="list itemizedlist">
+	        <p class="para"><span class="em emphasis">capability net_raw,:</span> erlaubt der Anwendung Zugriff zur CAP_NET_RAW Posix.1e-Fähigkeit.</p>
+	      </li>
+<li class="list itemizedlist">
+	        <p class="para"><span class="em emphasis">/bin/ping mixr,:</span> gibt der Anwendung Lese- und Ausführungszugriff zur Datei.</p>
+	      </li>
+</ul></div>
+<div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents">
+	      <p class="para">Nachdem eine Profildatei editiert wurde, muss das Profil neu geladen werden. Weitere Details finden sich unter <a class="xref" href="apparmor.html#apparmor-usage" title="AppArmor benutzen">AppArmor benutzen</a>.</p>
+	    </div></div></div></div>
+</div>
+<div class="sect3 sect" id="apparmor-profiles-new"><div class="inner">
+<div class="hgroup"><h3 class="title">Erstellen eines Profils</h3></div>
+<div class="region"><div class="contents"><div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+	          <p class="para"><span class="em emphasis">Entwerfen Sie einen Testplan:</span> Überlegen Sie, wie die Anwendung ausgeführt werden soll. Der Testplan sollte in kleine Testfälle unterteilt werden. Jeder Test sollte eine kleine Beschreibung haben und alle zu abzuarbeitenden Schritte auflisten.</p>
+		  <p class="para">Einige Standard-Testfälle sind:</p>
+	          <div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">		
+		      <p class="para">Starten des Programms.</p>
+		    </li>
+<li class="list itemizedlist">		
+		      <p class="para">Beenden des Programms.</p>
+		    </li>
+<li class="list itemizedlist">		
+		      <p class="para">Neuladen des Programms.</p>
+		    </li>
+<li class="list itemizedlist">		
+		      <p class="para">Testen aller Befehle, die vom init-Skript unterstützt werden.</p>
+		    </li>
+</ul></div>
+		</li>
+<li class="list itemizedlist">
+	          <p class="para"><span class="em emphasis">Erstellen des neuen Profils:</span> Benutzen Sie <span class="app application">aa-genprof</span> um das neue Profil zu erstellen. In einem Terminal:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo aa-genprof executable</span>
+</pre></div>
+		    <p class="para">Zum Beispiel:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo aa-genprof slapd</span>
+</pre></div>
+		</li>
+<li class="list itemizedlist">
+		  <p class="para">Um Ihr neues Profil zum <span class="app application">apparmor-profiles</span>–Paket hinzuzufügen, erstellen Sie einen Fehlerbericht in <span class="em emphasis">Launchpad</span> für das Paket <a href="https://bugs.launchpad.net/ubuntu/+source/apparmor/+filebug" class="ulink" title="https://bugs.launchpad.net/ubuntu/+source/apparmor/+filebug">AppArmor</a>:</p>
+		  <div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+		      <p class="para">Fügen Sie Ihren Testplan und die Testfälle hinzu.</p>
+		    </li>
+<li class="list itemizedlist">
+		      <p class="para">Fügen Sie Ihr neues Profil zum Fehlerbericht hinzu.</p>
+		    </li>
+</ul></div>
+		</li>
+</ul></div></div></div>
+</div></div>
+<div class="sect3 sect" id="apparmor-profiles-update"><div class="inner">
+<div class="hgroup"><h3 class="title">Profile aktualisieren</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Wenn das Programm sich nicht richtig verhält, werden Prüfnachrichten zu den Protokolldateien gesendet. Das Programm <span class="app application">aa-logprof</span> kann benutzt werden, um nach <span class="app application">AppArmor</span>-Prüfnachrichten zu suchen. Überprüfen Sie diese und aktualisieren Sie die Profile. Aus einem Terminal:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo aa-logprof</span>
+</pre></div>
+</div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect2 sect" id="apparmor-references"><div class="inner">
+<div class="hgroup"><h2 class="title">Referenzen</h2></div>
+<div class="region"><div class="contents">
+<div class="list itemizedlist"><ul class="list itemizedlist"><li class="list itemizedlist">
+	        <p class="para">Informationen über erweiterte Konfigurationsoptionen finden Sie unter <a href="http://www.novell.com/documentation/apparmor/apparmor201_sp10_admin/index.html?page=/documentation/apparmor/apparmor201_sp10_admin/data/book_apparmor_admin.html" class="ulink" title="http://www.novell.com/documentation/apparmor/apparmor201_sp10_admin/index.html?page=/documentation/apparmor/apparmor201_sp10_admin/data/book_apparmor_admin.html">AppArmor Administration Guide</a> (englischsprachig).</p>
+	      </li></ul></div>
+<div class="list itemizedlist"><ul class="list itemizedlist"><li class="list itemizedlist">
+	        <p class="para">Weitere Informationen über die Benutzung von AppArmor mit anderen Ubuntu-Versionen finden Sie unter <a href="https://help.ubuntu.com/community/AppArmor" class="ulink" title="https://help.ubuntu.com/community/AppArmor"> AppArmor</a>-Community-Wiki-Seite (englischsprachig).</p>
+	      </li></ul></div>
+<div class="list itemizedlist"><ul class="list itemizedlist"><li class="list itemizedlist">
+	        <p class="para">
+		The <a href="http://en.opensuse.org/SDB:AppArmor_geeks" class="ulink" title="http://en.opensuse.org/SDB:AppArmor_geeks">OpenSUSE AppArmor</a> page is another introduction to AppArmor.
+  	        </p>
+	      </li></ul></div>
+<div class="list itemizedlist"><ul class="list itemizedlist"><li class="list itemizedlist">
+	  	<p class="para">Ein guter Platz um nach Unterstützung zu fragen und in der Ubuntu-Server–Gemeinschaft mitzuwirken ist der <span class="em emphasis">#ubuntu-server</span> IRC-Kanal auf <a href="http://freenode.net" class="ulink" title="http://freenode.net">freenode</a>.</p>
+	      </li></ul></div>
+</div></div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="firewall.html" title="Firewall">Zurück</a><a class="nextlinks-next" href="certificates-and-security.html" title="Zertifikate">Weiter</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p></div>
+</div>
+</body>
+</html>

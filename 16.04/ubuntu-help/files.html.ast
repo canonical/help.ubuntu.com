@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=ast>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Gueta de ficheros y carpetes</title>
+<link rel="stylesheet" type="text/css" href="ast.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Guía del escritoriu d'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía d'escritoriu d'Ubuntu</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Gueta de ficheros y carpetes</span></h1></div>
+<div class="region">
+<div class="contents">
+<div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/nautilus.png" class="media media-block" alt="Xestor de ficheros Nautilus"></div></div>
+<div class="links topiclinks"><div class="inner">
+<div class="title title-links"><h2><span class="title">Xeres comunes</span></h2></div>
+<div class="region"><ul>
+<li class="links "><a class="bold" href="files-browse.html" title="Desaminar ficheros y carpetes">Desaminar ficheros y carpetes</a></li>
+<li class="links "><a class="bold" href="files-copy.html" title="Copiar o mover ficheros y carpetes">Copiar o mover ficheros y carpetes</a></li>
+<li class="links "><a class="bold" href="files-delete.html" title="Desaniciar ficheros y carpetes">Desaniciar ficheros y carpetes</a></li>
+<li class="links "><a class="bold" href="files-search.html" title="Guetar ficheros">Guetar ficheros</a></li>
+<li class="links "><a class="bold" href="files-sort.html" title="Ordenar ficheros y carpetes">Ordenar ficheros y carpetes</a></li>
+<li class="links "><a class="bold" href="files-preview.html" title="Preview files and folders">Preview files and folders</a></li>
+<li class="links "><a class="bold" href="files-rename.html" title="Renomar un ficheru o una carpeta">Renomar un ficheru o una carpeta</a></li>
+</ul></div>
+</div></div>
+<div class="links topiclinks"><div class="inner">
+<div class="title title-links"><h2><span class="title">Más temes</span></h2></div>
+<div class="region"><ul>
+<li class="links "><a class="bold" href="files-open.html" title="Abrir ficheros con otres aplicaciones">Abrir ficheros con otres aplicaciones</a></li>
+<li class="links "><a class="bold" href="files-lost.html" title="Atopar un ficheru perdíu">Atopar un ficheru perdíu</a></li>
+<li class="links "><a class="bold" href="files-share.html" title="Compartir y tresferir ficheros">Compartir y tresferir ficheros</a></li>
+<li class="links "><a class="bold" href="nautilus-connect.html" title="Desaminar ficheros nun sirvidor o compartición de rede">Desaminar ficheros nun sirvidor o compartición de rede</a></li>
+<li class="links "><a class="bold" href="files-disc-write.html" title="Escribir ficheros nun CD o DVD">Escribir ficheros nun CD o DVD</a></li>
+<li class="links "><a class="bold" href="nautilus-file-properties-basic.html" title="Propiedaes del ficheru">Propiedaes del ficheru</a></li>
+<li class="links "><a class="bold" href="files-recover.html" title="Recuperar un ficheru de la papelera">Recuperar un ficheru de la papelera</a></li>
+<li class="links "><a class="bold" href="nautilus-prefs.html" title="Preferencies del xestor de ficheros">Preferencies del xestor de ficheros</a></li>
+</ul></div>
+</div></div>
+</div>
+<div id="removable" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Preseos estrayibles y discos esternos</span></h2></div>
+<div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="Abrir aplicaciones pa preseos o discos"><span class="title">Abrir aplicaciones pa preseos o discos</span><span class="linkdiv-dash"> — </span><span class="desc">Executar aplicaciones automáticamente pa CD y DVD, cámares, reproductores de soníu y otros preseos y soportes.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-removedrive.html" title="Estrayer una unidá esterna de forma segura"><span class="title">Estrayer una unidá esterna de forma segura</span><span class="linkdiv-dash"> — </span><span class="desc">Espulsar o desmontar una memoria USB, un CD, un DVD u otru preséu.</span></a></div></div>
+</div></div></div></div></div>
+</div></div>
+<div id="backup" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Facer copies de seguridá</span></h2></div>
+<div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
+<div class="links-twocolumn">
+<div class="linkdiv "><a class="linkdiv" href="backup-check.html" title="Compruebe la so copia de seguridá"><span class="title">Compruebe la so copia de seguridá</span><span class="linkdiv-dash"> — </span><span class="desc">Compruebe que la so copia de seguridá sía correcta.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-why.html" title="Facer copies de seguridá de los sos ficheros importantes"><span class="title">Facer copies de seguridá de los sos ficheros importantes</span><span class="linkdiv-dash"> — </span><span class="desc">Por qué, qué, cuándo y cómo facer copies de seguridá.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-frequency.html" title="Frecuencia de les copies de respaldu"><span class="title">Frecuencia de les copies de respaldu</span><span class="linkdiv-dash"> — </span><span class="desc">Deprenda con qué frecuencia tien de respaldar los sos ficheros importantes p'asegurase de que se caltienen seguros.</span></a></div>
+</div>
+<div class="links-twocolumn">
+<div class="linkdiv "><a class="linkdiv" href="backup-restore.html" title="Restaurar una copia de seguridá"><span class="title">Restaurar una copia de seguridá</span><span class="linkdiv-dash"> — </span><span class="desc">Recuperar los sos ficheros dende una copia de respaldu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-thinkabout.html" title="¿Aú puedo atopar los ficheros de los que quiero facer copia de seguridá?"><span class="title">¿Aú puedo atopar los ficheros de los que quiero facer copia de seguridá?</span><span class="linkdiv-dash"> — </span><span class="desc">Una llista de carpetes onde pue atopar documentos, ficheros y configuraciones que podría querer respaldar.</span></a></div>
+</div>
+</div></div></div></div></div>
+</div></div>
+<div id="documents" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Documents</span></h2></div>
+<div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="documents.html" title="Documents"><span class="title">Documents</span><span class="linkdiv-dash"> — </span><span class="desc">
+      Organize the documents stored locally on your computer or created 
+      online.
+    </span></a></div></div>
+<div class="links-twocolumn"></div>
+</div></div></div></div></div>
+</div></div>
+<div id="faq" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Conseyos y entrugues</span></h2></div>
+<div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
+<div class="links-twocolumn">
+<div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-permissions.html" title="Afitar los permisos de ficheru"><span class="title">Afitar los permisos de ficheru</span><span class="linkdiv-dash"> — </span><span class="desc">Remane quién pue ver y editar los sos ficheros y carpetes.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-hidden.html" title="Anubrir un ficheru"><span class="title">Anubrir un ficheru</span><span class="linkdiv-dash"> — </span><span class="desc">Facer qu'un ficheru seya invisible, pa que nun pueda vese nel xestor de ficheros.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-bookmarks-edit.html" title="Editar marcadores de carpeta"><span class="title">Editar marcadores de carpeta</span><span class="linkdiv-dash"> — </span><span class="desc">Añadir, desaniciar y renomar marcadores nel xestor de ficheros.</span></a></div>
+</div>
+<div class="links-twocolumn">
+<div class="linkdiv "><a class="linkdiv" href="files-select.html" title="Escoyer ficheros por patrones"><span class="title">Escoyer ficheros por patrones</span><span class="linkdiv-dash"> — </span><span class="desc">Calque <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>S</kbd></span></span> pa escoyer múltiples ficheros que tienen nomes asemeyaos.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-templates.html" title="Plantíes pa tipos de documentos más usaos"><span class="title">Plantíes pa tipos de documentos más usaos</span><span class="linkdiv-dash"> — </span><span class="desc">Cree documentos nuevos dende plantíes de ficheru personalizaes</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-tilde.html" title='¿Qué ye un ficheru con una "~" al final del nome?'><span class="title">¿Qué ye un ficheru con una "~" al final del nome?</span><span class="linkdiv-dash"> — </span><span class="desc">Estos son ficheros de copies de seguridá. Tán anubríos de manera predeterminada.</span></a></div>
+</div>
+</div></div></div></div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">More Information</span></h2></div>
+<div class="region"><ul><li class="links "><a href="index.html" title="Guía del escritoriu d'Ubuntu">Guía del escritoriu d'Ubuntu</a></li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

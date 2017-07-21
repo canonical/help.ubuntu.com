@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang=zh-CN>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文件管理器行为首选项</title>
+<link rel="stylesheet" type="text/css" href="zh-CN.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="帮助"></span></span> Ubuntu 桌面指南</a> » <a class="trail" href="files.html" title="文件、文件夹和搜索">文件</a> » <a class="trail" href="nautilus-prefs.html" title="文件管理器首选项">文件管理器首选项</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">文件管理器行为首选项</span></h1></div>
+<div class="region">
+<div class="contents"><p class="p">您可以控制是单击还是双击文件、可执行文本文件的处理方式和回收站特性。点击菜单栏的 <span class="gui">文件</span> ，选中 <span class="gui">参数设置</span> 并选择 <span class="gui">特性</span> 标签。</p></div>
+<div id="behavior" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">行为</span></h2></div>
+<div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms">单击打开项目</dt>
+<dt class="terms">双击打开项目</dt>
+<dd class="terms"><p class="p">默认情况下，单击可选择文件，双击可打开文件。但可以决定单击文件和文件夹就将其打开。使用单击模式时，可按住 <span class="key"><kbd>Ctrl</kbd></span> 键后再单击，以选择一个或多个文件。</p></dd>
+</dl></div></div></div></div></div>
+</div></div>
+<div id="executable" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">可执行文本文件</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">可执行文本文件是指包含可运行 (执行) 程序的文件。它的 <span class="link"><a href="nautilus-file-properties-permissions.html" title="设置文件权限">文件权限</a></span> 还必须允许这个文件作为一个程序运行。最常见的可执行文本文件有 <span class="sys">Shell</span> 、 <span class="sys">Python</span> 和 <span class="sys">Perl</span> 脚本文件。他们的拓展名分别为 <span class="file">.sh</span> 、 <span class="file">.py</span> 和 <span class="file">.pl</span> 。</p>
+<p class="p">当您打开一个可执行文本文件时，您可以选择从：</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list" style="list-style-type:disc">
+<li class="list"><p class="p"><span class="gui">当可执行文本文件被打开时运行它们</span></p></li>
+<li class="list"><p class="p"><span class="gui">当可执行文本文件被打开时查看它们</span></p></li>
+<li class="list"><p class="p"><span class="gui">总是询问</span></p></li>
+</ul></div></div></div>
+<p class="p">如果选择了 <span class="gui">总是询问</span> ，对话框将在您想要运行或者查看选中的文本文件时弹出询问。</p>
+<p class="p">可执行文本文件也称作脚本文件，所有 <span class="file">~/.local/share/nautilus/scripts</span> 中的脚本文件都将出现在 <span class="gui">脚本</span> 子菜单下的文件快捷菜单中。当一个脚本从本地文件夹执行时，所有被选中的文件都将作为该脚本的参数被粘贴。在文件中执行脚本：</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">需要的文件夹导航。</p></li>
+<li class="steps"><p class="p">选择需要的文件。</p></li>
+<li class="steps"><p class="p">右击文件打开右键菜单，从 <span class="gui">脚本</span> 选择所需的脚本文件执行。</p></li>
+</ol></div></div></div>
+<div class="note note-important" title="重要"><div class="inner"><div class="region"><div class="contents"><p class="p">当脚本文件从远程文件夹执行时将不会传递任何参数，就像一个显示网页或者 <span class="sys">ftp</span> 内容的文件夹。</p></div></div></div></div>
+</div></div>
+</div></div>
+<div id="trash" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">回收站</span></h2></div>
+<div class="region">
+<div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms">清空回收站或删除文件之前询问</dt>
+<dd class="terms"><p class="p">默认情况下已选中此选项。清空回收站时会显示消息，用于确认要清空回收站或删除文件。</p></dd>
+<dt class="terms"><span class="gui">包含一条跳过回收站的删除命令</span></dt>
+<dd class="terms">
+<p class="p">选中此项后，将会在您右击 <span class="app">文件</span> 管理器中的文件弹出的菜单中添加 <span class="gui">删除</span> 选项。</p>
+<div class="note note-warning" title="警告"><div class="inner"><div class="region"><div class="contents"><p class="p">通过<span class="gui">删除</span>菜单项删除项目会彻底绕过回收站。会将删除的项目从系统中彻底清除。无法恢复已删除的项目。</p></div></div></div></div>
+</dd>
+</dl></div></div></div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">亦见</span></h3></div>
+<div class="region"><ul><li class="links ">
+<a href="files-delete.html" title="删除文件和文件夹">删除文件和文件夹</a><span class="desc"> — 删除您不再需要的文件或文件夹。</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">更多信息</span></h2></div>
+<div class="region"><ul><li class="links "><a href="nautilus-prefs.html" title="文件管理器首选项">文件管理器首选项</a></li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=hu>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Hasznos gyorsbillentyűk</title>
+<link rel="stylesheet" type="text/css" href="hu.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Súgó"></span></span> Ubuntu felhasználói kézikönyv</a> » <a class="trail" href="shell-overview.html" title="Asztal, alkalmazások és ablakok">Asztal</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Súgó"></span></span> Ubuntu felhasználói kézikönyv</a> » <a class="trail" href="prefs.html" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="keyboard.html" title="Billentyűzet">Billentyűzet</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Súgó"></span></span> Ubuntu felhasználói kézikönyv</a> » <a class="trail" href="hardware.html" title="Hardver és illesztőprogramok">Hardver</a> » <a class="trail" href="keyboard.html" title="Billentyűzet">Billentyűzet</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Súgó"></span></span> Ubuntu felhasználói kézikönyv</a> » <a class="trail" href="tips.html" title="Tippek és trükkök">Tippek és trükkök</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Hasznos gyorsbillentyűk</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Ez az oldal bemutatja az asztali környezet és alkalmazások hatékonyabb használatát segítő gyorsbillentyűket. Ha egyáltalán nem tudja használni az egeret vagy mutatóeszközt, akkor nézze meg a <span class="link"><a href="keyboard-nav.html" title="Billentyűzetnavigáció">Billentyűzetnavigáció</a></span> oldalt a felhasználói felületek kizárólag billentyűzetről történő használatával kapcsolatos információkért.</p>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="true"></div>
+<div class="inner">
+<div class="title title-table"><h2><span class="title">Az asztali környezet használata</span></h2></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F4</kbd></span></span></p></td>
+<td><p class="p">A jelenlegi ablak bezárása.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">A parancsablak megnyitása (parancsok gyors futtatásához).</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html" title="Váltás ablakok között">Gyors váltás az ablakok között.</a></span> Tartsa lenyomva a <span class="key"><kbd>Shift</kbd></span> billentyűt a fordított sorrendhez.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>`</kbd></span></span></p></td>
+<td style="border-top-style: solid;">
+<p class="p">Váltás ugyanazon alkalmazás ablakai között, vagy az <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> után kijelölt alkalmazás ablakai között.</p>
+<p class="p">Ez a gyorsbillentyű az amerikai billentyűzetek <span class="key"><kbd>`</kbd></span> billentyűjét használja, amelyeken a <span class="key"><kbd>`</kbd></span> billentyű a <span class="key"><kbd>Tab</kbd></span> fölött van. Más billentyűzeteken a gyorsbillentyű az <span class="key"><kbd>Alt</kbd></span>, és a <span class="key"><kbd>Tab</kbd></span> fölötti billentyű, ez magyar billentyűzeten a <span class="key"><kbd>0</kbd></span>.</p>
+</td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><a href="windows-key.html" title="Mi az a „Super” billentyű?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>S</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">A munkaterület-váltó aktiválása. Az összes <span class="link"><a href="shell-workspaces.html" title="Mi az a munkaterület, és mire használható?">munkaterület</a></span> lekicsinyítése.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><a href="windows-key.html" title="Mi az a „Super” billentyű?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>W</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">„Expo” mód aktiválása. Az aktuális munkaterület ablakainak megjelenítése.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Nyílbillentyűk</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html" title="Váltás a munkaterületek között">Váltás a munkaterületek között.</a></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Nyílbillentyűk</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html" title="Ablak másik munkaterületre mozgatása">Az aktuális ablak áthelyezése másik munkaterületre.</a></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Delete</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html" title="Kijelentkezés, kikapcsolás, felhasználóváltás">Kijelentkezés.</a></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><a href="windows-key.html" title="Mi az a „Super” billentyű?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>D</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Minden ablak elrejtése, és az asztal megjelenítése. Nyomja meg újra az ablakok visszaállításához.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>L</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html#lock-screen" title="Képernyő zárolása">A képernyő zárolása.</a></span></p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h2><span class="title">Általános szerkesztési gyorsbillentyűk</span></h2></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>A</kbd></span></span></p></td>
+<td><p class="p">Minden szöveg, vagy listaelem kijelölése.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>X</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Kijelölt szöveg vagy elemek kivágása (eltávolítása), és elhelyezése a vágólapon.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Kijelölt szöveg vagy elemek másolása a vágólapra.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>V</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">A vágólap tartalmának beillesztése.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Z</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Az utolsó művelet visszavonása.</p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h2><span class="title">Felvétel a képernyőről</span></h2></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p"><span class="key"><kbd>Print Screen</kbd></span></p></td>
+<td><p class="p"><span class="link"><a href="screen-shot-record.html#screenshot" title="Képernyőkép készítése">Képernyőkép készítése.</a></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Print Screen</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html#screenshot" title="Képernyőkép készítése">Képernyőkép készítése egy ablakról.</a></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Print Screen</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html#screenshot" title="Képernyőkép készítése">Képernyőkép készítése egy ablakról.</a></span> A mutató szálkeresztté változik. Kattintson és húzza a terület kijelöléséhez.</p></td>
+</tr>
+</table></div>
+</div>
+</div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">További információk</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="shell-overview.html" title="Asztal, alkalmazások és ablakok">Asztal, alkalmazások és ablakok</a><span class="desc"> — <span class="link"><a href="unity-introduction.html" title="Üdvözöljük az Ubuntuban">Bemutatás</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Hasznos gyorsbillentyűk">gyorsbillentyűk</a></span>, <span class="link"><a href="shell-windows.html" title="Ablakok és munkaterületek">ablakok</a></span>…</span>
+</li>
+<li class="links ">
+<a href="keyboard.html" title="Billentyűzet">Billentyűzet</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Alternatív beviteli források használata">Beviteli források</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="A billentyűzetkurzor villogóvá tétele">kurzor villogása</a></span>, <span class="link"><a href="windows-key.html" title="Mi az a „Super” billentyű?">a super billentyű</a></span>, <span class="link"><a href="a11y.html#mobility" title="Mozgássérültség">billentyűzet akadálymentesítése</a></span>…</span>
+</li>
+<li class="links ">
+<a href="tips.html" title="Tippek és trükkök">Tippek és trükkök</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Speciális karakterek bevitele">Speciális karakterek</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Kattintás a középső egérgombbal">középső kattintással használható parancsok</a></span>…</span>
+</li>
+</ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Lásd még</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="keyboard-nav.html" title="Billentyűzetnavigáció">Billentyűzetnavigáció</a><span class="desc"> — Alkalmazások és az asztal használata egér nélkül.</span>
+</li>
+<li class="links ">
+<a href="keyboard-shortcuts-set.html" title="Gyorsbillentyűk beállítása">Gyorsbillentyűk beállítása</a><span class="desc"> — Adjon meg vagy módosítson gyorsbillentyűket a <span class="gui">Billentyűzet</span> beállításai alatt.</span>
+</li>
+<li class="links ">
+<a href="screen-shot-record.html" title="Képernyőképek">Képernyőképek</a><span class="desc"> — Készítsen képet képernyőjének eseményeiről.</span>
+</li>
+<li class="links ">
+<a href="windows-key.html" title="Mi az a „Super” billentyű?">Mi az a „Super” billentyű?</a><span class="desc"> — A Super billentyű megnyitja a Dasht és az Indítót.</span>
+</li>
+</ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

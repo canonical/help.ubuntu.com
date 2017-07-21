@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=oc>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Proprietats de fichièr</title>
+<link rel="stylesheet" type="text/css" href="oc.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Guida del burèu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guide del burèu Ubuntu</a> » <a class="trail" href="files.html" title="Fichièrs, dorsièrs &amp; recèrcas">Fichièrs</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Proprietats de fichièr</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Per afichar las informacions sus un fichièr o un dorsièr, fasètz un clic-droit dessús e causissètz <span class="gui">Proprietats</span>. Podètz tanben seleccionar lo fichièr e utilizar l'acorchi <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Entrada</kbd></span></span>.</p>
+<p class="p">La fenèstra proprietats donne des informacions coma lo tipe de fichièr, sa talha e sa data de darrièra modificacion. Se avètz sovent besonh de ces donadas, podètz les afichar coma <span class="link"><a href="nautilus-list.html" title="Preferéncias des colomnas des listas">colomnas de la vista en lista</a></span> o coma <span class="link"><a href="nautilus-display.html#icon-captions" title="Libellats des icònas">libellats des icònas</a></span>.</p>
+<p class="p">Las informacions de l'onglet <span class="gui">General</span> son detalhadas çaijós.</p>
+</div>
+<div id="basic" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Proprietats elementaires</span></h2></div>
+<div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">Nom</span></dt>
+<dd class="terms"><p class="p">Podètz renomenar lo fichièr en modifiant aqueste camp. Podètz tanben lo far en defòra d'aquesta fenèstra. Veire <span class="link"><a href="files-rename.html" title="Modificacion d'un nom de fichièr o de dorsièr">Modificacion d'un nom de fichièr o de dorsièr</a></span>.</p></dd>
+<dt class="terms"><span class="gui">Tipe</span></dt>
+<dd class="terms">
+<p class="p">Aqueste camp vos ajuda a identificar lo tipe del document, coma per exemple un PDF, un tèxte ODT o un imatge JPEG. Lo tipe de fichièr détermine, entre autres, las aplicacions que pòdon l'dobrir (per exemple, un lector de musica pòt pas legir un document imatge). Consultatz <span class="link"><a href="files-open.html" title="Dobertura de fichièrs amb una autra aplicacion">Dobertura de fichièrs amb una autra aplicacion</a></span> per obténer mai d'informacions.</p>
+<p class="p">Lo <span class="em">tipe MIME</span> del fichièr es afichat entre parentèsis. Es un estandard utilizat per los ordenadors per identificar lo tipe del fichièr.</p>
+</dd>
+<dt class="terms">Contenguts</dt>
+<dd class="terms"><p class="p">Aquesta linha ne s'aficha que per las proprietats d'un dorsièr, pas d'un fichièr. Elle donne lo nombre d'elements contenguts dins lo dorsièr. Se lo dorsièr inclut d'autres dorsièrs, cadun d'eux es compté coma un sol element quitament s'il conten lui-même d'autres elements. Cada fichièr es tanben compté coma un element. Se lo dorsièr es void, lo contengut aficha <span class="gui">aucun</span>.</p></dd>
+<dt class="terms">Talha</dt>
+<dd class="terms">
+<p class="p">Aquesta linha s'aficha pas que per las proprietats d'un fichièr, pas d'un dorsièr. La talha d'un fichièr indica la plaça qu'ocupa sul disc. Aquò dona tanben una indicacion sul temps que cal pel telecargar o lo mandar per corrièr electronic per exemple (de fichièrs gròsses meton mai de temps per èsser mandats o èsser recebuts).</p>
+<p class="p">Las talhas pòdon èsser indicadas en octets, Ko, Mo o Go ; ces tres darrièras son tanben indicadas en octets entre parentèsis. Technicament, 1 Ko egala 1024 octets, 1 Mo egala 1024 Ko e atal de suite.</p>
+</dd>
+<dt class="terms">Emplaçament</dt>
+<dd class="terms"><p class="p">L'emplaçament de cada fichièr sus vòstre ordenador es indicat per son <span class="em">camin absolu</span>. Es l'« adreça » unique d'aqueste fichièr sus vòstre ordenador, compausada de totes los dorsièrs que vos cal travèrser per l'atteindre. Per exemple, se Pierre a un fichièr nomenat <span class="file">CV.pdf</span> dins son dorsièr personal, son emplaçament es <span class="file">/home/Pierre/CV.pdf</span>.</p></dd>
+<dt class="terms">Volum</dt>
+<dd class="terms"><p class="p">Es lo sistèma de fichièrs o lo periferic ont es emmagazinat aqueste fichièr. Aquò vous indica l'endreit ont il se tròba fisicament, per exemple sus un disc dur, un CD, o un <span class="link"><a href="nautilus-connect.html" title="Consultacion de fichièrs sus un servidor o una ret partejat">partiment ret o un servidor de fichièr</a></span>. Se les disques durs son devesits en plusieurs <span class="link"><a href="disk-particions.html" title="disk-particions">particions</a></span>, les particions van tanben aparéisser dins aquesta linha.</p></dd>
+<dt class="terms">Espaci libre</dt>
+<dd class="terms"><p class="p">Aquesta informacion n'est afichada que per los dorsièrs. Elle indica lo l'espaci disponible sul disc ont se tròba lo dorsièr. Es utile per saber se lo disc dur es plein.</p></dd>
+<dt class="terms">Darrièr accès</dt>
+<dd class="terms"><p class="p">La data e l'ora del darrièr accès al fichièr.</p></dd>
+<dt class="terms">Darrièra modificacion</dt>
+<dd class="terms"><p class="p">La data e l'ora de la darrièra modificacion e enregistrament del fichièr.</p></dd>
+</dl></div></div></div></div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Mai d'entresenhas</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="files.html" title="Fichièrs, dorsièrs &amp; recèrcas">Fichièrs, dorsièrs &amp; recèrcas</a><span class="desc"> — <span class="link"><a href="files-search.html" title="Recèrca de fichièrs">Recèrca</a></span>, <span class="link"><a href="files-delete.html" title="Supression de fichièrs e de dorsièrs">supression de fichièrs</a></span>, <span class="link"><a href="files.html#backup" title="Salvaments">salvaments</a></span>, <span class="link"><a href="files.html#removable" title="Mèdias amovibles e disques extèrnes">periferics amovibles</a></span>, <span class="link"><a href="files.html#documents" title="Documents">documents</a></span>…</span>
+</li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Vejatz tanben</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="nautilus-file-properties-permissions.html" title="Definicion des permissions d'accès">Definicion des permissions d'accès</a><span class="desc"> — Contrarotlar que pòt aver accès a vòstres dorsièrs e fichièrs.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

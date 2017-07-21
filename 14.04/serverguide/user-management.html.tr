@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang=tr>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Kullanıcı Yönetimi</title>
+<link rel="stylesheet" type="text/css" href="tr.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Ubuntu Sunucu Rehberi">Ubuntu Sunucu Rehberi</a> » <a class="trail" href="security.html" title="Güvenlik">Güvenlik</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="security.html" title="Güvenlik">Önceki</a><a class="nextlinks-next" href="console-security.html" title="Konsol Güvenliği">Sonraki</a>
+</div>
+<div class="hgroup"><h1 class="title">Kullanıcı Yönetimi</h1></div>
+<div class="region">
+<div class="contents"><p class="para">Kullanıcı yönetimi, güvenlik sistemi korumasının kritik bir parçasıdır. Etkisiz kullanıcı ve ayrıcalıklı yönetim birçok tehlikeli sistemde çalışır. Bu yüzden basit ve etkin kullanıcı hesabının yönetim teknikleriyle sunucunu nasıl koruyacağını bilmek önemlidir.</p></div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="user-management.html#where-is-root" title="Kök nerededir?">Kök nerededir?</a></li>
+<li class="links"><a class="xref" href="user-management.html#adding-deleting-users" title="Kullanıcı Ekleme ve Silme">Kullanıcı Ekleme ve Silme</a></li>
+<li class="links"><a class="xref" href="user-management.html#user-profile-security" title="Kullanıcı Profil Güvenliği">Kullanıcı Profil Güvenliği</a></li>
+<li class="links"><a class="xref" href="user-management.html#password-policy" title="Şifre Kuralı">Şifre Kuralı</a></li>
+<li class="links"><a class="xref" href="user-management.html#other-security-considerations" title="Diğer Güvenlik Hatırlatmaları">Diğer Güvenlik Hatırlatmaları</a></li>
+</ul></div>
+<div class="sect2 sect" id="where-is-root"><div class="inner">
+<div class="hgroup"><h2 class="title">Kök nerededir?</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Ubuntu geliştiricileri, yönetim kök hesabını tüm Ubuntu yüklemelerinde öntanımlı olarak pasifleştirmek için dikkatli karar alırlar. Bu, kök hesabının silindiği veya erişilemez olduğu anlamına gelmez. Bu, sadece bir şifre verildiği anlamındadır. Bu yüzden ona doğrudan girilemez.</p>
+<p class="para">Bunun yerine sistem yönetim görevlerini uygulamak için kullanıcılara, <span class="app application">sudo</span> adında bir araç kullanmaları tavsiye edilir. <span class="app application">Sudo</span>, onların ayrıcalıklarını geçici olarak arttırmak için kök hesabında verilen, bilindik şifre yerine kendi şifrelerini kullanarak yetkili bir kullanıcı sağlar. Bu basit etkili yöntem bütün kullanıcı eylemleri için sorumlulukları sağlar ve yöneticiye hassas kontrol verir.</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+		<p class="para">Eğer bazı nedenlerden dolayı kök hesabını aktifleştirmek istersen, basitçe ona bir şifre ver:</p>
+		<div class="note" title="Not"><div class="inner"><div class="region"><div class="contents">
+		<p class="para">
+		Configurations with root passwords are not supported.
+		</p>
+		</div></div></div></div>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo passwd</span>
+</pre></div>
+		<p class="para">Sudo şifreni oluşturacak ve aşağıda görüldüğü gibi kök için şifre oluşturmanı isteyecek:</p>
+<div class="screen"><pre class="contents "><span class="output computeroutput">[sudo] password for username:</span> <span class="input userinput">(kendi şifrenizi giriniz)</span>
+<span class="output computeroutput">Enter new UNIX password:</span> <span class="input userinput">(kök için yeni bir şifre girin)</span>
+<span class="output computeroutput">Retype new UNIX password:</span> <span class="input userinput">(kök için yeni şifreyi tekrarlayın)</span>
+<span class="output computeroutput">passwd: password updated successfully</span>
+</pre></div>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">
+		To disable the root account password, use the following passwd syntax:
+		</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo passwd -l root</span>
+</pre></div>
+		<p class="para">
+        However, to disable the root account itself, use the following command:
+		</p>
+<div class="screen"><pre class="contents "><span class="cmd command">usermod --expiredate 1</span>
+</pre></div>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">
+		You should read more on <span class="app application">Sudo</span> by reading the man page:
+		</p>
+<div class="screen"><pre class="contents "><span class="cmd command">man sudo</span>
+</pre></div>
+		</li>
+</ul></div>
+<p class="para">
+			By default, the initial user created by the Ubuntu installer is a member of the group "<span class="em emphasis">sudo</span>" which is added to the file <span class="file filename">/etc/sudoers</span> as an authorized sudo user. If you wish to give any other account full root access through <span class="app application">sudo</span>, simply add them to the <span class="em emphasis">sudo</span> group.
+		</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="adding-deleting-users"><div class="inner">
+<div class="hgroup"><h2 class="title">Kullanıcı Ekleme ve Silme</h2></div>
+<div class="region"><div class="contents">
+<p class="para">
+	The process for managing local users and groups is straightforward and differs very little from most other GNU/Linux operating systems. Ubuntu and other Debian based distributions encourage the use of the "adduser" package for account management.
+	</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+		<p class="para">
+		To add a user account, use the following syntax, and follow the prompts to give the account a password and identifiable characteristics, such as a full name, phone number, etc.
+		</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo adduser username</span>
+</pre></div>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">Kullanıcı hesabını ve birincil grubu silmek için aşağıdaki söz dizimini kullanın:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo deluser username</span>
+</pre></div>
+		<p class="para">Bir hesap silerek onun ilgili ev klasörü kaldırılmaz. Bu klasörü elle silip silmek istediğine veya ilkeleri korumak istediğine bağlıdır.</p>
+		<p class="para">Aynı UID/GID'de önceki sahibi gibi daha sonra eklenecek kullanıcı da eğer gerekli güvenlik önlemlerini almazsan bu klasöre şu an erişebileceğini hatırla.</p>
+		<p class="para">Bu UID/GID değerlerini kök hesabı gibi daha uygun şeylerle değiştirebilirsin. Belkide gelecek çakışmalardan sakınmak için klasörü de taşımak isteyebilirsin.</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo chown -R root:root /home/username/</span>
+<span class="cmd command">sudo mkdir /home/archived_users/</span>
+<span class="cmd command">sudo mv /home/username /home/archived_users/</span>
+</pre></div>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">Bir kullanıcı hesabını geçici olarak kilitlemek veya kilidini açmak için aşağıdaki söz dizimini sırayla kullanın:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo passwd -l username</span>
+<span class="cmd command">sudo passwd -u username</span>
+</pre></div>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">Kişileştirilmiş bir grup eklemek veya silmek için aşağıdaki söz dizimini sırayla kullanın.</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo addgroup groupname</span>
+<span class="cmd command">sudo delgroup groupname</span>
+</pre></div>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">Gruba bir kullanıcı eklemek için aşağıdaki söz dizimini kullanın:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo adduser username groupname</span>
+</pre></div>
+		</li>
+</ul></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="user-profile-security"><div class="inner">
+<div class="hgroup"><h2 class="title">Kullanıcı Profil Güvenliği</h2></div>
+<div class="region"><div class="contents">
+<p class="para">
+	When a new user is created, the adduser utility creates a brand new home directory named <span class="file filename">/home/username</span>. The default profile is modeled after the contents found in the directory of <span class="file filename">/etc/skel</span>, which includes all profile basics.  
+	</p>
+<p class="para">Eğer çoklu kullanıcıda seninki ana sunucu olursa, gizliliği sağlamak için kapalı durumları kullanıcı ev dizin izinlerine açmalısın. Normalde Ubuntu'daki kullanıcı ev dizinleri dünyada okuma/yürütme izinleriyle oluşturulur. Bu, tüm kullanıcıların, diğer kullanıcıların ev dizinlerindeki içerikleri açabileceği ve erişebileceği anlamına gelir. Bu senin ortamın için uygun değildir.</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+		<p class="para">
+		To verify your current user home directory permissions, use the following syntax:
+		</p>
+<div class="screen"><pre class="contents "><span class="cmd command">ls -ld /home/username</span>
+</pre></div>
+		<p class="para">The following output shows that the directory <span class="file filename">/home/username</span> has world-readable permissions:
+		</p>
+<div class="screen"><pre class="contents "><span class="output computeroutput">drwxr-xr-x  2 username username    4096 2007-10-02 20:03 username</span>
+</pre></div>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">
+		You can remove the world readable-permissions using the following syntax:
+		</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo chmod 0750 /home/username</span>
+</pre></div>
+		<div class="note" title="Not"><div class="inner"><div class="region"><div class="contents">
+		<p class="para">Bazı kişilerin bütün küçük klasör ve dosyaları düzenleyen, tekrarlı seçim olan -R'yi gelişi güzel kullanmaya eğilimi vardır. Fakat buna gerek yoktur. Bu diğer istenmeyen sonuçlar doğurabilir. Ana tek dizin aşağıda herhangi bir yerde istenmeyen erişimleri engellemek için yeterlidir</p>
+		</div></div></div></div>
+		<p class="para">Daha etkili bir yaklaşım kullanıcı ev klasörleri oluşturduğunda <span class="app application">adduser</span> global mevcut izinlerini düzenlemektir. Basitçe <span class="file filename">/etc/adduser.conf</span> dosyasını ve <span class="code varname">DIR_MODE</span> değişkenini uygun şekilde düzenle. Böylece tüm yeni ev dizinleri doğru izinleri alacaktır.</p>
+<div class="code"><pre class="contents ">DIR_MODE=0750
+</pre></div>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">Daha önce bahsedilen yöntemlerden herhangi birini kullanarak dizin izinlerini doğruladıktan sonra, şu söz dizimini kullanarak sonuçları doğrula:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">ls -ld /home/username</span>
+</pre></div>
+		<p class="para">The results below show that world-readable permissions have been removed:
+		</p>
+<div class="screen"><pre class="contents "><span class="output computeroutput">drwxr-x---   2 username username    4096 2007-10-02 20:03 username</span>
+</pre></div>
+		</li>
+</ul></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="password-policy"><div class="inner">
+<div class="hgroup"><h2 class="title">Şifre Kuralı</h2></div>
+<div class="region">
+<div class="contents"><p class="para">Güçlü bir şifre kuralı, güvenlik durumunun çok önemlilerinden biridir. Çok başarılı güvenlik açıklıkları basit kaba kuvvet gerektirir ve zayıf şifrelere karşı kelime üretme saldırıları maruz kalır. Eğer senin yerel sistem şifreni içeren herhangi uzaktan erişimi amaçlıyorsan, şifrenin, karmaşık ihtiyaçların üstesinden gelecek, en büyük kullanım süresini sahip ve sistem doğrulamanın alışılmış denetimi sağlayacağından emin ol.</p></div>
+<div class="sect3 sect" id="minimum-password-length"><div class="inner">
+<div class="hgroup"><h3 class="title">En küçük Şifre Uzunluğu</h3></div>
+<div class="region"><div class="contents">
+<p class="para">
+	By default, Ubuntu requires a minimum password length of 6 characters, as well as some basic entropy checks. These values are controlled in the file <span class="file filename">/etc/pam.d/common-password</span>, which is outlined below.
+	</p>
+<div class="code"><pre class="contents ">password        [success=1 default=ignore]      pam_unix.so obscure sha512
+</pre></div>
+<p class="para">
+If you would like to adjust the minimum length to 8 characters, change the appropriate variable to min=8. The modification is outlined below.
+	</p>
+<div class="code"><pre class="contents ">password        [success=1 default=ignore]      pam_unix.so obscure sha512 minlen=8
+</pre></div>
+<div class="note" title="Not"><div class="inner"><div class="region"><div class="contents">
+                <p class="para">
+                Basic password entropy checks and minimum length rules do not apply to the administrator using sudo level commands to setup a new user.
+                </p>
+                </div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="password-expiration"><div class="inner">
+<div class="hgroup"><h3 class="title">Şifre Süre Bitimi</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Kullanıcı hesapları oluşturduğunda, en küçük veya en büyük şifre süresini belirterek, kullanıcıları şifrelerini değiştirmeye zorlayacak bir kural koyabilirsin.</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+		<p class="para">Kullanıcı hesabının mevcut durumunu kolayca görüntülemek için şu söz dizimini kullanın:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo chage -l username</span>
+</pre></div>
+		<p class="para">Aşağıdaki çıktı, kullanıcı hesabı ile ilgili uygulanan herhangi bir kural olmadığı durumunu gösteriyor:</p>
+<div class="screen"><pre class="contents "><span class="output computeroutput">Last password change                                    : Jan 20, 2015
+Password expires                                        : never
+Password inactive                                       : never
+Account expires                                         : never
+Minimum number of days between password change          : 0
+Maximum number of days between password change          : 99999
+Number of days of warning before password expires       : 7</span>
+</pre></div>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">Bu değerlerden herhangi birini ayarlamak için basitçe şu söz dizimini kullanın ve etkileşimi takip edin:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo chage username</span>
+</pre></div>
+		<p class="para">
+		The following is also an example of how you can manually change the explicit expiration date (-E) to 01/31/2015, minimum password age (-m) of 5 days, maximum password  age (-M) of 90 days, inactivity period (-I) of 5 days after password expiration, and a warning time period (-W) of 14 days before password expiration:
+		</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo chage -E 01/31/2015 -m 5 -M 90 -I 30 -W 14 username</span>
+</pre></div>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">Değişiklikleri onaylamak için daha önce yukarıda bahsedilen söz dizimini kullanın:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo chage -l username</span>
+</pre></div>
+		<p class="para">Aşağıdaki çıktı hesap için sağlanan yeni kuralları gösteriyor:</p>
+<div class="screen"><pre class="contents "><span class="output computeroutput">Last password change                                    : Jan 20, 2015
+Password expires                                        : Apr 19, 2015
+Password inactive                                       : May 19, 2015
+Account expires                                         : Jan 31, 2015
+Minimum number of days between password change          : 5
+Maximum number of days between password change          : 90
+Number of days of warning before password expires       : 14</span>
+</pre></div>
+		</li>
+</ul></div>
+</div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect2 sect" id="other-security-considerations"><div class="inner">
+<div class="hgroup"><h2 class="title">Diğer Güvenlik Hatırlatmaları</h2></div>
+<div class="region">
+<div class="contents"><p class="para">Birçok uygulama tecrübeli sistem yöneticileri tarafından bile kolayca gözden kaçırılabilecek alternatif doğrulama mekanizması kullanır. Bu yüzden, hangi kullanıcılara izin verileceğini anlamak ve kontrol etmek, sunucundaki hangi servislere ve uygulamalara erişeceğini ayarlamak önemlidir.</p></div>
+<div class="sect3 sect" id="ssh-access-by-disabled-users"><div class="inner">
+<div class="hgroup"><h3 class="title">Pasif Kullanıcılar tarafından SSH'a Erişme</h3></div>
+<div class="region"><div class="contents">
+<p class="para">
+	Simply disabling/locking a user account will not prevent a user from logging into your server remotely if they have previously set up RSA public key authentication. They will still be able to gain shell access to the server, without the need for any password. Remember to check the users home directory for files that will allow for this type of authenticated SSH access, e.g. <span class="file filename">/home/username/.ssh/authorized_keys</span>.
+	</p>
+<p class="para">Diğer SSH doğrulama yeteneklerini engellemek için kullanıcının ev klasöründeki <span class="file filename">.ssh/</span> dizinini kaldırın veya yeniden adlandırın.</p>
+<p class="para">Yayımlanmış herhangi SSH bağlantılarda kullanıcının pasifleştirildiğinden emin olun. Bunların mevcut gelen veya giden bağlantılara sahip olması mümkündür. Bulduklarınızı öldürün. :)</p>
+<div class="screen"><pre class="contents "><span class="cmd command">who | grep username</span>  (to get the pts/# terminal)
+<span class="cmd command">sudo pkill -f pts/#</span>
+</pre></div>
+<p class="para">SSH erişimini sadece kullanıcı hesabı olanlar için sınırlayın. Örneğin; "sshlogin" adında bir grup oluşturabilir ve grup adını <span class="file filename">/etc/ssh/sshd_config</span> dosyasında bulunan <span class="code varname">AllowGroups</span> değişkeni ile ilgili değer gibi ekleyebilirsiniz.</p>
+<div class="code"><pre class="contents ">AllowGroups sshlogin
+</pre></div>
+<p class="para">Sonra izin verdiğin SSH kullanıcılarını "sshlogin" grubuna ekleyin ve SSH servisini yeniden başlatın.</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo adduser username sshlogin</span>
+<span class="cmd command">sudo service ssh restart</span>
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="external-db-auth"><div class="inner">
+<div class="hgroup"><h3 class="title">Harici Kullanıcı Veritabanı Doğrulaması</h3></div>
+<div class="region"><div class="contents"><p class="para">
+	Most enterprise networks require centralized authentication and access controls for all system resources. If you have configured your server to authenticate users against external databases, be sure to disable the user accounts both externally and locally. This way you ensure that local fallback authentication is not possible.
+	</p></div></div>
+</div></div>
+</div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="security.html" title="Güvenlik">Önceki</a><a class="nextlinks-next" href="console-security.html" title="Konsol Güvenliği">Sonraki</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p></div>
+</div>
+</body>
+</html>

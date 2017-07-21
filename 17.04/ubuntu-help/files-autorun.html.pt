@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang=pt>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Abrir apps para dispositivos ou discos</title>
+<link rel="stylesheet" type="text/css" href="pt.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Sound, video &amp; pictures">Sound, video &amp; pictures</a> › <a class="trail" href="media.html#music" title="Music and portable audio players">Music and players</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Sound, video &amp; pictures">Sound, video &amp; pictures</a> › <a class="trail" href="media.html#photos" title="Photos and digital cameras">Photos</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html#removable" title="Removable drives and external disks">Removable drives and external disks</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Sound, video &amp; pictures">Sound, video &amp; pictures</a> › <a class="trail" href="media.html#videos" title="Videos and video cameras">Videos</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Abrir apps para dispositivos ou discos</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Pode ter uma aplicação iniciando automaticamente quando liga um dispositivo, insere um disco ou cartão de memória. Por exemplo, o seu organizador de fotografias pode ser iniciado ao ligar uma câmara digital ao computador. É também possível desactivar este recurso, para que nada aconteça ao ligar algum dispositivo.</p>
+<p class="p">Para decidir quais as apps devem iniciar quando conecta vários dispositivos:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Click the <span class="em">system menu</span> <span class="media"><span class="media media-image"><img src="figures/system-devices-panel.svg" class="media media-inline" alt="Power cog icon"></span></span> and
+    select <span class="gui">System Settings</span>.</p></li>
+<li class="steps"><p class="p">Seleccionar <span class="guiseq"><span class="gui">Detalhes</span> ▸ <span class="gui">Média removível</span></span>.</p></li>
+<li class="steps">
+<p class="p">Encontre o dispositivo ou tipo de multimédia desejado e escolha o programa ou ação para cada tipo de média. Verifique a descrição abaixo para saber mais dos diferentes tipos de dispositivos e média.</p>
+<p class="p">Instead of starting an application, you can also set it so that the device
+    will be shown in the file manager. When that happens, you will be asked
+    what to do, or nothing will happen automatically.</p>
+</li>
+<li class="steps"><p class="p">A opção <span class="gui">Software</span> é um pouco diferente das outras - se o computador detetar que existe software num disco que inseriu, (e se desejar) esta opção pode tentar correr o software automaticamente. É muito útil se tiver uma app instalada num CD e quer que o programa execute quando o disco é inserido (por exemplo, um slideshow).</p></li>
+<li class="steps"><p class="p">Se não vê o tipo de dispositivo ou média que quer mudar na lista (tal como discos Blu-ray ou leitores de ebook), clique em <span class="gui">Outras médias</span> para ver uma lista mais detalhada de dispositivos. Seleccionar o tipo de dispositivo na lista suspensa <span class="gui">Tipo</span> e o aplicativo ou acção na lista suspensa <span class="gui">Acção</span>.</p></li>
+</ol></div></div></div>
+<div class="note note-tip" title="Dica"><div class="inner"><div class="region"><div class="contents"><p class="p">Se desejar que nenhuma app seja aberta automaticamente, independentemente do dispositivo que conectar, selecione <span class="gui">Nunca perguntar ou abrir programas quando se inserir media</span> no fundo da janela da multimédia removível.</p></div></div></div></div>
+</div>
+<div id="files-types-of-devices" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Tipos de dispositivos e média</span></h2></div>
+<div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms">Discos de áudio</dt>
+<dd class="terms"><p class="p">Escolha a sua app de música favorita ou um extrator de áudio de CD para manusear com CDs de áudio. Se usar DVDs de áudio (DVD-A), selecione como abri-los em <span class="gui">Outro tipo de média</span>. Se abrir um disco de áudio com o gestor de ficheiros, as músicas aparecem em formato WAV e poderá ouvi-las em qualquer app de reprodução de áudio.</p></dd>
+<dt class="terms">Discos de vídeos</dt>
+<dd class="terms"><p class="p">Escolha a sua app de vídeo favorita para manusear os DVDs de vídeo. Utilize o botão <span class="gui">Outro tipo de média</span> para definir a app para Blu-Ray, HD DVD, vídeo CD (VCD) e super vídeo CD (SVCD). Se os DVDs ou outro tipo de discos de vídeo não funcionarem corretamente quando inseridos, veja <span class="link"><a href="video-dvd.html" title="Porque os DVDs não reproduzem?">Porque os DVDs não reproduzem?</a></span>.</p></dd>
+<dt class="terms">Discos virgens</dt>
+<dd class="terms"><p class="p">Utilize o botão <span class="gui">Outro tipo de média</span> para selecionar uma app para queimar CDs, DVDs, Blu-Rays e DVDs HD virgens.</p></dd>
+<dt class="terms">Câmaras e fotografias</dt>
+<dd class="terms">
+<p class="p">Use the <span class="gui">Photos</span> drop-down to choose a photo-management
+    application to run when you plug in your digital camera, or when you insert
+    a media card from a camera, such as a CF, SD, MMC, or MS card. You can also
+    simply browse your photos using the file manager.</p>
+<p class="p">Under <span class="gui">Other Media</span>, you can select an application to open Kodak
+    picture CDs, such as those you might have made in a store. These are regular
+    data CDs with JPEG images in a folder called <span class="file">PICTURES</span>.</p>
+</dd>
+<dt class="terms">Reprodutores de música</dt>
+<dd class="terms"><p class="p">Escolha uma aplicação para gerir a biblioteca de músicas no seu leitor de música portátil, ou gerir os ficheiros utilizando o gestor de ficheiros.</p></dd>
+<dt class="terms">Leitores de e-books</dt>
+<dd class="terms"><p class="p">Use the <span class="gui">Other Media</span> button to choose an application to manage the
+    books on your e-book reader, or manage the files yourself using the file manager.</p></dd>
+<dt class="terms">Software</dt>
+<dd class="terms">
+<p class="p">Some discs and removable media contain software that is supposed to be run
+    automatically when the media is inserted. Use the <span class="gui">Software</span> option
+    to control what to do when media with autorun software is inserted. You will
+    always be prompted for a confirmation before software is run.</p>
+<div class="note note-warning" title="Aviso"><div class="inner"><div class="region"><div class="contents"><p class="p">Nunca execute software a partir de unidades em que não confia.</p></div></div></div></div>
+</dd>
+</dl></div></div></div></div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Mais informação</span></h2></div>
+<div class="region"><ul>
+<li class="links "><a href="media.html#music" title="Music and portable audio players">Music and players</a></li>
+<li class="links "><a href="media.html#photos" title="Photos and digital cameras">Photos</a></li>
+<li class="links "><a href="files.html#removable" title="Removable drives and external disks">Removable drives and external disks</a></li>
+<li class="links "><a href="media.html#videos" title="Videos and video cameras">Videos</a></li>
+</ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

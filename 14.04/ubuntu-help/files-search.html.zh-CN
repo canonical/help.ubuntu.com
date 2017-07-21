@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang=zh-CN>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>搜索文件</title>
+<link rel="stylesheet" type="text/css" href="zh-CN.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="帮助"></span></span> Ubuntu 桌面指南</a> » <a class="trail" href="files.html" title="文件、文件夹和搜索">文件</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">搜索文件</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">您可以根据文件的名称或类型直接在文件管理器中搜索文件。您甚至可以保存常用搜索，它们将作为特殊文件夹出现在您的主文件夹中。</p>
+<div class="steps"><div class="inner">
+<div class="title title-steps"><h2><span class="title">搜索</span></h2></div>
+<div class="region"><ol class="steps">
+<li class="steps"><p class="p"><span class="link"><a href="files-browse.html" title="浏览文件和文件夹">打开文件管理器</a></span></p></li>
+<li class="steps"><p class="p">如果您知道您想要的文件位于哪个文件夹中，则转到该文件夹。</p></li>
+<li class="steps"><p class="p">点击工具栏上的放大镜按钮，或者按下组合键 <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>F</kbd></span></span> 。</p></li>
+<li class="steps"><p class="p">输入您知道的出现在文件名中的字词。例如，如果您使用“Invoice”命名了您所有的发票文件，输入  <span class="input">invoice</span> ，然后按下 <span class="key"><kbd>回车</kbd></span> ，字母不区分大小写。</p></li>
+<li class="steps">
+<p class="p">您可以通过存放位置和文件类型来缩小搜索范围。</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p">点击 <span class="gui">主文件夹</span> 来限制搜索结果位于您的  <span class="file">Home</span> 文件夹，或者选择 <span class="gui">所有文件</span> 搜索整个文件系统。</p></li>
+<li class="list"><p class="p">点击 <span class="key"><kbd>+</kbd></span> ，然后从下拉菜单中选择一种  <span class="gui">文件类型</span> ，基于文件类型缩小搜索范围。点击 <span class="key"><kbd>x</kbd></span> 按钮删除此选项，扩大搜索范围。</p></li>
+</ul></div></div></div>
+</li>
+<li class="steps"><p class="p">与在文件管理器中的任何文件夹中一样，您可以在搜索结果中打开、复制、删除或以其它方式处理您的文件。</p></li>
+<li class="steps"><p class="p">再次点击工具栏上的放大镜按钮退出搜索并返回文件夹。</p></li>
+</ol></div>
+</div></div>
+<p class="p">如果您经常执行某些搜索，您可以保存这些搜索以供快速访问。</p>
+<div class="steps"><div class="inner">
+<div class="title title-steps"><h2><span class="title">保存搜索</span></h2></div>
+<div class="region"><ol class="steps">
+<li class="steps"><p class="p">如上所述开始搜索。</p></li>
+<li class="steps"><p class="p">当您对搜索参数感到满意时，点击齿轮按钮并选择 <span class="gui">保存搜索为</span> 。</p></li>
+<li class="steps"><p class="p">为搜索命名，然后单击<span class="gui">保存</span>。如果您喜欢，可选择不同的文件夹来保存搜索。当您查看该文件夹时，您将看到您保存的搜索显示为带有放大镜图案的橙色文件夹图标。</p></li>
+</ol></div>
+</div></div>
+<p class="p">删除搜索结果的方式与删除其他文件的方式相同。当您删除某个已保存的搜索结果时，搜索结果中的文件并不会被删除。</p>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">更多信息</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="files.html" title="文件、文件夹和搜索">文件、文件夹和搜索</a><span class="desc"> — <span class="link"><a href="files-search.html" title="搜索文件">搜索</a></span>，<span class="link"><a href="files-delete.html" title="删除文件和文件夹">删除文件</a></span>，<span class="link"><a href="files.html#backup" title="备份">备份</a></span>，<span class="link"><a href="files.html#removable" title="可移动驱动器和外部磁盘">可移动驱动器</a></span>，<span class="link"><a href="files.html#documents" title="文档">文档</a></span>…</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

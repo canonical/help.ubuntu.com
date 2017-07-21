@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang=fr>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Samba et LDAP</title>
+<link rel="stylesheet" type="text/css" href="fr.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Guide du serveur Ubuntu">Guide du serveur Ubuntu</a> » <a class="trail" href="network-authentication.html" title="Authentification réseau">Authentification réseau</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="openldap-server.html" title="Serveur OpenLDAP">Précédent</a><a class="nextlinks-next" href="kerberos.html" title="Kerberos">Suivant</a>
+</div>
+<div class="hgroup"><h1 class="title">Samba et LDAP</h1></div>
+<div class="region">
+<div class="contents"><p class="para">
+	This section covers the integration of Samba with LDAP. The Samba server's role will be that of a "standalone" server and the LDAP
+	directory will provide the authentication layer in addition to containing the user, group, and machine account information that Samba
+	requires in order to function (in any of its 3 possible roles). The pre-requisite is an OpenLDAP server configured with a directory
+	that can accept authentication requests. See <a class="xref" href="openldap-server.html" title="Serveur OpenLDAP">Serveur OpenLDAP</a> for details on fulfilling this requirement. Once this
+	section is completed, you will need to decide what specifically you want Samba to do for you and then configure it accordingly.
+	</p></div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="samba-ldap.html#samba-ldap-installation" title="Installation de logiciels">Installation de logiciels</a></li>
+<li class="links"><a class="xref" href="samba-ldap.html#samba-ldap-openldap-configuration" title="Configuration LDAP">Configuration LDAP</a></li>
+<li class="links"><a class="xref" href="samba-ldap.html#samba-ldap-samba-configuration" title="Configuration de Samba">Configuration de Samba</a></li>
+<li class="links"><a class="xref" href="samba-ldap.html#samba-ldap-resources" title="Ressources">Ressources</a></li>
+</ul></div>
+<div class="sect2 sect" id="samba-ldap-installation"><div class="inner">
+<div class="hgroup"><h2 class="title">Installation de logiciels</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Il y a trois paquets nécessaires pour l'intégration de Samba avec LDAP : <span class="app application">samba</span>, <span class="app application">samba-doc</span> et <span class="app application">smbldap-tools</span>.</p>
+<p class="para">Le paquet <span class="app application">smbldap-tools</span> n'est pas nécessaire à proprement parler, mais si vous n'avez pas d'autre moyen de gérer les diverses entités Samba (utilisateurs, groupes, ordinateurs) dans le contexte LDAP, alors, vous devriez installer le paquet <span class="app application">smbldap-tools</span>.</p>
+<p class="para">Maintenant, installez ces paquets :</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt-get install samba samba-doc smbldap-tools</span>
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="samba-ldap-openldap-configuration"><div class="inner">
+<div class="hgroup"><h2 class="title">Configuration LDAP</h2></div>
+<div class="region">
+<div class="contents">
+<p class="para">Nous allons maintenant configurer le serveur LDAP afin qu'il puisse accueillir les données de Samba. Nous allons effectuer trois tâches dans cette section :</p>
+<div class="steps"><div class="inner"><ol class="steps">
+<li class="steps">
+		<p class="para">Importez un schéma</p>
+		</li>
+<li class="steps">
+		<p class="para">Indexez des entrées</p>
+		</li>
+<li class="steps">
+		<p class="para">Ajouter des objets</p>
+		</li>
+</ol></div></div>
+</div>
+<div class="sect3 sect" id="samba-ldap-openldap-configuration-samba-schema"><div class="inner">
+<div class="hgroup"><h3 class="title">Schéma Samba</h3></div>
+<div class="region"><div class="contents">
+<p class="para">
+      	In order for OpenLDAP to be used as a backend for Samba, logically, the DIT will need to use attributes that can properly describe
+	Samba data. Such attributes can be obtained by introducing a Samba LDAP schema. Let's do this now.
+      	</p>
+<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents">
+		<p class="para">Pour avoir plus d'informations sur les schémas et leur installation, voir <a class="xref" href="openldap-server.html#openldap-configuration" title="Modification de la base de données de configuration slapd">Modification de la base de données de configuration slapd</a>.</p>
+	</div></div></div></div>
+<div class="steps"><div class="inner"><ol class="steps">
+<li class="steps">
+		<p class="para">Le schéma se trouve dans le paquet <span class="app application">samba-doc</span> qui est désormais installé. Il doit être décompressé et copié dans le répertoire <span class="file filename">/etc/ldap/schema</span> :</p>
+        
+<div class="screen"><pre class="contents "><span class="cmd command">sudo cp /usr/share/doc/samba-doc/examples/LDAP/samba.schema.gz /etc/ldap/schema</span>
+<span class="cmd command">sudo gzip -d /etc/ldap/schema/samba.schema.gz</span>
+</pre></div>
+
+	</li>
+<li class="steps">
+		<p class="para">Prenez le fichier de configuration <span class="file filename">schema_convert.conf</span> qui contient les lignes suivantes :</p>
+
+<div class="code"><pre class="contents ">include /etc/ldap/schema/core.schema
+include /etc/ldap/schema/collective.schema
+include /etc/ldap/schema/corba.schema
+include /etc/ldap/schema/cosine.schema
+include /etc/ldap/schema/duaconf.schema
+include /etc/ldap/schema/dyngroup.schema
+include /etc/ldap/schema/inetorgperson.schema
+include /etc/ldap/schema/java.schema
+include /etc/ldap/schema/misc.schema
+include /etc/ldap/schema/nis.schema
+include /etc/ldap/schema/openldap.schema
+include /etc/ldap/schema/ppolicy.schema
+include /etc/ldap/schema/ldapns.schema
+include /etc/ldap/schema/pmi.schema
+include /etc/ldap/schema/samba.schema
+</pre></div>
+
+	</li>
+<li class="steps">
+                <p class="para">Prenez le répertoire <span class="file filename">ldif_output</span> contenant les sorties.</p> 
+       	</li>
+<li class="steps">
+		<p class="para">Déterminez l'index du schéma :</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">slapcat -f schema_convert.conf -F ldif_output -n 0 | grep samba,cn=schema</span>
+<span class="output computeroutput">
+dn: cn={14}samba,cn=schema,cn=config
+</span>
+</pre></div>
+
+	</li>
+<li class="steps">
+                <p class="para">Convertissez le schéma au format LDIF :</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">slapcat -f schema_convert.conf -F ldif_output -n0 -H \ ldap:///cn={14}samba,cn=schema,cn=config -l cn=samba.ldif</span>
+</pre></div>
+
+       	</li>
+<li class="steps">
+                <p class="para">Modifiez le fichier <span class="file filename">cn=samba.ldif</span> généré en supprimant les informations d'index pour arriver à :</p> 
+
+<div class="code"><pre class="contents ">dn: cn=samba,cn=schema,cn=config
+...
+cn: samba
+</pre></div>
+		
+                <p class="para">Retirez les lignes du bas :</p> 
+
+<div class="code"><pre class="contents ">structuralObjectClass: olcSchemaConfig
+entryUUID: b53b75ca-083f-102d-9fff-2f64fd123c95
+creatorsName: cn=config
+createTimestamp: 20080827045234Z
+entryCSN: 20080827045234.341425Z#000000#000#000000
+modifiersName: cn=config
+modifyTimestamp: 20080827045234Z
+</pre></div>
+
+		<p class="para">Vos valeurs d'attributs varieront.</p>
+	</li>
+<li class="steps">
+                <p class="para">Ajoutez le nouveau schéma :</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ldapadd -Q -Y EXTERNAL -H ldapi:/// -f cn\=samba.ldif</span>
+</pre></div>
+
+                <p class="para">Pour interroger et voir ce nouveau schéma :</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ldapsearch -Q -LLL -Y EXTERNAL -H ldapi:/// -b cn=schema,cn=config 'cn=*samba*'</span>
+</pre></div>
+
+	</li>
+</ol></div></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="samba-ldap-openldap-configuration-samba-indices"><div class="inner">
+<div class="hgroup"><h3 class="title">Indices Samba</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Maintenant que slapd connaît les attributs Samba, nous pouvons définir quelques indices basés sur ces attributs. L'indexation des entrées est un moyen d'améliorer les performances lorsqu'un client effectue une recherche filtrée dans le DIT.</p>
+<p class="para">Créez le fichier <span class="file filename">samba_indices.ldif</span> avec le contenu suivant :</p>
+<div class="code"><pre class="contents ">dn: olcDatabase={1}hdb,cn=config
+changetype: modify
+add: olcDbIndex
+olcDbIndex: uidNumber eq
+olcDbIndex: gidNumber eq
+olcDbIndex: loginShell eq
+olcDbIndex: uid eq,pres,sub
+olcDbIndex: memberUid eq,pres,sub
+olcDbIndex: uniqueMember eq,pres
+olcDbIndex: sambaSID eq
+olcDbIndex: sambaPrimaryGroupSID eq
+olcDbIndex: sambaGroupType eq
+olcDbIndex: sambaSIDList eq
+olcDbIndex: sambaDomainName eq
+olcDbIndex: default sub
+</pre></div>
+<p class="para">Avec l'utilitaire <span class="app application">ldapmodify</span>, charger les nouveaux indices :</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ldapmodify -Q -Y EXTERNAL -H ldapi:/// -f samba_indices.ldif</span>
+</pre></div>
+<p class="para">Si tout s'est bien passé, vous devriez voir les nouveaux indices en utilisant <span class="app application">ldapsearch</span> :</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ldapsearch -Q -LLL -Y EXTERNAL -H \ ldapi:/// -b cn=config olcDatabase={1}hdb olcDbIndex</span>
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="samba-ldap-openldap-configuration-populating"><div class="inner">
+<div class="hgroup"><h3 class="title">Ajout d'objets LDAP à Samba</h3></div>
+<div class="region"><div class="contents">
+<p class="para">
+	Next, configure the <span class="app application">smbldap-tools</span> package to match your environment.  The package 
+	is supposed to come with a configuration helper script (smbldap-config.pl, formerly configure.pl) that will ask questions
+	about the needed options but there is a <a href="https://bugs.launchpad.net/serverguide/+bug/997172" class="ulink" title="https://bugs.launchpad.net/serverguide/+bug/997172">bug</a>
+	whereby it is not installed (but found in the source code; 'apt-get source smbldap-tools').
+	</p>
+<p class="para">Pour configurer manuellement le paquet, vous devez créer puis éditer les fichiers <span class="file filename">/etc/smbldap-tools/smbldap.conf</span> et <span class="file filename">/etc/smbldap-tools/smbldap_bind.conf</span>.</p>
+<p class="para">Le script <span class="app application">smbldap-populate</span> va ensuite ajouter les objets LDAP nécessaires pour Samba. C'est une bonne idée que de commencer par sauvegarder votre DIT avec <span class="app application">slapcat</span> :</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo slapcat -l backup.ldif</span>
+</pre></div>
+<p class="para">Une fois que vous avez une sauvegarde, procédez au remplissage de votre répertoire :</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo smbldap-populate</span>
+</pre></div>
+<p class="para">
+	You can create a LDIF file containing the new Samba objects by executing <span class="cmd command">sudo smbldap-populate -e samba.ldif</span>.
+	This allows you to look over the changes making sure everything is correct. If it is, rerun the script without the '-e'
+	switch. Alternatively, you can take the LDIF file and import its data per usual.
+	</p>
+<p class="para">Votre répertoire LDAP a maintenant les informations nécessaires pour authentifier les utilisateurs Samba.</p>
+</div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect2 sect" id="samba-ldap-samba-configuration"><div class="inner">
+<div class="hgroup"><h2 class="title">Configuration de Samba</h2></div>
+<div class="region"><div class="contents">
+<p class="para">
+	There are multiple ways to configure Samba. For details on some common configurations see <a class="xref" href="samba.html" title="Samba">Samba</a>.      
+	To configure Samba to use LDAP, edit its configuration file <span class="file filename">/etc/samba/smb.conf</span> commenting out
+	the default <span class="em emphasis">passdb backend</span> parameter and adding some ldap-related ones:
+	</p>
+<div class="code"><pre class="contents ">#   passdb backend = tdbsam
+
+# LDAP Settings
+   passdb backend = ldapsam:ldap://hostname
+   ldap suffix = dc=example,dc=com
+   ldap user suffix = ou=People
+   ldap group suffix = ou=Groups
+   ldap machine suffix = ou=Computers
+   ldap idmap suffix = ou=Idmap
+   ldap admin dn = cn=admin,dc=example,dc=com
+   ldap ssl = start tls
+   ldap passwd sync = yes
+...
+   add machine script = sudo /usr/sbin/smbldap-useradd -t 0 -w "%u"
+</pre></div>
+<p class="para">Modifiez les valeurs pour correspondre à votre environnement.</p>
+<p class="para">Redémarrez <span class="app application">samba</span> pour activer les nouveaux paramètres :</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo restart smbd</span>
+<span class="cmd command">sudo restart nmbd</span>
+</pre></div>
+<p class="para">Maintenant, informez Samba à propos du mot de passe de l'utilisateur rootDN (celui défini lors de l'installation du paquet slapd) :</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo smbpasswd -w motdepasse</span>
+</pre></div>
+<p class="para">
+	If you have existing LDAP users that you want to include in your new LDAP-backed Samba they will, of course, also need to be given
+	some of the extra attributes. The <span class="app application">smbpasswd</span> utility can do this as well (your host will need to be
+	able to see (enumerate) those users via NSS; install and configure either <span class="app application">libnss-ldapd</span> or
+	<span class="app application">libnss-ldap</span>):
+	</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo smbpasswd -a identifiant</span>
+</pre></div>
+<p class="para">Vous serez invité à entrer un mot de passe. Il sera considéré comme le nouveau mot de passe pour cet utilisateur. Choisir le même que précédemment est raisonnable.</p>
+<p class="para">Pour gérer les utilisateurs, les groupes et les comptes machine, utilisez les utilitaires fournis par le paquet <span class="app application">smbldap-tools</span>. Voici quelques exemples :</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+		<p class="para">Pour ajouter un nouvel utilisateur :</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo smbldap-useradd -a -P identifiant</span>
+</pre></div>
+
+		<p class="para">L'option <span class="em emphasis">-a</span> ajoute les attributs Samba, et l'option <span class="em emphasis">-P</span> appelle l'utilitaire <span class="app application">smbldap-passwd</span> après que l'utilisateur ait été créé, vous permettant de saisir un mot de passe pour cet utilisateur.</p>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">Pour supprimer un utilisateur :</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo smbldap-userdel identifiant</span>
+</pre></div>
+
+		<p class="para">Dans la commande ci-dessus, utilisez l'option <span class="em emphasis">-r</span> pour supprimer le répertoire personnel de l'utilisateur.</p>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">Pour ajouter un groupe :</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo smbldap-groupadd -a nom_de_groupe</span>
+</pre></div>
+
+		<p class="para">Comme pour <span class="app application">smbldap-useradd</span>, l'option <span class="em emphasis">-a</span> ajoute les attributs Samba.</p>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">Pour faire qu'un utilisateur existant devienne membre d'un groupe :</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo smbldap-groupmod -m identifiant nom_de_groupe</span>
+</pre></div>
+
+		<p class="para">L'option <span class="em emphasis">-m</span> permet d'ajouter plusieurs utilisateurs à la fois en les listant dans un format séparé par des virgules.</p>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">Pour supprimer un utilisateur d'un groupe :</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo smbldap-groupmod -x identifiant nom_de_groupe</span>
+</pre></div>
+
+		</li>
+<li class="list itemizedlist">
+		<p class="para">Pour ajouter un compte machine Samba :</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo smbldap-useradd -t 0 -w nom_machine</span>
+</pre></div>
+
+		<p class="para">
+		Replace <span class="em emphasis">username</span> with the name of the workstation.  The <span class="em emphasis">-t 0</span> option creates the machine account
+		without a delay, while the <span class="em emphasis">-w</span> option specifies the user as a machine account.  Also, note the 
+		<span class="em emphasis">add machine script</span> parameter in <span class="file filename">/etc/samba/smb.conf</span> was changed to use <span class="app application">smbldap-useradd</span>.
+		</p>
+		</li>
+</ul></div>
+<p class="para">Il y a des utilitaires dans le paquet <span class="app application">smbldap-tools</span> qui n'ont pas été abordés ici. En voici la liste complète :</p>
+<div class="code"><pre class="contents "><a href="http://manpages.ubuntu.com/manpages/en/man8/smbldap-groupadd.8.html" class="ulink" title="http://manpages.ubuntu.com/manpages/en/man8/smbldap-groupadd.8.html">smbldap-groupadd</a>
+<a href="http://manpages.ubuntu.com/manpages/en/man8/smbldap-groupdel.8.html" class="ulink" title="http://manpages.ubuntu.com/manpages/en/man8/smbldap-groupdel.8.html">smbldap-groupdel</a>
+<a href="http://manpages.ubuntu.com/manpages/en/man8/smbldap-groupmod.8.html" class="ulink" title="http://manpages.ubuntu.com/manpages/en/man8/smbldap-groupmod.8.html">smbldap-groupmod</a>
+<a href="http://manpages.ubuntu.com/manpages/en/man8/smbldap-groupshow.8.html" class="ulink" title="http://manpages.ubuntu.com/manpages/en/man8/smbldap-groupshow.8.html">smbldap-groupshow</a>
+<a href="http://manpages.ubuntu.com/manpages/en/man8/smbldap-passwd.8.html" class="ulink" title="http://manpages.ubuntu.com/manpages/en/man8/smbldap-passwd.8.html">smbldap-passwd</a>
+<a href="http://manpages.ubuntu.com/manpages/en/man8/smbldap-populate.8.html" class="ulink" title="http://manpages.ubuntu.com/manpages/en/man8/smbldap-populate.8.html">smbldap-populate</a>
+<a href="http://manpages.ubuntu.com/manpages/en/man8/smbldap-useradd.8.html" class="ulink" title="http://manpages.ubuntu.com/manpages/en/man8/smbldap-useradd.8.html">smbldap-useradd</a>
+<a href="http://manpages.ubuntu.com/manpages/en/man8/smbldap-userdel.8.html" class="ulink" title="http://manpages.ubuntu.com/manpages/en/man8/smbldap-userdel.8.html">smbldap-userdel</a>
+<a href="http://manpages.ubuntu.com/manpages/en/man8/smbldap-userinfo.8.html" class="ulink" title="http://manpages.ubuntu.com/manpages/en/man8/smbldap-userinfo.8.html">smbldap-userinfo</a>
+<a href="http://manpages.ubuntu.com/manpages/en/man8/smbldap-userlist.8.html" class="ulink" title="http://manpages.ubuntu.com/manpages/en/man8/smbldap-userlist.8.html">smbldap-userlist</a>
+<a href="http://manpages.ubuntu.com/manpages/en/man8/smbldap-usermod.8.html" class="ulink" title="http://manpages.ubuntu.com/manpages/en/man8/smbldap-usermod.8.html">smbldap-usermod</a>
+<a href="http://manpages.ubuntu.com/manpages/en/man8/smbldap-usershow.8.html" class="ulink" title="http://manpages.ubuntu.com/manpages/en/man8/smbldap-usershow.8.html">smbldap-usershow</a>
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="samba-ldap-resources"><div class="inner">
+<div class="hgroup"><h2 class="title">Ressources</h2></div>
+<div class="region"><div class="contents"><div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+		<p class="para">Pour plus d'informations sur l'installation et la configuration de Samba, voir la section <a class="xref" href="samba.html" title="Samba">Samba</a> de ce guide du serveur Ubuntu.</p>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">
+		There are multiple places where LDAP and Samba is documented in the upstream
+		<a href="http://samba.org/samba/docs/man/Samba-HOWTO-Collection/" class="ulink" title="http://samba.org/samba/docs/man/Samba-HOWTO-Collection/">Samba HOWTO Collection</a>.
+		</p>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">Concernant ce qui précède, voir en particulier la <a href="http://samba.org/samba/docs/man/Samba-HOWTO-Collection/passdb.html" class="ulink" title="http://samba.org/samba/docs/man/Samba-HOWTO-Collection/passdb.html">section passdb</a>.</p>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">Bien que daté de 2007, le <a href="http://download.gna.org/smbldap-tools/docs/samba-ldap-howto/" class="ulink" title="http://download.gna.org/smbldap-tools/docs/samba-ldap-howto/">HOWTO Linux Samba-OpenLDAP</a> contient de précieuses notes .</p>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">La page principale de la <a href="https://help.ubuntu.com/community/Samba#samba-ldap" class="ulink" title="https://help.ubuntu.com/community/Samba#samba-ldap">documentation communautaire Samba Ubuntu</a> a une pléthore de liens vers des articles qui peuvent s'avérer utiles .</p>
+		</li>
+</ul></div></div></div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="openldap-server.html" title="Serveur OpenLDAP">Précédent</a><a class="nextlinks-next" href="kerberos.html" title="Kerberos">Suivant</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p></div>
+</div>
+</body>
+</html>

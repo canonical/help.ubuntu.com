@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang=oc>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Còpia e desplaçament de fichièrs e dorsièrs</title>
+<link rel="stylesheet" type="text/css" href="oc.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Guida del burèu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guide del burèu Ubuntu</a> » <a class="trail" href="files.html" title="Fichièrs, dorsièrs &amp; recèrcas">Fichièrs</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Còpia e desplaçament de fichièrs e dorsièrs</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Un fichièr o un dorsièr pòdon èsser copiats o desplaçats cap a un novèl emplaçament en les faisant lisar amb la mirga, en utilizant las comandas copiar-pegar o en utilizant les acorchis de clavièr.</p>
+<p class="p">Per exemple, podètz copiar una presentacion sus una clau USB per l'emmener amb vous al burèu, o encara far una còpia de salvament d'un document abans del modificar (et atal poder restablir la còpia se vous n'aimez pas vòstras modificacions).</p>
+<p class="p">Las proceduras seguentas s'aplican tanben bien als fichièrs qu'aux dorsièrs. Ils son copiats e desplaçats les uns e les autres exactament del meteis biais.</p>
+<div class="steps ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-steps"><h2><span class="title">Còpia de fichièrs</span></h2></div>
+<div class="region"><ol class="steps">
+<li class="steps"><p class="p">Seleccionatz lo fichièr que volètz copiar en clicant dessús un còp.</p></li>
+<li class="steps"><p class="p">Fasètz un clic dreit e causissètz <span class="gui">Copiar</span> o quichatz sus las tòcas <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span>.</p></li>
+<li class="steps"><p class="p">Desplaçatz-vos dins lo dorsièr dins lo qual volètz copiar aqueste fichièr.</p></li>
+<li class="steps"><p class="p">Fasètz un clic dreit e causissètz <span class="gui">Pegar</span> per finir de copiar lo fichièr, o quichatz sus <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>V</kbd></span></span>. Il i aura d'ara enlà una còpia del fichièr dins lo dorsièr d'origine e dins l'autre dorsièr.</p></li>
+</ol></div>
+</div>
+</div>
+<div class="steps ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-steps"><h2><span class="title">Desplaçament de fichièrs</span></h2></div>
+<div class="region"><ol class="steps">
+<li class="steps"><p class="p">Seleccionatz lo fichièr que volètz desplaçar en clicant dessús un còp.</p></li>
+<li class="steps"><p class="p">Fasètz un clic dreit e causissètz <span class="gui">Couper</span>, o quichatz sus las tòcas <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>X</kbd></span></span>.</p></li>
+<li class="steps"><p class="p">Desplaçatz-vos dins lo dorsièr dins lo qual volètz desplaçar aqueste fichièr.</p></li>
+<li class="steps"><p class="p">Fasètz un clic dreit e causissètz <span class="gui">Pegar</span> per finir lo desplaçament del fichièr, o quichatz sus <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>V</kbd></span></span>. Lo fichièr serà levat de son dorsièr d'origine e desplaçat cap a un autre dorsièr.</p></li>
+</ol></div>
+</div>
+</div>
+<div class="steps ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-steps"><h2><span class="title">Còpia o desplaçament de fichièrs per un simple lisament</span></h2></div>
+<div class="region"><ol class="steps">
+<li class="steps"><p class="p">Dobrissètz lo navigador de fichièrs e desplaçatz-vos dins lo dorsièr que conten lo fichièr que volètz copiar.</p></li>
+<li class="steps"><p class="p">Clicatz sus <span class="gui">Fichièr</span> dins la barra superiora e causissètz <span class="gui">Novèla fenèstra</span> (o quichatz sus las tòcas <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>N</kbd></span></span>) per dobrir una segonda fenèstra. Dins aquesta novèla fenèstra, dobrissètz lo dorsièr dins lo qual volètz copiar o desplaçar lo fichièr.</p></li>
+<li class="steps">
+<p class="p">Clicatz sul fichièr e fasètz-lo lisar d'una fenèstra a l'autre. Aquesta accion <span class="em">le déplaça</span> se sa destinacion es sul même periferic, o <span class="em">le copie</span> se sa destinacion se tròba sus un periferic diferent.</p>
+<p class="p">Per exemple, se vous fasètz lisar un fichièr a partir d'una clau USB cap a votre dorsièr personal, il serà automaticament copiat perque vous lo fasètz lisar d'un periferic a un autre.</p>
+<p class="p">Podètz forçar la còpia d'un fichièr en mantenent la tòca <span class="key"><kbd>Ctrl</kbd></span> quichada pendent lo desplaçament o forçar lo desplaçament en mantenent la tòca <span class="key"><kbd>Maj</kbd></span> quichada.</p>
+</li>
+</ol></div>
+</div>
+</div>
+<div class="note" title="Nòta"><div class="inner"><div class="region"><div class="contents"><p class="p">Podètz pas copiar o desplaçar un fichièr dins un dorsièr que es en <span class="em">lectura sola</span>. Certans dorsièrs ont aqueste estatut per vous empachar de modificar lor contengut. Podètz pasmens modificar aqueste estatut en <span class="link"><a href="nautilus-file-properties-permissions.html" title="Definicion des permissions d'accès">modifiant lors permissions</a></span>.</p></div></div></div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Mai d'entresenhas</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="files.html" title="Fichièrs, dorsièrs &amp; recèrcas">Fichièrs, dorsièrs &amp; recèrcas</a><span class="desc"> — <span class="link"><a href="files-search.html" title="Search for files or folders">Recèrca</a></span>, <span class="link"><a href="files-delete.html" title="Supression de fichièrs e de dorsièrs">supression de fichièrs</a></span>, <span class="link"><a href="files.html#backup" title="Salvaments">salvaments</a></span>, <span class="link"><a href="files.html#removable" title="Mèdias amovibles e disques extèrnes">periferics amovibles</a></span>, <span class="link"><a href="files.html#documents" title="Documents">documents</a></span>…</span>
+</li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Vejatz tanben</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="files-browse.html" title="Consultacion de vòstres fichièrs e dorsièrs">Consultacion de vòstres fichièrs e dorsièrs</a><span class="desc"> — Gerir e organizar los fichièrs amb lo gestionari de fichièrs.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

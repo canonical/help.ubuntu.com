@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang=zh-CN>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>我的计算机不能开启</title>
+<link rel="stylesheet" type="text/css" href="zh-CN.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="硬件 &amp; 驱动">硬件</a> › <a class="trail" href="hardware.html#problems" title="常见问题">问题</a> » <a class="trail" href="hardware-problems-graphics.html" title="屏幕问题">屏幕问题</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="硬件 &amp; 驱动">硬件</a> › <a class="trail" href="hardware.html#problems" title="常见问题">问题</a> » <a class="trail" href="power.html#problems" title="问题">电源问题</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">我的计算机不能开启</span></h1></div>
+<div class="region">
+<div class="contents"><p class="p">有多种原因造成计算机不能开启，本主题简要给出一些可能的原因。</p></div>
+<div id="nopower" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">计算机没有插电，电池没电或者电源插头松了</span></h2></div>
+<div class="region"><div class="contents"><p class="p">确保计算机电源插头牢固接在插座上，并且电源是通的，确保显示器接好也是打开的。如果是笔记本电脑，连接上充电插座(以免电池没电)。您还可以检查电池是否正确接入(检查笔记本的一边)。</p></div></div>
+</div></div>
+<div id="hardwareproblem" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">计算机硬件错误</span></h2></div>
+<div class="region"><div class="contents"><p class="p">A component of your computer may be broken or malfunctioning. If this is
+  the case, you will need to get your computer repaired. Common faults include
+  a broken power supply unit, incorrectly-fitted components (such as the
+  memory or RAM) and a faulty motherboard.</p></div></div>
+</div></div>
+<div id="beeps" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">计算机报警然后关闭</span></h2></div>
+<div class="region"><div class="contents"><p class="p">如果在开机的时候多次报警，然后自动关闭(或启动失败)，可能是检测到了一个错误。这些报警响铃次数有一个<span class="em">报警声代码</span>，不同的次数代表不同的错误。不同的主板有各自的响铃代码，因此，您得查询自己机子主板的代码，或者送去维修。</p></div></div>
+</div></div>
+<div id="fans" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">计算机风扇在转，但是屏幕上无显示</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">首先检查显示器插头是否接好，开关是否打开。</p>
+<p class="p">这个错误也可能是硬件问题，当您按下电源开关风扇通电，但是其他重要部分开启失败，如果是这样，请送去维修。</p>
+</div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">更多信息</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="hardware-problems-graphics.html" title="屏幕问题">屏幕问题</a><span class="desc"> — 屏幕和图像故障排除。</span>
+</li>
+<li class="links ">
+<a href="power.html#problems" title="问题">电源问题</a><span class="desc"> — 解决电源和电池问题</span>
+</li>
+</ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

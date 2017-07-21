@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=ug>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>سىمسىز باغلىنىشنى تەھرىرلەش</title>
+<link rel="stylesheet" type="text/css" href="ug.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="ئۇبۇنتۇ ئۈستەلئۈستى قوللانمىسى"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="ياردەم"></span></span> ئۇبۇنتۇ ئۈستەلئۈستى قوللانمىسى</a> » <a class="trail" href="net.html" title="تورغا باغلاش، تور كۆرۈش، ئېلخەت ۋە مۇڭدىشىش">تورغا باغلاش، تور كۆرۈش، ئېلخەت ۋە مۇڭدىشىش</a> » <a class="trail" href="net-wireless.html" title="سىمسىز تور">سىمسىز تور</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">سىمسىز باغلىنىشنى تەھرىرلەش</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">بۇنىڭدا سىمسىز تور باغلىنىشىنى تەھرىرلەشتە زۆرۈر بولغان بارلىق مەزمۇنلار سۆزلىنىدۇ. باغلىنىشنى تەھرىرلەش ئۈچۈن تىزىملىك بالداقتىكى  <span class="gui"> تور تىزىملىكى </span> نى چېكىپ، ئاندىن <span class="gui">باغلىنىشلارنى تەھرىرلە</span> نى تاللاڭ.</p>
+<div class="note" title="ئىزاھات"><div class="inner"><div class="region"><div class="contents"><p class="p">تەڭشەكلەرنى كۆڭۈلدىكى قىممىتى بىلەن قويۇپ قويسىمۇ نۇرغۇن تورلار نورمال ئىشلەۋېرىدۇ، شۇڭا تەڭشەكلەرنى ئۆزگەرتىشنىڭ زۆرۈرىيىتى يوق. كۆپ قىسىم تاللانمىلار تورنى تېخىمۇ ياخشى تىزگىنلەش ئۈچۈن تەمىنلەنگەن.</p></div></div></div></div>
+</div>
+<div id="available" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">بارلىق ئىشلەتكۈچىلەر ئىشلەتسۇن / ئاپتوماتىك باغلىنىش</span></h2></div>
+<div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">ئاپتوماتىك باغلىنىش</span></dt>
+<dd class="terms">
+<p class="p">ئەگەر كومپيۇتېر مەزكۇر سىمسىز تورنىڭ دائىرىسىگە كىرگەن ھامان ئاپتوماتىك ئۇلىنىشىنى خالىسىڭىز بۇ تاللانمىسىنى تاللاڭ.</p>
+<p class="p">ئاپتوماتىك باغلىنىش قىلىپ تەڭشەلگەن بىر قانچە تور دائىرە ئىچىدە بار بولۇپ قالسا، <span class="gui">سىمسىز</span> بەتكۈچىنىڭ <span class="gui">تور باغلىنىشلىرى</span> دېگەن كۆزنەكتىكى بىرىنچىسىغا باغلىنىدۇ. دائىرە ئىچىدە باشقا بىر ئىشلەتكىلى بولىدىغان تور پەيدا بولسا، ھەرگىزمۇ ھازىر باغلىنىۋاتقىنىدىن ئۈزۈلۈپ ئۇنىغا باغلانمايدۇ.</p>
+</dd>
+<dt class="terms"><span class="gui">بارلىق ئىشلەتكۈچىلەر ئىشلەتسۇن</span></dt>
+<dd class="terms">
+<p class="p">ئەگەر كومپيۇتېرنى ئىشلىتىدىغان بارلىق ئىشلەتكۈچىلەر مۇشۇ سىمسىز تورنى زىيارەت قىلسۇن دېسىڭىز، بۇنى تاللاڭ. ئەگەر سىمسىز تورنىڭ <span class="link"><a href="net-wireless-wepwpa.html" title="WEP ۋە WPA دېگەنلەرنىڭ مەنىسى نېمە؟">WEP/WPA ئىمى</a></span> بار بولۇپ، سىز بۇنى تاللىغان بولسىڭىز، ئىمنى بىرلا قېتىم كىرگۈزۈپ قويسىڭىزلا بولىدۇ. شۇنىڭ بىلەن باشقا ئىشلەتكۈچىلەر ئىم بارلىقىنى بىلمەيلا بۇ تورنى ئىشلىتەلەيدۇ.</p>
+<p class="p">ئەگەر بۇ تاللانسا، سىز چوقۇم <span class="link"><a href="user-admin-explain.html" title="باشقۇرۇش ئىمتىيازىنىڭ(privileges) خىزمىتى قانداق؟">باشقۇرغۇچى</a></span> بولۇشىڭىز كېرەك. بولمىسا بۇ تەڭشەكلەرنى ئۆزگەرتەلمەيسىز. سىزدىن باشقۇرغۇچىنىڭ ئىمىنى سورىشى مۇمكىن.</p>
+</dd>
+</dl></div></div></div></div></div>
+</div></div>
+<div id="wireless" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">سىمسىز</span></h2></div>
+<div class="region">
+<div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">SSID</span></dt>
+<dd class="terms"><p class="p">بۇ سىز باغلىنىۋاتقان سىمسىز تورنىڭ ئاتى بولۇپ، <span class="em">Service Set Identifier</span> نىڭ قىسقارتىلمىسى. ئەگەر سىمسىز يېتەكلىگۈچ ياكى ئاساسىي ئىستانسىنىڭ ئاتىنى ئۆزگەرتمىگەن بولسىڭىز، بۇ يەرنى ھەرگىز ئۆزگەرتمەڭ.</p></dd>
+<dt class="terms"><span class="gui">ھالىتى</span></dt>
+<dd class="terms">
+<p class="p">Use this to specify whether you are connecting to an <span class="gui">Infrastructure</span> network (one where computers wirelessly connect to a central base station or router) or an <span class="gui">Ad-hoc</span> network (where there is no base station, and the computers in the network connect to one another). Most networks are infrastructure ones; you may wish to <span class="link"><a href="net-wireless-adhoc.html" title="سىمسىز قىزىق نۇقتا قۇرۇش">set-up your own ad-hoc network</a></span> though.</p>
+<p class="p">ئەگەر <span class="gui">Ad-hoc</span> تاللانسا، ئىككى تاللانمىنى تاللاشقا توغرا كېلىدۇ. بىرى <span class="gui">بەلۋاغ(Band)</span> يەنە بىرى <span class="gui">قانال(Channel)</span>. بۇ ئىككىسى ئارقىلىق  سىمسىز ad-hoc  تورىدا ئىشلىتىدىغان چاستوتا بەلۋېغى بەلگىلىنىدۇ. بەزى كومپيۇتېرلار مەلۇم بەلۋېغىدىلا ئىشلەيدۇ(مەسىلەن: پەقەت <span class="gui">A</span> ياكى <span class="gui">B/G</span> دىلا). شۇڭا ئىككىلا كومپيۇتېردا ئورتاق ئىشلەتكىلى بولىدىغان بەلۋاغنى تاللىمىسا بولمايدۇ. بەزى تور قىستاڭچىلىقى بار يەرلەردە بىر قانچە سىمسىز تور ئوخشاش قانالنى تەڭ ئىشلىتىدىغان ئەھۋال بار. بۇنداقتا تور سۈرىتى ئاستا بولۇپ قالىدۇ، شۇڭا ئىشلىتىدىغان قانالنى ئۆزگەرتمىسە بولمايدۇ.</p>
+</dd>
+<dt class="terms"><span class="gui">BSSID</span></dt>
+<dd class="terms"><p class="p">بۇ <span class="em">ئاساسىي مۇلازىمەت كىملىكى(Basic Service Set Identifier)</span>. SSID نى ئادەملەر چۈشىنىدۇ. BSSID نى بولسا كومپيۇتېر چۈشىنىدۇ(ئۇ رەقەملەردىن تەركىب تاپقان تېكىست بولۇپ، سىمسىز تورنىڭ ئۆزىگە خاس بولىدۇ). ئەگەر <span class="link"><a href="net-wireless-hidden.html" title="يوشۇرۇن سىمسىز تورغا باغلىنىش">سىمسىز تور يوشۇرۇن</a></span> بولسا، ئۇنىڭ SSID سى بولمايدۇ، بىراق BSSID سى بولىدۇ.</p></dd>
+<dt class="terms"><span class="gui">ئۈسكۈنىنىڭ MAC ئادرېسى</span></dt>
+<dd class="terms">
+<p class="p">تور ئۈسكۈنىسىنىڭ <span class="link"><a href="net-macaddress.html" title="MAC ئادرېس دېگەن نېمە؟">MAC ئادرېسى</a></span> بولسا، تور ئۈسكۈنىسىنى پەرق قىلىشتا ئىشلىتىدىغان نومۇر(كود)دۇر(سىمسىز تور كارتىسى، Ethernet تور كارتىسى، تور يېتەكچىسى(router) نىڭ MAC ئادرېسى بولىدۇ). بۇ MAC ئادرېسىنى ئۇنى ئىشلىگەن زاۋۇتلار بېكىتىدۇ.</p>
+<p class="p">بۇ تاللانما تور كارتىڭىزنىڭ MAC ئادرېسىنى ئۆزگەرتىش ئۈچۈن ئىشلىتىلىدۇ.</p>
+</dd>
+<dt class="terms"><span class="gui">كۇلونلانغان MAC ئادرېس</span></dt>
+<dd class="terms"><p class="p">تور قاتتىق دېتالىنىڭ MAC ئادرېسىنى ئۆزگەرتىپ ئىشلەتكىلى بولىدۇ. بەزى يەرلەردە بەلگىلەنگەن MAC ئادرېسى بولغان ئۈسكۈنىلەرنىڭلا باغلىنىشىغا ئىجازەت بېرىدىغان قىلىپ بەلگىلەنگەن. بۇنداق ۋاقىتتا MAC ئادرېسىنى ئۆزگەرتىپ ئىشلەتسە، باغلانغىلى بولىدۇ. ئەگەر سىز <span class="gui">كۇلونلانغان MAC ئادرېس</span> كۆزنەكچىسىگە MAC ئادرېسنى كىرگۈزۈپ قويسىڭىز، ئۈسكۈنە ياكى مۇلازىمەت ھەقىقىي MAC ئادرېسىنى ئەمەس، مۇشۇنى ئىشلىتىدۇ.</p></dd>
+<dt class="terms"><span class="gui">MTU</span></dt>
+<dd class="terms"><p class="p">بۇ تەڭشەك ئارقىلىق <span class="em">ئەڭ چوڭ يەتكۈزۈش بىرلىكى</span> نى ئۆزگەرتىشكە بولىدۇ. ئەڭ چوڭ يەتكۈزۈش بىرلىكى بولسا توردا يەتكۈزۈلىدىغان ئەڭ چوڭ سانلىق-مەلۇمات توپىنىڭ چوڭلۇقىنى كۆرسىتىدۇ. توردا ھۆججەتلەرنى ئەۋەتكەندە سانلىق-مەلۇماتلار كىچىك-كىچىك توپلارغا(بوغچىمىلارغا) پارچىلىنىدۇ. مەزكۇر MTU مۇۋاپىق بەلگىلەنمىسە بوغچىمىلار يوقىلىپ كېتىدىغان(توردىكى كاشىلا سىگنالىنىڭ تۈپەيلىدىن) ياكى تور سۈرىتى ئاستا بولۇپ قالىدىغان ئەھۋال كۆرۈلىدۇ. ئادەتتە بۇنى ئۆزگەرتىشنىڭ زۆرۈرىيىتى يوق.</p></dd>
+</dl></div></div></div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">مۇناسىۋەتلىك مەزمۇنلار</span></h3></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless-hidden.html" title="يوشۇرۇن سىمسىز تورغا باغلىنىش">يوشۇرۇن سىمسىز تورغا باغلىنىش</a><span class="desc"> — تىزىملىك بالداقتىكى <span class="gui">تور تىزىملىكىنى</span> چېكىپ، ئۇنىڭدىن <span class="gui">يوشۇرۇن سىمسىز تورغا باغلان</span> نى تاللاڭ.</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+</div></div>
+<div id="security" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">سىمسىز تورنىڭ بىخەتەرلىكى</span></h2></div>
+<div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">بىخەتەرلىك</span></dt>
+<dd class="terms">
+<p class="p">بۇ سىمسىز توردا ئىشلىتىدىغان <span class="em">شىفىرلاش</span> نىڭ تىپىنى كۆرسىتىدۇ. ئالاقىدە شىفىرلاش ئىشلىتىلسە،باشقىلار ئارىلىشىۋېلىپ سانلىق-مەلۇماتلارنى كۆرەلمەيدۇ. ئەڭ ئاددىيسى،  بۇنىڭ بىلەن سىزنىڭ قانداق تور بەتلىرىنى كۆرۈۋاتقانلىقىڭىزنى باشقىلار «كۆرەلمەيدۇ، ئاڭلىيالمايدۇ».</p>
+<p class="p">بەزى شىفىرلاش ئۇسۇلى ئىنتايىن كۈچلۈك بولسىمۇ، بىر قىسىم كونا سىمسىز تور ئۈسكۈنىلىرىدە ئۇنى ئىشلەتكىلى بولمايدۇ. ئادەتتە باغلىنىش ئۈچۈن ئىم كىرگۈزۈش زۆرۈردۇر. بەزى پىشقان بىخەتەرلىك تەدبىرلىرىدە ئىشلەتكۈچى ئاتى بىلەن رەقەملىك «ئىسپاتنامە» زۆرۈردۇر. كۆپ ئىشلىتىدىغان سىمسىز شىفىرلاش ئۇسۇللىرى ھەققىدە <span class="link"><a href="net-wireless-wepwpa.html" title="WEP ۋە WPA دېگەنلەرنىڭ مەنىسى نېمە؟">WEP ۋە WPA دېگەنلەرنىڭ مەنىسى نېمە؟</a></span> گە قارالسۇن.</p>
+</dd>
+</dl></div></div></div></div></div>
+</div></div>
+<div id="ipv4" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">IPv4 تەڭشەكلىرى</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">بۇ بەتكۈچتە كومپيۇتېرنىڭ IP ئادرېسى ۋە كومپيۇتېر ئىشلىتىدىغان DNS مۇلازىمېتىرلىرىنى بېكىتىشكە بولىدۇ. بۇ ئۇچۇرلارغا ئېرىشىش ۋە بەلگىلەش ئۇسۇلىنى ئۆزگەرتىش ئۈچۈن <span class="gui">ئۇسۇل(Method)</span> نى ئۆزگەرتسە بولىدۇ.</p>
+<p class="p">تۆۋەندىكىدەك ئۇسۇللارنى ئىشلىتىشكە بولىدۇ:</p>
+<div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">ئاپتوماتىك(DHCP)</span></dt>
+<dd class="terms"><p class="p">IP ئادرېس بىلەن DNS مۇلازىمېتىرنىڭ ئۇچۇرلىرىنى <span class="em">DHCP مۇلازىمېتىرى</span> دىن ئالىدۇ. DHCP مۇلازىمېتىرى بولسا تورغا چېتىلغان، كومپيۇتېرىڭىز تۇنجى قېتىم باغلىنىدىغان، كومپيۇتېرىڭىز ئىشلىتىدىغان تور تەڭشەكلىرىنى بەلگىلەپ بېرىدىغان كومپيۇتېردۇر (ياكى تور يېتەكچىسى(router)). ئۇ بەلگىلەپ بەرگەن تەڭشەكلەر ئادەتتە توغرا بولىدۇ. بۇ كۆپلىگەن تورلاردا ئىشلىتىلىدۇ.</p></dd>
+<dt class="terms"><span class="gui">پەقەت ئاپتوماتىك(DHCP) ئادرېسلار</span></dt>
+<dd class="terms"><p class="p">بۇنى تاللىسا، كومپيۇتېر IP ئادرېسنى DHCP مۇلازىمېتىرىدىن ئالىدۇ. بىراق باشقا ئۇچۇرلارنى(DNS مۇلازىمېتىرى دېگەندەكلەرنى) قولدا تەڭشەشكە توغرا كېلىدۇ.</p></dd>
+<dt class="terms"><span class="gui">قولدا</span></dt>
+<dd class="terms"><p class="p">بۇنى تاللىغاندا تورغا مۇناسىۋەتلىك بارلىق نەرسىلەرنى قولدا تەڭشىمىسە بولمايدۇ.</p></dd>
+<dt class="terms"><span class="gui">پەقەت Link-Local</span></dt>
+<dd class="terms"><p class="p"><span class="em">يەرلىك باغلىنىش</span> توردىكى كومپيۇتېرلارنى بىر بىرىگە باغلايدىغان بىر خىل ئۇسۇل ئەمما DHCP مۇلازىمېتىر ياكى قولدا IP ئادرېس ۋە باشقا ئۇچۇرلارنى كىرگۈزۈش ھاجەتسىز. ئەگەر يەرلىك تورغا باغلانغان باغلىنىش، توردىكى كومپيۇتېرغا ئىشلىتىدىغان IP ئادرېس قاتارلىق ئۇچۇرلارنى ئۆزى بەلگىلەيدۇ. ئەگەر بىر قانچە كومپيۇتېرنى ۋاقىتلىق باغلاپ ئۆز ئارا ئۇچۇر ئالماشتۇرماقچى بولغاندا بۇ تاللانما ناھايىتى قۇلايلىق.</p></dd>
+<dt class="terms"><span class="gui">ئىناۋەتسىز قىلىنغان</span></dt>
+<dd class="terms"><p class="p">بۇ تاللانما تور باغلىنىشىنى چەكلەپ يەرلىك تورغا باغلىنىشىڭىزنىڭ ئالدىنى ئالىدۇ. دىققەت <span class="gui">IPv4</span> ۋە <span class="gui">IPv6</span> بىر تور كارتىسىغا ئىشلىتىلگەن تەقدىردىمۇ مۇستەقىل باغلىنىش دەپ قارايدۇ. ئەگەر ئارىسىدىن بىرى قوزغىتىلغان بولسا يەنە بىرىنى چەكلىشىڭىز زۆرۈر بولۇشى مۇمكىن.</p></dd>
+</dl></div></div></div>
+</div></div>
+</div></div>
+<div id="ipv6" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">IPv6 تەڭشەكلىرى</span></h2></div>
+<div class="region"><div class="contents"><p class="p">بۇ <span class="gui">IPv4</span> بەتكۈچىدىكى بىلەن ئاساسەن ئوخشاش، بىراق ئەڭ يېڭى بولغان IPv6 ئۆلچىمىنى ئىشلىتىدۇ. يېڭىدىن بارلىققا كېلىۋاتقان تورلار IPv6 نى ئىشلىتىدۇ، ئەمما IPv4 يەنىلا كۆپ ئىشلىتىلىدۇ.</p></div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">تېخىمۇ كۆپ ئۇچۇر</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless.html" title="سىمسىز تور">سىمسىز تور</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html" title="سىمسىز تورغا باغلىنىش">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html" title="يوشۇرۇن سىمسىز تورغا باغلىنىش">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-edit-connection.html" title="سىمسىز باغلىنىشنى تەھرىرلەش">Edit connection settings</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html" title="سىمسىز تور نېمىشقا ھەمىشە ئۈزۈلۈپ كېتىدۇ؟">Disconnecting</a></span>…
+    </span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

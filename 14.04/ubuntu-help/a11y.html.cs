@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang=cs>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Univerzální přístup</title>
+<link rel="stylesheet" type="text/css" href="cs.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Nápověda"></span></span> Průvodce pracovním prostředím Ubuntu</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Univerzální přístup</span></h1></div>
+<div class="region">
+<div class="contents"><p class="p">Prostředí Unity obsahuje Technologie usnadnění určené pro uživatele s různými postiženími a speciálními potřebami a podporu pro běžná asistivní zařízení. Mnoho funkcí usnadnění je dostupných ze sekce <span class="gui">Univerzální přístup</span> nabídky <span class="gui">Správa systému</span>.</p></div>
+<div id="vision" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Zraková postižení</span></h2></div>
+<div class="region"><div class="contents">
+<div class="links topiclinks"><div class="inner">
+<div class="title title-links"><h3><span class="title">Slepota</span></h3></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="a11y-screen-reader.html" title="Čtení obrazovky">Čtení obrazovky</a><span class="desc"> — Použití Čtečky obrazovky <span class="app">Orca</span> pro rozmluvení pracovního prostředí.</span>
+</li>
+<li class="links ">
+<a href="a11y-braille.html" title="Čtení obrazovky v Braillově písmu">Čtení obrazovky v Braillově písmu</a><span class="desc"> — Použití čtečky obrazovky <span class="app">Orca</span> společně s Braillovým řádkem.</span>
+</li>
+</ul></div>
+</div></div>
+<div class="links topiclinks"><div class="inner">
+<div class="title title-links"><h3><span class="title">Slabozrakost</span></h3></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="keyboard-cursor-blink.html" title="Nastavení blikání kurzoru klávesnice">Nastavení blikání kurzoru klávesnice</a><span class="desc"> — Nastavení blikání kurzoru klávesnice a rychlosti jeho blikání.</span>
+</li>
+<li class="links ">
+<a href="a11y-contrast.html" title="Nastavení kontrastu">Nastavení kontrastu</a><span class="desc"> — Nastavení nižšího nebo vyššího kontrastu oken a tlačítek pro jejich jednodušší nalezení.</span>
+</li>
+<li class="links ">
+<a href="a11y-font-size.html" title="Změna velikosti textu na obrazovce">Změna velikosti textu na obrazovce</a><span class="desc"> — Větší písmo pro lepší čtení textu.</span>
+</li>
+</ul></div>
+</div></div>
+</div></div>
+</div></div>
+<div id="sound" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Sluchová postižení</span></h2></div>
+<div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><ul><li class="links ">
+<a href="a11y-visualalert.html" title="Bliknout celou obrazovku při zvukovém upozornění">Bliknout celou obrazovku při zvukovém upozornění</a><span class="desc"> — Povolit vizuální signalizaci (bliknutí záhlavím okna nebo celou obrazovkou), když se objeví zvukové upozornění.</span>
+</li></ul></div></div></div></div></div>
+</div></div>
+<div id="mobility" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Pohybová postižení</span></h2></div>
+<div class="region"><div class="contents">
+<div class="links topiclinks"><div class="inner">
+<div class="title title-links"><h3><span class="title">Pohyb myši</span></h3></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="mouse-mousekeys.html" title="Click and move mouse pointer using the keypad">Click and move mouse pointer using the keypad</a><span class="desc"> — Povolte myš z klávesnice pro ovládání myši pomocí numerické klávesnice.</span>
+</li>
+<li class="links ">
+<a href="mouse-sensitivity.html" title="Nastavení rychlosti myši a touchpadu">Nastavení rychlosti myši a touchpadu</a><span class="desc"> — Nastavení rychlosti pohybu kurzoru při používání myši nebo touchpadu.</span>
+</li>
+</ul></div>
+</div></div>
+<div class="links topiclinks"><div class="inner">
+<div class="title title-links"><h3><span class="title">Ukazování a klikání</span></h3></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="mouse-doubleclick.html" title="Nastavení rychlosti dvojkliku">Nastavení rychlosti dvojkliku</a><span class="desc"> — Nastavení, jak rychle je třeba stisknout tlačítko myši podruhé pro dvojklik.</span>
+</li>
+<li class="links ">
+<a href="a11y-right-click.html" title="Simulace kliknutí pravým tlačítkem myši">Simulace kliknutí pravým tlačítkem myši</a><span class="desc"> — Stiskněte a držte levé tlačítko myši, provede se pravý klik.</span>
+</li>
+<li class="links ">
+<a href="a11y-dwellclick.html" title="Simulace kliknutí umístěním">Simulace kliknutí umístěním</a><span class="desc"> — Kliknutí posečkáním nabízí možnost kliknout pouhým pozastavením pohybu myši.</span>
+</li>
+</ul></div>
+</div></div>
+<div class="links topiclinks"><div class="inner">
+<div class="title title-links"><h3><span class="title">Používání klávesnice</span></h3></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="a11y-bouncekeys.html" title="Funkce vícenásobná zmáčknutí kláves">Funkce vícenásobná zmáčknutí kláves</a><span class="desc"> — Ignorovat rychlé dvojité stisky kláves.</span>
+</li>
+<li class="links ">
+<a href="keyboard-osk.html" title="Klávesnice na obrazovce">Klávesnice na obrazovce</a><span class="desc"> — Použití klávesnice na obrazovce pro zadávání textu pomocí klikání myší.</span>
+</li>
+<li class="links ">
+<a href="a11y-stickykeys.html" title="Kombinace kláves jedním prstem">Kombinace kláves jedním prstem</a><span class="desc"> — Psaní klávesových zkratek pomocí postupného stisknutí jednotlivých kláves místo jejich současného držení.</span>
+</li>
+<li class="links ">
+<a href="keyboard-nav.html" title="Navigace pomocí klávesnice">Navigace pomocí klávesnice</a><span class="desc"> — Použití aplikací a pracovního prostředí bez myši.</span>
+</li>
+<li class="links ">
+<a href="keyboard-repeat-keys.html" title="Vypnout opakování znaků při držení">Vypnout opakování znaků při držení</a><span class="desc"> — Zamezí opakování znaků při držení klávesy, případně změní rychlost opakování.</span>
+</li>
+<li class="links ">
+<a href="a11y-slowkeys.html" title="Zapnutí pomalých kláves">Zapnutí pomalých kláves</a><span class="desc"> — Nastavení zpoždění mezi stisknutím klávesy a objevením znaku na obrazovce.</span>
+</li>
+</ul></div>
+</div></div>
+</div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Další informace</span></h2></div>
+<div class="region"><ul><li class="links "><a href="index.html" title="Průvodce pracovním prostředím Ubuntu">Průvodce pracovním prostředím Ubuntu</a></li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

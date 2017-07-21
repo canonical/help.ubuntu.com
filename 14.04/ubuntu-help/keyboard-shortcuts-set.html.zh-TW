@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang=zh-TW>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>設定鍵盤捷徑鍵</title>
+<link rel="stylesheet" type="text/css" href="zh-TW.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Ubuntu 桌面版手冊"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="幫助"></span></span> Ubuntu 桌面版手冊</a> » <a class="trail" href="hardware.html" title="硬體與驅動程式">硬體</a> » <a class="trail" href="keyboard.html" title="鍵盤">鍵盤</a> » </div>
+<div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Ubuntu 桌面版手冊"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="幫助"></span></span> Ubuntu 桌面版手冊</a> » <a class="trail" href="prefs.html" title="使用者與系統設定值">設定值</a> » <a class="trail" href="keyboard.html" title="鍵盤">鍵盤</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">設定鍵盤捷徑鍵</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">若要改變鍵盤捷徑鍵的鍵值：</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">點擊選單列最右邊的圖示，選擇<span class="gui">系統設定值</span>。</p></li>
+<li class="steps"><p class="p">開啟<span class="gui">鍵盤</span>並選擇<span class="gui">捷徑鍵</span>分頁。</p></li>
+<li class="steps"><p class="p">Select a category in the left pane, and the row for the desired action
+      on the right. The current shortcut definition will change to
+      <span class="gui">New accelerator…</span></p></li>
+<li class="steps"><p class="p">Hold down the desired key combination, or press <span class="key"><kbd>Backspace</kbd></span> to
+      clear.</p></li>
+</ol></div></div></div>
+</div>
+<div id="custom" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">自訂捷徑鍵</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">若要建立您自己的鍵盤捷徑鍵：</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Select <span class="gui">Custom Shortcuts</span> in the left pane, and click the
+      <span class="key"><kbd>+</kbd></span> button (or click the <span class="key"><kbd>+</kbd></span> button in any category).
+      The <span class="gui">Custom Shortcut</span> window will appear.</p></li>
+<li class="steps"><p class="p">Type a <span class="gui">Name</span> to identify the shortcut, and a
+      <span class="gui">Command</span> to run an application, then click <span class="gui">Apply</span>.
+      For example, if you wanted the shortcut to open Rhythmbox, you could name
+      it <span class="input">Music</span> and use the <span class="input">rhythmbox</span> command.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Disabled</span> in the row that was just added. When it
+      changes to <span class="gui">New accelerator…</span>, hold down the desired shortcut
+      key combination.</p></li>
+</ol></div></div></div>
+<p class="p">您輸入的指令名稱應該要是一個有效的系統指令。您可以開啟一個「終端機」，在裡面輸入指令檢查它有沒有作用。開啟應用程式的指令可能不會跟應用程式的名稱一模一樣。</p>
+<p class="p">若您想要更改與自訂鍵盤捷徑鍵相關聯的指令，雙擊該捷徑鍵的<span class="em">名稱</span>。<span class="gui">自訂捷徑鍵</span>視窗將會出現，您便可以編輯指令。</p>
+</div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">更多資訊</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="keyboard.html" title="鍵盤">鍵盤</a><span class="desc"> — 
+      <span class="link"><a href="keyboard-layouts.html" title="Use alternative input sources">Input sources</a></span>,
+      <span class="link"><a href="keyboard-cursor-blink.html" title="讓鍵盤游標閃爍">cursor blinking</a></span>,
+      <span class="link"><a href="windows-key.html" title="什麼是「Super」鍵？">super key</a></span>,
+      <span class="link"><a href="a11y.html#mobility" title="行動障礙">keyboard accessibility</a></span>…
+    </span>
+</li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">另請參閱</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="keyboard-layouts.html" title="Use alternative input sources">Use alternative input sources</a><span class="desc"> — Add input sources and switch between them.</span>
+</li>
+<li class="links ">
+<a href="shell-keyboard-shortcuts.html" title="有用的鍵盤快捷鍵">有用的鍵盤快捷鍵</a><span class="desc"> — 一張鍵盤遊遍整個桌面。</span>
+</li>
+</ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang=fr>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Cliquer et déplacer le pointeur de la souris à l'aide du clavier</title>
+<link rel="stylesheet" type="text/css" href="fr.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide du bureau Ubuntu</a> » <a class="trail" href="a11y.html" title="Accès universel">Accès universel</a> › <a class="trail" href="a11y.html#mobility" title="Déficiences motrices">Déficiences motrices</a> » </div>
+<div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide du bureau Ubuntu</a> » <a class="trail" href="hardware.html" title="Matériel &amp; pilotes">Matériel</a> » <a class="trail" href="mouse.html" title="Souris">Souris</a> » </div>
+<div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide du bureau Ubuntu</a> » <a class="trail" href="prefs.html" title="Préférences utilisateur &amp; système">Paramétrages</a> » <a class="trail" href="mouse.html" title="Souris">Souris</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Cliquer et déplacer le pointeur de la souris à l'aide du clavier</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Si vous avez des problèmes à utiliser la souris ou d'autres périphériques de pointage, il est possible de contrôler le pointeur de la souris en utilisant le pavé numérique du clavier. Cette fonctionnalité est appelée <span class="em">touches de la souris</span>.</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Appuyez sur la touche <span class="key"><kbd><span class="link"><a href="windows-key.html" title="Qu'est-ce que la touche « Super » ?">Super</a></span></kbd></span> pour ouvrir le <span class="gui">Tableau de bord</span>.</p></li>
+<li class="steps"><p class="p">Saisissez <span class="input">Accès universel</span> et appuyez sur <span class="key"><kbd>Entrée</kbd></span> pour ouvrir les paramètres d'accès universel.</p></li>
+<li class="steps"><p class="p">Appuyez une fois sur la touche <span class="key"><kbd>Tab</kbd></span> pour sélectionner l'onglet <span class="gui">Vision</span></p></li>
+<li class="steps"><p class="p">Appuyez une fois sur <span class="key"><kbd>←</kbd></span> pour passer à l'onglet <span class="gui">Pointage et clic de souris</span>.</p></li>
+<li class="steps"><p class="p">Appuyez une fois sur <span class="key"><kbd>↓</kbd></span> pour sélectionner le commutateur <span class="gui">Touches de la souris</span>, appuyez ensuite sur <span class="key"><kbd>Entrée</kbd></span> pour l'activer.</p></li>
+<li class="steps"><p class="p">Vérifiez bien que la touche <span class="key"><kbd>Verr. Num.</kbd></span> n'est pas active. Vous pouvez maintenant déplacer le pointeur de la souris en utilisant le pavé numérique.</p></li>
+</ol></div></div></div>
+<div class="note note-tip" title="Astuce"><div class="inner"><div class="region"><div class="contents"><p class="p">Ces instructions sont la façon la plus rapide d'activer les touches de la souris en utilisant seulement le clavier. Sélectionnez <span class="gui">Paramètres d'accès universel</span> pour voir plus d'options d'accessibilité.</p></div></div></div></div>
+<p class="p">Le pavé numérique est un groupe de touches numériques sur le clavier, placés en général dans une disposition rectangulaire. Si votre clavier ne comporte pas de pavé numérique (comme par exemple avec un clavier d'ordinateur portable), il sera alors nécessaire de combiner d'autres touches du clavier avec la touche Fonction (<span class="key"><kbd class="key-Fn">Fn</kbd></span>) pour simuler le pavé numérique. Si vous utilisez souvent cette fonctionnalité sur un ordinateur portable, il peut être souhaitable d'acquérir un pavé numérique USB externe.</p>
+<p class="p">Chaque chiffre du pavé numérique correspond à une direction. Par exemple, un appui sur <span class="key"><kbd>8</kbd></span> déplace le pointeur vers le haut alors qu'un appui sur <span class="key"><kbd>2</kbd></span> le déplace vers le bas. Appuyez sur <span class="key"><kbd>5</kbd></span> pour un simple clic de la souris ou appuyez deux fois successivement pour obtenir un double-clic.</p>
+<p class="p">La plupart des claviers comportent une touche spéciale qui permet d'effectuer un clic droit ; elle se trouve souvent près de la barre d'espace. Remarquez toutefois que cette touche agit à l'endroit où le focus du clavier se trouve et non pas à la position du pointeur de la souris. Consultez <span class="link"><a href="a11y-right-click.html" title="Simulation d'un clic droit de la souris">Simulation d'un clic droit de la souris</a></span> pour savoir comment effectuer un clic droit en appuyant sur la touche <span class="key"><kbd>5</kbd></span> ou sur le bouton gauche de la souris.</p>
+<p class="p">Si vous souhaitez utiliser le pavé numérique pour saisir des nombres alors que les touches de la souris sont activées, activez la touche <span class="key"><kbd>Verr. Num.</kbd></span>. La souris ne peut plus être contrôlée par le pavé numérique lorsque cette touche est activée.</p>
+<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">Les touches de chiffres normales, alignées au-dessus des lettres du clavier, ne peuvent pas être utilisées pour contrôler le pointeur de la souris. Seules les touches du pavé numérique peuvent jouer ce rôle.</p></div></div></div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
+<div class="region"><ul>
+<li class="links "><a href="a11y.html#mobility" title="Déficiences motrices">Déficiences motrices</a></li>
+<li class="links ">
+<a href="mouse.html" title="Souris">Souris</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="Utilisation de la souris avec la main gauche">Utilisation pour gauchers</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Adapter la rapidité de la souris et du pavé tactile">vitesse et sensibilité</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Cliquer, glisser ou faire défiler à l'aide du pavé tactile">clic et défilement avec le pavé tactile</a></span>…</span>
+</li>
+</ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Voir aussi</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="mouse-disabletouchpad.html" title="Désactivation du pavé tactile lors de la frappe">Désactivation du pavé tactile lors de la frappe</a><span class="desc"> — Désactiver le pavé tactile lors de la saisie de texte pour éviter des clics inopportuns.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

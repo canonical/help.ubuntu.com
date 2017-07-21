@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang=el>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Εκκίνηση εφαρμογών</title>
+<link rel="stylesheet" type="text/css" href="el.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Εκκίνηση εφαρμογών</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Μετακινήστε τον δείκτη ποντικιού στη γωνία <span class="gui">Δραστηριότητες</span> πάνω αριστερά στην οθόνη για να εμφανίσετε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span>. Από εκεί μπορείτε να βρείτε όλες τις εφαρμογές σας. Μπορείτε επίσης να ανοίξετε την επισκόπηση πατώντας το πλήκτρο <span class="key"><a href="keyboard-key-super.html" title="Τι είναι το πλήκτρο Λογότυπο;"><kbd>Λογότυπο</kbd></a></span></p>
+<p class="p">Υπάρχουν πολλοί τρόποι να ανοίξετε μια εφαρμογή μόλις είσαστε στην επισκόπηση <span class="gui">Δραστηριότητες</span>:</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p">Αρχίστε πληκτρολογώντας το όνομα μιας εφαρμογής - η αναζήτηση ξεκινά αμέσως. (Εάν αυτό δεν συμβεί, κάντε κλικ στη γραμμή αναζήτησης στο πάνω μέρος της οθόνης και αρχίστε την πληκτρολόγηση.) Αν δεν γνωρίζετε το ακριβές όνομα της εφαρμογής, πληκτρολογήστε ένα σχετικό όρο. Κάντε κλικ στο εικονίδιο της εφαρμογής για να ξεκινήσετε.</p></li>
+<li class="list">
+<p class="p">Μερικές εφαρμογές έχουν εικονίδια στο <span class="em">ταμπλό</span>, την κάθετη λουρίδα εικονιδίων στα αριστερά της επισκόπησης <span class="gui">Δραστηριότητες</span>. Κάντε κλικ σε ένα από αυτά για να ξεκινήσετε την αντίστοιχη εφαρμογή.</p>
+<p class="p">Εάν έχετε εφαρμογές που χρησιμοποιείτε πολύ συχνά, μπορείτε να <span class="link"><a href="shell-apps-favorites.html" title="Βάλτε τις αγαπημένες σας εφαρμογές στο ταμπλό">τις προσθέσετε στο ταμπλό</a></span>.</p>
+</li>
+<li class="list"><p class="p">Κάντε κλικ στο κουμπί πλέγματος στο κάτω μέρος του ταμπλό. Θα δείτε τις συχνά χρησιμοποιούμενες εφαρμογές αν η προβολή <span class="gui">Συχνά</span> είναι ενεργή. Αν θέλετε να εκτελέσετε μια νέα εφαρμογή, πατήστε το κουμπί <span class="gui">Όλα</span> στο κάτω μέρος για την προβολή όλων των εφαρμογών. Πατήστε σε μια εφαρμογή για την εκκίνησή της.</p></li>
+<li class="list">
+<p class="p">Μπορείτε να εκκινήσετε μια εφαρμογή σε έναν ξεχωριστό <span class="link"><a href="shell-workspaces.html" title="Τι είναι ένας χώρος εργασίας και πώς θα με βοηθήσει;">χώρο εργασίας</a></span> μεταφέροντας το εικονίδιο τους από το ταμπλό και αποθέτοντας την σε έναν από τους χώρους εργασίας στα δεξιά της οθόνης. Η εφαρμογή θα ανοίξει στον επιλεγμένο χώρο εργασίας.</p>
+<p class="p">Μπορείτε να εκκινήσετε μια εφαρμογή σε ένα <span class="em">νέο</span> χώρο, μεταφέροντας το εικονίδιο στον κενό χώρο εργασίας κάτω από τον εναλλάκτη, ή ανάμεσα στο μικρό κενό μεταξύ δύο χώρων εργασίας.</p>
+</li>
+</ul></div></div></div>
+<div class="note note-tip" title="Συμβουλή"><div class="inner">
+<div class="title title-note"><h2><span class="title">Γρήγορη εκτέλεση μιας εντολής</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Ένας άλλος τρόπος εκκίνησης μιας εφαρμογής είναι πατώντας <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span>, εισάγετε το <span class="em">όνομα εντολής</span> του και έπειτα πατήστε το πλήκτρο <span class="key"><kbd>Enter</kbd></span>.</p>
+<p class="p">Για παράδειγμα, για να ξεκινήσετε το <span class="app">Rhythmbox</span>, πατήστε <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> και πληκτρολογήστε <span class="cmd">rhythmbox</span>. Το όνομα της εφαρμογής είναι η εντολή εκκίνησης του προγράμματος.</p>
+</div></div>
+</div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="shell-overview.html" title="Η επιφάνεια εργασία σας">Η επιφάνεια εργασία σας</a><span class="desc"> — <span class="link"><a href="clock-calendar.html" title="Συναντήσεις ημερολογίου">Ημερολόγιο</a></span>, <span class="link"><a href="shell-notifications.html" title="Ειδοποιήσεις και η περιοχή ειδοποιήσεων">ειδοποιήσεις</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Χρήσιμες συντομεύσεις πληκτρολογίου">συντομεύσεις πληκτρολογίου</a></span>, <span class="link"><a href="shell-windows.html" title="Παράθυρα και χώροι εργασίας">παράθυρα και χώροι εργασίας</a></span>…</span>
+</li>
+<li class="links "><a href="index.html" title="Οδηγός χρήσης Ubuntu">Οδηγός χρήσης Ubuntu</a></li>
+</ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
+<div class="region"><ul>
+<li class="links "><a href="gs-use-system-search.html" title="Χρησιμοποιήστε το σύστημα αναζήτησης">Ένα μάθημα στη χρήση του συστήματος αναζήτησης</a></li>
+<li class="links "><a href="gs-launch-applications.html" title="Εκκίνηση εφαρμογών">Ένα μάθημα στην εκκίνηση εφαρμογών</a></li>
+<li class="links ">
+<a href="shell-apps-favorites.html" title="Βάλτε τις αγαπημένες σας εφαρμογές στο ταμπλό">Βάλτε τις αγαπημένες σας εφαρμογές στο ταμπλό</a><span class="desc"> — Προσθέστε (ή αφαιρέστε) εικονίδια προγραμμάτων που χρησιμοποιούνται συχνά στο ταμπλό.</span>
+</li>
+</ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

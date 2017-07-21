@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=ms-MS>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Klik-tengah</title>
+<link rel="stylesheet" type="text/css" href="ms.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html" title="Pemacu &amp; perkakasan">Perkakasan</a> » <a class="trail" href="mouse.html" title="Tetikus">Tetikus</a> › <a class="trail" href="mouse.html#tips" title="Petua">Petua</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="tips.html" title="Petua &amp; trik">Petua &amp; trik</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html" title="Tetapan pengguna &amp; sistem">Tetapan</a> » <a class="trail" href="mouse.html" title="Tetikus">Tetikus</a> › <a class="trail" href="mouse.html#tips" title="Petua">Petua</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Klik-tengah</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Kebanyakan tetikus dan beberapa pad sentuh mempunyai butang tetikus tengah. Pada tetikus dengan roda tatal, anda tekan terus pada roda tatal untuk klik-tengah. Jika anda tidak mempunyai butang tetikus tengah, anda boleh tekan butang tetikus kiri dan kanan pada masa yang sama untuk lakukan klik-tengah. Jika anda tidak boleh mengklik-tengah dengan cara ini anda boleh cuba <span class="link"><a href="https://wiki.ubuntu.com/X/Quirks#A2-button_Mice" title="https://wiki.ubuntu.com/X/Quirks#A2-button_Mice"> arahan ini</a></span>.</p>
+<p class="p">Pada pad sentuh yang menyokong tap jari-berbilang, anda boleh tap dengan tiga jari serentak untuk lakukan klik-tengah. Anda perlu  <span class="link"><a href="mouse-touchpad-click.html" title="Klik, seret, atau tatal melalui pad sentuh">benarkan mengklik tap</a></span> dalam tetapan pad sentuh supaya ia berfungsi.</p>
+<p class="p">Kebanyakan aplikasi menggunakan klik-tengah untuk pintasan klik lanjutan.</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list">
+<p class="p">Satu pintasan umum ialah tampal teks terpilih. (Ia kadangkala dikenali sebagai tampal pemilihan utama). Pilih teka yang anda hendak tampal, kemudian pergi ke tempat yang anda hendak tampalkan dan klik-tengah. Teks yang terpilih akan ditampal pada kedudukan tetikus.</p>
+<p class="p">Menampal teks dengan butang tengah tetikus anda adalah berbeza dari papan keratan biasa. Memilih teks tidak menyalin ia ke papan keratan anda. Kaedah pantas menampal hanya berfungsi dengam butang tengah tetikus.</p>
+</li>
+<li class="list"><p class="p">Pada palang tatal dan pelungsur, klik biasa dalam ruang kosong akan menggerak (seperti satu halaman) dalam arah yang anda klik. Anda juga boleh klik-tengah dalam ruang kosong untuk gerak ke lokasi yang anda klik.</p></li>
+<li class="list"><p class="p">Anda boleh buka tetingkap baru dengan pantas untuk membuka sesebuah aplikasi dengan klik-tengah. Hanya klik-tengah pada ikon aplikasi, sama ada di dalam <span class="gui">Pelancar</span> disebelah kiri, atau dalam <span class="gui">Pemuka</span>.</p></li>
+<li class="list"><p class="p">Kebanyakan pelayar sesawang membenarkan anda buka pautan dalam tab secara pantas dengan butang tengah tetikus. Hanya klik mana-mana pautan dengan butang tengah tetikus anda, dan ia akan dibuka dalam tab baru. Berhati-hati mengklik pautan dalam pelayar sesawang <span class="app">Firefox</span>. Dalam <span class="app">Firefox</span>, jika anda klik-tengah dimana sahaja kecuali pada pautan, ia akan cuba muatkan teks terpilih anda sebagai URL, sebagaimana anda guna klik-tengah untuk tampal ia ke palang lokasi dan menekan kekunci <span class="key"><kbd>Enter</kbd></span>.</p></li>
+<li class="list"><p class="p">Dalam pengurus fail, klik-tengah mempunyai dua peranan. Jika anda klik-tengah folder, ia akan buka tab baru. Ia meniru kelakuan pelayar sesawang yang terkenal. Jika anda klik-tengah satu fail, ia akan buka fail, sepertimana anda membuat dwi-klik.</p></li>
+</ul></div></div></div>
+<p class="p">Beberapa aplikasi khas membenarkan anda guna butang tengah tetikus untuk fungsi lain. Gelintar bantuan aplikasi anda mengenai <span class="em">klik-tengah</span> atau <span class="em">butang tetikus tengah</span>.</p>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">More Information</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="tips.html" title="Petua &amp; trik">Petua &amp; trik</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Masukkan aksara khas">Aksara khas</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Klik-tengah">pintasan klik tengah</a></span>…</span>
+</li>
+<li class="links "><a href="mouse.html#tips" title="Petua">Petua tetikus</a></li>
+</ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang=de>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>pam_motd</title>
+<link rel="stylesheet" type="text/css" href="de.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Ubuntu–Server-Leitfaden">Ubuntu–Server-Leitfaden</a> » <a class="trail" href="other-useful-applications.html" title="Weitere nützliche Anwendungen">Weitere nützliche Anwendungen</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="other-useful-applications.html" title="Weitere nützliche Anwendungen">Zurück</a><a class="nextlinks-next" href="etckeeper.html" title="etckeeper">Weiter</a>
+</div>
+<div class="hgroup"><h1 class="title">pam_motd</h1></div>
+<div class="region">
+<div class="contents">
+<p class="para">Wenn Sie sich an einem Ubuntu-Server anmelden, haben Sie vielleicht den Tipp des Tages (informative Message Of The Day (MOTD)) bemerkt. Dieser Tipp wird unter der Verwendung einiger Pakete erstellt und angezeigt.</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+        <p class="para">
+        <span class="em emphasis">landscape-common:</span> provides the core libraries of <span class="app application">landscape-client</span>,
+	which is needed to manage systems with <a href="http://landscape.canonical.com/" class="ulink" title="http://landscape.canonical.com/">Landscape</a> (proprietary).  Yet the package also includes
+        the <span class="app application">landscape-sysinfo</span> utility which is responsible for displaying core system data involving cpu, memory, disk space, etc.  For instance:
+        </p>
+
+<div class="screen"><pre class="contents "><span class="output computeroutput">
+	  System load:  0.0               Processes:           76
+	  Usage of /:   30.2% of 3.11GB   Users logged in:     1
+	  Memory usage: 20%               IP address for eth0: 10.153.107.115
+	  Swap usage:   0%
+
+	  Graph this data and manage this system at https://landscape.canonical.com/
+</span>
+</pre></div>
+
+        <div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents">
+                <p class="para">
+                You can run landscape-sysinfo manually at any time.
+                </p>
+        </div></div></div></div>
+
+      </li>
+<li class="list itemizedlist">
+        <p class="para">
+        <span class="em emphasis">update-notifier-common:</span> provides information on available package updates, impending filesystem checks (fsck), and required reboots (e.g.: after a kernel upgrade).
+        </p>
+      </li>
+</ul></div>
+<p class="para"><span class="app application">pam_motd</span> führt die Skripte im Verzeichnis <span class="file filename">/etc/update-motd.d</span> in der Reihenfolge aus, wie die Zahlen angeben, die den Dateinamen der Skripte vorangestellt sind. Die Ausgaben der Skripte werden in die Datei <span class="file filename">/var/run/motd</span> in ebenfalls dieser Reihenfolge gespeichert und zum Schluss um dem Inhalt der Datei <span class="file filename">/etc/motd.tail</span> ergänzt.</p>
+<p class="para">Sie können Ihre eigenen dynamischen Informationen zu der MOTD hinzufügen. Für beispielsweise lokale Wetterinformationen:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+        <p class="para">Installieren Sie zunächst das Paket <span class="app application">weather-util</span>:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt-get install weather-util</span>
+</pre></div>
+
+      </li>
+<li class="list itemizedlist">
+        <p class="para">Das <span class="app application">weather</span>-Werkzeug benutzt METAR-Daten der National Oceanic and Atmospheric Administration und Vorhersagen des National Weather Service. Um lokale Informationen zu finden, benötigen sie den vierstelligen ICAO-Ortsindikator. Dieser kann über die Seite <a href="http://www.weather.gov/tg/siteloc.shtml" class="ulink" title="http://www.weather.gov/tg/siteloc.shtml">National Weather Service</a> herausgefunden werden.</p>
+
+        <p class="para">Obwohl der National Weather Service eine Regierungseinrichtung der Vereinigten Staaten ist, sind weltweite Wetter-Stationen verfügbar. Allerdings kann es vorkommen, dass für Orte außerhalb der U.S. keine Informationen verfügbar sind.</p>
+      </li>
+<li class="list itemizedlist">
+        <p class="para">Erstellen Sie ein einfaches Shell-Skrip  <span class="file filename">/usr/local/bin/local-weather</span> um <span class="app application">weather</span> mit ihrem lokalen ICAO-Indikator zu benutzen:</p>
+
+<div class="code"><pre class="contents ">#!/bin/sh
+#
+#
+# Gibt lokale Wetterinformationen für den MOTD aus.
+#
+#
+
+# Ersetzen Sie KINT durch Ihre lokale Wetterstation.
+# Lokale Wetterstationen finden Sie hier: http://www.weather.gov/tg/siteloc.shtml
+
+echo
+weather -i KINT
+echo
+
+</pre></div>
+      </li>
+<li class="list itemizedlist">
+        <p class="para">Machen Sie das Skript ausführbar:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo chmod 755 /usr/local/bin/local-weather</span>
+</pre></div>
+      </li>
+<li class="list itemizedlist">
+        <p class="para">Erzeugen Sie als nächstes eine symbolische Verknüpfung zu <span class="file filename">/etc/update-motd.d/98-local-weather</span>:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ln -s /usr/local/bin/local-weather /etc/update-motd.d/98-local-weather</span>
+</pre></div>
+      </li>
+<li class="list itemizedlist">
+        <p class="para">Zuletzt melden Sie sich vom Server ab und melden sich erneut an, um die neue MOTD zu betrachten.</p>
+      </li>
+</ul></div>
+<p class="para">Sie sollten nun mit einigen nützlichen Informationen, als auch einigen Informationen über das örtliche Wetter begrüßt werden, die evtl. nicht ganz so nützlich sind. Hoffentlich wurde Ihnen durch das Beispiel mit <span class="app application">local-weather</span> die Flexibilität von <span class="app application">pam_motd</span> demonstriert.</p>
+</div>
+<div class="links sectionlinks" role="navigation"><ul><li class="links"><a class="xref" href="pam_motd.html#pam_motd-resources" title="Quellen">Quellen</a></li></ul></div>
+<div class="sect2 sect" id="pam_motd-resources"><div class="inner">
+<div class="hgroup"><h2 class="title">Quellen</h2></div>
+<div class="region"><div class="contents"><div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+	<p class="para">
+        See the <a href="http://manpages.ubuntu.com/manpages/trusty/en/man5/update-motd.5.html" class="ulink" title="http://manpages.ubuntu.com/manpages/trusty/en/man5/update-motd.5.html">update-motd man page</a> for
+        more options available to <span class="app application">update-motd</span>.
+	</p>
+	</li>
+<li class="list itemizedlist">
+        <p class="para">Der Debian-Paket-des-Tages-Artikel <a href="http://debaday.debian.net/2007/10/04/weather-check-weather-conditions-and-forecasts-on-the-command-line/" class="ulink" title="http://debaday.debian.net/2007/10/04/weather-check-weather-conditions-and-forecasts-on-the-command-line/">weather</a> hat mehr Details über die Benutzung des <span class="app application">weather</span>-Werkzeugs.</p>
+        </li>
+</ul></div></div></div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="other-useful-applications.html" title="Weitere nützliche Anwendungen">Zurück</a><a class="nextlinks-next" href="etckeeper.html" title="etckeeper">Weiter</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p></div>
+</div>
+</body>
+</html>

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=zh-TW>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>選擇或停用警示音效</title>
+<link rel="stylesheet" type="text/css" href="zh-TW.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Ubuntu 桌面版手冊"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="幫助"></span></span> Ubuntu 桌面版手冊</a> » <a class="trail" href="prefs.html" title="使用者與系統設定值">設定值</a> » <a class="trail" href="media.html#sound" title="基本音效">音效</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">選擇或停用警示音效</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">出現特定類型的訊息或事件時，您的電腦會播放一個簡單的警示音效。您可以選擇不同的聲音片段當作警示音效，設定它們並不會影響系統音效。您也可以將警示音效關掉。</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">點擊<span class="gui">選單列</span>上的<span class="gui">音效選單</span>，再點擊<span class="gui">音效設定值</span>。</p></li>
+<li class="steps"><p class="p">在<span class="gui">聲音效果</span>分頁下選擇一種警示音效。當您點選某個音效的同時，也會播放該音效，可以聽聽它到底是什麼樣子。</p></li>
+</ol></div></div></div>
+<p class="p">用<span class="gui">聲音效果</span>分頁下的音量滑桿，設定警示音效的音量。這不會對您的音樂、電影，或是其他音訊檔造成影響。</p>
+<p class="p">若要完全停用警示音效，只要選擇<span class="gui">警示音量</span>旁邊的<span class="gui">靜音</span>即可。</p>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">更多資訊</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="media.html#sound" title="基本音效">基本音效</a><span class="desc"> — 
+     <span class="link"><a href="sound-volume.html" title="改變聲音的音量">Volume</a></span>,
+     <span class="link"><a href="sound-usespeakers.html" title="使用不同的喇叭或耳機">speakers and headphones</a></span>,
+     <span class="link"><a href="sound-usemic.html" title="使用不同的麥克風">microphones</a></span>…
+   </span>
+</li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">另請參閱</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="a11y-visualalert.html" title="為警示音效閃動螢幕">為警示音效閃動螢幕</a><span class="desc"> — 當播放警示音效時，啟用視覺警示閃動螢幕、視窗。</span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

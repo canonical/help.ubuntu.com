@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang=hu>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Bacula</title>
+<link rel="stylesheet" type="text/css" href="hu.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../16.04" class="trail">Ubuntu 16.04</a> » <a class="trail" href="index.html" title="Ubuntu kiszolgáló kézikönyve">Ubuntu kiszolgáló kézikönyve</a> » <a class="trail" href="backups.html" title="Biztonsági mentés">Biztonsági mentés</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="backups-shellscripts-rotation.html" title="Archívumforgatás">Előző</a><a class="nextlinks-next" href="virtualization.html" title="Virtualizáció">Következő</a>
+</div>
+<div class="hgroup"><h1 class="title">Bacula</h1></div>
+<div class="region">
+<div class="contents"><p class="para">
+    <span class="app application">Bacula</span> is a backup program enabling you to backup, restore, and verify data across your network. There are Bacula 
+    clients for Linux, Windows, and Mac OS X - making it a cross-platform network wide solution.
+    </p></div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="bacula.html#bacula-overview" title="Áttekintés">Áttekintés</a></li>
+<li class="links"><a class="xref" href="bacula.html#bacula-installation" title="Telepítés">Telepítés</a></li>
+<li class="links"><a class="xref" href="bacula.html#bacula-configuration" title="Beállítás">Beállítás</a></li>
+<li class="links"><a class="xref" href="bacula.html#bacula-localhost-backup" title="Helyi gép mentése">Helyi gép mentése</a></li>
+<li class="links"><a class="xref" href="bacula.html#bacula-resources" title="Információforrások">Információforrások</a></li>
+</ul></div>
+<div class="sect2 sect" id="bacula-overview"><div class="inner">
+<div class="hgroup"><h2 class="title">Áttekintés</h2></div>
+<div class="region"><div class="contents">
+<p class="para">
+      <span class="app application">Bacula</span> is made up of several components and services used to manage which files to backup and backup locations:
+      </p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+          <p class="para"><span class="app application">Bacula Director:</span> ez a szolgáltatás vezérli az összes mentési, visszaállítási, ellenőrzési és archiválási műveletet.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="app application">Bacula Console:</span> ez az alkalmazás lehetővé teszi a kommunikációt a Directorral. A konzolnak három változata van:</p>
+	  <div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist"><p class="para">Szövegalapú parancssori verzió.</p></li>
+<li class="list itemizedlist"><p class="para">Gnome-alapú GTK+ felület.</p></li>
+<li class="list itemizedlist"><p class="para">wxWidgets grafikus felület.</p></li>
+</ul></div>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="app application">Bacula File:</span> ez ismert <span class="app application">Bacula Client</span> programként is. Ezt az alkalmazást a mentendő gépekre kell telepíteni, és a Director által kért adatokért felelős.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="app application">Bacula Storage:</span> az adatok fizikai adathordozóra mentését és visszaállítását végrehajtó programok.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="app application">Bacula Catalog:</span> az összes mentett fájl fájlindexeinek és kötetadatbázisainak karbantartásáért felelős, lehetővé téve az összes archivált fájl gyors megkeresését és visszaállítását. A Catalog három különböző adatbázis-kezelőt támogat, ezek a MySQL, PostgreSQL és SQLite.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="app application">Bacula Monitor:</span> lehetővé teszi a Director, a File démonok és a Storage démonok megfigyelését. A Monitor jelenleg csak GTK+ felületű alkalmazásként érhető el.</p>
+        </li>
+</ul></div>
+<p class="para">Ezek a szolgáltatások és alkalmazások több kiszolgálón és kliensen is futhatnak, vagy telepíthetők egy gépre is, ha csak egy lemezt vagy kötetet kell menteni.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="bacula-installation"><div class="inner">
+<div class="hgroup"><h2 class="title">Telepítés</h2></div>
+<div class="region"><div class="contents">
+<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents">
+        <p class="para">
+        If using MySQL or PostgreSQL as your database, you should already have the services available.
+        <span class="app application">Bacula</span> will not install them for you.
+        </p>
+      </div></div></div></div>
+<p class="para">A különböző <span class="app application">Bacula</span> összetevőket több csomag tartalmazza. A Bacula telepítéséhez adja ki a következő parancsot:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install bacula</span>
+</pre></div>
+<p class="para">Alapértelmezésben a <span class="app application">bacula</span> csomag egy <span class="app application">MySQL</span> adatbázist használ a Cataloghoz. Ha inkább a SQLite vagy PostgreSQL egyikét szeretné használni, akkor telepítse a <span class="app application">bacula-director-sqlite3</span> vagy <span class="app application">bacula-director-pgsql</span> csomagot.</p>
+<p class="para">A telepítési folyamat bekéri az adatbázis <span class="em emphasis">adminisztrátorának</span> és a <span class="em emphasis">bacula</span> adatbázis <span class="em emphasis">tulajdonosának</span> hitelesítési adatait. Az adatbázis adminisztrátorának rendelkeznie kell az adatbázis létrehozásához szükséges jogosultságokkal, további információkért lásd a <a class="xref" href="mysql.html" title="MySQL">MySQL</a> szakaszt.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="bacula-configuration"><div class="inner">
+<div class="hgroup"><h2 class="title">Beállítás</h2></div>
+<div class="region"><div class="contents">
+<p class="para">A <span class="app application">Bacula</span> konfigurációs fájljai a <span class="quote">„{}”</span> zárójelekkel határolt <span class="em emphasis">direktívákból</span> álló <span class="em emphasis">erőforrások</span> alapján vannak formázva. Minden Bacula-összetevőhöz tartozik egy önálló fájl az <span class="file filename">/etc/bacula</span> könyvtárban.</p>
+<p class="para">A különböző <span class="app application">Bacula</span>-összetevőknek fel kell hatalmazniuk magukat egymás felé. Erre szolgál a <span class="em emphasis">password</span> direktíva. A <span class="em emphasis">Storage</span> erőforrás jelszavának például az <span class="file filename">/etc/bacula/bacula-dir.conf</span> fájlban meg kell egyeznie a <span class="em emphasis">Director</span> erőforrás jelszavával az <span class="file filename">/etc/bacula/bacula-sd.conf</span> fájlban.</p>
+<p class="para">Alapértelmezésben a <span class="em emphasis">Client1</span> nevű háttérfeladat alapértelmezésben be van állítva a <span class="app application">Bacula</span> Catalog archiválására. Ha a kiszolgálóval több kliens mentését tervezi, akkor a feladat nevét valamivel jellegzetesebbre kell módosítania. A név módosításához szerkessze az <span class="file filename">/etc/bacula/bacula-dir.conf</span> fájlt:</p>
+<div class="code"><pre class="contents ">#
+# Az elsődleges éjszakai mentési feladat defiálása
+#   Ez a feladat alapértelmezésben a lemezre ment 
+Job {
+  Name = "BackupServer"
+  JobDefs = "DefaultJob"
+  Write Bootstrap = "/var/lib/bacula/Client1.bsr"
+}
+</pre></div>
+<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents">
+        <p class="para">A fenti példa a feladat nevét <span class="em emphasis">BackupServerre</span> változtatta, a gépnévnek megfelelően. A <span class="quote">„BackupServer”</span> helyett saját gépének nevét használja, vagy más leíró nevet.</p>
+      </div></div></div></div>
+<p class="para">A <span class="em emphasis">Console</span> segítségével lekérdezhetők a feladatok a <span class="em emphasis">Directortól</span>, de a Console nem root felhasználóval való használatához a felhasználónak a <span class="em emphasis">bacula</span> csoportban kell lennie. Adja ki a következő parancsot felhasználó felvételéhez a bacula csoportba:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo adduser felhasználónév bacula</span>
+</pre></div>
+<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents">
+        <p class="para">A <span class="em emphasis">felhasználónév</span> helyére a tényleges felhasználónevet írja. Ha az aktuális felhasználót adja hozzá, akkor ki, majd újra be kell jelentkeznie az új jogosultságok életbe lépéséhez.</p>
+      </div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="bacula-localhost-backup"><div class="inner">
+<div class="hgroup"><h2 class="title">Helyi gép mentése</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Ez a szakasz leírja, hogyan mentheti egyetlen gép megadott könyvtárait helyi szalagos meghajtóra.</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+          <p class="para">Elsőként a <span class="em emphasis">tároló</span> eszközt kell beállítani. Szerkessze az <span class="file filename">/etc/bacula/bacula-sd.conf</span> fájlt, és vegye fel a következőket:</p>
+<div class="code"><pre class="contents ">Device {
+  Name = "Tape Drive"
+  Device Type = tape
+  Media Type = DDS-4
+  Archive Device = /dev/st0
+  Hardware end of medium = No;
+  AutomaticMount = yes;               # az eszköz beolvasása a megnyitásakor
+  AlwaysOpen = Yes;
+  RemovableMedia = yes;
+  RandomAccess = no;
+  Alert Command = "sh -c 'tapeinfo -f %c | grep TapeAlert'"
+}
+</pre></div>
+          <p class="para">
+          The example is for a <span class="em emphasis">DDS-4</span> tape drive.  Adjust the <span class="quote">„Media Type”</span> and <span class="quote">„Archive Device”</span> to match your hardware.
+          </p>
+          <p class="para">A fájl további példáinak egyikét is kiveheti megjegyzésből.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">Az <span class="file filename">/etc/bacula/bacula-sd.conf</span> fájl szerkesztése után újra kell indítani a <span class="app application">Storage</span> démont:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo systemctl restart bacula-sd.service</span>
+</pre></div>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">Most vegyen fel egy <span class="em emphasis">Storage</span> erőforrást az <span class="file filename">/etc/bacula/bacula-dir.conf</span> fájlba az új eszköz használatához:</p>
+<div class="code"><pre class="contents "># Definition of "Tape Drive" storage device
+Storage {
+  Name = TapeDrive
+  # Do not use "localhost" here    
+  Address = backupserver               # N.B. Use a fully qualified name here
+  SDPort = 9103
+  Password = "Cv70F6pf1t6pBopT4vQOnigDrR0v3LT3Cgkiyjc"
+  Device = "Tape Drive"
+  Media Type = tape
+}
+</pre></div>
+          <p class="para">Az <span class="em emphasis">Address</span> direktívának a kiszolgáló teljes képzésű tartománynevét kell tartalmaznia. A <span class="em emphasis">backupserver</span> helyére a tényleges gépnevet írja.</p>
+          <p class="para">Győződjön meg róla, hogy a <span class="em emphasis">Password</span> direktíva az <span class="file filename">/etc/bacula/bacula-sd.conf</span> fájlban lévővel azonos jelszót tartalmaz.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">A következők hozzáadásával hozzon létre egy új <span class="em emphasis">FileSet</span> erőforrást, amely meghatározza a mentendő könyvtárakat:</p>
+<div class="code"><pre class="contents "># LocalhostBacup FileSet.
+FileSet {
+  Name = "LocalhostFiles"
+  Include {
+    Options {
+      signature = MD5
+      compression=GZIP
+    }
+    File = /etc
+    File = /home
+  }
+}
+</pre></div>
+          <p class="para">
+          This <span class="em emphasis">FileSet</span> will backup the <span class="file filename">/etc</span> and 
+          <span class="file filename">/home</span> directories.  The <span class="em emphasis">Options</span> resource directives 
+          configure the FileSet to create an MD5 signature for each file backed up, and to compress the files using GZIP.
+          </p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">Ezután hozzon létre egy új <span class="em emphasis">Schedule</span> erőforrást a mentési feladathoz:</p>
+<div class="code"><pre class="contents "># LocalhostBackup ütemezés - napi.
+Schedule {
+  Name = "LocalhostDaily"
+  Run = Full daily at 00:01
+}
+</pre></div>
+          <p class="para">A feladat minden nap éjfél és dél után egy perccel fut le. Számos további ütemezési beállítás is elérhető.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">Végül hozza létre a <span class="em emphasis">Job</span> erőforrást:</p>
+<div class="code"><pre class="contents "># Helyi gép mentése.
+Job {
+  Name = "LocalhostBackup"
+  JobDefs = "DefaultJob"
+  Enabled = yes
+  Level = Full
+  FileSet = "LocalhostFiles"
+  Schedule = "LocalhostDaily"
+  Storage = TapeDrive
+  Write Bootstrap = "/var/lib/bacula/LocalhostBackup.bsr"
+}  
+</pre></div>
+          <p class="para">A feladat minden nap <span class="em emphasis">teljes</span> mentést végez a szalagos meghajtóra.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">Minden felhasznált szalaghoz szükség van egy <span class="em emphasis">címkére</span>. Ha az aktuális szalagnak nincs címkéje, akkor a <span class="app application">Bacula</span> e-mailben értesíti erről. Adja ki a következő parancsot szalag felcímkézéséhez a <span class="app application">Console</span> használatával:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">bconsole</span>
+</pre></div>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">A Bacula Console parancssorában adja ki a következőt:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">label</span>
+</pre></div>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">Ez rákérdez a <span class="em emphasis">Storage</span> erőforrásra:</p>
+<div class="screen"><pre class="contents "><span class="output computeroutput">
+Automatically selected Catalog: MyCatalog
+Using Catalog "MyCatalog"
+The defined Storage resources are:
+     1: File
+     2: TapeDrive
+Select Storage resource (1-2):<span class="input userinput">2</span>
+</span>
+</pre></div>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">Adja meg az új <span class="em emphasis">Volume</span> nevet:</p>
+<div class="screen"><pre class="contents "><span class="output computeroutput">
+Enter new Volume name: <span class="input userinput">Vasárnap</span>
+Defined Pools:
+     1: Default
+     2: Scratch</span>
+</pre></div>
+          <p class="para">A <span class="em emphasis">Vasárnap</span> helyére a kívánt címkét írja.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">Most válassza ki a <span class="em emphasis">Pool-t</span>:</p>
+<div class="screen"><pre class="contents "><span class="output computeroutput">
+Select the Pool (1-2): <span class="input userinput">1</span>
+Connecting to Storage daemon TapeDrive at backupserver:9103 ...
+Sending label command for Volume "Sunday" Slot 0 ...
+</span>
+</pre></div>
+        </li>
+</ul></div>
+<p class="para">Gratulálunk, ezzel elkészült a <span class="em emphasis">Bacula</span> beállításával a helyi gép biztonsági mentésére a géphez kapcsolt szalagos meghajtóra.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="bacula-resources"><div class="inner">
+<div class="hgroup"><h2 class="title">Információforrások</h2></div>
+<div class="region"><div class="contents"><div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+          <p class="para">
+	  For more <span class="em emphasis">Bacula</span> configuration options, refer to 
+          <a href="http://blog.bacula.org/documentation/documentation/" class="ulink" title="http://blog.bacula.org/documentation/documentation/">Bacula's
+          Documentation</a>.
+          </p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">A <a href="http://www.bacula.org/" class="ulink" title="http://www.bacula.org/">Bacula honlapja</a> beszámol a Bacula legfrissebb híreiről és fejlesztéseiről.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">Nézze meg az <a href="https://help.ubuntu.com/community/Bacula" class="ulink" title="https://help.ubuntu.com/community/Bacula">Ubuntu wiki Bacula</a> oldalát is.</p>
+        </li>
+</ul></div></div></div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="backups-shellscripts-rotation.html" title="Archívumforgatás">Előző</a><a class="nextlinks-next" href="virtualization.html" title="Virtualizáció">Következő</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p></div>
+</div>
+</body>
+</html>

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang=oc>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Desmontatge d'un lector externe en tota seguretat</title>
+<link rel="stylesheet" type="text/css" href="oc.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Guida del burèu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guide del burèu Ubuntu</a> » <a class="trail" href="files.html" title="Fichièrs, dorsièrs &amp; recèrcas">Fichièrs</a> › <a class="trail" href="files.html#removable" title="Mèdias amovibles e disques extèrnes">Mèdias amovibles e disques extèrnes</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Desmontatge d'un lector externe en tota seguretat</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Se utilizatz des periferics d'emmagazinatge externe coma des claus USB, vos cal les levar en tot seguretat abans de les desbrancar. Se vous vous contentez de desbrancar un periferic, vous courez la risca qu'una aplicacion siá encara en train d'y accedir. Aquò poiriá résulter en la pèrda o la corruption de vòstres fichièrs. Quand utilizatz un disc optique coma una CD o un DVD, podètz utilizar les mêmes etapas per ejectar lo disc de vòstre ordenador.</p>
+<div class="steps"><div class="inner">
+<div class="title title-steps"><h2><span class="title">Per ejectar un disc amovible :</span></h2></div>
+<div class="region"><ol class="steps">
+<li class="steps"><p class="p"><span class="link"><a href="files-browse.html" title="Consultacion de vòstres fichièrs e dorsièrs">Dobrir lo gestionari de fichièrs</a></span>.</p></li>
+<li class="steps">
+<p class="p">Localizatz lo periferic dins lo panèl lateral. Deuriá exister una pichona icòna d'ejeccion a costat del nom. Clicatz l'icòna d'ejeccion per levar o ejectar lo periferic en tot seguretat.</p>
+<p class="p">Siquenon, fasètz un clic dreit sul nom del periferic dins lo panèl lateral e seleccionatz <span class="gui">Ejectar</span>.</p>
+</li>
+</ol></div>
+</div></div>
+</div>
+<div id="remove-busy-device" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Desmontatge en tota seguretat d'un periferic que es actualament utilizat</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Se un des fichièrs sul periferic es dobèrt e en cors d'utilizacion per una aplicacion, poiretz pas levar lo volum sens risque. Una fenèstra vous informant que « Lo volum es ocupat » s'affiche, e énumère totes los fichièrs dobèrts sul periferic. Un còp totes los fichièrs del periferic tampats, il pourra èsser levat en tot seguretat. A aqueste moment, podètz doncas lo desconnectar o l'ejectar.</p>
+<p class="p">Se podètz pas tampar un d'aquestes fichièrs, per exemple se l'aplicacion qu'utiliza aqueste fichièr es blocada, podètz far un clic dreit sul fichièr dins la fenèstra <span class="gui">Lo volum es ocupat</span> e causir <span class="gui">Acabar lo processus</span>. Aquò fòrça l'aplicacion blocada a se tampar, çò que tampa tanben totes los autres fichièrs qu'avètz dobèrt amb aquesta aplicacion.</p>
+<div class="note note-warning" title="Alèrta"><div class="inner"><div class="region"><div class="contents"><p class="p">Podètz tanben causir <span class="gui">Ejectar tot de même</span> per levar lo periferic sens aver a tampar los fichièrs. Aquò pòt causer des errors dins las aplicacions que ont dobèrt aquestes fichièrs.</p></div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Mai d'entresenhas</span></h2></div>
+<div class="region"><ul><li class="links "><a href="files.html#removable" title="Mèdias amovibles e disques extèrnes">Mèdias amovibles e disques extèrnes</a></li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

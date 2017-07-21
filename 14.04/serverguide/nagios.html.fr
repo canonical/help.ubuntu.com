@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang=fr>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Nagios</title>
+<link rel="stylesheet" type="text/css" href="fr.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Guide du serveur Ubuntu">Guide du serveur Ubuntu</a> » <a class="trail" href="monitoring.html" title="Surveillance">Surveillance</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="monitoring-overview.html" title="Aperçu">Précédent</a><a class="nextlinks-next" href="munin.html" title="Munin">Suivant</a>
+</div>
+<div class="hgroup"><h1 class="title">Nagios</h1></div>
+<div class="region">
+<div class="contents"></div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="nagios.html#nagios-installation" title="Installation">Installation</a></li>
+<li class="links"><a class="xref" href="nagios.html#nagios-configuration-overview" title="Vue d'ensemble de la configuration">Vue d'ensemble de la configuration</a></li>
+<li class="links"><a class="xref" href="nagios.html#nagios-configuration" title="Configuration">Configuration</a></li>
+<li class="links"><a class="xref" href="nagios.html#nagios-references" title="Références">Références</a></li>
+</ul></div>
+<div class="sect2 sect" id="nagios-installation"><div class="inner">
+<div class="hgroup"><h2 class="title">Installation</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Tout d'abord, installez le paquet <span class="app application">nagios</span> sur <span class="em emphasis">serveur01</span>. Dans un terminal, saisissez :</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt-get install nagios3 nagios-nrpe-plugin</span>
+</pre></div>
+<p class="para">Il vous sera alors demandé d'entrer un mot de passe pour l'utilisateur <span class="em emphasis">nagiosadmin</span>. Les droits d'accès des utilisateurs sont conservés dans le fichier <span class="file filename">/etc/nagios3/htpasswd.users</span>. Pour changer le mot de passe de <span class="em emphasis">nagiosadmin</span>, ou ajouter d'autres utilisateurs aux scripts CGI de Nagios, utilisez <span class="app application">htpasswd</span>, qui fait partie du paquet <span class="app application">apache2-utils</span>.</p>
+<p class="para">Par exemple, pour changer le mot de passe de l'utilisateur <span class="em emphasis">nagiosadmin</span>, entrez:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo htpasswd /etc/nagios3/htpasswd.users nagiosadmin</span>
+</pre></div>
+<p class="para">Pour ajouter un utilisateur :</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo htpasswd /etc/nagios3/htpasswd.users steve</span>
+</pre></div>
+<p class="para">Ensuite, sur <span class="em emphasis">serveur02</span>, installez le paquet <span class="app application">nagios-nrpe-server</span>. Depuis un terminal sur serveur02, entrez:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt-get install nagios-nrpe-server</span>
+</pre></div>
+<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents">
+        <p class="para"><span class="app application">NRPE</span> vous permet d'exécuter des vérifications locales sur des hôtes distants. Il existe d'autres façons d'accomplir ces vérifications, ainsi que d'autres, grâce à d'autres greffons de Nagios.</p>
+      </div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="nagios-configuration-overview"><div class="inner">
+<div class="hgroup"><h2 class="title">Vue d'ensemble de la configuration</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Il y a plusieurs répertoires contenant les fichiers de configuration et de tests de <span class="app application">Nagios</span>.</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+          <p class="para"><span class="file filename">/etc/nagios3</span> : contient les fichiers de configuration pour l'exécution du démon <span class="app application">nagios</span>, des fichiers CGI, des hôtes, etc.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="file filename">/etc/nagios-plugins</span> : héberge les fichiers de configuration pour les vérifications du service.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="file filename">/etc/nagios</span> : sur l'hôte distant, contient les fichiers de configuration de <span class="app application">nagios-nrpe-server</span>.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="file filename">/usr/lib/nagios/plugins/</span> : où les fichiers binaires vérifiés sont conservés. Pour consulter les options de vérification, utilisez l'option <span class="em emphasis">-h</span>.</p>
+          
+          <p class="para">Par exemple: <span class="cmd command">/usr/lib/nagios/plugins/check_dhcp -h</span></p>
+        </li>
+</ul></div>
+<p class="para"><span class="app application">Nagios</span> peut être configuré pour exécuter une pléthore de vérifications pour n'importe quel hôte donné. Pour cet exemple Nagios sera configuré pour vérifier l'espace disque, les DNS, et un groupe d'hôtes MySQL. Le contrôle des DNS sera fait sur <span class="em emphasis">server02</span>, et le groupe d'hôtes MySQL contiendra <span class="em emphasis">server01</span> et <span class="em emphasis">server02</span>.</p>
+<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents">
+        <p class="para">Voir <a class="xref" href="httpd.html" title="HTTPD - serveur web Apache2">HTTPD - serveur web Apache2</a> pour les détails concernant la préparation d'Apache, <a class="xref" href="dns.html" title="Service de nom de domaine (DNS)">Service de nom de domaine (DNS)</a> pour DNS, et <a class="xref" href="mysql.html" title="MySQL">MySQL</a> pour MySQL.</p>
+      </div></div></div></div>
+<p class="para">En complément, voici quelques termes qui, une fois expliqués, faciliteront la compréhension de la configuration de Nagios :</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">Hôte</span> : un serveur, une station de travail, un périphérique réseau, etc., qui est en train d'être contrôlé.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">Groupe d'hôtes</span> : un groupe d'hôtes similaires. Par exemple, vous pourriez grouper tous les serveurs web, les serveurs de fichiers, etc.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">Service</span> : le service qui est en train d'être contrôlé sur l'hôte. Comme HTTP, DNS, NFS, etc.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">Groupe de services</span> : vous permet de grouper plusieurs services ensemble. Ceci est utile pour regrouper plusieurs HTTP.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">Contact</span> : personne à prévenir quand un événement se produit. Nagios peut être configuré pour envoyer des courriels, des SMS, etc.</p>
+        </li>
+</ul></div>
+<p class="para">Par défaut, Nagios est configuré pour vérifier HTTP, l'espace disque, SSH, les utilisateurs actuels, les processus, et la charge de <span class="em emphasis">l'hôte local</span>. Nagios lancera aussi un <span class="app application">ping</span> de vérification sur la <span class="em emphasis">passerelle</span>.</p>
+<p class="para">Les grosses installations de Nagios peuvent s'avérer compliquées à configurer. Il est généralement plus sage de commencer par une petite installation d'un ou deux hôtes, et de la configurer comme vous l'entendez avant de l'agrandir.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="nagios-configuration"><div class="inner">
+<div class="hgroup"><h2 class="title">Configuration</h2></div>
+<div class="region"><div class="contents">
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+
+          <div class="steps"><div class="inner"><ol class="steps">
+<li class="steps">
+              <p class="para">Tout d'abord, créez un fichier de configuration <span class="em emphasis">hôte</span> pour <span class="em emphasis">serveur02</span>. Sauf indication contraire, exécuter toutes ces commandes sur <span class="em emphasis">serveur01</span>. Dans un terminal saisissez :</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo cp /etc/nagios3/conf.d/localhost_nagios2.cfg \ /etc/nagios3/conf.d/server02.cfg</span>
+</pre></div>
+
+             <div class="note" title="Note"><div class="inner"><div class="region"><div class="contents">
+               <p class="para">Dans les exemples de commandes ci-dessus et ci-dessous, remplacez <span class="em emphasis">« serveur01 »</span>, <span class="em emphasis">« serveur02 »</span><span class="em emphasis">172.18.100.100</span> et <span class="em emphasis">172.18.100.101</span> par les noms et les adresses IP de vos serveurs.</p>
+             </div></div></div></div>
+             
+           </li>
+<li class="steps">
+             <p class="para">Ensuite, modifiez <span class="file filename">/etc/nagios3/conf.d/serveur02.cfg</span>:</p>
+
+<div class="code"><pre class="contents ">define host{
+        use                     generic-host  ; Name of host template to use
+        host_name               server02
+        alias                   Server 02
+        address                 172.18.100.101
+}
+
+# check DNS service.
+define service {
+        use                             generic-service
+        host_name                       server02
+        service_description             DNS
+        check_command                   check_dns!172.18.100.101
+}
+</pre></div>
+
+           </li>
+<li class="steps">
+
+             <p class="para">Relancez le démon <span class="app application">nagios</span> pour activer la nouvelle configuration :</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo service nagios3 restart</span>
+</pre></div>
+           
+           </li>
+</ol></div></div>
+       </li>
+<li class="list itemizedlist">
+         <div class="steps"><div class="inner"><ol class="steps">
+<li class="steps">
+
+             <p class="para">Maintenant, définissez un nouveau service pour la vérification de MySQL, en ajoutant ceci au fichier <span class="file filename">/etc/nagios3/conf.d/services_nagios2.cfg</span> :</p>
+
+<div class="code"><pre class="contents "># check MySQL servers.
+define service {
+        hostgroup_name        mysql-servers
+        service_description   MySQL
+        check_command         check_mysql_cmdlinecred!nagios!secret!$HOSTADDRESS
+        use                   generic-service
+        notification_interval 0 ; set &gt; 0 if you want to be renotified
+}
+</pre></div>
+
+           </li>
+<li class="steps">
+
+             <p class="para">Maintenant, Il faut définir un groupe d’hôtes <span class="em emphasis">serveurs-mysql</span>. Modifiez <span class="file filename">/etc/nagios3/conf.d/hostgroups_nagios2.cfg</span> en y ajoutant :</p>
+
+<div class="code"><pre class="contents "># Groupe d'hôtes MySQL.
+define hostgroup {
+        hostgroup_name  mysql-serveurs
+                alias           MySQL serveurs
+                members         localhost, serveur02
+        }
+</pre></div>
+
+           </li>
+<li class="steps">
+
+             <p class="para">La vérification de Nagios a besoin de s'authentifier auprès de MySQL. Pour ajouter <span class="em emphasis">nagios</span> en tant qu'utilisateur de MySQL, entrez :</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">mysql -u root -p -e "create user nagios identified by 'secret';"</span>
+</pre></div>
+
+             <div class="note" title="Note"><div class="inner"><div class="region"><div class="contents">
+               <p class="para">L'utilisateur <span class="em emphasis">nagios</span> devra être ajouté pour tous les hôtes du groupe <span class="em emphasis">mysql-serveurs</span>.</p>
+             </div></div></div></div>
+
+           </li>
+<li class="steps">
+
+             <p class="para">Redémarrez <span class="app application">nagios</span> pour commencer à vérifier les serveurs MySQL.</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo service nagios3 restart</span>
+</pre></div>
+
+           </li>
+</ol></div></div>
+       </li>
+<li class="list itemizedlist">
+         <div class="steps"><div class="inner"><ol class="steps">
+<li class="steps">  
+
+             <p class="para">Enfin, configurez NRPE pour vérifier l'espace disque sur <span class="em emphasis">serveur02</span>.</p>
+ 
+             <p class="para">Sur <span class="em emphasis">serveur01</span> ajoutez le service de vérification dans <span class="file filename">/etc/nagios3/conf.d/serveur02.cfg</span> :</p>
+
+<div class="code"><pre class="contents "># NRPE disk check.
+define service {
+        use                     generic-service
+        host_name               server02
+        service_description     nrpe-disk
+        check_command           check_nrpe_1arg!check_all_disks!172.18.100.101
+}
+</pre></div>
+
+           </li>
+<li class="steps">
+
+             <p class="para">Maintenant sur <span class="em emphasis">serveur02</span>, modifiez <span class="file filename">/etc/nagios/nrpe.cfg</span> en y changeant :</p>
+
+<div class="code"><pre class="contents ">allowed_hosts=172.18.100.100
+</pre></div>
+
+             <p class="para">Et dessous, dans la zone de définition de commande, ajoutez :</p>
+
+<div class="code"><pre class="contents ">command[check_all_disks]=/usr/lib/nagios/plugins/check_disk -w 20% -c 10% -e
+</pre></div>
+
+           </li>
+<li class="steps">
+
+             <p class="para">Pour finir, redémarrez <span class="app application">nagios-nrpe-server</span>:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo service nagios-nrpe-server restart</span>
+</pre></div>
+
+           </li>
+<li class="steps">
+
+             <p class="para">De plus, sur <span class="em emphasis">serveur01</span>, redémarrez <span class="app application">nagios</span> :</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo service nagios3 restart</span>
+</pre></div>
+
+           </li>
+</ol></div></div>
+       </li>
+</ul></div>
+<p class="para">Vous devriez maintenant être capable de voir l'hôte et les services de vérification dans les fichiers CGI de Nagios. Pour y accéder, rendez-vous sur http://server01/nagios3 avec votre navigateur. Il vous sera demandé le nom d'utilisateur et le mot de passe de <span class="em emphasis">nagiosadmin</span>.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="nagios-references"><div class="inner">
+<div class="hgroup"><h2 class="title">Références</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Cette partie n'a fait qu'effleurer le potentiel des fonctionnalités de Nagios. <span class="app application">nagios-plugins-extra</span> et <span class="app application">nagios-snmp-plugins</span> contiennent bien plus de services de vérification.</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+          <p class="para">Pour plus d'informations, voir le site internet de <a href="http://www.nagios.org/" class="ulink" title="http://www.nagios.org/">Nagios</a>.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">Plus précisément, le site de <a href="http://nagios.sourceforge.net/docs/3_0/" class="ulink" title="http://nagios.sourceforge.net/docs/3_0/">documentation en ligne</a> (en anglais).</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">Ci-dessous, une liste de <a href="http://www.nagios.org/propaganda/books/" class="ulink" title="http://www.nagios.org/propaganda/books/">livres</a> traitant de Nagios et de la supervision réseau :</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">La page du <a href="https://help.ubuntu.com/community/Nagios3" class="ulink" title="https://help.ubuntu.com/community/Nagios3">wiki Ubuntu sur Nagios (en anglais)</a> contient plus de détails.</p>
+        </li>
+</ul></div>
+</div></div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="monitoring-overview.html" title="Aperçu">Précédent</a><a class="nextlinks-next" href="munin.html" title="Munin">Suivant</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p></div>
+</div>
+</body>
+</html>

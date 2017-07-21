@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang=fr>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Utilisation d'autres haut-parleurs ou écouteurs.</title>
+<link rel="stylesheet" type="text/css" href="fr.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide du bureau Ubuntu</a> » <a class="trail" href="prefs.html" title="Préférences utilisateur &amp; système">Paramétrages</a> » <a class="trail" href="media.html#sound" title="Notions de base sur le son">Son</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Utilisation d'autres haut-parleurs ou écouteurs.</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Il est possible d'utiliser des haut-parleurs ou des écouteurs externes sur votre ordinateur. Les haut-parleurs se branchent habituellement par l'intermédiaire d'une fiche ronde TRS (<span class="em">tip, ring, sleeve</span>), appelée aussi fiche <span class="em">jack</span>, ou par l'intermédiaire d'une fiche USB.</p>
+<p class="p">Si les haut-parleurs ou les écouteurs possèdent une fiche jack, branchez-la dans la prise appropriée de l'ordinateur. La plupart des ordinateurs disposent de deux prises : l'une pour les microphones, l'autre pour les haut-parleurs. Repérez-vous à la petite figurine représentant des écouteurs près de la prise. Les haut-parleurs et les écouteurs branchés dans une prise jack sont habituellement utilisés par défaut. Si ce n'est pas le cas, voyez les instructions plus bas sur la façon de sélectionner le périphérique par défaut.</p>
+<p class="p">Certains ordinateurs supportent la sortie multi-canaux pour le son d'ambiance. Cela utilise généralement plusieurs fiches TRS, qui ont souvent des codes-couleur. Si vous n'êtes pas sûr de quelles fiches correspondent à quelles prises, vous pouvez tester la sortie son dans les réglages de son. Cliquez sur le <span class="gui">menu son</span> de la <span class="gui">barre de menu</span> puis cliquez sur <span class="gui">Réglages de son</span>. Sélectionnez vos haut-parleurs dans la liste de périphériques, puis cliquez sur <span class="gui">Tester le son</span>. Dans la fenêtre qui apparaît, cliquez sur le bouton pour chaque haut-parleur. Chaque bouton va dire sa position uniquement dans le canal correspondant à ce haut-parleur.</p>
+<p class="p">Si vous posséder des haut-parleurs ou des écouteurs USB, ou des écouteurs analogiques branchés sur une carte son USB, branchez-les dans n'importe quel port USB. Les haut-parleurs USB fonctionnent comme des périphériques audio à part et vous devrez définir les haut-parleurs à utiliser par défaut.</p>
+<div class="steps"><div class="inner">
+<div class="title title-steps"><h2><span class="title">Sélectionnez un périphérique d'entrée audio par défaut</span></h2></div>
+<div class="region"><ol class="steps">
+<li class="steps"><p class="p">Cliquez sur le <span class="gui">menu son</span> dans la <span class="gui">barre de menu</span> et sélectionnez <span class="gui">Réglages du son</span>.</p></li>
+<li class="steps"><p class="p">Dans l'onglet <span class="gui">Sortie</span>, sélectionnez le périphérique dans la liste des périphériques.</p></li>
+</ol></div>
+</div></div>
+<p class="p">Si vous ne voyez pas votre périphérique dans l'onglet <span class="gui">Sortie</span>, ouvrez l'onglet <span class="gui">Matériel</span>. Sélectionnez le périphérique voulu et testez différents profils.</p>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="media.html#sound" title="Notions de base sur le son">Notions de base sur le son</a><span class="desc"> — <span class="link"><a href="sound-volume.html" title="Modifier le volume sonore">Volume sonore</a></span>, <span class="link"><a href="sound-usespeakers.html" title="Utilisation d'autres haut-parleurs ou écouteurs.">haut-parleurs et casques</a></span>, <span class="link"><a href="sound-usemic.html" title="Utilisation d'un autre microphone">microphones</a></span>…</span>
+</li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Voir aussi</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="sound-usemic.html" title="Utilisation d'un autre microphone">Utilisation d'un autre microphone</a><span class="desc"> — Utiliser un microphone USB ou analogique et sélectionner un périphérique d'entrée par défaut.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

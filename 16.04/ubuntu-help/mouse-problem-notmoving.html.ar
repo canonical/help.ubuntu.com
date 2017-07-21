@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=ar>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>مؤشر الفأرة لا يتحرك</title>
+<link rel="stylesheet" type="text/css" href="ar.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="دليل سطح مكتب أوبونتو"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> دليل سطح مكتب أوبونتو</a> » <a class="trail" href="hardware.html" title="العتاد والتعريفات">Hardware</a> » <a class="trail" href="mouse.html" title="الفأرة">الفأرة</a> › <a class="trail" href="mouse.html#problems" title="مشاكل شائعة">مشاكل شائعة</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="دليل سطح مكتب أوبونتو"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> دليل سطح مكتب أوبونتو</a> » <a class="trail" href="prefs.html" title="المستخدم وإعدادات النظام">Settings</a> » <a class="trail" href="mouse.html" title="الفأرة">الفأرة</a> › <a class="trail" href="mouse.html#problems" title="مشاكل شائعة">مشاكل شائعة</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">مؤشر الفأرة لا يتحرك</span></h1></div>
+<div class="region">
+<div class="contents"><div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
+<li class="links "><a href="mouse-problem-notmoving.html#plugged-in" title="تحقق فيما إذا كانت الفأرة متصلة بالحاسوب">تحقق فيما إذا كانت الفأرة متصلة بالحاسوب</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html#connected" title="تحقق فيما إذا كان الحاسوب قد تعرّف على الفأرة">تحقق فيما إذا كان الحاسوب قد تعرّف على الفأرة</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html#broken" title="تحقق فيما إذا كانت الفأرة تعمل بالفعل">تحقق فيما إذا كانت الفأرة تعمل بالفعل</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html#wireless-mice" title="التحقق من الفأرات اللاسلكية">التحقق من الفأرات اللاسلكية</a></li>
+</ul></div></div></div></div>
+<div id="plugged-in" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">تحقق فيما إذا كانت الفأرة متصلة بالحاسوب</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">إذا كان لديك فأرة مع سلك، تحقق أن السلك متصل بثبات بحاسوبك.</p>
+<p class="p">إذا كانت فأرة USB (مع موصل مستطيل)، جرّب إيصاله بمنفذ USB آخر. إذا كانت فأرة PS/2 (مع موصل مستدير به 6 أسنان)، تأكد أنه متصل بمنفذ الفأرة ذو اللون الأخضر وليس في المنفذ الآخر. قد تحتاج لإعادة تشغيل الحاسوب إن لم يكن موصولا بالحاسوب.</p>
+</div></div>
+</div></div>
+<div id="connected" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">تحقق فيما إذا كان الحاسوب قد تعرّف على الفأرة</span></h2></div>
+<div class="region"><div class="contents">
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Type <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span> to open the <span class="app">Terminal</span>.</p></li>
+<li class="steps"><p class="p">اكتب في نافذة الطرفية <span class="cmd">xsetpointer -l | grep Pointer</span>, تمامًا كما يظهر هنا ثم اضغط مفتاح <span class="key"><kbd>Enter</kbd></span>.</p></li>
+<li class="steps"><p class="p">ستظهر قائمة قصيرة بأجهزة الفأرات. تحقق من وجود عنصر واحد على الأقل يظهر بجانبه <span class="sys">[XExtensionPointer]</span>، وأن ذلك العنصر هو عبارة عن اسم الفأرة.</p></li>
+<li class="steps"><p class="p">إذا لم تجد أي مُدخل يحتوي على اسم الفأرة متبوعا بـ <span class="sys">[XExtensionPointer]</span>، فهذا يعني أن الحاسوب لم يتعرّف على الفأرة.</p></li>
+</ol></div></div></div>
+<p class="p">
+ If your mouse has a serial (RS-232) connector, you may need to perform some
+ extra steps to get it working. The steps might depend on the make or model of
+ your mouse.
+ </p>
+<p class="p">
+ It can be complicated to fix problems with mouse detection. Ask for support
+ from your distribution or vendor if you think that your mouse has not been
+ detected properly.
+ </p>
+</div></div>
+</div></div>
+<div id="broken" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">تحقق فيما إذا كانت الفأرة تعمل بالفعل</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">وصّل الفأرة في حاسوب آخر وتحقق فيما إذا كانت تعمل.</p>
+<p class="p">إذا كانت الفأرة ضوئية أو فأرة ليزر، فينبغي أن يظهر الضوء من قاعها إذا كانت مشغّلة. إن لم يكن هناك ضوء، تحقق من تشغيلها. إذا فعلت ولا يزال لا يظهر أي ضوء، فقد تكون الفأرة معطوبة وينبغي استبدالها.</p>
+</div></div>
+</div></div>
+<div id="wireless-mice" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">التحقق من الفأرات اللاسلكية</span></h2></div>
+<div class="region"><div class="contents">
+<div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p">تأكد أن الفأرة مشغّلة. يوجد في الغالب مفتاح تشغيل في قاع الفأرة لتشغيل وإطفاء الفأرة بالكامل، حيث يمكنك نقلها من مكان إلى مكان دون أن تكون مشغّلة باستمرار.</p></li>
+<li class="list"><p class="p">إذا كنت تستخدم فأرة بلوتوث، تأكد من اقتران الفأرة مع حاسوبك. انظر <span class="link"><a href="bluetooth-connect-device.html" title="توصيل حاسوبك بجهاز بلوتوث">توصيل حاسوبك بجهاز بلوتوث</a></span>.</p></li>
+<li class="list"><p class="p">انقر أحد الأزرار وجرّب إذا كان مؤشر الفأرة يتحرك الآن. بعض الفأرات اللاسلكية تغط في سبات لتوفير طاقة البطارية، لذلك قد لا تستجيب حتى تنقر أحد الأزرار. انظر <span class="link"><a href="mouse-wakeup.html" title="Mouse reacts with delay before it starts working">Mouse reacts with delay before it starts working</a></span>.</p></li>
+<li class="list"><p class="p">تحقق من أن بطارية الفأرة مشحونة.</p></li>
+<li class="list"><p class="p">تأكد من أن المُستقبل (القطعة التي توضع في منفذ USB) موصولة جيدا بالحاسوب.</p></li>
+<li class="list"><p class="p">إذا كانت الفأرة والمستقبل يمكن تشغيلهم على قنوات راديو مختلفة، تأكد أن كلاهما مضبوطين لنفس القناة.</p></li>
+<li class="list"><p class="p">قد تحتاج لضغط أحد الأزرار في الفأرة أو المستقبل أو في كلا الإثنين لتأسيس اتصال. ينبغي أن يحتوي كتيب التعليمات الذي يأتي مع الفأرة على المزيد من التفاصيل في هذه الحالة.</p></li>
+</ul></div></div></div>
+<p class="p">معظم الفأرات اللاسلكية التي تعمل بموجات الراديو ينبغي أن تعمل آليا بمجرد وصلها بالحاسوب. إذا كان لديك فأرة لاسلكية تعمل بالبلوتوث أو بالأشعة تحت الحمراء، فقد تحتاج لتنفيذ بعض الخطوات الإضافية لكي تعمل. الخطوات قد تعتمد على صانع الفأرة أو طرازها.</p>
+</div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">مزيد من المعلومات</span></h2></div>
+<div class="region"><ul><li class="links "><a href="mouse.html#problems" title="مشاكل شائعة">المشاكل الشائعة للفأرة</a></li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

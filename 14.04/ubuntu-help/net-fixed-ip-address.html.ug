@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang=ug>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>مۇقىم IP ئادرېس بىلەن باغلىنىش قۇرۇش</title>
+<link rel="stylesheet" type="text/css" href="ug.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="ئۇبۇنتۇ ئۈستەلئۈستى قوللانمىسى"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="ياردەم"></span></span> ئۇبۇنتۇ ئۈستەلئۈستى قوللانمىسى</a> » <a class="trail" href="net.html" title="تورغا باغلاش، تور كۆرۈش، ئېلخەت ۋە مۇڭدىشىش">تورغا باغلاش، تور كۆرۈش، ئېلخەت ۋە مۇڭدىشىش</a> » <a class="trail" href="net-wired.html" title="سىملىق تور">سىملىق تور</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">مۇقىم IP ئادرېس بىلەن باغلىنىش قۇرۇش</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">سىز تورغا باغلانغاندا زور كۆپ قىسىم تور ئۆزلۈكىدىن كومپيۇتېرىڭىزغا <span class="link"><a href="net-what-is-ip-address.html" title="IP ئادرېس دېگەن نېمە؟">IP ئادرېس</a></span> ۋە باشقا تەپسىلاتلارنى تەقسىملەپ بېرىدۇ. بۇ ئۇچۇرلار مەلۇم مۇددەتتە يېڭىلىنىدۇ ئەمما سىز ھەر ۋاقىت كومپيۇتېرىڭىزنىڭ IP ئادرېسى(مەسىلەن، نۆۋەتتىكى كومپيۇتېر ھۆججەت مۇلازىمېتىرى قىلىپ ئىشلىتىلگەندە)نى بىلىپ تۇرۇش ئۈچۈن كومپيۇتېرغا مۇقىم IP ئادرېس تەڭشىشىڭىز كېرەك.</p>
+<p class="p">كومپيۇتېرىڭ IP ئادرېسىنى مۇقىم(static) قىلىپ بەلگىلەش:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">تىزىملىك بالدىقىدىكى <span class="gui">تور تىزىملىكى</span>نى چېكىپ، ئۇنىڭدىن <span class="gui">باغلىنىشنى تەھرىرلەش</span> نى تاللايسىز.</p></li>
+<li class="steps"><p class="p"><span class="gui">سىملىق تور</span> بەتكۈچىدىن <span class="gui">سىملىق باغلىنىش</span> ياكى <span class="gui">سىمسىز تور</span> بەتكۈچتىكى WiFi تورىنى تاللاپ، <span class="gui">تەھرىر</span> نى چېكىسىز.</p></li>
+<li class="steps"><p class="p">بەتكۈچ <span class="gui">IPv4 تەڭشىكى</span> دىكى <span class="gui">ئۇسۇل</span> نى <span class="gui">قولدا</span> غا ئۆزگەرتىڭ.</p></li>
+<li class="steps"><p class="p">ئەگەر <span class="gui">ئادرېس</span> تىزىمىدا ھېچقانداق باغلىنىش ئۇچۇرى كۆرۈنمىگەن بولسا ياكى يېڭى باغلىنىش تەڭشىمەكچى بولسىڭىز، <span class="gui">قوش</span>نى چېكىڭ.</p></li>
+<li class="steps"><p class="p">مۇناسىپ رامكىغا <span class="em">IP ئادرېس</span>، <span class="em">تور ماسكىسى</span> ۋە  <span class="em">تور ئۆتكەل</span> ئۇچۇرىنى كىرگۈزۈڭ.سىزنىڭ بۇ تاللانمىلارنى تاللىشىڭىز تور تەڭشىكىگە باغلىق بولىدۇ، بەزى ئالاھىدە قائىدىلەر قايسى IP ئادرېس ۋە تارماق تور ماسكىسى بېرىلگەن تورغا ماس كېلىدىغان كەلمەيدىغانلىقىنى باشقۇرۇشقا مەسئۇل بولىدۇ.</p></li>
+<li class="steps"><p class="p">ئەگەر زۆرۈر بولسا <span class="gui">DNS مۇلازىمېتىر</span> رامكىسىغا <span class="em">DNS مۇلازىمېتىر</span> ئادرېسىنى كىرگۈزۈڭ. بۇ DNS مۇلازىمېتىرنىڭ  IP ئادرېسىنى ئىزدەش ئۈچۈندۇر؛ كۆپ قىسىم شىركەت تورى ۋە ئىنتېرنېت مۇلازىمىتى بىلەن تەمىنلىگۈچىلەرنىڭ مەخسۇس DNS مۇلازىمېتىرى بولىدۇ.</p></li>
+<li class="steps"><p class="p"><span class="gui">ساقلا</span>نى چېكىڭ. تور باغلىنىشىنىڭ IP ئادرېسى ئوڭشىلىشى مۇمكىن.</p></li>
+</ol></div></div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">تېخىمۇ كۆپ ئۇچۇر</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wired.html" title="سىملىق تور">سىملىق تور</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html" title="سىملىق(Ethernet) تور غا باغلىنىش">سىملىق ئىنتېرنېت باغلىنىشلىرى</a></span>، <span class="link"><a href="net-fixed-ip-address.html" title="مۇقىم IP ئادرېس بىلەن باغلىنىش قۇرۇش">مۇقىم IP ئادرېسلىرى</a></span>...</span>
+</li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">مۇناسىۋەتلىك مەزمۇنلار</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-findip.html" title="IP ئادرېسنى ئىزدەپ تېپىش">IP ئادرېسنى ئىزدەپ تېپىش</a><span class="desc"> — ئۆزىڭىزنىڭ IP ئادرېسىنى بىلىش توردا كۆرۈلگەن مەسىلىلەرنى ھەل قىلىشقا پايدىسى بار.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

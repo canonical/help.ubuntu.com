@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang=sr>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Управљајте програмима и подешавањима са траком изборника</title>
+<link rel="stylesheet" type="text/css" href="sr.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Помоћ"></span></span> Убунтуов водич за радну површ</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Управљајте програмима и подешавањима са траком изборника</span></h1></div>
+<div class="region">
+<div class="contents"><p class="p"><span class="gui">Трака изборника</span> је тамна врпца на врху вашег екрана.Она садржи дугмад за управљање прозорима, изборнике програма и изборнике стања.</p></div>
+<div id="window-management" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Дугмад за управљање прозорима</span></h2></div>
+<div class="region">
+<div class="contents"><p class="p"><span class="gui">Дугмад управљања прозорима</span> се налази у горњем левом углу прозора. Када је увећан, дугмад се налази у горњем левом углу екрана. Кликните на дугме за затварање, умањивање, увећање или враћање прозора.</p></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">Погледајте и</span></h3></div>
+<div class="region"><ul><li class="links ">
+<a href="shell-windows-states.html" title="Радње са прозором">Радње са прозором</a><span class="desc"> — Повратите, промените величину, средите и сакријте.</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+</div></div>
+<div id="app-menus" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Изборници програма</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p"><span class="gui">Изборници програма</span> се по основи налазе са десне стране дугмади за управљање прозором. ЈУнити скрива изборнике програма и дугмад за управљање прозором, осим ако не померите показивач миша у горњи леви угао екрана или не притиснете <span class="keyseq"><span class="key"><kbd>Алт</kbd></span>+<span class="key"><kbd>Ф10</kbd></span></span>. Ова функција вам омогућава да видите више садржаја одједном, што је посебно вредно на малим екранима попут нетбукова.</p>
+<p class="p">Ако желите, можете да промените подразумевано понашање да вам изборници буду прикачени за траку наслова прозора одговарајућег програма уместо за траку изборника, и да подесите да буду увек видљиви уместо да буду приказани на лебдење миша.</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Click the <span class="em">system menu</span> <span class="media"><span class="media media-image"><img src="figures/system-devices-panel.svg" class="media media-inline" alt="Power cog icon"></span></span> and
+      select <span class="gui">System Settings</span>.</p></li>
+<li class="steps"><p class="p">У одељку „Лично“, кликните на <span class="gui">Изглед</span> и изаберите језичак <span class="gui">Понашање</span>.</p></li>
+<li class="steps"><p class="p">Под <span class="gui">Прикажи изборнике за прозор</span>, изаберите <span class="gui">У траци наслова прозора</span>.</p></li>
+<li class="steps"><p class="p">Под <span class="gui">Видљивост изборника</span>, изаберите <span class="gui">Увек приказан</span>.</p></li>
+</ol></div></div></div>
+</div></div>
+</div></div>
+<div id="status-menus" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Изборници стања</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Убунту има неколико различитих <span class="gui">изборника стања</span> (понекад се називају <span class="gui">показатељи</span>) на десној страни траке изборника. Изборници стања су погодно место где можете проверити и изменити стање рачунара и програма.</p>
+<div class="note" title="Белешка"><div class="inner"><div class="region"><div class="contents"><p class="p">Неке од иконица које користи изборник указивача се мењају у складу са стањем програма.</p></div></div></div></div>
+<p class="p">Други програми као што су <span class="app">Томичине белешке</span> или <span class="app">Трансмисија</span> могу такође да додају изборнике указивача на панел.</p>
+<div class="list ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-list"><h3><span class="title">Списак изборника стања и шта они раде</span></h3></div>
+<div class="region"><ul class="list" style="list-style-type:disc">
+<li class="list">
+<p class="p"><span class="em">Изборник мреже</span> <span class="media"><span class="media media-image"><img src="figures/network-offline.svg" class="media media-inline" alt="Иконица прекинуте мрежне везе"></span></span></p>
+<p class="p">Повежите се на <span class="link"><a href="net-wired-connect.html" title="Повежите се на жичану мрежу">жичане</a></span>, <span class="link"><a href="net-wireless-connect.html" title="Повезивање на бежичну мрежу">бежичне</a></span>, <span class="link"><a href="net-mobile.html" title="Повежите се на мобилну широкопојасну">мобилне</a></span>, и <span class="link"><a href="net-vpn-connect.html" title="Повезивање на ВПН">ВПН</a></span> мреже.</p>
+</li>
+<li class="list">
+<p class="p"><span class="em">Изборник извора улаза</span> <span class="media"><span class="media media-image"><img src="figures/indicator-keyboard-En.svg" class="media media-inline" alt="Иконица извора улаза"></span></span></p>
+<p class="p">Изаберите распоред тастатуре/извор улаза, <span class="link"><a href="keyboard-layouts.html" title="Користите заменске изворе улаза">подесите изворе улаза</a></span>.</p>
+</li>
+<li class="list">
+<p class="p"><span class="em">Изборник блутута</span> <span class="media"><span class="media media-image"><img src="figures/bluetooth-active.svg" class="media media-inline" alt="Иконица блутута"></span></span></p>
+<p class="p">Пошаљите или примите датотеке путем <span class="link"><a href="bluetooth.html" title="Блутут">блутута</a></span>. Овај изборник је скривен ако подржани уређај блутута није откривен.</p>
+</li>
+<li class="list">
+<p class="p"><span class="em">Изборник дописивања</span> <span class="media"><span class="media media-image"><img src="figures/indicator-messages.svg" class="media media-inline" alt="Иконица поруке"></span></span></p>
+<p class="p">Лако покрените и примајте обавештења од програма дописивања, укључујући е-пошту, друштвене мреже и Интернет ћаскање.</p>
+</li>
+<li class="list">
+<p class="p"><span class="em">Изборник батерије</span> <span class="media"><span class="media media-image"><img src="figures/battery-100.svg" class="media media-inline" alt="Иконица батерије"></span></span></p>
+<p class="p">Проверите стање пуњења батерије преносног рачунара. Овај изборник је скривен ако батерија није откривена.</p>
+</li>
+<li class="list">
+<p class="p"><span class="em">Изборник звука</span> <span class="media"><span class="media media-image"><img src="figures/audio-volume-high-panel.svg" class="media media-inline" alt="Иконица јачине звука"></span></span></p>
+<p class="p">Подесите <span class="link"><a href="sound-volume.html" title="Измените јачину звука">јачину звука</a></span>, подесите <span class="link"><a href="media.html" title="Звук, видео и слике">поставке</a></span> звука, и управљајте медијским програмима као што је <span class="app">Ритам машина</span>.</p>
+</li>
+<li class="list">
+<p class="p"><span class="em">Сат</span></p>
+<p class="p">Приступите тренутном времену и датуму. Састанци из уграђеног <span class="link"><a href="clock-calendar.html" title="Састанци календара">програма календара</a></span> такође могу да се приказује овде.</p>
+</li>
+<li class="list">
+<p class="p"><span class="em">Изборник система</span> <span class="media"><span class="media media-image"><img src="figures/system-devices-panel.svg" class="media media-inline" alt="Иконица напајања"></span></span></p>
+<p class="p">Приступити детаљима о рачунару, овом водичу помоћи и <span class="link"><a href="prefs.html" title="Подешавања корисника и система">подешавањима система</a></span>. Промените корисника, закључајте екран, одјавите се, обуставите, поново покрените или угасите рачунар.</p>
+</li>
+</ul></div>
+</div>
+</div>
+</div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Још података</span></h2></div>
+<div class="region"><ul>
+<li class="links "><a href="shell-overview.html#desktop" title="Радна површ">Радна површ</a></li>
+<li class="links "><a href="index.html" title="Убунтуов водич за радну површ">Убунтуов водич за радну површ</a></li>
+</ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

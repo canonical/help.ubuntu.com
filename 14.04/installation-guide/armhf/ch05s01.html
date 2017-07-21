@@ -1,0 +1,338 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>5.1. Booting the Installer on ARM</title>
+<link rel="stylesheet" type="text/css" href="install.css">
+<meta name="generator" content="DocBook XSL Stylesheets V1.76.1">
+<link rel="home" href="index.html" title="Ubuntu Installation Guide">
+<link rel="up" href="ch05.html" title="Chapter 5. Booting the Installation System">
+<link rel="prev" href="ch05.html" title="Chapter 5. Booting the Installation System">
+<link rel="next" href="ch05s02.html" title="5.2. Accessibility">
+</head>
+<body bgcolor="white" text="black" link="#0000FF" vlink="#840084" alink="#0000FF">
+<div class="navheader">
+<table width="100%" summary="Navigation header">
+<tr><th colspan="3" align="center">5.1. Booting the Installer on <span>ARM</span>
+</th></tr>
+<tr>
+<td width="20%" align="left">
+<a accesskey="p" href="ch05.html">Prev</a> </td>
+<th width="60%" align="center">Chapter 5. Booting the Installation System</th>
+<td width="20%" align="right"> <a accesskey="n" href="ch05s02.html">Next</a>
+</td>
+</tr>
+</table>
+<hr>
+</div>
+<div class="sect1" title="5.1. Booting the Installer on ARM">
+<div class="titlepage"><div><div><h2 class="title" style="clear: both">
+<a name="idp5500288"></a>5.1. Booting the Installer on <span>ARM</span>
+</h2></div></div></div>
+<div class="sect2" title="5.1.1. Booting from TFTP">
+<div class="titlepage"><div><div><h3 class="title">
+<a name="boot-tftp"></a>5.1.1. Booting from TFTP</h3></div></div></div>
+<p>
+
+Booting from the network requires that you have a network
+connection and a TFTP network boot server (DHCP, RARP, or BOOTP).
+
+</p>
+<p>
+
+The installation method to support network booting is described in <a class="xref" href="ch04s03.html" title="4.3. Preparing Files for TFTP Net Booting">Section 4.3, “Preparing Files for TFTP Net Booting”</a>.
+
+</p>
+</div>
+<div class="sect2" title="5.1.2. Booting from CD-ROM">
+<div class="titlepage"><div><div><h3 class="title">
+<a name="idp5506192"></a>5.1.2. Booting from CD-ROM</h3></div></div></div>
+<p>
+
+The easiest route for most people will be to use an Ubuntu CD.
+If you have a CD, and if your machine supports booting directly off
+the CD, great!  Simply
+
+insert your CD, reboot, and proceed to the next chapter.
+
+</p>
+<p>
+
+Note that certain CD drives may require special drivers, and thus be
+inaccessible in the early installation stages. If it turns out the
+standard way of booting off a CD doesn't work for your hardware,
+revisit this chapter and read about alternate kernels and installation
+methods which may work for you.
+
+</p>
+<p>
+
+If you have problems booting, see <a class="xref" href="ch05s04.html" title="5.4. Troubleshooting the Installation Process">Section 5.4, “Troubleshooting the Installation Process”</a>.
+
+</p>
+</div>
+<div class="sect2" title="5.1.3. Booting from Firmware">
+<div class="titlepage"><div><div><h3 class="title">
+<a name="boot-firmware"></a>5.1.3. Booting from Firmware</h3></div></div></div>
+<p>
+
+There is an increasing number of consumer devices that directly boot from a
+flash chip on the device.  The installer can be written to flash so it will
+automatically start when you reboot your machines.
+
+</p>
+<div class="note" title="Note" style="margin-left: 0.5in; margin-right: 0.5in;">
+<h3 class="title">Note</h3>
+<p>
+
+In most cases, changing the firmware of an embedded device voids your
+warranty.  Sometimes you are also not able to recover your device if there
+are problems during the flashing process.  Therefore, please take care and
+follow the steps precisely.
+
+</p>
+</div>
+<div class="sect3" title="5.1.3.1. Booting the NSLU2">
+<div class="titlepage"><div><div><h4 class="title">
+<a name="boot-firmware-nslu2"></a>5.1.3.1. Booting the NSLU2</h4></div></div></div>
+<p>
+
+There are three ways how to put the installer firmware into flash:
+
+</p>
+<div class="sect4" title="5.1.3.1.1. Using the NSLU2 web interface">
+<div class="titlepage"><div><div><h5 class="title">
+<a name="idp5513984"></a>5.1.3.1.1. Using the NSLU2 web interface</h5></div></div></div>
+<p>
+
+Go to the administration section and choose the menu item
+<code class="literal">Upgrade</code>.  You can then browse your disk for the
+installer image you have previously downloaded.  Then press the
+<code class="literal">Start Upgrade</code> button, confirm, wait for a few minutes
+and confirm again.  The system will then boot straight into the installer.
+
+</p>
+</div>
+<div class="sect4" title="5.1.3.1.2. Via the network using Linux/Unix">
+<div class="titlepage"><div><div><h5 class="title">
+<a name="idp5516832"></a>5.1.3.1.2. Via the network using Linux/Unix</h5></div></div></div>
+<p>
+
+You can use <span class="command"><strong>upslug2</strong></span> from any Linux or Unix machine to
+upgrade the machine via the network.  This software is packaged for
+Debian.
+
+First, you have to put your NSLU2 in upgrade mode:
+
+</p>
+<div class="orderedlist"><ol class="orderedlist" type="1">
+<li class="listitem"><p>
+
+Disconnect any disks and/or devices from the USB ports.
+
+</p></li>
+<li class="listitem"><p>
+
+Power off the NSLU2
+
+</p></li>
+<li class="listitem"><p>
+
+Press and hold the reset button (accessible through the small hole on the
+back just above the power input).
+
+</p></li>
+<li class="listitem"><p>
+
+Press and release the power button to power on the NSLU2.
+
+</p></li>
+<li class="listitem"><p>
+
+Wait for 10 seconds watching the ready/status LED. After 10 seconds it
+will change from amber to red. Immediately release the reset button.
+
+</p></li>
+<li class="listitem"><p>
+
+The NSLU2 ready/status LED will flash alternately red/green (there is a 1
+second delay before the first green). The NSLU2 is now in upgrade mode.
+
+</p></li>
+</ol></div>
+<p>
+
+See the <a class="ulink" href="http://www.nslu2-linux.org/wiki/OpenSlug/UsingTheBinary" target="_top">NSLU2-Linux
+pages</a> if you have problems with this.
+
+Once your NSLU2 is in upgrade mode, you can flash the new image:
+
+</p>
+<div class="informalexample"><pre class="screen">
+sudo upslug2 -i di-nslu2.bin
+</pre></div>
+<p>
+
+Note that the tool also shows the MAC address of your NSLU2, which may come
+in handy to configure your DHCP server.  After the whole image has been
+written and verified, the system will automatically reboot.  Make sure you
+connect your USB disk again now, otherwise the installer won't be able to
+find it.
+
+</p>
+</div>
+<div class="sect4" title="5.1.3.1.3. Via the network using Windows">
+<div class="titlepage"><div><div><h5 class="title">
+<a name="idp5525248"></a>5.1.3.1.3. Via the network using Windows</h5></div></div></div>
+<p>
+
+There is <a class="ulink" href="http://www.everbesthk.com/8-download/sercomm/firmware/all_router_utility.zip" target="_top">a
+tool</a> for Windows to upgrade the firmware via the network.
+
+</p>
+</div>
+</div>
+<div class="sect3" title="5.1.3.2. Booting the SS4000-E">
+<div class="titlepage"><div><div><h4 class="title">
+<a name="boot-firmware-ss4000e"></a>5.1.3.2. Booting the SS4000-E</h4></div></div></div>
+<p>
+
+Due to limitations in the SS4000-E firmware, it unfortunately is not
+possible to boot the installer without the use of a serial port at
+this time. To boot the installer, you will need a serial nullmodem
+cable; a computer with a serial port<sup>[<a name="arm-s4ke-port" href="#ftn.arm-s4ke-port" class="footnote">2</a>]</sup>; and a ribbon cable with a male DB9 connector at one end,
+and a 10-pin .1" IDC header at the other<sup>[<a name="arm-s4k-rib" href="#ftn.arm-s4k-rib" class="footnote">3</a>]</sup>.
+
+</p>
+<p>
+
+To boot the SS4000-E, use your serial nullmodem cable and the ribbon
+cable to connect to the serial port of the SS4000-E, and reboot the
+machine. You need to use a serial terminal application to communicate
+with the machine; a good option on a Debian GNU/Linux is to use the
+<span class="command"><strong>cu</strong></span> program, in the package of the same name. Assuming
+the serial port on your computer is to be found on
+<code class="filename">/dev/ttyS0</code>, use the following command line:
+
+</p>
+<div class="informalexample"><pre class="screen">
+cu -lttyS0 -s115200
+</pre></div>
+<p>
+
+If using Windows, you may want to consider using the program
+<code class="classname">hyperterminal</code>. Use a baud rate of 115200,
+8 bits word length, no stop bits, and one parity bit.
+
+</p>
+<p>
+
+When the machine boots, you will see the following line of output:
+
+</p>
+<div class="informalexample"><pre class="screen">
+No network interfaces found
+
+EM-7210 ver.T04 2005-12-12 (For ver.AA)
+== Executing boot script in 1.000 seconds - enter ^C to abort
+</pre></div>
+<p>
+
+At this point, hit Control-C to interrupt the boot
+loader<sup>[<a name="arm-s4ke-sec" href="#ftn.arm-s4ke-sec" class="footnote">4</a>]</sup>. This will give you the RedBoot prompt. Enter the
+following commands:
+
+</p>
+<div class="informalexample"><pre class="screen">
+load -v -r -b 0x01800000 -m ymodem ramdisk.gz
+load -v -r -b 0x01008000 -m ymodem zImage
+exec -c "console=ttyS0,115200 rw root=/dev/ram mem=256M@0xa0000000" -r 0x01800000
+</pre></div>
+<p>
+
+</p>
+<p>
+
+After every <span class="command"><strong>load</strong></span> command, the system will expect a
+file to be transmitted using the YMODEM protocol. When using cu, make
+sure you have the package <code class="classname">lrzsz</code> installed, then
+hit enter, followed by the <span class="quote">“<span class="quote">~&lt;</span>”</span> escape sequence to start
+an external program, and run <span class="command"><strong>sb initrd.gz</strong></span> or
+<span class="command"><strong>sb vmlinuz</strong></span>.
+
+</p>
+<p>
+
+Alternatively, it is possible to load the kernel and ramdisk using
+HTTP rather than YMODEM. This is faster, but requires a working HTTP
+server on the network. To do so, first switch the bootloader to RAM mode:
+
+</p>
+<div class="informalexample"><pre class="screen">
+fis load rammode
+g
+</pre></div>
+<p>
+
+</p>
+<p>
+
+This will seemingly restart the machine; but in reality, it loads
+reboot to RAM and restarts it from there. Not doing this step will cause
+the system to hang in the necessary ip_address step that comes next.
+
+</p>
+<p>
+
+You will need to hit Ctrl-C again to interrupt the boot. Then:
+
+</p>
+<div class="informalexample"><pre class="screen">
+ip_address -l 192.168.2.249 -h 192.168.2.4
+load -v -r -b 0x01800000 -m http /initrd.gz
+load -v -r -b 0x01008000 -m http /zImage
+exec -c "console=ttyS0,115200 rw root=/dev/ram mem=256M@0xa0000000" -r 0x01800000
+</pre></div>
+<p>
+
+</p>
+<p>
+
+The installer will now start as usual.
+
+</p>
+</div>
+</div>
+<div class="footnotes">
+<br><hr width="100" align="left">
+<div class="footnote"><p><sup>[<a id="ftn.arm-s4ke-port" href="#arm-s4ke-port" class="para">2</a>] </sup>
+A USB serial converter will also work.
+</p></div>
+<div class="footnote"><p><sup>[<a id="ftn.arm-s4k-rib" href="#arm-s4k-rib" class="para">3</a>] </sup>
+This cable is often found in older desktop machines with builtin 9-pin
+serial ports.
+</p></div>
+<div class="footnote"><p><sup>[<a id="ftn.arm-s4ke-sec" href="#arm-s4ke-sec" class="para">4</a>] </sup>
+Note that you have only one second to do so; if you miss this window,
+just powercycle the machine and try again.
+</p></div>
+</div>
+</div>
+<div class="navfooter">
+<hr>
+<table width="100%" summary="Navigation footer">
+<tr>
+<td width="40%" align="left">
+<a accesskey="p" href="ch05.html">Prev</a> </td>
+<td width="20%" align="center"><a accesskey="u" href="ch05.html">Up</a></td>
+<td width="40%" align="right"> <a accesskey="n" href="ch05s02.html">Next</a>
+</td>
+</tr>
+<tr>
+<td width="40%" align="left" valign="top">Chapter 5. Booting the Installation System </td>
+<td width="20%" align="center"><a accesskey="h" href="index.html">Home</a></td>
+<td width="40%" align="right" valign="top"> 5.2. Accessibility</td>
+</tr>
+</table>
+</div>
+</body>
+</html>

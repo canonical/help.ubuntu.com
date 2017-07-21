@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang=sk>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Firewall</title>
+<link rel="stylesheet" type="text/css" href="sk.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../16.04" class="trail">Ubuntu 16.04</a> » <a class="trail" href="index.html" title="Príručka k správe Ubuntu servera">Príručka k správe Ubuntu servera</a> » <a class="trail" href="security.html" title="Bezpečnosť">Bezpečnosť</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="console-security.html" title="Zabezpečenie konzoly">Predchádzajúca</a><a class="nextlinks-next" href="apparmor.html" title="AppArmor">Nasledujúca</a>
+</div>
+<div class="hgroup"><h1 class="title">Firewall</h1></div>
+<div class="region">
+<div class="contents"></div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="firewall.html#firewall-introduction" title="Úvod">Úvod</a></li>
+<li class="links"><a class="xref" href="firewall.html#firewall-ufw" title="ufw – nekomplikovaný Firewall">ufw – nekomplikovaný Firewall</a></li>
+<li class="links"><a class="xref" href="firewall.html#ip-masquerading" title="Zamaskovanie IP adries">Zamaskovanie IP adries</a></li>
+<li class="links"><a class="xref" href="firewall.html#firewall-logs" title="Záznamy">Záznamy</a></li>
+<li class="links"><a class="xref" href="firewall.html#other-firewall-tools" title="Ostatné nástroje">Ostatné nástroje</a></li>
+<li class="links"><a class="xref" href="firewall.html#firewall-references" title="Zdroje">Zdroje</a></li>
+</ul></div>
+<div class="sect2 sect" id="firewall-introduction"><div class="inner">
+<div class="hgroup"><h2 class="title">Úvod</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Linuxové jadro obsahuje podsystém <span class="em emphasis">Netfilter</span>, ktorý sa používa na riadenie prevádzky smerujúcej do servera alebo prechádzajúcej cez server. Všetky moderné Linuxové firewally používajú tento systém na filtrovanie paketov.</p>
+<p class="para">
+              The kernel's packet filtering system would be of little use to administrators without
+			  a userspace interface to manage it. This is the purpose of iptables: When a packet
+			  reaches your server, it will be handed off to the Netfilter subsystem for acceptance,
+			  manipulation, or rejection based on the rules supplied to it from userspace via
+			  iptables. Thus, iptables is all you need to manage your firewall, if you're familiar
+			  with it, but many frontends are available to simplify the task.
+            </p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="firewall-ufw"><div class="inner">
+<div class="hgroup"><h2 class="title">ufw – nekomplikovaný Firewall</h2></div>
+<div class="region">
+<div class="contents">
+<p class="para">
+	    The default firewall configuration tool for Ubuntu is <span class="app application">ufw</span>. Developed to ease iptables firewall configuration,
+	    <span class="app application">ufw</span> provides a user-friendly way to create an IPv4 or IPv6 host-based firewall.
+	    </p>
+<p class="para">Nástroj <span class="app application">ufw</span> je v základnom stave vypnutý. Na man stránkach <span class="app application">ufw</span> sa píše:</p>
+<p class="para">
+<span class="quote">„ufw nie je určený na poskytnutie úplnej funkcionality firewallu cez príkazový riadok, slúži na jednoduché pridávanie a odstraňovanie jednoduchých pravidiel. Je zameraný najmä na firewall na báze staníc.“</span>
+	    </p>
+<p class="para">V ďalšej časti ukážeme niekoľko príkladov použitia <span class="app application">ufw</span>:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+                <p class="para">Najskôr je potrebné zapnúť <span class="app application">ufw</span>. Do príkazového riadka zadáme:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ufw enable</span>
+</pre></div>
+	      </li>
+<li class="list itemizedlist">
+                <p class="para">
+                To open a port (SSH in this example):
+	        </p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ufw allow 22</span>
+</pre></div>
+	      </li>
+<li class="list itemizedlist">
+                <p class="para">Pravidlá sa dajú pridávať pomocou <span class="em emphasis">číslovaného</span> formátu:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ufw insert 1 allow 80</span>
+</pre></div>
+	      </li>
+<li class="list itemizedlist">
+                <p class="para">Podobne zatvoríme otvorený port:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ufw deny 22</span>
+</pre></div>
+	      </li>
+<li class="list itemizedlist">
+                <p class="para">Ak chceme pravidlo odstrániť, zadáme delete a za ním pravidlo:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ufw delete deny 22</span>
+</pre></div>
+	      </li>
+<li class="list itemizedlist">
+                <p class="para">
+		It is also possible to allow access from specific hosts or networks to a port. The following example allows SSH access
+		from host 192.168.0.2 to any IP address on this host:
+	        </p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ufw allow proto tcp from 192.168.0.2 to any port 22</span>
+</pre></div>
+	        <p class="para">
+		Replace 192.168.0.2 with 192.168.0.0/24 to allow SSH access from the entire subnet.
+		</p>
+	      </li>
+<li class="list itemizedlist">
+
+                <p class="para">Pridaním prepínača <span class="em emphasis">--dry-run</span> k príkazu <span class="em emphasis">ufw</span> budú vytvorené pravidlá, ale neaplikujú sa. V nasledujúcom príklade môžeme vidieť čo sa stane, ak otvoríme HTTP port:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ufw --dry-run allow http</span>
+</pre></div>
+
+<div class="screen"><pre class="contents "><span class="output computeroutput">*filter
+:ufw-user-input - [0:0]
+:ufw-user-output - [0:0]
+:ufw-user-forward - [0:0]
+:ufw-user-limit - [0:0]
+:ufw-user-limit-accept - [0:0]
+### RULES ###
+
+### tuple ### allow tcp 80 0.0.0.0/0 any 0.0.0.0/0
+-A ufw-user-input -p tcp --dport 80 -j ACCEPT
+
+### END RULES ###
+-A ufw-user-input -j RETURN
+-A ufw-user-output -j RETURN
+-A ufw-user-forward -j RETURN
+-A ufw-user-limit -m limit --limit 3/minute -j LOG --log-prefix "[UFW LIMIT]: "
+-A ufw-user-limit -j REJECT
+-A ufw-user-limit-accept -j ACCEPT
+COMMIT
+Rules updated</span>
+</pre></div>
+
+              </li>
+<li class="list itemizedlist">
+                <p class="para"><span class="app application">ufw</span> môžeme vypnúť zadaním:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ufw disable</span>
+</pre></div>
+	      </li>
+<li class="list itemizedlist">
+                <p class="para">Ak chceme vidieť stav firewallu, zadáme:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ufw status</span>
+</pre></div>
+	      </li>
+<li class="list itemizedlist">
+                <p class="para">Podrobnejšie informácie zobrazíme takto:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ufw status verbose</span>
+</pre></div>
+	      </li>
+<li class="list itemizedlist">
+                <p class="para">Na zobrazenie v <span class="em emphasis">číslovanom</span> formáte použijeme:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ufw status numbered</span>
+</pre></div>
+	      </li>
+</ul></div>
+<div class="note" title="Poznámka"><div class="inner"><div class="region"><div class="contents">
+	      <p class="para">Ak je port, ktorý chcete otvoriť alebo zatvoriť, definovaný v súbore <span class="file filename">/etc/services</span>, môžete miesto čísla portu použiť jeho názov. V predchádzajúcich príkladoch môžete <span class="em emphasis">22</span> nahradiť <span class="em emphasis">ssh</span>.</p>
+	    </div></div></div></div>
+<p class="para">Toto bol krátky úvod o používaní nástroja <span class="app application">ufw</span>. Viac informácií sa dozviete na man stránkach <span class="app application">ufw</span>.</p>
+</div>
+<div class="sect3 sect" id="ufw-application-integration"><div class="inner">
+<div class="hgroup"><h3 class="title">Integrácia aplikácií s ufw</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Aplikácie, ktoré otvárajú porty, môžu zahrnúť do <span class="app application">ufw</span> profilu, detaily o portoch, ktoré potrebujú ku svojej správnej činnosti. Profily sa uchovávajú v priečinku <span class="file filename">/etc/ufw/applications.d</span>, v ktorom ich môžeme upravovať ak chceme zmeniť predvolené nastavenie portov.</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+
+                  <p class="para">Ak chceme vidieť, ktoré aplikácie majú nainštalovaný profil, zadáme nasledujúci príkaz:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ufw app list</span>
+</pre></div>
+
+                </li>
+<li class="list itemizedlist">
+
+                  <p class="para">Rovnako, ako sme povoľovali port, môžeme povoliť aj profil aplikácie:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ufw allow Samba</span>
+</pre></div>
+
+                </li>
+<li class="list itemizedlist">
+
+                  <p class="para">Rovnako je možné použiť rozšírenú syntax:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">ufw allow from 192.168.0.0/24 to any app Samba</span>
+</pre></div>
+
+                  <p class="para">Aplikáciu <span class="em emphasis">Sambaa adresu 192.168.0.0/24 m</span></p>
+
+                  <div class="note" title="Poznámka"><div class="inner"><div class="region"><div class="contents">
+                    <p class="para">Nie je potrebné pre aplikáciu dodatočne určovať <span class="em emphasis">protokol</span>, pretože tieto informácie sú uložené v profile. Všimnite si, že slovom <span class="em emphasis">app</span> môžeme nahradiť <span class="em emphasis">port</span>.</p>
+                  </div></div></div></div>
+
+                </li>
+<li class="list itemizedlist">
+
+                  <p class="para">
+                  To view details about which ports, protocols, etc., are defined for an application, enter:
+                  </p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ufw app info Samba</span>
+</pre></div>
+
+                </li>
+</ul></div>
+<p class="para">
+              Not all applications that require opening a network port come with <span class="app application">ufw</span> profiles, but if 
+              you have profiled an application and want the file to be included with the package, please file a bug against the 
+              package in Launchpad.
+              </p>
+<div class="screen"><pre class="contents "><span class="cmd command">ubuntu-bug nameofpackage</span>
+</pre></div>
+</div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect2 sect" id="ip-masquerading"><div class="inner">
+<div class="hgroup"><h2 class="title">Zamaskovanie IP adries</h2></div>
+<div class="region">
+<div class="contents"><p class="para">Cieľom zamaskovania IP (masquerade) adries je umožnenie pridelenia súkromnej nedosiahnuteľnej IP adresy v našej sieti, z ktorej sa budeme môcť  dostať na Internet prostredníctvom zariadenia, ktoré robí maskovanie. Komunikácia z našej privátnej siete smerujúca do siete Internet musí byť pozmenená tak, aby odpovede dorazili na zariadenie, ktoré si ich vyžiadalo. Aby sa tak stalo, kernel musí upraviť <span class="em emphasis">zdrojovú</span> IP adresu každého paketu tak, aby odpoveď dorazila na počítač robiaci maskovanie a nie priamo na súkromnú IP adresu, na ktorú sa nie je možné dostať priamo z Internet. Linux používa Sledovanie spojenia – <span class="em emphasis">Connection Tracking</span> (conntrack) aby odsledoval, ktoré spojenie smeruje do ktorého stroja a mohol správne presmerovať vracajúce sa pakety. Komunikácia opúšťa privátnu sieť ako "zamaskovaná" tak, ako keby pochádzala priamo z nášho Ubuntu servera tvoriaceho bránu (gateway). Tento proces je v dokumentácii od firmy Microsoft popísaný ako Zdieľanie internetového pripojenia.</p></div>
+<div class="sect3 sect" id="ip-masquerade-ufw"><div class="inner">
+<div class="hgroup"><h3 class="title">Maskovanie pomocou ufw</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Maskovanie IP adries sa dá vytvoriť pomocou vlastných pravidiel <span class="app application">ufw</span>. Je to možné vďaka aktuálnemu koncovému rozhraniu <span class="app application">ufw</span> s názvom <span class="app application">iptables-restore</span> s pravidlami uloženými v súboroch <span class="file filename">/etc/ufw/*.rules</span>. Tieto súbory sú skvelým miestom, kde sa dajú pridávať pravidlá pre iptables bez <span class="app application">ufw</span> a pravidlá, ktoré sú zamerané pre sieťovú bránu alebo premostenia.</p>
+<p class="para">Pravidlá sú rozdelené do dvoch rozdielnych súborov. Pravidlá, ktoré by mali byť spustené pred príkazmi <span class="app application">ufw</span> zadanými z príkazového riadka a pravidlá, ktoré by mali byť spustené za príkazmi <span class="app application">ufw</span> zadanými z príkazového riadka.</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+		  <p class="para">Najskôr je potrebné zapnúť smerovanie paketov v <span class="app application">ufw</span>. Je potrebné upraviť dva konfiguračné súbory. V súbore <span class="file filename">/etc/default/ufw</span> zmeníme <span class="em emphasis">DEFAULT_FORWARD_POLICY</span> na <span class="quote">„ACCEPT“</span>:</p>
+<div class="code"><pre class="contents ">DEFAULT_FORWARD_POLICY="ACCEPT"
+</pre></div>
+		  <p class="para">Potom otvoríme súbor <span class="file filename">/etc/ufw/sysctl.conf</span> a odpoznámkujeme:</p>
+<div class="code"><pre class="contents ">net/ipv4/ip_forward=1
+</pre></div>
+		  <p class="para">Podobne pre IPv6 smerovanie odkomentujeme:</p>
+<div class="code"><pre class="contents ">net/ipv6/conf/default/forwarding=1
+</pre></div>
+		</li>
+<li class="list itemizedlist">
+		  <p class="para">
+		  Now add rules to the <span class="file filename">/etc/ufw/before.rules</span> file. The default rules only configure the <span class="em emphasis">filter</span>
+	          table, and to enable masquerading the <span class="em emphasis">nat</span> table will need to be configured. Add the following to the top of the file
+		  just after the header comments:	          
+		  </p>
+<div class="code"><pre class="contents "># pravidlá nat tabuľky 
+*nat 
+:POSTROUTING ACCEPT [0:0] 
+ 
+# Presmerovanie komunikácie z eth1 na eth0. 
+-A POSTROUTING -s 192.168.0.0/24 -o eth0 -j MASQUERADE 
+ 
+# nemažte riadok 'COMMIT' inak sa pravidlá tejto tabuľky nevykonajú 
+COMMIT
+</pre></div>
+	          <p class="para">Komentáre nie sú povinné, ale je dobrým zvykom okomentovať našu konfiguráciu. Ak upravujeme akékoľvek <span class="em emphasis">pravidlá</span> v súboroch v priečinku <span class="file filename">/etc/ufw</span> je potrebné sa uistiť, či na konci týchto riadkov každej tabuľky sa nachádzajú tieto riadky:</p>
+
+<div class="code"><pre class="contents "># don't delete the 'COMMIT' line or these rules won't be processed
+COMMIT
+</pre></div>
+
+                  <p class="para">V každej <span class="em emphasis">Tabuľke</span> je potrebný príkaz <span class="em emphasis">COMMIT</span>. V tomto článku boli zobrazené len tabuľky <span class="em emphasis">nat</span> a <span class="em emphasis">filter</span>, ale pravidlá je možné pridať aj do tabuliek <span class="em emphasis">raw</span> a <span class="em emphasis">mangle</span>.</p>
+
+                  <div class="note" title="Poznámka"><div class="inner"><div class="region"><div class="contents">
+                   <p class="para">V uvedenom príklade nahraďte <span class="em emphasis">eth0</span>, <span class="em emphasis">eth1</span> a <span class="em emphasis">192.168.0.0/24</span> sieťovými rozhraniami a rozsahom IP adries, ktoré používate vo vašej sieti.</p>
+                  </div></div></div></div>
+
+		</li>
+<li class="list itemizedlist">
+		  <p class="para">Nakoniec vypneme a znovu zapneme <span class="app application">ufw</span> aby sa prejavili zmeny:</p>
+<div class="code"><pre class="contents "><span class="cmd command">sudo ufw disable &amp;&amp; sudo ufw enable</span>
+</pre></div>
+		</li>
+</ul></div>
+<p class="para">Maskovanie IP adries by teraz malo byť zapnuté. Môžeme pridať ešte niekoľko dodatočných FORWARD pravidiel do súboru <span class="file filename">/etc/ufw/before.rules</span>. Dodatočné pravidlá je odporúčané pridávať do zreťazenia <span class="em emphasis">ufw-before-forward</span>.</p>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="ip-masquerading-iptables"><div class="inner">
+<div class="hgroup"><h3 class="title">Maskovanie pomocou iptables</h3></div>
+<div class="region"><div class="contents">
+<p class="para">
+	    <span class="app application">iptables</span> can also be used to enable Masquerading.  
+	    </p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+  	        <p class="para">
+ 	        Similar to <span class="app application">ufw</span>, the first step is to enable IPv4 packet forwarding by editing 
+		<span class="file filename">/etc/sysctl.conf</span> and uncomment the following line:
+	        </p>
+<div class="code"><pre class="contents ">net.ipv4.ip_forward=1
+</pre></div>
+	        <p class="para">Ak by sme chelí zapnúť aj IPv6 smerovanie odkomentujeme aj riadok:</p>
+<div class="code"><pre class="contents ">net.ipv6.conf.default.forwarding=1
+</pre></div>
+ 	      </li>
+<li class="list itemizedlist">
+		  <p class="para">Potom spustíme príkaz <span class="app application">sysctl</span>, ktorý zapne nové nastavenia v konfigurácii:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo sysctl -p</span>
+</pre></div>
+		</li>
+<li class="list itemizedlist">
+	        <p class="para">IP maskovanie teraz môžeme nastaviť pomocou jedného pravidla iptables, ktoré je potrebné prispôsobiť konfigurácii našej siete:</p>
+<div class="screen"><pre class="contents ">sudo iptables -t nat -A POSTROUTING -s 192.168.0.0/16 -o ppp0 -j MASQUERADE
+</pre></div>
+	        <p class="para">Uvedený príkaz považuje za privátne adresy tie, ktoré sú z rozsahu 192.168.0.0/16 a za zariadenie, ktorým sa pripájame na internet považuje ppp0. Význam ďalších častí príkazu je takýto:</p>
+		<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist"><p class="para">-t nat -- pravidlo patrí do tabuľky nat</p></li>
+<li class="list itemizedlist"><p class="para">-A POSTROUTING -- pravidlo sa pridá (-A) do zreťazenia POSTROUTING</p></li>
+<li class="list itemizedlist"><p class="para">-s 192.168.0.0/16 -- pravidlo platí pre komunikáciu pochádzajúcu zo zadaného rozsahu adries</p></li>
+<li class="list itemizedlist"><p class="para">-o ppp0 -- pravidlo sa aplikuje iba na komunikáciu, ktorá je nasmerovaná von cez zadané sieťové zariadenie</p></li>
+<li class="list itemizedlist">
+                    <p class="para">-j MASQUERADE -- komunikácia spĺňajúca toto pravidlo "preskočí" (-j) na cieľ MASQUERADE, ktorý s ňou bude zaobchádzať vyššie uvedeným spôsobom</p>
+                  </li>
+</ul></div>
+	      </li>
+<li class="list itemizedlist">
+		<p class="para">Každé zreťazenie v tabuľke filter (predvolená tabuľka, v ktorej je definovaná väčšina pravidiel filtrujúcich pakety) má v základnom stave nastavenú <span class="em emphasis">policy</span> (politiku) na ACCEPT (prijať), ale ak chceme vytvoriť firewall s prídavnou funkciou brány, mali by sme politiky nastaviť na DROP (zahodiť) alebo REJECT (odmietnuť), ktorá spôsobí, že maskovaná komunikácia bude musieť prejsť cez zreťazenie FORWARD, v ktorom zadefinujeme pravidlá pre filtrovanie:</p>
+<div class="screen"><pre class="contents ">sudo iptables -A FORWARD -s 192.168.0.0/16 -o ppp0 -j ACCEPT
+sudo iptables -A FORWARD -d 192.168.0.0/16 -m state \
+--state ESTABLISHED,RELATED -i ppp0 -j ACCEPT
+</pre></div>
+		<p class="para">Predchádzajúce príkazy povolia pripojenie prichádzajúce z vnútornej siete do siete Internet a komunikáciu, ktorá súvisí s týmito pripojeniami, presmeruje na počítače, ktoré spojenia nadviazali.</p>
+	      </li>
+<li class="list itemizedlist">
+		<p class="para">Ak chceme, aby bolo maskovanie aktívne aj po reštarte, otvoríme súbor <span class="file filename">/etc/rc.local</span> a pridáme príkazy, ktoré sme použili vyššie. Napríklad prvý príkaz bez filtrovania:</p>
+<div class="screen"><pre class="contents ">iptables -t nat -A POSTROUTING -s 192.168.0.0/16 -o ppp0 -j MASQUERADE
+</pre></div>
+	      </li>
+</ul></div>
+</div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect2 sect" id="firewall-logs"><div class="inner">
+<div class="hgroup"><h2 class="title">Záznamy</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Záznamy Firewallu slúžia na rozpoznanie útokov, riešenie problémov s pravidlami a upozorňovanie na nezvyčajné aktivity v sieti. Aby bol záznam vygenerovaný, je potrebné ho začleniť do pravidla, pretože pravidlá pre zaznamenávanie musia byť známe pred aplikovaním koncového pravidla (pravidlo, ktoré rozhodne o osude paketu ako ACCEPT (prijať), DROP (zahodiť) alebo REJECT (odmietnuť)).</p>
+<p class="para">Ak používame <span class="app application">ufw</span>, môžeme zaznamenávanie zapnúť zadaním nasledujúceho príkazu:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ufw logging on</span>
+</pre></div>
+<p class="para">Ak chceme zaznamenávanie vypnúť <span class="app application">ufw</span>, jednoducho v príkaze slovo <span class="em emphasis">on</span> nahradíme za <span class="em emphasis">off</span>.</p>
+<p class="para">Ak používame <span class="app application">iptables</span> miesto <span class="app application">ufw</span>, zadáme:</p>
+<div class="screen"><pre class="contents ">sudo iptables -A INPUT -m state --state NEW -p tcp --dport 80 \
+-j LOG --log-prefix "NEW_HTTP_CONN: "
+</pre></div>
+<p class="para">
+	     A request on port 80 from the local machine, then, would generate a log in dmesg
+	     that looks like this (single line split into 3 to fit this document):
+	     </p>
+<div class="code"><pre class="contents ">[4304885.870000] NEW_HTTP_CONN: IN=lo OUT= MAC=00:00:00:00:00:00:00:00:00:00:00:00:08:00
+SRC=127.0.0.1 DST=127.0.0.1 LEN=60 TOS=0x00 PREC=0x00 TTL=64 ID=58288 DF PROTO=TCP
+SPT=53981 DPT=80 WINDOW=32767 RES=0x00 SYN URGP=0
+</pre></div>
+<p class="para">
+              The above log will also appear in <span class="file filename">/var/log/messages</span>,
+			  <span class="file filename">/var/log/syslog</span>, and <span class="file filename">/var/log/kern.log</span>.
+			  This behavior can be modified by editing <span class="file filename">/etc/syslog.conf</span>
+			  appropriately or by installing and configuring <span class="app application">ulogd</span>
+			  and using the ULOG target instead of LOG. The <span class="app application">ulogd</span>
+			  daemon is a userspace server that listens for logging instructions from the kernel
+			  specifically for firewalls, and can log to any file you like, or even to a
+			  <span class="app application">PostgreSQL</span> or <span class="app application">MySQL</span>
+			  database.  Making sense of your firewall logs can be simplified by using a log
+			  analyzing tool such as <span class="app application">logwatch</span>, <span class="app application">fwanalog</span>,
+			  <span class="app application">fwlogwatch</span>, or <span class="app application">lire</span>.
+            </p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="other-firewall-tools"><div class="inner">
+<div class="hgroup"><h2 class="title">Ostatné nástroje</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Existuje mnoho nástrojov, ktoré uľahčujú vytvorenie kompletného firewallu bez toho, aby sme poznali iptables. Pre klientov s grafickým rozhraním sú to:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist"><li class="list itemizedlist">
+		<p class="para"><a href="http://www.fwbuilder.org/" class="ulink" title="http://www.fwbuilder.org/">fwbuilder</a> je veľmi mocný a priateľsky vyzerajúci program pre administrátorov, ktorí sú zvyknutí používať komerčné nástroje, ako napríklad <span class="app application">Checkpoint FireWall-1</span>.</p>
+	      </li></ul></div>
+<p class="para">Ak uprednostňujeme nástroje, ktoré sa zadávajú v príkazovom riadku s textovými konfiguračnými súbormi, môžeme použiť:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist"><li class="list itemizedlist">
+		<p class="para"><a href="http://www.shorewall.net/" class="ulink" title="http://www.shorewall.net/">Shorewall</a> je veľmi možný riešenie, ktoré umožňuje nakonfigurovať firewall pre akúkoľvek sieť.</p>
+	      </li></ul></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="firewall-references"><div class="inner">
+<div class="hgroup"><h2 class="title">Zdroje</h2></div>
+<div class="region"><div class="contents"><div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+	      <p class="para">
+	      The <a href="https://wiki.ubuntu.com/UncomplicatedFirewall" class="ulink" title="https://wiki.ubuntu.com/UncomplicatedFirewall">Ubuntu Firewall</a> wiki page contains information on the development
+	      of <span class="app application">ufw</span>.
+	      </p>
+	    </li>
+<li class="list itemizedlist">
+	      <p class="para">Manuálové stránky <span class="app application">ufw</span> tiež obsahujú veľmi užitočné informácie:<span class="cmd command">man ufw</span>.</p>
+	    </li>
+<li class="list itemizedlist">
+	      <p class="para">Na stránke <a href="http://www.netfilter.org/documentation/HOWTO/packet-filtering-HOWTO.html" class="ulink" title="http://www.netfilter.org/documentation/HOWTO/packet-filtering-HOWTO.html">packet-filtering-HOWTO</a> sa nachádza viac informácií o použití <span class="app application">iptables</span>.</p>
+	    </li>
+<li class="list itemizedlist">
+	      <p class="para">Stránka <a href="http://www.netfilter.org/documentation/HOWTO/NAT-HOWTO.html" class="ulink" title="http://www.netfilter.org/documentation/HOWTO/NAT-HOWTO.html">nat-HOWTO</a> obsahuje detaily o maskovaní.</p>
+	    </li>
+<li class="list itemizedlist">
+	      <p class="para">Výborným zdrojom je aj <a href="https://help.ubuntu.com/community/IptablesHowTo" class="ulink" title="https://help.ubuntu.com/community/IptablesHowTo">IPTables HowTo</a> na Ubuntu wiki.</p>
+	    </li>
+</ul></div></div></div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="console-security.html" title="Zabezpečenie konzoly">Predchádzajúca</a><a class="nextlinks-next" href="apparmor.html" title="AppArmor">Nasledujúca</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p></div>
+</div>
+</body>
+</html>

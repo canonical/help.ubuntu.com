@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang=sk>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Subversion</title>
+<link rel="stylesheet" type="text/css" href="sk.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../16.04" class="trail">Ubuntu 16.04</a> » <a class="trail" href="index.html" title="Príručka k správe Ubuntu servera">Príručka k správe Ubuntu servera</a> » <a class="trail" href="version-control-system.html" title="Systém správy verzií">Systém správy verzií</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="git.html" title="Git">Predchádzajúca</a><a class="nextlinks-next" href="version-control-ref.html" title="Zdroje">Nasledujúca</a>
+</div>
+<div class="hgroup"><h1 class="title">Subversion</h1></div>
+<div class="region">
+<div class="contents"><p class="para">Subversion je systém s otvoreným zdrojovým kódom na správu verzií. Pomocou Subversion, môžete zaznamenať históriu zdrojových súborov a dokumentov. Spravuje súbory a priečinky v čase. Strom súborov je umiestnený v centrálnom úložisku. Úložisko je veľmi podobné súborovému serveru s tým rozdielom, že si pamätá každú zmenu vykonanú v súboroch a priečinkoch.</p></div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="subversion.html#subversion-installation" title="Inštalácia">Inštalácia</a></li>
+<li class="links"><a class="xref" href="subversion.html#subversion-configuration" title="Konfigurácia servera">Konfigurácia servera</a></li>
+<li class="links"><a class="xref" href="subversion.html#access-methods" title="Spôsoby prístupu">Spôsoby prístupu</a></li>
+</ul></div>
+<div class="sect2 sect" id="subversion-installation"><div class="inner">
+<div class="hgroup"><h2 class="title">Inštalácia</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Aby sme mohli pristupovať k úložisku systému Subversion cez HTTP protokol, musíme nastaviť webový server. Správnu funkčnosť so systémom Subversion vykazuje webový server Apache2. Návod, ako nainštalovať webový server Apache2, nájdeme v časti HTTPD – webový server Apache2. Aby sme mohli do úložiska systému Subversion pristupovať cez HTTPS protokol, musíme nainštalovať a nastaviť digitálny certifikát pre webový server Apache 2. Návod na nastavenie digitálneho certifikátu nájdeme v časti Nastavenie HTTPS.</p>
+<p class="para">Subversion nainštalujeme zadaním nasledujúceho príkazu do príkazového riadka:</p>
+<p class="para">
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install subversion apache2 libapache2-svn</span>
+</pre></div>
+	    </p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="subversion-configuration"><div class="inner">
+<div class="hgroup"><h2 class="title">Konfigurácia servera</h2></div>
+<div class="region">
+<div class="contents"><p class="para">V tomto kroku budeme predpokladať, že máme nainštalované vyššie spomínané balíky. V tejto časti si povieme, ako môžeme vytvoriť úložisko systému Subversion a vstúpiť do projektu.</p></div>
+<div class="sect3 sect" id="create-svn-repos"><div class="inner">
+<div class="hgroup"><h3 class="title">Vytvorenie úložiska Subversion</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Úložisko systému Subversion môžeme vytvoriť zadaním nasledujúceho príkazu do príkazového riadka:</p>
+<p class="para">
+<div class="screen"><pre class="contents "><span class="cmd command">svnadmin create /cesta/k/uložisku/projektu</span>
+</pre></div>
+        </p>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="import-svn-files"><div class="inner">
+<div class="hgroup"><h3 class="title">Importovanie súborov</h3></div>
+<div class="region"><div class="contents"><p class="para">Po vytvorení úložiska môžeme <span class="em emphasis">naimportovať</span> súbory do úložiska. Import do priečinka spustíme zadaním nasledujúceho príkazu do príkazového riadka: <div class="screen"><pre class="contents "><span class="cmd command">svn import /path/to/import/directory file:///path/to/repos/project</span>
+</pre></div></p></div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect2 sect" id="access-methods"><div class="inner">
+<div class="hgroup"><h2 class="title">Spôsoby prístupu</h2></div>
+<div class="region">
+<div class="contents">
+<p class="para">Do úložísk systému Subversion sa dá vstúpiť rôznymi spôsobmi - cez lokálny disk alebo pomocou rôznych sieťových protokolov. Umiestnenie úložiska však vždy zadávame vo forme URL adresy. V nasledujúcej tabuľke je popis rôznych metód prístupu.</p>
+<div class="table">
+<div class="title"><h3><span class="title">Spôsoby prístupu</span></h3></div>
+<table summary="Spôsoby prístupu" style="border: solid 1px;">
+<thead><tr>
+<th class="td-colsep"><p class="para">Schéma</p></th>
+<th><p class="para">Spôsob prístupu</p></th>
+</tr></thead>
+<tbody>
+<tr>
+<td class="td-colsep"><p class="para">file://</p></td>
+<td><p class="para">Priamy prístup do úložiska (ak je na lokálnom disku)</p></td>
+</tr>
+<tr class="shade">
+<td class="td-colsep"><p class="para">http://</p></td>
+<td><p class="para">Prístup cez protokol WebDAV k Apache2 web serveru s podporou Subversion</p></td>
+</tr>
+<tr>
+<td class="td-colsep"><p class="para">https://</p></td>
+<td><p class="para">Rovnaký ako http://, len spolu s SSL šifrovaním</p></td>
+</tr>
+<tr class="shade">
+<td class="td-colsep"><p class="para">svn://</p></td>
+<td><p class="para">Prístup cez vlastný protokol k svnserve serveru</p></td>
+</tr>
+<tr>
+<td class="td-colsep"><p class="para">svn+ssh://</p></td>
+<td><p class="para">Rovnaký ako svn://, ale cez SSH tunel</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p class="para">V tejto časti si ukážeme, ako nastaviť Subversion, aby všetky tieto metódy prístupu fungovali. Povieme si len o základných nastaveniach. Viac informácii sa nachádza v knihe <a href="http://svnbook.red-bean.com/" class="ulink" title="http://svnbook.red-bean.com/">svn book</a>.</p>
+</div>
+<div class="sect3 sect" id="direct-repos-access"><div class="inner">
+<div class="hgroup"><h3 class="title">Priamy prístup do úložiska (file://)</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Toto je najjednoduchšia metóda prístupu. Nevyžaduje, aby bol spustený nejaký serverový proces Subversion. Táto metóda prístupu sa používa na prístup z rovnakej stanice ako je tá, na ktorej je umiestnené úložisko Subversion. Syntax príkazu, ktorý zadáme do príkazového riadka je nasledujúci:</p>
+<p class="para">
+<div class="screen"><pre class="contents "><span class="cmd command">svn co file:///cesta/k/uložisku/projektu</span>
+</pre></div>
+        </p>
+<p class="para">alebo</p>
+<p class="para">
+<div class="screen"><pre class="contents "><span class="cmd command">svn co file://localhost/cesta/k/uložisku/projektu</span>
+</pre></div>
+        </p>
+<div class="note" title="Poznámka"><div class="inner"><div class="region"><div class="contents">
+		<p class="para">Ak nezadáme názov stanice, je potrebné použiť tri lomky (///) -- dve pre protokol (file:// ) a jedno ako označenie kmeňového priečinka súborového systému. Ak zadáme názov stanice (localhost), stačia iba dve lomky (//).</p>
+	</div></div></div></div>
+<p class="para">Oprávnenia k úložisku závisia od oprávnení použíitých v súborovom systéme. Ak používateľ má právo na čítanie a zápis, môže prečítať obsah úložiska a zapisovať do neho.</p>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="access-via-webdav"><div class="inner">
+<div class="hgroup"><h3 class="title">Prístup cez protokol WebDAV (http://)</h3></div>
+<div class="region"><div class="contents">
+<p class="para">
+                          To access the Subversion repository via WebDAV protocol, you must configure your Apache 2 web server. Add the following snippet between the 
+                          <span class="em emphasis">&lt;VirtualHost&gt;</span> and <span class="em emphasis">&lt;/VirtualHost&gt;</span> elements in
+                          <span class="file filename">/etc/apache2/sites-available/000-default.conf</span>, or another VirtualHost file:
+                          </p>
+<div class="code"><pre class="contents "> &lt;Location /svn&gt;
+  DAV svn
+  SVNParentPath /path/to/repos
+  AuthType Basic
+  AuthName "Your repository name"
+  AuthUserFile /etc/subversion/passwd
+  Require valid-user
+ &lt;/Location&gt; 
+</pre></div>
+<div class="note" title="Poznámka"><div class="inner"><div class="region"><div class="contents">
+		<p class="para">The above configuration snippet assumes that Subversion
+    repositories are created under <span class="file filename">/path/to/repos</span>
+    directory using <span class="cmd command">svnadmin</span> command and that the HTTP user has sufficent access rights to the files (see below).  They can be
+    accessible using <span class="cmd command">http://hostname/svn/repos_name</span>
+    url.</p>
+    </div></div></div></div>
+<p class="para">
+         Changing the apache configuration like the above requires to reload
+         the service with the following command
+         </p>
+<div class="screen"><pre class="contents ">    <span class="cmd command">sudo systemctl reload apache2.service</span>
+</pre></div>
+<p class="para">
+         To import or commit files to your Subversion repository over
+         HTTP, the repository should be owned by the HTTP user. In
+         Ubuntu systems, the HTTP user is
+         <span class="cmd command">www-data</span>.  To change the ownership of the
+         repository files enter the following command from terminal
+         prompt:
+         </p>
+<div class="screen"><pre class="contents ">    <span class="cmd command">sudo chown -R www-data:www-data /path/to/repos</span>
+</pre></div>
+<div class="note" title="Poznámka"><div class="inner"><div class="region"><div class="contents">
+        <p class="para">Po zmene vlastníka úložiska na <span class="cmd command">www-data</span> nebude možné importovať a odosielať súbory do úložiska pomocou príkazu <span class="cmd command">svn import file:///</span> pod iným používateľom než je <span class="cmd command">www-data</span>.</p>
+        </div></div></div></div>
+<p class="para">V ďalšom kroku vytvoríme súbor <span class="file filename">/etc/subversion/passwd</span>, ktorý bude obsahovať autentifikačné informácie o používateľoch. Súbor vytvoríme zadaním nasledujúceho príkazu do príkazového riadka (ten vytvorí súbor a pridá prvého používateľa):</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo htpasswd -c /etc/subversion/passwd meno_pouzivatela</span>
+</pre></div>
+<p class="para">Ak chceme pridať ďalších používateľov, môžeme vynechať prepínač <span class="em emphasis">"-c"</span> inak by bol súbor nanovo vytvorený. Použijeme teda takýto príkaz:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo htpasswd /etc/subversion/passwd user_name</span>
+</pre></div>
+<p class="para">Po spustení príkazu bude potrebné zadať heslo. Po zadaní hesla sa pridá používateľ. Odteraz sa nový používateľ bude môcť pripojiť do úložiska spustením nasledujúceho príkazu:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">svn co http://menoservera/sv</span></pre></div>
+<div class="note note-warning" title="Upozornenie"><div class="inner"><div class="region"><div class="contents">
+		<p class="para">Heslo sa bude prenášať ako bežný text. Ak sa obávate odchytenia hesla, je potrebné použiť SSL šifrovanie. Viac informácii je v nasledujúcom texte.</p>
+	</div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="access-via-webdav-with-ssl"><div class="inner">
+<div class="hgroup"><h3 class="title">Prístup cez protokol WebDAV s SSL šifrovaním (https://)</h3></div>
+<div class="region"><div class="contents">
+<p class="para"> 
+					Accessing Subversion repository via WebDAV protocol with SSL 
+					encryption (https://) is similar to http:// except that you 
+					must install and configure the digital certificate in your 
+					Apache2 web server.  To use SSL with Subversion add the above
+                                        Apache2 configuration to <span class="file filename">/etc/apache2/sites-available/default-ssl.conf</span>.
+                                        For more information on setting up Apache2 with SSL see <a class="xref" href="httpd.html#https-configuration" title="Konfigurácia HTTPS">Konfigurácia HTTPS</a>.
+					</p>
+<p class="para">Môžeme nainštalovať digitálny certifikát podpísaný certifikačnou autoritou alebo nainštalovať sebou podpísaný certifikát.</p>
+<p class="para">Za predpokladu, že máme nainštalovaný a nastavený digitálny certifikát pre webový server Apache 2, môžeme vstúpiť do úložiska Subversion tak, ako je to popísané v predchádzajúcej časti. Spôsob prístupu je presne ten istý, s tým rozdielom, že na prístup do úložiska Subversion použijeme protokol https://.</p>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="access-via-custom-protocol"><div class="inner">
+<div class="hgroup"><h3 class="title">Prístup pomocou vlastného protokolu (svn://)</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Po vytvorení úložiska Subversion môžeme nastaviť prístupový protokol. Otvoríme súbor <span class="file filename">/cesta/k/úložisku/projektu/conf/svnserve.conf</span> a nastavíme riadenie prístupu. Napríklad, ak chceme nastaviť autentifikáciu, odpoznámkujeme nasledujúce riadky v konfiguračnom súbore:</p>
+<div class="code"><pre class="contents "># [general]
+# password-db = passwd</pre></div>
+<p class="para">Po odpoznámkovaní predchádzajúcich riadkov môžeme upraviť zoznam používateľov v súbore passwd. Otvoríme súbor passwd, ktorý sa nachádza v rovnakom priečinku a pridáme nového používateľa. Syntax je nasledovná:</p>
+<div class="code"><pre class="contents ">menopouzivatela = heslo</pre></div>
+<p class="para">Viac informácií sa dozviete priamo v súbore.</p>
+<p class="para">Teraz môžeme vstúpiť do úložiska Subversion cez vlastný protokol svn://, buď z rovnakého alebo vzdialeného počítača, spustením príkazu svnserve. Syntax je nasledovná:</p>
+<div class="code"><pre class="contents ">$ svnserve -d --foreground -r /cesta/k/úložisku
+# -d -- režim démona
+# --foreground -- spustí na popredí (užitočné pre ladenie)
+# -r -- poskytnúť ako kmeňový priečinok
+
+Viac informácie o príkaze získame po zadaní:
+$ svnserve --help</pre></div>
+<p class="para">Po spustení tohto príkazu Subversion začne načúvať na predvolenom porte (3690). Ak sa chceme pripojiť do úložiska project, musíme spustiť nasledujúci príkaz v príkazovom riadku:</p>
+<p class="para">
+<div class="screen"><pre class="contents "><span class="cmd command">svn co svn://nazovstanice/project project --username meno_pouzivatela</span>
+</pre></div>
+                                        </p>
+<p class="para">Ak je server tak nastavený, vyžiada si zadanie hesla. Po autentifikácii sa porovná kód s úložiskom Subversion. Ak chceme synchronizovať úložisko s lokálnou kópiou projektu, môžeme použiť príkaz svn update. Syntax príkazu je nasledovná:</p>
+<p class="para">
+<div class="screen"><pre class="contents "><span class="cmd command">cd priečinok_projektu ; svn update</span>
+</pre></div>
+                                        </p>
+<p class="para">Viac informácií o používaní podpríkazov príkazu svn sa dozvieme v referenčnej príručke. Napríklad, ak sa chceme dozvedieť viac o príkaze co (checkout), spustíme nasledujúci príkaz v príkazovom riadku:</p>
+<p class="para"><div class="screen"><pre class="contents "><span class="cmd command">svn co help</span></pre></div></p>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="access-via-custom-protocol-with-ssh"><div class="inner">
+<div class="hgroup"><h3 class="title">Access via custom protocol with SSH encryption (svn+ssh://)</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Konfigurácia a spustenie serverového procesu je rovnaká ako pri metóde svn://. Detaily sa nachádzajú v predchádzajúcej časti. V tomto kroku predpokladáme, že sme už vykonali predchádzajúce kroky a že sme spustili Subversion server pomocou príkazu <span class="app application">svnserve</span>.</p>
+<p class="para">Predpokladáme tiež, že je na počítači spustený ssh server, ktorý umožňuje pripojenia. Aby sme sa o tom uistili, prihlásime sa k počítaču pomocou ssh. Ak sme sa prihlásili, všetko funguje správne. Ak sa nám prihlásiť nepodarilo, je potrebné najskôr odstrániť tento problém.</p>
+<p class="para">Protokol svn+ssh:// sa používa na prístup k úložisku Subversion pomocou SSL šifrovania. Dátový prenos je šifrovaný pomocou tejto metódy. Ak sa chceme pripojiť do úložiska (napríklad pomocou príkazu checkout), použijeme nasledujúcu syntax:</p>
+<p class="para">
+<div class="screen"><pre class="contents ">    <span class="cmd command">svn co svn+ssh://ssh_username@hostname/path/to/repos/project</span>
+</pre></div>
+                                        </p>
+<div class="note" title="Poznámka"><div class="inner"><div class="region"><div class="contents"><p class="para">Pri použití tejto metódy je potrebné použiť celú cestu (/cesta/k/úložisku/projektu) k úložisku Subversion.</p></div></div></div></div>
+<p class="para">Ak je server tak nastavený, vyžiada si prístupové heslo. Musíme zadať heslo, ktorým sa prihlasujeme cez ssh. Po prihlásení sa skontroluje kód z úložiska Subversion.</p>
+</div></div>
+</div></div>
+</div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="git.html" title="Git">Predchádzajúca</a><a class="nextlinks-next" href="version-control-ref.html" title="Zdroje">Nasledujúca</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p></div>
+</div>
+</body>
+</html>

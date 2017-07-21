@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang=el>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Σχετικά με αυτό τον οδηγό</title>
+<link rel="stylesheet" type="text/css" href="el.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Βοήθεια"></span></span> Οδηγός χρήσης Ubuntu</a> » <a class="trail" href="more-help.html" title="Περισσότερη βοήθεια">Περισσότερη βοήθεια</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Σχετικά με αυτό τον οδηγό</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Ο οδηγός αυτός σας ξεναγει στα χαρακτηριστικά της επιφάνειας εργασίας του Ubuntu, απαντά σε ερωτήσεις σχετικές με τον υπολογιστή σας και δίνει συμβουλές για την αποτελεσματική χρήση του.</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p">Ο οδηγός αυτός χωρίζεται σε θέματα ανά εργασία και όχι σε κεφάλαια. Αυτό σημαίνει ότι δεν χρειάζεται να διαβάσετε ολόκληρο το εγχειρίδιο για να βρείτε τις απαντήσεις στα ερωτήματά σας.</p></li>
+<li class="list"><p class="p">Οι απαντήσεις που έχουν κάποια σχέση μεταξύ τους είναι συνδεδεμένες. Το «Δείτε επίσης», σας παραπέμπει στο κάτω μέρος των σελίδων όπου μπορείτε να ανακατευθυνθείτε σε σχετικές ενότητες.</p></li>
+<li class="list"><p class="p">Το κουτί εισαγωγής κειμένου στην κορυφή αυτού του οδηγούν λειτουργεί ως <span class="em">μπάρα αναζήτησης</span> και μόλις αρχίσετε να πληκτρολογείται θα εμφανίζονται σχετικά αποτελέσματα. Κάντε αριστερό κλικ σε οποιοδήποτε αποτέλεσμα για να ανοίξετε την σελίδα του.</p></li>
+<li class="list"><p class="p">Ο οδηγός βελτιώνεται συνεχώς. Αν και προσπαθούμε να σας παρέχουμε μια κατανοητή συλλογή χρήσιμων πληροφοριών, ξέρουμε πως δεν θα απαντήσουμε όλες τις ερωτήσεις σας εδώ. Θα συνεχίσουμε εντούτοις να προσθέτουμε περισσότερες πληροφορίες ώστε να βοηθήσουμε περισσότερο.</p></li>
+</ul></div></div></div>
+<p class="p">Ευχαριστούμε για το χρόνο που διαθέσατε να διαβάσετε τον <span class="em">Οδηγό επιφάνειας εργασίας Ubuntu</span></p>
+<p class="p">
+    -- The Ubuntu Documentation team
+  </p>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="more-help.html" title="Περισσότερη βοήθεια">Περισσότερη βοήθεια</a><span class="desc"> — <span class="link"><a href="about-this-guide.html" title="Σχετικά με αυτό τον οδηγό">Συμβουλές για τη χρήση του οδηγού</a></span>, <span class="link"><a href="get-involved.html" title="Συμμετέχετε για να βελτιώσετε αυτό τον οδηγό">βοηθήστε στη βελτίωση αυτού του οδηγού</a></span>…</span>
+</li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="unity-introduction.html" title="Καλώς ήρθατε στο Ubuntu">Καλώς ήρθατε στο Ubuntu</a><span class="desc"> — Μια οπτική εισαγωγή στην επιφάνεια εργασίας του Unity.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

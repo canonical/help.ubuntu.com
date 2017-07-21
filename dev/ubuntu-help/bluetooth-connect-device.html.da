@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang=da>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Connect your computer to a Bluetooth device</title>
+<link rel="stylesheet" type="text/css" href="da.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Connect your computer to a Bluetooth device</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Before you can use a Bluetooth device like a mouse or a headset, you first
+  need to connect your computer to the device. This is also called
+  <span class="em">pairing</span> the Bluetooth devices.</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Bluetooth</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Make sure Bluetooth is enabled: the switch at the top should be set to
+      <span class="gui">ON</span>. With the panel open and the switch <span class="gui">ON</span>, your
+      computer will begin searching for devices.</p></li>
+<li class="steps"><p class="p">Make the other Bluetooth device
+      <span class="link"><a href="bluetooth-visibility.html" title="What is Bluetooth visibility?">discoverable or visible</a></span> and
+      place it within 5-10 meters (about 16-33 feet) of your computer.</p></li>
+<li class="steps"><p class="p">Click the device in the <span class="gui">Devices</span> list. The panel for the
+      device will open.</p></li>
+<li class="steps">
+<p class="p">If required, confirm the PIN on your other device. The device should
+      show you the PIN you see on your computer screen. Confirm the PIN on the
+      device (you may need to click <span class="gui">Pair</span> or <span class="gui">Confirm</span>),
+      then click <span class="gui">Confirm</span> on the computer.</p>
+<p class="p">You need to finish your entry within about 20 seconds on most devices,
+      or the connection will not be completed. If that happens, return to the
+      device list and start again.</p>
+</li>
+<li class="steps"><p class="p">The entry for the device in the <span class="gui">Devices</span> list will show a
+      <span class="gui">Connected</span> status.</p></li>
+<li class="steps"><p class="p">To edit the device, click on it in the <span class="gui">Device</span> list. You
+      will see a panel specific to the device. It may display additional
+      options applicable to the type of device to which you are connecting.</p></li>
+<li class="steps"><p class="p">Close the panel once you have changed the settings.</p></li>
+</ol></div></div></div>
+<div class="media media-image floatend"><div class="inner"><img src="figures/bluetooth-menu.png" class="media media-block" alt="The Bluetooth icon on the top bar"></div></div>
+<p class="p">When one or more Bluetooth devices are connected, the Bluetooth icon
+  appears in the system status area.</p>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — 
+      <span class="link"><a href="bluetooth-connect-device.html" title="Connect your computer to a Bluetooth device">Connect</a></span>,
+      <span class="link"><a href="bluetooth-send-file.html" title="Send files to a Bluetooth device">send files</a></span>,
+      <span class="link"><a href="bluetooth-turn-on-off.html" title="Turn Bluetooth on or off">turn on and off</a></span>…
+    </span>
+</li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Se også</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="sharing-bluetooth.html" title="Control sharing over Bluetooth">Control sharing over Bluetooth</a><span class="desc"> — Allow files to be uploaded to your computer over Bluetooth.</span>
+</li>
+<li class="links ">
+<a href="bluetooth-remove-connection.html" title="Disconnect a Bluetooth device">Disconnect a Bluetooth device</a><span class="desc"> — Remove a device from the list of Bluetooth devices.</span>
+</li>
+</ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=oc>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Partiment de vòstre burèu</title>
+<link rel="stylesheet" type="text/css" href="oc.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Guida del burèu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guide del burèu Ubuntu</a> » <a class="trail" href="net.html" title="Ret, Web, corrièr electronic &amp; chat">Ret, Web, corrièr electronic &amp; chat</a> » <a class="trail" href="sharing.html" title="Partage">Partage</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Partiment de vòstre burèu</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Podètz permetre a d'autras personas d'afichar e contrarotlar vòstre burèu a partir d'un autre ordenador amb una aplicacion de visualizacion de burèu. Configurez <span class="app">Partiment de burèu</span> per autorizar d'autras personas a accedir a vòstre burèu e parametrar las preferéncias de seguretat.</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Dins lo <span class="gui">Tablèu de bòrd</span>, dobrissètz <span class="app">Partiment de burèu</span>.</p></li>
+<li class="steps"><p class="p">Per autorizar d'autras personas a veire vòstre burèu, seleccionatz <span class="gui">Autorizar d'autres utilizaires a veire vòstre burèu</span>. Ara, d'autras personas pòdon ensajar de se connectar a vòstre ordenador per veire çò qu'i a a l'ecran.</p></li>
+<li class="steps"><p class="p">Per autorizar d'autras personas a interagir amb vòstre burèu, seleccionatz <span class="gui">Autorizar d'autres utilizaires a contrarotlar vòstre burèu</span>. Aquesta autorizacion permet a un utilizaire distant de desplaçar lo puntador de vòstra mirga, d'aviar des aplicacions e de consultar des fichièrs sus vòstre ordenador en foncion des paramètres de seguretat que avètz definit.</p></li>
+</ol></div></div></div>
+</div>
+<div id="security" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Seguretat</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Es important que vous mesuriez e compreniez la portada de cada opcion de seguretat abans de la modificar.</p>
+<div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms">Confirmacion de l'accès a vòstra maquina</dt>
+<dd class="terms">
+<p class="p">Se desiratz contrarotlar e decidir de daissar o pas l'accès a qualqu'un a vòstre burèu, seleccionatz <span class="gui">Cada accès a aqueste ordenador deu èsser confirmat</span>. Se desactivatz aquesta foncion, vos serà pas demandat d'autorizacion per daissar qualqu'un se connectar a vòstre ordenador.</p>
+<div class="note note-tip" title="Astúcia"><div class="inner"><div class="region"><div class="contents"><p class="p">Aquesta opcion es activada per defaut.</p></div></div></div></div>
+</dd>
+<dt class="terms">Activacion per senhal</dt>
+<dd class="terms">
+<p class="p">Per obligar un autre utilizaire a s'identificar per senhal per se connectar a vòstre ordenador, seleccionatz <span class="gui">L'utilizaire deu sasir aqueste senhal</span>. Se o fasètz pas, qual que siá pòt ensajar de veire vòstre burèu.</p>
+<div class="note note-tip" title="Astúcia"><div class="inner"><div class="region"><div class="contents"><p class="p">Aquesta opcion es desactivada per defaut, mas lo deuriatz activar e definir un senhal securizat.</p></div></div></div></div>
+</dd>
+<dt class="terms">Autorizacion d'accès a vòstre burèu per internet</dt>
+<dd class="terms">
+<p class="p">Se vòstre rotador pren en carga los protocòls UPnP (Internet Gateway Device Protocol) e s'ils son activats, podètz permetre a d'autres utilizaires que son pas connectats a vòstra ret locala de veire vòstre burèu. Seleccionatz <span class="gui">Configurar automaticament lo rotador UPnP per dobrir e redirigir des pòrts</span>. Podètz tanben configurar manualament vòstre rotador.</p>
+<div class="note note-tip" title="Astúcia"><div class="inner"><div class="region"><div class="contents"><p class="p">Aquesta opcion es desactivada per defaut.</p></div></div></div></div>
+</dd>
+</dl></div></div></div>
+</div></div>
+</div></div>
+<div id="notification-icon" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Afichatge d'una icòna de notification</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Afin de poder desconnectar qualqu'un en train de consultar vòstre burèu, vos cal activar aquesta foncion. Se vous marcatz <span class="gui">Totjorn</span>, aquesta icòna serà totjorn visible, que qualqu'un siá connectat o non a vòstre burèu.</p>
+<div class="note note-warning" title="Alèrta"><div class="inner"><div class="region"><div class="contents"><p class="p">Se vous daissatz aquesta opcion desactivada, qualqu'un poiriá se connectar a vòstre burèu sens que vous lo sachiez, en foncion des paramètres de seguretat.</p></div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Mai d'entresenhas</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="sharing.html" title="Partage">Partage</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Partiment de vòstre burèu">partiment de burèu</a></span>, <span class="link"><a href="files-share.html" title="Partiment e transfert de fichièrs">partiment de fichièrs</a></span>…</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

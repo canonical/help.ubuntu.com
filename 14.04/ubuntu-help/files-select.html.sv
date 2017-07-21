@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang=sv>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Markera filer efter mönster</title>
+<link rel="stylesheet" type="text/css" href="sv.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html#faq" title="Tips och frågor">Tips och frågor</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Markera filer efter mönster</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Du kan markera filer i en mapp utifrån ett mönster för filnamnet. Tryck <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>S</kbd></span></span> för att öppna fönstret <span class="gui">Markera matchande objekt</span>. Skriv ett mönster som använder gemensamma delar av filnamnen och jokertecken. Två jokertecken finns:</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact">
+<li class="list"><p class="p"><span class="file">*</span> matcher ett godtyckligt antal tecken, även inga tecken alls.</p></li>
+<li class="list"><p class="p"><span class="file">?</span> matchar exakt ett tecken.</p></li>
+</ul></div></div></div>
+<p class="p">Till exempel:</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list">
+<p class="p">Om du har en OpenDocument Text-fil, en PDF-fil, och en bild som alla har samma namn, <span class="file">Kvittens</span>, markera alla tre med mönstret</p>
+<div class="example"><p class="p"><span class="file">Kvittens.*</span></p></div>
+</li>
+<li class="list">
+<p class="p">Om du har några bilder med namn som <span class="file">Semester-001.jpg</span>, <span class="file">Semester-002.jpg</span>, <span class="file">Semester-003.jpg</span>; markera allihop med mönstret</p>
+<div class="example"><p class="p"><span class="file">Semester-???.jpg</span></p></div>
+</li>
+<li class="list">
+<p class="p">Om du har foton, som förut, men du har redigerat några av dem och lagt till <span class="file">-red</span> i slutet av filnamnet för fotona du har redigerat, markera de redigerade bilderna med</p>
+<div class="example"><p class="p"><span class="file">Semester-???-red.jpg</span></p></div>
+</li>
+</ul></div></div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Mer information</span></h2></div>
+<div class="region"><ul><li class="links "><a href="files.html#faq" title="Tips och frågor">Tips och frågor</a></li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

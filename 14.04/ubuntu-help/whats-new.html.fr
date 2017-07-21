@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang=fr>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Quoi de neuf dans Ubuntu 14.04 ?</title>
+<link rel="stylesheet" type="text/css" href="fr.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide du bureau Ubuntu</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Quoi de neuf dans Ubuntu 14.04 ?</span></h1></div>
+<div class="region">
+<div class="contents"><p class="p">Ubuntu 14.04 LTS continue à faire évoluer l'interface <span class="em">Unity</span>. Voici quelques nouveautés depuis Ubuntu 12.04 LTS.</p></div>
+<div id="new-features" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Fonctionnalités nouvelles et améliorées</span></h2></div>
+<div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p">Les menus des applications actuellement actives sont par défaut disponibles dans la <span class="link"><a href="unity-menubar-intro.html#app-menus" title="Menus d'applications">barre de menu</a></span> intégrée d'Ubuntu. Cependant, si vous le souhaitez, vous pouvez basculer sur le style conventionnel et afficher les menus d'applications dans la barre de titre de l'application respective à la place (cette dernière option est nouvelle depuis Ubuntu 13.10).</p></li>
+<li class="list"><p class="p">Prise en charge de la mise à l'échelle d'Unity sur la base de chaque écran, ce qui permet un meilleure expérience sur des affichages à haute définition. Une prise en charge similaire de la mise à l'échelle est également disponible dans LibreOffice et Chromium.</p></li>
+<li class="list"><p class="p">Apparence et style améliorés incluant des décorations de fenêtre arrondies, une nouvelle interface pour le déverrouillage de l'écran et d'autres peaufinements au thème.</p></li>
+<li class="list"><p class="p">L'<span class="link"><a href="keyboard-layouts.html" title="Utiliser des sources d'entrée alternatives">interface de <span class="gui">Saisie de texte</span> intégrée</a></span> et la source d'entrée associée du <span class="link"><a href="unity-menubar-intro.html#status-menus" title="Menus d'état">menu d'état</a></span> sont conçues pour paramétrer à la fois l'agencement du clavier et les méthodes d'entrée IBus.</p></li>
+<li class="list">
+<p class="p">De nombreuses améliorations ont été apportées au <span class="gui">Tableau de bord</span> :</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p">Le <span class="gui">Tableau de bord</span> peut maintenant effectuer simultanément des recherches sur des douzaines de sources en ligne différentes. Les recherches sur Internet <span class="link"><a href="unity-shopping.html" title="Pourquoi y a-t-il des liens commerciaux dans le tableau de bord ?">peuvent être désactivées</a></span>.</p></li>
+<li class="list"><p class="p">Les résultats de recherche du <span class="gui">Tableau de bord</span> peuvent être filtrés par catégorie et par source.</p></li>
+<li class="list"><p class="p">Un clic droit sur un résultat de recherche dans le <span class="gui">Tableau de bord</span> affichera un aperçu en plein écran avec plus d'informations.</p></li>
+<li class="list"><p class="p">Utilisez la <span class="link"><a href="unity-dash-photos.html" title="Lentille Photos">lentille Photos</a></span> pour voir les photos stockées sur votre ordinateur ou sur les réseaux sociaux.</p></li>
+<li class="list"><p class="p">Ajoutez ou retirez des moteurs de recherche à partir du <span class="gui">Tableau de bord</span> pour personnaliser votre expérience.</p></li>
+<li class="list"><p class="p">Parcourez les messages de vos réseaux sociaux avec le nouveau <span class="link"><a href="unity-dash-friends.html" title="Moteur de recherche Amis">moteur de recherche Amis</a></span>.</p></li>
+</ul></div></div></div>
+</li>
+<li class="list"><p class="p">Saisissez vos informations de connexion dans <span class="link"><a href="accounts.html" title="Comptes en ligne">Comptes en ligne</a></span> pour paramétrer facilement l'intégration en ligne pour le Tableau de bord, Empathy et bien plus.</p></li>
+<li class="list"><p class="p">Conservez la trace des informations de contact de vos amis et collègues avec <span class="link"><a href="contacts.html" title="Contacts">Contacts</a></span>, votre carnet d'adresses personnel.</p></li>
+</ul></div></div></div></div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="shell-overview.html" title="Bureau, applications &amp; fenêtres">Bureau, applications &amp; fenêtres</a><span class="desc"> — <span class="link"><a href="unity-introduction.html" title="Bienvenue sur Ubuntu">Introduction</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Les raccourcis clavier utiles">raccourcis clavier</a></span>, <span class="link"><a href="shell-windows.html" title="Fenêtres et espaces de travail">fenêtres</a></span>…</span>
+</li>
+<li class="links "><a href="index.html" title="Guide du bureau Ubuntu">Guide du bureau Ubuntu</a></li>
+</ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

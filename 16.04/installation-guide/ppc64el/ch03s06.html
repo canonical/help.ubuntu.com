@@ -1,0 +1,340 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>3.6. Pre-Installation Hardware and Operating System Setup</title>
+<link rel="stylesheet" type="text/css" href="install.css">
+<meta name="generator" content="DocBook XSL Stylesheets V1.79.1">
+<link rel="home" href="index.html" title="Ubuntu Installation Guide">
+<link rel="up" href="ch03.html" title="Chapter 3. Before Installing Ubuntu">
+<link rel="prev" href="ch03s05.html" title="3.5. Pre-Partitioning for Multi-Boot Systems">
+<link rel="next" href="ch04.html" title="Chapter 4. Obtaining System Installation Media">
+</head>
+<body bgcolor="white" text="black" link="#0000FF" vlink="#840084" alink="#0000FF">
+<div class="navheader">
+<table width="100%" summary="Navigation header">
+<tr><th colspan="3" align="center">3.6. Pre-Installation Hardware and Operating System Setup</th></tr>
+<tr>
+<td width="20%" align="left">
+<a accesskey="p" href="ch03s05.html"><img src="images/prev.png" alt="Prev"></a> </td>
+<th width="60%" align="center">Chapter 3. Before Installing Ubuntu</th>
+<td width="20%" align="right"> <a accesskey="n" href="ch04.html"><img src="images/next.png" alt="Next"></a>
+</td>
+</tr>
+</table>
+<hr>
+</div>
+<div class="sect1">
+<div class="titlepage"><div><div><h2 class="title">
+<a name="pre-install-bios-setup"></a>3.6. Pre-Installation Hardware and Operating System Setup</h2></div></div></div>
+<p>
+
+This section will walk you through pre-installation hardware setup, if
+any, that you will need to do prior to installing Ubuntu.  Generally,
+this involves checking and possibly changing BIOS/system firmware settings for
+your system.  The <span class="quote">“<span class="quote">BIOS</span>”</span> or <span class="quote">“<span class="quote">system firmware</span>”</span> is the core software used by the
+hardware; it is most critically invoked during the bootstrap process
+(after power-up).
+
+</p>
+<div class="sect2">
+<div class="titlepage"><div><div><h3 class="title">
+<a name="update-firmware"></a>3.6.1. How to update bare metal ppc64el firmware</h3></div></div></div>
+<p>
+
+This is an excerpt from
+<a class="ulink" href="https://www.ibm.com/developerworks/linux/tutorials/l-ibm-powerkvm-system-bring-up/" target="_top">IBM PowerKVM on IBM POWER8</a>.
+
+</p>
+<p>
+
+Open Power Abstraction Layer (OPAL) is the system firmware in the stack
+of POWER processor-based server.
+
+</p>
+<p>
+
+There may be instances when the user might have to upgrade the Power
+Systems firmware to a more recent level to acquire new features or
+additional support for devices.
+
+</p>
+<p>
+
+Make sure that the following requirements are met:
+
+</p>
+<div class="itemizedlist"><ul class="itemizedlist" type="disc">
+<li class="listitem"><p>
+    an OS to be running on the system;
+</p></li>
+<li class="listitem"><p>
+    the .img file of the OPAL level that the user needs to update to;
+</p></li>
+<li class="listitem"><p>
+    the machine isn't under HMC control.
+</p></li>
+</ul></div>
+<p>
+</p>
+<p>
+
+Power Systems has two sides of flash to boot firmware from, namely
+permanent and temporary. This provides a way to test firmware updates on
+the temporary side of the flash before committing the tested changes to
+the permanent side, thereby committing the new updates.
+
+</p>
+<p>
+
+Perform the following steps for the update:
+
+</p>
+<div class="orderedlist"><ol class="orderedlist" type="1">
+<li class="listitem">
+<p>
+    Save the level of the existing firmware before really updating. In
+    ASM, in the system menu, click <span class="command"><strong>Service Aids ??? Service Processor
+    Command Line</strong></span>, and run the following command:
+</p>
+<div class="informalexample"><pre class="screen">
+     cupdcmd -f
+</pre></div>
+<p>
+</p>
+</li>
+<li class="listitem">
+<p>
+    Download the .img file of the level of firmware to be updated to a
+    location in the host filesystem. Refer to IBM Fix Central for downloading
+    the image file.
+</p>
+<p>
+    Verify the image downloaded by running the following command and
+    save the output.
+</p>
+<div class="informalexample"><pre class="screen">
+    $update_flash -v -f &lt;file_name.img&gt;
+</pre></div>
+<p>
+</p>
+</li>
+<li class="listitem">
+<p>
+    Update the firmware by running the following command.
+</p>
+<div class="informalexample"><pre class="screen">
+    $update_flash -f &lt;file_name.img&gt;
+</pre></div>
+<p>
+</p>
+<div class="note"><table border="0" summary="Note">
+<tr>
+<td rowspan="2" align="center" valign="top" width="25"><img alt="[Note]" src="images/note.png"></td>
+<th align="left">Note</th>
+</tr>
+<tr><td align="left" valign="top">
+<p>
+
+ </p>
+<div class="itemizedlist"><ul class="itemizedlist" type="disc">
+<li class="listitem"><p>
+    The command reboots the system and therefore, sessions if any,
+    would be lost.
+ </p></li>
+<li class="listitem"><p>
+    Do not reboot or switch off the system until it is back.
+ </p></li>
+</ul></div>
+<p>
+
+</p>
+</td></tr>
+</table></div>
+</li>
+<li class="listitem"><p>
+    Verify the updated firmware level of the temporary side of the flash
+    as in step 1. 
+</p></li>
+<li class="listitem">
+<p>
+    In case the update has to be reverted, the user can do so by running
+    this command:
+</p>
+<div class="informalexample"><pre class="screen">
+    $update_flash -r
+</pre></div>
+<p>
+    Rejection would reject only the temporary side of the flash. 
+    Therefore, the new level should be committed to the permanent side only
+    after thorough testing of the new firmware.
+</p>
+<p>
+    The new updated level can be committed to the permanent side of the
+    flash by running the following command.
+</p>
+<div class="informalexample"><pre class="screen">
+    $update_flash -c
+</pre></div>
+<p>
+</p>
+</li>
+</ol></div>
+<p>
+
+</p>
+</div>
+<div class="sect2">
+<div class="titlepage"><div><div><h3 class="title">
+<a name="idm46127827598448"></a>3.6.2. Updating KVM guest firmware (SLOF)</h3></div></div></div>
+<p>
+
+Slimline Open Firmware (SLOF) is an implementation of the IEEE 1275 
+standard. 
+It can be used as partition firmware for pSeries machines running on
+QEMU or KVM.
+
+</p>
+<p>
+
+The package qemu-slof is, in fact, a dependency of package 
+qemu-system-ppc (which also provides the virtual package 
+qemu-system-ppc64), and can be installed or updated via 
+<span class="command"><strong>apt-get</strong></span> tool on Debian-based distros.
+Like so:
+
+</p>
+<div class="informalexample"><pre class="screen">
+# apt-get install qemu-slof
+</pre></div>
+<p>
+
+SLOF can also be installed into rpm-based distribution systems, given 
+the proper repository or rpm package. Additionally, the upstream source 
+code is available at
+<a class="ulink" href="http://github.com/leilihh/SLOF" target="_top">http://github.com/leilihh/SLOF</a>.
+
+</p>
+<p>
+
+Thus, one can use a different SLOF file rather than the default, when
+running <span class="command"><strong>qemu-system</strong></span>, by adding the command line
+argument <strong class="userinput"><code>-bios &lt;slof_file&gt; </code></strong> when starting
+qemu.
+
+</p>
+</div>
+<div class="sect2">
+<div class="titlepage"><div><div><h3 class="title">
+<a name="idm46127827592880"></a>3.6.3. Updating PowerKVM hypervisor</h3></div></div></div>
+<div class="sect3">
+<div class="titlepage"><div><div><h4 class="title">
+<a name="idm46127827592000"></a>3.6.3.1. Instructions for Netboot installation</h4></div></div></div>
+<p>
+
+You will need a DHCP/TFTP (BOOTP) server, as well as a web server.
+After downloading ibm-powerkvm-*-ppc64-service-*.iso, mount loop it and
+unpack it into some directory within your HTTP server www root 
+structure (say wwwroot):
+
+</p>
+<div class="informalexample"><pre class="screen">
+# cd &lt;directory-where-the-iso-is&gt;
+# mkdir ./iso
+# sudo mount -o loop ibm-powerkvm-*-ppc64-service-*.iso ./iso
+# cp -a ./iso/* &lt;path-to-wwwroot&gt;
+</pre></div>
+<p>
+
+Create the petitboot.conf file in a directory under your tftproot, say
+/tftproot/powerkvm, with the following contents:
+
+</p>
+<div class="informalexample"><pre class="screen">
+label PowerKVM Automated Install
+kernel http://YOUR-SERVER-IP/SOME-PATH-TO-wwwroot/ppc/ppc64/vmlinuz
+initrd http://YOUR-SERVER-IP/SOME-PATH-TO-wwwroot/ppc/ppc64/initrd.img
+append root=live:http://YOUR-SERVER-IP/SOME-PATH-TO-wwwroot/LiveOS/squashfs.img repo=http://YOUR-SERVER-IP/SOME-PATH-TO-wwwroot/packages rd.dm=0 rd.md=0 console=hvc0 console=tty0
+</pre></div>
+<p>
+
+Editing your dhcpd.conf, set this directive at the beginning:
+
+</p>
+<div class="informalexample"><pre class="screen">
+option conf-file code 209 = text;
+</pre></div>
+<p>
+
+Add the system directive:
+
+</p>
+<div class="informalexample"><pre class="screen">
+host &lt;your-system&gt; {
+    hardware ethernet &lt;system macaddr&gt;
+    fixed-address &lt;system ip&gt;;
+    option host-name "&lt;system hostname&gt;";
+    option conf-file "&lt;powerkvm/petitboot.conf&gt;";
+ }
+</pre></div>
+<p>
+
+Reboot the dhcp server.
+
+</p>
+<p>
+
+Boot your PowerLinux machine.
+
+</p>
+<p>
+
+There should be the following option at petitboot (select it):
+
+</p>
+<div class="informalexample"><pre class="screen">
+"Power KVM Automated Install" 
+</pre></div>
+<p>
+
+The installer menu should appear automatically.
+
+</p>
+</div>
+<div class="sect3">
+<div class="titlepage"><div><div><h4 class="title">
+<a name="idm46127827584720"></a>3.6.3.2. Instructions for DVD</h4></div></div></div>
+<p>
+Boot the ISO ibm-powerkvm-*-ppc64-service-*.iso (either burn a DVD or
+make it virtual if using QEMU) and simply wait for the boot.
+</p>
+<p>
+There should be the following option at petitboot (select it):
+</p>
+<div class="informalexample"><pre class="screen">
+"POWERKVM_LIVECD" 
+</pre></div>
+<p>
+The installer menu should appear automatically.
+</p>
+</div>
+</div>
+</div>
+<div class="navfooter">
+<hr>
+<table width="100%" summary="Navigation footer">
+<tr>
+<td width="40%" align="left">
+<a accesskey="p" href="ch03s05.html"><img src="images/prev.png" alt="Prev"></a> </td>
+<td width="20%" align="center"><a accesskey="u" href="ch03.html"><img src="images/up.png" alt="Up"></a></td>
+<td width="40%" align="right"> <a accesskey="n" href="ch04.html"><img src="images/next.png" alt="Next"></a>
+</td>
+</tr>
+<tr>
+<td width="40%" align="left" valign="top">3.5. Pre-Partitioning for Multi-Boot Systems </td>
+<td width="20%" align="center"><a accesskey="h" href="index.html"><img src="images/home.png" alt="Home"></a></td>
+<td width="40%" align="right" valign="top"> Chapter 4. Obtaining System Installation Media</td>
+</tr>
+</table>
+</div>
+</body>
+</html>

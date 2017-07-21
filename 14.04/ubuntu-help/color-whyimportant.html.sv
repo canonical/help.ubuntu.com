@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang=sv>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Varför är färghantering viktigt?</title>
+<link rel="stylesheet" type="text/css" href="sv.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="color.html" title="Hantera färginställningar">Hantera färginställningar</a> » </div>
+<div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Settings</a> » <a class="trail" href="color.html" title="Hantera färginställningar">Hantera färginställningar</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Varför är färghantering viktigt?</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Färghantering är processen där en färg uppfattas av en indataenhet, visas på skärmen, och skrivs ut medan varje mediums exakta färger och färgintervall kontrolleras.</p>
+<p class="p">Behovet för färghantering förklaras nog bäst med ett foto av en fågel på en snöig vinterdag.</p>
+<div class="figure"><div class="inner">
+<a href="#" class="zoom" data-zoom-in-title="Visa bilder i normal storlek" data-zoom-out-title="Skala ner bilder"></a><div class="region">
+<div class="contents"><div class="media media-image"><div class="inner"><img src="figures/color-camera.png" class="media media-block" alt=""></div></div></div>
+<div class="desc">En fågel på en frostbiten mur, sett genom kamerans objektiv</div>
+</div>
+</div></div>
+<p class="p">Skärmar överdriver ofta blåkanalen, vilket gör att bilder ser kalla ut.</p>
+<div class="figure"><div class="inner">
+<a href="#" class="zoom" data-zoom-in-title="Visa bilder i normal storlek" data-zoom-out-title="Skala ner bilder"></a><div class="region">
+<div class="contents"><div class="media media-image"><div class="inner"><img src="figures/color-display.png" class="media media-block" alt=""></div></div></div>
+<div class="desc">Detta är vad användaren ser på en typisk skärm för en bärbar jobbdator</div>
+</div>
+</div></div>
+<p class="p">Observera hur det vita inte är ”pappersvitt” och att det svarta i ögat nu har en mörkbrun ton.</p>
+<div class="figure"><div class="inner">
+<a href="#" class="zoom" data-zoom-in-title="Visa bilder i normal storlek" data-zoom-out-title="Skala ner bilder"></a><div class="region">
+<div class="contents"><div class="media media-image"><div class="inner"><img src="figures/color-printer.png" class="media media-block" alt=""></div></div></div>
+<div class="desc">Detta är vad användaren ser vid utskrift med en vanlig bläckstråleskrivare</div>
+</div>
+</div></div>
+<p class="p">Grundproblemet här är att varje enhet kan hantera olika färgintervall. Så även om du kan ta ett foto av elektriskt blått kommer de flesta skrivare inte kunna återge den färgen.</p>
+<p class="p">De flesta bildenheter använder RGB (röd, grön, blå) och måste konvertera till CMYK (cyan/ljusblå, magenta, yellow/gul, black/svart) vid utskrift. Ett annat problem är att du inte kan använda <span class="em">vitt</span> bläck, så vitheten blir bara så bra som pappret är färgat från början.</p>
+<p class="p">Ett annat problem är enheter. Utan att ange skalan en färg mäts i kan vi inte veta om 100% röd är nära infrarött eller bara den rödaste färgen i skrivaren. Vad som är 50% rött på en skärm kan vara något i stil med 62% rött på en annan skärm. Det är lite som att berätta för någon att du just körde 7 distansenheter; utan enhet vet man inte om det rör sig om 7 kilometer eller 7 meter.</p>
+<p class="p">För färger använder vi enheten gamut. Gamut är i princip det färgintervallet som kan återges. En enhet som en DSLR-kamera kan ha en mycket stor gamut, och kan fånga alla färgerna i en solnedgång, men en projektor har en väldigt liten gamut och alla färger kommer se urvattnade ut.</p>
+<p class="p">I vissa fall kan vi <span class="em">korrigera</span> enhetens utdata genom att justera datan vi sänder till den, men i andra fall där det är omöjligt (du kan inte skriva ut elektriskt blått) behöver vi visa användaren vad resultatet kommer bli.</p>
+<p class="p">För fotografer är det klokt att använda hela nyansintervallet i en färgenhet, för att kunna göra små subtila färgändringar. För annan grafik kan du vilja få exakt rätt färger, vilket är viktigt om du försöker skriva ut ett eget muggtryck med exempelvis Red Hat-logon som <span class="em">måste</span> vara just Red Hat-röd.</p>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Mer information</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="color.html" title="Hantera färginställningar">Hantera färginställningar</a><span class="desc"> — <span class="link"><a href="color-whyimportant.html" title="Varför är färghantering viktigt?">Varför är det här viktigt</a></span>, <span class="link"><a href="color.html#profiles" title="Färgprofiler">Färgprofiler</a></span>, <span class="link"><a href="color.html#calibration" title="Kalibrering">Hur man kalibrerar en enhet</a></span>...</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

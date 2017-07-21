@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang=it>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>TCP/IP</title>
+<link rel="stylesheet" type="text/css" href="it.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../16.04" class="trail">Ubuntu 16.04</a> » <a class="trail" href="index.html" title="Guida a Ubuntu Server">Guida a Ubuntu Server</a> » <a class="trail" href="networking.html" title="Rete">Rete</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="network-configuration.html" title="Configurazione di rete">Indietro</a><a class="nextlinks-next" href="dhcp.html" title="DHCP (Dynamic Host Configuration Protocol)">Avanti</a>
+</div>
+<div class="hgroup"><h1 class="title">TCP/IP</h1></div>
+<div class="region">
+<div class="contents"><p class="para">Il protocollo TCP/IP (Transmission Control Protocol e Internet Protocol) è un insieme standard di protocolli sviluppato nella seconda metà degli anni '70 dalla DARPA (Defence Advanced Research Project Agency) con lo scopo di permettere la comunicazione tra diversi tipi di computer e di reti di computer. TCP/IP è il motore di Internet, ecco perché è l'insieme di protocolli di rete più diffuso al mondo.</p></div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="tcpip.html#tcpip-introduction" title="Introduzione a TCP/IP">Introduzione a TCP/IP</a></li>
+<li class="links"><a class="xref" href="tcpip.html#tcpip-configuration" title="Configurazione di TCP/IP">Configurazione di TCP/IP</a></li>
+<li class="links"><a class="xref" href="tcpip.html#ip-routing" title="Instradamento IP">Instradamento IP</a></li>
+<li class="links"><a class="xref" href="tcpip.html#tcp-and-udp" title="TCP e UDP">TCP e UDP</a></li>
+<li class="links"><a class="xref" href="tcpip.html#icmp" title="ICPM">ICPM</a></li>
+<li class="links"><a class="xref" href="tcpip.html#daemons" title="Demoni">Demoni</a></li>
+<li class="links"><a class="xref" href="tcpip.html#tcpip-resources" title="Risorse">Risorse</a></li>
+</ul></div>
+<div class="sect2 sect" id="tcpip-introduction"><div class="inner">
+<div class="hgroup"><h2 class="title">Introduzione a TCP/IP</h2></div>
+<div class="region"><div class="contents"><p class="para">I due protocolli che compongono TCP/IP, interagiscono con differenti aspetti di una rete. L'<span class="em emphasis">Internet Protocol</span>, la parte «IP» di TCP/IP, è un protocollo privo di connessione che interagisce solamente con il routing dei pacchetti attraverso la rete, usando l'<span class="em emphasis">IP Datagram</span> come unità di base delle informazioni che consiste in un'intestazione seguita da un messaggio. Il <span class="em emphasis">Transmission Control Protocol</span>, la parte «TCP» di TCP/IP, consente agli host della rete di stabilire le connessioni che possono essere usate per scambiare dati. Inoltre, garantisce che i dati tra le connessioni siano consegnati correttamente e nello stesso ordine in cui sono stati inviati.</p></div></div>
+</div></div>
+<div class="sect2 sect" id="tcpip-configuration"><div class="inner">
+<div class="hgroup"><h2 class="title">Configurazione di TCP/IP</h2></div>
+<div class="region"><div class="contents">
+<p class="para">La configurazione del protocollo TCP/IP è composta da vari elementi che debbono essere impostati modificando gli appropriati file di configurazione oppure adottando soluzioni quali un server DHCP (Dynamic Host Configuration Protocol); tale server provvede ad assegnare automaticamente le corrette impostazioni di configurazione TCP/IP ai client della rete. Questi valori di configurazione debbono essere impostati correttamente per consentire al sistema Ubuntu di operare adeguatamente in rete.</p>
+<p class="para">I tipici elementi di configurazione di TCP/IP e i loro scopi sono i seguenti: <div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+                  <p class="para"><span class="em em-bold emphasis">Indirizzo IP</span>: l'indirizzo IP è una stringa d'identificazione unica, espressa da quattro numeri decimali compresi tra zero (0) e duecentocinquantacinque (255), separati da punti; ciascuno dei quattro numeri rappresenta otto (8) bit dell'indirizzo per una lunghezza totale di trentadue (32) bit per l'indirizzo completo. Questo formato è detto <span class="em emphasis">notazione decimale a punti</span>.</p>
+               </li>
+<li class="list itemizedlist">
+                  <p class="para"><span class="em em-bold emphasis">Maschera di rete</span>: la maschera di rete (o semplicemente <span class="em emphasis">netmask</span>) è una maschera locale di bit, ovvero un insieme di indicatori che separano la porzione di un indirizzo IP che indica la rete dai bit che indicano la <span class="em emphasis">sotto-rete</span>. Ad esempio, in una rete di classe C, la maschera di rete standard è 255.255.255.0 che serve a mascherare i primi tre byte dell'indirizzo IP, consentendo all'ultimo byte dell'indirizzo IP di essere disponibile per specificare gli host della sotto-rete.</p>
+               </li>
+<li class="list itemizedlist">
+                  <p class="para"><span class="em em-bold emphasis">Indirizzo di rete</span>: l'indirizzo di rete è dato dai byte che comprendono la parte di rete di un indirizzo IP. Per esempio, l'host 12.128.1.2 in una rete di classe A deve usare 12.0.0.0 come indirizzo di rete, dove dodici (12) è il primo byte dell'indirizzo IP (la parte di rete), e gli zeri (0) nei rimanenti tre byte indicano tutti i possibili valori degli host. Un host di rete che ha un indirizzo IP 192.168.1.100 deve invece usare un indirizzo di rete di 192.168.1.0, nel quale i primi tre byte specificano la rete di classe C 192.168.2 e lo zero (0) per tutti i possibili valori degli host nella rete.</p>
+               </li>
+<li class="list itemizedlist">
+                  <p class="para"><span class="em em-bold emphasis">Indirizzo di broadcast</span>: l'indirizzo di broadcast è un indirizzo IP che permette di inviare dei dati di rete simultaneamente a tutti gli host di una data sotto-rete piuttosto che a uno specifico host. L'indirizzo broadcast generale di base per una rete IP è 255.255.255.255, ma questo indirizzo broadcast non può essere usato per inviare un messaggio broadcast a tutti gli host presenti in internet perché i router lo bloccherebbero. Un indirizzo di broadcast appropriato è quello che indica una specifica sotto-rete. Per esempio, in una rete privata di classe C, 192.168.1.0, l'indirizzo broadcast è 192.168.1.255. I messaggi broadcast sono di norma prodotti dai protocolli di rete come il protocollo per la risoluzione degli indirizzi (ARP, Address Resolution Protocol) e il protocollo delle informazioni di instradamento (RIP, Routing Information Protocol).</p>
+               </li>
+<li class="list itemizedlist">
+                  <p class="para"><span class="em em-bold emphasis">Indirizzo del gateway</span>: l'indirizzo del gateway è l'indirizzo IP attraverso il quale una particolare rete, o un host su una rete, può essere raggiunta. Se un host di rete desidera comunicare con un altro host di rete, senza essere localizzato nelle stessa rete, allora deve essere usato un <span class="em emphasis">gateway</span>. In molti casi l'indirizzo del gateway coincide con quello di un router della medesima rete che ha il compito di far transitare il traffico ad altre reti o host, come Internet. L'impostazione del valore dell'indirizzo del gateway deve essere corretta, altrimenti il sistema non è in grado di raggiungere gli host che non si trovano sulla rete cui appartiene.</p>
+               </li>
+<li class="list itemizedlist">
+                  <p class="para"><span class="em em-bold emphasis">Indirizzo del server dei nomi</span>: l'indirizzo del server dei nomi rappresenta l'indirizzo IP del sistema DNS (Domain Name Service) che traduce il nome host della rete in un indirizzo IP reale. Esistono tre livelli di indirizzo del server dei nomi che possono essere specificati in ordine di precedenza: il server dei nomi <span class="em emphasis">primario</span>, quello <span class="em emphasis">secondario</span> e il <span class="em emphasis">terziario</span>. Affinché il sistema possa tradurre i nomi host in indirizzi IP, è necessario specificare degli indirizzi validi per i server dei nomi che è possibile utilizzare all'interno della configurazione TCP/IP del sistema. Nella maggior parte dei casi, questi indirizzi vengono forniti dal proprio fornitore di servizio Internet, ma ne sono disponibili anche di gratuiti e liberamente utilizzabili, come i server di terzo livello di Verizon con indirizzi IP da 4.2.2.1 a 4.2.2.6.</p>
+                     <div class="note note-tip" title="Suggerimento"><div class="inner"><div class="region"><div class="contents">
+                        <p class="para">Gli indirizzi IP, le maschere di rete, gli indirizzi di rete, gli indirizzi di broadcast, gli indirizzi di gateway e gli indirizzi dei server dei nomi sono tipicamente determinati attraverso appropriate direttive nel file <span class="file filename">/etc/network/interfaces</span>. Per maggiori informazioni, consultare la pagina di manuale di sistema per <span class="file filename">interfaces</span>, usando i seguenti comandi da digitare al prompt di un terminale:</p>
+                     </div></div></div></div>
+                    <p class="para">Accedere alla pagina di manuale di sistema per <span class="file filename">interfaces</span> con il seguente comando:</p>
+                    <p class="para">
+<div class="screen"><pre class="contents "><span class="cmd command">man interfaces</span>
+</pre></div>
+                    </p>
+               </li>
+</ul></div></p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="ip-routing"><div class="inner">
+<div class="hgroup"><h2 class="title">Instradamento IP</h2></div>
+<div class="region"><div class="contents">
+<p class="para">L'instradamento IP è un modo per indicare e scoprire percorsi in una rete TCP/IP attraverso i quali inviare dati. L'instradamento utilizza un insieme di <span class="em emphasis">tabelle di instradamento (routing)</span> per dirigere i pacchetti di dati in una rete dalla loro sorgente avanti fino alla destinazione, spesso attraverso molti nodi di rete intermediari chiamati <span class="em emphasis">router</span>. Esistono due forme primarie di instradamento IP: l'<span class="em emphasis">instradamento statico</span> e l'<span class="em emphasis">instradamento dinamico</span>.</p>
+<p class="para">L'instradamento statico comporta l'aggiunta manuale di rotte IP nella tabella di instradamento del sistema, attività che viene fatta modificando la tabella di instradamento con il comando <span class="app application">route</span>. L'instradamento statico presenta molti vantaggi rispetto quello dinamico, come la semplicità di implementazione per piccole reti, la predicibilità (la tabella di instradamento è scritta a priori, quindi la rotta è sempre la stessa ogni volta che viene utilizzata) e il basso carico di lavoro sugli altri router e nodi di rete dovuto all'assenza di un protocollo di instradamento dinamico. In ogni caso, l'instradamento statico presenta anche degli svantaggi. Per esempio, è limitato a piccole reti e non è facilmente espandibile. L'instradamento statico fallisce completamente se si prova ad adattarlo ai ritardi della rete e le perdite lungo la rotta per la natura statica della rotta stessa.</p>
+<p class="para">L'instradamento dinamico serve nelle grandi reti con molte possibili rotte IP tra una sorgente e una destinazione. Fa uso di protocolli di instradamento speciali, come il protocollo di informazione dell'instradamento (RIP, Router Information Protocol) che gestisce le correzioni automatiche nella tabella di instradamento rendendo possibile l'instradamento dinamico. Ci sono molti vantaggi rispetto l'instradamento statico, come l'adattamento alle dimensioni superiori e l'abilità di adattarsi agli errori e alle perdite lungo le rotte della rete. Inoltre, necessita di una minore configurazione manuale delle tabelle di instradamento, dato che i router comunicano tra di loro la relativa esistenza e le possibili rotte. Questo tratto caratteristico elimina anche la possibilità di introdurre inesattezze nelle tabelle di instradamento causate da errori umani. In ogni caso, l'instradamento dinamico non è perfetto e presenta alcuni svantaggi come, l'aumento della complessità e del carico di lavoro dovuto alle comunicazioni dei router della rete, dei quali non può beneficiare subito l'utente finale che comunque consuma banda di rete.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="tcp-and-udp"><div class="inner">
+<div class="hgroup"><h2 class="title">TCP e UDP</h2></div>
+<div class="region"><div class="contents">
+<p class="para">TCP è un protocollo basato sulla connessione, che offre correzione d'errore e che garantisce la consegna dei dati attraverso ciò che è conosciuto come <span class="em emphasis">controllo di flusso</span>. Il controllo di flusso determina quando il flusso di uno stream di dati debba essere fermato e i pacchetti di dati inviati in precedenza debbano essere reinviati a causa di problemi come <span class="em emphasis">collisioni</span>, assicurando quindi la completa e accurata consegna dei dati. TCP è tipicamente usato nello scambio di informazioni importanti come transazioni di database.</p>
+<p class="para">UDP (User Datagram Protocol), al contrario, è un protocollo <span class="em emphasis">senza connessione</span> che raramente tratta della trasmissione dei dati importanti a causa della mancanza del controllo di flusso o di un altro metodo che garantisca la consegna affidabile dei dati. UDP è normalmente usato in applicazioni come lo streaming audio e video, in cui risulta considerevolmente più veloce del protocollo TCP, data la mancanza di correzione d'errore e del controllo di flusso, e in cui la perdita di alcuni pacchetti non è generalmente un evento catastrofico.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="icmp"><div class="inner">
+<div class="hgroup"><h2 class="title">ICPM</h2></div>
+<div class="region"><div class="contents"><p class="para">ICMP (Internet Control Messaging Protocol) è un'estensione di IP (Internet Protocol), come definito nell'RFC (Request For Comments) numero 792; ICPM supporta pacchetti di rete contenenti  messaggi di controllo, di errore e di informazione. ICMP è usato da applicazioni di rete come l'utilità <span class="app application">ping</span>, che consente di determinare la disponibilità di un host o un'interfaccia di rete. Esempi di alcuni dei messaggi di errore restituiti da ICMP utili sia agli host e interfacce di rete che ai router sono <span class="em emphasis">Destination Unreachable</span> e <span class="em emphasis">Time Exceeded</span>.</p></div></div>
+</div></div>
+<div class="sect2 sect" id="daemons"><div class="inner">
+<div class="hgroup"><h2 class="title">Demoni</h2></div>
+<div class="region"><div class="contents"><p class="para">I demoni sono speciali applicazioni di sistema che, tipicamente, sono in continua esecuzione sullo sfondo, attendendo dagli altri programmi richieste relative a funzioni da essi fornite. Molti demoni hanno a che fare con la rete e molti di questi in esecuzione sullo sfondo nei sistemi Ubuntu forniscono delle funzionalità legate alla rete. Alcuni esempi di questi demoni di rete includono <span class="em emphasis">httpd</span> (Hyper Text Transport Protocol Daemon), che fornisce funzionalità di server web; <span class="em emphasis">sshd</span> (Secure SHell Daemon), che fornisce funzionalità di login e trasferimento file sicuro da remoto; <span class="em emphasis">imapd</span> (Internet Message Access Protocol Daemon), che fornisce servizi di email.</p></div></div>
+</div></div>
+<div class="sect2 sect" id="tcpip-resources"><div class="inner">
+<div class="hgroup"><h2 class="title">Risorse</h2></div>
+<div class="region"><div class="contents"><div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+              <p class="para">
+              There are man pages for <a href="http://manpages.ubuntu.com/manpages/xenial/en/man7/tcp.7.html" class="ulink" title="http://manpages.ubuntu.com/manpages/xenial/en/man7/tcp.7.html">TCP</a> and
+              <a href="http://manpages.ubuntu.com/manpages/xenial/man7/ip.7.html" class="ulink" title="http://manpages.ubuntu.com/manpages/xenial/man7/ip.7.html">IP</a> that contain more useful information.
+              </p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para">Inoltre, consultare il RedBook di IBM: <a href="http://www.redbooks.ibm.com/abstracts/gg243376.html" class="ulink" title="http://www.redbooks.ibm.com/abstracts/gg243376.html">TCP/IP Tutorial and Technical Overview</a>.</p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para">Un'altra utile risorsa è il libro <a href="http://oreilly.com/catalog/9780596002978/" class="ulink" title="http://oreilly.com/catalog/9780596002978/">TCP/IP Network Administration</a>.</p>
+            </li>
+</ul></div></div></div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="network-configuration.html" title="Configurazione di rete">Indietro</a><a class="nextlinks-next" href="dhcp.html" title="DHCP (Dynamic Host Configuration Protocol)">Avanti</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p></div>
+</div>
+</body>
+</html>

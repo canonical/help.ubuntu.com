@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=oc>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Modificacion d'una connexion sens fial</title>
+<link rel="stylesheet" type="text/css" href="oc.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Guida del burèu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guide del burèu Ubuntu</a> » <a class="trail" href="net.html" title="Ret, Web, corrièr electronic &amp; chat">Ret, Web, corrièr electronic &amp; chat</a> » <a class="trail" href="net-wireless.html" title="Ret sens fial">Ret sens fial</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Modificacion d'una connexion sens fial</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Aqueste tutorial descrit totas las opcions disponiblas per modificar una connexion sens fial. Per modificar una connexion, clicatz sus <span class="gui">Menú ret</span> dins la barra de menú e seleccionatz <span class="gui">Modificacion des connexions</span>.</p>
+<div class="note" title="Nòta"><div class="inner"><div class="region"><div class="contents"><p class="p">La màger part des rets van foncionar normalament se vous daissatz ces paramètres a lors valors per defaut e vous n'avez probablament pas besonh d'y tocar. Beaucoup de ces opcions son aquí unicament per vous donar un melhor contraròtle sus des rets mai sofisticats.</p></div></div></div></div>
+</div>
+<div id="available" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Disponible a totes los utilizaires / Connexion automatica</span></h2></div>
+<div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">Connexion automatica</span></dt>
+<dd class="terms">
+<p class="p">Marcatz aquesta opcion se volètz que vòstre ordenador ensage de se connectar a aqueste ret sens fial dès qu'il es dins son rai de captura.</p>
+<p class="p">S'i a plusieurs rets a connexion automatica dins lo rai de captura, l'ordenador se connècta al primièr de la lista de l'onglet <span class="gui">Sans fil</span> de la fenèstra <span class="gui">Connexions ret</span>. Il ne se desconnectara pas d'aqueste, quitament se un autre vient juste d'aparéisser dins son rai de captura.</p>
+</dd>
+<dt class="terms"><span class="gui">Disponible a totes los utilizaires</span></dt>
+<dd class="terms">
+<p class="p">Marcatz aquesta casa se desiratz que totes los utilizaires d'aqueste ordenador pòscan aver accès a aquesta ret. Se la ret es protegida per <span class="link"><a href="net-wireless-wepwpa.html" title="Significacions de WEP e WPA">senhal WEP/WPA</a></span> e qu'avètz marcat aquesta opcion, vos caldrà sasir aqueste senhal sonque un còp. Los autres utilizaires s'i poiràn connectar sens conéisser aqueste senhal.</p>
+<p class="p">Se aquesta opcion es marcada, sol <span class="link"><a href="user-admin-explain.html" title="Cossí los privilègis administrator foncionan-ils ?">l'administrator</a></span> es autorizat a modificar los paramètres d'aquesta ret. Il deu s'identificar amb son senhal d'administrator.</p>
+</dd>
+</dl></div></div></div></div></div>
+</div></div>
+<div id="wireless" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Ret sens fial</span></h2></div>
+<div class="region">
+<div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">SSID</span></dt>
+<dd class="terms"><p class="p">This is the name of the wireless network you are connecting to, otherwise known as the <span class="em">Service Set Identifier</span>. Don't change this unless you have changed the name of the wireless network (for example, by changing the settings of your wireless router or base station).</p></dd>
+<dt class="terms"><span class="gui">Mode</span></dt>
+<dd class="terms">
+<p class="p">Utilizar aquò per especificar se sètz connectat a una ret en <span class="gui">Infrastructura</span> (un ret auquel los ordenadors se connèctan per ligason sens fial a una stacion de basa centrale o un rotador) o una ret <span class="gui">Ad-hoc</span> (per lo qual i a pas de stacion de basa e per lo qual los ordenadors de la ret se connèctan entre eux). La màger part des rets son en infrastructura ; poiriatz çaquelà voler <span class="link"><a href="net-wireless-adhoc.html" title="Creacion d'un punt d'accès sens fial">definir votre propre ret ad-hoc</a></span>.</p>
+<p class="p">Se causissètz <span class="gui">Ad-hoc</span>, anatz veire doas autras opcions, <span class="gui">Benda</span> e <span class="gui">Canal</span>. Determinan sus quina frequéncia la ret sens fial ad-hoc va foncionar. Certans ordenadors pòdon pas trabalhar que sus certanas bendas passantas (per exemple solament sus <span class="gui">A</span> o sus <span class="gui">B/G</span>, de tala sòrta que vos cal causir una frequéncia que totes los ordenadors de la ret ad-hoc pòdon utilizar. Dins d'endreits fòrça frequentats, i pòt aver mantuna ret sens fial que partejan lo meteis canal ; aquò pòt alentir vòstra connexion e vos menar a cambiar de canal.</p>
+</dd>
+<dt class="terms"><span class="gui">BSSID</span></dt>
+<dd class="terms"><p class="p">This is the <span class="em">Basic Service Set Identifier</span>. The SSID (see above) is the name of the network which humans are intended to read; the BSSID is a name which the computer understands (it's a string of letters and numbers that is supposed to be unique to the wireless network). If a <span class="link"><a href="net-wireless-hidden.html" title="Connexion a una ret sens fial amagat">network is hidden</a></span>, it will not have an SSID but it will have a BSSID.</p></dd>
+<dt class="terms"><span class="gui">Adreça MAC del periferic</span></dt>
+<dd class="terms">
+<p class="p">Una <span class="link"><a href="net-macaddress.html" title="Adreça MAC">adreça MAC</a></span> es lo còdi d'identificacion d'un periferic (coma una carta sens fial, una carta Ethernet o un rotador). Cada periferic susceptible d'èsser connectat a una ret possedís una adreça MAC unique que lui es atribuida en usine.</p>
+<p class="p">Aquesta opcion vos permet de cambiar l'adreça MAC de vòstra carta ret.</p>
+</dd>
+<dt class="terms"><span class="gui">Adreça MAC clonada</span></dt>
+<dd class="terms"><p class="p">Your network hardware (wireless card) can pretend to have a different MAC address. This is useful if you have a device or service which will only communicate with a certain MAC address (for example, a cable broadband modem). If you put that MAC address into the <span class="gui">cloned MAC address</span> box, the device/service will think that your computer has the cloned MAC address rather than its real one.</p></dd>
+<dt class="terms"><span class="gui">MTU</span></dt>
+<dd class="terms"><p class="p">Aqueste paramètre modifica la <span class="em">Maximum Transmission Unit</span> (unitat maximum de transmission), qu'es la talha maximum qu'un paquet de donadas pòt aver per èsser mandat sus la ret. Quand de fichièrs son transmeses per la ret, las donadas son fragmentadas a pichons tròces (o paquets). La talha optimum de la MTU per vòstra ret depen de la possibilitat de pèrdas pendent lo transferiment (deguda als parasits de la connexion) e a la velocitat de transmission. Generalament, es inutile de modificar aqueste paramètre.</p></dd>
+</dl></div></div></div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">Vejatz tanben</span></h3></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless-hidden.html" title="Connexion a una ret sens fial amagat">Connexion a una ret sens fial amagat</a><span class="desc"> — Clicatz sul <span class="gui">menú ret</span> dins la barra de menú e seleccionatz <span class="gui">Se connectar a una ret sens fial invisible</span>.</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+</div></div>
+<div id="security" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Seguretat sens fial</span></h2></div>
+<div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">Seguretat</span></dt>
+<dd class="terms">
+<p class="p">Aquò definís lo tipe de <span class="em">chiframent</span> utilizat per vòstra ret. Las connexions chifradas empêchent l'interception de vòstra connexion sens fial, de sorte que personne ne pòt ni « escotar » ni veire quels sites Web vous visitaz, entre autre.</p>
+<p class="p">Certans tipes de chiframents son mai poderoses que d'autres, mas es possible que sián pas suportats per d'equipaments sens fial ancians. Normalament, vos cal sasir un senhal per vos connectar ; de tipes de seguretats mai sofisticats pòdon tanben demandar un nom d'utilizaire e un « certificat » numeric. Consultatz <span class="link"><a href="net-wireless-wepwpa.html" title="Significacions de WEP e WPA">Significacions de WEP e WPA</a></span> per mai d'explicacions suls tipes los maicorrents de chiframent.</p>
+</dd>
+</dl></div></div></div></div></div>
+</div></div>
+<div id="ipv4" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Paramètres IPv4</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Dobrissètz aqueste onglet per definir d'informacions coma l'adreça IP de vòstre ordenador e quels servidors DNS il deu utilizar. Cambiatz la <span class="gui">Metòde</span> per veire las diferentas possibilitats d'obténer/definir aquesta informacion.</p>
+<p class="p">Los metòdes seguentas son disponibles :</p>
+<div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">Automatique (DHCP)</span></dt>
+<dd class="terms"><p class="p">Obten automaticament las informacions a partir d'un <span class="em">servidor DHCP</span>, coma l'adreça IP e lo servidor DNS a utilizar. Un servidor DHCP es un ordenador (o un autre periferic, per exemple un rotador) connectat a la ret e que decidís de quins paramètres ret vòstre ordenador deu aver - al moment de vòstra primièra connexion a la ret, vòstra maquina se vei atribuir automaticament los paramètres corrèctes. La màger part de las rets foncionan sus DHCP.</p></dd>
+<dt class="terms"><span class="gui">Adreças automatiques unicament (DHCP)</span></dt>
+<dd class="terms"><p class="p">Se causissètz aqueste paramètre, vòstre ordenador obten son adreça IP automaticament d'un servidor DHCP, mas vos cal configurar manualament los autres detalhs (coma la causida del servidor DNS a utilizar).</p></dd>
+<dt class="terms"><span class="gui">Manual</span></dt>
+<dd class="terms"><p class="p">Causissètz aquesta opcion se desiratz configurar totes vòstres paramètres ret vos meteis, i comprés l'adreça IP que vòstre ordenador deu utilizar.</p></dd>
+<dt class="terms"><span class="gui">Ligam-local unicament</span></dt>
+<dd class="terms"><p class="p"><span class="em">Link-Local</span> is a way of connecting computers together on a network without requiring a DHCP server or manually defining IP addresses and other information. If you connect to a Link-Local network, the computers on the network will decide amongst themselves which IP addresses to use and so on. This is useful if you want to temporarily connect a few computers together so they communicate with each other.</p></dd>
+<dt class="terms"><span class="gui">Desactivat</span></dt>
+<dd class="terms"><p class="p">Aquesta opcion desactiva la ret e vos evita de vos i connectar. Notatz que <span class="gui">IPv4</span> e <span class="gui">IPv6</span> son consideradas coma de connexions separadas, quitament se son presas en carga per la meteissa carta ret. Se n'i a una d'activada, poiriatz desactivar l'autra.</p></dd>
+</dl></div></div></div>
+</div></div>
+</div></div>
+<div id="ipv6" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Paramètres IPv6</span></h2></div>
+<div class="region"><div class="contents"><p class="p">Es identic a l'onglet <span class="gui">IPv4</span>, levat que tracta del novèl estandard qu'es l'IPv6. Las rets los mai modèrnas utilizan l'IPv6, mas pel moment l'IPv4 es encara lo mai répandu.</p></div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Mai d'entresenhas</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless.html" title="Ret sens fial">Ret sens fial</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Connexion a una ret sens fial">Se connectar al Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Connexion a una ret sens fial amagat">Rets invisibles</a></span>, <span class="link"><a href="net-wireless-edit-connexion.html" title="net-wireless-edit-connexion">Modificar los paramètres de connexion</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Interrupcions intempestives de la ret sens fial">Se desconnectar</a></span>…</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

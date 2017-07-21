@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang=ru>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Что такое оверлейные полосы прокрутки?</title>
+<link rel="stylesheet" type="text/css" href="ru.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Руководство пользователя Ubuntu</a> » <a class="trail" href="shell-overview.html" title="Рабочий стол, приложения и окна">Рабочий стол</a> › <a class="trail" href="shell-overview.html#desktop" title="Рабочий стол">Рабочий стол</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Что такое оверлейные полосы прокрутки?</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">В Ubuntu включены <span class="em">оверлейные полосы прокрутки</span>, занимающие меньше экранного пространства, чем традиционные полосы прокрутки, и оставляющие больше места для вашего содержимого. На создание оверлейных полос прокрутки разработчиков вдохновили мобильные устройства, где традиционные полосы прокрутки не нужны, — для выполнения тех же задач, но с помощью мыши, и предназначены оверлейные полосы прокрутки в Ubuntu.</p>
+<p class="p">Некоторые приложения, такие как Firefox и LibreOffice пока не поддерживают новые полосы прокрутки.</p>
+</div>
+<div id="using" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Использование полос прокрутки</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Оверлейная полоса прокрутки выглядит как тонкая оранжевая полоска на краю области прокрутки. Позиция полосы прокрутки соответствует расположению на экране прокручиваемого содержимого. Длина полоски соответствует длине содержимого — чем короче полоска, тем длиннее содержимое.</p>
+<p class="p">Наведите указатель мыши на любую точку прокручиваемого края окна с содержимым, чтобы показался <span class="gui">бегунок</span>.</p>
+<div class="list"><div class="inner">
+<div class="title title-list"><h3><span class="title">Способы использования полос прокрутки:</span></h3></div>
+<div class="region"><ul class="list">
+<li class="list"><p class="p">Щёлкните на верхней половине <span class="gui">бегунка</span> для прокрутки на одну страницу вверх. Щёлкните на нижней половине для прокрутки на одну страницу вниз.</p></li>
+<li class="list"><p class="p">Перетаскивайте <span class="gui">бегунок</span> вверх или вниз для перемещения расположения на экране точно в то место, которое вам необходимо.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="mouse-middleclick.html" title="Щелчок средней кнопкой">Щелчок средней кнопкой</a></span> на <span class="gui">бегунке</span> переместит расположение на экране без необходимости перетаскивания или прокручивания страницы за страницей. Это особенно удобно в длинных документах.</p></li>
+</ul></div>
+</div></div>
+</div></div>
+</div></div>
+<div id="disable-scrollbars" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Отключение полос прокрутки</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Новые полосы прокрутки можно отключить, если вы предпочитаете традиционный стиль:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Откройте <span class="app">Терминал</span>, нажав <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>t</kbd></span></span>, или поискав <span class="input">терминал</span> в <span class="gui">главном меню</span>.</p></li>
+<li class="steps">
+<p class="p">Наберите следующую команду и нажмите <span class="key"><kbd>Enter</kbd></span>:</p>
+<div class="code"><pre class="contents ">gsettings set com.canonical.desktop.interface scrollbar-mode normal</pre></div>
+</li>
+</ol></div></div></div>
+<p class="p">Если вы передумали и хотите опять включить полосы прокрутки, выполните эту команду:</p>
+<div class="code"><pre class="contents ">gsettings reset com.canonical.desktop.interface scrollbar-mode</pre></div>
+<div class="note note-tip" title="Подсказка"><div class="inner"><div class="region"><div class="contents"><p class="p">Установка темы <span class="link"><a href="a11y-contrast.html" title="Настройка контраста">High Contrast</a></span> также отключит оверлейные полосы прокрутки.</p></div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html#desktop" title="Рабочий стол">Рабочий стол</a></li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Смотрите также</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="mouse-touchpad-click.html" title="Щелчки, перетаскивание и прокрутка с помощью сенсорной панели">Щелчки, перетаскивание и прокрутка с помощью сенсорной панели</a><span class="desc"> — Щёлкайте, перетаскивайте или прокручивайте пальцами и жестами на сенсорной панели.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

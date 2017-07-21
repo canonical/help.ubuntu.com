@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang=ja>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>ログアウト、電源OFF、ユーザーの切り替え</title>
+<link rel="stylesheet" type="text/css" href="ja.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="ヘルプ"></span></span>Ubuntu デスクトップガイド</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">ログアウト、電源OFF、ユーザーの切り替え</span></h1></div>
+<div class="region">
+<div class="contents"><p class="p">コンピューターを使い終わったあとは、電源を切ったり、(節電のために) サスペンドしたり、電源を入れたままログアウトしたりできます。</p></div>
+<div id="logout" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">ログアウトまたはユーザー切り替え</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">お使いのコンピューターを誰か他の人が使用できるようにするには、ログアウトしてもいいですし、あるいはログインしたままでユーザーの切り替えを行うこともできます。ユーザー切り替えを行った場合は、使用中のアプリケーションはすべて起動したままになり、ログインしなおせば元のままの状態になっています。</p>
+<p class="p">To log out or switch users, click the <span class="link"><a href="unity-menubar-intro.html" title="アプリの管理とメニューバーでの設定">system menu</a></span> at the
+very right of the menu bar and select the appropriate option.</p>
+</div></div>
+</div></div>
+<div id="lock-screen" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">画面のロック</span></h2></div>
+<div class="region">
+<div class="contents">
+<p class="p">コンピューターからちょっと離れる場合は、画面をロックして、誰か他の人がファイルにアクセスしたり、アプリケーションを実行したりできないようにすることを推奨します。戻ってきたら、パスワードを入力するだけでログインしなおすことができます。画面をロックしていない場合は、一定の時間が経てば自動的にロックされます。</p>
+<p class="p">画面をロックするには、メニューバーの中の<span class="gui">システムメニュー</span>をクリックして、<span class="gui">画面のロック</span>を選択します。</p>
+<p class="p">画面がロックされているとき、他のユーザーは<span class="gui">ユーザーの切り替え</span>をクリックし、パスワード画面でその人自身のアカウントにログインできます。その人が終了したときに前のユーザーのデスクトップに切り替えできます。</p>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">関連項目</span></h3></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="session-screenlocks.html" title="画面をロックするのが早すぎる">画面をロックするのが早すぎる</a><span class="desc"> — Change how long to wait before locking the screen in the
+    <span class="gui">Brightness &amp; Lock</span> settings.</span>
+</li>
+<li class="links ">
+<a href="display-lock.html" title="自動的に画面をロックする">自動的に画面をロックする</a><span class="desc"> — Prevent other people from using your desktop when you
+    go away from your computer.</span>
+</li>
+</ul></div>
+</div></div></div>
+</div>
+</div>
+</div></div>
+<div id="suspend" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">サスペンド</span></h2></div>
+<div class="region">
+<div class="contents">
+<p class="p">To save power, suspend your computer when you aren't using it. If you use
+ a laptop, Ubuntu suspends your computer automatically when you close the lid.
+ This saves your state to your computer's memory and powers off most of the
+ computer's functions. A very small amount of power is still used during
+ suspend.</p>
+<p class="p">手動でコンピューターをサスペンドするには、メニューバーの中の<span class="gui">システムメニュー</span>をクリックして、<span class="gui">サスペンド</span>を選択します。</p>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">関連項目</span></h3></div>
+<div class="region"><ul><li class="links ">
+<a href="power-suspend.html" title="What happens when I suspend my computer?">What happens when I suspend my computer?</a><span class="desc"> — Suspend sends your computer to sleep so it uses less power.</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+</div></div>
+<div id="shutdown" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">電源オフと再起動</span></h2></div>
+<div class="region">
+<div class="contents">
+<p class="p">コンピューターを完全に電源オフまたは再起動したい場合、<span class="gui">システムメニュー</span>をクリックして、<span class="gui">シャットダウン</span>を選択します。</p>
+<p class="p">他のユーザーがログインしていれば、コンピューターの電源を切ったり再起動したりすることはできないでしょう。他のユーザーのセッションを終了させることになってしまうからです。あなたがシステム管理者であれば、電源を落とすのにパスワードを求められることもあります。</p>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">関連項目</span></h3></div>
+<div class="region"><ul><li class="links ">
+<a href="power-batterylife.html" title="省電力での使用ならびにバッテリー寿命の改善">省電力での使用ならびにバッテリー寿命の改善</a><span class="desc"> — Tips to reduce the power consumption of your computer.</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">詳細</span></h2></div>
+<div class="region"><ul>
+<li class="links "><a href="index.html" title="Ubuntu デスクトップガイド">Ubuntu デスクトップガイド</a></li>
+<li class="links "><a href="shell-overview.html#desktop" title="デスクトップ">デスクトップ</a></li>
+<li class="links ">
+<a href="power.html" title="電源とバッテリー">電源とバッテリー</a><span class="desc"> — 
+      <span class="link"><a href="power-suspend.html" title="What happens when I suspend my computer?">Suspend</a></span>,
+      <span class="link"><a href="power-batterylife.html" title="省電力での使用ならびにバッテリー寿命の改善">energy savings</a></span>,
+      <span class="link"><a href="shell-exit.html#shutdown" title="電源オフと再起動">power off</a></span>,
+      <span class="link"><a href="power-whydim.html" title="Why does my screen go dim after a while?">screen dimming</a></span>…
+    </span>
+</li>
+</ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">関連項目</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="power-hibernate.html" title="How do I hibernate my computer?">How do I hibernate my computer?</a><span class="desc"> — Hibernate is disabled by default since it's not well supported.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

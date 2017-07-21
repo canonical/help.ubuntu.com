@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang=tr>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Yönetimsel ayrıcalıklar nasıl çalışır?</title>
+<link rel="stylesheet" type="text/css" href="tr.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Ubuntu Masaüstü Rehberi"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Yardım"></span></span> Ubuntu Masaüstü Rehberi</a> » <a class="trail" href="prefs.html" title="Kullanıcı ve sistem ayarları">Ayarlar</a> » <a class="trail" href="user-accounts.html" title="Kullanıcı hesapları">Kullanıcılar</a> › <a class="trail" href="user-accounts.html#privileges" title="Kullanıcı ayrıcalıkları">Ayrıcalıklar</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Yönetimsel ayrıcalıklar nasıl çalışır?</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p"><span class="em">Sizin</span> oluşturduğunuz dosyalar gibi, bilgisayarınızın da düzgün çalışması için belirli sayıda dosyaya ihtiyacı vardır. Eğer bu önemli <span class="em">sistem dosyaları</span> değiştirilirse önemli bozukluklara sebep olabilir, bu yüzden öntanımlı olarak değişikliklere karşı korumalıdırlar. Belli uygulamalar sistemin önemli bölümlerini değiştirebilir, bu sebeple bunlar da korumalıdır.</p>
+<p class="p">Dosyaları değiştirmeyi ve uygulamaları kullanmalarını korumanın yolu bunlara <span class="em">yönetici ayrıcalıkları</span> olan kullanıcıların erişmesine izin vermektir.Günlük kullanımda sistem dosyalarını değiştirmek ya da bu uygulamaları kullanmak gereksizdir, bu yüzden öntanımlı olarak yönetici ayrıcalıklarınız bulunmamaktadır.</p>
+<p class="p">Bazen bu uygulamaları kullanmanız gerekir, bu durumlarda değişiklikleri yapabilmek için geçici olarak yönetici ayrıcalıkları almanız gerekebilir. Eğer bir uygulama yönetici ayrıcalıklarını gerektiriyorsa, sizden parola isteyecektir. Örneğin, bazı yeni yazılımlar kurmak istiyorsunuz, yazılım yükleyici (paket yöneticisi) sizden yönetici parolası isteyecektir böylece yeni uygulama sisteme eklenebilir. İşlem bittiğinde yönetici ayrıcalıklarınız tekrar geri alınacaktır.</p>
+<p class="p">Yönetici hakları sizin kullanıcı hesabınızla ilişkilendirilmiştir. Bazı kullanıcıların yönetici hakları vardır, bazılarının da yoktur. Yönetici hakları olmadan yazılım kuramazsınız. Bazı Kullanıcı hesapları (root gibi) sürekli yönetici haklarına sahiptir. Yönetici haklarını her zaman kullanmamanız gerekir çünkü niyetlenmediğiniz bir şeyi (gerekli bir sistem dosyasını silmek gibi) yanlışlıkla yapabilirsiniz.</p>
+<p class="p">Özet olarak, yönetici ayrıcalıkları gerekli olduğu zaman sistemin önemli bölümlerini değiştirmenize olanak tanır, ancak kazara yapmanızı önler.</p>
+<div class="note" title="Not"><div class="inner">
+<div class="title title-note"><h2><span class="title">"Süper kullanıcı" ne anlama gelir?</span></h2></div>
+<div class="region"><div class="contents"><p class="p">Yönetici ayrıcalıklarına sahip bir kullanıcı bazı durumlarda <span class="em">süper kullanıcı</span> olarak tanımlanır. Basitçe bu kullanıcının ayrıcalıkları diğerlerinden daha çoktur. İnsanların <span class="cmd">su</span> ve <span class="cmd">sudo</span> gibi şeyler tartıştıklarını görmüşsünüzdür; bunlar size geçici olarak "süper kullanıcı" (yönetici) ayrıcalıkları veren programlardır.</p></div></div>
+</div></div>
+</div>
+<div id="advantages" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Yönetici ayrıcalıkları neden kullanışlıdır?</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Gerek duyan kullanıcıların, önemli sistem değişiklikleri yapmadan önce yönetici ayrıcalıklarına sahip olması kullanışlıdır çünkü sisteminizin işleyişini isteyerek ya da istemeyerek bozmayı önler.</p>
+<p class="p">Eğer her zaman yönetici ayrıcalıklarınız olursa, önemli bir dosyayı yanlışlıkla değiştirebilirsiniz ya da önemli bir şeyler değiştirebilecek bir uygulamayı çalıştırabilirsiniz. Yönetici ayrıcalıklarını geçici olarak, ihtiyacınız olduğunda almalısınız, bu sayede yanlışlıkların olma riski düşer.</p>
+<p class="p">Sadece güvenilen kullanıcılara yönetici hakları verilmesi gerekir. Bu, diğer kullanıcıların bilgisayarı kurcalamasını, size lazım olan uygulamaları kaldırmalarını, istemediğiniz uygulamaları kurmalarını ve önemli dosyaları değiştirmelerini engeller. Bu, güvenlik açısından önemlidir.</p>
+</div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Daha Fazla Bilgi</span></h2></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html#privileges" title="Kullanıcı ayrıcalıkları">Kullanıcı ayrıcalıkları</a></li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Ayrıyetten Bakınız</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="net-othersedit.html" title="Diğer kullanıcılar ağ bağlantılarını düzenleyemezler">Diğer kullanıcılar ağ bağlantılarını düzenleyemezler</a><span class="desc"> — Ağ bağlantı ayarlarından <span class="gui">Tüm kullanıcılar kullanabilir</span> seçeneğinin işaretini kaldırmanız gerekir.</span>
+</li>
+<li class="links ">
+<a href="user-admin-change.html" title="Kimin yönetimsel ayrıcalıklara sahip olacağını değiştirin">Kimin yönetimsel ayrıcalıklara sahip olacağını değiştirin</a><span class="desc"> — Kullanıcılara ayrıcalıklar tanıyarak sistem üzerinde değişiklikler yapmasına izin verebilirsiniz.</span>
+</li>
+</ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

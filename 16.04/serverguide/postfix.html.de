@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang=de>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Postfix</title>
+<link rel="stylesheet" type="text/css" href="de.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../16.04" class="trail">Ubuntu 16.04</a> » <a class="trail" href="index.html" title="Ubuntu–Server-Leitfaden">Ubuntu–Server-Leitfaden</a> » <a class="trail" href="email-services.html" title="E-Mail-Dienste">E-Mail-Dienste</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="email-services.html" title="E-Mail-Dienste">Zurück</a><a class="nextlinks-next" href="exim4.html" title="Exim4">Weiter</a>
+</div>
+<div class="hgroup"><h1 class="title">Postfix</h1></div>
+<div class="region">
+<div class="contents">
+<p class="para"><span class="app application">Postfix</span> ist der standardmäßig installierte Mail Transfer Agent (MTA) in Ubuntu. Er soll schnell und einfach zu verwalten und abzusichern sein. Postfix ist mit dem MTA <span class="app application">Sendmail</span> kompatibel. In diesem Abschnitt wird erklärt, wie man <span class="app application">Postfix</span> installiert und verwaltet. Außerdem wird erklärt, wie man ihn als SMTP-Server mit einer sicheren Verbindung einrichtet (um E-Mails sicher zu senden).</p>
+<div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents">
+            <p class="para">Diese Anleitung behandelt die Einrichtung von Postfix-<span class="em emphasis">Virtual Domains</span> nicht. Um Informationen über Virtual Domains und andere erweiterte Konfigurationen zu erhalten, lesen Sie bitte <a class="xref" href="postfix.html#postfix-references" title="Referenzen">Referenzen</a>.</p>
+          </div></div></div></div>
+</div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="postfix.html#postfix-installation" title="Installation">Installation</a></li>
+<li class="links"><a class="xref" href="postfix.html#postfix-configuration" title="Grundlegende Einstellungen">Grundlegende Einstellungen</a></li>
+<li class="links"><a class="xref" href="postfix.html#postfix-smtp-authentication" title="SMTP-Authentifizierung">SMTP-Authentifizierung</a></li>
+<li class="links"><a class="xref" href="postfix.html#postfix-sasl" title="Konfigurieren von SASL">Konfigurieren von SASL</a></li>
+<li class="links"><a class="xref" href="postfix.html#mail-stack-delivery" title="Mail-Stack-Delivery">Mail-Stack-Delivery</a></li>
+<li class="links"><a class="xref" href="postfix.html#postfix-testing" title="Überprüfung">Überprüfung</a></li>
+<li class="links"><a class="xref" href="postfix.html#postfix-troubleshooting" title="Fehlersuche">Fehlersuche</a></li>
+</ul></div>
+<div class="sect2 sect" id="postfix-installation"><div class="inner">
+<div class="hgroup"><h2 class="title">Installation</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Um <span class="app application">Postfix</span> zu installieren, führen Sie den folgenden Befehl aus:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install postfix</span>
+</pre></div>
+<p class="para">Fragen während der Installation können Sie einfach mit der Eingabetaste bestätigen. Die Konfiguration und Verwaltung wird im weiteren Verlauf noch erläutert.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="postfix-configuration"><div class="inner">
+<div class="hgroup"><h2 class="title">Grundlegende Einstellungen</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Um <span class="app application">postfix</span> zu konfigurieren, führen Sie den folgenden Befehl aus:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo dpkg-reconfigure postfix</span>
+</pre></div>
+<p class="para">Die Benutzeroberfläche von <span class="app application">Postfix</span> wird angezeigt. Wählen Sie auf jeder Seite die folgenden Werte: <div class="list itemizedlist"><ul class="list itemizedlist compact">
+<li class="list itemizedlist"><p class="para">Internetseite</p></li>
+<li class="list itemizedlist"><p class="para">mail.example.com</p></li>
+<li class="list itemizedlist"><p class="para">steve</p></li>
+<li class="list itemizedlist"><p class="para">mail.example.com, localhost.localdomain, localhost</p></li>
+<li class="list itemizedlist"><p class="para">Nein</p></li>
+<li class="list itemizedlist"><p class="para">127.0.0.0/8 [::ffff:127.0.0.0]/104 [::1]/128 192.168.0.0/24</p></li>
+<li class="list itemizedlist"><p class="para">0</p></li>
+<li class="list itemizedlist"><p class="para">+</p></li>
+<li class="list itemizedlist"><p class="para">Alle</p></li>
+</ul></div></p>
+<div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents">
+            <p class="para">Ersetzen Sie »mail.example.com« mit der Domain, für die Sie E-Mail akzeptieren, »192.168.0.0/24« mit dem tatsächlichen Netzwerk- und Klassenbereich Ihres Mailservers und »steve« mit dem jeweiligen Benutzernamen.</p>
+            </div></div></div></div>
+<p class="para">Sie sollten nun entscheiden, welches Mailbox-Format Sie benutzen möchten. Postfix benutzt standardmäßig <span class="em em-bold emphasis">mbox</span> als Mailbox-Format. Anstatt die Konfigurationsdatei direkt zu editieren, können Sie den Befehl <span class="cmd command">postconf</span> zur Konfiguration aller <span class="app application">postfix</span>-Parameter benutzen. Die Konfigurationsparameter werden in der Datei <span class="file filename">/etc/postfix/main.cf</span> gespeichert. Wenn Sie später einen bestimmten Parameter neu konfigurieren möchten, können Sie entweder den obigen Befehl ausführen, oder den Parameter direkt in der Datei ändern.</p>
+<p class="para">Um das Mailbox-Format für <span class="em em-bold emphasis">Maildir:</span> zu konfigurieren</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo postconf -e 'home_mailbox = Maildir/'</span>
+</pre></div>
+<div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents">
+            <p class="para">Dies wird neue E-Mails in /home/<span class="em emphasis">username</span>/Maildir ablegen. Sie müssen also Ihren Mail Delivery Agent (MDA) so konfigurieren, dass er den selben Pfad nutzt.</p>
+            </div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="postfix-smtp-authentication"><div class="inner">
+<div class="hgroup"><h2 class="title">SMTP-Authentifizierung</h2></div>
+<div class="region"><div class="contents">
+<p class="para">SMTP-AUTH ermöglicht einem E-Mail-Client, sich mittels einer Authentifizierungsmethode (SASL) zu identifizieren. Sie sollten Transport Layer Security (TLS) benutzen, um den Authentifizierungsvorgang zu verschlüsseln. Sobald die Authentifizierung durchgeführt worden ist, erlaubt der SMTP-Server dem Client, E-Mails weiterzuleiten.</p>
+<div class="steps"><div class="inner"><ol class="steps">
+<li class="steps">
+     	         <p class="para">Konfigurieren Sie Postfix für SMTP-AUTH mittels SASL (Dovecot SASL):</p>
+<div class="screen"><pre class="contents ">sudo postconf -e 'smtpd_sasl_type = dovecot'
+sudo postconf -e 'smtpd_sasl_path = private/auth'
+sudo postconf -e 'smtpd_sasl_local_domain ='
+sudo postconf -e 'smtpd_sasl_security_options = noanonymous'
+sudo postconf -e 'broken_sasl_auth_clients = yes'
+sudo postconf -e 'smtpd_sasl_auth_enable = yes'
+sudo postconf -e 'smtpd_recipient_restrictions = \
+permit_sasl_authenticated,permit_mynetworks,reject_unauth_destination'
+</pre></div>
+	        <div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents">
+		<p class="para">Die <span class="em emphasis">smtpd_sasl_path</span>-Konfiguration ist ein relativer Pfad zum Verzeichnis der Postfix-Warteschlange.</p>
+		</div></div></div></div>
+		</li>
+<li class="steps">
+                <p class="para">
+                Next, generate or obtain a digital certificate for TLS. See <a class="xref" href="certificates-and-security.html" title="Zertifikate">Zertifikate</a> for details.
+                This example also uses a Certificate Authority (CA).  For information on generating a CA certificate see
+                <a class="xref" href="certificates-and-security.html#certificate-authority" title="Zertifizierungsstelle">Zertifizierungsstelle</a>.
+	        </p>
+		<div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents">
+                <p class="para">
+                MUAs connecting to your mail server via TLS will need to recognize the certificate used for TLS.  This can either
+                be done using a certificate from a commercial CA or with a self-signed certificate that users manually install/accept.  
+                For MTA to MTA TLS certficates are never validated without advance agreement from the affected organizations.  For MTA
+                to MTA TLS, unless local policy requires it, there is no reason not to use a self-signed certificate.  Refer to 
+		<a class="xref" href="certificates-and-security.html#creating-a-self-signed-certificate" title="Erstellen eines selbst-signierten Zertifikats">Erstellen eines selbst-signierten Zertifikats</a> for more details.
+                </p>
+                </div></div></div></div>
+		</li>
+<li class="steps">
+                <p class="para">Sobald Sie ein Zertifikat haben, konfigurieren Sie Postfix, um TLS-Verschlüsselung für eingehende sowie ausgehende E-Mail zur Verfügung zu stellen:</p>
+<div class="screen"><pre class="contents ">sudo postconf -e 'smtp_tls_security_level = may'
+sudo postconf -e 'smtpd_tls_security_level = may'
+sudo postconf -e 'smtp_tls_note_starttls_offer = yes'
+sudo postconf -e 'smtpd_tls_key_file = /etc/ssl/private/server.key'
+sudo postconf -e 'smtpd_tls_cert_file = /etc/ssl/certs/server.crt'
+sudo postconf -e 'smtpd_tls_loglevel = 1'
+sudo postconf -e 'smtpd_tls_received_header = yes'
+sudo postconf -e 'myhostname = mail.beispiel.de'
+</pre></div>
+		</li>
+<li class="steps">
+                  <p class="para">Falls Sie Ihre eigene <span class="em emphasis">Zertifizierungsstelle</span> (»Certificate Authority«, CA) zum Signieren des Zertifikats verwenden, geben Sie das ein:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo postconf -e 'smtpd_tls_CAfile = /etc/ssl/certs/cacert.pem'</span>
+</pre></div>
+
+                  <p class="para">Werfen Sie einen Blick auf <a class="xref" href="certificates-and-security.html" title="Zertifikate">Zertifikate</a> für weitere Einzelheiten.</p>
+                </li>
+</ol></div></div>
+<div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents">
+            <p class="para">Nachdem Sie alle Befehle ausgeführt haben, ist <span class="app application">Postfix</span> für SMTP-AUTH eingerichtet und es wurde ein selbst-signiertes Zertifikat für die TLS-Verschlüsselung erstellt.</p>
+            </div></div></div></div>
+<p class="para">
+            Now, the file <span class="file filename">/etc/postfix/main.cf</span> should look like this:
+	    </p>
+<div class="code"><pre class="contents "># See /usr/share/postfix/main.cf.dist for a commented, more complete
+# version
+
+smtpd_banner = $myhostname ESMTP $mail_name (Ubuntu)
+biff = no
+
+# appending .domain is the MUA's job.
+append_dot_mydomain = no
+
+# Uncomment the next line to generate "delayed mail" warnings
+#delay_warning_time = 4h
+
+myhostname = server1.example.com
+alias_maps = hash:/etc/aliases
+alias_database = hash:/etc/aliases
+myorigin = /etc/mailname
+mydestination = server1.example.com, localhost.example.com, localhost
+relayhost =
+mynetworks = 127.0.0.0/8
+mailbox_command = procmail -a "$EXTENSION"
+mailbox_size_limit = 0
+recipient_delimiter = +
+inet_interfaces = all
+smtpd_sasl_local_domain =
+smtpd_sasl_auth_enable = yes
+smtpd_sasl_security_options = noanonymous
+broken_sasl_auth_clients = yes
+smtpd_recipient_restrictions =
+permit_sasl_authenticated,permit_mynetworks,reject _unauth_destination
+smtpd_tls_auth_only = no
+smtp_tls_security_level = may
+smtpd_tls_security_level = may
+smtp_tls_note_starttls_offer = yes
+smtpd_tls_key_file = /etc/ssl/private/smtpd.key
+smtpd_tls_cert_file = /etc/ssl/certs/smtpd.crt
+smtpd_tls_CAfile = /etc/ssl/certs/cacert.pem
+smtpd_tls_loglevel = 1
+smtpd_tls_received_header = yes
+smtpd_tls_session_cache_timeout = 3600s
+tls_random_source = dev:/dev/urandom
+</pre></div>
+<p class="para">Die Ersteinrichtung von Postfix ist nun vollständig. Führen Sie den folgenden Befehl aus, um dem Postfix-Dienst neu zu starten:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo systemctl restart postfix.service</span>
+</pre></div>
+<p class="para">
+            <span class="app application">Postfix</span> supports SMTP-AUTH as defined in
+            <a href="http://www.ietf.org/rfc/rfc2554.txt" class="ulink" title="http://www.ietf.org/rfc/rfc2554.txt">RFC2554</a>.
+            It is based on <a href="http://www.ietf.org/rfc/rfc2222.txt" class="ulink" title="http://www.ietf.org/rfc/rfc2222.txt">SASL</a>. However it is still necessary 
+	    to set up SASL authentication before you can use SMTP-AUTH.
+            </p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="postfix-sasl"><div class="inner">
+<div class="hgroup"><h2 class="title">Konfigurieren von SASL</h2></div>
+<div class="region"><div class="contents">
+<p class="para">	              
+	    Postfix supports two SASL implementations Cyrus SASL and Dovecot SASL.  To enable Dovecot SASL 	    
+	    the <span class="app application">dovecot-core</span> package will need to be installed.  From a terminal prompt
+	    enter the following:
+	    </p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install dovecot-core</span>
+</pre></div>
+<p class="para">
+ 	    Next you will need to edit <span class="file filename">/etc/dovecot/conf.d/10-master.conf</span>.  Change the following:
+	    </p>
+<div class="code"><pre class="contents ">service auth {
+  # auth_socket_path points to this userdb socket by default. It's typically
+  # used by dovecot-lda, doveadm, possibly imap process, etc. Its default
+  # permissions make it readable only by root, but you may need to relax these
+  # permissions. Users that have access to this socket are able to get a list
+  # of all usernames and get results of everyone's userdb lookups.
+  unix_listener auth-userdb {
+    #mode = 0600
+    #user = 
+    #group = 
+  }
+
+  # Postfix smtp-auth
+  unix_listener /var/spool/postfix/private/auth {
+    mode = 0660
+    user = postfix
+    group = postfix
+  }
+</pre></div>
+<p class="para">
+            In order to let <span class="app application">Outlook</span> clients use SMTP-AUTH, in the <span class="em emphasis">authentication mechanisms</span> 
+            section of /etc/dovecot/conf.d/10-auth.conf change this line:
+            </p>
+<div class="code"><pre class="contents ">auth_mechanisms = plain
+</pre></div>
+<p class="para">
+           To this:
+           </p>
+<div class="code"><pre class="contents ">auth_mechanisms = plain login
+</pre></div>
+<p class="para">Wenn Sie <span class="app application">Dovecot</span> eingerichtet haben, starten Sie Dovecot mit folgendem Befehl neu:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo systemctl restart dovecot.service</span>
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="mail-stack-delivery"><div class="inner">
+<div class="hgroup"><h2 class="title">Mail-Stack-Delivery</h2></div>
+<div class="region"><div class="contents">
+<p class="para">
+            Another option for configuring <span class="app application">Postfix</span> for SMTP-AUTH is using the 
+            <span class="app application">mail-stack-delivery</span> package (previously packaged as dovecot-postfix).  
+            This package will install 
+            <span class="app application">Dovecot</span> and configure <span class="app application">Postfix</span> to use it
+            for both SASL authentication and as a Mail Delivery Agent (MDA).  The package also configures 
+            <span class="app application">Dovecot</span> for IMAP, IMAPS, POP3, and POP3S.
+            </p>
+<div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents">
+              <p class="para">
+              You may or may not want to run IMAP, IMAPS, POP3, or POP3S on your mail server.  For example, 
+              if you are configuring your server to be a mail gateway, spam/virus filter, etc.  If this is 
+              the case it may be easier to use the above commands to configure Postfix for SMTP-AUTH.
+              </p>
+            </div></div></div></div>
+<p class="para">Um das Paket zu installieren, geben Sie folgendes in ein Terminal ein:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install mail-stack-delivery</span>
+</pre></div>
+<p class="para">Nun sollten Sie einen funktionierenden Mailserver haben, jedoch gibt es ein paar Optionen, die Sie eventuell weitergehend anpassen möchten. Zum Beispiel benutzt das Paket das Zertifikat und den Schlüssel aus dem Paket <span class="app application">ssl-cert</span> und in einer Produktionsumgebung sollten Sie ein Zertifikat und einen Schlüssel für den Host benutzen. Schauen Sie für weitere Details unter <a class="xref" href="certificates-and-security.html" title="Zertifikate">Zertifikate</a> nach.</p>
+<p class="para">Sobald Sie ein Zertifikat und einen Schlüssel für den Host angepasst haben, ändern Sie die folgenden Optionen in <span class="file filename">/etc/postfix/main.cf</span>:</p>
+<div class="code"><pre class="contents ">smtpd_tls_cert_file = /etc/ssl/certs/ssl-mail.pem
+smtpd_tls_key_file = /etc/ssl/private/ssl-mail.key
+</pre></div>
+<p class="para">Starten Sie dann Postfix neu:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo systemctl restart postfix.service</span>
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="postfix-testing"><div class="inner">
+<div class="hgroup"><h2 class="title">Überprüfung</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Die Konfiguration von SMTP-AUTH ist nun vollständig. Jetzt ist es an der Zeit, die Installation zu testen.</p>
+<p class="para">Um zu sehen, ob SMTP-AUTH und TLS korrekt funktionieren, führen Sie folgenden Befehl aus:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">telnet mail.example.com 25</span>
+</pre></div>
+<p class="para">Nachdem Sie eine Verbindung zum Postfix-Mail-Server hergestellt haben, geben Sie folgendes ein:</p>
+<div class="screen"><pre class="contents ">ehlo mail.example.com
+</pre></div>
+<p class="para">Falls Sie unter anderem die folgenden Zeilen sehen, funktioniert alles einwandfrei. Geben Sie <span class="cmd command">quit</span> zum Beenden ein.</p>
+<div class="code"><pre class="contents ">250-STARTTLS
+250-AUTH LOGIN PLAIN
+250-AUTH=LOGIN PLAIN
+250 8BITMIME
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="postfix-troubleshooting"><div class="inner">
+<div class="hgroup"><h2 class="title">Fehlersuche</h2></div>
+<div class="region">
+<div class="contents"><p class="para">Dieser Abschnitt erläutert einige Wege, um mögliche Fehler zu erkennen.</p></div>
+<div class="sect3 sect" id="postfix-chroot"><div class="inner">
+<div class="hgroup"><h3 class="title">Chroot beenden</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Das Ubuntu <span class="app application">postfix</span>-Paket wird aus Sicherheitsgründen standardmäßig in eine chroot-Umgebung installiert. Dies kann die Fehlersuche bei Problemen komplexer machen.</p>
+<p class="para">Um den chroot-Dienst auszuschalten, suchen Sie nach der folgenden Zeile in der Konfigurationsdatei <span class="file filename">/etc/postfix/master.cf</span>:</p>
+<div class="screen"><pre class="contents ">smtp inet n - - - - smtpd
+</pre></div>
+<p class="para">und ändern Sie sie wie folgt ab:</p>
+<div class="screen"><pre class="contents ">smtp inet n - n - - smtpd
+</pre></div>
+<p class="para">Dann müssen Sie Postfix neu starten, um die neuen Einstellungen zu verwenden. Geben Sie dazu folgendes in ein Terminal ein:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo systemctl restart postfix.service</span>
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="postfix-smtps"><div class="inner">
+<div class="hgroup"><h3 class="title">Smtps</h3></div>
+<div class="region"><div class="contents">
+<p class="para">
+	    If you need smtps, edit <span class="file filename">/etc/postfix/master.cf</span> and uncomment the following line:
+	  </p>
+<div class="code"><pre class="contents ">smtps     inet  n       -       -       -       -       smtpd
+  -o smtpd_tls_wrappermode=yes
+  -o smtpd_sasl_auth_enable=yes
+  -o smtpd_client_restrictions=permit_sasl_authenticated,reject
+  -o milter_macro_daemon_name=ORIGINATING
+	  </pre></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="postfix-logs"><div class="inner">
+<div class="hgroup"><h3 class="title">Protokolldateien</h3></div>
+<div class="region"><div class="contents">
+<p class="para"><span class="app application">Postix</span> schreibt alle Protokollnachrichten in die Datei <span class="file filename">/var/log/mail.log</span>. Da jedoch Fehler- und Warnmeldungen in der normalen Protokollausgabe untergehen können, werden diese auch in die Dateien <span class="file filename">/var/log/mail.err</span> und <span class="file filename">/var/log/mail.warn</span> geschrieben.</p>
+<p class="para">Um Nachrichten aus den Protokollen in Echtzeit einzusehen, können Sie den Befehl <span class="app application">tail -f</span> nutzen.</p>
+<div class="screen"><pre class="contents "><span class="cmd command">tail -f /var/log/mail.err</span>
+</pre></div>
+<p class="para">Die Detailtiefe, mit der in die Protokolldateien geschrieben wird, kann erhöht werden. Sie finden nachfolgend einige Konfigurationsmöglichkeiten für die zuvor behandelten Bereiche:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist compact">
+<li class="list itemizedlist">
+	    <p class="para">Um die Protokolldetails der <span class="em emphasis">TLS</span>-Aktivitäten zu erhöhen, setzen Sie die <span class="em emphasis">smtpd_tls_loglevel</span>-Option auf einen Wert zwischen 1 und 4:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo postconf -e 'smtpd_tls_loglevel = 4'</span>
+</pre></div>
+	  </li>
+<li class="list itemizedlist">
+	    <p class="para">Wenn Sie Probleme haben, E-Mails von einer spezifischen Domäne zu empfangen oder zu senden, können Sie diese Domäne zum Vorgabewert <span class="em emphasis">debug_peer_list</span> hinzufügen:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo postconf -e 'debug_peer_list = problem.domain'</span>
+</pre></div>
+	  </li>
+<li class="list itemizedlist">
+	    <p class="para">Sie können die Informationsausgabe jedes Postfix-Prozesses erhöhen, indem Sie in der Datei <span class="file filename">/etc/postfix/master.cf</span> hinter jedem Eintrag die Zeichen <span class="em emphasis">-v</span> hinzufügen. Bearbeiten Sie beispielsweise den Eintrag <span class="em emphasis">smtp</span>:</p>
+<div class="code"><pre class="contents ">smtp unix - - - - - smtp -v
+</pre></div>	    
+	  </li>
+</ul></div>
+<div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents">
+	  <p class="para">
+	  It is important to note that after making one of the logging changes above the <span class="app application">Postfix</span> process will need to be reloaded
+	  in order to recognize the new configuration: <span class="cmd command">sudo systemctl reload postfix.service</span>
+	  </p>
+	</div></div></div></div>
+<div class="list itemizedlist"><ul class="list itemizedlist compact"><li class="list itemizedlist">
+	    <p class="para">
+   	    To increase the amount of information logged when troubleshooting <span class="em emphasis">SASL</span> issues you can set the following options in 
+	    <span class="file filename">/etc/dovecot/conf.d/10-logging.conf</span>
+	    </p>
+<div class="code"><pre class="contents ">auth_debug=yes
+auth_debug_passwords=yes
+</pre></div>
+	  </li></ul></div>
+<div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents">
+	  <p class="para">
+	  Just like <span class="app application">Postfix</span> if you change a <span class="app application">Dovecot</span> configuration the process will need to be
+	  reloaded: <span class="cmd command">sudo systemctl reload dovecot.service</span>.
+	  </p>
+	</div></div></div></div>
+<div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents">
+	  <p class="para">Einige der obigen Optionen können die Menge an Informationen, die an die Protokolldateien gesendet werden, drastisch erhöhen. Denken Sie daran, die Detailtiefe der Protokollierung auf »Normal« zurück zu setzen nachdem Sie das Problem korrigiert haben. Laden Sie danach den zugehörigen Dienst neu, damit die neue Konfiguration wirksam wird.</p>
+	</div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="postfix-references"><div class="inner">
+<div class="hgroup"><h3 class="title">Referenzen</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Einen <span class="app application">Postfix</span>-Server zu verwalten kann eine sehr umfangreiche Aufgabe sein. An manchen Stellen kann es erforderlich sein, sich für sachkundige Hilfe an die Ubuntu Gemeinschaft zu wenden.</p>
+<p class="para">Eine gute Stelle um <span class="app application">Postfix</span>-Unterstützung anzufragen, und um sich in der Ubuntu Server Gemeinschaft zu engagieren, ist der <span class="em emphasis">#ubuntu-server</span> IRC-Kanal auf <a href="http://freenode.net" class="ulink" title="http://freenode.net">freenode</a>. Sie können auch eine Nachricht in eines der <a href="http://www.ubuntu.com/support/community/webforums" class="ulink" title="http://www.ubuntu.com/support/community/webforums">Web Foren</a> stellen.</p>
+<p class="para">Für tiefergehende Informationen über <span class="app application">Postfix</span> empfehlen die Ubuntu-Entwickler: <a href="http://www.postfix-book.com/" class="ulink" title="http://www.postfix-book.com/">The Book of Postfix</a>.</p>
+<p class="para">Letztlich hat auch die <a href="http://www.postfix.org/documentation.html" class="ulink" title="http://www.postfix.org/documentation.html">Postfix</a>-Webseite eine umfassende Dokumentation über die verschiedenen Einrichtungsmöglichkeiten.</p>
+<p class="para">
+      Also, the <a href="https://help.ubuntu.com/community/Postfix" class="ulink" title="https://help.ubuntu.com/community/Postfix">Ubuntu Wiki Postfix</a> page has more information.
+      </p>
+</div></div>
+</div></div>
+</div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="email-services.html" title="E-Mail-Dienste">Zurück</a><a class="nextlinks-next" href="exim4.html" title="Exim4">Weiter</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p></div>
+</div>
+</body>
+</html>

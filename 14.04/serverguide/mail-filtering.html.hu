@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang=hu>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Levélszűrés</title>
+<link rel="stylesheet" type="text/css" href="hu.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Ubuntu kiszolgáló kézikönyve">Ubuntu kiszolgáló kézikönyve</a> » <a class="trail" href="email-services.html" title="E-mail szolgáltatások">E-mail szolgáltatások</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="mailman.html" title="Mailman">Előző</a><a class="nextlinks-next" href="chat-servers.html" title="Csevegőalkalmazások">Következő</a>
+</div>
+<div class="hgroup"><h1 class="title">Levélszűrés</h1></div>
+<div class="region">
+<div class="contents">
+<p class="para">Manapság az e-mailekkel kapcsolatos legnagyobb problémák egyike a nemkívánatos tömeges levélszemét. Ezek a spam néven is ismert üzenetek vírusokat és egyéb rosszindulatú programokat tartalmazhatnak. Egyes jelentések szerint ezek az üzenetek teszik ki az internet e-mail forgalmának zömét.</p>
+<p class="para">Ez a szakasz az <span class="app application">Amavisd-new</span>, <span class="app application">Spamassassin</span> és <span class="app application">ClamAV</span> integrálását ismerteti a <span class="app application">Postfix</span> levéltovábbító ügynökkel (MTA). A <span class="app application">Postfix</span> külső tartalomszűrőkön való átküldéssel képes ellenőrizni az e-mailek érvényességét is. Ezek a szűrők néha az erőforrás-igényesebb alkalmazásokkal való feldolgozás nélkül is képesek megállapítani egy üzenetről, hogy levélszemét-e. Két általános szűrő az <span class="app application">opendkim</span> és a <span class="app application">python-policyd-spf</span>.</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+	     <p class="para">Az <span class="app application">Amavisd-new</span> egy átalakítóprogram, amely képes tetszőleges számú tartalomszűrő programot meghívni levélszemét-felismerési, víruskeresési stb. céllal.</p>
+	   </li>
+<li class="list itemizedlist">
+	     <p class="para">A <span class="app application">Spamassassin</span> számos mechanizmust használ az e-mailek szűrésére az üzenet tartalma alapján.</p>
+	   </li>
+<li class="list itemizedlist">
+	     <p class="para">A <span class="app application">ClamAV</span> egy nyílt forrású víruskereső alkalmazás.</p>
+	   </li>
+<li class="list itemizedlist">
+	     <p class="para">Az <span class="app application">opendkim</span> egy Sendmail levélszűrőt (Milter) valósít meg a DKIM szabványhoz.</p>
+	   </li>
+<li class="list itemizedlist">
+  	     <p class="para">A <span class="app application">python-policyd-spf</span> engedélyezi a SPF-ellenőrzéseket a <span class="app application">Postfix-szel</span>.</p>
+	   </li>
+</ul></div>
+<p class="para">A részek így illeszkednek:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+	     <p class="para">A <span class="app application">Postfix</span> fogadja az e-mailt.</p>
+	   </li>
+<li class="list itemizedlist">
+	     <p class="para">Az üzenet átkerül a külső szűrőkhöz, ezek ebben az esetben az <span class="app application">opendkim</span> és <span class="app application">python-policyd-spf</span>.</p>
+	   </li>
+<li class="list itemizedlist">
+	     <p class="para">Ezután az <span class="app application">Amavisd-new</span> feldolgozza az üzenetet.</p>
+	   </li>
+<li class="list itemizedlist">
+	     <p class="para">A <span class="app application">ClamAV</span> megvizsgálja az üzenetet. Ha az üzenet vírust tartalmaz, akkor a <span class="app application">Postfix</span> visszautasítja az üzenetet.</p>
+	   </li>
+<li class="list itemizedlist">
+	     <p class="para">A tiszta üzeneteket a <span class="app application">Spamassassin</span> elemzi, és eldönti hogy az levélszemét-e. A <span class="app application">Spamassassin</span> X-Header sorokat ad az üzenethez, lehetővé téve az <span class="app application">Amavisd-new</span> számára azok további manipulálását.</p>
+	   </li>
+</ul></div>
+<p class="para">Ha például egy üzenet levélszemét-pontszáma ötven felett van, akkor az üzenet automatikusan kidobható a sorból, a címzett tudta nélkül. Másik lehetőség a megjelölt üzenetek kezelésére azok átadása a levelezőkliensnek, lehetővé téve a felhasználónak az üzenet ízlésének megfelelő kezelését.</p>
+</div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="mail-filtering.html#mail-filter-installation" title="Telepítés">Telepítés</a></li>
+<li class="links"><a class="xref" href="mail-filtering.html#mail-filter-configuration" title="Beállítás">Beállítás</a></li>
+<li class="links"><a class="xref" href="mail-filtering.html#mail-filter-testing" title="Tesztelés">Tesztelés</a></li>
+<li class="links"><a class="xref" href="mail-filtering.html#mail-filter-troubleshooting" title="Hibaelhárítás">Hibaelhárítás</a></li>
+<li class="links"><a class="xref" href="mail-filtering.html#mail-filter-references" title="Hivatkozások">Hivatkozások</a></li>
+</ul></div>
+<div class="sect2 sect" id="mail-filter-installation"><div class="inner">
+<div class="hgroup"><h2 class="title">Telepítés</h2></div>
+<div class="region"><div class="contents">
+<p class="para">A Postfix telepítésével és beállításával kapcsolatos utasításokért lásd: <a class="xref" href="postfix.html" title="Postfix">Postfix</a>.</p>
+<p class="para">A további alkalmazások telepítéséhez adja ki a következő parancsokat:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt-get install amavisd-new spamassassin clamav-daemon</span>
+<span class="cmd command">sudo apt-get install opendkim postfix-policyd-spf-python</span>
+</pre></div>
+<p class="para">A jobb levélszemét-felismerés érdekében telepíthető néhány, a <span class="app application">Spamassassinba</span> integrálódó csomag:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt-get install pyzor razor</span>
+</pre></div>
+<p class="para">A fő szűrőalkalmazások mellett tömörítő segédprogramok is szükségesek egyes e-mail mellékletek feldolgozásához.</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt-get install arj cabextract cpio lha nomarch pax rar unrar unzip zip</span>
+</pre></div>
+<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents">
+		<p class="para">Ha néhány csomag nem található, akkor az <span class="file filename">/etc/apt/sources.list</span> fájlban ellenőrizze, hogy a <span class="em emphasis">multiverse</span> tároló engedélyezve van-e.</p>
+		<p class="para">Ha módosította a fájlt, a telepítés újrapróbálása előtt futtassa a <span class="cmd command">sudo apt-get update</span> parancsot.</p>
+	</div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="mail-filter-configuration"><div class="inner">
+<div class="hgroup"><h2 class="title">Beállítás</h2></div>
+<div class="region">
+<div class="contents"><p class="para">Most beállíthatja a csomagokat az együttműködésre és az e-mailek szűrésére.</p></div>
+<div class="sect3 sect" id="clamav-configuration"><div class="inner">
+<div class="hgroup"><h3 class="title">ClamAV</h3></div>
+<div class="region"><div class="contents">
+<p class="para">A <span class="app application">ClamAV</span> alapértelmezett viselkedése megfelel igényeinknek. A ClamAV további beállítási lehetőségeivel kapcsolatban nézze meg az <span class="file filename">/etc/clamav</span> alatti konfigurációs fájlokat.</p>
+<p class="para">Vegye fel a <span class="em emphasis">clamav</span> felhasználót az <span class="em emphasis">amavis</span> csoportba ahhoz, hogy az <span class="app application">Amavisd-new</span> megfelelő hozzáféréssel rendelkezzen a fájlok vizsgálatához:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo adduser clamav amavis</span>
+<span class="cmd command">sudo adduser amavis clamav</span>
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="spamassassin-configuration"><div class="inner">
+<div class="hgroup"><h3 class="title">Spamassassin</h3></div>
+<div class="region"><div class="contents">
+<p class="para">A Spamassassin automatikusan felismeri az elhagyható összetevőket, és használatba veszi a jelenlévőket. Ez azt jelenti, hogy nincs szükség a <span class="app application">pyzor</span> és <span class="app application">razor</span> konfigurálására.</p>
+<p class="para">A <span class="app application">Spamassassin</span> démon aktiválásához szerkessze az <span class="file filename">/etc/default/spamassassin</span> fájlt. Módosítsa az <span class="em emphasis">ENABLED=0</span> értéket:</p>
+<div class="code"><pre class="contents ">ENABLED=1
+</pre></div>
+<p class="para">Most indítsa el a démont:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo service spamassassin start</span>
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="amavisd-new-configuration"><div class="inner">
+<div class="hgroup"><h3 class="title">Amavisd-new</h3></div>
+<div class="region">
+<div class="contents">
+<p class="para">Első lépésként engedélyezze a levélszemét- és víruskeresést az <span class="app application">Amavisd-new</span> programban az <span class="file filename">/etc/amavis/conf.d/15-content_filter_mode</span> szerkesztésével:</p>
+<div class="code"><pre class="contents ">use strict;
+
+# You can modify this file to re-enable SPAM checking through spamassassin
+# and to re-enable antivirus checking.
+
+#
+# Default antivirus checking mode
+# Uncomment the two lines below to enable it
+#
+
+@bypass_virus_checks_maps = (
+   \%bypass_virus_checks, \@bypass_virus_checks_acl, \$bypass_virus_checks_re);
+
+
+#
+# Default SPAM checking mode
+# Uncomment the two lines below to enable it
+#
+
+@bypass_spam_checks_maps = (
+   \%bypass_spam_checks, \@bypass_spam_checks_acl, \$bypass_spam_checks_re);
+
+1;  # insure a defined return
+</pre></div>
+<p class="para">
+	     Bouncing spam can be a bad idea as the return address is often faked. The default behaviour is to instead discard.  This
+	     is configured in <span class="file filename">/etc/amavis/conf.d/21-debian_defaults</span> where <span class="em emphasis">$final_spam_destiny</span>
+	     is set to D_DISCARD rather than D_BOUNCE.
+	     </p>
+<p class="para">Ezen kívül szüksége lehet az alábbi beállítások módosítására több üzenet megjelöléséhez levélszemétként:</p>
+<div class="code"><pre class="contents ">$sa_tag_level_deflt = -999; # add spam info headers if at, or above that level
+$sa_tag2_level_deflt = 6.0; # add 'spam detected' headers at that level
+$sa_kill_level_deflt = 21.0; # triggers spam evasive actions
+$sa_dsn_cutoff_level = 4; # spam level beyond which a DSN is not sent
+</pre></div>
+<p class="para">Ha a kiszolgáló <span class="em emphasis">gépneve</span> eltér a tartomány MX rekordjától, akkor szükség lehet a <span class="em emphasis">$myhostname</span> beállítás módosítására. Ha a kiszolgáló több tartomány leveleit is fogadja, akkor a <span class="em emphasis">@local_domains_acl</span> beállítást kell módosítani. Szerkessze az <span class="file filename">/etc/amavis/conf.d/50-user</span> fájlt:</p>
+<div class="code"><pre class="contents ">$myhostname = 'mail.példa.hu';
+@local_domains_acl = ( "példa.hu", "példa.org" );
+</pre></div>
+<p class="para">If you want to cover multiple domains you can use the following in the<span class="file filename">/etc/amavis/conf.d/50-user</span>
+             </p>
+<div class="code"><pre class="contents ">@local_domains_acl = qw(.);
+</pre></div>
+<p class="para">A beállítások módosítása után az <span class="app application">Amavisd-new</span> démont újra kell indítani:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo service amavis restart</span>
+</pre></div>
+</div>
+<div class="sect4 sect" id="amavis-dkim-whitelist"><div class="inner">
+<div class="hgroup"><h4 class="title">DKIM fehérlista</h4></div>
+<div class="region"><div class="contents">
+<p class="para">Az <span class="app application">Amavisd-new</span> beállítható azon címek automatikus <span class="em emphasis">fehérlistázására</span>, amelyek érvényes tartománykulcsú tartományokból jönnek. Ezek az előre beállított tartományok az <span class="file filename">/etc/amavis/conf.d/40-policy_banks</span> fájlban találhatók.</p>
+<p class="para">Egy tartomány fehérlistája több módon is beállítható:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+                   <p class="para"><span class="em emphasis">'példa.hu' =&gt; 'WHITELIST',</span>: minden címet fehérlistára tesz a „példa.hu” tartományból.</p>
+                 </li>
+<li class="list itemizedlist">
+                   <p class="para"><span class="em emphasis">'.példa.hu' =&gt; 'WHITELIST',</span>: minden címet fehérlistára tesz a „példa.hu” <span class="em emphasis">altartományaiból</span>, amelyek aláírása érvényes.</p>
+                 </li>
+<li class="list itemizedlist">
+                   <p class="para"><span class="em emphasis">'.példa.hu/@példa.hu' =&gt; 'WHITELIST',</span>: fehérlistára teszi a „példa.hu” altartományait, amelyek a <span class="em emphasis">példa.hu</span> szülőtartomány aláírását használják.</p>
+                 </li>
+<li class="list itemizedlist">
+                   <p class="para"><span class="em emphasis">'./@példa.hu' =&gt; 'WHITELIST',</span>: a „példa.hu” tartományból érvényes aláírással rendelkező címeket fehérlistázza. Ezt általában az üzeneteiket aláíró tagokkal rendelkező listákhoz használják.</p>
+                 </li>
+</ul></div>
+<p class="para">Egy tartománynak több fehérlista-beállítása is lehet. A fájl szerkesztése után indítsa újra az <span class="app application">amaisd-new</span> démont:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo service amavis restart</span>
+</pre></div>
+<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents">
+                 <p class="para">Ebben a kontextusban a fehérlistához adott tartományok üzenetein nem lesz vírus- vagy levélszemétszűrés végrehajtva. Ez lehet egyes tartományok esetén a kívánatos vagy a nem kívánatos viselkedés.</p>
+               </div></div></div></div>
+</div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect3 sect" id="postfix-mail-filtering-configuration"><div class="inner">
+<div class="hgroup"><h3 class="title">Postfix</h3></div>
+<div class="region"><div class="contents">
+<p class="para">A <span class="app application">Postfix</span> integrációhoz adja ki a következő parancsot:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo postconf -e 'content_filter = smtp-amavis:[127.0.0.1]:10024'</span>
+</pre></div>
+<p class="para">Ezután szerkessze az <span class="file filename">/etc/postfix/master.cf</span> fájlt, és adja a következőket a fájl végéhez:</p>
+<div class="code"><pre class="contents ">smtp-amavis     unix    -       -       -       -       2       smtp
+        -o smtp_data_done_timeout=1200
+        -o smtp_send_xforward_command=yes
+        -o disable_dns_lookups=yes
+        -o max_use=20
+
+127.0.0.1:10025 inet    n       -       -       -       -       smtpd
+        -o content_filter=
+        -o local_recipient_maps=
+        -o relay_recipient_maps=
+        -o smtpd_restriction_classes=
+        -o smtpd_delay_reject=no
+        -o smtpd_client_restrictions=permit_mynetworks,reject
+        -o smtpd_helo_restrictions=
+        -o smtpd_sender_restrictions=
+        -o smtpd_recipient_restrictions=permit_mynetworks,reject
+        -o smtpd_data_restrictions=reject_unauth_pipelining
+        -o smtpd_end_of_data_restrictions=
+        -o mynetworks=127.0.0.0/8
+        -o smtpd_error_sleep_time=0
+        -o smtpd_soft_error_limit=1001
+        -o smtpd_hard_error_limit=1000
+        -o smtpd_client_connection_count_limit=0
+        -o smtpd_client_connection_rate_limit=0
+        -o receive_override_options=no_header_body_checks,no_unknown_recipient_checks,no_milters
+</pre></div>
+<p class="para">A következő két sort is vegye fel közvetlenül a <span class="em emphasis">"pickup"</span> átviteli szolgáltatás alá:</p>
+<div class="code"><pre class="contents ">         -o content_filter=
+         -o receive_override_options=no_header_body_checks
+</pre></div>
+<p class="para">Ez megakadályozza a levélszemétről küldött értesítő üzenetek levélszemétté nyilvánítását.</p>
+<p class="para">Most indítsa újra a <span class="app application">Postfix</span> démont:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo service postfix restart</span>
+</pre></div>
+<p class="para">A levélszemét- és vírusfelismeréses tartalomszűrés ezzel engedélyezve lett.</p>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="amavisd-new-spamassassin-integration"><div class="inner">
+<div class="hgroup"><h3 class="title">Amavisd-new és Spamassassin</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Az <span class="app application">Amavisd-new</span> és a <span class="app application">Spamassassin</span> integrálásakor, amennyiben a Bayes szűrés kikapcsolását választja az <span class="file filename">/etc/spamassassin/local.cf</span> szerkesztésével és a <span class="app application">cron</span> használatával az éjjeli szabályok frissítésére, akkor az eredmény nagy mennyiségű hibaüzenet küldését okozhatja az <span class="em emphasis">amavis</span> felhasználónak az amavisd-new <span class="app application">cron</span> feladaton keresztül.</p>
+<p class="para">Ez a helyzet számos módon kezelhető:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+             <p class="para">Állítsa be az MDA-ját az elrejteni kívánt üzenetek szűrésére.</p>
+           </li>
+<li class="list itemizedlist">
+             <p class="para">Módosítsa a <span class="file filename">/usr/sbin/amavisd-new-cronjob</span> fájlt a <span class="em emphasis">use_bayes 0</span> keresésére. Szerkessze például a <span class="file filename">/usr/sbin/amavisd-new-cronjob</span> fájlt, és vegye fel a következőt a tetejére, a <span class="em emphasis">test</span> utasítások elé:</p>
+<div class="code"><pre class="contents ">egrep -q "^[ \t]*use_bayes[ \t]*0" /etc/spamassassin/local.cf &amp;&amp; exit 0
+</pre></div>
+           </li>
+</ul></div>
+</div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect2 sect" id="mail-filter-testing"><div class="inner">
+<div class="hgroup"><h2 class="title">Tesztelés</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Első lépésként ellenőrizze, hogy az <span class="app application">Amavisd-new</span> SMTP figyel-e:</p>
+<div class="code"><pre class="contents ">telnet localhost 10024
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+220 [127.0.0.1] ESMTP amavisd-new service ready
+^]
+</pre></div>
+<p class="para">A tartalomszűrőn átmenő üzenetek fejlécében a következőt kell látnia:</p>
+<div class="code"><pre class="contents ">X-Spam-Level: 
+X-Virus-Scanned: Debian amavisd-new at példa.hu
+X-Spam-Status: No, hits=-2.3 tagged_above=-1000.0 required=5.0 tests=AWL, BAYES_00
+X-Spam-Level: 
+</pre></div>
+<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents">
+	   <p class="para">A kimenet változhat, de a fontos részt az <span class="em emphasis">X-Virus-Scanned</span> és <span class="em emphasis">X-Spam-Status</span> sorok képezik.</p>
+	   </div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="mail-filter-troubleshooting"><div class="inner">
+<div class="hgroup"><h2 class="title">Hibaelhárítás</h2></div>
+<div class="region"><div class="contents">
+<p class="para">A hibák okainak meghatározásához a legjobb módszer a naplók ellenőrzése.</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+	       <p class="para">A <span class="app application">Postfix</span> naplózásával kapcsolatos információkért lásd a <a class="xref" href="postfix.html#postfix-troubleshooting" title="Hibaelhárítás">Hibaelhárítás</a> szakaszt.</p>
+	     </li>
+<li class="list itemizedlist">
+	       <p class="para">Az <span class="app application">Amavisd-new</span> a <span class="app application">Syslogot</span> használja az üzenetek <span class="file filename">/var/log/mail.log</span> fájlba küldésére. A részletesség szintje növelhető a <span class="em emphasis">$log_level</span> beállítás <span class="file filename">/etc/amavis/conf.d/50-user</span> fájlhoz adásával, és az érték 1 és 5 közé állításával.</p>      
+<div class="code"><pre class="contents ">$log_level = 2;
+</pre></div>
+	     <div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents">
+ 	       <p class="para">A <span class="app application">Spamassassin</span> naplókimenetének részletessége az <span class="app application">Amavisd-new</span> naplókimenetének részletességével együtt nő.</p>
+	     </div></div></div></div>
+	     </li>
+<li class="list itemizedlist">
+	       <p class="para">A <span class="app application">ClamAV</span> naplókimenetének részletessége az <span class="file filename">/etc/clamav/clamd.conf</span> szerkesztésével, és a következő beállítás megadásával növelhető:</p>
+<div class="code"><pre class="contents ">LogVerbose true
+</pre></div>
+	       <p class="para">Alapértelmezésben a <span class="app application">ClamAV</span> a <span class="file filename">/var/log/clamav/clamav.log</span> fájlba küldi a naplóüzeneteit.</p>
+	      </li>
+</ul></div>
+<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents">
+	   <p class="para">Az alkalmazások naplózási beállításainak módosítása után ne felejtse el újraindítani a szolgáltatást az új beállítások életbe léptetéséhez. Ha a hiba elhárítása sikerült, állítsa vissza a naplózási szintet az eredetire.</p>
+	   </div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="mail-filter-references"><div class="inner">
+<div class="hgroup"><h2 class="title">Hivatkozások</h2></div>
+<div class="region"><div class="contents">
+<p class="para">A levélszűréssel kapcsolatos további információért lásd:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+	       <p class="para">
+               <a href="http://www.ijs.si/software/amavisd/amavisd-new-docs.html" class="ulink" title="http://www.ijs.si/software/amavisd/amavisd-new-docs.html">Amavisd-new dokumentáció</a>
+	       </p>
+	     </li>
+<li class="list itemizedlist">
+	       <p class="para"><a href="http://www.clamav.net/doc/latest/html/" class="ulink" title="http://www.clamav.net/doc/latest/html/">ClamAV dokumentáció</a> és <a href="http://wiki.clamav.net/Main/WebHome" class="ulink" title="http://wiki.clamav.net/Main/WebHome">ClamAV wiki</a></p>
+	     </li>
+<li class="list itemizedlist">
+	       <p class="para">
+               <a href="http://wiki.apache.org/spamassassin/" class="ulink" title="http://wiki.apache.org/spamassassin/">Spamassassin wiki</a>
+	       </p>
+	     </li>
+<li class="list itemizedlist">
+	       <p class="para">
+               <a href="http://sourceforge.net/apps/trac/pyzor/" class="ulink" title="http://sourceforge.net/apps/trac/pyzor/">A Pyzor honlapja</a>
+	       </p>
+	       </li>
+<li class="list itemizedlist">
+	       <p class="para">
+               <a href="http://razor.sourceforge.net/" class="ulink" title="http://razor.sourceforge.net/">A Razor honlapja</a>
+  	       </p>
+	     </li>
+<li class="list itemizedlist">
+	       <p class="para">
+               <a href="http://dkim.org/" class="ulink" title="http://dkim.org/">DKIM.org</a>
+  	       </p>
+	     </li>
+<li class="list itemizedlist">
+	       <p class="para">
+               <a href="https://help.ubuntu.com/community/PostfixAmavisNew" class="ulink" title="https://help.ubuntu.com/community/PostfixAmavisNew">Postfix Amavis New</a>
+  	       </p>
+	     </li>
+</ul></div>
+<p class="para">A <a href="http://freenode.net" class="ulink" title="http://freenode.net">freenode</a> <span class="em emphasis">#ubuntu-server</span> IRC-csatornáján is nyugodtan felteheti kérdéseit.</p>
+</div></div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="mailman.html" title="Mailman">Előző</a><a class="nextlinks-next" href="chat-servers.html" title="Csevegőalkalmazások">Következő</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p></div>
+</div>
+</body>
+</html>

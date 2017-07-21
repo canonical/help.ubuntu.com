@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=de>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Schließen Sie einen weiteren Bildschirm an.</title>
+<link rel="stylesheet" type="text/css" href="de.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu-Leitfaden</a> » <a class="trail" href="prefs.html" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="prefs-display.html" title="Anzeige und Bildschirm">Anzeige und Bildschirm</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Schließen Sie einen weiteren Bildschirm an.</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Schließen sie einen weiteren Bildschirm an Ihren Arbeitsplatz-Rechner an, um mit zwei Bildschirmen zu arbeiten. Wenn das Betriebssystem den neuen Bildschirm nicht sofort erkennt oder Sie die Einstellungen anpassen möchten:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Klicken Sie auf Ihren Namen in der oberen Menüleiste und wählen Sie <span class="gui">Systemeinstellungen …</span>.</p></li>
+<li class="steps"><p class="p">Öffnen Sie <span class="gui">Anzeigegeräte</span>.</p></li>
+<li class="steps"><p class="p">Klicken Sie auf das Bild des Bildschirms, den Sie ein- oder ausschalten möchten und schalten Sie ihn <span class="gui">EIN/AUS</span>.</p></li>
+<li class="steps"><p class="p">Der Monitor mit der <span class="link"><a href="unity-menubar-intro.html" title="Anwendungen &amp; Einstellungen über die Menüleiste verwalten">Menüleiste</a></span> ist der Hauptmonitor. Klicken und ziehen Sie die Menüleiste auf einen anderen Monitor, um diesen als Hauptmonitor zu setzen.</p></li>
+<li class="steps">
+<p class="p">Um die »Position« eines Bildschirms zu ändern, klicken Sie darauf und ziehen Sie ihn an die gewünschte Position.</p>
+<div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents"><p class="p">Falls Sie möchten, dass beide Bildschirme den gleichen Inhalt anzeigen, setzen Sie einen Haken in den Kasten <span class="gui">Bildschirme spiegeln</span>.</p></div></div></div></div>
+</li>
+<li class="steps"><p class="p">Wenn Sie mit Ihren Einstellungen zufrieden sind, klicken Sie auf <span class="gui">Anwenden</span> und klicken Sie dann auf <span class="gui">Diese Einstellungen beibehalten</span>.</p></li>
+<li class="steps"><p class="p">Um die Einstellungen für <span class="gui">Anzeigegeräte</span> zu schließen, klicken Sie auf das <span class="gui">x</span> in der oberen Ecke.</p></li>
+</ol></div></div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="prefs-display.html" title="Anzeige und Bildschirm">Anzeige und Bildschirm</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Anpassen des Arbeitsflächenhintergrunds">Hintergrund</a></span>, <span class="link"><a href="look-resolution.html" title="Ändern der Größe und der Ausrichtung des Bildschirms">Größe und Ausrichtung</a></span>, <span class="link"><a href="display-dimscreen.html" title="Bildschirmhelligkeit einstellen">Helligkeit</a></span> …</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

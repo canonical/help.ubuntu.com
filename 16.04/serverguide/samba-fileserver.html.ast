@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang=ast>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>File Server</title>
+<link rel="stylesheet" type="text/css" href="ast.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../16.04" class="trail">Ubuntu 16.04</a> » <a class="trail" href="index.html" title="Guía del Sirvidor Ubuntu">Guía del Sirvidor Ubuntu</a> » <a class="trail" href="samba.html" title="Samba">Samba</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="samba-introduction.html" title="Introducción">Anterior</a><a class="nextlinks-next" href="samba-printserver.html" title="Print Server">Siguiente</a>
+</div>
+<div class="hgroup"><h1 class="title">File Server</h1></div>
+<div class="region">
+<div class="contents">
+<p class="para">Una de les víes más comunes de coneutar en rede equipos Ubuntu y Windows ye configurar Samba como sirvidor d'archivos. Esta seición cubre la configuración del sirvidor <span class="app application">Samba</span> pa compartir archivos con clientes Windows.</p>
+<p class="para">
+    The server will be configured to share files with any client on the network without prompting for a password.  If
+    your environment requires stricter Access Controls see <a class="xref" href="samba-fileprint-security.html" title="Securing File and Print Server">Securing File and Print Server</a>.
+    </p>
+</div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="samba-fileserver.html#samba-fileserver-installation" title="Instalación">Instalación</a></li>
+<li class="links"><a class="xref" href="samba-fileserver.html#samba-fileserver-configuration" title="Configuración">Configuración</a></li>
+<li class="links"><a class="xref" href="samba-fileserver.html#samba-fileserver-resources" title="Recursos">Recursos</a></li>
+</ul></div>
+<div class="sect2 sect" id="samba-fileserver-installation"><div class="inner">
+<div class="hgroup"><h2 class="title">Instalación</h2></div>
+<div class="region"><div class="contents">
+<p class="para">El primer pasu ye instalar el paquete <span class="app application">samba</span>. Dende un terminal, pon:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install samba</span>
+</pre></div>
+<p class="para">Esto ye too; agora ta preparáu pa configurar Samba y compartir archivos.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="samba-fileserver-configuration"><div class="inner">
+<div class="hgroup"><h2 class="title">Configuración</h2></div>
+<div class="region"><div class="contents">
+<p class="para">
+      The main Samba configuration file is located in <span class="file filename">/etc/samba/smb.conf</span>.  The default configuration file
+      has a significant number of comments in order to document various configuration directives.  
+      </p>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents">
+        <p class="para">Nel archivu de configuración predetermináu nun s'incluyen toles opciones disponibles. Consulte la páxina de <span class="app application">man</span> de <span class="file filename">smb.conf</span> o la <a href="http://samba.org/samba/docs/man/Samba-HOWTO-Collection/" class="ulink" title="http://samba.org/samba/docs/man/Samba-HOWTO-Collection/">coleición de HOWTOs de Samba</a> pa más información.</p>
+      </div></div></div></div>
+<div class="steps"><div class="inner"><ol class="steps">
+<li class="steps">
+
+        <p class="para">En primer llugar, edite les vinientes pareyes clave/valor na seición <span class="em emphasis">[global]</span> de <span class="file filename">/etc/samba/smb.conf</span>:</p>
+
+<div class="code"><pre class="contents ">   workgroup = EXEMPLU
+   ...
+   seguridá = usuariu
+</pre></div>
+
+        <p class="para">El parámetru <span class="em emphasis">security</span> alcuentrase más abaxo na seición [global], y por omisión ta comentáu. Amás, camude <span class="em emphasis">EXEMPLU</span> por dalgo que s'axuste meyor al so entornu.</p>
+
+        </li>
+<li class="steps">
+  
+        <p class="para">Cree una seición nueva al final del archivu (o esborri ún de los exemplos) pa poder compartir el direutoriu:</p>
+
+<div class="code"><pre class="contents ">[share]
+    comment = Carpeta compartida del sirvidor d'archivos Ubuntu
+    path = /srv/samba/share
+    browsable = sí
+    guest ok = sí
+    read only = non
+    create mask = 0755
+</pre></div>
+
+      <div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">comment:</span> una descripción pequeña del recursu compartíu. Adáutelu a les sos necesidaes.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">path:</span> el camín al direutoriu que se va a compartir.</p>
+          <p class="para">Esti exemplu usa <span class="file filename">/srv/samba/sharename</span> porque, acordies col estándar de xerarquía del sistema d'archivos <span class="em emphasis">Filesystem Hierarchy Standard (FHS)</span>, <a href="http://www.pathname.com/fhs/pub/fhs-2.3.html#SRVDATAFORSERVICESPROVIDEDBYSYSTEM" class="ulink" title="http://www.pathname.com/fhs/pub/fhs-2.3.html#SRVDATAFORSERVICESPROVIDEDBYSYSTEM">/srv</a> ye u han dir los datos sirvíos pol equipu en sí. Téunicamente, les carpetes compartíes de Samba puen colocase en cualquier parte del sistema d'archivos siempre y cuando los permisos seyan correutos, pero ye encamentable axustase a los estándares.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">browsable:</span> permite a los clientes Windows restolar pel direutoriu compartíu emplegando l'<span class="app application">Explorador de Windows</span>.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">guest ok:</span> permite que los clientes se puean coneutar al recursu ensin necesidá d'introducir conseña nenguna.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">
+          <span class="em emphasis">read only:</span> determines if the share is read only or if write privileges are granted.  Write privileges are allowed only when the value is <span class="em emphasis">no</span>, as is seen in this example.  If the value is <span class="em emphasis">yes</span>, then access to the share is read only.
+          </p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">create mask:</span> determina los permisos que tendrán los archivos nuevos cuando se creen.</p>
+        </li>
+</ul></div>
+
+      </li>
+<li class="steps">
+        
+        <p class="para">Agora que <span class="app application">Samba</span> yá ta configuráu, necesítase crear el direutoriu y camudar los sos permisos. Dende un terminal, teclee:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo mkdir -p /srv/samba/share</span>
+<span class="cmd command">sudo chown nobody:nogroup /srv/samba/share/</span>
+</pre></div>
+
+      <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents">
+        <p class="para">
+        The <span class="em emphasis">-p</span> switch tells mkdir to create the entire directory tree if it doesn't exist.
+        </p>
+      </div></div></div></div>
+
+      </li>
+<li class="steps">
+     
+      <p class="para">A lo último, reanicie los servicios <span class="app application">samba</span> p'afitar la configuración nueva:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo systemctl restart smbd.service nmbd.service</span>
+</pre></div>
+
+      </li>
+</ol></div></div>
+<div class="note note-warning" title="Curiáu"><div class="inner"><div class="region"><div class="contents">
+        <p class="para">Una vegada más, la configuración anterior proporciona accesu total a tolos clientes de la rede llocal. Pa una configuración más segura, consulte <a class="xref" href="samba-fileprint-security.html" title="Securing File and Print Server">Securing File and Print Server</a>.</p>
+      </div></div></div></div>
+<p class="para">
+      From a Windows client you should now be able to browse to the Ubuntu file server and see the shared directory. If your client doesn't show your share automatically, try to access your server by its IP address, e.g. \\192.168.1.1, in a Windows Explorer window. To check that everything is working try creating a directory from Windows. 
+      </p>
+<p class="para">Pa crear más carpetes compartíes, simplemente cree seiciones nueves <span class="em emphasis">[dir]</span> en <span class="file filename">/etc/samba/smb.conf</span>, y reanicie <span class="em emphasis">Samba</span>. Namái asegúrese que'l direutoriu que quier compartir esiste daveres, y que los sos permisos son correutos.</p>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents">
+        <p class="para">
+        The file share named <span class="em emphasis">"[share]"</span> and the path <span class="file filename">/srv/samba/share</span> are just examples.
+        Adjust the share and path names to fit your environment.  It is a good idea to name a share after a directory on the 
+        file system.  Another example would be a share name of <span class="em emphasis">[qa]</span> with a path of <span class="file filename">/srv/samba/qa</span>.
+        </p>
+      </div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="samba-fileserver-resources"><div class="inner">
+<div class="hgroup"><h2 class="title">Recursos</h2></div>
+<div class="region"><div class="contents"><div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+          <p class="para">Pa una configuración más detallada de Samba, consulte la <a href="http://samba.org/samba/docs/man/Samba-HOWTO-Collection/" class="ulink" title="http://samba.org/samba/docs/man/Samba-HOWTO-Collection/">coleición de HOWTOs de Samba</a>.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">La guía tamién ta disponible en <a href="http://www.amazon.com/exec/obidos/tg/detail/-/0131882228" class="ulink" title="http://www.amazon.com/exec/obidos/tg/detail/-/0131882228">formatu imprentáu</a>.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">El llibru d'O'Reilly <a href="http://www.oreilly.com/catalog/9780596007690/" class="ulink" title="http://www.oreilly.com/catalog/9780596007690/">Using Samba</a> ye otra fonte bona de referencia.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">
+          The <a href="https://help.ubuntu.com/community/Samba" class="ulink" title="https://help.ubuntu.com/community/Samba">Ubuntu Wiki Samba </a> page.
+          </p>
+        </li>
+</ul></div></div></div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="samba-introduction.html" title="Introducción">Anterior</a><a class="nextlinks-next" href="samba-printserver.html" title="Print Server">Siguiente</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p></div>
+</div>
+</body>
+</html>

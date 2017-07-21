@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang=it>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Clic col pulsante centrale</title>
+<link rel="stylesheet" type="text/css" href="it.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e driver">Hardware</a> » <a class="trail" href="mouse.html" title="Mouse">Mouse</a> › <a class="trail" href="mouse.html#tips" title="Suggerimenti">Suggerimenti</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Impostazioni utente e di sistema">Impostazioni</a> » <a class="trail" href="mouse.html" title="Mouse">Mouse</a> › <a class="trail" href="mouse.html#tips" title="Suggerimenti">Suggerimenti</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="Trucchi e suggerimenti">Trucchi e suggerimenti</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Clic col pulsante centrale</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Many mice and some touchpads have a middle mouse button. On a mouse
+with a scroll wheel, you can usually press directly down on the scroll
+wheel to middle-click. If you don't have a middle mouse button, you
+can press the left and right mouse buttons at the same time to
+middle-click.</p>
+<p class="p">Sui touchpad che supportano il tocco con più dita, è possibile battere con tre dita contemporaneamente per ottenere un clic centrale. È necessario <span class="link"><a href="mouse-touchpad-click.html" title="Click, drag, or scroll with the touchpad">abilitare i clic del mouse con il touchpad</a></span> nelle impostazioni del touchpad per ottenere questo risultato.</p>
+<p class="p">Molte applicazioni usano il clic col pulsante centrale per accedere a scorciatoie avanzate mediante i clic.</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p">In the <span class="gui">Activities</span> overview, you can quickly open a new
+  window for an application in its own new workspace with middle-click. Simply
+  middle-click on the application's icon, either in the dash on the left, or in
+  the applications overview. The applications overview is displayed using the
+  grid button in the dash.</p></li>
+<li class="list"><p class="p">Molti browser consentono di aprire velocemente collegamenti in schede con il pulsante centrale del mouse: è sufficiente fare clic col pulsante centrale del mouse su qualunque collegamento per aprirlo in una nuova scheda. Occorre fare però attenzione nel fare clic su un collegamentp nel browser <span class="app">Firefox</span>: eseguendo un clic centrale ovunque tranne che su un collegamento, il programma cercherà di caricare il testo selezionato come indirizzo di una pagina web, come dopo aver usato il pulsante centrale del mouse per incollare il testo nella barra degli indirizzi e aver premuto <span class="key"><kbd>Invio</kbd></span>.</p></li>
+<li class="list"><p class="p">Nel gestore di file, il clic col pulsante centrale del mouse ha due scopi. Se si fa clic col pulsante centrale su una cartella, questa verrà aperta in una nuova scheda, imitando il comportamento dei browser più popolari. Se si fa clic col pulsante centrale su un file, questo verrà aperto, come se si fosse utilizzato un doppio-clic.</p></li>
+</ul></div></div></div>
+<p class="p">Alcune applicazioi specializzate consentono l'uso del clic col pulsante centrale del mouse per altre funzioni. Cercare nella documentazione dell'applicazione <span class="em">clic centrale</span> o <span class="em">pulsante centrale del mouse</span>.</p>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
+<div class="region"><ul>
+<li class="links "><a href="mouse.html#tips" title="Suggerimenti">Suggerimenti sul mouse</a></li>
+<li class="links ">
+<a href="tips.html" title="Trucchi e suggerimenti">Trucchi e suggerimenti</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Inserire caratteri speciali">Special characters</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Clic col pulsante centrale">middle click shortcuts</a></span>…</span>
+</li>
+</ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

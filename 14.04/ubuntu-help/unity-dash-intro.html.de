@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang=de>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Finden Sie Anwendungen, Dateien, Musik, und mehr mit dem Dash</title>
+<link rel="stylesheet" type="text/css" href="de.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu-Leitfaden</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Finden Sie Anwendungen, Dateien, Musik, und mehr mit dem Dash</span></h1></div>
+<div class="region">
+<div class="contents">
+<div class="media media-image floatend"><div class="inner"><img src="figures/unity-dash-sample.png" class="media media-block" alt="Unity-Suche"></div></div>
+<p class="p">Das <span class="gui">Dash</span> ermöglicht es Ihnen, nach Anwendungen, Dateien, Musik und Videos zu suchen und zeigt Ihnen Ihre zuletzt verwendeten Objekte. Falls Sie jemals an einem Tabellendokument gearbeitet oder ein Bild bearbeitet haben und nicht mehr wissen, wo Sie dieses gespeichert haben, gefällt Ihnen diese Funktion des Dash bestimmt sehr gut.</p>
+<p class="p">Um mit der Verwendung des <span class="gui">Dash</span> zu beginnen, klicken Sie auf das oberste Symbol im <span class="link"><a href="unity-launcher-intro.html" title="Nutzen Sie den Starter, um Anwendungen zu starten">Starter</a></span>. Das Symbol trägt ein Ubuntu-Logo. Für schnelleren Zugriff können Sie die <span class="key"><a href="windows-key.html" title="Was ist die »Super«-Taste?"><kbd>Super</kbd></a></span>-Taste drücken.</p>
+<p class="p">Um das <span class="gui">Dash</span> auszublenden, klicken Sie wieder auf das oberste Symbol oder drücken Sie <span class="key"><kbd>Super</kbd></span> oder <span class="key"><kbd>Esc</kbd></span>.</p>
+</div>
+<div id="dash-home" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Finden Sie alles von der Dash-Startseite aus</span></h2></div>
+<div class="region">
+<div class="contents">
+<p class="p">Das Erste, was Sie sehen, wenn Sie das Dash öffnen, ist die Dash-Startseite. Ohne dass Sie etwas eingeben oder anklicken, zeigt Ihnen die Dash-Startseite zuletzt verwendete Anwendungen und Dateien an.</p>
+<p class="p">Für jeden Typ wird nur eine einzelne Zeile mit Suchergebnissen angezeigt. Falls es mehr Suchergebnisse gibt, können Sie auf <span class="gui">Weitere Ergebnisse anzeigen</span> klicken, um diese zu sehen.</p>
+<p class="p">Um die Suche zu beginnen, geben Sie einfach etwas ein und automatisch erscheinen entsprechende Suchergebnisse aus den verschiedenen installierten Filtern.</p>
+<p class="p">Klicken Sie auf ein Suchergebnis, um dieses zu öffnen oder drücken Sie <span class="key"><kbd>Eingabe</kbd></span>, um den ersten Eintrag in der Liste zu öffnen.</p>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">Siehe auch</span></h3></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="unity-shopping.html" title="Warum gibt es im Dash Verweise auf Online-Läden?">Warum gibt es im Dash Verweise auf Online-Läden?</a><span class="desc"> — Durch Online-Ergebnisse wird das Dash noch hilfreicher und die Entwicklung von Ubuntu wird finanziell gestärkt.</span>
+</li>
+<li class="links ">
+<a href="shell-apps-favorites.html" title="Ändern Sie, welche Anwendungen im Starter angezeigt werden">Ändern Sie, welche Anwendungen im Starter angezeigt werden</a><span class="desc"> — Fügen Sie hinzu, bewegen oder entfernen Sie meistgenutzte Programm-Symbole im Starter.</span>
+</li>
+</ul></div>
+</div></div></div>
+</div>
+</div>
+</div></div>
+<div id="dash-lenses" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Filter</span></h2></div>
+<div class="region">
+<div class="contents">
+<p class="p">Mit Filtern können Sie die Dash-Ergebnisse fokussieren und Suchergebnisse anderer Filter ausblenden.</p>
+<p class="p">Verfügbare Filter werden in der <span class="gui">Filterleiste</span> angezeigt, dem dunklen Streifen am unteren Rand des Dash.</p>
+<p class="p">Um zu einem anderen Filter zu wechseln, klicken Sie auf das entsprechende Symbol oder drücken Sie <span class="keyseq"><span class="key"><kbd>Strg</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</p>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">Siehe auch</span></h3></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="unity-dash-apps.html" title="Anwendungsfilter">Anwendungsfilter</a><span class="desc"> — Anwendungen ausführen, installieren oder entfernen.</span>
+</li>
+<li class="links ">
+<a href="unity-dash-files.html" title="Dateifilter">Dateifilter</a><span class="desc"> — Dateien, Ordner und heruntergeladene Dateien finden.</span>
+</li>
+<li class="links ">
+<a href="unity-dash-photos.html" title="Foto-Filter">Foto-Filter</a><span class="desc"> — Fotos von Ihrem Rechner oder aus Ihren Konten bei sozialen Online-Medien anzeigen.</span>
+</li>
+<li class="links ">
+<a href="unity-dash-friends.html" title="Freunde-Bereich">Freunde-Bereich</a><span class="desc"> — Nachrichten Ihrer Konten bei sozialen Online-Medien durchsuchen.</span>
+</li>
+<li class="links ">
+<a href="unity-dash-music.html" title="Musik-Filter">Musik-Filter</a><span class="desc"> — Musik von Ihrem Rechner oder aus dem Internet finden und wiedergeben.</span>
+</li>
+<li class="links ">
+<a href="unity-dash-video.html" title="Video-Filter">Video-Filter</a><span class="desc"> — Videos von Ihrem Rechner oder aus dem Internet finden und wiedergeben.</span>
+</li>
+</ul></div>
+</div></div></div>
+</div>
+</div>
+</div></div>
+<div id="dash-filters" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Filter</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Mithilfe von <span class="gui">Suchergebnisse filtern</span> können Sie Ihre Suchergebnisse weiter eingrenzen.</p>
+<p class="p">Klicken Sie auf <span class="gui">Suchergebnisse filtern</span>, um Unterfilter auszuwählen. Ggf. müssen Sie auf eine Überschrift, wie z.B. <span class="gui">Quellen</span> klicken, um die verfügbaren Auswahlmöglichkeiten zu sehen.</p>
+</div></div>
+</div></div>
+<div id="dash-previews" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Vorschauen</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Wenn Sie mit der rechten Maustaste auf ein Suchergebnis klicken, öffnet sich eine <span class="gui">Vorschau</span> mit weiteren Informationen zum Suchergebnis.</p>
+<p class="p">Um die Vorschau zu schließen, klicken Sie in den freien Bereich oder drücken Sie <span class="key"><kbd>Esc</kbd></span>.</p>
+</div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
+<div class="region"><ul>
+<li class="links "><a href="shell-overview.html#desktop" title="Die Arbeitsfläche">Die Arbeitsfläche</a></li>
+<li class="links "><a href="index.html" title="Ubuntu-Leitfaden">Ubuntu-Leitfaden</a></li>
+</ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

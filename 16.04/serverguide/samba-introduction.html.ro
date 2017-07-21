@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang=ro>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Introducere</title>
+<link rel="stylesheet" type="text/css" href="ro.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../16.04" class="trail">Ubuntu 16.04</a> » <a class="trail" href="index.html" title="Ghid  Server Ubuntu">Ghid  Server Ubuntu</a> » <a class="trail" href="samba.html" title="Samba">Samba</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="samba.html" title="Samba">Precedenta</a><a class="nextlinks-next" href="samba-fileserver.html" title="File Server">Următoarea</a>
+</div>
+<div class="hgroup"><h1 class="title">Introducere</h1></div>
+<div class="region"><div class="contents">
+<p class="para">Legarea în rețea a sistemului dumneavoastră Ubuntu cu clienți Windows presupune furnizarea și integrarea serviciilor comune cu mediul de lucru Windows. Aceste servicii asistă partajarea datelor și informațiilor despre calculatoare și utilizatorii implicați în rețea și poate fi clasificată în trei mari categorii de funcționalitate.</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+        <p class="para"><span class="em em-bold emphasis">Partajarea fişierelor şi serviciilor de imprimare </span>. Folosirea protocolului „Server Message Block” (SMB) pentru facilitarea folosirii în comun a fişierelor, directoarelor, volumelor şi a imprimantelor în reţea.</p>
+      </li>
+<li class="list itemizedlist">
+        <p class="para"><span class="em em-bold emphasis">Servicii de Directoare</span>. Partajarea de informații vitale despre calculatoarele și utilizatorii rețelei folosind tehnologii de tipul Lightweight Directory Access Protocol (LDAP) si Microsoft <span class="trademark">Active Directory®</span>.</p>
+      </li>
+<li class="list itemizedlist">
+        <p class="para"><span class="em em-bold emphasis">Autentificare și acces</span>. Stabilirea identității unui calculator sau utilizator și determinarea informațiilor pe care utilizatorul sau calculatorul este autorizat să acceseze folosind principii și tehnologii de genul drepturile fișierului, politici de grup și serviciul de autentificare Kerberos.</p>
+      </li>
+</ul></div>
+<p class="para">Din fericire, sistemul dumneavoastră Ubuntu poate oferi astfel de facilități pentru clienții Windows și poate partaja resurse de rețea între aceștia. Una dintre principalele componente software pe care sistemul Ubuntu o conține este suita Samba - aplcații și unelte pentru serverul SMB.</p>
+<p class="para">Această secțiune a Ghidului pentru Servere <span class="phrase">Ubuntu</span> va prezenta câteva din cazurile de utilizare ale Samba, cât și modul de instalare și configurare al pachetelor necesare. Documentație și informații mai detaliate despre Samba se pot găsi pe <a href="http://www.samba.org" class="ulink" title="http://www.samba.org">site-ul Samba</a>.</p>
+</div></div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="samba.html" title="Samba">Precedenta</a><a class="nextlinks-next" href="samba-fileserver.html" title="File Server">Următoarea</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p></div>
+</div>
+</body>
+</html>

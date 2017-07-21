@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang=pt-BR>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Por que minha rede sem fio fica desconectando?</title>
+<link rel="stylesheet" type="text/css" href="pt-BR.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia do Ubuntu Deskop</a> » <a class="trail" href="net.html" title="Redes, Internet, e-mail e bate-papo">Redes, Internet, e-mail e bate-papo</a> » <a class="trail" href="net-problem.html" title="Problemas na rede">Problemas na rede</a> » </div>
+<div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia do Ubuntu Deskop</a> » <a class="trail" href="net.html" title="Redes, Internet, e-mail e bate-papo">Redes, Internet, e-mail e bate-papo</a> » <a class="trail" href="net-wireless.html" title="Redes sem fio">Redes sem fio</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Por que minha rede sem fio fica desconectando?</span></h1></div>
+<div class="region">
+<div class="contents"><p class="p">É possível que você seja desconectado de uma rede sem fio mesmo contra a sua vontade. Seu computador normalmente tentará se reconectar à rede assim que isto acontecer (o ícone de rede na barra de menus vai piscar se ele estiver tentando se reconectar). Entretanto, isto pode ser um incômodo, especialmente se você estiver usando a Internet naquele momento.</p></div>
+<div id="signal" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Sinal sem fio fraco</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Um motivo para ser desconectado de uma rede sem fio é o sinal fraco. As redes sem fio têm um alcance limitado, por isto, se você estiver muito longe da base da rede sem fio, não poderá obter um sinal forte o suficiente para manter uma conexão. Paredes e outros objetos entre você e a base também poderão enfraquecer o sinal.</p>
+<p class="p">O ícone de rede na barra de menus mostra a força do seu sinal de rede sem fio. Se o sinal estiver fraco, tente ir para mais perto da estação base da rede sem fio.</p>
+</div></div>
+</div></div>
+<div id="network" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">A conexão de rede não está sendo estabelecida adequadamente</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Às vezes, quando você se conecta a uma rede sem fio, pode parecer que você se conectou com sucesso no início, mas então você é desconectado logo em seguida. Isto normalmente acontece porque seu computador teve êxito apenas parcial ao se conectar à rede. Ele conseguiu estabelecer conexão, mas foi incapaz de finalizar a conexão por algum motivo e então foi desconectado.</p>
+<p class="p">Um possível motivo para isso é que você digitou a senha da rede sem fio errada ou porque o computador não está autorizado na rede (porque a rede necessita de um nome de usuário para efetuar o login, por exemplo).</p>
+</div></div>
+</div></div>
+<div id="hardware" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Hardware e drivers de rede sem fio instáveis</span></h2></div>
+<div class="region"><div class="contents"><p class="p">Alguns dispositivos de rede sem fio podem ser não muito estáveis. Redes sem fio são complicadas, então placas de rede sem fio e estações base ocasionalmente encontram pequenos problemas e podem derrubar conexões. Isto é um incômodo, mas acontece com muita frequência com vários dispositivos. Se você for desconectado de conexões sem fio periodicamente, este pode ser o único motivo. Se isto acontece com muita frequência, talvez você possa considerar a aquisição de outros dispositivos.</p></div></div>
+</div></div>
+<div id="busy" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Redes sem fio ocupadas</span></h2></div>
+<div class="region"><div class="contents"><p class="p">Redes sem fio em lugares cheios (em universidades e cafés, por exemplo) muitas vezes têm muitos computadores tentando se conectar a elas ao mesmo tempo. Algumas vezes, estas redes ficam muito ocupadas e podem não ser capazes de lidar com todos os computadores que estão tentando se conectar, então alguns deles são desconectados.</p></div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Mais informações</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="net-problem.html" title="Problemas na rede">Problemas na rede</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Solução de problemas da rede sem fio">Resolvendo problemas de rede sem fio</a></span>, <span class="link"><a href="net-wireless-find.html" title="Eu não vejo a minha rede sem fio na lista">descobrindo sua rede wifi</a></span>…</span>
+</li>
+<li class="links ">
+<a href="net-wireless.html" title="Redes sem fio">Redes sem fio</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html" title="Conecte-se a uma rede sem fio">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html" title="Conecte-se a uma rede sem fio oculta">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-edit-connection.html" title="Edite uma conexão sem fio">Edit connection settings</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html" title="Por que minha rede sem fio fica desconectando?">Disconnecting</a></span>…
+    </span>
+</li>
+</ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Veja também</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless-connect.html" title="Conecte-se a uma rede sem fio">Conecte-se a uma rede sem fio</a><span class="desc"> — Entre na internet - sem fio.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

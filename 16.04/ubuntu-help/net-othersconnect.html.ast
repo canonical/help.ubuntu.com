@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=ast>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Otros usuarios nun puen coneutase a Internet</title>
+<link rel="stylesheet" type="text/css" href="ast.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Guía del escritoriu d'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía d'escritoriu d'Ubuntu</a> » <a class="trail" href="net.html" title="Redes, web, corréu y chat">Redes, web, corréu y chat</a> » <a class="trail" href="net-problem.html" title="Problemes de rede">Problemes de rede</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Otros usuarios nun puen coneutase a Internet</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Si afitó una conexón de rede, pero otros usuarios del equipu nun puen coneutase, dablemente nun tan entrando na configuración afayadiza cuando intentan coneutase. Por exemplu, si tien una conexón inalámbrica, pue que nun tean introduciendo la contraseña correuta de seguridá inalámbrica.</p>
+<p class="p">Pue facelo de mou que toos puedan compartir la configuración d'una conexón de rede una vegada que la creara. Esto significa que namái ye necesariu configurala una vegada, y tolos demás nel equipu van ser quien a coneutase a ella ensin necesidá de contestar denguna entruga. Pa ello:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Calque nel <span class="gui">menú de rede</span> na barra de menús y escueya <span class="gui">Editar les conexones</span>.</p></li>
+<li class="steps"><p class="p">Busque la conexón que quier qu'use tol mundu. Ye posible que tenga que dir a la llingüeta <span class="gui">Inalámbrica</span>. Escueya'l nome de la rede y calque <span class="gui">Editar</span>.</p></li>
+<li class="steps"><p class="p">Escueya <span class="gui">Disponible pa tolos usuarios</span> y calque <span class="gui">Guardar</span>. Va tener qu'introducir la so contraseña d'alministrador pa guardar los cambeos. Namái los usuarios alministradores puen facelo.</p></li>
+<li class="steps"><p class="p">Agora otros usuarios del equipu van poder usar esta conexón ensin introducir más detalles.</p></li>
+</ol></div></div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">More Information</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-problem.html" title="Problemes de rede">Problemes de rede</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Solucionador de problemes de rede inalámbrica">Solucionar problemes coles conexones inalámbriques</a></span>, <span class="link"><a href="net-wireless-find.html" title="Nun puedo ver la mio rede inalámbrica na llista">atopar la so rede wifi</a></span>…</span>
+</li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Lleer tamién</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-othersedit.html" title="Otros usuarios nun puen editar les conexones de rede">Otros usuarios nun puen editar les conexones de rede</a><span class="desc"> — Precisa desactivar la opción <span class="gui">Disponible pa tolos usuarios</span> na configuración de la conexón de rede.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

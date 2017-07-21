@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang=ta>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>சரியான கடவுச்சொல்லை உள்ளிட்டேன், இருந்தும் இணைக்க முடியவில்லை</title>
+<link rel="stylesheet" type="text/css" href="ta.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="வயர்லெஸ் பிணையமாக்கம்">வயர்லெஸ் பிணையமாக்கம்</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">சரியான கடவுச்சொல்லை உள்ளிட்டேன், இருந்தும் இணைக்க முடியவில்லை</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">நீங்கள் சரியான <span class="link"><a href="net-wireless-wepwpa.html" title="WEP மற்றும் WPA என்றால் என்ன?">வயர்லெஸ் கடவுச்சொல்லையே</a></span> உள்ளிட்டீர்கள், ஆனாலும் ஒரு வயர்லெஸ் பிணையத்துடன் இணைக்க முடியவில்லை என்பது நிச்சயமெனில், இவற்றை முயற்சிக்கவும்:</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list">
+<p class="p">Double-check that you have the correct password</p>
+<p class="p">கடவுச்சொற்கள் பேரெழுத்து சிற்றெழுத்து வித்தியாசம் கொண்டவை (பெரிய எழுத்தா சிறிய எழுத்தா என்பது முக்கியம்), ஆகவே கடவுச்சொல்லின் எழுத்துகளில் எதுவும் பேரெழுத்து சிற்றெழுத்து வகை தவறாக இல்லை என உறுதிப்படுத்தவும்.</p>
+</li>
+<li class="list">
+<p class="p">ஹெக்ஸ் அல்லது ASCII கடவு விசையை முயற்சிக்கவும்</p>
+<p class="p">நீங்கள் உள்ளிடும் கடவுச்சொல் வேறுவிதமாகவும் வழங்கப்படலாம் - ஹெக்ஸாடெசிமல் எழுத்துகளால் ஆன (0-9 எண்கள் மற்றும் a-f எழுத்துகள்) சரமாக வழங்கலாம், இது கடவு விசை என அழைக்கப்படும். ஒவ்வொரு கடவுச்சொல்லுக்கும் சமமான ஒரு கடவு விசை உள்ளது. உங்களிடம் கடவு விசை மற்றும் கடவுச்சொல்/கடவு வாக்கியம் இரண்டுமே இருந்தால், கடவுச்சொல்லுக்கு பதில் கடவு விசையைப் பயன்படுத்தி முயற்சிக்கவும். கடவுச்சொல் கேட்கப்படும் போது நீங்கள் சரியான <span class="gui">வயர்லெஸ் பாதுகாப்</span> விருப்பத்தைத் (எடுத்துக்காட்டாக நீங்கள் ஒரு WEP குறியாக்கம் கொண்ட இணைப்புக்கான ஒரு 40 எழுத்து கடவு விசையை தட்டச்சு செய்கிறீர்கள் எனில் <span class="gui">WEP 40/128-bit விசை</span> ஐ தேர்ந்தெடுக்க வேண்டும்) தேர்வு செய்ய வேண்டும்.</p>
+</li>
+<li class="list">
+<p class="p">உங்கள் வயர்லெஸ் கார்டை அணைத்து மீண்டும் இயக்கி முயற்சிக்கவும்</p>
+<p class="p">சில வயர்லெஸ் கார்டுகள் செயல்படாமல் நின்று விடலாம் அல்லது சிறு சிக்கல்களைக் கொண்டிருக்கலாம், அதனால் அவை இணைக்காதிருக்கலாம். கார்டை மீட்டமைக்க அதை அணைத்து விட்டு மீண்டும் இயக்க முயற்சிக்கவும். மேலும் தகவலுக்கு <span class="link"><a href="net-wireless-troubleshooting.html" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">வயர்லெஸ் பிணைய சிக்கல்தீர்வி</a></span> ஐ பார்க்கவும்.</p>
+</li>
+<li class="list">
+<p class="p">Check that you're using the correct type of wireless security</p>
+<p class="p">வயர்லெஸ் பாதுகாப்பு கடவுச்சொல் கேட்கப்படும் போது, எந்த வகை வயர்லெஸ் பாதுகாப்பைப் பயன்படுத்த வேண்டும் என நீங்கள் தேர்வு செய்ய முடியும். ரௌட்டர் அல்லது பேஸ் ஸ்டேஷன் எந்த வகையைப் பயன்படுத்துகிறதோ அதையே தேர்ந்தெடுக்க வேண்டும். இது முன்னிருப்பாகவே தேர்வு செய்யப்படலாம், ஆனால் சில சமயம் ஏதோ காரணங்களால் அவை ஒன்றாக இல்லாமல் போகலாம். எந்த வகை பாதுகாப்பு என்று உங்களுக்குத் தெரியாவிட்டால், வெவ்வேறு விருப்பங்களைப் பயன்படுத்தி முயற்சித்துப் பார்க்கவும்.</p>
+</li>
+<li class="list">
+<p class="p">உங்கள் வயர்லெஸ் கார்டு சரியாக ஆதரிக்கப்படுகிறதா எனப் பார்க்கவும்</p>
+<p class="p">சில வயர்லெஸ் கார்டுகள் நன்கு ஆதரிக்கப்படாது. அவை வயர்லெஸ் இணைப்பாகக் காண்பிக்கப்படும், ஆனால் அவற்றின் இயக்கிகளின் செயல்திறன் குறைவால் அவற்றால் பிணையத்துக்கு இணைக்க முடியாது போகக்கூடும். வேறு வயர்லெஸ் இயக்கியை பெற முடியுமா எனப் பார்க்கவும் அல்லது வேறு கூடுதல் அமைவு தேவையா எனப் பார்க்கவும் (வேறு <span class="gui">சாதன நிரலை</span> நிறுவுதல் போன்று). மேலும் தகவலுக்கு <span class="link"><a href="net-wireless-troubleshooting.html" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">வயர்லெஸ் பிணைய சிக்கல்தீர்வி</a></span> ஐப் பார்க்கவும்.</p>
+</li>
+</ul></div></div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless.html" title="வயர்லெஸ் பிணையமாக்கம்">வயர்லெஸ் பிணையமாக்கம்</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html" title="ஒரு வயர்லெஸ் பிணையத்துடன் இணைத்தல்">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html" title="ஒரு மறைக்கப்பட்ட வயர்லெஸ் பிணையத்துக்கு இணைத்தல்">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html" title="என் வயர்லெஸ் பிணையம் ஏன் தொடர்ந்து துண்டிக்கப்படுகிறது?">Disconnecting</a></span>…
+    </span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html lang=zh-CN>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>HTTPD - Apache2 Web 服务器</title>
+<link rel="stylesheet" type="text/css" href="zh_CN.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Ubuntu 服务器指南">Ubuntu 服务器指南</a> » <a class="trail" href="web-servers.html" title="Web 服务器">Web 服务器</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="web-servers.html" title="Web 服务器">上一页</a><a class="nextlinks-next" href="php5.html" title="PHP5 - 脚本语言">下一页</a>
+</div>
+<div class="hgroup"><h1 class="title">HTTPD - Apache2 Web 服务器</h1></div>
+<div class="region">
+<div class="contents">
+<p class="para">Apache is the most commonly used Web server on Linux systems. Web servers are used
+          to serve Web pages requested by client computers. Clients typically request and view
+          Web pages using Web browser applications such as <span class="app application">Firefox</span>,
+              <span class="app application">Opera</span>, <span class="app application">Chromium</span>,
+              or <span class="app application">Internet Explorer</span>.</p>
+<p class="para">Users enter a Uniform Resource Locator (URL) to point to a Web server by means of
+          its Fully Qualified Domain Name (FQDN) and a path to the required resource. For example, to view the home page of
+          the <a href="http://www.ubuntu.com" class="ulink" title="http://www.ubuntu.com">Ubuntu Web site</a> a user will enter only the FQDN:</p>
+<div class="screen"><pre class="contents "><span class="input userinput">www.ubuntu.com</span>
+</pre></div>
+<p class="para"> To view the <a href="http://www.ubuntu.com/community" class="ulink" title="http://www.ubuntu.com/community">community</a> sub-page, a user will enter the FQDN followed by a path:</p>
+<div class="screen"><pre class="contents "><span class="input userinput">www.ubuntu.com/community</span>
+</pre></div>
+<p class="para">用于传输网页的最常用协议就是超文本传输协议 (HTTP)。也支持诸如基于安全套接层的超文本传输协议 (HTTPS) 以及用于上传和下载文件的文件传输协议 (FTP) 等协议。</p>
+<p class="para">Apache Web 服务器常与 <span class="app application">MySQL</span> 数据库引擎、超文本处理器 (<span class="app application">PHP</span>) 脚本语言及其他流行的脚本语言如<span class="app application">Python</span> 和 <span class="app application">Perl</span> 组合在一起。这一组合被称为 LAMP (Linux, Apache, MySQL and Perl/Python/PHP) ，并形成一个强大健壮的开发基于 Web 应用程序的开发平台。</p>
+</div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="httpd.html#http-installation" title="安装">安装</a></li>
+<li class="links"><a class="xref" href="httpd.html#http-configuration" title="配置">配置</a></li>
+<li class="links"><a class="xref" href="httpd.html#https-configuration" title="HTTPS 配置">HTTPS 配置</a></li>
+<li class="links"><a class="xref" href="httpd.html#http-directory-permissions" title="Sharing Write Permission">Sharing Write Permission</a></li>
+<li class="links"><a class="xref" href="httpd.html#http-references" title="参考资料">参考资料</a></li>
+</ul></div>
+<div class="sect2 sect" id="http-installation"><div class="inner">
+<div class="hgroup"><h2 class="title">安装</h2></div>
+<div class="region"><div class="contents">
+<p class="para">
+    The <span class="app application">Apache2</span> web server is available in Ubuntu Linux. To install Apache2:
+    </p>
+<div class="steps"><div class="inner"><ul class="steps"><li class="steps">
+        <p class="para">在终端命令行输入如下命令：</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt-get install apache2</span>
+</pre></div>
+             		 
+      </li></ul></div></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="http-configuration"><div class="inner">
+<div class="hgroup"><h2 class="title">配置</h2></div>
+<div class="region">
+<div class="contents">
+<p class="para">
+        Apache2 is configured by placing <span class="em emphasis">directives</span> in plain text
+        configuration files.  These <span class="em emphasis">directives</span> are separated between the following
+        files and directories:
+        </p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+            <p class="para"><span class="em emphasis">apache2.conf:</span> Apache2 的主要配置文件。 包含了 Apache2 的<span class="em emphasis">全局</span>的配置。</p>
+          </li>
+<li class="list itemizedlist">
+            <p class="para">
+            <span class="em emphasis">httpd.conf:</span> historically the main Apache2 configuration file, named after the
+            <span class="app application">httpd</span> daemon. Now the file does not exist. In older versions of Ubuntu the
+            file might be present, but empty, as all configuration options have been moved to the below referenced directories.
+            </p>
+          </li>
+<li class="list itemizedlist">
+            <p class="para">
+            <span class="em emphasis">conf-available:</span> this directory contains available configuration files. 
+            All files that were previously in <span class="file filename">/etc/apache2/conf.d</span> 
+            should be moved to <span class="file filename">/etc/apache2/conf-available</span>.
+            </p>
+          </li>
+<li class="list itemizedlist">
+            <p class="para">
+            <span class="em emphasis">conf-enabled:</span> holds <span class="em emphasis">symlinks</span> to the files in 
+            <span class="file filename">/etc/apache2/conf-available</span>.  When a configuration file is symlinked,
+            it will be enabled the next time <span class="app application">apache2</span> is restarted.
+            </p>
+          </li>
+<li class="list itemizedlist">
+            <p class="para"><span class="em emphasis"> 环境变量设置： </span>　文件下的 Apache2 <span class="em emphasis"> 环境 </span>　变量设置。</p>
+          </li>
+<li class="list itemizedlist">
+            <p class="para"><span class="em emphasis"> mods-available： </span> 该目录包含的配置文件都装载 <span class="em emphasis"> 模块 </span> 和设置它们。不管怎样并非所有模块都会有具体的配置文件。</p>
+          </li>
+<li class="list itemizedlist">
+            <p class="para"><span class="em emphasis">mods-enabled：</span>保持<span class="em emphasis">符号链接</span>文件在 <span class="file filename">/etc/apache2/mods-available</span>。当一模块配置文件被设为符号连接后会在下一次<span class="app application">apache2</span>重启时激活。</p>
+          </li>
+<li class="list itemizedlist">
+            <p class="para"><span class="em emphasis">ports.conf：</span>房屋指示以确定 Apache2 正在监听哪些 TCP 端口。</p>
+          </li>
+<li class="list itemizedlist">
+            <p class="para"><span class="em emphasis">sites-available:</span>  这个目录下有 Apache2 <span class="em emphasis"> 虚拟主机 </span> 的配置文件。虚拟主机使 Apache2 能够配置多个站点，这些站点有各自不同的配置。</p>
+          </li>
+<li class="list itemizedlist">
+            <p class="para">
+            <span class="em emphasis">sites-enabled:</span> like mods-enabled, <span class="file filename">sites-enabled</span> contains 
+            symlinks to the <span class="file filename">/etc/apache2/sites-available</span> directory.  Similarly when a configuration file in 
+            sites-available is symlinked, the site configured by it will be active once Apache2 is restarted.
+            </p>
+          </li>
+<li class="list itemizedlist">
+            <p class="para">
+            <span class="em emphasis">magic:</span> instructions for determining MIME type based on the first few bytes of a file.
+            </p>
+          </li>
+</ul></div>
+<p class="para">除此之外，其他的配置文件可能会增加使用 <span class="em emphasis"> 头文件 </span> 指令， 并和通配符用于包括许多配置文件。任何说明可放置于这些任意配置文件中。</p>
+<p class="para">
+          The server also reads a file containing mime document types; the filename is set
+          by the <span class="em emphasis">TypesConfig</span> directive, typically via
+          <span class="file filename">/etc/apache2/mods-available/mime.conf</span>, which might also include additions
+          and overrides, and is <span class="file filename">/etc/mime.types</span> by default.
+          </p>
+</div>
+<div class="sect3 sect" id="http-basic-settings"><div class="inner">
+<div class="hgroup"><h3 class="title">基本设置</h3></div>
+<div class="region"><div class="contents">
+<p class="para">
+             This section explains Apache2 server essential configuration
+             parameters. Refer to the <a href="http://httpd.apache.org/docs/2.4/" class="ulink" title="http://httpd.apache.org/docs/2.4/">Apache2
+             Documentation</a> for more details.</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+                 <p class="para">
+                 Apache2 ships with a virtual-host-friendly default configuration.
+	         That is, it is configured with a single default virtual host (using
+		 the <span class="em emphasis">VirtualHost</span> directive) which can be modified or used as-is if you
+		 have a single site, or used as a template for additional virtual hosts
+		 if you have multiple sites.  If left alone, the default virtual host
+		 will serve as your default site, or the site users will see if the
+		 URL they enter does not match the <span class="em emphasis">ServerName</span> directive of any of your 
+		 custom sites.  To modify the default virtual host, edit the file
+		 <span class="file filename">/etc/apache2/sites-available/000-default.conf</span>.
+                 </p>
+
+                 <div class="note" title="备注"><div class="inner"><div class="region"><div class="contents">
+                   <p class="para">虚拟主机的语句设置仅应用于特定的虚拟主机。如果一个语句在服务器范围中设置而没有在虚拟主机设置中定义，那么将使用缺省设置。例如，您可以定义网络管理员的邮件地址而无需为每个虚拟主机都分别定义邮件地址。</p>
+                 </div></div></div></div>
+
+                 <p class="para">如果您想设定一个新的虚拟主机或站点，请复制该文件到以您选择名称的同一目录下。例如：</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo cp /etc/apache2/sites-available/000-default.conf /etc/apache2/sites-available/mynewsite.conf</span>
+</pre></div>
+
+                 <p class="para">编辑新文件配置新的站点就要使用下列的一些指示说明。</p>
+
+               </li>
+<li class="list itemizedlist">
+                 <p class="para"><span class="em emphasis">ServerAdmin</span> 语句指定服务器管理员的邮件地址，缺省值是 webmaster@localhost。应该改成您的邮件地址 (如果您是服务器管理员的话)。如果您的网站有问题，Apache2 将显示包含该邮件地址的错误信息以便报告该问题。在 /etc/apache2/sites-available 目录中您网站的配置文件里可以找到该语句。</p>
+               </li>
+<li class="list itemizedlist">
+                 <p class="para"><span class="em emphasis">Listen</span> 语句指定端口以及可选的 IP 地址，Apache2 将在其上监听。如果 IP 地址没有被指定，Apache2 将监听所有指向其所运行机器上的 IP 地址。Listen 语句的缺省值是 80。把其改成 127.0.0.1:80 将使 Apache2 只在您的环回接口上临听以致于它相对于 Internet 不可用。也可改变其监听端口如81，或保持原样以便正常操作。该语句可以在它自己的文件 <span class="file filename">/etc/apache2/ports.conf</span> 中发现并修改。</p>
+               </li>
+<li class="list itemizedlist">
+                 <p class="para">
+	         The <span class="em emphasis">ServerName</span> directive is optional and specifies what FQDN your
+		 site should answer to.  The default virtual host has no ServerName
+		 directive specified, so it will respond to all requests that do not
+		 match a ServerName directive in another virtual host.  If you have
+		 just acquired the domain name ubunturocks.com and wish to host it on
+		 your Ubuntu server, the value of the ServerName directive in your
+		 virtual host configuration file should be ubunturocks.com.  Add this
+		 directive to the new virtual host file you created earlier 
+		 (<span class="file filename">/etc/apache2/sites-available/mynewsite.conf</span>).
+		 </p>
+			 
+                 <p class="para">可能还需要把您的站点来响应 www.ubunturocks.com ，因为许多用户会认定加上前缀 www 是适当的。使用<span class="em emphasis">服务器别名</span>指令来做这事。 可能需要在服务别名指令中使用通配符。</p>
+
+                 <p class="para">比如，下一步的配置会引导您站点来响应在 <span class="em emphasis"> .ubunturocks.com </span> 的任意请求结束域。</p>                 
+
+<div class="code"><pre class="contents ">服务器别名 *.ubunturocks.com
+</pre></div>
+
+               </li>
+<li class="list itemizedlist">
+                 <p class="para">
+		 The <span class="em emphasis">DocumentRoot</span> directive specifies where Apache2 should look for the
+		 files that make up the site.  The default value is /var/www/html, as specified in
+		 <span class="file filename">/etc/apache2/sites-available/000-default.conf</span>. If desired, change this value
+		 in your site's virtual host file, and remember to create that directory if necessary!
+		 </p>
+              </li>
+</ul></div>
+<p class="para">
+            Enable the new <span class="em emphasis">VirtualHost</span> using the 
+            <span class="app application">a2ensite</span> utility and restart Apache2:
+            </p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo a2ensite mynewsite</span>
+<span class="cmd command">sudo service apache2 restart</span>
+</pre></div>
+<div class="note" title="备注"><div class="inner"><div class="region"><div class="contents">
+              <p class="para">确定为虚拟主机用广泛的名字来代替新站点。一种方法是以虚拟主机的 <span class="em emphasis"> 服务器名 </span> 指令来命名。</p>
+            </div></div></div></div>
+<p class="para">同样，使用 <span class="app application"> a2dissite </span> 功能来关闭站点。使用多个虚拟主机来为故障排除配置问题是非常有用的。</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo a2dissite mynewsite</span>
+<span class="cmd command">sudo service apache2 restart</span>
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="default-settings"><div class="inner">
+<div class="hgroup"><h3 class="title">缺省设置</h3></div>
+<div class="region"><div class="contents">
+<p class="para">这部分内容说明 Apache2 服务器缺省设置的配置。举个例子，如果您添加一个虚拟主机，您为该虚拟主机配置的设置将优先于缺省虚拟主机。如果在该虚拟主机的设置中有个语句没有定义，那么将使用缺省值。</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+
+              <p class="para">当用户在目录名后使用斜杠 (/) 来请求一个目录索引时，The <span class="em emphasis">DirectoryIndex</span> 将通过服务器提供缺省页服务。</p>
+
+              <p class="para">
+              For example, when a user requests the page
+              http://www.example.com/this_directory/, he or she will
+              get either the DirectoryIndex page if it exists, a
+              server-generated directory list if it does not and the
+	      Indexes option is specified, or a Permission Denied page
+	      if neither is true.  The server will try to
+              find one of the files listed in the DirectoryIndex
+              directive and will return the first one it finds. If it
+              does not find any of these files and if <span class="em emphasis">Options Indexes</span> is
+              set for that directory, the server will generate and
+              return a list, in HTML format, of the subdirectories and
+              files in the directory.  The default value, found in
+	      <span class="file filename">/etc/apache2/mods-available/dir.conf</span> is 
+	      "index.html index.cgi index.pl index.php index.xhtml index.htm".
+	      Thus, if Apache2 finds a file in a requested directory
+	      matching any of these names, the first will be displayed.
+              </p>
+            </li>
+<li class="list itemizedlist">
+
+              <p class="para">
+              The <span class="em emphasis">ErrorDocument</span> directive allows you to specify a file
+       	      for Apache2 to use for specific error events.  For example,
+	      if a user requests a resource that does not exist, a 404
+	      error will occur. By default, Apache2 will simply return a HTTP 404 Return code.
+              Read <span class="file filename">/etc/apache2/conf-available/localized-error-pages.conf</span> for detailed
+              instructions for using ErrorDocument, including locations of example files.
+              </p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para">
+              By default, the server writes the transfer log to the file
+              <span class="file filename">/var/log/apache2/access.log</span>. You can change this on a per-site
+	      basis in your virtual host configuration files with the <span class="em emphasis">CustomLog</span>
+              directive, or omit it to accept the default, specified in <span class="file filename">
+	      /etc/apache2/conf-available/other-vhosts-access-log.conf</span>.  You may also specify the file
+	      to which errors are logged, via the <span class="em emphasis">ErrorLog</span> directive, whose default
+	      is <span class="file filename">/var/log/apache2/error.log</span>.  These are kept
+	      separate from the transfer logs to aid in troubleshooting problems
+	      with your Apache2 server.  You may also specify the <span class="em emphasis">LogLevel</span> (the
+	      default value is "warn") and the <span class="em emphasis">LogFormat</span> (see <span class="file filename">
+	      /etc/apache2/apache2.conf</span> for the default value).
+	      </p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para">由每个目录基础来决定一些选项，而不是每个服务器。<span class="em emphasis"> 选项 </span> 是这些指令的其中之一。一节目录就是封闭的 XML-like 标签，像这样：</p>
+
+<div class="code"><pre class="contents ">&lt;Directory /var/www/html/mynewsite&gt;
+...
+&lt;/Directory&gt;
+</pre></div>
+
+	    <p class="para"><span class="em emphasis"> 选项 </span> 指令在目录接收一个或多个值(除了其它之外)，由空格所分隔：</p>
+
+            <div class="list itemizedlist"><ul class="list itemizedlist compact">
+<li class="list itemizedlist">
+                <p class="para"><span class="em em-bold emphasis">ExecCGI</span> - 允许执行 CGI 脚本。如果该选项没有设置，则 CGI 脚本将不能执行。<div class="note note-tip" title="提示"><div class="inner"><div class="region"><div class="contents">
+                  <p class="para">许多文件都不应该做为 CGI 脚本所执行。这会非常危险。CGI 脚本应该单独保存在一目录里和你的外部启动文档所分开，只有这目录已经设置了 ExecCGI 选项。CGI 脚本的默认位置是 <span class="file filename"> /usr/lib/cgi-bin </span>。</p>
+                </div></div></div></div></p>
+                </li>
+<li class="list itemizedlist">
+                  <p class="para">
+                  <span class="em em-bold emphasis">Includes</span> - Allow server-side includes.
+		  Server-side includes allow an HTML file to <span class="em emphasis">
+		  include</span> other files. See
+                  <a href="https://help.ubuntu.com/community/ServerSideIncludes" class="ulink" title="https://help.ubuntu.com/community/ServerSideIncludes">Apache SSI documentation
+                  (Ubuntu community)</a> for more information.
+                  </p>
+                </li>
+<li class="list itemizedlist">
+                  <p class="para">允许服务端包含 <span class="em em-bold emphasis"> IncludesNOEXEC </span>，但要在 CGI 脚本里禁用 <span class="em emphasis"> #exec </span> 和 <span class="em emphasis">#include</span> 命令。</p>
+                </li>
+<li class="list itemizedlist">
+                  <p class="para"><span class="em em-bold emphasis">Indexes</span> - 显示一个按特定格式的文件目录,如果被请求的目录中 <span class="em emphasis">DirectoryIndex</span> (比如index.html)不存在 。<div class="note note-warning" title="警告"><div class="inner"><div class="region"><div class="contents">
+                    <p class="para">出于安全考虑，这个通常不会设置，无疑也不应在您 DocumentRoot 目录中设置。只有在您确定您希望用户看到目录的整个内容时请小心地基于每个目录启用该选项。</p>
+                  </div></div></div></div></p>
+                </li>
+<li class="list itemizedlist">
+                  <p class="para">
+                  <span class="em em-bold emphasis">Multiview</span> - Support content-negotiated multiviews;
+                  this option is disabled by default for security reasons.  See the <a href="http://httpd.apache.org/docs/2.4/mod/mod_negotiation.html#multiviews" class="ulink" title="http://httpd.apache.org/docs/2.4/mod/mod_negotiation.html#multiviews">Apache2
+		  documentation on this option</a>.
+                  </p>
+                </li>
+<li class="list itemizedlist">
+                  <p class="para"><span class="em em-bold emphasis">SymLinksIfOwnerMatch</span> - 仅在软连接与其目的文件或目录拥有相同所有者时才使用。</p>
+                </li>
+</ul></div>
+            </li>
+</ul></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="httpd-settings"><div class="inner">
+<div class="hgroup"><h3 class="title">httpd 设置</h3></div>
+<div class="region"><div class="contents">
+<p class="para">本节说明了一些基本的 <span class="app application"> httpd </span> 守护进程的配置设置。</p>
+<p class="para"><span class="em em-bold emphasis">LockFile</span> - 当服务器编译时使用了 USE_FCNTL_SERIALIZED_ACCEPT 或 USE_FLOCK_SERIALIZED_ACCEPT 参数时，使用 LockFile 语句来设置 lockfile 的路径。它必须保存在本地磁盘上，它应该设置成缺省值，除非日志目录被定位在 NFS 共享上。如果是这种情况，缺省值应该被改为本地磁盘的位置并且其目录只对 root 用户可读。</p>
+<p class="para"><span class="em em-bold emphasis">PidFile</span> - PidFile 语句设置服务器记录其进程 ID (pid) 的文件。该文件只对 root 用户可读。在大多数情况下，应该保留其缺省值。</p>
+<p class="para">
+          <span class="em em-bold emphasis">User</span> - The User directive sets the userid used by the server to answer requests. This 
+          setting determines the server's access. Any files inaccessible to this user will also be inaccessible to your website's visitors. 
+          The default value for User is "www-data". 
+          </p>
+<div class="note note-warning" title="警告"><div class="inner"><div class="region"><div class="contents">
+            <p class="para">除非您的确知道您在做什么，否则请不要将 User 设为 root 用户。用 root 作为 User 的值将会在您的 Web 服务器中产生极大的安全漏洞。</p>
+          </div></div></div></div>
+<p class="para"><span class="em em-bold emphasis">Group</span> - Group 指令和 User 指令类似。Group 指令设置服务器响应请求使用的用户组。默认组为"www-data"。</p>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="apache-modules"><div class="inner">
+<div class="hgroup"><h3 class="title">Apache2 模块</h3></div>
+<div class="region"><div class="contents">
+<p class="para">
+          Apache2 is a modular server. This implies that only the most
+          basic functionality is included in the core server. Extended
+          features are available through modules which can be loaded
+          into Apache2. By default, a base set of modules is included in
+          the server at compile-time. If the server is compiled to use
+          dynamically loaded  modules, then modules can be compiled
+          separately, and added at any time using the LoadModule
+          directive. Otherwise, Apache2 must be recompiled to add or
+          remove modules. 
+          </p>
+<p class="para">Ubuntu把Apache2编译成可以动态加载模块的形式。配置命令可以通过包含在<span class="em emphasis">&lt;IfModule&gt;</span>块中的方式包含到某个模块中。</p>
+<p class="para">您可以安装额外的 Apache2 模块，并和您的 Web 服务器使用这些模块。例如，运行以下终端提示的命令来安装 <span class="em emphasis">MySQL 认证</span> 模块：</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt-get install libapache2-mod-auth-mysql</span>
+</pre></div>
+<p class="para">请浏览 <span class="file filename">/etc/apache2/mods-available</span> 目录，能提供更多的模块。</p>
+<p class="para">使用 <span class="app application">a2enmod</span> 功能来激活模块：</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo a2enmod auth_mysql</span>
+<span class="cmd command">sudo service apache2 restart</span>
+</pre></div>
+<p class="para">同样的，<span class="app application">a2dismod</span> 将禁用模块。</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo a2dismod auth_mysql</span>
+<span class="cmd command">sudo service apache2 restart</span>
+</pre></div>
+</div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect2 sect" id="https-configuration"><div class="inner">
+<div class="hgroup"><h2 class="title">HTTPS 配置</h2></div>
+<div class="region"><div class="contents">
+<p class="para"><span class="app application">mod_ssl</span>模块为Apache2服务器提供了一个重要特性 - 对传送内容的加密功能。因此， 当您使用SSL浏览信息的时候,即导航栏中有https:// 前缀的情况。</p>
+<p class="para">软件包 <span class="app application">apache2-common</span> 中包含了 <span class="app application">mod_ssl</span> 模块。 在终端命令行中输入如下命令以使用 <span class="app application">mod_ssl</span> 模块：</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo a2enmod ssl</span>
+</pre></div>
+<p class="para">
+          There is a default HTTPS configuration file in <span class="file filename">/etc/apache2/sites-available/default-ssl.conf</span>.
+          In order for <span class="app application">Apache2</span> to provide HTTPS, 
+          a <span class="em emphasis">certificate</span> and <span class="em emphasis">key</span> file are also needed.  The default HTTPS 
+          configuration will use a certificate and key generated by the <span class="app application">ssl-cert</span> package.  They 
+          are good for testing, but the auto-generated certificate and key should be replaced by a certificate specific
+          to the site or server. For information on generating a key and obtaining a certificate see 
+          <a class="xref" href="certificates-and-security.html" title="证书">证书</a>
+          </p>
+<p class="para">要为 <span class="app application">Apache2</span> 配置 HTTPS，请输入以下内容：</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo a2ensite default-ssl</span>
+</pre></div>
+<div class="note" title="备注"><div class="inner"><div class="region"><div class="contents">
+              <p class="para">目录 <span class="file filename">/etc/ssl/certs</span> 和 <span class="file filename">/etc/ssl/private</span> 是默认的安全区域.如果您要把证书和密钥安装到其他的目录下，请确认更改了 <span class="em emphasis">SSLCertificateFile</span> 和 <span class="em emphasis">SSLCertificateKeyFile</span> 的配置。</p>
+            </div></div></div></div>
+<p class="para">现在 Appache2 已经配置了 HTTPS。要使新设置生效，请重新启动服务：</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo service apache2 restart</span>
+</pre></div>
+<div class="note" title="备注"><div class="inner"><div class="region"><div class="contents">
+              <p class="para">
+              Depending on how you obtained your certificate you may need to 
+              enter a passphrase when <span class="app application">Apache2</span> starts. 
+              </p>
+            </div></div></div></div>
+<p class="para">你可通过在浏览器地址栏输入https://your_hostname/url/来进入安装服务器页面。</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="http-directory-permissions"><div class="inner">
+<div class="hgroup"><h2 class="title">Sharing Write Permission</h2></div>
+<div class="region"><div class="contents">
+<p class="para">
+          For more than one user to be able to write to the same directory it will
+          be necessary to grant write permission to a group they share in common.  The
+          following example grants shared write permission to <span class="file filename">/var/www/html</span>
+          to the group "webmasters".
+          </p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo chgrp -R webmasters /var/www/html</span>
+<span class="cmd command">sudo find /var/www/html -type d -exec chmod g=rwxs "{}" \;</span>
+<span class="cmd command">sudo find /var/www/html -type f -exec chmod g=rw  "{}" \;</span>
+</pre></div>
+<p class="para">
+    These commands recursively set the group permission on all files and
+    directories in /var/www/html to read write and set user id. This has the
+    effect of having the files and directories inherit their group and permission
+    from their parrent. Many admins find this useful for allowing multiple users
+    to edit files in a directory tree.
+</p>
+<div class="note" title="备注"><div class="inner"><div class="region"><div class="contents">
+          <p class="para">如果需要对一个目录设置多于一个的授权访问组，请使用访问控制列表 (ACLs)。</p>
+        </div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="http-references"><div class="inner">
+<div class="hgroup"><h2 class="title">参考资料</h2></div>
+<div class="region"><div class="contents"><div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+            <p class="para">
+            <a href="http://httpd.apache.org/docs/2.4/" class="ulink" title="http://httpd.apache.org/docs/2.4/">Apache2 Documentation</a> contains in depth
+            information on Apache2 configuration directives. Also, see the <span class="app application">apache2-doc</span> 
+            package for the official Apache2 docs.
+            </p>
+          </li>
+<li class="list itemizedlist">
+            <p class="para">请浏览  <a href="http://www.modssl.org/docs/" class="ulink" title="http://www.modssl.org/docs/">Mod SSL 文件</a>站点可以查到更多的 SSL 相关信息。</p>
+          </li>
+<li class="list itemizedlist">
+            <p class="para">奥赖利的 <a href="http://oreilly.com/catalog/9780596001919/" class="ulink" title="http://oreilly.com/catalog/9780596001919/">Apache 菜谱</a> 是个能完成特定 Apache2 配置的好资料。</p>
+          </li>
+<li class="list itemizedlist">
+            <p class="para">和 Ubuntu 有关 Apache2 的更多问题，请访问在 <a href="http://freenode.net/" class="ulink" title="http://freenode.net/">freenode.net</a> 的  <span class="em emphasis">#ubuntu-server</span> IRC 频道。</p>
+          </li>
+<li class="list itemizedlist">
+            <p class="para">通常与 PHP 和 MySQL 集成；<a href="https://help.ubuntu.com/community/ApacheMySQLPHP" class="ulink" title="https://help.ubuntu.com/community/ApacheMySQLPHP">Apache MySQL PHP Ubuntu Wiki </a> 页面是个很好的资源。</p>
+          </li>
+</ul></div></div></div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="web-servers.html" title="Web 服务器">上一页</a><a class="nextlinks-next" href="php5.html" title="PHP5 - 脚本语言">下一页</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p></div>
+</div>
+</body>
+</html>

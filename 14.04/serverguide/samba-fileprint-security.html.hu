@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang=hu>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Securing File and Print Server</title>
+<link rel="stylesheet" type="text/css" href="hu.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Ubuntu kiszolgáló kézikönyve">Ubuntu kiszolgáló kézikönyve</a> » <a class="trail" href="samba.html" title="Samba">Samba</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="samba-printserver.html" title="Nyomtatókiszolgáló">Előző</a><a class="nextlinks-next" href="samba-dc.html" title="As a Domain Controller">Következő</a>
+</div>
+<div class="hgroup"><h1 class="title">Securing File and Print Server</h1></div>
+<div class="region">
+<div class="contents"></div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="samba-fileprint-security.html#samba-security-mode" title="Samba biztonsági módjai">Samba biztonsági módjai</a></li>
+<li class="links"><a class="xref" href="samba-fileprint-security.html#samba-user-security" title="Security = User">Security = User</a></li>
+<li class="links"><a class="xref" href="samba-fileprint-security.html#samba-share-security" title="Megosztás biztonsága">Megosztás biztonsága</a></li>
+<li class="links"><a class="xref" href="samba-fileprint-security.html#samba-apparmor" title="Samba AppArmor profil">Samba AppArmor profil</a></li>
+<li class="links"><a class="xref" href="samba-fileprint-security.html#samba-security-resources" title="Információforrások">Információforrások</a></li>
+</ul></div>
+<div class="sect2 sect" id="samba-security-mode"><div class="inner">
+<div class="hgroup"><h2 class="title">Samba biztonsági módjai</h2></div>
+<div class="region"><div class="contents">
+<p class="para">A Common Internet Filesystem (CIFS) hálózati protokollban két biztonsági szint érhető el: <span class="em emphasis">felhasználói szintű</span> és <span class="em emphasis">megosztás szintű</span>. A Samba <span class="em emphasis">biztonsági mód</span> megvalósítása nagyobb rugalmasságot tesz lehetővé, a felhasználói szintű biztonság megvalósításához négy, a megosztás szintű biztonsághoz pedig egy módszer biztosításával:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">security = user:</span> Felhasználónév és jelszó megadását követeli meg a kliensektől a megosztásokhoz csatlakozáshoz. A Samba felhasználói fiókok nem azonosak a rendszer felhasználói fiókjaival, de a <span class="app application">libpam-smbpass</span> csomag használatával szinkronizálhatók a rendszer felhasználói és jelszavai a Samba felhasználói adatbázissal.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">security = domain:</span> Ez a mód lehetővé teszi, hogy a Samba kiszolgáló a windowsos kliensek számára elsődleges tartományvezérlőként (PDC), tartalék tartományvezérlőként (BDC), vagy tartománytag-kiszolgálóként (DMS) jelenjen meg. További információkért lásd: <a class="xref" href="samba-dc.html" title="As a Domain Controller">As a Domain Controller</a>.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">security = ADS:</span> Lehetővé teszi a Samba kiszolgálónak a csatlakozást Active Directory tartományokhoz natív tagként. Részletekért lásd: <a class="xref" href="samba-ad-integration.html" title="Active Directory Integration">Active Directory Integration</a>.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">security = server:</span> Ez a mód abból az időből maradt, amikor a Samba még nem tudott tag kiszolgálóvá válni, és bizonyos biztonsági problémák miatt nem szabad használni. További részletekért lásd a Samba guide <a href="http://samba.org/samba/docs/man/Samba-HOWTO-Collection/ServerType.html#id349531" class="ulink" title="http://samba.org/samba/docs/man/Samba-HOWTO-Collection/ServerType.html#id349531">Server Security</a> szakaszát.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">security = share:</span> Lehetővé teszi a klienseknek a megosztásokhoz való csatlakozást felhasználónév és jelszó megadása nélkül.</p>
+        </li>
+</ul></div>
+<p class="para">A kiválasztandó biztonsági mód a környezettől, valamint a Samba kiszolgálóval ellátandó feladattól függ.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="samba-user-security"><div class="inner">
+<div class="hgroup"><h2 class="title">Security = User</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Ebben a szakaszban bemutatjuk a <a class="xref" href="samba-fileserver.html" title="File Server">File Server</a> és <a class="xref" href="samba-printserver.html" title="Nyomtatókiszolgáló">Nyomtatókiszolgáló</a> részben beállított Samba fájl- és nyomtatókiszolgáló újrakonfigurálását hitelesítés megkövetelésére.</p>
+<p class="para">Első lépésként telepítse a <span class="app application">libpam-smbpass</span> csomagot, amely a rendszer felhasználóit szinkronizálja a Samba felhasználói adatbázissal:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt-get install libpam-smbpass</span>
+</pre></div>
+<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents">
+        <p class="para">Ha a telepítéskor kiválasztotta a <span class="em emphasis">Samba Server</span> feladatot, akkor a <span class="app application">libpam-smbpass</span> csomag már telepítve van.</p>
+      </div></div></div></div>
+<p class="para">Szerkessze az <span class="file filename">/etc/samba/smb.conf</span> fájlt, és módosítsa a <span class="em emphasis">[share]</span> szakaszt:</p>
+<div class="code"><pre class="contents ">    guest ok = no
+</pre></div>
+<p class="para">Végül indítsa újra a Sambát az új beállítások életbe léptetéséhez:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo restart smbd</span>
+<span class="cmd command">sudo restart nmbd</span>
+</pre></div>
+<p class="para">Ezután a megosztott könyvtárakhoz vagy nyomtatókhoz csatlakozáskor a rendszer felhasználói nevet és jelszót fog kérni.</p>
+<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents">
+        <p class="para">Ha a megosztáshoz hálózati meghajtót rendelt, bejelölheti a <span class="quote">„Reconnect at Logon”</span> jelölőnégyzetet, amely csak egyszer követeli meg a felhasználónév és jelszó megadását, legalábbis a jelszó megváltozásáig.</p>
+      </div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="samba-share-security"><div class="inner">
+<div class="hgroup"><h2 class="title">Megosztás biztonsága</h2></div>
+<div class="region">
+<div class="contents"><p class="para">Számos lehetőség van minden egyes megosztott könyvtár biztonságának növelésére. A <span class="em emphasis">[share]</span> példa felhasználásával ez a szakasz néhány általános lehetőséget mutat be.</p></div>
+<div class="sect3 sect" id="windows-networking-groups"><div class="inner">
+<div class="hgroup"><h3 class="title">Csoportok</h3></div>
+<div class="region"><div class="contents">
+<p class="para">A csoportok számítógépek vagy felhasználók halmazát adják meg, amelyeknek azonos hozzáférési szintjük van bizonyos hálózati erőforrásokhoz és az ilyen erőforrásokra vonatkozó hozzáférés adott részletességi szintjét biztosítják. Ha például a <span class="em emphasis">qa</span> nevű csoport a <span class="em emphasis">freda</span>, <span class="em emphasis">danika</span> és <span class="em emphasis">rob</span> felhasználókat tartalmazza, egy <span class="em emphasis">support</span> nevű csoport pedig a <span class="em emphasis">danika</span>, <span class="em emphasis">jeremy</span> és <span class="em emphasis">vincent</span> felhasználókat, akkor a <span class="em emphasis">qa</span> csoportnak hozzáférést biztosító hálózati erőforrások lehetővé teszik freda, danika és rob hozzáférését, de jeremy vagy vincent nem érheti el ezeket. Mivel a <span class="em emphasis">danika</span> nevű felhasználó egyaránt tagja a <span class="em emphasis">qa</span> és <span class="em emphasis">support</span> csoportoknak, képes lesz elérni a mindkét csoportnak hozzáférést engedő erőforrásokat, míg a többi felhasználó csak az ő csoportjukat engedélyező erőforrásokhoz férhet hozzá.</p>
+<p class="para">Alapértelmezésben a Samba a helyi rendszeren, az <span class="file filename">/etc/group</span> fájlban megadott csoportokban próbálja elhelyezni a felhasználót. További információkért a felhasználók csoportokhoz adásáról és azokból eltávolításáról lásd a <a class="xref" href="user-management.html#adding-deleting-users" title="Felhasználók hozzáadása és törlése">Felhasználók hozzáadása és törlése</a> részt.</p>
+<p class="para">A csoportok megadásakor az <span class="file filename">/etc/samba/smb.conf</span> Samba konfigurációs fájlban a csoportnevet „@” szimbólummal kezdve jelölheti. Ha például a <span class="em emphasis">sysadmin</span> nevű csoportot szeretné létrehozni az <span class="file filename">/etc/samba/smb.conf</span> valamely szakaszában, akkor a csoportnevet a <span class="em em-bold emphasis">@sysadmin</span> formában kell megadni.</p>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="samba-file-permissions"><div class="inner">
+<div class="hgroup"><h3 class="title">Fájljogosultságok</h3></div>
+<div class="region"><div class="contents">
+<p class="para">A fájljogosultságok megadják, hogy az adott fájlra, könyvtárra vagy fájlcsoportra egy adott számítógép vagy felhasználó pontosan milyen jogosultságokkal rendelkezik. Az ilyen jogosultságok megadhatók az <span class="file filename">/etc/samba/smb.conf</span> fájl szerkesztésével és adott fájlmegosztás konkrét jogosultságainak megadásával.</p>
+<p class="para">Ha például létrehozott egy <span class="em emphasis">megosztas</span> nevű Samba megosztást és <span class="em emphasis">csak olvasási</span> jogosultságokat szeretne adni a <span class="em emphasis">qa</span> csoport felhasználóinak, de engedélyezni akarja a <span class="em emphasis">sysadmin</span> csoport és a <span class="em emphasis">vincent</span> nevű felhasználó számára az írást, akkor ezt az <span class="file filename">/etc/samba/smb.conf</span> fájl szerkesztésével és a <span class="em emphasis">[megosztas]</span> bejegyzés alá a következő értékek beírásával teheti meg:</p>
+<div class="code"><pre class="contents ">    read list = @qa
+    write list = @sysadmin, vincent
+</pre></div>
+<p class="para">Egy másik lehetséges Samba jogosultság az <span class="em emphasis">adminisztrációs</span> jog egy adott megosztott erőforrásra. Az adminisztrációs jogosultsággal rendelkező felhasználók az erőforráson belül minden információt írhatnak, olvashatnak vagy módosíthatnak, amire adminisztrációs jogosultsággal rendelkeznek.</p>
+<p class="para">Ha például a <span class="em emphasis">melissa</span> nevű felhasználónak adminisztrációs jogosultságot adna a <span class="em emphasis">share</span> példához, az <span class="file filename">/etc/samba/smb.conf</span> fájlt megnyitva a következő sort kellene a <span class="em emphasis">[share]</span> bejegyzéshez adni:</p>
+<div class="code"><pre class="contents ">    admin users = melissa
+</pre></div>
+<p class="para">Az <span class="file filename">/etc/samba/smb.conf</span> szerkesztése után indítsa újra a Sambát a módosítások életbe léptetéséhez:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo restart smbd</span>
+<span class="cmd command">sudo restart nmbd</span>
+</pre></div>
+<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents">
+          <p class="para">A <span class="em emphasis">read list</span> és <span class="em emphasis">write list</span> működéséhez a Samba biztonsági módot <span class="em emphasis">nem</span> szabad <span class="em emphasis">security = share</span>-re állítani</p>
+        </div></div></div></div>
+<p class="para">A Samba beállítása után a csoportok hozzáférésének korlátozására a megosztott könyvtárhoz, a fájlrendszer jogosultságait is frissíteni kell.</p>
+<p class="para">A hagyományos Linux fájljogosultságok nem képezhetők le jól a Windows NT hozzáférés-vezérlési listákra (ACL-ek). Szerencsére a POSIX ACL-ek elérhetők az Ubuntu kiszolgálókon, így részletesebb felügyeletet biztosítanak. Az ACL-ek engedélyezéséhez például a <span class="file filename">/srv</span> alatti EXT3 fájlrendszeren szerkessze az <span class="file filename">/etc/fstab</span> fájlt és vegye fel az <span class="em emphasis">acl</span> beállítást:</p>
+<div class="code"><pre class="contents ">UUID=66bcdd2e-8861-4fb0-b7e4-e61c569fe17d /srv  ext3    noatime,relatime,acl 0       1
+</pre></div>
+<p class="para">Ezután csatolja újra a partíciót:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo mount -v -o remount /srv</span>
+</pre></div>
+<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents">
+          <p class="para">A fenti példa feltételezi, hogy a <span class="file filename">/srv</span> külön partíción van. Ha az <span class="file filename">/srv</span>, vagy ahol a megosztás van, a <span class="file filename">/</span> partíció része, a rendszer újraindítása szükséges.</p>
+        </div></div></div></div>
+<p class="para">A fenti Samba beállításoknak való megfeleléshez a <span class="em emphasis">sysadmin</span> csoport olvasási, írási és végrehajtási jogosultságokat kap a <span class="file filename">/srv/samba/share</span> könyvtárra, a <span class="em emphasis">qa</span> csoport olvasási és végrehajtási jogosultságokat, a fájlok pedig a <span class="em emphasis">melissa</span> nevű felhasználó tulajdonába kerülnek. Adja ki a következőket egy terminálba:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo chown -R melissa /srv/samba/share/</span>
+<span class="cmd command">sudo chgrp -R sysadmin /srv/samba/share/</span>
+<span class="cmd command">sudo setfacl -R -m g:qa:rx /srv/samba/share/</span>
+</pre></div>
+<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents">
+          <p class="para">A fenti <span class="app application">setfacl</span> parancs <span class="em emphasis">végrehajtási</span> jogosultságokat ad minden fájlra a <span class="file filename">/srv/samba/share</span> könyvtárban, amit nem biztos hogy szeretne.</p>
+        </div></div></div></div>
+<p class="para">Most egy windowsos kliensről nézve új fájljogosultságok megjelenését fogja észlelni. A POSIX ACL-ekkel kapcsolatban lásd az <span class="app application">acl</span> és <span class="app application">setfacl</span> kézikönyvoldalakat.</p>
+</div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect2 sect" id="samba-apparmor"><div class="inner">
+<div class="hgroup"><h2 class="title">Samba AppArmor profil</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Az Ubuntu tartalmazza az <span class="app application">AppArmor</span> biztonsági modult, amely kötelező hozzáférés-vezérlést biztosít. A Samba alapértelmezett AppArmor profilját a beállításaihoz kell igazítania. Az AppArmor használatával kapcsolatos további részletekért lásd a <a class="xref" href="apparmor.html" title="AppArmor">AppArmor</a> részt.</p>
+<p class="para">Az <span class="app application">apparmor-profiles</span> csomag részeként elérhetők alapértelmezett AppArmor profilok az <span class="file filename">/usr/sbin/smbd</span> és <span class="file filename">/usr/sbin/nmbd</span> fájlokhoz, a Samba démon binárisaihoz. A csomag telepítéséhez adja ki a következő parancsot:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt-get install apparmor-profiles apparmor-utils</span>
+</pre></div>
+<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents">
+        <p class="para">Ez a csomag számos más binárishoz is tartalmaz profilokat.</p>
+      </div></div></div></div>
+<p class="para">Alapértelmezésben az <span class="app application">smbd</span> és <span class="app application">nmbd</span> profiljai a <span class="em emphasis">complain</span> módban vannak, lehetővé téve a Samba működését a profil módosítása nélkül, csupán a hibák naplózása mellett. Az <span class="app application">smbd</span> profil <span class="em emphasis">enforce</span> módba váltásához, és a Samba elvárt módon való működéséhez a profilt úgy kell beállítani, hogy tükrözze a megosztott könyvtárakat.</p>
+<p class="para">Szerkessze az <span class="file filename">/etc/apparmor.d/usr.sbin.smbd</span> fájl és vegye fel a <span class="em emphasis">[share]</span> megosztásra vonatkozó információkat a fájlkiszolgálós példából:</p>
+<div class="code"><pre class="contents ">  /srv/samba/share/ r,
+  /srv/samba/share/** rwkix,
+</pre></div>
+<p class="para">Most állítsa a profilt <span class="em emphasis">enforce</span> módba és töltse újra:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo aa-enforce /usr/sbin/smbd</span>
+<span class="cmd command">cat /etc/apparmor.d/usr.sbin.smbd | sudo apparmor_parser -r</span>
+</pre></div>
+<p class="para">Ezután a megszokott módon képes lesz a megosztott könyvtárbeli fájlok olvasására, írására és végrehajtására, az <span class="app application">smbd</span> bináris pedig csak a beállított fájlokhoz és könyvtárakhoz férhet hozzá. Ne felejtsen el minden olyan könyvtárhoz felvenni egy bejegyzést, amelynek megosztására a Sambát beállította. A hibák a <span class="file filename">/var/log/syslog</span> fájlba kerülnek naplózásra.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="samba-security-resources"><div class="inner">
+<div class="hgroup"><h2 class="title">Információforrások</h2></div>
+<div class="region"><div class="contents"><div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+          <p class="para">Összetettebb Samba beállításokért lásd a <a href="http://samba.org/samba/docs/man/Samba-HOWTO-Collection/" class="ulink" title="http://samba.org/samba/docs/man/Samba-HOWTO-Collection/">Samba HOWTO Collection</a> oldalt</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">A kézikönyv <a href="http://www.amazon.com/exec/obidos/tg/detail/-/0131882228" class="ulink" title="http://www.amazon.com/exec/obidos/tg/detail/-/0131882228">nyomtatott formában</a> is elérhető.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">Az O'Reilly <a href="http://www.oreilly.com/catalog/9780596007690/" class="ulink" title="http://www.oreilly.com/catalog/9780596007690/">Using Samba</a> könyve szintén jó referencia.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">A Samba HOWTO Collection <a href="http://samba.org/samba/docs/man/Samba-HOWTO-Collection/securing-samba.html" class="ulink" title="http://samba.org/samba/docs/man/Samba-HOWTO-Collection/securing-samba.html">18. fejezete</a> a biztonságról szól.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">A Sambával és az ACL-ekkel kapcsolatos további információkért lásd a <a href="http://samba.org/samba/docs/man/Samba-HOWTO-Collection/AccessControls.html#id397568" class="ulink" title="http://samba.org/samba/docs/man/Samba-HOWTO-Collection/AccessControls.html#id397568">Samba ACL-ek oldalát</a>.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">Az <a href="https://help.ubuntu.com/community/Samba" class="ulink" title="https://help.ubuntu.com/community/Samba">Ubuntu wiki Samba</a> oldalát.</p>
+        </li>
+</ul></div></div></div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="samba-printserver.html" title="Nyomtatókiszolgáló">Előző</a><a class="nextlinks-next" href="samba-dc.html" title="As a Domain Controller">Következő</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p></div>
+</div>
+</body>
+</html>

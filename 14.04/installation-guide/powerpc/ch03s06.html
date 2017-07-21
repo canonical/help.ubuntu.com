@@ -1,0 +1,128 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>3.6. Pre-Installation Hardware and Operating System Setup</title>
+<link rel="stylesheet" type="text/css" href="install.css">
+<meta name="generator" content="DocBook XSL Stylesheets V1.76.1">
+<link rel="home" href="index.html" title="Ubuntu Installation Guide">
+<link rel="up" href="ch03.html" title="Chapter 3. Before Installing Ubuntu">
+<link rel="prev" href="ch03s05.html" title="3.5. Pre-Partitioning for Multi-Boot Systems">
+<link rel="next" href="ch04.html" title="Chapter 4. Obtaining System Installation Media">
+</head>
+<body bgcolor="white" text="black" link="#0000FF" vlink="#840084" alink="#0000FF">
+<div class="navheader">
+<table width="100%" summary="Navigation header">
+<tr><th colspan="3" align="center">3.6. Pre-Installation Hardware and Operating System Setup</th></tr>
+<tr>
+<td width="20%" align="left">
+<a accesskey="p" href="ch03s05.html">Prev</a> </td>
+<th width="60%" align="center">Chapter 3. Before Installing Ubuntu</th>
+<td width="20%" align="right"> <a accesskey="n" href="ch04.html">Next</a>
+</td>
+</tr>
+</table>
+<hr>
+</div>
+<div class="sect1" title="3.6. Pre-Installation Hardware and Operating System Setup">
+<div class="titlepage"><div><div><h2 class="title" style="clear: both">
+<a name="pre-install-bios-setup"></a>3.6. Pre-Installation Hardware and Operating System Setup</h2></div></div></div>
+<p>
+
+This section will walk you through pre-installation hardware setup, if
+any, that you will need to do prior to installing Ubuntu.  Generally,
+this involves checking and possibly changing firmware settings for
+your system.  The <span class="quote">“<span class="quote">firmware</span>”</span> is the core software used by the
+hardware; it is most critically invoked during the bootstrap process
+(after power-up). Known hardware issues affecting the reliability of
+Ubuntu on your system are also highlighted.
+
+</p>
+<div class="sect2" title="3.6.1. Invoking OpenFirmware">
+<div class="titlepage"><div><div><h3 class="title">
+<a name="invoking-openfirmware"></a>3.6.1. Invoking OpenFirmware</h3></div></div></div>
+<p>
+
+There is normally no need to set up the BIOS (called OpenFirmware) on
+<span>PowerPC</span> systems. PReP and CHRP are equipped with OpenFirmware,
+but unfortunately, the means you use to invoke it vary from
+manufacturer to manufacturer.  You'll have to consult the hardware
+documentation which came with your machine.
+
+</p>
+<p>
+
+On <span>PowerPC</span> Macintoshes, you invoke OpenFirmware with
+<span class="keycap"><strong>Command (cloverleaf/Apple)</strong></span>+<span class="keycap"><strong>Option</strong></span>+<span class="keycap"><strong>o</strong></span>+<span class="keycap"><strong>f</strong></span>
+while booting.  Generally it will check for these keystrokes after the
+chime, but the exact timing varies from model to model.  See
+<a class="ulink" href="http://www.netbsd.org/Ports/macppc/faq.html" target="_top">http://www.netbsd.org/Ports/macppc/faq.html</a> for more hints.
+
+</p>
+<p>
+
+The OpenFirmware prompt looks like this:
+
+</p>
+<div class="informalexample"><pre class="screen">
+ok
+0 &gt;
+</pre></div>
+<p>
+
+Note that on older model <span>PowerPC</span> Macs, the default and sometimes
+hardwired I/O for OpenFirmware user interaction is through the serial
+(modem) port. If you invoke OpenFirmware on one of these machines, you
+will just see a black screen. In that case, a terminal program running
+on another computer, connected to the modem port, is needed to
+interact with OpenFirmware.
+
+</p>
+<p>
+
+The OpenFirmware on OldWorld Beige G3 machines, OF versions 2.0f1
+and 2.4, is broken. These machines will most likely not be able to
+boot from the hard drive unless the firmware is patched. A firmware
+patch is included in the <span class="application">System Disk 2.3.1</span>
+utility, available from Apple at
+<a class="ulink" href="ftp://ftp.apple.com/developer/macosxserver/utilities/SystemDisk2.3.1.smi.bin" target="_top">ftp://ftp.apple.com/developer/macosxserver/utilities/SystemDisk2.3.1.smi.bin</a>.
+After unpacking the utility in MacOS, and launching it, select the
+<span class="guibutton">Save</span> button to have the firmware patches
+installed to nvram.
+
+</p>
+</div>
+<div class="sect2" title="3.6.2. Hardware Issues to Watch Out For">
+<div class="titlepage"><div><div><h3 class="title">
+<a name="hardware-issues"></a>3.6.2. Hardware Issues to Watch Out For</h3></div></div></div>
+<p title="Display-visibility on OldWorld Powermacs"><b>Display-visibility on OldWorld Powermacs. </b>
+Some OldWorld Powermacs, most notably those with the <span class="quote">“<span class="quote">control</span>”</span>
+display driver, may not reliably produce a colormap under Linux when the
+display is configured for more than 256 colors. If you are experiencing such
+issues with your display after rebooting (you can sometimes see data on
+the monitor, but on other occasions cannot see anything) or, if the screen
+turns black after booting the installer instead of showing you the user
+interface, try changing your display settings under MacOS to use 256
+colors instead of <span class="quote">“<span class="quote">thousands</span>”</span> or <span class="quote">“<span class="quote">millions</span>”</span>.
+
+</p>
+</div>
+</div>
+<div class="navfooter">
+<hr>
+<table width="100%" summary="Navigation footer">
+<tr>
+<td width="40%" align="left">
+<a accesskey="p" href="ch03s05.html">Prev</a> </td>
+<td width="20%" align="center"><a accesskey="u" href="ch03.html">Up</a></td>
+<td width="40%" align="right"> <a accesskey="n" href="ch04.html">Next</a>
+</td>
+</tr>
+<tr>
+<td width="40%" align="left" valign="top">3.5. Pre-Partitioning for Multi-Boot Systems </td>
+<td width="20%" align="center"><a accesskey="h" href="index.html">Home</a></td>
+<td width="40%" align="right" valign="top"> Chapter 4. Obtaining System Installation Media</td>
+</tr>
+</table>
+</div>
+</body>
+</html>

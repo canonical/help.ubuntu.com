@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang=it>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Gestione utenti</title>
+<link rel="stylesheet" type="text/css" href="it.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../16.04" class="trail">Ubuntu 16.04</a> » <a class="trail" href="index.html" title="Guida a Ubuntu Server">Guida a Ubuntu Server</a> » <a class="trail" href="security.html" title="Sicurezza">Sicurezza</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="security.html" title="Sicurezza">Indietro</a><a class="nextlinks-next" href="console-security.html" title="Sicurezza della console">Avanti</a>
+</div>
+<div class="hgroup"><h1 class="title">Gestione utenti</h1></div>
+<div class="region">
+<div class="contents"><p class="para">L'amministrazione degli utenti è una parte critica per il mantenimento di un sistema sicuro. Utenti poco esperti con privilegi di amministrazione spesso sono la causa della compromissione di sistemi. Pertanto, è importante capire come proteggere il proprio server tramite delle semplici ed efficaci tecniche di gestione degli account utente.</p></div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="user-management.html#where-is-root" title="Dove è l'utente root?">Dove è l'utente root?</a></li>
+<li class="links"><a class="xref" href="user-management.html#adding-deleting-users" title="Aggiungere e rimuovere utenti">Aggiungere e rimuovere utenti</a></li>
+<li class="links"><a class="xref" href="user-management.html#user-profile-security" title="Sicurezza dei profili utente">Sicurezza dei profili utente</a></li>
+<li class="links"><a class="xref" href="user-management.html#password-policy" title="Politica delle password">Politica delle password</a></li>
+<li class="links"><a class="xref" href="user-management.html#other-security-considerations" title="Ulteriori considerazioni sulla sicurezza">Ulteriori considerazioni sulla sicurezza</a></li>
+</ul></div>
+<div class="sect2 sect" id="where-is-root"><div class="inner">
+<div class="hgroup"><h2 class="title">Dove è l'utente root?</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Gli sviluppatori di Ubuntu hanno deciso di disattivare in modo predefinito l'account di amministrazione (root) in tutte le installazioni di Ubuntu. Questo non significa che l'account root sia stato eliminato o che non sia più accessibile, è stata impostata una password che non corrisponde ad alcun possibile valore codificato, pertanto, l'accesso come root non è direttamente possibile.</p>
+<p class="para">Gli utenti sono incoraggiati a utilizzare lo strumento <span class="app application">sudo</span> per svolgere i compiti di amministrazione di sistema. Lo strumento <span class="app application">sudo</span> permette a un utente autorizzato di elevare temporaneamente i propri privilegi usando la propria password, invece di dover conoscere direttamente la password di root. Questo semplice, ma efficace, metodo cerca di fornire responsabilità per tutte le azioni degli utenti e dà all'amministratore un controllo granulare sulle azioni che un utente può eseguire con tali privilegi.</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+		<p class="para">Se per qualche ragione è necessario abilitare l'account root, basta assegnargli semplicemente una password:</p>
+		<div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents">
+		<p class="para">Non sono supportate configurazioni con password di amministratore.</p>
+		</div></div></div></div>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo passwd</span>
+</pre></div>
+		<p class="para">Il programma «sudo» chiederà di inserire la propria password e successivamente di inserirne una nuova per l'account root:</p>
+<div class="screen"><pre class="contents "><span class="output computeroutput">[sudo] password for NOME_UTENTE:</span> <span class="input userinput">(inserire la propria password)</span>
+<span class="output computeroutput">Inserire nuova password UNIX:</span> <span class="input userinput">(inserire una nuova password per root)</span>
+<span class="output computeroutput">Reinserire la nuova password UNIX:</span> <span class="input userinput">(reinserire la nuova password per root)</span>
+<span class="output computeroutput">passwd: password updated successfully</span>
+</pre></div>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">Per disabilitare la password dell'account root, utilizzare la seguente sintassi per passwd:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo passwd -l root</span>
+</pre></div>
+		<p class="para">Tuttavia, per disabilitare lo stesso account root, usare il seguente comando:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">usermod --expiredate 1</span>
+</pre></div>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">
+		You should read more on <span class="app application">Sudo</span> by reading the man page:
+		</p>
+<div class="screen"><pre class="contents "><span class="cmd command">man sudo</span>
+</pre></div>
+		</li>
+</ul></div>
+<p class="para">In modo predefinito, l'utente iniziale creato dall'installazione di Ubuntu è un membro del gruppo «<span class="em emphasis">sudo</span>» ed è stato aggiunto al file <span class="file filename">/etc/sudoers</span> come utente autorizzato all'utilizzo di sudo. Per autorizzare altri utenti ai pieni poteri amministrativi di root attraverso l'uso del comando <span class="app application">sudo</span>, è sufficiente aggiungerli al gruppo «<span class="em emphasis">sudo</span>».</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="adding-deleting-users"><div class="inner">
+<div class="hgroup"><h2 class="title">Aggiungere e rimuovere utenti</h2></div>
+<div class="region"><div class="contents">
+<p class="para">
+	The process for managing local users and groups is straightforward and differs very little from most other GNU/Linux operating systems. Ubuntu and other Debian based distributions encourage the use of the "adduser" package for account management.
+	</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+		<p class="para">
+		To add a user account, use the following syntax, and follow the prompts to give the account a password and identifiable characteristics, such as a full name, phone number, etc.
+		</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo adduser NOME_UTENTE</span>
+</pre></div>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">Per eliminare un utente e il suo gruppo principale, digitare:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo deluser NOME_UTENTE</span>
+</pre></div>
+		<p class="para">Quando si elimina un account utente non viene rimossa la sua cartella home. È decisione dell'amministratore se rimuoverla o no in base alle proprie scelte.</p>
+		<p class="para">Ricordare che, se non sono state prese le necessarie precauzioni, ogni nuovo utente aggiunto successivamente con gli stessi UID/GID del precedente proprietario della cartella, avrà accesso a tale cartella.</p>
+		<p class="para">È possibile modificare questi valori UID/GID con qualcosa di più appropriato, come per esempio l'account root, e spostare la cartella per evitare futuri conflitti:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo chown -R root:root /home/NOME_UTENTE/</span>
+<span class="cmd command">sudo mkdir /home/archived_users/</span>
+<span class="cmd command">sudo mv /home/NOME_UTENTE /home/archived_users/</span>
+</pre></div>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">Per bloccare o sbloccare temporaneamente l'account di un utente, utilizzare, rispettivamente, i seguenti comandi:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo passwd -l NOME_UTENTE</span>
+<span class="cmd command">sudo passwd -u NOME_UTENTE</span>
+</pre></div>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">Per aggiungere o rimuovere un gruppo personalizzato, utilizzare, rispettivamente, i seguenti comandi:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo addgroup NOME_GRUPPO</span>
+<span class="cmd command">sudo delgroup NOME_GRUPPO</span>
+</pre></div>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">Per aggiungere un utente a un gruppo, digitare:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo adduser NOME_UTENTE NOME_GRUPPO</span>
+</pre></div>
+		</li>
+</ul></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="user-profile-security"><div class="inner">
+<div class="hgroup"><h2 class="title">Sicurezza dei profili utente</h2></div>
+<div class="region"><div class="contents">
+<p class="para">
+	When a new user is created, the adduser utility creates a brand new home directory named <span class="file filename">/home/username</span>. The default profile is modeled after the contents found in the directory of <span class="file filename">/etc/skel</span>, which includes all profile basics.  
+	</p>
+<p class="para">Se il proprio server ospiterà più utenti, è necessario prestare la massima attenzione alle autorizzazioni delle home degli utenti, al fine di garantirne la riservatezza. In modo predefinito, in Ubuntu, le home degli utenti sono create con permessi di lettura e di esecuzione per tutti gli utenti. Questo significa che tutti gli utenti possono visualizzare e accedere al contenuto delle home degli altri utenti, cosa che potrebbe non essere soddisfacente per il proprio ambiente.</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+		<p class="para">
+		To verify your current user home directory permissions, use the following syntax:
+		</p>
+<div class="screen"><pre class="contents "><span class="cmd command">ls -ld /home/NOME_UTENTE</span>
+</pre></div>
+		<p class="para">The following output shows that the directory <span class="file filename">/home/username</span> has world-readable permissions:
+		</p>
+<div class="screen"><pre class="contents "><span class="output computeroutput">drwxr-xr-x 2 nomeutente nomeutente 4096 2007-10-02 20:03 nomeutente</span>
+</pre></div>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">
+		You can remove the world readable-permissions using the following syntax:
+		</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo chmod 0750 /home/NOME_UTENTE</span>
+</pre></div>
+		<div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents">
+		<p class="para">Alcuni amministratori utilizzano anche l'opzione per la modifica ricorsiva (-R) di tutte le sotto-cartelle e file della home, ma questo non è necessario e potrebbe inoltre causare degli effetti indesiderati. Modificare i permessi alla cartella principale è più che sufficiente per prevenire degli accessi non autorizzati.</p>
+		</div></div></div></div>
+		<p class="para">Un modo più efficiente potrebbe essere quello di modificare direttamente le impostazioni predefinite dell'applicazione <span class="app application">adduser</span> sui permessi da assegnare alle home degli utenti appena creati. È sufficiente modificare la variabile <span class="code varname">DIR_MODE</span>, nel file <span class="file filename">/etc/adduser.conf</span>, secondo le proprie esigenze.</p>
+<div class="code"><pre class="contents ">DIR_MODE=0750
+</pre></div>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">Dopo aver corretto opportunamente i permessi di accesso alle directory home come descritto precedentemente, verificare il risultato con il seguente comando:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">ls -ld /home/NOME_UTENTE</span>
+</pre></div>
+		<p class="para">The results below show that world-readable permissions have been removed:
+		</p>
+<div class="screen"><pre class="contents "><span class="output computeroutput">drwxr-x--- 2 nomeutente nomeutente 4096 2007-10-02 20:03 nomeutente</span>
+</pre></div>
+		</li>
+</ul></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="password-policy"><div class="inner">
+<div class="hgroup"><h2 class="title">Politica delle password</h2></div>
+<div class="region">
+<div class="contents"><p class="para">Una severa politica delle password è uno dei più importanti aspetti della sicurezza di un sistema. Le più frequenti violazioni di un sistema avvengono tramite attacchi di forza bruta con degli elenchi di parole che statisticamente possono comprende delle parole chiavi utilizzate come password. Se si vuole di offrire un qualsiasi tipo di accesso remoto utilizzando la propria password locale, assicurarsi che la complessità della stessa superi dei limiti minimi di adeguatezza, di impostare delle password con durate massime e controllare frequentemente i propri sistemi di autenticazione.</p></div>
+<div class="sect3 sect" id="minimum-password-length"><div class="inner">
+<div class="hgroup"><h3 class="title">Lungezza minima di una password</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Ubuntu richiede, in modo predefinito, una lunghezza minima per le password pari a 6 caratteri, oltre ad alcuni basilari controlli di entropia. Questi valori sono impostati nel file <span class="file filename">/etc/pam.d/common-password</span>, alla riga:</p>
+<div class="code"><pre class="contents ">password [success=1 default=ignore] pam_unix.so obscure sha512
+</pre></div>
+<p class="para">Per modificare la lunghezza minima delle password impostandola a 8 caratteri, modificare la variabile appropriata con «min=8». Ecco un esempio della modifica:</p>
+<div class="code"><pre class="contents ">password [success=1 default=ignore] pam_unix.so obscure sha512 minlen=8
+</pre></div>
+<div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents">
+                <p class="para">I controlli basilari di entropia e le regole sulla lunghezza minima non si applicano all'amministratore mentre utilizza comandi di livello sudo per impostare un nuovo utente.</p>
+                </div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="password-expiration"><div class="inner">
+<div class="hgroup"><h3 class="title">Scadenza delle password</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Quando vengono creati dei nuovi utenti è possibile impostare una durata minima e massima per le loro password, obbligando gli stessi a modificarla alla scadenza.</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+		<p class="para">Per visualizzare facilmente lo stato attuale di un account utente, utilizzare il seguente comando:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo chage -l NOME_UTENTE</span>
+</pre></div>
+		<p class="para">L'output seguente mostra informazioni interessanti sull'account dell'utente, in particolare che non ci sono politiche applicate:</p>
+<div class="screen"><pre class="contents "><span class="output computeroutput">Last password change                                    : Jan 20, 2015
+Password expires                                        : never
+Password inactive                                       : never
+Account expires                                         : never
+Minimum number of days between password change          : 0
+Maximum number of days between password change          : 99999
+Number of days of warning before password expires       : 7</span>
+</pre></div>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">Per impostare uno qualsiasi di questi campi, utilizzare il seguente comando e seguire le istruzioni:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo chage NOME_UTENTE</span>
+</pre></div>
+		<p class="para">
+		The following is also an example of how you can manually change the explicit expiration date (-E) to 01/31/2015, minimum password age (-m) of 5 days, maximum password  age (-M) of 90 days, inactivity period (-I) of 5 days after password expiration, and a warning time period (-W) of 14 days before password expiration:
+		</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo chage -E 01/31/2015 -m 5 -M 90 -I 30 -W 14 username</span>
+</pre></div>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">Per verificare le modifiche, utilizzare lo stesso comando di prima:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo chage -l NOME_UTENTE</span>
+</pre></div>
+		<p class="para">Il seguente output mostra i cambiamenti effettuati sull'account:</p>
+<div class="screen"><pre class="contents "><span class="output computeroutput">Last password change                                    : Jan 20, 2015
+Password expires                                        : Apr 19, 2015
+Password inactive                                       : May 19, 2015
+Account expires                                         : Jan 31, 2015
+Minimum number of days between password change          : 5
+Maximum number of days between password change          : 90
+Number of days of warning before password expires       : 14</span>
+</pre></div>
+		</li>
+</ul></div>
+</div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect2 sect" id="other-security-considerations"><div class="inner">
+<div class="hgroup"><h2 class="title">Ulteriori considerazioni sulla sicurezza</h2></div>
+<div class="region">
+<div class="contents"><p class="para">Molte applicazioni usano meccanismi di autenticazione alternativi che possono essere facilmente trascurati anche da esperti amministratori di sistema. Pertanto, è importante comprendere e controllare come avviene l'autenticazione degli utenti e come accedono ai servizi e alle applicazioni sul proprio server.</p></div>
+<div class="sect3 sect" id="ssh-access-by-disabled-users"><div class="inner">
+<div class="hgroup"><h3 class="title">Accesso SSH per gli utenti disabilitati</h3></div>
+<div class="region"><div class="contents">
+<p class="para">
+	Simply disabling/locking a user account will not prevent a user from logging into your server remotely if they have previously set up RSA public key authentication. They will still be able to gain shell access to the server, without the need for any password. Remember to check the users home directory for files that will allow for this type of authenticated SSH access, e.g. <span class="file filename">/home/username/.ssh/authorized_keys</span>.
+	</p>
+<p class="para">Eliminare o rinominare la directory <span class="file filename">.ssh/</span> nella home degli utenti per prevenire future autenticazioni SSH.</p>
+<p class="para">Assicurarsi di controllare qualsiasi connessione SSH stabilita dagli utenti disabilitati, dato che potrebbero esserci connessioni aperti in entrata o in uscita. Terminare tutte quelle che vengono trovate.</p>
+<div class="screen"><pre class="contents "><span class="cmd command">who | grep username</span> (per ottenere il terminale pts/#)
+<span class="cmd command">sudo pkill -f pts/#</span>
+</pre></div>
+<p class="para">Limitare l'accesso SSH solo agli utenti che ne hanno il diritto. Per esempio, è possibile creare un gruppo chiamato «sshlogin» e aggiungere il nome del gruppo alla voce <span class="code varname">AllowGroupsvarname&gt; nel file /etc/ssh/sshd_config.</span></p>
+<div class="code"><pre class="contents ">AllowGroups sshlogin
+</pre></div>
+<p class="para">Dopo aver aggiunto gli utenti con diritto di accesso SSH al gruppo «sshlogin», riavviare il server SSH.</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo adduser NOME_UTENTE sshlogin</span>
+<span class="cmd command">sudo systemctl restart sshd.service</span>
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="external-db-auth"><div class="inner">
+<div class="hgroup"><h3 class="title">Autenticazione utenti su database esterno</h3></div>
+<div class="region"><div class="contents"><p class="para">
+	Most enterprise networks require centralized authentication and access controls for all system resources. If you have configured your server to authenticate users against external databases, be sure to disable the user accounts both externally and locally. This way you ensure that local fallback authentication is not possible.
+	</p></div></div>
+</div></div>
+</div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="security.html" title="Sicurezza">Indietro</a><a class="nextlinks-next" href="console-security.html" title="Sicurezza della console">Avanti</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p></div>
+</div>
+</body>
+</html>

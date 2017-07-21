@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=de>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Wie funktionieren Systemverwaltungsrechte?</title>
+<link rel="stylesheet" type="text/css" href="de.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu-Leitfaden</a> » <a class="trail" href="prefs.html" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="user-accounts.html" title="Benutzer">Benutzer</a> › <a class="trail" href="user-accounts.html#privileges" title="Benutzerrechte">Rechte</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Wie funktionieren Systemverwaltungsrechte?</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Genauso wie die Dateien, die <span class="em">Sie</span> erzeugen, hat der Rechner eine ganze Reihe von Dateien, die das System benötigt, um korrekt arbeiten zu können. Wenn diese wichtigen <span class="em">Systemdateien</span> mit falschen Inhalten gefüllt werden, können diverse Vorgänge gestört werden, daher sind sie in der Ausgangseinstellung gegen Veränderungen geschützt. Des Weiteren gibt es einige Anwendungen, welche die Systemdateien verändern können und die daher ebenfalls geschützt sind.</p>
+<p class="p">Sie werden in der Weise geschützt, dass nur Benutzer mit <span class="em">Systemverwaltungsrechten</span> diese Dateien ändern oder diese Anwendungen benutzen können. Im alltäglichen Gebrauch werden Sie keine Systemdateien ändern oder diese Anwendungen benutzen müssen, weswegen Sie per Voreinstellung keine Systemverwaltungsrechte haben.</p>
+<p class="p">Manchmal müssen Sie aber solche Anwendungen benutzen und benötigen dafür kurzzeitig die Berechtigungen, um Änderungen an geschützten Daten bewirken zu können. Wenn eine solche Anwendung Systemverwalterrechte benötigt, wird Ihr Passwort abgefragt. Wenn Sie z.B. neue Anwendungen installieren möchten, fragt die Paketverwaltung nach dem Systemverwaltungspasswort und kann damit die gewünschten Änderungen durchführen. Sobald die Anwendung beendet ist, werden die Zugriffsberechtigungen wieder auf den Standard zurückgesetzt.</p>
+<p class="p">Systemverwaltungsrechte werden Ihrem Benutzerkonto zugeordnet. Einige Benutzer können Systemverwaltungsrechte erhalten, andere nicht. Ohne Systemverwaltungsrechte können Sie keine Anwendungen installieren. Einige Benutzerkonten (zum Beispiel das Konto »root«) verfügen dauerhaft über Systemverwaltungsrechte. Sie sollten Systemverwaltungsrechte nicht generell nutzen, da Sie versehentlich etwas ändern könnten, das Sie nicht ändern wollten (wie das Entfernen einer wichtigen Systemdatei).</p>
+<p class="p">Zusammenfassend gesagt, erlauben Ihnen die Systemverwaltungsrechte Änderungen an essenziellen Systemteilen, wenn diese benötigt werden, schützen aber davor, dies unbeabsichtigt zu tun.</p>
+<div class="note" title="Anmerkung"><div class="inner">
+<div class="title title-note"><h2><span class="title">Was bedeutet »super user«?</span></h2></div>
+<div class="region"><div class="contents"><p class="p">Ein Benutzer mit Systemverwaltungsrechten wird manchmal <span class="em">super user</span> – also »Superbenutzer« – genannt, einfach weil dieser Benutzer mehr Rechte hat als normale Benutzer. Sie werden vielleicht einmal mitbekommen, dass Dinge wie <span class="cmd">su</span> und <span class="cmd">sudo</span> erörtert werden; das sind Anwendungen zum vorübergehenden Verleihen von »super user«-, also Systemverwaltungsrechten.</p></div></div>
+</div></div>
+</div>
+<div id="advantages" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Warum sind Systemverwaltungsrechte sinnvoll?</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Die Erfordernis, dass Benutzer Systemverwaltungsrechte vor dem Ändern wichtiger Systemeinstellungen erlangen müssen, ist sinnvoll, weil es Ihr System davor schützt, absichtlich oder unabsichtlich beschädigt zu werden.</p>
+<p class="p">Wenn Sie die ganze Zeit Systemverwaltungsrechte hätten, könnten Sie unbeabsichtigt eine wichtige Datei ändern oder eine Anwendung starten, durch die versehentlich etwas Wichtiges geändert wird. Systemverwaltungsrechte nur vorübergehend und nur dann zu erhalten, wenn Sie sie brauchen, verringert das Risiko solcher Fehler.</p>
+<p class="p">Nur bestimmte vertrauenswürdige Benutzer sollten Systemverwaltungsrechte erhalten. Dadurch wird verhindert, dass andere Benutzer den Rechner durcheinander bringen können, indem Sie beispielsweise Anwendungen entfernen, die Sie benötigen, Anwendungen installieren, die Sie nicht auf Ihrem Rechner haben möchten, oder wichtige Dateien ändern. Aus Sicht der Sicherheit ist dies wichtig.</p>
+</div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html#privileges" title="Benutzerrechte">Benutzerrechte</a></li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Siehe auch</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="net-othersedit.html" title="Andere Benutzer können die Netzwerkverbindungen nicht bearbeiten">Andere Benutzer können die Netzwerkverbindungen nicht bearbeiten</a><span class="desc"> — Sie müssen <span class="gui">Für alle Benutzer verfügbar</span> in den Verbindungseinstellungen deaktivieren.</span>
+</li>
+<li class="links ">
+<a href="user-admin-change.html" title="Ändern der Inhaber von Systemverwaltungsrechten">Ändern der Inhaber von Systemverwaltungsrechten</a><span class="desc"> — Sie können ändern, welche Benutzer Änderungen am System vornehmen dürfen, indem Sie ihnen Systemverwaltungsrechte geben.</span>
+</li>
+</ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

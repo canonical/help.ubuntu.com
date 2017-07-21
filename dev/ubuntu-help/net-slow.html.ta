@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang=ta>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>இணையம் வேகம் குறைவு போலுள்ளது</title>
+<link rel="stylesheet" type="text/css" href="ta.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html" title="பிணைய சிக்கல்கள்">பிணைய சிக்கல்கள்</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">இணையம் வேகம் குறைவு போலுள்ளது</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">நீங்கள் இணையத்தைப் பயன்படுத்தும் போது, அது வேகம் குறைவாக இருப்பதாகத் தோன்றினால், அதற்கு பல காரணங்கள் இருக்கலாம்.</p>
+<p class="p">வலை உலாவியை மூடிவிட்டு திறக்கவும், இணைய இணைப்பை துண்டித்து விட்டு மீண்டும் இணைக்கவும். (இப்படிச் செய்வதால், இணைய வேகத்தைக் குறைக்கும் பல விஷயங்கள் மீட்டமைக்கப்படும்).</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list">
+<p class="p"><span class="em-bold em">பணிமிகுதியான நேரம்</span></p>
+<p class="p">இணைய வழங்குநர்கள் இணைய இணைப்பைப் பகிர்ந்து அமைத்துள்ளனர், அதனால் தான் அதை பல வீடுகளுக்குக் கொடுக்க முடிகிறது. நீங்கள் தனி இணைப்பைக் கொண்டிருந்தாலும், தனியாக தொலைபேசி அல்லது கேபிள் இணைப்பைக் கொண்டிருந்தாலும், தொலைபேசி இணைப்பகத்தில் உள்ள இணையத்தின் மற்ற மீத இணைப்பு பகிரப்பட்டிருக்கலாம். இப்படி இருந்தால் நீங்கள் பயன்படுத்தும் அதே நேரத்தில் உங்கள் விட்டுக்கு அருகில் உள்ள பல பயனர்களும் இணையத்தைப் பயன்படுத்திக் கொண்டிருக்கலாம், அப்போது உங்கள் இணைப்பு வேகம் குறையலாம். உங்கள் வீட்டு அருகாமையில் உள்ளவர்கள் இணையத்தைப் பயன்படுத்தும் நேரத்தில் (உதாரணமாக மாலை நேரம்) உங்களுக்கு இந்த வேகம் குறைவு ஏற்படலாம்.</p>
+</li>
+<li class="list">
+<p class="p"><span class="em-bold em">ஒரே சமயத்தில் பல பதிவிறக்கங்கள் செய்வது</span></p>
+<p class="p">நீங்கள் அல்லது உங்கள் இணைய இணைப்பைப் பயன்படுத்தும் பிறர் ஒரே சமயத்தில் பல கோப்புகளை பதிவிறக்கினால், அல்லது வீடியோ பார்த்தால் இணைய இணைப்பு வேகம் குறையலாம்.</p>
+</li>
+<li class="list">
+<p class="p"><span class="em-bold em">நம்பகமற்ற இணைப்பு</span></p>
+<p class="p">சில இணைய இணைப்புகள் நம்ப முடியாதவ, குறிப்பாக தற்காலிக இணைப்புகள் அல்லது அதிக பயன்பாடுள்ள பகுதிகளில் உள்ளவை. நீங்கள் பலர் வந்து போகும் காஃபி ஷாப்பிலோ அல்லது மாநாட்டிலோ இருந்தால் உங்கள் இணைப்பு அதிக பணிமிகுதியாக அல்லது நம்ப முடியாததாக இருக்கலாம்.</p>
+</li>
+<li class="list">
+<p class="p"><span class="em-bold em">வயர்லெஸ் இணைப்பு சிக்னல் குறைவு</span></p>
+<p class="p">நீங்கள் வயர்லெஸ் இணைப்பை (wifi) பயன்படுத்தினால், சிக்னல் நன்றாக உள்ளதா என அறிய மேல் பட்டியில் உள்ள பிணைய சின்னத்தைப் பார்க்கவும். சிக்னல் சரியாக இல்லாவிட்டால் இணையம் வேகம் குறைவாக இருக்கலாம்.</p>
+</li>
+<li class="list">
+<p class="p"><span class="em-bold em">வேகம் குறைவான மொபைல் இணைய இணைப்பைப் பயன்படுத்துதல்</span></p>
+<p class="p">உங்களிடம் இருப்பது மொபைல் இணைய இணைப்பு எனில், அது வேகம் குறைவாக இருந்தால் மொபைல் சிக்னல் சரியாக இடத்தில் நீங்கள் இருக்கலாம். இப்படி நடந்தால், இணைப்பானது 3G அல்லது பிற நம்பகமான இணைப்பு போன்ற "மொபைல் பிராட் பேன்ட்" இணைப்பிலிருந்து GPRS போன்ற வேகம் குறைவான இணைப்புக்கு தானாக மாறும்.</p>
+</li>
+<li class="list">
+<p class="p"><span class="em-bold em">வலை உலாவியில் சிக்கல் இருக்கலாம்</span></p>
+<p class="p">சில சமயம் வலை உலாவியில் ஏற்படும் சிக்கல் அவற்றின் வேகத்தைக் குறைக்கலாம். இதற்கு பல காரணங்கள் இருக்கலாம். உதாரணம் - நீங்கள் உலாவியால் ஏற்ற முடியாத வலைப் பக்கத்திற்கு சென்றிருக்கலாம், அல்லது உலாவி நீண்ட நேரம் திறந்து வைத்திருக்கலாம். உலாவியின் எல்லா சாளரங்களையும் மூடி மீண்டும் உலாவியை திறந்து ஏதேனும் மாற்றம் உள்ளதா எனப் பார்க்கவும்.</p>
+</li>
+</ul></div></div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-problem.html" title="பிணைய சிக்கல்கள்">பிணைய சிக்கல்கள்</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">வயர்லெஸ் இணைப்புகளை சிக்கல் தீர்த்தல்</a></span>, <span class="link"><a href="net-wireless-find.html" title="பட்டியலில் என் வயர்லெஸ் பிணையத்தைப் பார்க்க முடியவில்லை">உங்கள் wifi பிணையத்தைக் கண்டறிதல்</a></span>…</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

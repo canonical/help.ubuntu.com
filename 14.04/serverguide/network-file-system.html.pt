@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang=pt>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Sistema de Ficheiros de Rede - Network File System (NFS)</title>
+<link rel="stylesheet" type="text/css" href="pt.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Guia do Servidor Ubuntu">Guia do Servidor Ubuntu</a> » <a class="trail" href="file-servers.html" title="File Servers">File Servers</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="ftp-server.html" title="Servidor FTP">Anterior</a><a class="nextlinks-next" href="iscsi-initiator.html" title="iSCSI Initiator">Seguinte</a>
+</div>
+<div class="hgroup"><h1 class="title">Sistema de Ficheiros de Rede - Network File System (NFS)</h1></div>
+<div class="region">
+<div class="contents">
+<p class="para">O NFS permite a um sistema partilhar directórios e ficheiros com outras pessoas através de uma rede. Utilizando o NFS, utilizadores e programas podem aceder  a ficheiros num sistema remoto quase como se fossem ficheiros locais.</p>
+<p class="para">Alguns dos benefícios mais notáveis que o NFS providencia são:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+      <p class="para">Estações de trabalho locais utilizam menos espaço em disco porque os dados frequentemente utilizados podem ser guardados num máquina única e permanecer, mesmo assim, acessíveis a outros através da rede.</p>
+          </li>
+<li class="list itemizedlist">
+      <p class="para">Não existe necessidade de os utilizadores terem directórios pessoais em cada máquina da rede. Os directórios pessoais podem ser configurados no servidor NFS e disponibilizados através da rede.</p>
+          </li>
+<li class="list itemizedlist">
+
+      <p class="para">Dispositivos de armazenamento como as disquetes, unidades de CDROM e unidades de memória USB podem ser utilizados por outras máquinas na rede. Isto pode reduzir o número de dispositivos deste tipo dentro da rede.</p>
+          </li>
+</ul></div>
+</div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="network-file-system.html#nfs-installation" title="Instalação">Instalação</a></li>
+<li class="links"><a class="xref" href="network-file-system.html#nfs-configuration" title="Configuração">Configuração</a></li>
+<li class="links"><a class="xref" href="network-file-system.html#nfs-client-configuration" title="Configuração do Cliente NFS">Configuração do Cliente NFS</a></li>
+<li class="links"><a class="xref" href="network-file-system.html#nfs-references" title="Referências">Referências</a></li>
+</ul></div>
+<div class="sect2 sect" id="nfs-installation"><div class="inner">
+<div class="hgroup"><h2 class="title">Instalação</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Num terminal insira o seguinte comando para instalar o servidor NFS:</p>
+<p class="para">
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt-get install nfs-kernel-server</span>
+</pre></div>
+          </p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="nfs-configuration"><div class="inner">
+<div class="hgroup"><h2 class="title">Configuração</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Pode configurar os directórios a ser exportados adicionando-os ao ficheiro <span class="file filename">/etc/exports</span>. Por exemplo:</p>
+<p class="para">
+<div class="screen"><pre class="contents ">/ubuntu *(ro,sync,no_root_squash)
+/home *(rw,sync,no_root_squash)
+</pre></div>
+          </p>
+<p class="para">Pode substituir * com um dos formatos de nome de máquina. Faça a declaração do nome de máquina tão especifica quanto possível para que sistemas não desejados não possam aceder à montagem NFS.</p>
+<p class="para">Para iniciar o servidor NFS, pode correr o seguinte comando num terminal:</p>
+<p class="para">
+<div class="screen"><pre class="contents "><span class="cmd command">sudo service nfs-kernel-server start</span>
+</pre></div>
+          </p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="nfs-client-configuration"><div class="inner">
+<div class="hgroup"><h2 class="title">Configuração do Cliente NFS</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Utilize o comando <span class="app application">mount</span> para montar um directório NFS partilhado por outra máquina, digitando uma linha de comando similar à seguinte num terminal:</p>
+<p class="para">
+<div class="screen"><pre class="contents "><span class="cmd command">sudo mount example.hostname.com:/ubuntu /local/ubuntu</span>
+</pre></div>
+</p>
+<div class="note note-warning" title="Aviso"><div class="inner"><div class="region"><div class="contents">
+      <p class="para">O directório a utilizar como ponto de montagem <span class="file filename">/local/ubuntu</span> tem que existir. Não devem existir ficheiros ou sub-directórios no directório <span class="file filename">/local/ubuntu</span> .</p>
+      </div></div></div></div>
+<p class="para">Uma forma alternativa de montar uma partilha NFS de outra máquina é adicionar uma linha ao ficheiro <span class="file filename">/etc/fstab</span>. A linha deve declarar o nome do servidor NFS, o directório exportado por esse servidor, e o directório da máquina local  onde essa partilha deve ser montada.</p>
+<p class="para">A sintaxe geral da linha no ficheiro <span class="file filename">/etc/fstab</span> é a que se segue:</p>
+<div class="code"><pre class="contents ">nome_de_maquina.exemplo.com:/ubuntu /local/ubuntu nfs rsize=8192,wsize=8192,timeo=14,intr
+</pre></div>
+<p class="para">Se tiver problemas na montagem de partilhas NFS, certifique-se que o pacote <span class="app application">nfs-common</span> está instalado no seu cliente. para instalar   <span class="app application">nfs-common</span> insira os seguintes comandos no terminal:
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt-get install nfs-common</span>
+</pre></div></p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="nfs-references"><div class="inner">
+<div class="hgroup"><h2 class="title">Referências</h2></div>
+<div class="region"><div class="contents">
+<p class="para"><a href="http://nfs.sourceforge.net/" class="ulink" title="http://nfs.sourceforge.net/">Perguntas frequentes sobre NFS em Linux</a></p>
+<p class="para">
+                <a href="https://help.ubuntu.com/community/NFSv4Howto" class="ulink" title="https://help.ubuntu.com/community/NFSv4Howto">Ubuntu Wiki NFS Howto</a>
+                </p>
+</div></div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="ftp-server.html" title="Servidor FTP">Anterior</a><a class="nextlinks-next" href="iscsi-initiator.html" title="iSCSI Initiator">Seguinte</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p></div>
+</div>
+</body>
+</html>

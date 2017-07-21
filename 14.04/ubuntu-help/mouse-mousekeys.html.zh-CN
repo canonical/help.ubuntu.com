@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang=zh-CN>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>使用小键盘点击和移动鼠标指针。</title>
+<link rel="stylesheet" type="text/css" href="zh-CN.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="帮助"></span></span> Ubuntu 桌面指南</a> » <a class="trail" href="hardware.html" title="硬件和驱动程序">硬件</a> » <a class="trail" href="mouse.html" title="鼠标">鼠标</a> » </div>
+<div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="帮助"></span></span> Ubuntu 桌面指南</a> » <a class="trail" href="prefs.html" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="mouse.html" title="鼠标">鼠标</a> » </div>
+<div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="帮助"></span></span> Ubuntu 桌面指南</a> » <a class="trail" href="a11y.html" title="通用辅助功能">通用辅助功能</a> › <a class="trail" href="a11y.html#mobility" title="运动障碍">运动障碍</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">使用小键盘点击和移动鼠标指针。</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">如果难以使用鼠标或其他指针设备，则可通过键盘上的数字键盘控制鼠标指针。</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">按 <span class="key"><kbd><span class="link"><a href="windows-key.html" title="Super 键是什么？">Super</a></span></kbd></span> 键打开 <span class="gui">Dash</span> 。</p></li>
+<li class="steps"><p class="p">输入 <span class="input">Universal Access</span> ，然后按下 <span class="key"><kbd>回车</kbd></span> 打开通用访问设置。</p></li>
+<li class="steps"><p class="p">按一次 <span class="key"><kbd>Tab</kbd></span> 键选择 <span class="gui">观看</span> 标签。</p></li>
+<li class="steps"><p class="p">按一次 <span class="key"><kbd>←</kbd></span> 键选择 <span class="gui">对准和点击</span> 标签。</p></li>
+<li class="steps"><p class="p">按一次 <span class="key"><kbd>↓</kbd></span> 键选择 <span class="gui">鼠标键</span> 开关，然后按下 <span class="key"><kbd>回车</kbd></span> 开启它。</p></li>
+<li class="steps"><p class="p">确保已关闭 <span class="key"><kbd>Num Lock</kbd></span>。现在将能够通过数字键盘移动鼠标指针。</p></li>
+</ol></div></div></div>
+<div class="note note-tip" title="提示"><div class="inner"><div class="region"><div class="contents"><p class="p">通过这些方法，您可以用键盘控制鼠标指针。在<span class="gui">通用辅助功能</span>中还可以看到更多无障碍访问选项。</p></div></div></div></div>
+<p class="p">数字键盘是键盘上的一套数字按钮，通常以方格的形式排列。如果键盘上没有数字键盘(如笔记本电脑键盘)，则可能必须按住功能(<span class="key"><kbd class="key-Fn">Fn</kbd></span>)键，并且用键盘上的一些其他的键作为数字键盘。如果常在笔记本电脑上使用这种特性，则可购买外置 USB 数字键盘。</p>
+<p class="p">数字键盘上的每个数字都相应于一个方向。例如，按 <span class="key"><kbd>8</kbd></span> 会向上移动鼠标指针，按 <span class="key"><kbd>2</kbd></span> 则会向下移动鼠标指针。按 <span class="key"><kbd>5</kbd></span> 键可执行一次鼠标单击操作，也可快速按该键两次执行双击操作。大多键盘都有一个专用键，可用于执行右键单击操作；该键往往在空格键附近。但请注意，此键会对键盘焦点而不是鼠标指针所在的位置作出回应。</p>
+<p class="p">大部分键盘上都有一个可以模拟右键单击的键；一般位于空格键的右边。请注意这个键将在焦点处而不是鼠标指针所在处触发鼠标右键。您可以查阅<span class="link"><a href="a11y-right-click.html" title="模拟右键点击">模拟右键点击</a></span>获取更多模拟右键点击方式的指导。</p>
+<p class="p">如果要在启用鼠标键后用数字键盘输入数字，请打开 <span class="key"><kbd>Num Lock</kbd></span>。但打开 <span class="key"><kbd>Num Lock</kbd></span> 后不能用数字键盘控制鼠标指针。</p>
+<div class="note" title="备注"><div class="inner"><div class="region"><div class="contents"><p class="p">键盘顶部的普通数字键不能用于控制鼠标指针。只能使用数字键盘数字键。</p></div></div></div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">更多信息</span></h2></div>
+<div class="region"><ul>
+<li class="links "><a href="a11y.html#mobility" title="运动障碍">运动障碍</a></li>
+<li class="links ">
+<a href="mouse.html" title="鼠标">鼠标</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="用左手使用鼠标">左手习惯</a></span>、<span class="link"><a href="mouse-sensitivity.html" title="调整鼠标和触摸板速度">速度和灵敏度</a></span> 和 <span class="link"><a href="mouse-touchpad-click.html" title="使用触摸板进行点击、拖动或者滚屏操作">触摸板的点击和滚动</a></span>…</span>
+</li>
+</ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">亦见</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="mouse-disabletouchpad.html" title="打字时禁用触摸板">打字时禁用触摸板</a><span class="desc"> — 打字时禁用触摸板，以防意外执行单击操作。</span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

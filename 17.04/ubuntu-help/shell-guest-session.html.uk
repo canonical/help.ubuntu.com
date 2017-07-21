@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang=uk>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Запуск обмеженого гостьового сеансу</title>
+<link rel="stylesheet" type="text/css" href="uk.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Керівництво користувача Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Керівництво користувача Ubuntu</a> » <a class="trail" href="prefs.html" title="Налаштування користувача та системи">Параметри</a> » <a class="trail" href="user-accounts.html" title="Облікові записи користувачів">Користувачі</a> › <a class="trail" href="user-accounts.html#manage" title="Керування обліковими записами користувачів">Облікові записи</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Керівництво користувача Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Керівництво користувача Ubuntu</a> » <a class="trail" href="shell-overview.html" title="Стільниця, додатки та вікна">Стільниця</a> › <a class="trail" href="shell-overview.html#desktop" title="Стільниця">Стільниця</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Запуск обмеженого гостьового сеансу</span></h1></div>
+<div class="region">
+<div class="contents"></div>
+<div id="restricted" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Тимчасовий сеанс з обмеженими правами</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Інколи другу, члену родини або колезі може знадобитися скористатися вашим комп’ютером. <span class="app">Гостьовий сеанс</span> надає зручну можливість працювати на комп’ютері іншій людині, не наражаючи на ризик безпеку системи. Гостьовий сеанс можна запустити або з екрану входу у систему, або зі звичайного сеансу. Якщо ви вже увійшли у систему, клацніть найправішу піктограму <span class="gui">панелі меню</span> й виберіть <span class="gui">Гостьовий сеанс</span>. Так ви заблокуєте екран вашого сеансу й запустите гостьовий сеанс.</p>
+<p class="p">Гість не зможе переглядати домашні теки інших користувачів, й типово будь-які збережені дані або змінені налаштування будуть вилучені або скасовані після виходу з сеансу. Це означає, що кожен гостьовий сеанс запускається у «чистому» робочому оточенні, незалежному від того, що робили попередні гостьові користувачі.</p>
+</div></div>
+</div></div>
+<div id="customize" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Налаштовування</span></h2></div>
+<div class="region"><div class="contents"><p class="p">У онлайн-керівництві <span class="link"><a href="https://help.ubuntu.com/community/CustomizeGuestSession" title="https://help.ubuntu.com/community/CustomizeGuestSession"> Customize Guest Session</a></span> пояснюється, як налаштувати зовнішній вигляд та поведінку гостьового сеансу.</p></div></div>
+</div></div>
+<div id="disable" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Вимкнення функції</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Якщо Ви волієте не дозволяти гостьовий доступ до комп’ютера, то можете відімкнути <span class="app">Гостьовий сеанс</span>. Для цього натисніть <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span>, щоб відкрити вікно терміналу, й виконайте таку команду:</p>
+<p class="p"><span class="cmd">sudo sh -c 'printf "[Seat:*]\nallow-guest=false\n" &gt;/etc/lightdm/lightdm.conf.d/50-no-guest.conf'</span></p>
+<p class="p">Ця команда створює маленький конфігураційний файл. Щоб знову дозволити <span class="app">гостьовий сеанс</span>, просто вилучіть цей файл:</p>
+<p class="p"><span class="cmd">sudo rm /etc/lightdm/lightdm.conf.d/50-no-guest.conf</span></p>
+</div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Докладніше</span></h2></div>
+<div class="region"><ul>
+<li class="links "><a href="user-accounts.html#manage" title="Керування обліковими записами користувачів">Керування обліковими записами користувачів</a></li>
+<li class="links "><a href="shell-overview.html#desktop" title="Стільниця">Стільниця</a></li>
+</ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Дивіться також</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="user-add.html" title="Додавання нового облікового запису користувача">Додавання нового облікового запису користувача</a><span class="desc"> — Додайте нових користувачів, щоб інші люди могли користуватися комп’ютером.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

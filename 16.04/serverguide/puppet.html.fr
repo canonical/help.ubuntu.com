@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang=fr>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Puppet</title>
+<link rel="stylesheet" type="text/css" href="fr.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../16.04" class="trail">Ubuntu 16.04</a> » <a class="trail" href="index.html" title="Guide du serveur Ubuntu">Guide du serveur Ubuntu</a> » <a class="trail" href="remote-administration.html" title="Administration à distance">Administration à distance</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="openssh-server.html" title="Serveur OpenSSH">Précédent</a><a class="nextlinks-next" href="zentyal.html" title="Zentyal">Suivant</a>
+</div>
+<div class="hgroup"><h1 class="title">Puppet</h1></div>
+<div class="region">
+<div class="contents">
+<p class="para"><span class="app application">Puppet</span> est une structure multi-plateforme permettant aux administrateurs système d'effectuer des tâches courantes à l'aide de code. Le code peut effectuer une grande variété de tâches, de l'installation de nouveaux logiciels, à la vérification des autorisations de fichiers, ou mettre à jour des comptes utilisateur. <span class="app application">Puppet</span> n'est pas seulement génial pour l'installation initiale d'un système, mais aussi pendant tout le cycle de vie du système. Dans la plupart des circonstances <span class="app application">puppet</span> sera utilisé dans une configuration client/serveur.</p>
+<p class="para">Cette section couvrira l'installation et la configuration de  <span class="app application">Puppet</span> dans une configuration client/serveur. Cet exemple simple vous expliquera comment installer <span class="app application">Apache</span> en utilisant <span class="app application">Puppet</span>.</p>
+</div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="puppet.html#puppet-preconfiguration" title="Pré-configuration">Pré-configuration</a></li>
+<li class="links"><a class="xref" href="puppet.html#puppet-installation" title="Installation">Installation</a></li>
+<li class="links"><a class="xref" href="puppet.html#puppet-configuration" title="Configuration">Configuration</a></li>
+<li class="links"><a class="xref" href="puppet.html#puppet-resources" title="Ressources">Ressources</a></li>
+</ul></div>
+<div class="sect2 sect" id="puppet-preconfiguration"><div class="inner">
+<div class="hgroup"><h2 class="title">Pré-configuration</h2></div>
+<div class="region"><div class="contents">
+<p class="para">
+      Prior to configuring <span class="app application">puppet</span> you may want to add a DNS <span class="em emphasis">CNAME</span> record for
+      <span class="em emphasis">puppet.example.com</span>, where <span class="em emphasis">example.com</span> is your domain.  By default
+      <span class="app application">Puppet</span> clients check DNS for puppet.example.com as the puppet server name, or
+      <span class="em emphasis">Puppet Master</span>.  See <a class="xref" href="dns.html" title="Service de nom de domaine (DNS)">Service de nom de domaine (DNS)</a> for more DNS details.
+      </p>
+<p class="para">Si vous ne souhaitez pas utiliser le DNS, vous pouvez ajouter des entrées dans le fichier <span class="file filename">/etc/hosts</span> du serveur et du client. Par exemple, dans le fichier <span class="file filename">/etc/hosts</span> du serveur <span class="app application">Puppet</span>, ajoutez :</p>
+<div class="code"><pre class="contents ">127.0.0.1 hôte_local.domaine_local hôte_local puppet
+192.168.1.17 client_puppet.exemple.com clientpuppet
+</pre></div>
+<p class="para">Sur chaque client <span class="app application">Puppet</span>, ajoutez une entrée pour le serveur :</p>
+<div class="code"><pre class="contents ">192.168.1.16 puppetmaster.example.com puppetmaster puppet
+</pre></div>
+<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents">
+        <p class="para">Remplacez les exemples d'adresses IP et noms de domaine ci-dessus avec vos adresses actuelles de serveur, de client et noms de domaine.</p>
+      </div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="puppet-installation"><div class="inner">
+<div class="hgroup"><h2 class="title">Installation</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Pour installer <span class="app application">Puppet</span>, saisissez dans un terminal sur le <span class="em emphasis">serveur</span> :</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install puppetmaster</span>
+</pre></div>
+<p class="para">Sur la ou les machines <span class="em emphasis">client</span>, saisissez :</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install puppet</span>
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="puppet-configuration"><div class="inner">
+<div class="hgroup"><h2 class="title">Configuration</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Créer un chemin de dossier pour la classe apache2 :</p>
+<div class="screen"><pre class="contents ">  <span class="cmd command">sudo mkdir -p /etc/puppet/modules/apache2/manifests</span>
+</pre></div>
+<p class="para">Maintenant, configurez quelques ressources pour <span class="app application">apache2</span>. Créez un fichier <span class="file filename">/etc/puppet/modules/apache2/manifests/init.pp</span> contenant ce qui suit :</p>
+<div class="code"><pre class="contents ">class apache2 {
+  package { 'apache2':
+    ensure =&gt; installed,
+  }
+
+  service { 'apache2':
+    ensure  =&gt; true,
+    enable  =&gt; true,
+    require =&gt; Package['apache2'],
+  }
+}
+</pre></div>
+<p class="para">Ensuite, créez un fichier nœud <span class="file filename">/etc/puppet/manifests/site.pp</span> avec :</p>
+<div class="code"><pre class="contents ">node 'puppetclient.example.com' {
+   include apache2
+}
+</pre></div>
+<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents">
+        <p class="para">Remplacez <span class="em emphasis">puppetclient.example.com</span> par votre nom d’hôte actuel de client <span class="app application">Puppet</span>.</p>
+      </div></div></div></div>
+<p class="para">La dernière étape pour ce serveur <span class="app application">Puppet</span> est de redémarrer le démon :</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo systemctl restart puppetmaster.service</span>
+</pre></div>
+<p class="para">Maintenant que tout est configuré sur le serveur <span class="app application">Puppet</span>, il est temps de configurer le client.</p>
+<p class="para">
+      First, configure the <span class="app application">Puppet</span> agent daemon to start. Edit <span class="file filename">/etc/default/puppet</span>, changing
+      <span class="em emphasis">START</span> to yes:
+      </p>
+<div class="code"><pre class="contents ">START=yes
+</pre></div>
+<p class="para">Puis démarrez le service :</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo systemctl start puppet.service</span>
+</pre></div>
+<p class="para">Voir l'empreinte numerique de certification du client</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo puppet agent --fingerprint</span>
+</pre></div>
+<p class="para">De retour sur le serveur <span class="app application">Puppet</span>, voir les demandes de signatures de certificats en attente :</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo puppet cert list</span>
+</pre></div>
+<p class="para">Sur le serveur <span class="app application">Puppet</span>, vérifiez les empreintes numériques du client et signez la certification du client puppet :</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo puppet cert sign puppetclient.example.com</span>
+</pre></div>
+<p class="para">Sur le client <span class="app application">Puppet</span>, lancez l'agent puppet manuellement au premier plan. Cette étape n'est pas à proprement parler nécessaire, mais elle est la meilleure façon de tester et déboguer le service puppet.</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo puppet agent --test</span>
+</pre></div>
+<p class="para">Vérifiez <span class="file filename">/var/log/syslog</span> sur les deux hôtes pour toute erreur de configuration. Si tout va bien, le paquet <span class="app application">apache2</span> et ses dépendances seront installés sur le client <span class="app application">Puppet</span>.</p>
+<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents">
+        <p class="para">Cet exemple est <span class="em emphasis">très</span> simple et ne met pas beaucoup de fonctionnalités et d'avantages de <span class="app application">Puppet</span> en évidence . Pour plus d'informations, voir <a class="xref" href="puppet.html#puppet-resources" title="Ressources">Ressources</a>.</p>
+      </div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="puppet-resources"><div class="inner">
+<div class="hgroup"><h2 class="title">Ressources</h2></div>
+<div class="region"><div class="contents"><div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+          <p class="para">Voir le site de la <a href="http://docs.puppetlabs.com/" class="ulink" title="http://docs.puppetlabs.com/">Documentation officielle Puppet</a>.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">Voir le dépôt de modules puppet en ligne, <a href="http://forge.puppetlabs.com/" class="ulink" title="http://forge.puppetlabs.com/">Puppet forge</a>.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">Voyez également <a href="http://www.apress.com/9781430230571" class="ulink" title="http://www.apress.com/9781430230571">Pro Puppet</a>.</p>
+        </li>
+</ul></div></div></div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="openssh-server.html" title="Serveur OpenSSH">Précédent</a><a class="nextlinks-next" href="zentyal.html" title="Zentyal">Suivant</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p></div>
+</div>
+</body>
+</html>

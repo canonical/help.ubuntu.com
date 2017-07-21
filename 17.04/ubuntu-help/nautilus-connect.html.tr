@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang=tr>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Bir sunucudaki ya da ağ paylaşımındaki dosyalara gözat</title>
+<link rel="stylesheet" type="text/css" href="tr.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Ubuntu Masaüstü Rehberi"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Yardım"></span></span> Ubuntu Masaüstü Rehberi</a> » <a class="trail" href="net.html" title="Ağ, web, e-posta ve sohbet">Ağ, web, e-posta ve sohbet</a> » <a class="trail" href="sharing.html" title="Paylaşım">Paylaşım</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Ubuntu Masaüstü Rehberi"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Yardım"></span></span> Ubuntu Masaüstü Rehberi</a> » <a class="trail" href="files.html" title="Dosyalar, dizinler ve arama">Dosyalar</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Bir sunucudaki ya da ağ paylaşımındaki dosyalara gözat</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Bir sunucuya ya da ağ paylaşımına, bu sunucudaki dosyalara gözatmak ya da görüntülemek için kendi bilgisayarınızdaki dosyalarınızmış gibi bağlanabilirsiniz. Bu, internette dosya indirmek, yüklemek ya da yerel ağınızdaki diğer kişilerle dosya paylaşmak için kullanışlı bir yoldur.</p>
+<p class="p">Ağ üzerinden dosyalara gözatmak için <span class="gui">Ana Seçke</span>den <span class="app">Dosyalar</span> uygulamasını açın ve kenar çubuğundan <span class="gui">Ağa Gözat</span>ı tıklayın. Dosya yöneticisi, yerel alan ağınızdaki dosya sunma olanağı olduğunu duyuran bilgisayarları bulacaktır. Eğer bir sunucuya internetten bağlanmak isterseniz ya da aradığınız bilgisayarı göremiyorsanız, sunucunun internet/ağ adresini yazarak elle bağlanabilirsiniz.</p>
+<div class="steps"><div class="inner">
+<div class="title title-steps"><h2><span class="title">Bir dosya sunucusuna bağlan</span></h2></div>
+<div class="region"><ol class="steps">
+<li class="steps"><p class="p">Dosya yöneticisinde, seçke çubuğunda <span class="gui">Dosyalar</span>ı tıklayın ve uygulama seçkesinden <span class="gui">Sunucuya Bağlan</span>ı alın.</p></li>
+<li class="steps">
+<p class="p"><span class="link"><a href="#urls" title="URLler yazılıyor">URL</a></span> biçimindeki sunucu adresini girin. Desteklenen URLler hakkında ayrıntılar <span class="link"><a href="#types" title="Sunucuların türleri">aşağıda listelenmiştir</a></span>.
+		
+
+(itstool) path: item/p</p>
+<div class="note" title="Not"><div class="inner"><div class="region"><div class="contents"><p class="p">Eğer daha önce bir sunucuya bağlanmışsanız, <span class="gui">En Son Sunucular</span> listesinden tıklayabilirsiniz.</p></div></div></div></div>
+</li>
+<li class="steps"><p class="p"><span class="gui">Bağlan</span>a tıkayın. Sunucudaki dosyaları gösteren yeni bir pencere açılacaktır. Kendi bilgisayarınızda olmasını istediğiniz dosyalara gözatabilirsiniz. Ayrıca sunucu kenar çubuğuna eklenecektir böylece ileride ona kolayca ulaşabileceksiniz.</p></li>
+</ol></div>
+</div></div>
+</div>
+<div id="urls" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">URLler yazılıyor</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p"><span class="em">URL</span> veya <span class="em">birörnek kaynak belirleyici</span> ağdaki bir konuma ya da dosyaya işaret eden bir adres biçimidir. Adres şunun gibi biçimlendirilmiştir:</p>
+<div class="example"><p class="p"><span class="sys">scheme://servername.example.com/folder</span></p></div>
+<p class="p"><span class="em">şema</span> sunucu protokol ya da türünü belirler. Adresin <span class="em">örnek.com</span> bölümü <span class="em">alan adı</span> olarak adlandırılır. Eğer bir kullanıcı adı gerekirse sunucu adından önce eklenir:</p>
+<div class="example"><p class="p"><span class="sys">scheme://username@servername.example.com/folder</span></p></div>
+<p class="p">Bazı şemalar bağlantı noktası numarasının belirtirmesini gerektirir. Alan adından sonra numarayı ekleyin:</p>
+<div class="example"><p class="p"><span class="sys">scheme://servername.example.com:port/folder</span></p></div>
+<p class="p">Aşağıda, desteklenen çeşitli sunucu türlerinin örneklerini bulabilirsiniz.</p>
+</div></div>
+</div></div>
+<div id="types" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Sunucuların türleri</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Farklı sunucu türlerine bağlanabilirsiniz. Bazı sunucular ortak erişim sağlar ve herkes bağlanabilir. Diğer sunucular bir kullanıcı adı ve şifre ile giriş yapmanızı gerektirir.</p>
+<p class="p">Bir sunucudaki dosyalar üzerinde belli eylemleri gerçekleştirme iznine sahip olmayabilirsiniz. Örneğin, genel FTP siteleri, muhtemelen dosyaları silemeyeceksiniz.</p>
+<p class="p">Girdiğiniz URL, sunucunun dosyalarını paylaşırken kullandığı iletişim kuralına bağlıdır.</p>
+<div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms">SSH</dt>
+<dd class="terms">
+<p class="p">Eğer sunucunuzda <span class="em">güvenli kabuk</span> hesabınız varsa, bu yöntemi kullanarak bağlanabilirsiniz. Birçok web makineleri üyelerine SSH hesabı sunarlar böylece dosyalar güvenli bir biçimde yüklenebilir. SSH sunucuları daima oturum açmanızı talep ederler.</p>
+<p class="p">Tipik bir SSH URL şunun gibi görünür:</p>
+<div class="example"><p class="p"><span class="sys">ssh://username@servername.example.com/folder</span></p></div>
+<p class="p">SSH kullanırken gönderdiğiniz tüm veriler (parolarınızı içeren) şifrelidir böylece ağınızdaki diğer kullanıcılar onu göremezler.</p>
+</dd>
+<dt class="terms">FTP (giriş ile)</dt>
+<dd class="terms">
+<p class="p">FTP internette dosyaları değiş tokuş etmek için gözde bir yoldur. Çünkü FTP üzerinde veriler şifrelenmez, çoğu sunucular şimdi SSH üzerinden erişim sağlıyorlar. Bazı sunucular, dosya yüklemek ya da indirmek için yine de FTP kullanmanızı gerektiriyor ya da buna olanak sağlıyorlar.</p>
+<p class="p">Tipik bir FTP URL'si şu şekildedir:</p>
+<div class="example"><p class="p"><span class="sys">ftp://kullanıcıadı@ftp.örnek.com/path/</span></p></div>
+</dd>
+<dt class="terms">Genel FTP</dt>
+<dd class="terms">
+<p class="p">Dosya indirmeye olanak tanıyan siteler bazen genel ya da anonim FTP erişimi sağlarlar. bu sunucular kullanıcı adı ve parola gerektirmezler ve genel olarak dosya silme ve yüklemenize izin vermezler.</p>
+<p class="p">Tipik bir anonim FTP URL şunun gibi görünür:</p>
+<div class="example"><p class="p"><span class="sys">ftp://ftp.example.com/path/</span></p></div>
+<p class="p">Bazı anonim FTP siteleri genel bir kullanıcı adı ve parola ile ya da e-posta adresinizi parola olarak kullanarak genel bir kullanıcı adı ile oturum açmanızı isterler. Bu sunucular için, <span class="gui">FTP (oturum açma ile)</span> yöntemini kullanın ve FTP sitesi tarafından belirlenen kimlik bilgilerini kullanın.</p>
+</dd>
+<dt class="terms">Windows paylaşımı</dt>
+<dd class="terms">
+<p class="p">Windows bilgisayarları yerel ağ üzerinde dosya paylaşımı için özel mülk bir iletişim kuralı kullanır.</p>
+<p class="p">Tipik bir Windos paylaşım URL'si şunun gibi görünür:</p>
+<div class="example"><p class="p"><span class="sys">smb://servername/Share</span></p></div>
+</dd>
+<dt class="terms">WebDAV ve Güvenli WebDAV</dt>
+<dd class="terms">
+<p class="p">Genelağ üzerinde kullanılan HTTP iletişim kuralına dayalı olan WebDAV, bir yerel ağ üzerinde dosya paylaşmak veya internette dosya depolamak için bazen kullanılır. Eğer bağlandığınız sunucu güvenli bağlanmaları destekliyorsa bu seçeneği seçmelisiniz. Güvenli WebDAV güçlü bir SSL şifrelemesi kullanır ve böylece diğer kullanıcılar sizin şifrenizi göremez.</p>
+<p class="p">Tipik bir WebDAV URL'si şunun gibi görünür:</p>
+<div class="example"><p class="p"><span class="sys">http://example.hostname.com/path</span></p></div>
+</dd>
+</dl></div></div></div>
+</div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Daha Fazla Bilgi</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="files.html" title="Dosyalar, dizinler ve arama">Dosyalar, dizinler ve arama</a><span class="desc"> — <span class="link"><a href="files-search.html" title="Search for files or folders">Arama</a></span>, <span class="link"><a href="files-delete.html" title="Dosya ve dizinleri sil">dosyaları silme</a></span>, <span class="link"><a href="files.html#backup" title="Yedekleme">yedekler</a></span>, <span class="link"><a href="files.html#removable" title="Kaldırılabilir sürücüler ve harici diskler">kaldırılabilir sürücüler</a></span>, <span class="link"><a href="files.html#documents" title="Belgeler">belgeler</a></span>…</span>
+</li>
+<li class="links ">
+<a href="sharing.html" title="Paylaşım">Paylaşım</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Masaüstünüzü paylaşın">Masaüstü paylaşımı</a></span>, <span class="link"><a href="files-share.html" title="Dosyaları paylaş ve aktar">Dosyaları paylaş</a></span>…</span>
+</li>
+</ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Ayrıyetten Bakınız</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="files-share.html" title="Dosyaları paylaş ve aktar">Dosyaları paylaş ve aktar</a><span class="desc"> — Dosya yöneticisinden, dosyalarınızı e-posta bağlantılarınıza aktarın.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

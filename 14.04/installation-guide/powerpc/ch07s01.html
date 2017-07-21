@@ -1,0 +1,110 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>7.1. The Moment of Truth</title>
+<link rel="stylesheet" type="text/css" href="install.css">
+<meta name="generator" content="DocBook XSL Stylesheets V1.76.1">
+<link rel="home" href="index.html" title="Ubuntu Installation Guide">
+<link rel="up" href="ch07.html" title="Chapter 7. Booting Into Your New Ubuntu System">
+<link rel="prev" href="ch07.html" title="Chapter 7. Booting Into Your New Ubuntu System">
+<link rel="next" href="ch07s02.html" title="7.2. Mounting encrypted volumes">
+</head>
+<body bgcolor="white" text="black" link="#0000FF" vlink="#840084" alink="#0000FF">
+<div class="navheader">
+<table width="100%" summary="Navigation header">
+<tr><th colspan="3" align="center">7.1. The Moment of Truth</th></tr>
+<tr>
+<td width="20%" align="left">
+<a accesskey="p" href="ch07.html">Prev</a> </td>
+<th width="60%" align="center">Chapter 7. Booting Into Your New Ubuntu System</th>
+<td width="20%" align="right"> <a accesskey="n" href="ch07s02.html">Next</a>
+</td>
+</tr>
+</table>
+<hr>
+</div>
+<div class="sect1" title="7.1. The Moment of Truth">
+<div class="titlepage"><div><div><h2 class="title" style="clear: both">
+<a name="base-boot"></a>7.1. The Moment of Truth</h2></div></div></div>
+<p>
+
+Your system's first boot on its own power is what electrical engineers
+call the <span class="quote">“<span class="quote">smoke test</span>”</span>.
+
+</p>
+<p>
+
+If the system fails to start up correctly, don't panic. If the installation
+was successful, chances are good that there is only a relatively minor
+problem that is preventing the system from booting Ubuntu. In most cases
+such problems can be fixed without having to repeat the installation.
+One available option to fix boot problems is to use the installer's
+built-in rescue mode (see <a class="xref" href="ch08s07.html" title="8.7. Recovering a Broken System">Section 8.7, “Recovering a Broken System”</a>).
+
+</p>
+<div class="sect2" title="7.1.1. NewWorld PowerMacs">
+<div class="titlepage"><div><div><h3 class="title">
+<a name="idp6430288"></a>7.1.1. NewWorld PowerMacs</h3></div></div></div>
+<p>
+
+On G4 machines and iBooks, you can hold down the
+<span class="keycap"><strong>option</strong></span> key and get a graphical screen with a button
+for each bootable OS, Ubuntu will be a button with a small penguin
+icon.
+
+</p>
+<p>
+
+If you kept MacOS and at some point it changes the OpenFirmware
+<code class="envar">boot-device</code> variable you should reset OpenFirmware to
+its default configuration.  To do this hold down the <span class="keycap"><strong>command</strong></span>+<span class="keycap"><strong>option</strong></span>+<span class="keycap"><strong>p</strong></span>+<span class="keycap"><strong>r</strong></span> keys while cold booting the machine.
+
+</p>
+<p>
+
+The labels defined in <code class="filename">yaboot.conf</code> will be
+displayed if you press the <span class="keycap"><strong>Tab</strong></span> key at the
+<code class="prompt">boot:</code> prompt.
+
+</p>
+<p>
+
+Resetting OpenFirmware on G3 or G4 hardware will cause it to boot
+Ubuntu by default (if you correctly partitioned and placed the
+Apple_Bootstrap partition first).  If you have Ubuntu on a SCSI disk
+and MacOS on an IDE disk this may not work and you will have to enter
+OpenFirmware and set the <code class="envar">boot-device</code> variable,
+<span class="command"><strong>ybin</strong></span> normally does this automatically.
+
+</p>
+<p>
+
+After you boot Ubuntu for the first time you can add any additional
+options you desire (such as dual boot options) to
+<code class="filename">/etc/yaboot.conf</code> and run <span class="command"><strong>ybin</strong></span>
+to update your boot partition with the changed configuration.  Please
+read the <a class="ulink" href="http://penguinppc.org/projects/yaboot/doc/yaboot-howto.shtml/" target="_top">yaboot HOWTO</a>
+for more information.
+
+</p>
+</div>
+</div>
+<div class="navfooter">
+<hr>
+<table width="100%" summary="Navigation footer">
+<tr>
+<td width="40%" align="left">
+<a accesskey="p" href="ch07.html">Prev</a> </td>
+<td width="20%" align="center"><a accesskey="u" href="ch07.html">Up</a></td>
+<td width="40%" align="right"> <a accesskey="n" href="ch07s02.html">Next</a>
+</td>
+</tr>
+<tr>
+<td width="40%" align="left" valign="top">Chapter 7. Booting Into Your New Ubuntu System </td>
+<td width="20%" align="center"><a accesskey="h" href="index.html">Home</a></td>
+<td width="40%" align="right" valign="top"> 7.2. Mounting encrypted volumes</td>
+</tr>
+</table>
+</div>
+</body>
+</html>

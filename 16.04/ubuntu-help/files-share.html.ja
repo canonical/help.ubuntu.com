@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=ja>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>ファイルの共有と転送</title>
+<link rel="stylesheet" type="text/css" href="ja.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="ヘルプ"></span></span>Ubuntu デスクトップガイド</a> » <a class="trail" href="net.html" title="ネットワーク、ウェブ、メール、チャット">ネットワーク、ウェブ、メール、チャット</a> » <a class="trail" href="sharing.html" title="共有">共有</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="ヘルプ"></span></span>Ubuntu デスクトップガイド</a> » <a class="trail" href="files.html" title="ファイル、フォルダー、検索">ファイル</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">ファイルの共有と転送</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">You can share files with your contacts or transfer them to external 
+devices or <span class="link"><a href="nautilus-connect.html" title="サーバーや共有ディスクのファイルを閲覧する">network shares</a></span> directly 
+from the file manager.</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p"><span class="link"><a href="files-browse.html" title="ファイルやフォルダーの閲覧">ファイルマネージャー</a></span> を開きます。</p></li>
+<li class="steps"><p class="p">転送するファイルのある場所へ移動します。</p></li>
+<li class="steps"><p class="p">ファイルを右クリックし、<span class="gui">送る</span>を選択します。</p></li>
+<li class="steps"><p class="p"><span class="gui">送る</span>ウィンドウが表示されます。ファイルの送信先を指定し、<span class="gui">送信</span>をクリックします。詳細は、以下の宛先一覧を参照してください。</p></li>
+</ol></div></div></div>
+<div class="note note-tip" title="ヒント"><div class="inner"><div class="region"><div class="contents"><p class="p">一度に複数のファイルを送ることができます。<span class="key"><kbd>Ctrl</kbd></span> キーを押しながら、複数のファイルを選択します。自動的に、ファイルを zip や tar 形式のアーカイブに圧縮することができます。</p></div></div></div></div>
+<div class="list"><div class="inner">
+<div class="title title-list"><h2><span class="title">行き先</span></h2></div>
+<div class="region"><ul class="list">
+<li class="list"><p class="p">ファイルをメールで送信するには、<span class="gui">メール</span>を選択して受信者のメールアドレスを入力します。</p></li>
+<li class="list"><p class="p">インスタントメッセージでファイルを送信するには、<span class="gui">インスタントメッセージ</span>を選択します。それから、ドロップダウンリストから相手先を選択します。この機能を利用するには、インスタントメッセンジャーの起動が必要になることもあります。</p></li>
+<li class="list"><p class="p">CD や DVD にファイルを書き込むには、<span class="gui">CD/DVD クリエーター</span> を選択します。詳細は、<span class="link"><a href="files-disc-write.html" title="CD や DVD にファイルを書き込む">CD や DVD にファイルを書き込む</a></span> を参照してください。</p></li>
+<li class="list"><p class="p">Bluetooth デバイスへファイルを転送するには、<span class="gui">Bluetooth (OBEX Push)</span> を選択して転送先のデバイスを選択します。ペアリング済みのデバイスだけが表示されます。詳細は、<span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span> を参照してください。</p></li>
+<li class="list"><p class="p">To copy a file to an external device like a USB flash drive,
+  or to upload it to a server you've connected to, select <span class="gui">Removable
+  disks and shares</span>, then select the device or server you want to
+  copy the file to.</p></li>
+</ul></div>
+</div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">詳細</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="files.html" title="ファイル、フォルダー、検索">ファイル、フォルダー、検索</a><span class="desc"> — <span class="link"><a href="files-search.html" title="ファイルの検索">検索</a></span>、<span class="link"><a href="files-delete.html" title="ファイルとフォルダーの削除">ファイル削除</a></span>、<span class="link"><a href="files.html#backup" title="バックアップ">バックアップ</a></span>、<span class="link"><a href="files.html#removable" title="リムーバブルドライブと外部ディスク">ドライバーの削除</a></span>、<span class="link"><a href="files.html#documents" title="ドキュメント">ドキュメント</a></span>…</span>
+</li>
+<li class="links ">
+<a href="sharing.html" title="共有">共有</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="デスクトップの共有">デスクトップ共有</a></span>、<span class="link"><a href="files-share.html" title="ファイルの共有と転送">ファイル共有</a></span>…</span>
+</li>
+</ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">関連項目</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="bluetooth-send-file.html" title="Bluetoothデバイスにファイルを送信する">Bluetoothデバイスにファイルを送信する</a><span class="desc"> — 電話などのBluetoothデバイスにファイルを共有する</span>
+</li>
+<li class="links ">
+<a href="nautilus-connect.html" title="サーバーや共有ディスクのファイルを閲覧する">サーバーや共有ディスクのファイルを閲覧する</a><span class="desc"> — FTP、SSH、Windows 共有、あるいはWebDAVを使って、他のコンピューターのファイルを表示、編集します</span>
+</li>
+</ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

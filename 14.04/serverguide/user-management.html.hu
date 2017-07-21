@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang=hu>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Felhasználókezelés</title>
+<link rel="stylesheet" type="text/css" href="hu.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Ubuntu kiszolgáló kézikönyve">Ubuntu kiszolgáló kézikönyve</a> » <a class="trail" href="security.html" title="Biztonság">Biztonság</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="security.html" title="Biztonság">Előző</a><a class="nextlinks-next" href="console-security.html" title="Konzolos biztonság">Következő</a>
+</div>
+<div class="hgroup"><h1 class="title">Felhasználókezelés</h1></div>
+<div class="region">
+<div class="contents"><p class="para">A felhasználókezelés a biztonságos rendszer karbantartásának kritikus része. A nem megfelelő felhasználó- és jogosultságkezelés gyakran a rendszerek feltörését eredményezi. Emiatt fontos megértenie, hogyan védheti meg rendszerét egyszerű és hatékony felhasználóifiók-kezelési eljárásokkal.</p></div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="user-management.html#where-is-root" title="Hol van a root?">Hol van a root?</a></li>
+<li class="links"><a class="xref" href="user-management.html#adding-deleting-users" title="Felhasználók hozzáadása és törlése">Felhasználók hozzáadása és törlése</a></li>
+<li class="links"><a class="xref" href="user-management.html#user-profile-security" title="Felhasználói profil biztonsága">Felhasználói profil biztonsága</a></li>
+<li class="links"><a class="xref" href="user-management.html#password-policy" title="Jelszóházirend">Jelszóházirend</a></li>
+<li class="links"><a class="xref" href="user-management.html#other-security-considerations" title="Más biztonsági szempontok">Más biztonsági szempontok</a></li>
+</ul></div>
+<div class="sect2 sect" id="where-is-root"><div class="inner">
+<div class="hgroup"><h2 class="title">Hol van a root?</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Az Ubuntu fejlesztői tudatos döntést hoztak, amikor alapértelmezésben letiltották a root fiókot minden Ubuntu telepítésen. Ez nem azt jelenti, hogy a root fiók törlésre került, vagy hogy ne lenne elérhető. Egyszerűen csak olyan jelszót kapott, amelyhez egyetlen lehetséges titkosított érték sem tartozik, így közvetlenül nem lehet bejelentkezni rá.</p>
+<p class="para">Ehelyett a felhasználókat a rendszergazdai feladatok végrehajtásához a <span class="app application">sudo</span> nevű eszköz használatára bátorítjuk. A <span class="app application">sudo</span> lehetővé teszi a felhatalmazott felhasználó számára jogosultságainak saját jelszavának használatával történő, a root fiókhoz tartozó jelszó ismerete nélküli ideiglenes megemelését. Ez az egyszerű, de mégis hatékony módszer biztosítja az összes felhasználói művelet elszámoltathatóságát, és lehetővé teszi a rendszergazdának a felhasználók által az adott jogokkal végezhető műveletek részletes felügyeletét.</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+		<p class="para">Ha valamilyen okból engedélyezni szeretné a root fiókot, egyszerűen csak adjon neki jelszót:</p>
+		<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents">
+		<p class="para">
+		Configurations with root passwords are not supported.
+		</p>
+		</div></div></div></div>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo passwd</span>
+</pre></div>
+		<p class="para">A sudo bekéri a jelszavát, majd új jelszó megadására kéri a root felhasználó számára:</p>
+<div class="screen"><pre class="contents "><span class="output computeroutput">[sudo] password for username:</span> <span class="input userinput">(adja meg saját jelszavát)</span>
+<span class="output computeroutput">Enter new UNIX password:</span> <span class="input userinput">(adja meg a root új jelszavát)</span>
+<span class="output computeroutput">Retype new UNIX password:</span> <span class="input userinput">(ismételje meg a root új jelszavát)</span>
+<span class="output computeroutput">passwd: password updated successfully</span>
+</pre></div>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">
+		To disable the root account password, use the following passwd syntax:
+		</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo passwd -l root</span>
+</pre></div>
+		<p class="para">
+        However, to disable the root account itself, use the following command:
+		</p>
+<div class="screen"><pre class="contents "><span class="cmd command">usermod --expiredate 1</span>
+</pre></div>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">
+		You should read more on <span class="app application">Sudo</span> by reading the man page:
+		</p>
+<div class="screen"><pre class="contents "><span class="cmd command">man sudo</span>
+</pre></div>
+		</li>
+</ul></div>
+<p class="para">
+			By default, the initial user created by the Ubuntu installer is a member of the group "<span class="em emphasis">sudo</span>" which is added to the file <span class="file filename">/etc/sudoers</span> as an authorized sudo user. If you wish to give any other account full root access through <span class="app application">sudo</span>, simply add them to the <span class="em emphasis">sudo</span> group.
+		</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="adding-deleting-users"><div class="inner">
+<div class="hgroup"><h2 class="title">Felhasználók hozzáadása és törlése</h2></div>
+<div class="region"><div class="contents">
+<p class="para">
+	The process for managing local users and groups is straightforward and differs very little from most other GNU/Linux operating systems. Ubuntu and other Debian based distributions encourage the use of the "adduser" package for account management.
+	</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+		<p class="para">
+		To add a user account, use the following syntax, and follow the prompts to give the account a password and identifiable characteristics, such as a full name, phone number, etc.
+		</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo adduser felhasználónév</span>
+</pre></div>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">Felhasználói fiók és elsődleges csoportjának törléséhez adja ki a következő parancsot:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo deluser felhasználónév</span>
+</pre></div>
+		<p class="para">A fiók törlése nem törli a hozzá tartozó saját könyvtárat. Ez a rendszergazdára van bízva, aki saját kezűleg törölheti a könyvtárat, vagy megtarthatja a helyi adatmegőrzési irányelveknek megfelelően.</p>
+		<p class="para">Ne feledje, hogy az előző tulajdonossal azonos felhasználói- és csoportazonosítóval felvett új felhasználó hozzá fog férni ehhez a könyvtárhoz, ha nem tette meg a szükséges óvintézkedéseket.</p>
+		<p class="para">Hasznos lehet módosítani ezeket a felhasználói- és csoportazonosítókat valami megfelelőbbre, például a root fiókéra, sőt akár áthelyezni a könyvtárat a jövőbeli konfliktusok elkerülése érdekében:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo chown -R root:root /home/felhasználónév/</span>
+<span class="cmd command">sudo mkdir /home/archivált_felhasználók/</span>
+<span class="cmd command">sudo mv /home/felhasználónév /home/archivált_felhasználók/</span>
+</pre></div>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">Felhasználói fiók ideiglenes zárolásához vagy feloldásához adja ki a következő parancsokat:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo passwd -l felhasználónév</span>
+<span class="cmd command">sudo passwd -u felhasználónév</span>
+</pre></div>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">Személyre szabott csoport hozzáadásához vagy törléséhez adja ki a következő parancsokat:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo addgroup csoportnév</span>
+<span class="cmd command">sudo delgroup csoportnév</span>
+</pre></div>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">Felhasználó csoporthoz adásához adja ki a következő parancsot:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo adduser felhasználónév csoportnév</span>
+</pre></div>
+		</li>
+</ul></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="user-profile-security"><div class="inner">
+<div class="hgroup"><h2 class="title">Felhasználói profil biztonsága</h2></div>
+<div class="region"><div class="contents">
+<p class="para">
+	When a new user is created, the adduser utility creates a brand new home directory named <span class="file filename">/home/username</span>. The default profile is modeled after the contents found in the directory of <span class="file filename">/etc/skel</span>, which includes all profile basics.  
+	</p>
+<p class="para">Ha a kiszolgálójának több felhasználója lesz, oda kell figyelnie a felhasználók saját könyvtárainak jogosultságaira az adatok bizalmasságának biztosítása érdekében. Ubuntu alatt alapértelmezésben a felhasználók saját könyvtárai mindenki számára olvasási és végrehajtási jogot biztosítanak. Ez azt jelenti, hogy minden felhasználó tallózhatja és elérheti más felhasználók saját könyvtárait. Ez nem biztos, hogy minden környezetben megfelelő.</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+		<p class="para">
+		To verify your current user home directory permissions, use the following syntax:
+		</p>
+<div class="screen"><pre class="contents "><span class="cmd command">ls -ld /home/felhasználónév</span>
+</pre></div>
+		<p class="para">The following output shows that the directory <span class="file filename">/home/username</span> has world-readable permissions:
+		</p>
+<div class="screen"><pre class="contents "><span class="output computeroutput">drwxr-xr-x  2 felhasználónév felhasználónév     4096 2007-10-02 20:03 felhasználónév</span>
+</pre></div>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">
+		You can remove the world readable-permissions using the following syntax:
+		</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo chmod 0750 /home/felhasználónév</span>
+</pre></div>
+		<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents">
+		<p class="para">Egyesek megkülönböztetés nélkül használják a rekurzív kapcsolót (-R), ami minden gyermekmappát és fájlt módosít, noha ez nem csak szükségtelen, de más nemkívánatos eredményekre is vezethet. A szülőkönyvtár önmagában elégséges a szülőkönyvtár tartalmának jogosultság nélküli elérésének megakadályozásához.</p>
+		</div></div></div></div>
+		<p class="para">A probléma sokkal hatékonyabb megoldása lehet az <span class="app application">adduser</span> globális alapértelmezett jogosultságainak módosítása a felhasználók saját könyvtárának létrehozásakor. Egyszerűen szerkessze az <span class="file filename">/etc/adduser.conf</span> fájlt, és a <span class="code varname">DIR_MODE</span> változót módosítsa úgy, hogy az összes új saját könyvtár a megfelelő jogosultságokat kapja.</p>
+<div class="code"><pre class="contents ">DIR_MODE=0750
+</pre></div>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">A könyvtárjogosultságok az előbbi eljárások egyikével való javítása után ellenőrizze az eredményeket a következő parancs kiadásával:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">ls -ld /home/felhasználónév</span>
+</pre></div>
+		<p class="para">The results below show that world-readable permissions have been removed:
+		</p>
+<div class="screen"><pre class="contents "><span class="output computeroutput">drwxr-x---   2 felhasználónév felhasználónév    4096 2007-10-02 20:03 felhasználónév</span>
+</pre></div>
+		</li>
+</ul></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="password-policy"><div class="inner">
+<div class="hgroup"><h2 class="title">Jelszóházirend</h2></div>
+<div class="region">
+<div class="contents"><p class="para">A biztonsági helyzet egyik legfontosabb szempontja az erős jelszóházirend. Számos sikeres betöréshez nyers erőt és szótári támadást használtak gyenge jelszavak ellen. Ha a helyi jelszórendszert érintő bármilyen távoli hozzáférést tervez kínálni, akkor győződjön meg róla, hogy megfelelően kezeli a minimális jelszó-bonyolultsági követelményeket, a maximális jelszó-élettartamot, és a hitelesítési rendszer gyakori auditálását.</p></div>
+<div class="sect3 sect" id="minimum-password-length"><div class="inner">
+<div class="hgroup"><h3 class="title">Minimális jelszóhossz</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Alapértelmezésben az Ubuntu 6 karakteres minimális jelszóhosszt vár, valamint néhány minimális entrópia-ellenőrzést is végez. Ezeket az értékeket az <span class="file filename">/etc/pam.d/common-password</span> fájl vezérli, amelyet alább részletezünk.</p>
+<div class="code"><pre class="contents ">password        [success=1 default=ignore]      pam_unix.so obscure sha512
+</pre></div>
+<p class="para">Ha a minimális hosszt 8 karakterre szeretné növelni, módosítsa a megfelelő változót min=8 értékre. A módosított sor a következő lesz:</p>
+<div class="code"><pre class="contents ">password        [success=1 default=ignore]      pam_unix.so obscure sha512 minlen=8
+</pre></div>
+<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents">
+                <p class="para">
+                Basic password entropy checks and minimum length rules do not apply to the administrator using sudo level commands to setup a new user.
+                </p>
+                </div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="password-expiration"><div class="inner">
+<div class="hgroup"><h3 class="title">Jelszavak lejárata</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Felhasználói fiókok létrehozásakor elő kell írnia a minimális és maximális jelszókort, így a jelszavak lejáratakor azok megváltoztatására kényszerítve a felhasználókat.</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+		<p class="para">A felhasználói fiók aktuális állapotát a következő parancs kiadásával jelenítheti meg:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo chage -l felhasználónév</span>
+</pre></div>
+		<p class="para">Az alábbi kimenet érdekes tényeket közöl a felhasználói fiókról, nevezetesen azt, hogy nem érvényes rá semmilyen házirend:</p>
+<div class="screen"><pre class="contents "><span class="output computeroutput">Last password change                                    : Jan 20, 2015
+Password expires                                        : never
+Password inactive                                       : never
+Account expires                                         : never
+Minimum number of days between password change          : 0
+Maximum number of days between password change          : 99999
+Number of days of warning before password expires       : 7</span>
+</pre></div>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">Ezen értékek bármelyikének beállításához adja ki a következő parancsot, és kövesse a megjelenő utasításokat:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo chage felhasználónév</span>
+</pre></div>
+		<p class="para">
+		The following is also an example of how you can manually change the explicit expiration date (-E) to 01/31/2015, minimum password age (-m) of 5 days, maximum password  age (-M) of 90 days, inactivity period (-I) of 5 days after password expiration, and a warning time period (-W) of 14 days before password expiration:
+		</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo chage -E 01/31/2015 -m 5 -M 90 -I 30 -W 14 username</span>
+</pre></div>
+		</li>
+<li class="list itemizedlist">
+		<p class="para">A módosítások ellenőrzéséhez használja a korábban említett parancsot:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo chage -l felhasználónév</span>
+</pre></div>
+		<p class="para">Az alábbi kimenet bemutatja a fiókhoz létrehozott új házirendet:</p>
+<div class="screen"><pre class="contents "><span class="output computeroutput">Last password change                                    : Jan 20, 2015
+Password expires                                        : Apr 19, 2015
+Password inactive                                       : May 19, 2015
+Account expires                                         : Jan 31, 2015
+Minimum number of days between password change          : 5
+Maximum number of days between password change          : 90
+Number of days of warning before password expires       : 14</span>
+</pre></div>
+		</li>
+</ul></div>
+</div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect2 sect" id="other-security-considerations"><div class="inner">
+<div class="hgroup"><h2 class="title">Más biztonsági szempontok</h2></div>
+<div class="region">
+<div class="contents"><p class="para">Számos alkalmazás alternatív hitelesítési módszereket használ, amelyek egyszerűen elnézhetők még tapasztalt rendszergazdák számára is. Emiatt fontos megérteni és felügyelni a felhasználók hitelesítésének, és a kiszolgáló szolgáltatásainak és alkalmazásainak elérési módját.</p></div>
+<div class="sect3 sect" id="ssh-access-by-disabled-users"><div class="inner">
+<div class="hgroup"><h3 class="title">SSH hozzáférés letiltott felhasználók által</h3></div>
+<div class="region"><div class="contents">
+<p class="para">
+	Simply disabling/locking a user account will not prevent a user from logging into your server remotely if they have previously set up RSA public key authentication. They will still be able to gain shell access to the server, without the need for any password. Remember to check the users home directory for files that will allow for this type of authenticated SSH access, e.g. <span class="file filename">/home/username/.ssh/authorized_keys</span>.
+	</p>
+<p class="para">Törölje, vagy nevezze át a <span class="file filename">.ssh/</span> könyvtárat a felhasználó saját mappájában a jövőbeli SSH hitelesítési képesség megszüntetéséhez.</p>
+<p class="para">Ne feledje el ellenőrizni a letiltott felhasználó létrehozott SSH kapcsolatait, mert lehetséges hogy vannak létező bejövő vagy kimenő kapcsolatai. Ha talál ilyet, lője ki.</p>
+<div class="screen"><pre class="contents "><span class="cmd command">who | grep username</span>  (to get the pts/# terminal)
+<span class="cmd command">sudo pkill -f pts/#</span>
+</pre></div>
+<p class="para">Korlátozza az SSH hozzáférést azokra a felhasználói fiókokra, akiknek tényleg szükségük van rá. Létrehozhat például egy „sshlogin” nevű csoportot, és felveheti a csoportnevet az <span class="file filename">/etc/ssh/sshd_config</span> fájlban található <span class="code varname">AllowGroups</span> változó értékeként.</p>
+<div class="code"><pre class="contents ">AllowGroups sshlogin
+</pre></div>
+<p class="para">Ezután vegye fel az engedélyezett SSH-felhasználókat az „sshlogin” csoportba, és indítsa újra az SSH szolgáltatást.</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo adduser felhasználónév sshlogin</span>
+<span class="cmd command">sudo service ssh restart</span>
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="external-db-auth"><div class="inner">
+<div class="hgroup"><h3 class="title">Hitelesítés külső felhasználó-adatbázisból</h3></div>
+<div class="region"><div class="contents"><p class="para">
+	Most enterprise networks require centralized authentication and access controls for all system resources. If you have configured your server to authenticate users against external databases, be sure to disable the user accounts both externally and locally. This way you ensure that local fallback authentication is not possible.
+	</p></div></div>
+</div></div>
+</div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="security.html" title="Biztonság">Előző</a><a class="nextlinks-next" href="console-security.html" title="Konzolos biztonság">Következő</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p></div>
+</div>
+</body>
+</html>

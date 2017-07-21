@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang=ast>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Solucionador de problemes de conexón inalámbrica</title>
+<link rel="stylesheet" type="text/css" href="ast.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Guía del escritoriu d'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía d'escritoriu d'Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware y controladores">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemes comunes">Problemes</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Solucionador de problemes de rede inalámbrica">Solucionador de problemes de rede inalámbrica</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Guía del escritoriu d'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía d'escritoriu d'Ubuntu</a> » <a class="trail" href="net.html" title="Redes, web, corréu y chat">Redes, web, corréu y chat</a> » <a class="trail" href="net-wireless.html" title="Redes inalámbriques">Redes inalámbriques</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Solucionador de problemes de rede inalámbrica">Solucionador de problemes de rede inalámbrica</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="Solucionador de problemes de rede inalámbrica">Anterior</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="Solucionador de problemes de rede inalámbrica">Siguiente</a>
+</div>
+<div class="hgroup">
+<h1 class="title"><span class="title">Solucionador de problemes de conexón inalámbrica</span></h1>
+<h2 class="subtitle"><span class="subtitle">Compruebe que l'adautador de rede inalámbrica ta reconocíu</span></h2>
+</div>
+<div class="region">
+<div class="contents">
+<p class="p">Inclusu magar que l'adautador inalámbricu tea coneutáu al equipu, pue que nun tea reconocíu como preséu de rede. Nesti pasu, tendrá de comprobar si ta reconocíu correutamente.</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Open a Terminal window, type <span class="cmd">sudo lshw -C network</span> and press <span class="key"><kbd>Enter</kbd></span>. If this gives an error message, you can install the <span class="app">lshw</span> program on your computer by typing <span class="cmd">sudo apt install lshw</span> into the terminal.</p></li>
+<li class="steps">
+<p class="p">Revise la información qu'apaeció y atope la seición <span class="em">Interfaz inalámbica</span>. Si se deteutó correchamente'l so adautador inalámbricu, tendría de ver daqué asemeyao (pero non idéntico) a esto:</p>
+<div class="code"><pre class="contents ">*-rede
+      Descripción: interfaz inalámbrica
+      Productu: PRO/Wireless 3945ABG [Golan] Conexón de Rede
+      Vendedor: Intel Corporation</pre></div>
+</li>
+<li class="steps">
+<p class="p">Si se llista un preséu de rede, siga al <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Solucionador de problemes de rede inalámbrica">pasu de controladores de rede</a></span>.</p>
+<p class="p">Si un preséu inalámbricu <span class="em">nun</span> ta llistáu, los siguientes pasos que va tomar van depender del tipu de preséu qu'use. Consulte la siguiente seición, relativa al tipu d'adautador inalámbricu que tien el so equipu (<span class="link"><a href="#pci" title="Adautador de rede PCI (internu)">PCI internu</a></span>, <span class="link"><a href="#usb" title="Adautador de rede inalámbrica USB">USB</a></span>, o <span class="link"><a href="#pcmcia" title="Comprobar un preséu PCMCIA">PCMCIA</a></span>).</p>
+</li>
+</ol></div></div></div>
+</div>
+<div id="pci" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Adautador de rede PCI (internu)</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Los adautadores PCI internos son los más comunes, y atópense en portátiles fabricaos dende va dellos años. Pa comprobar si reconoció'l so adautador PCI inalámbricu:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Abra una terminal, escriba <span class="cmd">lspci</span> y prima <span class="key"><kbd>Intro</kbd></span>.</p></li>
+<li class="steps">
+<p class="p">Busque na llista de preseos amosada y atope dalgún que tea conseñáu como <span class="code">Controlador de rede</span> o <span class="code">controlador Ethernet</span>. Pue que tean conseñaos dellos preseos; el correspondiente al so adautador inalámbricu podría incluyir pallabres como <span class="code">inalámbricu</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> o <span class="code">802.11</span>. Equí tien un exemplu de cómo podría ser la entrada:</p>
+<div class="code"><pre class="contents ">Network controller: Conexón de rede Intel Corporation PRO/Wireless 3945ABG [Golan]</pre></div>
+</li>
+<li class="steps"><p class="p">Si atopa un adautador inalámbricu na llista, siga col preséu <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Solucionador de problemes de rede inalámbrica">Pasu de controladores de preseos</a></span>. Si nun atopó nada rellacionao col adautador inalámbricu, consulte <span class="link"><a href="#not-recognized" title="L'adautador de rede inalámbrica nun se reconoció">les instrucciones siguientes</a></span>.</p></li>
+</ol></div></div></div>
+</div></div>
+</div></div>
+<div id="usb" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Adautador de rede inalámbrica USB</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Los adautadores inalámbricos que se coneuten a un puertu USB del so equipu son menos comunes. Puen coneutase direutamente a un puertu USB, o por cable USB. Los adautadores 3G/móvil son asemeyaos a los inalámbricos (wifi), si cree que tien un adautador USB inalámbricu, compruebe si ye en realidá 3G. Pa verificar si reconoció l'adautador USB inalámbricu:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Abra un terminal, teclee <span class="cmd">lsusb</span> y prima  <span class="key"><kbd>Intro</kbd></span>.</p></li>
+<li class="steps">
+<p class="p">Mire na llista de preseos que s'amuesa y atope cualesquier que paeza tar rellacionáu a redes inalámbriques. El que correspuende al so adautador inalámbricu pue incluyir términos como <span class="code">wireless</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> o <span class="code">802.11</span>. Equí amuésase un exemplu de cómo pue ser la entrada:</p>
+<div class="code"><pre class="contents ">Bus 005 Device 009: ID 12d1:140b Huawei Technologies Co., Ltd. EC1260 Wireless Data Modem HSD USB Card</pre></div>
+</li>
+<li class="steps"><p class="p">Si atopa un adautador inalámbricu na llista, siga col preséu <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Solucionador de problemes de rede inalámbrica">Pasu de controladores de preseos</a></span>. Si nun atopó nada rellacionao col adautador inalámbricu, consulte <span class="link"><a href="#not-recognized" title="L'adautador de rede inalámbrica nun se reconoció">les instrucciones siguientes</a></span>.</p></li>
+</ol></div></div></div>
+</div></div>
+</div></div>
+<div id="pcmcia" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Comprobar un preséu PCMCIA</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Los adautadores PCMCIA inalámbricos son davezu tarxetes rectangulares pa inxertar nuna ranura llateral del portátil. Atópense comúnmente n'equipos antiguos. Compruebe si reconoz el so adautador PCMCIA:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Arranque'l so equipu <span class="em">ensin</span> coneutar l'adautador inalámbricu.</p></li>
+<li class="steps">
+<p class="p">Abra una terminal, escriba lo siguiente y depués prima <span class="key"><kbd>Intro</kbd></span>:</p>
+<div class="code"><pre class="contents ">tail -f /var/log/dmesg</pre></div>
+<p class="p">Esto va amosar una llista de mensaxes rellacionaos col hardware del so equipu, y va anovase automáticamente si camuda daqué rellacionao col so hardware.</p>
+</li>
+<li class="steps"><p class="p">Inxerte'l so adautador inalámbricu nuna ranura PCMCIA y decátese nos cambeos na ventana del terminal. Tendríen d'incluyir información sobre'l so adautador inalámbricu. Desamínelos y vea si pue identificalu.</p></li>
+<li class="steps"><p class="p">Pa dexar d'executar la orde na Terminal, prima <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span>. Dempués de facer eso, pue zarrar la Terminal si asina lo desea.</p></li>
+<li class="steps"><p class="p">Si atopa cualquier información tocante al so adautador inalámbricu, vaya a <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Solucionador de problemes de rede inalámbrica">Pasu de controladores de preseos</a></span>. Si nun atopó nada rellacionao col adautador inalámbricu, consulte <span class="link"><a href="#not-recognized" title="L'adautador de rede inalámbrica nun se reconoció">les instrucciones siguientes</a></span>.</p></li>
+</ol></div></div></div>
+</div></div>
+</div></div>
+<div id="not-recognized" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">L'adautador de rede inalámbrica nun se reconoció</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Si nun se reconoció'l so adautador inalámbricu, quiciabes nun tea funcionando correutamente o pue que nun tean instalaos los controladores correutos.</p>
+<p class="p">Pa llograr ayuda específica, busque opciones d'asistencia nel sitiu web de la so distribución. Ente elles, pue haber llistes de corréu y charres web, au pue facer entrugues sobre'l so adautador de rede, por exemplu.</p>
+</div></div>
+</div></div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="Solucionador de problemes de rede inalámbrica">Anterior</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="Solucionador de problemes de rede inalámbrica">Siguiente</a>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">More Information</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless-troubleshooting.html" title="Solucionador de problemes de rede inalámbrica">Solucionador de problemes de rede inalámbrica</a><span class="desc"> — Identificar ya iguar problemes con conexones inalámbriques</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang=de>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Ändern der E-Mail-Anwendung zum Verfassen von Nachrichten</title>
+<link rel="stylesheet" type="text/css" href="de.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu-Leitfaden</a> » <a class="trail" href="net.html" title="Netzwerk, Web, E-Mail und Chat">Netzwerk, Web, E-Mail und Chat</a> » <a class="trail" href="net-email.html" title="E-Mail und E-Mail-Software">E-Mail und E-Mail-Software</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Ändern der E-Mail-Anwendung zum Verfassen von Nachrichten</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Wenn Sie (beispielsweise in Ihrer Textverarbeitung) eine Schaltfläche,  einen Verweis oder eine E-Mail-Adresse anklicken, um eine neue E-Mal zu schicken, öffnet sich die Standard-E-Mail-Anwendung mit einer leeren Nachricht. Wenn Sie mehr als eine E-Mail-Anwendung installiert haben, kann es sein, dass sich die falsche Anwendung öffnet. Dies können Sie ändern, indem Sie die Standard-E-Mail-Anwendung ändern:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Klicken Sie auf das Symbol ganz rechts in der <span class="gui">Menüleiste</span> und wählen Sie <span class="gui">Systemeinstellungen</span>.</p></li>
+<li class="steps"><p class="p">Öffnen Sie <span class="gui">Einzelheiten</span> und wählen Sie <span class="gui">Vorgabe-Programme</span> aus der Liste an der linken Seite des Fensters.</p></li>
+<li class="steps"><p class="p">Wählen Sie Ihre Standard-E-Mail-Anwendung aus, indem Sie den Eintrag <span class="gui">E-Mail</span> ändern.</p></li>
+</ol></div></div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-email.html" title="E-Mail und E-Mail-Software">E-Mail und E-Mail-Software</a><span class="desc"> — <span class="link"><a href="net-default-email.html" title="Ändern der E-Mail-Anwendung zum Verfassen von Nachrichten">Standard-E-Mail-Anwendungen</a></span></span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

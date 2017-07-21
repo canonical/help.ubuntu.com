@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=zh-TW>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>為什麼我的無線網路一直斷線？</title>
+<link rel="stylesheet" type="text/css" href="zh-TW.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Ubuntu 桌面版手冊"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="幫助"></span></span> Ubuntu 桌面版手冊</a> » <a class="trail" href="net.html" title="連線、網路、郵件與聊天">連線、網路、郵件與聊天</a> » <a class="trail" href="net-wireless.html" title="無線網路">無線網路</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Ubuntu 桌面版手冊"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="幫助"></span></span> Ubuntu 桌面版手冊</a> » <a class="trail" href="net.html" title="連線、網路、郵件與聊天">連線、網路、郵件與聊天</a> » <a class="trail" href="net-problem.html" title="網路問題">網路問題</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">為什麼我的無線網路一直斷線？</span></h1></div>
+<div class="region">
+<div class="contents"><p class="p">您可能會發現，在您想要保持連線時，無線網路的連線就被中斷了。在這個情況發生後，正常情況下您的電腦會立即嘗試重新連線（在嘗試連線時，選單列上的網路圖示會閃動），但這樣很讓人困擾，特別是在您正在使用網路的時候。</p></div>
+<div id="signal" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">無線網路訊號很弱</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">無線網路連線中斷的一個常見原因是您收到的訊號過弱。無線網路的範圍是有限制的，因此如果您離無線基地台過遠的話，您收到的訊號可能會沒強到可以維持連線。您和基地台中間的牆壁和其他物體也會讓訊號變弱。</p>
+<p class="p">選單列上的網路圖示會顯示您的無線網路訊號有多強。如果訊號看起來很弱，試著移動到離無線基地台更近的地方。</p>
+</div></div>
+</div></div>
+<div id="network" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">網路連線沒有被正確建立</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">有時當您連線到無線網路時，一開始可能會顯示您已經成功連接，但不久之後連線就被中斷。當發生這種情況，正常來說是您的電腦對網路的連線只有部分成功 ―― 電腦曾嘗試建立連線，但因為某些原因而沒有完成連線，因而中斷連線。</p>
+<p class="p">一個可能的原因是您輸入的無線網路密語錯誤，或是網路並不接受您的電腦（例如，因為網路需要使用者名稱才能登入）。</p>
+</div></div>
+</div></div>
+<div id="hardware" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">不可靠的無線網路硬體/驅動程式</span></h2></div>
+<div class="region"><div class="contents"><p class="p">某些網路硬體可能會有點不可靠。無線網路非常複雜，因此無線網卡和基地台偶爾會碰到一些小問題，連線可能就會停止。這種情況十分煩人，但它常在很多裝置上發生。如果您的無線網路連線會不時斷線，這可能會是唯一原因。如果它一直會發生，您可能要考慮換個不同的硬體。</p></div></div>
+</div></div>
+<div id="busy" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">忙碌的無線網路</span></h2></div>
+<div class="region"><div class="contents"><p class="p">在忙碌地點（例如大學、咖啡店）的無線網路，通常一次會有很多電腦嘗試進行連線。有時這些網路會過於忙碌，可能會無法處理所有嘗試連線的電腦，因此有些電腦會被斷線。</p></div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">更多資訊</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="net-wireless.html" title="無線網路">無線網路</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html" title="連接至無線網路">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html" title="連接到隱藏的無線網路">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-edit-connection.html" title="編輯無線網路連線">Edit connection settings</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html" title="為什麼我的無線網路一直斷線？">Disconnecting</a></span>…
+    </span>
+</li>
+<li class="links ">
+<a href="net-problem.html" title="網路問題">網路問題</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-troubleshooting.html" title="無線網路疑難排解">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html" title="我沒在清單上看見我的無線網路">finding your wifi network</a></span>…
+        </span>
+</li>
+</ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">另請參閱</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless-connect.html" title="連接至無線網路">連接至無線網路</a><span class="desc"> — 連上網路，不需任何線路！</span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang=tr>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Ubuntu 14.04'te neler yeni?</title>
+<link rel="stylesheet" type="text/css" href="tr.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Ubuntu Masaüstü Rehberi"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Yardım"></span></span> Ubuntu Masaüstü Rehberi</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Ubuntu 14.04'te neler yeni?</span></h1></div>
+<div class="region">
+<div class="contents"><p class="p">Ubuntu 14.04 LTS <span class="em">Unity</span> arayüzünün evrimine devam ediyor. Ubuntu 12.04 LTS'den bu yana değişikliklerdeki önemli noktalar aşağıdadır.</p></div>
+<div id="new-features" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Yeni ve geliştirilmiş özellikler</span></h2></div>
+<div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p">Şu an odaklanılmış olan uygulamanın menüleri Ubuntu'nun tümleşik <span class="link"><a href="unity-menubar-intro.html#app-menus" title="Uygulama menüleri">menü çubuğunda</a></span> varsayılan olarak mevcuttur. Ama isterseniz geleneksel tarza dönebilirsiniz  ve uygulama menülerini o an kullanılan uygulamanın pencere başlığı çubuğunda gösterebilirsiniz (ikinci seçenek Ubuntu 13.10'la gelen bir yeniliktir).</p></li>
+<li class="list"><p class="p">Unity'yi her bir monitör için ölçekleme desteği eklenmiştir, bu da yüksek-DPI ekranlarda daha yüksek performansı sağlar. Benzer ölçekleme desteği LibreOffice ve Chromium'da da mevcuttur.</p></li>
+<li class="list"><p class="p">Yuvarlatılmış pencere çubuğu, ekran kilidi açma için yeni bir arayüz ve temalarla ilgili birkaç diğer ince ayarı da dahil eden geliştirilmiş görünüm ve tarz.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="keyboard-layouts.html" title="Farklı girdi kaynakları kullanın">Tümleşik <span class="gui">Metin Girme</span> arayüzü</a></span> ve ilgili girdi kaynağı olan <span class="link"><a href="unity-menubar-intro.html#status-menus" title="Durum menüleri"> durum menüsü</a></span>, hem klavye düzenini hem de IBus girdi yöntemlerini ayarlamak için tasarlanmıştır.</p></li>
+<li class="list">
+<p class="p"><span class="gui">Ana Seçke</span>de bir dizi geliştirmeler yapıldı:</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p"><span class="gui">Ana Seçke</span> şimdi düzinelerce farklı çevrimiçi kaynakları eş zamanlı şekilde araştırabiliyor. İnternet tabanlı aramalar <span class="link"><a href="unity-shopping.html" title="Neden Ana Seçke'de alışveriş bağlantıları var?">etkisizleştirilebilir</a></span>.</p></li>
+<li class="list"><p class="p"><span class="gui">Ana Seçke</span> arama sonuçları tür ve kaynağa göre filtrelenebilir...</p></li>
+<li class="list"><p class="p"><span class="gui">Ana Seçke</span>deki bir arama sonucuna sağ tıklamak, tam ekran önizleme ile daha fazla bilgi gösterecektir.</p></li>
+<li class="list"><p class="p">Bilgisayarınız ya da sosyal ağlarınızdan fotoğrafları görüntülemek için <span class="link"><a href="unity-dash-photos.html" title="Fotoğraflar merceği">fotoğraf mercekleri</a></span>ni kullanın.</p></li>
+<li class="list"><p class="p">Deneyiminizi özelleştirmek için <span class="gui">Ana Seçke</span>den kapsam ekleyin ya da çıkarın.</p></li>
+<li class="list"><p class="p">Yeni <span class="link"><a href="unity-dash-friends.html" title="Arkadaşlar kapsamı">Arkadaşlar kapsamı</a></span> ile sosyal ağlarınızdan iletilerinize göz atın.</p></li>
+</ul></div></div></div>
+</li>
+<li class="list"><p class="p">Ana Seçke, Empathy ve daha fazlası ile çevrimiçi tümleşimi kurmak için kimlik bilgilerinizi <span class="link"><a href="accounts.html" title="Çevrimiçi hesaplar">Çevrimiçi Hesaplar</a></span>'a girin.</p></li>
+<li class="list"><p class="p">Kişisel adres defteriniz <span class="link"><a href="contacts.html" title="Kişiler">Kişiler</a></span>'i kullanarak arkadaşlarınızın ve meslektaşlarınızın bağlantı bilgilerini takip edin.</p></li>
+</ul></div></div></div></div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Daha Fazla Bilgi</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="shell-overview.html" title="Masaüstü, uygulamalar ve pencereler">Masaüstü, uygulamalar ve pencereler</a><span class="desc"> — <span class="link"><a href="unity-introduction.html" title="Ubuntu'ya Hoş Geldiniz">Tanıtım</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Kullanışlı klavye kısayolları">klavye kısayolları</a></span>, <span class="link"><a href="shell-windows.html" title="Pencereler ve çalışma alanları">pencereler</a></span>…</span>
+</li>
+<li class="links "><a href="index.html" title="Ubuntu Masaüstü Rehberi">Ubuntu Masaüstü Rehberi</a></li>
+</ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

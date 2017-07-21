@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=ast>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Activar o bloquiar accesu al tornafueos</title>
+<link rel="stylesheet" type="text/css" href="ast.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Guía del escritoriu d'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía d'escritoriu d'Ubuntu</a> » <a class="trail" href="net.html" title="Redes, web, corréu y chat">Redes, web, corréu y chat</a> » <a class="trail" href="net-security.html" title="Caltenese a salvu n'Internet">Caltenese a salvu n'Internet</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Activar o bloquiar accesu al tornafueos</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Ubuntu incorpora'l <span class="app">Tornafueos ensin complicaciones («Uncomplicated Firewall»)</span> (<span class="app">ufw</span>) pero nun vien activáu de forma predeterminada. Como Ubuntu nun trai dengún serviciu de rede abiertu (sacante pa la infraestructura básica de rede) na instalación predeterminada, nun se precisa nengún tornafueos pa bloquiar intentos de conexones malicioses entrantes.</p>
+<p class="p">Pa tener más información sobre l'usu d'Ufw, consulte la <span class="link"><a href="https://wiki.ubuntu.com/UncomplicatedFirewall" title="https://wiki.ubuntu.com/UncomplicatedFirewall">documentación en llinia</a></span>.</p>
+</div>
+<div id="ufw-enable" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Activar o desactivar el tornafueos</span></h2></div>
+<div class="region"><div class="contents"><p class="p">P'activar el tornafueos, teclee <span class="cmd">sudo ufw enable</span> nun terminal. Pa desactivar ufw, teclee <span class="cmd">sudo ufw disable</span>.</p></div></div>
+</div></div>
+<div id="ufw-filter" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Permitir o refugar cierta actividá de rede</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Munchos programes tán diseñaos pa ufiertar servicios de rede. Por exemplu, pue compartir conteníos, o dexar que daquién vea'l so escritoriu de forma remota. Dependiendo de los programes qu'instale, ye posible que tenga qu'axustar el tornafueos pa dexar qu'esos programes funcionen según lo previsto. Ufw yá trai delles regles predefiníes. Por exemplu, pa permitir conexones <span class="app">SSH</span>, introduza <span class="cmd">sudo ufw allow ssh</span> nun terminal. Pa bloquiar el SSH, introduza <span class="cmd">sudo ufw block ssh</span>.</p>
+<p class="p">Tou programa qu'apurre servicios usa un <span class="em">puertu de rede</span> específicu. Pa permitir l'accesu a los servicios d'esi programa, tien de dexar l'accesu al so puertu asignáu nel tornafueos. Pa dexar conexones al puertu 53, introduza <span class="cmd">sudo ufw allow 53</span> nun terminal. Pa bloquiar el puertu 53, introduza <span class="cmd">sudo ufw block 53</span>.</p>
+<p class="p">Pa comprobar l'estáu actual de ufw, teclee <span class="cmd">sudo ufw status</span> nun terminal.</p>
+</div></div>
+</div></div>
+<div id="gufw" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Usar ufw ensin un terminal</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Tamién pue instalar <span class="app">Gufw</span> si prefier configurar el tornafueos ensin usar el terminal. Pa instalalu, calque <span class="link"><a href="https://apps.ubuntu.com/cat/applications/gufw" title="https://apps.ubuntu.com/cat/applications/gufw">nesti enllaz</a></span>.</p>
+<p class="p">Va poder llanzar esti programa buscando <span class="app">Configuración del tornafueos</span> nel <span class="gui">Tableru</span>. El programa nun precisa tar abiertu pa que funcione'l tornafueos.</p>
+</div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">More Information</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-security.html" title="Caltenese a salvu n'Internet">Caltenese a salvu n'Internet</a><span class="desc"> — <span class="link"><a href="net-antivirus.html" title="¿Necesito software antivirus?">Software anntivirus</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Activar o bloquiar accesu al tornafueos">tornafueos básicos</a></span>…</span>
+</li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Lleer tamién</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-firewall-ports.html" title="Puertos de rede usaos de normal">Puertos de rede usaos de normal</a><span class="desc"> — Tien qu'especificar el puertu de rede correutu p'activar/desactivar l'accesu a rede pa un programa nel so tornafueos.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

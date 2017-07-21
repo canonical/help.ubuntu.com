@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang=uk>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Увімкнути липкі клавіші</title>
+<link rel="stylesheet" type="text/css" href="uk.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Керівництво користувача Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Керівництво користувача Ubuntu</a> » <a class="trail" href="hardware.html" title="Обладнання й драйвери">Обладнання</a> » <a class="trail" href="keyboard.html" title="Клавіатура">Клавіатура</a> » </div>
+<div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Керівництво користувача Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Керівництво користувача Ubuntu</a> » <a class="trail" href="prefs.html" title="Налаштування користувача та системи">Параметри</a> » <a class="trail" href="keyboard.html" title="Клавіатура">Клавіатура</a> » </div>
+<div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Керівництво користувача Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Керівництво користувача Ubuntu</a> » <a class="trail" href="a11y.html" title="Спеціальні можливості">Спеціальні можливості</a> › <a class="trail" href="a11y.html#mobility" title="Проблеми з руховим апаратом">Проблеми з руховим апаратом</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Увімкнути липкі клавіші</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p"><span class="em">Sticky keys</span> дозволяють вам натискати одну клавішу за один раз для швидких клавіш, замість того, щоб утримувати всі клавіші одночасно. Наприклад, швидкі клавіші <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> слугують для перемикання між вікнами. При вимкнених липких клавішах, вам би було потрібно утримувати обидві клавіші одночасно; при ввімкнених липких клавішах, вам потрібно натиснути <span class="key"><kbd>Alt</kbd></span>, а потім <span class="key"><kbd>Tab</kbd></span>, щоб зробити те ж саме.</p>
+<p class="p">Якщо вам важко тримати декілька клавіш одночасно, ви можете включити липкі клавіші.</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Натисніть піктограму з правого краю <span class="gui">панелі меню</span> і виберіть <span class="gui">Системні параметри</span>.</p></li>
+<li class="steps"><p class="p">Відкрийте <span class="gui">Загальний доступ</span> і виберіть вкладку <span class="gui">Набір</span>.</p></li>
+<li class="steps"><p class="p">Включити <span class="gui">Липкі клавіші</span>.</p></li>
+</ol></div></div></div>
+<div class="note note-tip" title="Підказка"><div class="inner">
+<div class="title title-note"><h2><span class="title">Швидке вмикання/вимикання липких клавіш</span></h2></div>
+<div class="region"><div class="contents"><p class="p">Під написом <span class="gui">Керується клавіатурою</span> виберіть <span class="gui">Вмикати та вимикати спеціальні можливості з клавіатури</span> для вмикання та вимикання «залипаючих» клавіш з клавіатури. При виборі цієї опції для вмикання або вимикання «залипаючих» клавіш можна натиснути <span class="key"><kbd>Shift</kbd></span> п’ять разів підряд.</p></div></div>
+</div></div>
+<p class="p">Якщо ви натиснете дві клавіші одночасно, то липкі клавіші можуть тимчасово відключитися, що ви могли натиснути комбінацію клавіш у звичайний спосіб.</p>
+<p class="p">Наприклад, якщо у вас увімкнено липкі клавіші, і ви натискаєте <span class="key"><kbd>Alt</kbd></span> і <span class="key"><kbd>Tab</kbd></span> одночасно, то липкі клавіші не будуть чекати поки ви натиснете іншу клавішу, якщо ця опція увімкнена. Однак, вони <span class="em">would</span> очікувати, якщо буде натиснута одна клавіша. Це – корисно, якщо ви в змозі натиснути деякі комбінації клавіш одночасно (наприклад, клавіші, які розміщені близько одна біля одної), а інші – не можете.</p>
+<p class="p">Виберіть <span class="gui">Вимкнено, якщо дві клавіші натиснуті разом</span>, щоб включити це.</p>
+<p class="p">Ви можете налаштувати комп'ютер, щоб він видавав звук, коли ви використовуєте скорочення при включеному режимі липких клавіш. Це корисно, якщо ви бажаєте знати, коли комп'ютер чекає на введення клавіатурних скорочень, тому наступна клавіша, яку ви натиснете, буде розпізнаватися як скорочення. Виберіть <span class="gui">Подавати сигнал, коли модифікатор натиснуто</span>, щоб включити це.</p>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Докладніше</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="keyboard.html" title="Клавіатура">Клавіатура</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Використання альтернативних джерел введення">Джерела вводу</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Як зробити клавіатурний курсор таким щоб блимав">блимання курсора</a></span>, <span class="link"><a href="windows-key.html" title='Що таке клавіша "Супер"?'>клавіша «Super»</a></span>, <span class="link"><a href="a11y.html#mobility" title="Проблеми з руховим апаратом">спеціальні можливості з клавіатури</a></span>…</span>
+</li>
+<li class="links "><a href="a11y.html#mobility" title="Проблеми з руховим апаратом">Проблеми з руховим апаратом</a></li>
+</ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

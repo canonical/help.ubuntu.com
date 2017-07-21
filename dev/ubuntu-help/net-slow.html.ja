@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang=ja>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>インターネットが遅い</title>
+<link rel="stylesheet" type="text/css" href="ja.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html" title="ネットワーク関連の問題">ネットワーク関連の問題</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">インターネットが遅い</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">インターネットを使用中に遅いと感じられる場合、その原因がいくつか考えられます。</p>
+<p class="p">web ブラウザーを一度閉じてから開きなおす、またインターネットを一度切断してから再接続してみてください。(インターネットを遅くしている可能性がある原因がリセットされます。)</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list">
+<p class="p"><span class="em-bold em">Busy time of day</span></p>
+<p class="p">インターネットサービスプロバイダーは複数世帯でインターネット共有されるよう接続の設定を行うのが一般的です。専用の電話回線やケーブル接続を使用している場合であっても、電話交換器から先の接続は実際には共有されている可能性があります。このような場合、インターネットが近隣世帯で同時に使用されると、インターネットが遅くなったと感じることがあります。たとえば、隣の人が夕方などの同時刻にインターネットを使用していると遅くなったと感じることもあるでしょう。</p>
+</li>
+<li class="list">
+<p class="p"><span class="em-bold em">多くのものを同時にダウンロードする</span></p>
+<p class="p">インターネット接続していて複数のファイルを同時にダウンロードしたり、ビデオ見ていたりすると、期待しているインターネット速度が維持されないことがあります。このような場合、遅くなったと感じます。</p>
+</li>
+<li class="list">
+<p class="p"><span class="em-bold em">信頼できない接続</span></p>
+<p class="p">インターネット接続、特に需要の高いエリアでの接続や一時的な接続では、まったくできないものがあります。混雑しているカフェやカンファレンスセンターなどでは、インターネット接続が混雑しすぎていたり、または接続自体がまったく信頼できないことがあります。</p>
+</li>
+<li class="list">
+<p class="p"><span class="em-bold em">ワイヤレス接続信号が弱い</span></p>
+<p class="p">無線 (wifi) でインターネット接続している場合はトップバーのネットワークアイコンで十分なワイヤレス信号を受信しているか確認します。十分な信号を受信していない場合、受け取っている信号に十分な強度がないためインターネット通信が遅くなる場合があります。</p>
+</li>
+<li class="list">
+<p class="p"><span class="em-bold em">使用しているモバイルインターネット接続が遅い</span></p>
+<p class="p">モバイルインターネット接続を使用していて遅いと感じた場合、信号の受信状態が悪い地域に移動したことが原因の場合があります。こうした状況の場合には、接続が 3G のような高速な「モバイルブロードバンド」から GPRS のような低速ながら安定した接続に自動的に切り替わります。</p>
+</li>
+<li class="list">
+<p class="p"><span class="em-bold em">Web ブラウザーに問題がある</span></p>
+<p class="p">web ブラウザーの動作速度が低下するような問題に遭遇する場合があります。読み込みが困難な web サイトに移動したり、ブラウザーを長時間開いたままにしていた場合など、原因は多々考えられます。まずブラウザーのウィンドウをすべて閉じてから再度開きなおし、動作速度に違いが見られるかどうか試してみてください。</p>
+</li>
+</ul></div></div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">詳細</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-problem.html" title="ネットワーク関連の問題">ネットワーク関連の問題</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="無線ネットワークトラブルシューティング">無線接続トラブルシューティング</a></span>、<span class="link"><a href="net-wireless-find.html" title="一覧に自分の無線ネットワークが表示されません">wifi ネットワーク検索</a></span>…</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

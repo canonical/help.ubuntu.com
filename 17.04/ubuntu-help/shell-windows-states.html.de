@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang=de>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Fenstereigenschaften</title>
+<link rel="stylesheet" type="text/css" href="de.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu-Leitfaden</a> » <a class="trail" href="shell-overview.html" title="Arbeitsfläche, Anwendungen &amp; Fenster">Arbeitsfläche</a> › <a class="trail" href="shell-overview.html#apps" title="Anwendungen und Fenster">Anwendungen und Fenster</a> » <a class="trail" href="shell-windows.html" title="Fenster und Arbeitsflächen">Fenster und Arbeitsflächen</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Arbeiten mit Fenstern">Fenster</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Fenstereigenschaften</span></h1></div>
+<div class="region">
+<div class="contents"><p class="p">Fenster können im Sinne Ihres Arbeitsablaufs in ihrer Größe verändert oder versteckt werden.</p></div>
+<div id="min-rest-close" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Minimieren, Wiederherstellen und Schließen</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">So minimieren oder verstecken Sie ein Fenster:</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list" style="list-style-type:disc">
+<li class="list"><p class="p">Klicken Sie auf das <span class="gui">-</span> in der oberen linken Ecke der Menüleiste der Anwendung. Falls die Anwendung maximiert ist (und sie somit Ihren gesamten Bildschirm einnimmt), erscheint die Menüleiste ganz oben auf Ihrem Bildschirm. Ansonsten erscheint die Schaltfläche zum Minimieren ganz oben im Anwendungsfenster.</p></li>
+<li class="list"><p class="p">Oder drücken Sie <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Leertaste</kbd></span></span>, um das Fenstermenü anzuzeigen. Dann drücken Sie <span class="key"><kbd>n</kbd></span>. Die Fenster »verschwinden« im Starter.</p></li>
+</ul></div></div></div>
+<p class="p">So stellen Sie ein Fenster wieder her:</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list" style="list-style-type:disc"><li class="list"><p class="p">Klicken Sie im <span class="link"><a href="unity-launcher-intro.html" title="Nutzen Sie den Starter, um Anwendungen zu starten">Starter</a></span> darauf oder rufen Sie es aus dem Fensterumschalter ab, indem Sie <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> drücken.</p></li></ul></div></div></div>
+<p class="p">So schließen Sie ein Fenster:</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list" style="list-style-type:disc">
+<li class="list"><p class="p">Klicken Sie auf das <span class="gui">x</span> in der linken oberen Ecke des Fensters oder</p></li>
+<li class="list"><p class="p">Drücken Sie <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F4</kbd></span></span> oder</p></li>
+<li class="list"><p class="p">Drücken Sie <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Leertaste</kbd></span></span>, um das Fenstermenü zu öffnen und anschließend <span class="key"><kbd>c</kbd></span>.</p></li>
+</ul></div></div></div>
+</div></div>
+</div></div>
+<div id="resize" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Größe ändern</span></h2></div>
+<div class="region"><div class="contents">
+<div class="note note-important" title="Wichtig"><div class="inner"><div class="region"><div class="contents"><p class="p">Die Größe eines Fensters kann nicht verändert werden, wenn es <span class="em">maximiert</span> ist.</p></div></div></div></div>
+<p class="p">So ändern Sie die Größe eines Fensters horizontal und/oder vertikal:</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list" style="list-style-type:disc"><li class="list"><p class="p">Bewegen Sie den Mauszeiger in eine beliebige Ecke des Fensters, sodass er zu einem »Eckenzeiger« wird. Klicken+Halten+Ziehen Sie, um die Größe des Fensters in eine beliebige Richtung zu verändern.</p></li></ul></div></div></div>
+<p class="p">So ändern Sie die Größe nur horizontal:</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list" style="list-style-type:disc"><li class="list"><p class="p">Verschieben Sie den Mauszeiger an eine Seite des Fensters, bis er sich in einen »Seitenzeiger« verwandelt. Klicken+Halten+Ziehen Sie, um die Größe des Fensters horizontal zu verändern.</p></li></ul></div></div></div>
+<p class="p">So ändern Sie die Größe nur vertikal:</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list" style="list-style-type:disc"><li class="list"><p class="p">Verschieben Sie den Mauszeiger ans obere oder untere Ende des Fensters, bis er sich in einen »Hochzeiger« oder »Runterzeiger« verwandelt. Klicken+Halten+Ziehen Sie, um die Größe des Fensters vertikal zu verändern.</p></li></ul></div></div></div>
+</div></div>
+</div></div>
+<div id="arrange" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Fenster auf der Arbeitsfläche anordnen</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">So platzieren Sie zwei Fenster nebeneinander:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Klicken Sie auf die <span class="gui">Titelleiste</span> eines Fensters und ziehen Sie es an den linken Bildschirmrand. Sobald der <span class="gui">Mauszeiger</span> den Rand berührt, wird die linke Hälfte des Bildschirms hervorgehoben. Lassen Sie die Maustaste los und das Fenster nimmt die linke Hälfte des Bildschirms ein.</p></li>
+<li class="steps"><p class="p">Ziehen Sie ein anderes Fenster auf die rechte Seite: Sobald die rechte Seite des Bildschirms hervorgehoben wird, lassen Sie los. Jedes der zwei Fenster füllt eine Hälfte des Bildschirms aus.</p></li>
+</ol></div></div></div>
+<div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">Durch das Drücken von <span class="key"><kbd>Alt</kbd></span> + Klicken irgendwo im Fenster, können Sie das Fenster verschieben. Einige Leute finden es vielleicht einfacher, als auf die <span class="gui">Titelleiste</span> einer Anwendung zu klicken.</p></div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Arbeiten mit Fenstern">Arbeiten mit Fenstern</a></li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Siehe auch</span></h2></div>
+<div class="region"><ul><li class="links "><a href="unity-menubar-intro.html#window-management" title="Schaltflächen zur Fensterverwaltung">Schaltflächen zur Fensterverwaltung</a></li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

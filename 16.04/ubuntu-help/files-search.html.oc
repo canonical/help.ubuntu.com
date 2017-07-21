@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=oc>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Recèrca de fichièrs</title>
+<link rel="stylesheet" type="text/css" href="oc.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Guida del burèu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guide del burèu Ubuntu</a> » <a class="trail" href="files.html" title="Fichièrs, dorsièrs &amp; recèrcas">Fichièrs</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Recèrca de fichièrs</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Podètz recercar des fichièrs per nom o per tipe dirèctament dins lo gestionari de fichièrs. Podètz quitament enregistrar les recèrcas correntas que apareisson alara dins un dorsièr especial de votre dorsièr personal.</p>
+<div class="steps"><div class="inner">
+<div class="title title-steps"><h2><span class="title">Recèrca</span></h2></div>
+<div class="region"><ol class="steps">
+<li class="steps"><p class="p"><span class="link"><a href="files-browse.html" title="Consultacion de vòstres fichièrs e dorsièrs">Dobrir lo gestionari de fichièrs</a></span></p></li>
+<li class="steps"><p class="p">Se coneissètz lo nom del dorsièr que conten los fichièrs que recercatz, anatz a aqueste dorsièr.</p></li>
+<li class="steps"><p class="p">Clicatz sus la loupe dins la barra d'aisinas, o quichatz sus <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>F</kbd></span></span>.</p></li>
+<li class="steps"><p class="p">Sasissètz un o mantun mot que sabètz contenguts dins lo nom del fichièr. Per exemple, se apelatz totas vòstras facturas amb lo mot « Facture », sasissètz <span class="input">factura</span>. Quichatz sus la tòca <span class="key"><kbd>Entrada</kbd></span>. Los mots son recercats quina que siá la cassa.</p></li>
+<li class="steps">
+<p class="p">Podètz afinar vòstra recèrca per emplaçament e tipe de fichièr.</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p">Clicatz sus <span class="gui">dorsièr personal</span> per restreindre la recèrca de resultats a votre <span class="file">dorsièr personal</span>, o <span class="gui">Totes los fichièrs</span> per recercar partout.</p></li>
+<li class="list"><p class="p">Clicatz sus <span class="key"><kbd>+</kbd></span> e causissètz un <span class="gui">Tipe de fichièr</span> a partir de la lista desenrotlanta per restreindre la recèrca de resultats en se basant sul tipe de fichièr. Clicatz sul boton <span class="key"><kbd>x</kbd></span> per levar aquesta opcion e élargir los resultats de recèrca.</p></li>
+</ul></div></div></div>
+</li>
+<li class="steps"><p class="p">Podètz dobrir, copiar, suprimir o même trabalhatz amb los fichièrs a partir des resultats de la recèrca, coma se vous étiez dins n'importe quin dorsièr del gestionari de fichièrs.</p></li>
+<li class="steps"><p class="p">Clicatz tornamai sus la loupe dins la barra d'aisinas per quitar la recèrca e tornar al dorsièr.</p></li>
+</ol></div>
+</div></div>
+<p class="p">Se vous efectuatz certanas recèrcas sovent, podètz les enregistrar per i accedir rapidament.</p>
+<div class="steps"><div class="inner">
+<div class="title title-steps"><h2><span class="title">Enregistrament d'una recèrca</span></h2></div>
+<div class="region"><ol class="steps">
+<li class="steps"><p class="p">Lancez una recèrca coma çaisús.</p></li>
+<li class="steps"><p class="p">Quand sètz satisfaits des paramètres de recèrca, clicatz sus <span class="gui">Fichièr</span> dins la barra de menú e seleccionatz  <span class="gui">Enregistrar la recèrca sous...</span>.</p></li>
+<li class="steps"><p class="p">Donnez un nom a la recèrca e clicatz sus <span class="gui">Enregistrar</span>. Se o volètz, causissètz un repertòri diferent per i enregistrar la recèrca. Quand que vous desplaçatz dins aqueste repertòri, lo salvament de vòstra recèrca apareis jos la forma d'una icòna de dorsièr orange amb una loupe dessús.</p></li>
+</ol></div>
+</div></div>
+<p class="p">Per suprimir lo fichièr de recèrca quand vous en avez acabat amb, <span class="link"><a href="files-delete.html" title="Supression de fichièrs e de dorsièrs">suprimissètz</a></span> simplament la recèrca coma vous lo feriez amb n'importe quin autre fichièr. Quand vous suprimissètz una recèrca salvada, aquò ne supprime pas los fichièrs que correspondent aux critèris de recèrca.</p>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Mai d'entresenhas</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="files.html" title="Fichièrs, dorsièrs &amp; recèrcas">Fichièrs, dorsièrs &amp; recèrcas</a><span class="desc"> — <span class="link"><a href="files-search.html" title="Recèrca de fichièrs">Recèrca</a></span>, <span class="link"><a href="files-delete.html" title="Supression de fichièrs e de dorsièrs">supression de fichièrs</a></span>, <span class="link"><a href="files.html#backup" title="Salvaments">salvaments</a></span>, <span class="link"><a href="files.html#removable" title="Mèdias amovibles e disques extèrnes">periferics amovibles</a></span>, <span class="link"><a href="files.html#documents" title="Documents">documents</a></span>…</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang=pt-BR>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Securing File and Print Server</title>
+<link rel="stylesheet" type="text/css" href="pt_BR.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../16.04" class="trail">Ubuntu 16.04</a> » <a class="trail" href="index.html" title="Guia para servidores Ubuntu">Guia para servidores Ubuntu</a> » <a class="trail" href="samba.html" title="Samba">Samba</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="samba-printserver.html" title="Servidor de Impressão">Anterior</a><a class="nextlinks-next" href="samba-dc.html" title="As a Domain Controller">Próximo</a>
+</div>
+<div class="hgroup"><h1 class="title">Securing File and Print Server</h1></div>
+<div class="region">
+<div class="contents"></div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="samba-fileprint-security.html#samba-security-mode" title="Modos de Segurança do Samba">Modos de Segurança do Samba</a></li>
+<li class="links"><a class="xref" href="samba-fileprint-security.html#samba-user-security" title="Security = User">Security = User</a></li>
+<li class="links"><a class="xref" href="samba-fileprint-security.html#samba-share-security" title="Segurança do Compartilhamento">Segurança do Compartilhamento</a></li>
+<li class="links"><a class="xref" href="samba-fileprint-security.html#samba-apparmor" title="Perfil Samba AppArmor">Perfil Samba AppArmor</a></li>
+<li class="links"><a class="xref" href="samba-fileprint-security.html#samba-security-resources" title="Recursos">Recursos</a></li>
+</ul></div>
+<div class="sect2 sect" id="samba-security-mode"><div class="inner">
+<div class="hgroup"><h2 class="title">Modos de Segurança do Samba</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Existem dois níveis de segurança disponíveis para o protocolo de rede CIFS - Common Internet Filesystem, <span class="em emphasis">user-level</span> e <span class="em emphasis">share-level</span>. A implementação <span class="em emphasis">security mode</span> do Samba permite mais flexibilidade, oferecendo quatro maneiras de implementar segurança em nível de usu[ario e uma maneira de implementar nível de compartilhamento:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+          <p class="para">
+          <span class="em emphasis">security = user:</span> requires clients to supply a username and password to connect to shares. 
+          Samba user accounts are separate from system accounts, but the <span class="app application">libpam-winbind</span> 
+          package will sync system users and passwords with the Samba user database.
+          </p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">security = domain:</span> este modo permite que o servidor Samba apareça para os clientes Windows como um Primary Domain Controller (PDC), Backup Domain Controller (BDC), ou um Domain Member Server (DMS). Veja <a class="xref" href="samba-dc.html" title="As a Domain Controller">As a Domain Controller</a> para mais informações.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">security = ADS:</span> permite que o servidor Samba seja adicionado a um domínio do Active Directory como um membro nativo. Veja <a class="xref" href="samba-ad-integration.html" title="Active Directory Integration">Active Directory Integration</a> para detalhes.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">security = server:</span> este modo foi deixado de lado desde antes do Samba poder se tornar um servidor membro, e devido a algumas questões relacionadas a segurança não deve ser utilizado. Veja a seção <a href="http://samba.org/samba/docs/man/Samba-HOWTO-Collection/ServerType.html#id349531" class="ulink" title="http://samba.org/samba/docs/man/Samba-HOWTO-Collection/ServerType.html#id349531">Segurança de Servidores</a> do guia do Samba para mais detalhes.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">security = share:</span> permite que clientes se conectem a compartilhamentos sem informar um usuário e senha.</p>
+        </li>
+</ul></div>
+<p class="para">O modo de segurança que você optar irá depender de seu ambiente e do papel que o servidor Samba irá cumprir.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="samba-user-security"><div class="inner">
+<div class="hgroup"><h2 class="title">Security = User</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Esta seção irá reconfigurar o servidor de arquivos e impressão Samba, a partir de <a class="xref" href="samba-fileserver.html" title="File Server">File Server</a> e <a class="xref" href="samba-printserver.html" title="Servidor de Impressão">Servidor de Impressão</a>, para requerer autenticação.</p>
+<p class="para">
+      First, install the <span class="app application">libpam-winbind</span> package which will sync the system users to the Samba
+      user database:
+      </p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install libpam-winbind</span>
+</pre></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents">
+        <p class="para">
+        If you chose the <span class="em emphasis">Samba Server</span> task during installation <span class="app application">libpam-winbind</span>
+        is already installed.
+        </p>
+      </div></div></div></div>
+<p class="para">Edite <span class="file filename">/etc/samba/smb.conf</span>, e na seção <span class="em emphasis">[share]</span> mude:</p>
+<div class="code"><pre class="contents ">    guest ok = no
+</pre></div>
+<p class="para">Finalmente, reinicialize o Samba para que as novas configurações entrem em efeito:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo systemctl restart smbd.service nmbd.service</span>
+</pre></div>
+<p class="para">Agora quando estiver conectando aos diretórios ou impressoras compartilhados serão pedidos usuário e senha.</p>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents">
+        <p class="para">Se você optar por mapear um drive de rede sobre o compartilhamento você pode marcar o checkbox <span class="quote">"Reconectar ao efetuar Logon"</span>, que irá pedir para você digitar usuário e senha uma só vez, pelo menos até que a senha mude.</p>
+      </div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="samba-share-security"><div class="inner">
+<div class="hgroup"><h2 class="title">Segurança do Compartilhamento</h2></div>
+<div class="region">
+<div class="contents"><p class="para">Existem diversas opções disponíveis para aumentar a segurança para cada diretório compartilhado. Usanso o exemplo <span class="em emphasis">[share]</span>, esta seção irá abordar algumas opções comuns.</p></div>
+<div class="sect3 sect" id="windows-networking-groups"><div class="inner">
+<div class="hgroup"><h3 class="title">Grupos</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Os grupos definem uma relação de computadores ou usuários que têm um nível comum de acesso a recursos particulares da rede e oferece um nível detalhado para controlador o acesso a tais recursos. Por exemplo, se o grupo <span class="em emphasis">qa</span> contem os usuários <span class="em emphasis">freda</span>, <span class="em emphasis">danika</span> e <span class="em emphasis">rob</span> e um segundo grupos <span class="em emphasis">support</span> contem os seguintes usuários <span class="em emphasis">danika</span>, <span class="em emphasis">jeremy</span> e <span class="em emphasis">vincent</span> em seguida, certos recursos da rede podem ser configurados para que o grupo <span class="em emphasis">qa</span> seja acessível por freda, danika e rob, mas não por jeremy ou vincent. Desde que o usuário <span class="em emphasis">danika</span> pertença a ambos os grupos <span class="em emphasis">qa</span> e <span class="em emphasis">support</span>, ela será capaz de acessar recursos de ambos os grupos, ao passo que todos os outros usuários terão acesso a recursos explicitamente permitidos ao grupo de que fazem parte.</p>
+<p class="para">Por padrão o Samba procura por grupos locais do sistema definidos em <span class="file filename">/etc/group</span> para determinar quais usuários pertencem a quais grupos. Para mais informações sobre como adicionar e remover usuários de grupos veja <a class="xref" href="user-management.html#adding-deleting-users" title="Adicionando e Removendo Usuários">Adicionando e Removendo Usuários</a>.</p>
+<p class="para">Quando estiver definindo grupos no arquivo de configuração do Samba, <span class="file filename">/etc/samba/smb.conf</span>, a sintaxe reconhecida é para preceder o nome do grupo com um símbolo de  "@". Por exemplo, se você quiser definir um grupo chamado <span class="em emphasis">sysadmin</span> em uma certa seção do arquivo <span class="file filename">/etc/samba/smb.conf</span>, você deverá fazê-lo digitando o nome do grupo como <span class="em em-bold emphasis">@sysadmin</span>.</p>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="samba-file-permissions"><div class="inner">
+<div class="hgroup"><h3 class="title">Permissões de Arquivo</h3></div>
+<div class="region"><div class="contents">
+<p class="para">As Permissões de Arquivos definem direitos específicos que um computador ou usuário possui em determinado diretório, arquivo ou conjunto de arquivos. Tais permissões devem ser definidas editando o arquivo <span class="file filename">/etc/samba/smb.conf</span> e especificando as permissões explícitas de um compartilhamento.</p>
+<p class="para">Por exemplo, se você definiu um compartilhamento Samba chamado <span class="em emphasis">share</span> e deseja dar permissões <span class="em emphasis">read-only</span> para um grupo de usuários chamado de <span class="em emphasis">qualidade</span>, mas gostaria de permitir escrita para o compartilhamento pelo grupo chamado <span class="em emphasis">sysadmins</span> e o usuário  <span class="em emphasis">vicente</span>, então você pode editar o arquivo  <span class="file filename">/etc/samba/smb.conf</span>e adicionar as seguintes entradas sob o compartilhamento <span class="em emphasis">[share]</span>:</p>
+<div class="code"><pre class="contents ">    read list = @qualidade
+    write list = @sysadmins, vicente
+</pre></div>
+<p class="para">Outra possível permissão do Samba é declarar permissões  <span class="em emphasis">administrativas</span> para um determinado recurso compartilhado. Usuários que possuem permissões administrativas podem ler, escrever ou modificar qualquer informação contida no recurso em que as permissões foram concedidas ao usuário.</p>
+<p class="para">Por exemplo, se você quer dar permissões administrativas à usuária <span class="em emphasis">melissa</span> ao compartilhamento de exemplo <span class="em emphasis">share</span>, você deve editar o arquivo <span class="file filename">/etc/samba/smb.conf</span>, e adicionad a seguinte linha abaixo da entrada <span class="em emphasis">[share]</span>:</p>
+<div class="code"><pre class="contents ">    admin users = melissa
+</pre></div>
+<p class="para">Após editar <span class="file filename">/etc/samba/smb.conf</span>, reinicialize o Samba para que as alterações tenham efeito:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo systemctl restart smbd.service nmbd.service</span>
+</pre></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents">
+          <p class="para">Para que as opções <span class="em emphasis">read list</span> e <span class="em emphasis">write list</span> funcionem, o modo de segurança do Samba <span class="em emphasis">não pode</span> estar definido como <span class="em emphasis">security = share</span></p>
+        </div></div></div></div>
+<p class="para">Agora que o Samba foi configurado para limitar quais grupos possuem acesso ao diretório compartilhado, as permissões do sistema de arquivos devem ser atualizadas.</p>
+<p class="para">As permissões de arquivo tradicionais Linux não mapeiam bem com as ACLs (Listas de Controle de Acesso) do Windows NT. Por sorte as ACLs POSIX ACLs estão disponíveis nos servidores Ubuntu provendo controle de acesso mais refinado. Por exemplo, para habilitar ACLs em um sistema de arquivos EXT3 <span class="file filename">/srv</span>, edite <span class="file filename">/etc/fstab</span> adicionando a opção <span class="em emphasis">acl</span>:</p>
+<div class="code"><pre class="contents ">UUID=66bcdd2e-8861-4fb0-b7e4-e61c569fe17d /srv  ext3    noatime,relatime,acl 0       1
+</pre></div>
+<p class="para">Então remonte a partição:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo mount -v -o remount /srv</span>
+</pre></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents">
+          <p class="para">O exemplo abaixo assume que <span class="file filename">/srv</span> esteja em uma partição separada. Se <span class="file filename">/srv</span>, ou o que quer que seja que você tenha configurado como caminho para seu compartilhamento fizer parte da partição  <span class="file filename">/</span> um reboot pode ser necessário.</p>
+        </div></div></div></div>
+<p class="para">Para realizar a configuração do Samba a seguir, serão dadas as permissões de ler, escrever e executar ao grupo <span class="em emphasis">sysadmins</span> para <span class="file filename">/srv/samba/share</span>, ao grupo <span class="em emphasis">qualidade</span> serão dadas permissões de ler e executar, e os arquivos serão de propriedade da usuária <span class="em emphasis">melissa</span>. Digite o seguinte em um terminal:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo chown -R melissa /srv/samba/share/</span>
+<span class="cmd command">sudo chgrp -R sysadmins /srv/samba/share/</span>
+<span class="cmd command">sudo setfacl -R -m g:qa:rx /srv/samba/share/</span>
+</pre></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents">
+          <p class="para">O comando <span class="app application">setfacl</span> abaixo dá permissões de  <span class="em emphasis">execução</span> para todos os arquivos no diretório <span class="file filename">/srv/samba/share</span>, que você pode ou não querer.</p>
+        </div></div></div></div>
+<p class="para">Agora de um cliente Windows client você deve notar que as permissões estão implementadas. Veja as páginas de manual <span class="app application">acl</span> e <span class="app application">setfacl</span> para mais informações sobre as ACLs POSIX.</p>
+</div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect2 sect" id="samba-apparmor"><div class="inner">
+<div class="hgroup"><h2 class="title">Perfil Samba AppArmor</h2></div>
+<div class="region"><div class="contents">
+<p class="para">O Ubuntu vem com o módulo de segurança <span class="app application">AppArmor</span>, que fornece controles de acesso obrigatórios. O perfil padrão do AppArmor para o Samba precisa ser adaptado às suas configurações. Para mais detalhes de utilização do AppArmor veja <a class="xref" href="apparmor.html" title="AppArmor">AppArmor</a>.</p>
+<p class="para">Existem perfis padrão do AppArmor para <span class="file filename">/usr/sbin/smbd</span> e <span class="file filename">/usr/sbin/nmbd</span>, os binários do daemon the Samba, que são parte do pacote <span class="app application">apparmor-profiles</span>. Para instalar o pacote, digite a partir de um terminal:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install apparmor-profiles apparmor-utils</span>
+</pre></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents">
+        <p class="para">Este pacote contém perfis para diversos outros binários.</p>
+      </div></div></div></div>
+<p class="para">Por padrão para os perfis <span class="app application">smbd</span> e <span class="app application">nmbd</span> estão em <span class="em emphasis">queixar</span> de modo que permita o Samba trabalhar sem modificar o perfil e apenas registrando erros. Para colocar o perfil <span class="app application">smbd</span> dentro do modo <span class="em emphasis">valer</span>, o Samba terá que funcionar como esperado, o perfil terá de ser modificado para refletir em quaisquer diretórios que serão compartilhados.</p>
+<p class="para">Editar <span class="file filename">/etc/apparmor.d/usr.sbin.smbd</span> adicionando informações para <span class="em emphasis">[share]</span> a partir do servidor de arquivos, exemplo:</p>
+<div class="code"><pre class="contents ">  /srv/samba/share/ r,
+  /srv/samba/share/** rwkix,
+</pre></div>
+<p class="para">Agora coloque o perfil em <span class="em emphasis">valer</span> e recarregue-o:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo aa-enforce /usr/sbin/smbd</span>
+<span class="cmd command">cat /etc/apparmor.d/usr.sbin.smbd | sudo apparmor_parser -r</span>
+</pre></div>
+<p class="para">Agora você poderá ler, gravar e executar arquivos no diretório compartilhado normalmente, e o binário <span class="app application">smbd</span> acessará somente os arquivos e diretórios configurados. Certifique-se de adicionar entradas para cada diretório que você configurar como um compartilhamento do Samba. Além disso, qualquer erro será registrado no arquivo <span class="file filename">/var/log/syslog</span>.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="samba-security-resources"><div class="inner">
+<div class="hgroup"><h2 class="title">Recursos</h2></div>
+<div class="region"><div class="contents"><div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+          <p class="para">Para configurações mais aprofundadas do Samba veja a <a href="http://samba.org/samba/docs/man/Samba-HOWTO-Collection/" class="ulink" title="http://samba.org/samba/docs/man/Samba-HOWTO-Collection/">Coleção de HOWTO's do Samba</a></p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">O guia também está disponível em <a href="http://www.amazon.com/exec/obidos/tg/detail/-/0131882228" class="ulink" title="http://www.amazon.com/exec/obidos/tg/detail/-/0131882228">formato impresso</a>.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">O livro de O'Reilly <a href="http://www.oreilly.com/catalog/9780596007690/" class="ulink" title="http://www.oreilly.com/catalog/9780596007690/">Using Samba</a> é também uma boa referência.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">O <a href="http://samba.org/samba/docs/man/Samba-HOWTO-Collection/securing-samba.html" class="ulink" title="http://samba.org/samba/docs/man/Samba-HOWTO-Collection/securing-samba.html">Capítulo 18</a> da Coleção de Guias Samba é dedicado a segurança.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">Para obter mais informações sobre Samba e ACL veja a <a href="http://samba.org/samba/docs/man/Samba-HOWTO-Collection/AccessControls.html#id397568" class="ulink" title="http://samba.org/samba/docs/man/Samba-HOWTO-Collection/AccessControls.html#id397568">página Samba ACLs </a>.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">A página <a href="https://help.ubuntu.com/community/Samba" class="ulink" title="https://help.ubuntu.com/community/Samba"> Ubuntu Wiki Samba </a>.</p>
+        </li>
+</ul></div></div></div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="samba-printserver.html" title="Servidor de Impressão">Anterior</a><a class="nextlinks-next" href="samba-dc.html" title="As a Domain Controller">Próximo</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p></div>
+</div>
+</body>
+</html>

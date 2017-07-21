@@ -1,0 +1,164 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>C.5. Ubuntu Partitioning Programs</title>
+<link rel="stylesheet" type="text/css" href="install.css">
+<meta name="generator" content="DocBook XSL Stylesheets V1.76.1">
+<link rel="home" href="index.html" title="Ubuntu Installation Guide">
+<link rel="up" href="apc.html" title="Appendix C. Partitioning for Ubuntu">
+<link rel="prev" href="apcs04.html" title="C.4. Device Names in Linux">
+<link rel="next" href="apd.html" title="Appendix D. Random Bits">
+</head>
+<body bgcolor="white" text="black" link="#0000FF" vlink="#840084" alink="#0000FF">
+<div class="navheader">
+<table width="100%" summary="Navigation header">
+<tr><th colspan="3" align="center">C.5. Ubuntu Partitioning Programs</th></tr>
+<tr>
+<td width="20%" align="left">
+<a accesskey="p" href="apcs04.html">Prev</a> </td>
+<th width="60%" align="center">Appendix C. Partitioning for Ubuntu</th>
+<td width="20%" align="right"> <a accesskey="n" href="apd.html">Next</a>
+</td>
+</tr>
+</table>
+<hr>
+</div>
+<div class="sect1" title="C.5. Ubuntu Partitioning Programs">
+<div class="titlepage"><div><div><h2 class="title" style="clear: both">
+<a name="partition-programs"></a>C.5. Ubuntu Partitioning Programs</h2></div></div></div>
+<p>
+
+Several varieties of partitioning programs have been adapted by Debian
+and Ubuntu developers to work on various types of hard disks and computer
+architectures. Following is a list of the program(s) applicable for
+your architecture.
+
+</p>
+<div class="variablelist"><dl>
+<dt><span class="term"><span class="command"><strong>partman</strong></span></span></dt>
+<dd><p>
+
+Recommended partitioning tool in Ubuntu. This Swiss army knife can
+also resize partitions, create filesystems
+
+and assign them to the mountpoints.
+
+</p></dd>
+<dt><span class="term"><span class="command"><strong>cfdisk</strong></span></span></dt>
+<dd>
+<p>
+
+A simple-to-use, full-screen disk partitioner for the rest of us.
+
+</p>
+<p>
+
+Note that <span class="command"><strong>cfdisk</strong></span> doesn't understand FreeBSD
+partitions at all, and, again, device names may differ as a result.
+
+</p>
+</dd>
+<dt><span class="term"><span class="command"><strong>mac-fdisk</strong></span></span></dt>
+<dd><p>
+
+Mac-aware version of <span class="command"><strong>fdisk</strong></span>.
+
+</p></dd>
+</dl></div>
+<p>
+
+One of these programs will be run by default when you select
+<span class="guimenuitem">Partition disks</span> (or similar). It may be possible
+to use a different partitioning tool from the command line on VT2, but this
+is not recommended.
+
+</p>
+<p>
+
+One key point when partitioning for Mac type disks is that the
+swap partition is identified by its name; it must be named <span class="quote">“<span class="quote">swap</span>”</span>.
+All Mac linux partitions are the same partition type,
+Apple_UNIX_SRV2. Please read the fine manual. We also suggest reading the
+<a class="ulink" href="http://penguinppc.org/projects/yaboot/doc/mac-fdisk-basics.shtml" target="_top">mac-fdisk Tutorial</a>, which
+includes steps you should take if you are sharing your disk with MacOS.
+
+</p>
+<div class="sect2" title="C.5.1. Partitioning Newer PowerMacs">
+<div class="titlepage"><div><div><h3 class="title">
+<a name="idp7124656"></a>C.5.1. Partitioning Newer PowerMacs</h3></div></div></div>
+<p>
+
+If you are installing onto a NewWorld PowerMac you must create a
+special bootstrap partition to hold the boot loader. The size of this
+partition must have at least 819200 bytes and its partition type must be
+<span class="emphasis"><em>Apple_Bootstrap</em></span>.  If the bootstrap partition is
+not created with the <span class="emphasis"><em>Apple_Bootstrap</em></span> type your
+machine cannot be made bootable from the hard disk.  This partition
+can easily be created by creating a new partition in
+<span class="command"><strong>partman</strong></span> and telling it to use it as a <span class="quote">“<span class="quote">NewWorld
+boot partition</span>”</span>, or in <span class="command"><strong>mac-fdisk</strong></span> using the
+<strong class="userinput"><code>b</code></strong> command.
+
+</p>
+<p>
+
+The special partition type Apple_Bootstrap is required to prevent
+MacOS from mounting and damaging the bootstrap partition, as there are
+special modifications made to it in order for OpenFirmware to boot it
+automatically.
+
+</p>
+<p>
+
+Note that the bootstrap partition is only meant to hold 3 very small
+files: the <span class="command"><strong>yaboot</strong></span> binary, its configuration
+<code class="filename">yaboot.conf</code>, and a first stage OpenFirmware
+loader <span class="command"><strong>ofboot.b</strong></span>.  It need not and must not be
+mounted on your file system nor have kernels or anything else copied
+to it. The <span class="command"><strong>ybin</strong></span> and <span class="command"><strong>mkofboot</strong></span>
+utilities are used to manipulate this partition.
+
+</p>
+<p>
+
+In order for OpenFirmware to automatically boot Ubuntu the bootstrap
+partition should appear before other boot partitions on the disk,
+especially MacOS boot partitions.  The bootstrap partition should be
+the first one you create. However, if you add a bootstrap partition
+later, you can use <span class="command"><strong>mac-fdisk</strong></span>'s
+<strong class="userinput"><code>r</code></strong> command to reorder the partition map so the
+bootstrap partition comes right after the map (which is always
+partition 1). It's the logical map order, not the physical address
+order, that counts.
+
+</p>
+<p>
+
+Apple disks normally have several small driver partitions. If you
+intend to dual boot your machine with MacOSX, you should retain these
+partitions and a small HFS partition (800k is the minimum size). That
+is because MacOSX, on every boot, offers to initialize any disks which do
+not have active MacOS partitions and driver partitions.
+
+</p>
+</div>
+</div>
+<div class="navfooter">
+<hr>
+<table width="100%" summary="Navigation footer">
+<tr>
+<td width="40%" align="left">
+<a accesskey="p" href="apcs04.html">Prev</a> </td>
+<td width="20%" align="center"><a accesskey="u" href="apc.html">Up</a></td>
+<td width="40%" align="right"> <a accesskey="n" href="apd.html">Next</a>
+</td>
+</tr>
+<tr>
+<td width="40%" align="left" valign="top">C.4. Device Names in Linux </td>
+<td width="20%" align="center"><a accesskey="h" href="index.html">Home</a></td>
+<td width="40%" align="right" valign="top"> Appendix D. Random Bits</td>
+</tr>
+</table>
+</div>
+</body>
+</html>

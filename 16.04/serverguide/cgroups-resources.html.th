@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang=th>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>แหล่งข้อมูล</title>
+<link rel="stylesheet" type="text/css" href="th.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../16.04" class="trail">Ubuntu 16.04</a> » <a class="trail" href="index.html" title="คู่มือ Ubuntu Server">คู่มือ Ubuntu Server</a> » <a class="trail" href="cgroups.html" title="Control Groups">Control Groups</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="cgroups-manager.html" title="Manager">ก่อนหน้า</a><a class="nextlinks-next" href="clustering.html" title="Clustering">ถัดไป</a>
+</div>
+<div class="hgroup"><h1 class="title">แหล่งข้อมูล</h1></div>
+<div class="region"><div class="contents"><div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+          <p class="para">Manual pages referenced above can be found at:</p>
+          <div class="screen"><pre class="contents "><a href="http://manpages.ubuntu.com/manpages/en/man8/cgm.1.html" class="ulink" title="http://manpages.ubuntu.com/manpages/en/man8/cgm.1.html">cgm</a>
+<a href="http://manpages.ubuntu.com/manpages/en/man5/cgconfig.conf.5.html" class="ulink" title="http://manpages.ubuntu.com/manpages/en/man5/cgconfig.conf.5.html">cgconfig.conf</a>
+<a href="http://manpages.ubuntu.com/manpages/en/man8/cgmanager.8.html" class="ulink" title="http://manpages.ubuntu.com/manpages/en/man8/cgmanager.8.html">cgmanager</a>
+<a href="http://manpages.ubuntu.com/manpages/en/man8/cgproxy.8.html" class="ulink" title="http://manpages.ubuntu.com/manpages/en/man8/cgproxy.8.html">cgproxy</a>
+</pre></div>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">The upstream cgmanager project is hosted at <a href="http://cgmanager.linuxcontainers.org" class="ulink" title="http://cgmanager.linuxcontainers.org">linuxcontainers.org</a>.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">The upstream kernel documentation page on cgroups can be seen <a href="https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/Documentation/cgroups" class="ulink" title="https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/Documentation/cgroups">here
+	  </a>.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">The freedesktop.org control group usage guidelines can be seen <a href="http://www.freedesktop.org/wiki/Software/systemd/PaxControlGroups/" class="ulink" title="http://www.freedesktop.org/wiki/Software/systemd/PaxControlGroups/">here</a>.</p>
+        </li>
+</ul></div></div></div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="cgroups-manager.html" title="Manager">ก่อนหน้า</a><a class="nextlinks-next" href="clustering.html" title="Clustering">ถัดไป</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p></div>
+</div>
+</body>
+</html>

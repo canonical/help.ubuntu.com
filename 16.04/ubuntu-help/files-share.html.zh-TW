@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=zh-TW>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>分享並傳輸檔案</title>
+<link rel="stylesheet" type="text/css" href="zh-TW.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Ubuntu 桌面版手冊"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="幫助"></span></span> Ubuntu 桌面版手冊</a> » <a class="trail" href="files.html" title="檔案、資料夾與搜尋">檔案</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Ubuntu 桌面版手冊"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="幫助"></span></span> Ubuntu 桌面版手冊</a> » <a class="trail" href="net.html" title="連線、網路、郵件與聊天">連線、網路、郵件與聊天</a> » <a class="trail" href="sharing.html" title="分享">分享</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">分享並傳輸檔案</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">You can share files with your contacts or transfer them to external 
+devices or <span class="link"><a href="nautilus-connect.html" title="瀏覽伺服器或網路分享裝置的檔案">network shares</a></span> directly 
+from the file manager.</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">開啟<span class="link"><a href="files-browse.html" title="瀏覽檔案與資料夾">檔案管理員</a></span>。</p></li>
+<li class="steps"><p class="p">找出您要傳送的檔案。</p></li>
+<li class="steps"><p class="p">在檔案上點擊右鍵，選擇<span class="gui">傳送到</span>。</p></li>
+<li class="steps"><p class="p"><span class="gui">傳送到</span>視窗將會出現。選擇您要傳送檔案到哪裡後，點擊<span class="gui">傳送</span>。可以看看下面的目的地清單，可以得到更多資訊。</p></li>
+</ol></div></div></div>
+<div class="note note-tip" title="提示"><div class="inner"><div class="region"><div class="contents"><p class="p">您可以一次傳送多份檔案。按住 <span class="key"><kbd>Ctrl</kbd></span> 不放以選擇多個檔案，接著在任一個已選取檔案上點擊右鍵。您可以選擇是否讓這些檔案自動壓縮成一份 zip 或 tar 壓縮檔。</p></div></div></div></div>
+<div class="list"><div class="inner">
+<div class="title title-list"><h2><span class="title">目的地</span></h2></div>
+<div class="region"><ul class="list">
+<li class="list"><p class="p">若要寄出檔案，選擇<span class="gui">電子郵件</span>後，輸入收件人的 E-mail 地址。</p></li>
+<li class="list"><p class="p">若要將檔案寄給即時通訊的聯絡人，選擇<span class="gui">即時通訊</span>後，在下拉選單內選擇聯絡人。可能要開啟您的即時通訊程式，才可以使用這項功能。</p></li>
+<li class="list"><p class="p">若要將檔案寫入至 CD/DVD，選擇 <span class="gui">CD/DVD 製作程式</span>。請參閱<span class="link"><a href="files-disc-write.html" title="寫入檔案至 CD 或 DVD">寫入檔案至 CD 或 DVD</a></span>了解更多。</p></li>
+<li class="list"><p class="p">若要傳輸檔案至藍牙裝置，選擇<span class="gui">藍牙 (OBEX Push)</span>，並選擇要傳送檔案到哪個裝置。您將只會看到您已經配對過的裝置。更多資訊請參閱<span class="link"><a href="bluetooth.html" title="藍牙">藍牙</a></span>。</p></li>
+<li class="list"><p class="p">若要複製檔案至外接裝置如 USB 隨身碟，或是將檔案上傳至已連接的伺服器，選擇<span class="gui">卸除式磁碟與分享</span>後，選擇您要複製檔案到哪一個裝置/伺服器。</p></li>
+</ul></div>
+</div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">更多資訊</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="sharing.html" title="分享">分享</a><span class="desc"> — 
+      <span class="link"><a href="sharing-desktop.html" title="分享您的桌面">Desktop sharing</a></span>,
+      <span class="link"><a href="files-share.html" title="分享並傳輸檔案">Share files</a></span>…
+    </span>
+</li>
+<li class="links ">
+<a href="files.html" title="檔案、資料夾與搜尋">檔案、資料夾與搜尋</a><span class="desc"> — 
+      <span class="link"><a href="files-search.html" title="搜尋檔案">Searching</a></span>,
+      <span class="link"><a href="files-delete.html" title="刪除檔案與資料夾">delete files</a></span>,
+      <span class="link"><a href="files.html#backup" title="備份">backups</a></span>,
+      <span class="link"><a href="files.html#removable" title="可攜式裝置與外部硬碟">removable drives</a></span>,
+      <span class="link"><a href="files.html#documents" title="Documents">documents</a></span>…
+    </span>
+</li>
+</ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">另請參閱</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="bluetooth-send-file.html" title="傳送檔案至藍牙裝置">傳送檔案至藍牙裝置</a><span class="desc"> — 在手機等藍牙裝置間分享檔案。</span>
+</li>
+<li class="links ">
+<a href="nautilus-connect.html" title="瀏覽伺服器或網路分享裝置的檔案">瀏覽伺服器或網路分享裝置的檔案</a><span class="desc"> — 檢視、編輯另一台 FTP、SSH、Windows 共享、WebDAV 電腦上的檔案。</span>
+</li>
+</ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

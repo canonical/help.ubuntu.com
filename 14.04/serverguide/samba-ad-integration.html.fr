@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang=fr>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Integration Active Directory</title>
+<link rel="stylesheet" type="text/css" href="fr.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Guide du serveur Ubuntu">Guide du serveur Ubuntu</a> » <a class="trail" href="samba.html" title="Samba">Samba</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="samba-dc.html" title="En tant que contrôleur de domaine">Précédent</a><a class="nextlinks-next" href="backups.html" title="Sauvegardes">Suivant</a>
+</div>
+<div class="hgroup"><h1 class="title">Integration Active Directory</h1></div>
+<div class="region">
+<div class="contents"></div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="samba-ad-integration.html#ad-integration-samba-share" title="Accéder à un partage Samba">Accéder à un partage Samba</a></li>
+<li class="links"><a class="xref" href="samba-ad-integration.html#ad-integration-windows-share" title="Accéder  à un partage Windows">Accéder  à un partage Windows</a></li>
+<li class="links"><a class="xref" href="samba-ad-integration.html#ad-integration-resources" title="Ressources">Ressources</a></li>
+</ul></div>
+<div class="sect2 sect" id="ad-integration-samba-share"><div class="inner">
+<div class="hgroup"><h2 class="title">Accéder à un partage Samba</h2></div>
+<div class="region"><div class="contents">
+<p class="para">On peut aussi intégrer Samba dans un réseau Windows existant, puis, une fois qu'il fait partie du domaine Active Directory, l'utiliser pour fournir des services de fichiers et d'impressions aux utilisateurs AD.</p>
+<p class="para">Le plus simple pour joindre un domaine AD est d'utiliser <span class="app application">Likewise-open</span>. Pour obtenir des instructions détaillées, voir <a href="http://www.beyondtrust.com/Technical-Support/Downloads/files/pbiso/Manuals/ubuntu-active-directory.html" class="ulink" title="http://www.beyondtrust.com/Technical-Support/Downloads/files/pbiso/Manuals/ubuntu-active-directory.html">la documentation Likewise-open</a> (en Anglais).</p>
+<p class="para">Une fois partie du domaine Active Directory, entrez la commande suivante dans un terminal:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt-get install samba smbfs smbclient</span>
+</pre></div>
+<p class="para">Modifiez ensuite <span class="file filename">/etc/samba/smb.conf</span> en changeant :</p>
+<div class="code"><pre class="contents ">   workgroup = EXEMPLE
+   ...
+   security = ads
+   realm = EXEMPLE.COM
+   ...
+   idmap backend = lwopen
+   idmap uid = 50-9999999999
+   idmap gid = 50-9999999999
+</pre></div>
+<p class="para">Redémarrez <span class="app application">samba</span> pour appliquer les nouveaux paramètres :</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo restart smbd</span>
+<span class="cmd command">sudo restart nmbd</span>
+</pre></div>
+<p class="para">Vous devriez accéder maintenant à n'importe quel partage <span class="app application">Samba</span> depuis un client Windows. Assurez-vous tout de même que les utilisateurs ou groupes AD ont les autorisations nécessaires sur le partage. Se référer à <a class="xref" href="samba-fileprint-security.html" title="Sécurisation du serveur de fichiers et d'impression">Sécurisation du serveur de fichiers et d'impression</a> pour de plus amples informations.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="ad-integration-windows-share"><div class="inner">
+<div class="hgroup"><h2 class="title">Accéder  à un partage Windows</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Vous pouvez accéder à n'importe quel partage Windows maintenant que le serveur Samba fait partie du domaine Active Directory :</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+
+          <p class="para">Pour monter un partage Windows, tapez la ligne de commande :</p>
+<div class="screen"><pre class="contents "><span class="cmd command">mount.cifs //fs01.exemple.com/partage point_de_montage</span>
+</pre></div>
+
+          <p class="para">Il est possible d'accéder aux partages d'ordinateurs ne faisant pas partie d'un domaine AD en fournissant un nom d'utilisateur et un mot de passe.</p>
+
+        </li>
+<li class="list itemizedlist">
+
+          <p class="para">Pour monter le partage au démarrage, insérez dans <span class="file filename">/etc/fstab</span>  une entrée du type :</p>
+
+<div class="code"><pre class="contents ">//192.168.0.5/share /mnt/windows cifs auto,username=martin,password=secret,rw 0        0
+</pre></div>
+
+        </li>
+<li class="list itemizedlist">
+
+          <p class="para">Se servir de l'utilitaire <span class="app application">smbclient</span> est une autre méthode pour copier des fichiers depuis un serveur Windows. Pour lister les fichiers d'un partage Windows :</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">smbclient //fs01.exemple.com/partage -k -c "ls"</span>
+</pre></div>
+
+        </li>
+<li class="list itemizedlist">
+
+          <p class="para">Pour copier un fichier d'un partage, saisissez :</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">smbclient //fs01.exemple.com/partage -k -c "get fichier.txt"</span>
+</pre></div>
+
+          <p class="para"><span class="file filename">fichier.txt</span> sera copié depuis le partage dans le répertoire actuel.</p>
+
+        </li>
+<li class="list itemizedlist">
+
+          <p class="para">Pour copier un fichier vers le partage :</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">smbclient //fs01.exemple.com/partage -k -c "put /etc/hosts hosts"</span>
+</pre></div>
+
+          <p class="para">Ceci copiera le fichier <span class="file filename">/etc/hosts</span> vers <span class="file filename">//fs01.exemple.com/share/hosts</span>.</p>
+
+        </li>
+<li class="list itemizedlist">
+
+          <p class="para">L'option <span class="em emphasis">-c</span> utilisée ci-dessus vous permet d'exécuter la commande <span class="app application">smbclient</span> en une seule fois. Ceci est utile pour des opérations mineures ainsi qu'à l'intérieur d'un script. Pour accéder à l'invite de commandes <span class="em emphasis">smb: \&gt;</span> (analogue à une invite de commande FTP) à partir duquel vous pouvez lancer des commandes sur les fichiers et répertoires, servez-vous de :</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">smbclient //fs01.exemple.com/partage -k</span>
+</pre></div>
+
+        </li>
+</ul></div>
+<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents">
+        <p class="para">Remplace toutes les instances <span class="em emphasis">fs01.exemple.com/partage</span>, <span class="em emphasis">//192.168.0.5/partage</span>, <span class="em emphasis">username=martin,password=secret</span> et <span class="em emphasis">fichier.txt</span> par vos propres adresses IP, nom d'hôte, nom de partage, nom de fichier ainsi que l'identifiant réel (et son mot de passe) ayant les droits sur le partage.</p>
+      </div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="ad-integration-resources"><div class="inner">
+<div class="hgroup"><h2 class="title">Ressources</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Pour plus d'options sur <span class="app application">smbclient</span> voir la page de manuel : <span class="cmd command">man smbclient</span>, également disponible <a href="http://manpages.ubuntu.com/manpages/trusty/en/man1/smbclient.1.html" class="ulink" title="http://manpages.ubuntu.com/manpages/trusty/en/man1/smbclient.1.html">en ligne</a> et en anglais.</p>
+<p class="para">La <a href="http://manpages.ubuntu.com/manpages/trusty/en/man8/mount.cifs.8.html" class="ulink" title="http://manpages.ubuntu.com/manpages/trusty/en/man8/mount.cifs.8.html">page de manuel</a> <span class="app application">mount.cifs</span> est également utile pour obtenir des informations plus détaillées.</p>
+<p class="para">Page du <a href="https://help.ubuntu.com/community/Samba" class="ulink" title="https://help.ubuntu.com/community/Samba">Wiki Ubuntu consacrée à Samba</a>.</p>
+</div></div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="samba-dc.html" title="En tant que contrôleur de domaine">Précédent</a><a class="nextlinks-next" href="backups.html" title="Sauvegardes">Suivant</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p></div>
+</div>
+</body>
+</html>

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang=ast>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>¿Cómo funcionen los privilexos d'alministrador?</title>
+<link rel="stylesheet" type="text/css" href="ast.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Guía del escritoriu d'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía d'escritoriu d'Ubuntu</a> » <a class="trail" href="prefs.html" title="Usuariu y configuración del sistema">Axustes</a> » <a class="trail" href="user-accounts.html" title="Cuentes d'usuariu">Usuarios</a> › <a class="trail" href="user-accounts.html#privileges" title="Privilexos del usuariu">Privilexos</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">¿Cómo funcionen los privilexos d'alministrador?</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Al igual que los ficheros qu'<span class="em">usté</span> crea, el so equipu tien dellos ficheros que'l sistema precisa pa funcionar correchamente. Estos <span class="em">ficheros del sistema</span> son importantes y, si camuden de manera incorreuta, puen causar que les coses dexen de funcionar bien, polo que por omisión tán protexíos frente a los cambeos. Delles aplicaciones tamién puen modificar partes importantes del sistema y tamién tán protexíes.</p>
+<p class="p">La manera na que tán protexíos ye dexando namái a los usuarios con <span class="em">privilexos alministrativos</span> camudar los ficheros o usar les aplicaciones, Nel usu diariu, nun va necesitar camudar dengún ficheru de sistema o usar estes aplicaciones, asina que de manera predeterminada nun va tener privilexos alministrativos.</p>
+<p class="p">Dacuando, va necesitar utilizar estes aplicaciones, polo qu'esiste la posibilidá de cuntar temporalmente con privilexos d'alministración pa permiti-y facer los cambeos. Si una aplicación necesita privilexos d'alministración, va solicita-y qu'escriba la contraseña. Por exemplu, si quier instalar dalguna aplicación nueva, l'instalador de software (xestor de paquetes) va solicita-y qu'escriba la contraseña d'alministración pa poder amestar la nueva aplicación al sistema. Una vegada que termine, va dexar de disponer de privilexos d'alministración.</p>
+<p class="p">Los permisos d'alministrador tán agrupaos cola cuenta d'usuariu. A dellos usuarios déxase-yos disponer de permisos d'alministrador y a otros non. Ensin permisos d'alministrador nun va poder instalar software nuevu. Delles cuentes d'usuariu (por exemplu, la cuenta «root») tienen permisos d'alministrador permanentes. Nun tendría d'usar permisos d'alministrador de forma continua, yá que por fuerza podría camudar daqué que nun pretendía camudar (como desaniciar un ficheru riquíu pol sistema, por exemplu).</p>
+<p class="p">En resume, los privilexos d'alministrador permíten-y que camude partes importantes del sistema cuando seya necesario, pero eviten que lo faiga por accidente.</p>
+<div class="note" title="Nota"><div class="inner">
+<div class="title title-note"><h2><span class="title">¿Qué significa «superusuariu»?</span></h2></div>
+<div class="region"><div class="contents"><p class="p">Un usuariu con privilexos de alministrador a vegaes denómase <span class="em">superusuariu</span>. Esto débese simplemente a que l'usuariu tien más privilexos que los usuarios normales. Pue ver a la xente discutir sobre <span class="cmd">su</span> y <span class="cmd">sudo</span>, que son programes pa da-y temporalmente privilexos de «superusuariu» (alministrador).</p></div></div>
+</div></div>
+</div>
+<div id="advantages" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">¿Por qué son útiles los privilexos d'alministrador?</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Esixir a los usuarios tener privilexos d'alministrador enantes de facer cambeos importantes del sistema ye útil, porque ayuda a evitar que'l so sistema frañe, de manera intencional o non.</p>
+<p class="p">Si tuviera privilexos de alministrador tol tiempu, podría camudar accidentalmente un ficheru importante, o executar una aplicación que camuda daqué importante por error. Tener privilexos d'alministrador de manera temporal, cuando los necesita, reduz el riesgu de qu'asocedan estos fallos.</p>
+<p class="p">Namái ciertos usuarios de confianza tendríen de disponer de permisos d'alministrador. Esto evita qu'otros usuarios caciplen col equipu y faigan coses tales como desinstalar aplicaciones que precisa, instalar otres aplicaciones que nun desea o camudar ficheros importantes. Esto ye útil dende'l puntu de vista de la seguridá.</p>
+</div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">More Information</span></h2></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html#privileges" title="Privilexos del usuariu">Privilexos del usuariu</a></li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Lleer tamién</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="user-admin-change.html" title="Camudar quién tien privilexos d'alministrador">Camudar quién tien privilexos d'alministrador</a><span class="desc"> — Pue camudar qué usuarios puen facer cambeos nel sistema dándo-yos privilexos d'alministrador.</span>
+</li>
+<li class="links ">
+<a href="net-othersedit.html" title="Otros usuarios nun puen editar les conexones de rede">Otros usuarios nun puen editar les conexones de rede</a><span class="desc"> — Precisa desactivar la opción <span class="gui">Disponible pa tolos usuarios</span> na configuración de la conexón de rede.</span>
+</li>
+</ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

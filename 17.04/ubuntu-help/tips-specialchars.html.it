@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang=it>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Inserire caratteri speciali</title>
+<link rel="stylesheet" type="text/css" href="it.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Guida Ubuntu Desktop</a> » <a class="trail" href="tips.html" title="Trucchi e suggerimenti">Trucchi e suggerimenti</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Inserire caratteri speciali</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">È possibile digitare e visualizzare migliaia di caratteri dalla maggior parte dei sistemi di scrittura del mondo, anche quelli non direttamente presenti sulla tastiera. In questa pagina vengono presentati alcuni diversi modi per inserire questi caratteri.</p>
+<div role="navigation" class="links sectionlinks"><div class="inner">
+<div class="title title-links"><h2><span class="title">Metodi per inserire caratteri</span></h2></div>
+<div class="region"><ul>
+<li class="links "><a href="tips-specialchars.html#charmap" title="Tabella caratteri">Tabella caratteri</a></li>
+<li class="links "><a href="tips-specialchars.html#compose" title="Tasto Compose">Tasto Compose</a></li>
+<li class="links "><a href="tips-specialchars.html#ctrlshiftu" title="Code point">Code point</a></li>
+<li class="links "><a href="tips-specialchars.html#sources" title="Sorgenti di input">Sorgenti di input</a></li>
+</ul></div>
+</div></div>
+</div>
+<div id="charmap" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Tabella caratteri</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Per esplorare tutti i caratteri presenti nello standard Unicode è disponibile un'applicazione apposita, chiamata Tabella caratteri. Questa applicazione può essere utilizzata per trovare il carattere richiesto, quindi copiarlo e incollarlo dove necessario.</p>
+<p class="p">È possibile trovare la <span class="app">Tabella caratteri</span> nella <span class="gui">Dash</span>. Per ulteriori informazioni su di essa, consultare il relativo <span class="link"><a href="https://help.gnome.org/users/gucharmap/stable/" title="https://help.gnome.org/users/gucharmap/stable/">manuale</a></span>.</p>
+</div></div>
+</div></div>
+<div id="compose" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Tasto Compose</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Un tasto compose (o di composizione) è un tasto speciale che consente di premere diversi tasti uno dopo l'altro per ottenere un carattere speciale. Per esempio, per digitare la lettera accentata <span class="em">é</span>, è possibile premere <span class="key"><kbd>compose</kbd></span> quindi <span class="key"><kbd>'</kbd></span> e poi <span class="key"><kbd>e</kbd></span>.</p>
+<p class="p">Le tastiere non presentano tasti compose specifici. È invece possibile definire uno dei tasti presenti sulla tastiera come un tasto compose.</p>
+<div class="steps"><div class="inner">
+<div class="title title-steps"><h3><span class="title">Definire un tasto compose</span></h3></div>
+<div class="region"><ol class="steps">
+<li class="steps"><p class="p">Click the <span class="em">system menu</span> <span class="media"><span class="media media-image"><img src="figures/system-devices-panel.svg" class="media media-inline" alt="Power cog icon"></span></span> and select <span class="gui">System Settings</span>.</p></li>
+<li class="steps"><p class="p">Open <span class="gui">Keyboard</span>.</p></li>
+<li class="steps"><p class="p">Select the <span class="gui">Shortcuts</span> tab.</p></li>
+<li class="steps"><p class="p">Select the <span class="gui">Typing</span> category in the left pane.</p></li>
+<li class="steps"><p class="p">Select <span class="gui">Compose Key</span> in the right pane.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Disabled</span> and select a key from the drop-down menu.
+      Note: The key you select will only work as a compose key, and will no longer work for its 
+      original purpose.</p></li>
+</ol></div>
+</div></div>
+<p class="p">È possibile digitare molti caratteri comuni usando il tasto compose, per esempio:</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list" style="list-style-type:disc">
+<li class="list"><p class="p">Premere <span class="key"><kbd>compose</kbd></span> quindi <span class="key"><kbd>'</kbd></span> e poi una lettera per porre un accento acuto sulla lettera, come <span class="em">é</span>.</p></li>
+<li class="list"><p class="p">Premere <span class="key"><kbd>compose</kbd></span> quindi <span class="key"><kbd>`</kbd></span> e poi una lettera per porre un accento grave sulla lettera, come <span class="em">è</span>.</p></li>
+<li class="list"><p class="p">Premere <span class="key"><kbd>compose</kbd></span> quindi <span class="key"><kbd>"</kbd></span> e poi una lettera per porre un umlaut sulla lettera, come <span class="em">ë</span>.</p></li>
+<li class="list"><p class="p">Premere <span class="key"><kbd>compose</kbd></span> quindi <span class="key"><kbd>-</kbd></span> e poi una lettera per porre un macron (sengo di vocale lunga) sulla lettera, come <span class="em">ē</span>.</p></li>
+</ul></div></div></div>
+<p class="p">Per altre sequenze di compose consultare la <span class="link"><a href="http://en.wikipedia.org/wiki/Compose_key#Common_compose_combinations" title="http://en.wikipedia.org/wiki/Compose_key#Common_compose_combinations">pagina del tasto compose su Wikipedia</a></span>.</p>
+</div></div>
+</div></div>
+<div id="ctrlshiftu" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Code point</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">È possibile inserire ogni carattere Unicose usando solo la tastiera attraverso il code point numerico del carattere. Ogni carattere è identificato da un code point costituito da quattro caratteri. Per trovare il code point di un carattere, trovare il carattere nell'applicazione tabella caratteri e guardare nella barra di stato o nella scheda <span class="gui">Dettagli carattere</span>. Il code point è costituito dai quattro caratteri dopo <span class="gui">U+</span>.</p>
+<p class="p">Per immettere un carattere per mezzo del suo code point, premere <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>U</kbd></span></span>, digitare i quattro caratteri del code point e premere <span class="key"><kbd>Invio</kbd></span>. Se si usano spesso caratteri non accessibili con altri metodi, può essere utile memorizzare il loro code point per inserirlo rapidamente.</p>
+</div></div>
+</div></div>
+<div id="sources" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Sorgenti di input</span></h2></div>
+<div class="region"><div class="contents"><p class="p">È possibile fare in modo che la propria tastiera si comporti come la tastiera in un'altra lingua, indipendentemente dalle lettere presenti sui tasti, oppure è possibile passare da una disposizione all'altra utilizzando un'icona nella barra dei menù. Per maggiori informazioni, consultare <span class="link"><a href="keyboard-layouts.html" title="Utilizzare sorgenti di input alternative">Utilizzare sorgenti di input alternative</a></span>.</p></div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="tips.html" title="Trucchi e suggerimenti">Trucchi e suggerimenti</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Inserire caratteri speciali">Caratteri speciali</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Clic col pulsante centrale">scorciatoie con clic centrale</a></span>…</span>
+</li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Confronta anche</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="keyboard-layouts.html" title="Utilizzare sorgenti di input alternative">Utilizzare sorgenti di input alternative</a><span class="desc"> — Aggiungere sorgenti di input e passare da una all'altra.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

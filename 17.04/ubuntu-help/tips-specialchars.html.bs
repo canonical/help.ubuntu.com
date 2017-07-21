@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang=bs>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Unesite posebne znakove</title>
+<link rel="stylesheet" type="text/css" href="bs.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Priručnik"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoć"></span></span> Ubuntu Desktop Priručnik</a> » <a class="trail" href="tips.html" title="Savjeti &amp; trikovi">Savjeti &amp;  trikovi</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Unesite posebne znakove</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Možete unijeti i pogledati hiljade znakova iz većine svjetskih sistema za pisanje, čak i one koje nisu sadržane na Vašoj tastaturi. Ova stranica prikazuje različite nacine za unos posebnih znakova.</p>
+<div role="navigation" class="links sectionlinks"><div class="inner">
+<div class="title title-links"><h2><span class="title">Načini unošenja znakova</span></h2></div>
+<div class="region"><ul>
+<li class="links "><a href="tips-specialchars.html#charmap" title="Mapa znakova">Mapa znakova</a></li>
+<li class="links "><a href="tips-specialchars.html#compose" title="Sastavni taster.">Sastavni taster.</a></li>
+<li class="links "><a href="tips-specialchars.html#ctrlshiftu" title="Kodne tačke">Kodne tačke</a></li>
+<li class="links "><a href="tips-specialchars.html#sources" title="Izvori unosa">Izvori unosa</a></li>
+</ul></div>
+</div></div>
+</div>
+<div id="charmap" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Mapa znakova</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">GNOME dolazi s primjenom znakova karti koja vam omogućuje da pregledavati sve znakove u Unicode. Koristite kartu znakova naći znak koji želite, a zatim kopirajte i zalijepite gdje god je to potrebno.</p>
+<p class="p">You can find <span class="app">Character Map</span> in the <span class="gui">Dash</span>.
+    For more information on the character map, see the
+    <span class="link"><a href="https://help.gnome.org/users/gucharmap/stable/" title="https://help.gnome.org/users/gucharmap/stable/">Character Map Manual</a></span>.</p>
+</div></div>
+</div></div>
+<div id="compose" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Sastavni taster.</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Sastavni taster je poseban taster koji vam omogućava da pritisnete više tastera u nizu da biste dobili poseban znak. Na primer, da upišete e sa naglaskom (<span class="em">é</span>), možete da pritisnete <span class="key"><kbd>sastavni</kbd></span> zatim <span class="key"><kbd>'</kbd></span> zatim <span class="key"><kbd>e</kbd></span>.</p>
+<p class="p">Tastature nemaju specifične sastavne ključeve. Umjesto toga, možete definisati jedan od postojećih ključeva sa Vaše tastature kao sastani ključ.</p>
+<div class="steps"><div class="inner">
+<div class="title title-steps"><h3><span class="title">Definišite sastavni taster.</span></h3></div>
+<div class="region"><ol class="steps">
+<li class="steps"><p class="p">Click the <span class="em">system menu</span> <span class="media"><span class="media media-image"><img src="figures/system-devices-panel.svg" class="media media-inline" alt="Power cog icon"></span></span> and select <span class="gui">System Settings</span>.</p></li>
+<li class="steps"><p class="p">Open <span class="gui">Keyboard</span>.</p></li>
+<li class="steps"><p class="p">Select the <span class="gui">Shortcuts</span> tab.</p></li>
+<li class="steps"><p class="p">Select the <span class="gui">Typing</span> category in the left pane.</p></li>
+<li class="steps"><p class="p">Select <span class="gui">Compose Key</span> in the right pane.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Disabled</span> and select a key from the drop-down menu.
+      Note: The key you select will only work as a compose key, and will no longer work for its 
+      original purpose.</p></li>
+</ol></div>
+</div></div>
+<p class="p">Možete da otkucate mnogo opštih znakova koristeći sastavni taster, na primjer:</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list" style="list-style-type:disc">
+<li class="list"><p class="p">Pritisnite <span class="key"><kbd>sastavi</kbd></span> pa <span class="key"><kbd>'</kbd></span> pa slovo na koje zelite da stavite ostri akcenat, kao <span class="em">é</span>.</p></li>
+<li class="list"><p class="p">Pritisnite <span class="key"><kbd>sastavi</kbd></span>pa <span class="key"><kbd>`</kbd></span> pa slovo na koje zelite da stavite akcenat, kao <span class="em">é</span>.</p></li>
+<li class="list"><p class="p">Pritisnite <span class="key"><kbd>sastavi</kbd></span>pa <span class="key"><kbd>`</kbd></span> pa slovo na koje zelite da stavite preglas, kao <span class="em">é</span>.</p></li>
+<li class="list"><p class="p">Pritisnite <span class="key"><kbd>sastavi</kbd></span>pa <span class="key"><kbd>`</kbd></span> pa slovo na koje zelite da stavite macron, kao <span class="em">é</span>.</p></li>
+</ul></div></div></div>
+<p class="p">Za vise sekvenci pogledajte <span class="link"><a href="http://en.wikipedia.org/wiki/Compose_key#Common_compose_combinations" title="http://en.wikipedia.org/wiki/Compose_key#Common_compose_combinations">the compose key page on Wikipedia</a></span>.</p>
+</div></div>
+</div></div>
+<div id="ctrlshiftu" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Kodne tačke</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Možete da unesete bilo koji znak Unicode koristeći samo vašu tastaturu sa brojevnim kodnim prikazom znaka. Svaki znak je određen četvoroznačnim kodnim prikazom. Da pronađete kodni prikaz nekog znaka, pronađite znak u tablici znakova i pogledajte na liniju stanja ili u jezičku <span class="gui">Detalji o znaku</span>. Kodni prikaz jesu četiri znaka nakon <span class="gui">U+</span>.</p>
+<p class="p">To enter a character by its code point, press
+    <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>U</kbd></span></span>, type the
+    four-character code point, and press <span class="key"><kbd>Enter</kbd></span>. If you 
+    often use characters that you can't easily access with other methods, 
+    you might find it useful to memorize the code point for those 
+    characters so you can enter them quickly.</p>
+</div></div>
+</div></div>
+<div id="sources" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Izvori unosa</span></h2></div>
+<div class="region"><div class="contents"><p class="p">You can make your keyboard behave like the keyboard for another 
+    language, regardless of the letters printed on the keys. You can even 
+    switch between different input sources using an icon in the menu 
+    bar. To learn how, see <span class="link"><a href="keyboard-layouts.html" title="Koristite alternativne izvore unosa">Koristite alternativne izvore unosa</a></span>.</p></div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Više informacija</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="tips.html" title="Savjeti &amp; trikovi">Savjeti &amp;  trikovi</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Unesite posebne znakove">Specijalni znakovi</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Srednji klik">kratice srednjim klikom</a></span>…</span>
+</li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Vidite i</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="keyboard-layouts.html" title="Koristite alternativne izvore unosa">Koristite alternativne izvore unosa</a><span class="desc"> — Dodajte izvore unosa i prebacujte se s jednog na drugi</span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

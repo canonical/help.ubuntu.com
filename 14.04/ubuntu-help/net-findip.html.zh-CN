@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang=zh-CN>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>查找您的 IP 地址</title>
+<link rel="stylesheet" type="text/css" href="zh-CN.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="帮助"></span></span> Ubuntu 桌面指南</a> » <a class="trail" href="net.html" title="社交网络、互联网、电子邮件和聊天工具">社交网络、互联网、电子邮件和聊天工具</a> » <a class="trail" href="net-general.html" title="网络术语与提示">网络术语与提示</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">查找您的 IP 地址</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">了解您的 IP 地址可帮助您排除 Internet 连接问题。一般情况下您有<span class="em">两个</span> IP 地址：一个 IP 地址供计算机在内部网络上使用，一个供计算机在 Internet 上使用。</p>
+<div class="steps"><div class="inner">
+<div class="title title-steps"><h2><span class="title">查找您的内部 IP 地址：</span></h2></div>
+<div class="region"><ol class="steps">
+<li class="steps"><p class="p">单击顶部<span class="gui">菜单栏</span>最右侧的图标，选择<span class="gui">系统设置</span>。</p></li>
+<li class="steps"><p class="p">打开 <span class="gui">网络</span> ，根据您想要查看的 IP 地址，在列表左边选择 <span class="gui">有线</span> 或者 <span class="gui">无线</span> 。</p></li>
+<li class="steps"><p class="p">您的内部 IP 地址将会显示在信息列表中。</p></li>
+</ol></div>
+</div></div>
+<div class="steps"><div class="inner">
+<div class="title title-steps"><h2><span class="title">查找您的外部 Internet IP 地址：</span></h2></div>
+<div class="region"><ol class="steps">
+<li class="steps"><p class="p">访问 <span class="link"><a href="http://whatismyipaddress.com/" title="http://whatismyipaddress.com/">whatismyipaddress.com</a></span></p></li>
+<li class="steps"><p class="p">该站点将显示您的外部 IP 地址</p></li>
+</ol></div>
+</div></div>
+<p class="p">根据电脑联网方式的不同，这些地址可能是相同的。</p>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">更多信息</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-general.html" title="网络术语与提示">网络术语与提示</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="查找您的 IP 地址">查看 IP 地址</a></span>、<span class="link"><a href="net-wireless-wepwpa.html" title="WEP 和 WPA 是什么？">WEP &amp; WPA 安全</a></span>、<span class="link"><a href="net-macaddress.html" title="什么是 MAC 地址？">MAC 地址</a></span> 和 <span class="link"><a href="net-proxy.html" title="代理服务器设置">代理</a></span>…</span>
+</li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">亦见</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="net-what-is-ip-address.html" title="IP 地址是什么？">IP 地址是什么？</a><span class="desc"> — 计算机的 IP 地址类似于电话号码。</span>
+</li>
+<li class="links ">
+<a href="net-fixed-ip-address.html" title="使用固定 IP 地址创建连接">使用固定 IP 地址创建连接</a><span class="desc"> — 使用静态 IP 地址可简化一些网络服务的管理。</span>
+</li>
+</ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

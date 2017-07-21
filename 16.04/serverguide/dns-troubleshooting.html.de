@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang=de>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Fehlersuche</title>
+<link rel="stylesheet" type="text/css" href="de.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../16.04" class="trail">Ubuntu 16.04</a> » <a class="trail" href="index.html" title="Ubuntu–Server-Leitfaden">Ubuntu–Server-Leitfaden</a> » <a class="trail" href="dns.html" title="Domain Name Service (DNS)">Domain Name Service (DNS)</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="dns-configuration.html" title="Konfiguration">Zurück</a><a class="nextlinks-next" href="dns-references.html" title="Referenzen">Weiter</a>
+</div>
+<div class="hgroup"><h1 class="title">Fehlersuche</h1></div>
+<div class="region">
+<div class="contents"><p class="para">Dieser Abschnitt umfasst Methoden, um Ursachen für Probleme zu finden, die mit DNS und <span class="app application">BIND9</span> auftreten können.</p></div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="dns-troubleshooting.html#dns-testing" title="Überprüfung">Überprüfung</a></li>
+<li class="links"><a class="xref" href="dns-troubleshooting.html#dns-logging" title="Protokollierung">Protokollierung</a></li>
+</ul></div>
+<div class="sect2 sect" id="dns-testing"><div class="inner">
+<div class="hgroup"><h2 class="title">Überprüfung</h2></div>
+<div class="region">
+<div class="contents"></div>
+<div class="sect3 sect" id="dns-resolv.conf"><div class="inner">
+<div class="hgroup"><h3 class="title">resolv.conf</h3></div>
+<div class="region"><div class="contents">
+<p class="para">
+	    The first step in testing <span class="app application">BIND9</span> is to add the nameserver's IP Address to a hosts resolver.
+	    The Primary nameserver should be configured as well as another host to double check things.
+	    Refer to <a class="xref" href="network-configuration.html#dns-client-configuration" title="DNS Client Konfiguration">DNS Client Konfiguration</a> for details on adding nameserver addresses to your network clients, and afterwards check
+	    that the file <span class="file filename">/etc/resolv.conf</span> contains (for this example):
+	    </p>
+<div class="code"><pre class="contents ">nameserver	192.168.1.10
+nameserver	192.168.1.11
+</pre></div>
+<p class="para">
+            Nameservers that listen at 127.* are responsible for adding their own IP addresses to resolv.conf (using resolvconf).
+            This is done via the file <span class="file filename">/etc/default/bind9</span> by changing the line RESOLVCONF=no to RESOLVCONF=yes.
+            </p>
+<div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents">
+	      <p class="para">Sie sollten ebenfalls die IP-Adresse des Secondary Nameserver hinzufügen, falls der Primary Nameserver ausfällt.</p>
+	    </div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="dns-testing-dig"><div class="inner">
+<div class="hgroup"><h3 class="title">dig</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Wenn Sie das Paket <span class="app application">dnsutils</span> installiert haben, können Sie Ihren Aufbau mittels des DNS-Betrachtungswerkzeugs <span class="app application">dig</span> testen:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+	        <p class="para">Nachdem Sie <span class="app application">BIND9</span> installiert haben, benutzen Sie <span class="app application">dig</span>, um sicherzustellen, dass die loopback-Schnittstelle den Port 53 überwacht. Geben Sie folgendes in ein Terminal ein:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">dig -x 127.0.0.1</span>
+</pre></div>
+	        <p class="para">Sie sollten nun eine ähnliche Ausgabe wie im Folgenden sehen:</p>
+<div class="code"><pre class="contents ">;; Query time: 1 msec
+;; SERVER: 192.168.1.10#53(192.168.1.10)
+</pre></div>
+	      </li>
+<li class="list itemizedlist">
+	        <p class="para">Wenn Sie <span class="app application">BIND9</span> als einen <span class="em emphasis">Caching</span>-Nameserver konfiguriert haben, können Sie »dig« benutzen, um mit einer Domain von außerhalb die Abfragezeit zu prüfen:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">dig ubuntu.com</span>
+</pre></div>
+	        <p class="para">Beachten Sie die Abfragezeit am Ende der Befehlsausgabe:</p>
+<div class="code"><pre class="contents ">;; Query time: 49 msec
+</pre></div>
+	        <p class="para">Nach einem zweiten Versuch sollte es eine Verbesserung geben:</p>
+<div class="code"><pre class="contents ">;; Query time: 1 msec
+</pre></div>
+	      </li>
+</ul></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="dns-testing-ping"><div class="inner">
+<div class="hgroup"><h3 class="title">ping</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Um nachzuweisen, wie Anwendungen DNS zur Auflösung eines Hostnamens nutzen, benutzen Sie das Werkzeug <span class="app application">ping</span>, um eine ICMP-Echo-Anfrage zu senden. Geben Sie folgendes in ein Terminal ein:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">ping example.com</span>
+</pre></div>
+<p class="para">Dies prüft, ob der Namserver den Namen <span class="em emphasis">ns.example.com</span> in eine IP-Adresse auflösen kann. Die Befehlsausgabe sollte folgendes wiedergeben:</p>
+<div class="code"><pre class="contents ">PING ns.example.com (192.168.1.10) 56(84) bytes of data.
+64 bytes from 192.168.1.10: icmp_seq=1 ttl=64 time=0.800 ms
+64 bytes from 192.168.1.10: icmp_seq=2 ttl=64 time=0.813 ms
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="dns-testing-configuration"><div class="inner">
+<div class="hgroup"><h3 class="title">named-checkzone</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Eine gute Möglichkeit, Ihre Zonendateien zu testen, stellt das Werkzeug <span class="app application">named-checkzone</span> dar, welches mit dem Paket <span class="app application">bind9</span> installiert wird. Dieses Werkzeug erlaubt es, sicherzustellen dass die Konfiguration korrekt ist, bevor <span class="app application">BIND9</span> neu gestartet wird und die Änderungen wirksam werden.</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+	        <p class="para">Um die Zonendatei aus unserem Beispiel zu testen, geben Sie folgendes in ein Terminal ein:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">named-checkzone example.com /etc/bind/db.example.com</span>
+</pre></div>
+	        <p class="para">Wenn alles korrekt konfiguriert wurde, sollten Sie eine Ausgabe, ähnlich der folgenden sehen:</p>
+<div class="code"><pre class="contents ">zone example.com/IN: loaded serial 6
+OK
+</pre></div>
+	      </li>
+<li class="list itemizedlist">
+	        <p class="para">Um die Reverse Zone zu testen, geben Sie folgendes ein:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">named-checkzone 1.168.192.in-addr.arpa /etc/bind/db.192</span>
+</pre></div>
+	        <p class="para">Die Ausgabe sollte ähnlich folgender sein:</p>
+<div class="code"><pre class="contents ">zone 1.168.192.in-addr.arpa/IN: loaded serial 3
+OK
+</pre></div>
+	      </li>
+</ul></div>
+<div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents">
+	     <p class="para">Die <span class="em emphasis">Serial-Nummer</span> Ihrer Zonendatei wird wahrscheinlich anders sein.</p>
+	    </div></div></div></div>
+</div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect2 sect" id="dns-logging"><div class="inner">
+<div class="hgroup"><h2 class="title">Protokollierung</h2></div>
+<div class="region"><div class="contents">
+<p class="para"><span class="app application">BIND9</span> beinhaltet eine große Auswahl an Optionen zur Konfiguration der Protokollierung. Es gibt dabei zwei Hauptoptionen. Die <span class="em emphasis">channel</span>-Option (Kanal) konfiguriert, wo Aufzeichnungen gespeichert werden und die Option <span class="em emphasis">category</span> (Kategorie) bestimmt, welche Informationen protokolliert werden.</p>
+<p class="para">Wenn keine Protokollierungsoption konfiguriert wurde, ist die vorgegebene Option:</p>
+<div class="code"><pre class="contents ">logging {
+     category default { default_syslog; default_debug; };
+     category unmatched { null; };
+};
+</pre></div>
+<p class="para">Dieser Abschnitt behandelt die Konfiguration von <span class="app application">BIND9</span>, um Fehlerbeseitigungsnachrichten, die mit DNS-Anfragen zusammenhängen, an eine separate Datei zu senden.</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+	      <p class="para">Zuerst muss ein Kanal konfiguriert werden, damit er angibt, an welche Datei die Nachrichten gesendet werden. Bearbeiten Sie die Datei <span class="file filename">/etc/bind/named.conf.local</span> und fügen Sie folgendes hinzu:</p>
+<div class="code"><pre class="contents ">logging {
+    channel query.log {      
+        file "/var/log/query.log";
+        severity debug 3; 
+    }; 
+};
+</pre></div>	    
+	    </li>
+<li class="list itemizedlist">
+	      <p class="para">Konfigurieren Sie nun eine Kategorie, um alle DNS-Anfragen in der Datei »query.log« zu protokollieren:</p>
+<div class="code"><pre class="contents ">logging {
+    channel query.log {      
+        file "/var/log/query.log"; 
+        severity debug 3; 
+    }; 
+    <span class="em emphasis">category queries { query.log; };</span> 
+};
+</pre></div>	    
+	    </li>
+</ul></div>
+<div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents">
+	    <p class="para">Beachten Sie: die Fehlerbeseitigungsoption <span class="em emphasis">debug</span> kann von 1 auf 3 gesetzt werden. Falls kein Wert spezifiziert ist, ist 1 standardmäßig eingestellt.</p>
+	  </div></div></div></div>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+	      <p class="para">Da der <span class="em emphasis">named-Dienst</span> als der <span class="em emphasis">bind</span>-Benutzer läuft, muss die Datei <span class="file filename">/var/log/query.log</span> erstellt und die Benutzerrechte geändert werden:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo touch /var/log/query.log</span>
+<span class="cmd command">sudo chown bind /var/log/query.log</span>
+</pre></div>
+	    </li>
+<li class="list itemizedlist">
+	      <p class="para">Bevor der <span class="app application">named</span>-Dienst in die neue Aufzeichnungsdatei schreiben kann, muss das <span class="app application">AppArmor</span>-Profil aktualisiert werden. Bearbeiten Sie zuerst <span class="file filename">/etc/apparmor.d/usr.sbin.named</span> und fügen Sie folgendes hinzu:</p>
+<div class="code"><pre class="contents ">/var/log/query.log w,
+</pre></div>
+	      <p class="para">Laden Sie dann das Profil neu:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">cat /etc/apparmor.d/usr.sbin.named | sudo apparmor_parser -r</span>
+</pre></div>
+	      <p class="para">Weitere Informationen über <span class="app application">AppArmor</span> finden Sie unter <a class="xref" href="apparmor.html" title="AppArmor">AppArmor</a></p>
+	    </li>
+<li class="list itemizedlist">
+	      <p class="para">Starten Sie <span class="app application">BIND9</span> nun neu, um die Änderungen anzuwenden:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo systemctl restart bind9.service</span>
+</pre></div>
+	    </li>
+</ul></div>
+<p class="para">Sie sollten nun die Datei <span class="file filename">/var/log/query.log</span> mit den Abfrageinformationen ansehen. Dies ist ein einfaches Beispiel zur Veranschaulichung der Protokollierungsoptionen von <span class="app application">BIND9</span>. Informationen über die erweiterten Optionen  finden Sie unter <a class="xref" href="dns-references.html#dns-more-info" title="Weitere Informationen">Weitere Informationen</a>.</p>
+</div></div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="dns-configuration.html" title="Konfiguration">Zurück</a><a class="nextlinks-next" href="dns-references.html" title="Referenzen">Weiter</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p></div>
+</div>
+</body>
+</html>

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=de>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Warum kann ich meinen Rechner nicht aus der Bereitschaft aufwecken?</title>
+<link rel="stylesheet" type="text/css" href="de.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu-Leitfaden</a> » <a class="trail" href="hardware.html" title="Hardware und Treiber">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Häufig auftretende Probleme">Probleme</a> » <a class="trail" href="hardware-problems-graphics.html" title="Bildschirmprobleme">Bildschirmprobleme</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu-Leitfaden</a> » <a class="trail" href="hardware.html" title="Hardware und Treiber">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Häufig auftretende Probleme">Probleme</a> » <a class="trail" href="power.html#problems" title="Probleme">Energieprobleme</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Warum kann ich meinen Rechner nicht aus der Bereitschaft aufwecken?</span></h1></div>
+<div class="region">
+<div class="contents"><p class="p">Falls Sie Ihren Rechner in <span class="link"><a href="power-suspend.html" title="Was passiert, wenn ich den Rechner in Bereitschaft versetze?">Bereitschaft</a></span> oder in den <span class="link"><a href="power-hibernate.html" title="Wie versetze ich meinen Rechner in den Ruhezustand?">Ruhezustand</a></span> versetzen und dann versuchen ihn aufzuwecken oder wieder einzuschalten, stellen Sie vielleicht fest, dass er nicht wie erwartet funktioniert. Dies kann daran liegen, dass der Bereitschaftsmodus und der Ruhezustand von Ihrer Hardware nicht korrekt unterstützt werden.</p></div>
+<div id="resume" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Mein Rechner befindet sich im Bereitschaftsmodus aber kann nicht aufgeweckt werden</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Wenn Sie Ihren Rechner in Bereitschaft versetzen und dann eine Taste drücken oder mit der Maus klicken, sollte er aufwachen und auf dem Bildschirm sollte nach dem Kennwort gefragt werden. Falls dies nicht passiert, drücken Sie die Ein-/Austaste (halten Sie diese nicht gedrück, sondern drücken Sie einmal kurz).</p>
+<p class="p">Wenn das noch immer nicht hilft, stellen Sie sicher, dass Ihr Monitor eingeschaltet ist, und versuchen Sie es noch einmal mit einem Tastendruck auf der Tastatur.</p>
+<p class="p">Als letzte Möglichkeit schalten Sie Ihren Rechner aus, indem Sie die Ein-/Austaste 5-10 Sekunden lang gedrück halten, wobei Sie allerdings jegliche ungespeicherte Arbeit verlieren. Danach sollten Sie Ihren Rechner wieder einschalten können.</p>
+<p class="p">Falls das jedes Mal passiert, wenn Sie den Rechner in den Bereitschaftsmodus schicken, dann funktioniert wohl die Bereitschaft nicht mit Ihrer Hardware.</p>
+<div class="note note-warning" title="Warnung"><div class="inner"><div class="region"><div class="contents"><p class="p">Falls Ihr Rechner Energie verliert und nicht über eine alternative Stromversorgung (wie einen funktionsfähigen Akku) verfügt, schaltet er sich aus.</p></div></div></div></div>
+</div></div>
+</div></div>
+<div id="hibernate" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Meine Anwendungen/Dokumente sind nicht geöffnet, wenn ich den Rechner wieder einschalte</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Wenn Sie Ihren Rechner in den Ruhezustand versetzt und dann wieder eingeschaltet haben, aber keines Ihrer Dokumente und keine Ihrer Anwendungen offen ist, dann ist das Versetzen in den Ruhezustand vermutlich nicht richtig gelungen. Das passiert manchmal wegen eines geringfügigen Problems und der Rechner wird sich beim nächsten Mal wieder einwandfrei in den Ruhezustand bringen können. Das kann aber auch passieren, weil Sie eine Software-Aktualisierung eingespielt haben, nach der der Rechner neu gestartet werden musste; in diesem Fall könnte der Rechner ausgeschaltet worden sein, statt in den Ruhezustand zu wechseln.</p>
+<p class="p">Es ist außerdem möglich, dass Ihr Rechner nicht in den Ruhezustand versetzt werden kann, weil Ihre Hardware diesen nicht fehlerfrei unterstützt. Dies kann zum Beispiel durch ein Problem mit den Linux-Treibern für Ihre Hardware begründet sein. Sie können dies überprüfen, indem Sie Ihren Rechner erneut in den Ruhezustand versetzen und beobachten, ob der Ruhezustand beim zweiten Mal funktioniert. Falls dies nicht der Fall ist, handelt es sich wahrscheinlich um ein Problem mit den Treibern Ihres Rechners.</p>
+</div></div>
+</div></div>
+<div id="hardware" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Meine kabellose Verbindung (oder andere Hardware) funktioniert nicht, wenn ich meinen Rechner aufwecke</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Wenn Sie ihren Rechner in den Bereitschafts- oder Ruhemodus versetzen und dann wieder aufwecken, kann es sein, dass die Maus, die Internetverbindung oder ein anderes Gerät nicht mehr fehlerfrei funktionieren. Dies kann daran liegen, dass der betreffende Treiber nicht korrekt arbeitet. Dies ist ein <span class="link"><a href="hardware-driver.html" title="Was ist ein Treiber?">Treiberproblem</a></span> und kein Problem des Gerätes selbst.</p>
+<p class="p">Wenn das Gerät eine Ein-/Ausschalttaste hat, versuchen Sie es auszuschalten und dann wieder einzuschalten. In den meisten Fällen wird das Gerät wieder funktionieren. Wenn es mit einem USB-Kabel oder Ähnlichem angeschlossen ist, stecken Sie das Gerät aus und dann wieder ein und schauen Sie, ob es nun funktioniert.</p>
+<p class="p">Wenn Sie das Gerät nicht ausschalten/ausstecken können oder wenn das nicht geholfen hat, müssen Sie den Rechner wohl neu starten, um das Gerät wieder in Gang zu bringen.</p>
+</div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="hardware-problems-graphics.html" title="Bildschirmprobleme">Bildschirmprobleme</a><span class="desc"> — Fehlerbehebung bei Bildschirm- und Grafikproblemen.</span>
+</li>
+<li class="links ">
+<a href="power.html#problems" title="Probleme">Energieprobleme</a><span class="desc"> — Probleme bezüglich Energie und Akkus beseitigen.</span>
+</li>
+</ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Siehe auch</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="power-nowireless.html" title="Ich habe keine Funknetzwerkverbindung, wenn ich meinen Rechner aus einem Energiesparmodus aufwecke">Ich habe keine Funknetzwerkverbindung, wenn ich meinen Rechner aus einem Energiesparmodus aufwecke</a><span class="desc"> — Manche Funknetzwerkgeräte haben Probleme mit dem Bereitschaftsmodus und funktionieren nach dem Wiedereinschalten nicht mehr richtig.</span>
+</li>
+<li class="links ">
+<a href="power-closelid.html" title="Warum wird mein Rechner abgeschaltet, wenn ich den Deckel schließe?">Warum wird mein Rechner abgeschaltet, wenn ich den Deckel schließe?</a><span class="desc"> — Laptops werden durch das Zuklappen in Bereitschaft versetzt, um Strom zu sparen.</span>
+</li>
+<li class="links ">
+<a href="power-hibernate.html" title="Wie versetze ich meinen Rechner in den Ruhezustand?">Wie versetze ich meinen Rechner in den Ruhezustand?</a><span class="desc"> — Der Ruhezustand ist standardmäßig deaktiviert, weil er schlecht unterstützt wird.</span>
+</li>
+</ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

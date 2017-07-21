@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=sv>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Kontrollera din hårddisk efter problem</title>
+<link rel="stylesheet" type="text/css" href="sv.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="disk.html" title="Hårddiskar &amp; lagring">Hårddiskar &amp; lagring</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Kontrollera din hårddisk efter problem</span></h1></div>
+<div class="region">
+<div class="contents"></div>
+<div id="disk-status" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Att kontrollera hårddisken</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Hårddiskar har inbyggda hälsokontroller som kallas <span class="app">SMART</span> (Själv-övervakande, analys och rapport-teknologi, Engelska: Self-Monitoring, Analysis and Reporting Technology) som kontinuerligt kontrollerar disken efter möjliga problem. SMART varnar också dig om disken snart kommer att gå sönder för att hjälpa dig att undvika att viktig data går förlorad.</p>
+<p class="p">Även om SMART körs automatiskt kan du också kontrollera din hårddisks hälsa genom att köra programmet <span class="app">Diskar</span>:</p>
+<div class="steps"><div class="inner">
+<div class="title title-steps"><h3><span class="title">Kontrollera din hårddisks hälsa med programmet Diskar</span></h3></div>
+<div class="region"><ol class="steps">
+<li class="steps"><p class="p">Öppna programmet <span class="app">Diskar</span> från <span class="gui">Dash</span>.</p></li>
+<li class="steps"><p class="p">Från listan till vänster, välj den disk vars information och status du vill kontrollera.</p></li>
+<li class="steps"><p class="p"><span class="gui">Bedömning</span> skall vara "Disken är OK".</p></li>
+<li class="steps"><p class="p">Öppna menyn överst till höger och välj <span class="gui">SMART-data och självtester</span> för att se mer information om disken, eller för att köra ett självtest.</p></li>
+</ol></div>
+</div></div>
+</div></div>
+</div></div>
+<div id="disk-not-healthy" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Vad gör jag om disken inte mår bra?</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Även om <span class="gui">SMART-tillståndet</span> visar att disken <span class="em">inte</span> mår bra, behöver du inte oroa dig. Men det är bra att förbereda sig med en <span class="link"><a href="backup-why.html" title="Säkerhetskopiera dina viktiga filer">säkerhetskopia</a></span> för att förhindra dataförlust.</p>
+<p class="p">Om tillståndet visar "Pre-fail" mår disken fortfarande ganska bra men visar tecken på slitage, vilket innebär att den kan krascha inom en nära framtid. Om din hårddisk (eller dator) har några år på nacken kommer du antagligen se det här meddelandet för åtminstone ett par hälsokontroller. Du bör <span class="link"><a href="backup-how.html" title="Hur du skapar en säkerhetskopia">säkerhetskopiera dina viktiga filer regelbundet</a></span> och kontrollera disktillståndet med jämna mellanrum för att se om det förvärras.</p>
+<p class="p">Om det blir värre kan det vara en bra idé att ta med datorn/hårddisken till en fackperson för vidare diagnostik eller reparation.</p>
+</div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Mer information</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="disk.html" title="Hårddiskar &amp; lagring">Hårddiskar &amp; lagring</a><span class="desc"> — <span class="link"><a href="disk-capacity.html" title="Kontrollera hur mycket diskutrymme som finns kvar">Diskutrymme</a></span>, <span class="link"><a href="disk-benchmark.html" title="Testa din hårddisks prestanda">prestanda</a></span>, <span class="link"><a href="disk-check.html" title="Kontrollera din hårddisk efter problem">problem</a></span>, <span class="link"><a href="disk-partitions.html" title="Hantera volymer och partitioner">volymer och partitioner</a></span>...</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=oc>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Économie d'energia e accroissement de la longévité de la batariá</title>
+<link rel="stylesheet" type="text/css" href="oc.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Guida del burèu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guide del burèu Ubuntu</a> » <a class="trail" href="hardware.html" title="Material &amp; pilòts">Material</a> » <a class="trail" href="power.html" title="Energia &amp; batariá">Energia &amp; batariá</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Guida del burèu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guide del burèu Ubuntu</a> » <a class="trail" href="prefs.html" title="Preferéncias utilizaire &amp; sistèma">Parametratges</a> » <a class="trail" href="power.html" title="Energia &amp; batariá">Energia &amp; batariá</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Économie d'energia e accroissement de la longévité de la batariá</span></h1></div>
+<div class="region">
+<div class="contents"><p class="p">Los ordenadors pòdon utilizar fòrça energia. En utilizant d'estrategias simplas d'estalvi d'energia, podètz reduire votre factura d'électricité e ajudar l'environament. Se possedissètz un ordenador portable, aquò ajudara tanben a aumentar la durada d'utilizacion amb la batariá.</p></div>
+<div id="general" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Astúcias generalas</span></h2></div>
+<div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p"><span class="link"><a href="shell-exit.html#suspend" title="Metre en velha">Metètz en velha vòstre ordenador</a></span> quand vous ne l'utilizatz pas. Aquò redutz considerablament sa consommacion d'energia e son aviada pòt èsser fòrt rapida.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-exit.html#shutdown" title="Atudar o reaviar">Atudatz</a></span> l'ordenador quand l'utilizatz pas pendent de longs moments. Certanas personas s'inquiètan del fait qu'atudar un ordenador regularament lo fa s'usar mai viste, mas aquò es pas lo cas.</p></li>
+<li class="list"><p class="p">Utilizatz les preferéncias de l'<span class="gui">Energia</span> dins les <span class="app">Paramètres sistèmas</span> per modificar vòstres paramètres de gestion de l'energia. Certanas opcions participent a l'estalvi d'energia : <span class="link"><a href="display-dimscreen.html" title="Reglatge de la luminositat de l'ecran">assombrir automaticament</a></span> l'afichatge al bout d'un certan temps ; <span class="link"><a href="display-dimscreen.html" title="Reglatge de la luminositat de l'ecran">reduire la luminositat de l'afichatge</a></span> (per los portables) ; e <span class="link"><a href="power-suspend.html" title="Que se passe-t-il quand je mets en velha mon ordenador ?">suspendre l'ordenador</a></span> se vous ne l'utilizatz mai dempuèi un certan temps.</p></li>
+<li class="list"><p class="p">Atudatz totes los periferics extèrnes (coma las imprimentas e los scanners) quand las utilizatz pas.</p></li>
+</ul></div></div></div></div></div>
+</div></div>
+<div id="laptop" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Pòrtables, tauletas e autres periferics amb batariás</span></h2></div>
+<div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list">
+<p class="p"><span class="link"><a href="display-dimscreen.html" title="Reglatge de la luminositat de l'ecran">Redusètz la luminositat de l'ecran</a></span>; una granda partida de l'energia consomenada per l'ordenador portable sert a alimenter l'ecran.</p>
+<p class="p">La màger part des ordenadors portables possedisson de botons sul clavièr (o un acorchi de clavièr) per reduire la luminositat.</p>
+</li>
+<li class="list">
+<p class="p">Se vos servissètz pas de la connexion internet pendent un certan temps, éteignez lo comutador sens fial / Bluetooth de la carta ret. Aqueste periferic fonciona amb des ondes radio, çò que consomme pas mal d'energia.</p>
+<p class="p">Sus certans ordenadors, i a un comutador manual per atudar la carta, mentre que sus d'autres, avètz un acorchi de clavièr per çò meteis. Rallumez-la quand n'avètz besonh.</p>
+</li>
+</ul></div></div></div></div></div>
+</div></div>
+<div id="advanced" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Astúcias mai avançadas</span></h2></div>
+<div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list"><li class="list">
+<p class="p">Redusètz lo nombre de prètzfaits que viran en rèireplan. Mai los ordenadors son sollicitats, mai ils consomment d'energia.</p>
+<p class="p">La màger part de vòstras aplicacions dobèrtas ne font pas grand-chose tant que vous ne les utilizatz pas. Pasmens, las aplicacions que cherchent sovent des donadas sus internet, celles que lisent de la musica, des filmes aumentan la consommacion d'energia.</p>
+</li></ul></div></div></div></div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Mai d'entresenhas</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="power.html" title="Energia &amp; batariá">Energia &amp; batariá</a><span class="desc"> — <span class="link"><a href="power-suspend.html" title="Que se passe-t-il quand je mets en velha mon ordenador ?">Veille</a></span>, <span class="link"><a href="power-batterylife.html" title="Économie d'energia e accroissement de la longévité de la batariá">estalvis d'energia</a></span>, <span class="link"><a href="shell-exit.html#shutdown" title="Atudar o reaviar">mise fòra tension</a></span>, <span class="link"><a href="power-whydim.html" title="Diminution de la luminositat de l'ecran aprèp un certan temps d'inactivitat">rétroéclairage de l'ecran</a></span>…</span>
+</li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Vejatz tanben</span></h2></div>
+<div class="region"><ul>
+<li class="links "><a href="shell-exit.html#shutdown" title="Atudar o reaviar">Atudar o reaviar</a></li>
+<li class="links ">
+<a href="power-hibernate.html" title="Perqué j'hiberne mon ordenador ?">Perqué j'hiberne mon ordenador ?</a><span class="desc"> — L'ivernacion es desactivada per defaut perque es pas bien suportada.</span>
+</li>
+<li class="links ">
+<a href="power-suspend.html" title="Que se passe-t-il quand je mets en velha mon ordenador ?">Que se passe-t-il quand je mets en velha mon ordenador ?</a><span class="desc"> — La mesa en velha desactivara la màger part des foncionalitats de vòstre ordenador per fin que utiliza mens d'energia.</span>
+</li>
+</ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

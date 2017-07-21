@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang=hu>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Nagios</title>
+<link rel="stylesheet" type="text/css" href="hu.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../16.04" class="trail">Ubuntu 16.04</a> » <a class="trail" href="index.html" title="Ubuntu kiszolgáló kézikönyve">Ubuntu kiszolgáló kézikönyve</a> » <a class="trail" href="monitoring.html" title="Monitorozás">Monitorozás</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="monitoring-overview.html" title="Áttekintés">Előző</a><a class="nextlinks-next" href="munin.html" title="Munin">Következő</a>
+</div>
+<div class="hgroup"><h1 class="title">Nagios</h1></div>
+<div class="region">
+<div class="contents"></div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="nagios.html#nagios-installation" title="Telepítés">Telepítés</a></li>
+<li class="links"><a class="xref" href="nagios.html#nagios-configuration-overview" title="Konfiguráció áttekintése">Konfiguráció áttekintése</a></li>
+<li class="links"><a class="xref" href="nagios.html#nagios-configuration" title="Beállítás">Beállítás</a></li>
+<li class="links"><a class="xref" href="nagios.html#nagios-references" title="Hivatkozások">Hivatkozások</a></li>
+</ul></div>
+<div class="sect2 sect" id="nagios-installation"><div class="inner">
+<div class="hgroup"><h2 class="title">Telepítés</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Az első lépés a <span class="em emphasis">kiszolgáló01</span> gépen a <span class="app application">nagios</span> csomag telepítése. Adja ki a következő parancsot:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install nagios3 nagios-nrpe-plugin</span>
+</pre></div>
+<p class="para">A rendszer bekéri a <span class="em emphasis">nagiosadmin</span> felhasználó jelszavát. A felhasználó hitelesítési adatai az <span class="file filename">/etc/nagios3/htpasswd.users</span> fájlban találhatók. A <span class="em emphasis">nagiosadmin</span> jelszavának módosításához, vagy további felhasználók a Nagios CGI parancsfájlokhoz adásához használja az <span class="app application">apache2-utils</span> csomag részét képező <span class="app application">htpasswd</span> segédprogramot.</p>
+<p class="para">A <span class="em emphasis">nagiosadmin</span> felhasználó jelszavának módosításához például adja ki a következő parancsot:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo htpasswd /etc/nagios3/htpasswd.users nagiosadmin</span>
+</pre></div>
+<p class="para">Felhasználó felvételéhez:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo htpasswd /etc/nagios3/htpasswd.users geza</span>
+</pre></div>
+<p class="para">A második lépés a <span class="em emphasis">kiszolgáló02</span> kiszolgálón a <span class="app application">nagios-nrpe-server</span> csomag telepítése. A kiszolgáló02-n adja ki a következő parancsot:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install nagios-nrpe-server</span>
+</pre></div>
+<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents">
+        <p class="para">Az <span class="app application">NRPE</span> lehetővé teszi távoli gépek helyi ellenőrzéseinek futtatását. Ezt, illetve egyéb ellenőrzéseket más Nagios bővítményeken keresztül is végre lehet hajtani.</p>
+      </div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="nagios-configuration-overview"><div class="inner">
+<div class="hgroup"><h2 class="title">Konfiguráció áttekintése</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Számos könyvtár tartalmaz <span class="app application">Nagios</span> konfigurációs és ellenőrzőfájlokat.</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+          <p class="para"><span class="file filename">/etc/nagios3</span>: a <span class="app application">nagios</span> démon, CGI fájlok, gépek stb. működésére vonatkozó beállítófájlokat tartalmaz.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="file filename">/etc/nagios-plugins</span>: a szolgáltatás-ellenőrzések konfigurációs fájljait tartalmazza.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="file filename">/etc/nagios</span>: a távoli gépen a <span class="app application">nagios-nrpe-server</span> konfigurációs fájljait tartalmazza.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="file filename">/usr/lib/nagios/plugins/</span>: az ellenőrző binárisok tárolási helye. Az ellenőrzés minden kapcsolójának megjelenítéséhez használja a <span class="em emphasis">-h</span> kapcsolót.</p>
+          
+          <p class="para">Például: <span class="cmd command">/usr/lib/nagios/plugins/check_dhcp -h</span></p>
+        </li>
+</ul></div>
+<p class="para">A <span class="app application">Nagios</span> rengeteg ellenőrzés végrehajtására állítható be bármely kiszolgálón. Ebben a példában a Nagios a lemezterület, DNS és egy MySQL-gépcsoport ellenőrzésére lesz beállítva. A DNS-ellenőrzés a <span class="em emphasis">kiszolgáló02</span> gépen történik, a MySQL-gépcsoportnak pedig a <span class="em emphasis">kiszolgáló01</span> és a <span class="em emphasis">kiszolgáló02</span> is tagja.</p>
+<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents">
+        <p class="para">Az Apache beállításával kapcsolatban lásd: <a class="xref" href="httpd.html" title="HTTPD – Apache2 webkiszolgáló">HTTPD – Apache2 webkiszolgáló</a>, a DNS-sel kapcsolatban: <a class="xref" href="dns.html" title="Tartománynév-szolgáltatás (DNS)">Tartománynév-szolgáltatás (DNS)</a>, a MySQL-lel kapcsolatban: <a class="xref" href="mysql.html" title="MySQL">MySQL</a>.</p>
+      </div></div></div></div>
+<p class="para">Ezen kívül van néhány kifejezés, amelyek megismerése egyszerűbbé teszi a Nagios beállításának megértését:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">Gép</span>: a megfigyelt kiszolgáló, munkaállomás, hálózati eszköz stb.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">Gépcsoport</span>: hasonló gépek csoportja. Csoportosítható például az összes webkiszolgáló, fájlkiszolgáló stb.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">Szolgáltatás:</span> a gépen monitorozott szolgáltatás, például: HTTP, DNS, NFS stb.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">Szolgáltatáscsoport</span>: lehetővé teszi több szolgáltatás csoportosítását. Ez például több HTTP csoportosításakor hasznos.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">Kapcsolattartó</span>: esemény bekövetkezésekor értesítendő személy. A Nagios beállítható e-mailek, SMS-üzenetek stb. küldésére.</p>
+        </li>
+</ul></div>
+<p class="para">Alapértelmezésben a Nagios a HTTP, lemezhely, SSH, aktuális felhasználók, folyamatok és a <span class="em emphasis">localhost</span> terhelésének ellenőrzésére van beállítva. A Nagios <span class="app application">pingeléssel</span> ellenőrzi az <span class="em emphasis">átjárót</span>.</p>
+<p class="para">A nagy Nagios telepítések beállítása meglehetősen bonyolult lehet. Általában legjobb kicsiben kezdeni, egy vagy két géppel, igényeinek megfelelően beállítani ezeket, majd bővíteni.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="nagios-configuration"><div class="inner">
+<div class="hgroup"><h2 class="title">Beállítás</h2></div>
+<div class="region"><div class="contents">
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+
+          <div class="steps"><div class="inner"><ol class="steps">
+<li class="steps">
+              <p class="para">Első lépésként hozzon létre egy <span class="em emphasis">gépkonfigurációs</span> fájlt a <span class="em emphasis">kiszolgáló02</span> számára. Ha a leírás mást nem mond, az alábbi parancsokat mind a <span class="em emphasis">kiszolgáló01</span> gépen adja ki. A terminálban adja ki következő parancsot:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo cp /etc/nagios3/conf.d/localhost_nagios2.cfg \
+/etc/nagios3/conf.d/server02.cfg</span>
+</pre></div>
+
+             <div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents">
+               <p class="para">A fenti és alábbi példaparancsokban a <span class="em emphasis">kiszolgáló01</span>, <span class="em emphasis">kiszolgáló02</span>, <span class="em emphasis">172.18.100.100</span> és <span class="em emphasis">172.18.100.101</span> helyére saját kiszolgálóinak gépneveit és IP-címeit írja.</p>
+             </div></div></div></div>
+             
+           </li>
+<li class="steps">
+             <p class="para">Ezután szerkessze az <span class="file filename">/etc/nagios3/conf.d/kiszolgáló02.cfg</span> fájlt:</p>
+
+<div class="code"><pre class="contents ">define host{
+        use                     generic-host  ; Name of host template to use
+        host_name               server02
+        alias                   Server 02
+        address                 172.18.100.101
+}
+
+# check DNS service.
+define service {
+        use                             generic-service
+        host_name                       server02
+        service_description             DNS
+        check_command                   check_dns!172.18.100.101
+}
+</pre></div>
+
+           </li>
+<li class="steps">
+
+             <p class="para">Indítsa újra a <span class="app application">nagios</span> démont az új beállítások életbe léptetéséhez:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo systemctl restart nagio3.service</span>
+</pre></div>
+           
+           </li>
+</ol></div></div>
+       </li>
+<li class="list itemizedlist">
+         <div class="steps"><div class="inner"><ol class="steps">
+<li class="steps">
+
+             <p class="para">Ezután vegyen fel egy szolgáltatásdefiníciót a MySQL ellenőrzéshez a következők hozzáadásával az <span class="file filename">/etc/nagios3/conf.d/services_nagios2.cfg</span> fájlhoz:</p>
+
+<div class="code"><pre class="contents "># check MySQL servers.
+define service {
+        hostgroup_name        mysql-servers
+        service_description   MySQL
+        check_command         check_mysql_cmdlinecred!nagios!secret!$HOSTADDRESS
+        use                   generic-service
+        notification_interval 0 ; set &gt; 0 if you want to be renotified
+}
+</pre></div>
+
+           </li>
+<li class="steps">
+
+             <p class="para">Most definiálni kell a <span class="em emphasis">mysql-servers</span> gépcsoportot. Szerkessze az <span class="file filename">/etc/nagios3/conf.d/hostgroups_nagios2.cfg</span> fájlt, és adja hozzá a következőket:</p>
+
+<div class="code"><pre class="contents "># MySQL hostgroup.
+define hostgroup {
+        hostgroup_name  mysql-servers
+                alias           MySQL-kiszolgálók
+                members         localhost, kiszolgáló02
+        }
+</pre></div>
+
+           </li>
+<li class="steps">
+
+             <p class="para">A Nagios ellenőrzésnek hitelesítenie kell magát a MySQL felé. Adja ki a következő parancsot a <span class="em emphasis">nagios</span> felhasználó létrehozásához a MySQL adatbázisban:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">mysql -u root -p -e "create user nagios identified by 'secret';"</span>
+</pre></div>
+
+             <div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents">
+               <p class="para">A <span class="em emphasis">nagios</span> felhasználót létre kell hozni a <span class="em emphasis">mysql-servers</span> gépcsoport minden gépén.</p>
+             </div></div></div></div>
+
+           </li>
+<li class="steps">
+
+             <p class="para">Indítsa újra a <span class="app application">nagiost</span> a MySQL kiszolgálók ellenőrzésének megkezdéséhez.</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo systemctl restart nagios3.service</span>
+</pre></div>
+
+           </li>
+</ol></div></div>
+       </li>
+<li class="list itemizedlist">
+         <div class="steps"><div class="inner"><ol class="steps">
+<li class="steps">  
+
+             <p class="para">Végül állítsa be az NRPE-t a lemezterület ellenőrzésére a <span class="em emphasis">kiszolgáló02</span> gépen.</p>
+ 
+             <p class="para">A <span class="em emphasis">kiszolgáló01</span> gépen adja hozzá a szolgáltatás-ellenőrzést az <span class="file filename">/etc/nagios3/conf.d/kiszolgáló02.cfg</span> fájlhoz:</p>
+
+<div class="code"><pre class="contents "># NRPE disk check.
+define service {
+        use                     generic-service
+        host_name               server02
+        service_description     nrpe-disk
+        check_command           check_nrpe_1arg!check_all_disks!172.18.100.101
+}
+</pre></div>
+
+           </li>
+<li class="steps">
+
+             <p class="para">Ezután a <span class="em emphasis">kiszolgáló02</span> gépen szerkessze az <span class="file filename">/etc/nagios/nrpe.cfg</span> fájlt, és módosítsa:</p>
+
+<div class="code"><pre class="contents ">allowed_hosts=172.18.100.100
+</pre></div>
+
+             <p class="para">A lentebbi parancsdefiníciós területhez adja hozzá a következőt:</p>
+
+<div class="code"><pre class="contents ">command[check_all_disks]=/usr/lib/nagios/plugins/check_disk -w 20% -c 10% -e
+</pre></div>
+
+           </li>
+<li class="steps">
+
+             <p class="para">Végül indítsa újra a <span class="app application">nagios-nrpe-server</span> démont:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo systemctl restart nagios-nrpe-server.service</span>
+</pre></div>
+
+           </li>
+<li class="steps">
+
+             <p class="para">A <span class="em emphasis">kiszolgáló01</span> gépen újra kell indítani a <span class="app application">nagiost</span>:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo systemctl restart nagios3.service</span>
+</pre></div>
+
+           </li>
+</ol></div></div>
+       </li>
+</ul></div>
+<p class="para">Ezután látnia kell a gép- és szolgáltatás-ellenőrzéseket a Nagios CGI-fájljaiban. Ezek eléréséhez nyissa meg a böngészőben a http://kiszolgáló01/nagios3 címet. Ez bekéri a <span class="em emphasis">nagiosadmin</span> felhasználó nevét és jelszavát.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="nagios-references"><div class="inner">
+<div class="hgroup"><h2 class="title">Hivatkozások</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Ez a szakasz csak karcolta a Nagios szolgáltatásainak felszínét. A <span class="app application">nagios-plugins-extra</span> és <span class="app application">nagios-snmp-plugins</span> csomagok sok további szolgáltatás-ellenőrzést is tartalmaznak.</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+          <p class="para">További információkért lásd a <a href="http://www.nagios.org/" class="ulink" title="http://www.nagios.org/">Nagios</a> weboldalát.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">Ezen belül is az <a href="http://nagios.sourceforge.net/docs/3_0/" class="ulink" title="http://nagios.sourceforge.net/docs/3_0/">online dokumentációs</a> oldalt.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">A Nagiosról és hálózatmonitorozásról számos <a href="http://www.nagios.org/propaganda/books/" class="ulink" title="http://www.nagios.org/propaganda/books/">könyv</a> is készült.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">
+          The <a href="https://help.ubuntu.com/community/Nagios3" class="ulink" title="https://help.ubuntu.com/community/Nagios3">Nagios Ubuntu Wiki</a> page also has more details.
+          </p>
+        </li>
+</ul></div>
+</div></div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="monitoring-overview.html" title="Áttekintés">Előző</a><a class="nextlinks-next" href="munin.html" title="Munin">Következő</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p></div>
+</div>
+</body>
+</html>

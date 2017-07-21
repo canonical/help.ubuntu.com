@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang=pt-BR>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Filtro de Correio</title>
+<link rel="stylesheet" type="text/css" href="pt_BR.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Guia para servidores Ubuntu">Guia para servidores Ubuntu</a> » <a class="trail" href="email-services.html" title="Serviços de Email">Serviços de Email</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="mailman.html" title="Mailman">Anterior</a><a class="nextlinks-next" href="chat-servers.html" title="Aplicativo de bate-papo">Próximo</a>
+</div>
+<div class="hgroup"><h1 class="title">Filtro de Correio</h1></div>
+<div class="region">
+<div class="contents">
+<p class="para">Uma das maiores casos com email hoje em dia é o problema de Unsolicited Bulk Email (UBE). Também conhecido como SPAM, este tipo de mensagens podem também carregar virus e outras formas de pragas. De acordo com alguns relatórios estas mensagens fazem a massa de tráfego de email na Internet.</p>
+<p class="para">Esta seção vai abordar a integração<span class="app application">Amavisd-new</span>, <span class="app application">Spamassassin</span>, e <span class="app application">ClamAV</span> com a  <span class="app application">Postfix</span> Mail Transport Agent (MTA). <span class="app application">Postfix</span> pode verificar a validade de e-mail por passá-los através de filtros de conteúdo externo. Algumas vezes esses filtros podem determinar se uma mensagem é spam sem necessitar processá-la com mais aplicações de recursos intensivos. Dois filtros comuns são o <span class="app application">opendkim</span> e o <span class="app application">python-policyd-spf</span>.</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+	     <p class="para">O <span class="app application">Amavisd-new</span> programa facilitador que pode chamar qualquer número de programas de filtro de conteúdo para detecção de spam, ativirus, etc.</p>
+	   </li>
+<li class="list itemizedlist">
+	     <p class="para">O <span class="app application">Spamassassin</span> usa uma variedade de mecanismos para filtra emails baseado no conteúdo da mensagem.</p>
+	   </li>
+<li class="list itemizedlist">
+	     <p class="para">O <span class="app application">ClamAV</span> é uma aplicação anti vírus open source.</p>
+	   </li>
+<li class="list itemizedlist">
+	     <p class="para"><span class="app application">opendkim</span> executa um filtro de correio do Sendmail (Milter) para as Chaves de Domínio de Correio Indentificado(DKIM) padrão.</p>
+	   </li>
+<li class="list itemizedlist">
+  	     <p class="para"><span class="app application">python-policyd-spf</span> habilita a checagem Sender Policy Framework (SPF)  com o <span class="app application">Postfix</span>.</p>
+	   </li>
+</ul></div>
+<p class="para">Isto é como os pedaços se encaixam:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+	     <p class="para">Uma mensagem de email é aceita pelo <span class="app application">Postfix</span>.</p>
+	   </li>
+<li class="list itemizedlist">
+	     <p class="para">A mensagem é passada através de qualquer filtro externo <span class="app application">opendkim</span> e <span class="app application">python-policyd-spf</span> neste caso.</p>
+	   </li>
+<li class="list itemizedlist">
+	     <p class="para">então o <span class="app application">Amavisd-new</span> processa a mensagem.</p>
+	   </li>
+<li class="list itemizedlist">
+	     <p class="para">o <span class="app application">ClamAV</span> é usado para escaniar a mensagem. Se a mensagem conter um vírus o <span class="app application">Postfix</span> irá rejeitar a mensagem.</p>
+	   </li>
+<li class="list itemizedlist">
+	     <p class="para">Mensagem limpas serão analisadas pelo <span class="app application">Spamassassin</span> para verificar se a mensagem é um spam. O <span class="app application">Spamassassin</span> irá adicionar linhas X-Header permitindo que o <span class="app application">Amavisd-new</span> manipule a mensagem.</p>
+	   </li>
+</ul></div>
+<p class="para">Por exemplo, se uma mensagem tiver uma pontuação de Spam acima de 15 a mensagem pode ser automaticamente tirada da fila sem que o recipiente seja notificado. Outra maneira de tratar mensagens sinalizadas é enviá-las para o Mail User Agent (MUA) permitindo que o usuário trate a mensagem como lhe convir.</p>
+</div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="mail-filtering.html#mail-filter-installation" title="Instalação">Instalação</a></li>
+<li class="links"><a class="xref" href="mail-filtering.html#mail-filter-configuration" title="Configuração">Configuração</a></li>
+<li class="links"><a class="xref" href="mail-filtering.html#mail-filter-testing" title="Testando">Testando</a></li>
+<li class="links"><a class="xref" href="mail-filtering.html#mail-filter-troubleshooting" title="Solucão de problemas">Solucão de problemas</a></li>
+<li class="links"><a class="xref" href="mail-filtering.html#mail-filter-references" title="Referências">Referências</a></li>
+</ul></div>
+<div class="sect2 sect" id="mail-filter-installation"><div class="inner">
+<div class="hgroup"><h2 class="title">Instalação</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Veja <a class="xref" href="postfix.html" title="Postfix">Postfix</a> para instruções de como instalar e configurar o Postfix.</p>
+<p class="para">Para instalar o resto das aplicações digite o seguinte a partir de um terminal:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt-get install amavisd-new spamassassin clamav-daemon</span>
+<span class="cmd command">sudo apt-get install opendkim postfix-policyd-spf-python</span>
+</pre></div>
+<p class="para">Existem alguns pacotes opcionais que se integram com o <span class="app application">Spamassassin</span> para uma melhor detecção de spam:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt-get install pyzor razor</span>
+</pre></div>
+<p class="para">Junto com as aplicações de filtragem principais, utilitários de compressão são necessários para processar alguns anexos de e-mails:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt-get install arj cabextract cpio lha nomarch pax rar unrar unzip zip</span>
+</pre></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents">
+		<p class="para">Se alguns pacotes não são encontrados, verifique se o repositório <span class="em emphasis">multiverse</span> está habilitado em <span class="file filename">/etc/apt/sources.list</span></p>
+		<p class="para">Se você faz mudanças ao arquivo, esteja certo de executar o <span class="cmd command">sudo apt-get update</span> antes de tentar instalar novamente.</p>
+	</div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="mail-filter-configuration"><div class="inner">
+<div class="hgroup"><h2 class="title">Configuração</h2></div>
+<div class="region">
+<div class="contents"><p class="para">Agora configure tudo para trabalhar junto e filtrar email.</p></div>
+<div class="sect3 sect" id="clamav-configuration"><div class="inner">
+<div class="hgroup"><h3 class="title">ClamAV</h3></div>
+<div class="region"><div class="contents">
+<p class="para">O comportamento padrão do <span class="app application">ClamAV</span> irá atender as suas necessidades. Para mais opções de configuração do ClamAV, verifique os arquivos de configuração em <span class="file filename">/etc/clamav</span>.</p>
+<p class="para">Adicione o usuário <span class="em emphasis">clamav</span> no grupo <span class="em emphasis">amavis</span> para que o <span class="app application">Amavisd-new</span> tenha o acesso apropriado para escanear arquivos:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo adduser clamav amavis</span>
+<span class="cmd command">sudo adduser amavis clamav</span>
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="spamassassin-configuration"><div class="inner">
+<div class="hgroup"><h3 class="title">Spamassassin</h3></div>
+<div class="region"><div class="contents">
+<p class="para">O Spamassassin automaticamente detecta componentes opcionais e os utilizará caso estejam presentes. Isso quer dizer que não há necessidade de configurar o <span class="app application">pyzor</span> e o <span class="app application">razor</span>.</p>
+<p class="para">Edite <span class="file filename">/etc/default/spamassassin</span>  para ativar o deamon <span class="app application">Spamassassin</span> . Substitua emphasis&gt;ENABLED=0</p>
+<div class="code"><pre class="contents ">ENABLED=1
+</pre></div>
+<p class="para">Agora inicie o daemon.</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo service spamassassin start</span>
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="amavisd-new-configuration"><div class="inner">
+<div class="hgroup"><h3 class="title">Amavisd-new</h3></div>
+<div class="region">
+<div class="contents">
+<p class="para">Primeiro ative detecção de spam e antivirus no <span class="app application">Amavisd-new</span> editando o <span class="file filename">/etc/amavis/conf.d/15-content_filter_mode</span>:</p>
+<div class="code"><pre class="contents ">use strict;
+
+# Você pode modificar este arquivo para reabilitar a checagem de SPAM pelo spamassassin
+# e para reabilitar a checagem de vírus.
+
+#
+# Modo de checagem de vírus padrão
+# Remova os comentários das duas linhas abaixo para habilitá-lo
+#
+
+@bypass_virus_checks_maps = (
+   \%bypass_virus_checks, \@bypass_virus_checks_acl, \$bypass_virus_checks_re);
+
+
+#
+# Modo de checagem de SPAM padrão
+# Remova os comentários das duas linhas abaixo para habilitá-lo
+#
+
+@bypass_spam_checks_maps = (
+   \%bypass_spam_checks, \@bypass_spam_checks_acl, \$bypass_spam_checks_re);
+
+1;  # assegura um retorno definido
+</pre></div>
+<p class="para">
+	     Bouncing spam can be a bad idea as the return address is often faked. The default behaviour is to instead discard.  This
+	     is configured in <span class="file filename">/etc/amavis/conf.d/21-debian_defaults</span> where <span class="em emphasis">$final_spam_destiny</span>
+	     is set to D_DISCARD rather than D_BOUNCE.
+	     </p>
+<p class="para">Além disso, você pode querer ajustar as seguintes opções para sinalizar mais mensagens como spam:</p>
+<div class="code"><pre class="contents ">$sa_tag_level_deflt = -999; # adiciona informação sobre spam no cabeçalho, caso seja igual ou maior a este nível
+$sa_tag2_level_deflt = 6.0; # adiciona 'spam detected' ao cabeçalho a partir deste nível
+$sa_kill_level_deflt = 21.0; # habilita ações evasivas contra spam
+$sa_dsn_cutoff_level = 4; # nível de spam a partir do qual o DSN não é enviado
+</pre></div>
+<p class="para">Se o <span class="em emphasis">hostname</span> do servidor é diferente do registro MX do domínio, você talvez precise definir manualmente a opção <span class="em emphasis">$myhostname</span>. Ainda, se o servidor recebe correspondências para múltiplos domínios, a opção <span class="em emphasis">@local_domains_acl</span> precisará ser customizada. Edite o arquivo <span class="file filename">/etc/amavis/conf.d/50-user</span>:</p>
+<div class="code"><pre class="contents ">$myhostname = 'mail.example.com';
+@local_domains_acl = ( "example.com", "example.org" );
+</pre></div>
+<p class="para">If you want to cover multiple domains you can use the following in the<span class="file filename">/etc/amavis/conf.d/50-user</span>
+             </p>
+<div class="code"><pre class="contents ">@local_domains_acl = qw(.);
+</pre></div>
+<p class="para">Após a configuração o  <span class="app application">Amavisd-new</span> precisa ser reiniciado:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo service amavis restart</span>
+</pre></div>
+</div>
+<div class="sect4 sect" id="amavis-dkim-whitelist"><div class="inner">
+<div class="hgroup"><h4 class="title">Lista branca DKIM</h4></div>
+<div class="region"><div class="contents">
+<p class="para"><span class="app application">Amavisd-new</span> pode ser configurado para automaticamente <span class="em emphasis">adicionar à lista branca</span> endereços de domínios com Chaves de Domínio válidas. Existem alguns domínios pré-configurados em <span class="file filename">/etc/amavis/conf.d/40-policy_banks</span>.</p>
+<p class="para">Existem várias maneiras de configurar a Lista Branca para um domínio:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+                   <p class="para"><span class="em emphasis">'exemplo.com' =&gt; 'WHITELIST',</span>: irá adicionar à lista brance qualquer endereço do domínio "exemplo.com".</p>
+                 </li>
+<li class="list itemizedlist">
+                   <p class="para"><span class="em emphasis">'.exemplo.com' =&gt; 'WHITELIST',</span>: irá adicionar à lista brance qualquer endereço de quaisquer <span class="em emphasis">subdomínios</span> de "exemplo.com" que possuírem uma assinatura válida.</p>
+                 </li>
+<li class="list itemizedlist">
+                   <p class="para"><span class="em emphasis">'.exemplo.com/@exemplo.com' =&gt; 'WHITELIST',</span>: irá adicionar à lista branca subdomńios de "exemplo.com" que usam a assinatura de <span class="em emphasis">exemplo.com</span>, o domínio superior.</p>
+                 </li>
+<li class="list itemizedlist">
+                   <p class="para"><span class="em emphasis">'./@example.com' =&gt; 'WHITELIST',</span>: adicione endereços que tenham uma assinatura válida do "example.com". Isto é geralmente usado por grupos de debates que assinam as próprias mensagens.</p>
+                 </li>
+</ul></div>
+<p class="para">
+               A domain can also have multiple Whitelist configurations. 
+               After editing the file, restart <span class="app application">amavisd-new</span>:
+               </p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo service amavis restart</span>
+</pre></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents">
+                 <p class="para">Neste contexto, assim que um domínio for adicionado à lista branca a mensagem não passará por nenhum filtro anti-spam ou anti-vírus. Esse pode ou não ser o comportamento que você deseja para o domínio.</p>
+               </div></div></div></div>
+</div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect3 sect" id="postfix-mail-filtering-configuration"><div class="inner">
+<div class="hgroup"><h3 class="title">Postfix</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Para integração com o <span class="app application">Postfix</span>, execute o seguinte a partir do terminal:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo postconf -e 'content_filter = smtp-amavis:[127.0.0.1]:10024'</span>
+</pre></div>
+<p class="para">A seguir, edite o arquivo <span class="file filename">/etc/postfix/master.cf</span> e adicione o seguinte no final do arquivo:</p>
+<div class="code"><pre class="contents ">smtp-amavis     unix    -       -       -       -       2       smtp
+        -o smtp_data_done_timeout=1200
+        -o smtp_send_xforward_command=yes
+        -o disable_dns_lookups=yes
+        -o max_use=20
+
+127.0.0.1:10025 inet    n       -       -       -       -       smtpd
+        -o content_filter=
+        -o local_recipient_maps=
+        -o relay_recipient_maps=
+        -o smtpd_restriction_classes=
+        -o smtpd_delay_reject=no
+        -o smtpd_client_restrictions=permit_mynetworks,reject
+        -o smtpd_helo_restrictions=
+        -o smtpd_sender_restrictions=
+        -o smtpd_recipient_restrictions=permit_mynetworks,reject
+        -o smtpd_data_restrictions=reject_unauth_pipelining
+        -o smtpd_end_of_data_restrictions=
+        -o mynetworks=127.0.0.0/8
+        -o smtpd_error_sleep_time=0
+        -o smtpd_soft_error_limit=1001
+        -o smtpd_hard_error_limit=1000
+        -o smtpd_client_connection_count_limit=0
+        -o smtpd_client_connection_rate_limit=0
+        -o receive_override_options=no_header_body_checks,no_unknown_recipient_checks,no_milters
+</pre></div>
+<p class="para">Adicione também estas duas linhas imediatamente abaixo do serviço de transporte <span class="em emphasis">"pickup"</span>.</p>
+<div class="code"><pre class="contents ">         -o content_filter=
+         -o receive_override_options=no_header_body_checks
+</pre></div>
+<p class="para">Isto irá prevenir que as mensagens geradas para reportar spam sejam classificadas como spam.</p>
+<p class="para">Agora reinicie o <span class="app application">Postfix</span>:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo service postfix restart</span>
+</pre></div>
+<p class="para">Filtro de Conteúdo com spam e detecção de vírus agora está ativado.</p>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="amavisd-new-spamassassin-integration"><div class="inner">
+<div class="hgroup"><h3 class="title">Amavisd-new e Spamassassin</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Quando integrando <span class="app application">Amavisd-new</span> com <span class="app application">Spamassassin</span>, se você escolhe desabilitar os bayes, filtrando em editar <span class="file filename">/etc/spamassassin/local.cf</span> e usa <span class="app application">cron</span> para atualizar as regras noturnas, o resultado pode causar um situação onde uma grande quantidade de erros de mensagem sejam  enviadas para o usuário<span class="em emphasis">amavis</span> através do trabalho do amavisd-new <span class="app application">cron</span>.</p>
+<p class="para">Há muitas maneiras de lidar com esta situção:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+             <p class="para">Configure seu MDA para filtrar mensagens que você não deseja ver.</p>
+           </li>
+<li class="list itemizedlist">
+             <p class="para">Altere <span class="file filename">/usr/sbin/amavisd-new-cronjob</span> para checar por <span class="em emphasis">use_bayes 0</span>. Por exemplo, edite <span class="file filename">/usr/sbin/amavisd-new-cronjob</span> e adicione o seguinte no topo antes de <span class="em emphasis">test</span> statements:</p>
+<div class="code"><pre class="contents ">egrep -q "^[ \t]*use_bayes[ \t]*0" /etc/spamassassin/local.cf &amp;&amp; exit 0
+</pre></div>
+           </li>
+</ul></div>
+</div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect2 sect" id="mail-filter-testing"><div class="inner">
+<div class="hgroup"><h2 class="title">Testando</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Primeiro, teste se <span class="app application">Amavisd-new</span> SMTP está ouvindo:</p>
+<div class="code"><pre class="contents ">telnet localhost 10024
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+220 [127.0.0.1] ESMTP amavisd-new service ready
+^]
+</pre></div>
+<p class="para">No cabeçalho das mensagens que passam pelo filtro de conteúdo você deverá ver:</p>
+<div class="code"><pre class="contents ">X-Spam-Level: 
+X-Virus-Scanned: Debian amavisd-new at example.com
+X-Spam-Status: No, hits=-2.3 tagged_above=-1000.0 required=5.0 tests=AWL, BAYES_00
+X-Spam-Level: 
+</pre></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents">
+	   <p class="para">Sua resposta pode variar, mas o importante é que existam <span class="em emphasis">X-Virus-Scanned</span> e a entrada <span class="em emphasis">X-Spam-Status</span>.</p>
+	   </div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="mail-filter-troubleshooting"><div class="inner">
+<div class="hgroup"><h2 class="title">Solucão de problemas</h2></div>
+<div class="region"><div class="contents">
+<p class="para">A melhor forma de descobrir o quê está acontecendo de errado é checar os arquivos de log.</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+	       <p class="para">Para instruções sobre os logs do <span class="app application">Postfix</span> veja a seção <a class="xref" href="postfix.html#postfix-troubleshooting" title="Solucão de problemas">Solucão de problemas</a>.</p>
+	     </li>
+<li class="list itemizedlist">
+	       <p class="para"><span class="app application">Amavisd-new</span> utiliza o <span class="app application">Syslog</span> para enviar mensagens para o arquivo <span class="file filename">/var/log/mail.log</span>. A quantidade de detalhes pode ser aumentada adicionando a opção <span class="em emphasis">$log_level</span> ao arquivo <span class="file filename">/etc/amavis/conf.d/50-user</span> e alterando o valor de 1 para 5.</p>      
+<div class="code"><pre class="contents ">$log_level = 2;
+</pre></div>
+	     <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents">
+ 	       <p class="para">Quando a saída do log do <span class="app application">Amavisd-new</span> aumentar, a saída do log do <span class="app application">Spamassassin</span> também aumentará.</p>
+	     </div></div></div></div>
+	     </li>
+<li class="list itemizedlist">
+	       <p class="para">O nível de log do <span class="app application">ClamAV</span> pode ser aumentado editando o arquivo <span class="file filename">/etc/clamav/clamd.conf</span> e definindo a seguinte opção:</p>
+<div class="code"><pre class="contents ">LogVerbose true
+</pre></div>
+	       <p class="para">Por padrão, o <span class="app application">ClamAV</span> irá enviar mensagens de log para <span class="file filename">/var/log/clamav/clamav.log</span>.</p>
+	      </li>
+</ul></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents">
+	   <p class="para">Depois de alterar as definições de log de um aplicativo, lembre-se de reiniciar o serviço para que as novas alterações tenham efeito. Além disso, uma vez que o problema que você estiver tentando encontrar for resolvido ,é uma boa idéia alterar as definições de log de volta ao normal.</p>
+	   </div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="mail-filter-references"><div class="inner">
+<div class="hgroup"><h2 class="title">Referências</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Para mais informações sobre a filtragem de mensagens, veja os seguintes links:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+	       <p class="para">
+               <a href="http://www.ijs.si/software/amavisd/amavisd-new-docs.html" class="ulink" title="http://www.ijs.si/software/amavisd/amavisd-new-docs.html">Documentação do Amavisd-new</a>
+	       </p>
+	     </li>
+<li class="list itemizedlist">
+	       <p class="para">
+               <a href="http://www.clamav.net/doc/latest/html/" class="ulink" title="http://www.clamav.net/doc/latest/html/">ClamAV Documentation</a> and 
+	       <a href="http://wiki.clamav.net/Main/WebHome" class="ulink" title="http://wiki.clamav.net/Main/WebHome">ClamAV Wiki</a>
+	       </p>
+	     </li>
+<li class="list itemizedlist">
+	       <p class="para">
+               <a href="http://wiki.apache.org/spamassassin/" class="ulink" title="http://wiki.apache.org/spamassassin/">Wiki do Spamassassin</a>
+	       </p>
+	     </li>
+<li class="list itemizedlist">
+	       <p class="para">
+               <a href="http://sourceforge.net/apps/trac/pyzor/" class="ulink" title="http://sourceforge.net/apps/trac/pyzor/">Homepage do Pyzor</a>
+	       </p>
+	       </li>
+<li class="list itemizedlist">
+	       <p class="para">
+               <a href="http://razor.sourceforge.net/" class="ulink" title="http://razor.sourceforge.net/">Homepage do Razor</a>
+  	       </p>
+	     </li>
+<li class="list itemizedlist">
+	       <p class="para">
+               <a href="http://dkim.org/" class="ulink" title="http://dkim.org/">DKIM.org</a>
+  	       </p>
+	     </li>
+<li class="list itemizedlist">
+	       <p class="para">
+               <a href="https://help.ubuntu.com/community/PostfixAmavisNew" class="ulink" title="https://help.ubuntu.com/community/PostfixAmavisNew">Notícias Amavis Pos-fixadas</a>
+  	       </p>
+	     </li>
+</ul></div>
+<p class="para">Inclusive, sinta-se livre para fazer perguntas no canal de IRC <span class="em emphasis">#ubuntu-server</span> da <a href="http://freenode.net" class="ulink" title="http://freenode.net">freenode</a>.</p>
+</div></div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="mailman.html" title="Mailman">Anterior</a><a class="nextlinks-next" href="chat-servers.html" title="Aplicativo de bate-papo">Próximo</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p></div>
+</div>
+</body>
+</html>

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang=bs>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Zašto je upravljanje bojama važno?</title>
+<link rel="stylesheet" type="text/css" href="bs.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Priručnik"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoć"></span></span> Ubuntu Desktop Priručnik</a> » <a class="trail" href="hardware.html" title="Hardware i upravljački programi">Hardver</a> » <a class="trail" href="color.html" title="Upravljanje bojama">Upravljanje bojama</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Priručnik"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoć"></span></span> Ubuntu Desktop Priručnik</a> » <a class="trail" href="prefs.html" title="Korisničke &amp; sistemske postavke">Podešavanja</a> » <a class="trail" href="color.html" title="Upravljanje bojama">Upravljanje bojama</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Zašto je upravljanje bojama važno?</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Upravljanje bojama je proces hvatanja boje pomoću uređaja za unos, prikazujući ga na ekranu i ispisujući ga sve dok upravljamo tačnim bojama i rasponom boja na svaki medij.</p>
+<p class="p">Potreba za upravljanje bojama je vjerojatno najbolje objašnjena sa fotografijom ptice na hladan zimski dan.</p>
+<div class="figure"><div class="inner">
+<a href="#" class="zoom" data-zoom-in-title="Slike u normalnoj veličini" data-zoom-out-title="Smanji slike"></a><div class="region">
+<div class="contents"><div class="media media-image"><div class="inner"><img src="figures/color-camera.png" class="media media-block" alt=""></div></div></div>
+<div class="desc">Ptica na hladnom zidu kao što se vidi na tragaču pogleda  kamere</div>
+</div>
+</div></div>
+<p class="p">Prikazuje obično previše zasićen plavi kanal, što čini da slika izgleda hladno.</p>
+<div class="figure"><div class="inner">
+<a href="#" class="zoom" data-zoom-in-title="Slike u normalnoj veličini" data-zoom-out-title="Smanji slike"></a><div class="region">
+<div class="contents"><div class="media media-image"><div class="inner"><img src="figures/color-display.png" class="media media-block" alt=""></div></div></div>
+<div class="desc">Ovo je ono što korisnik vidi na tipičnom poslovnom ekranu laptopa</div>
+</div>
+</div></div>
+<p class="p">Primjetite kako bijela nije 'papirno bijela' i crna od oka je sada prljavo smeđa.</p>
+<div class="figure"><div class="inner">
+<a href="#" class="zoom" data-zoom-in-title="Slike u normalnoj veličini" data-zoom-out-title="Smanji slike"></a><div class="region">
+<div class="contents"><div class="media media-image"><div class="inner"><img src="figures/color-printer.png" class="media media-block" alt=""></div></div></div>
+<div class="desc">To je ono što korisnik vidi kada ispisuje na tipičan inkjet printer</div>
+</div>
+</div></div>
+<p class="p">Osnovni problem koji ovdje imamo je da je svaki uređaj sposoban za rukovanje različitim rasponom boja. Dakle, dok ste u mogučnosti uzeti fotografiju električne plave, većina printera neće biti u mogućnosti da ga reproducira.</p>
+<p class="p">Većina uređaja snima slike u RGB (Red, Green, Blue) i moraju pretvoriti u CMYK (Cyan, Magenta, Yellow, i Black) za ispis. Drugi problem je da ne možete imati <span class="em"> bijelu </span> tintu, pa bjelina može biti jednako dobra kao i papir u boji.</p>
+<p class="p">Drugi problem je mjernih jedinica. Bez navođenja skalu na kojoj boja se mjeri, ne znam je li 100% crveno je blizu infracrvene ili samo najdublji crvena tinta u pisaču. Što je 50% crveno na jednom zaslonu je vjerojatno nešto poput 62% na drugom zaslonu. To je kao da govori osobu koja ste upravo prešao sedam jedinica udaljenosti, bez jedinice ne znam da li je 7 km ili 7 metara.</p>
+<p class="p">U boji, govorimo o jedinicama kao gamuta. Skala je bitno raspon boja koje se mogu reproducirati.Uređaj poput DSLR fotoaparata može imati vrlo veliku paletu, biti u mogućnosti snimiti sve boje u zalasku sunca, ali projektor ima vrlo mali skala i sve boje će izgledati "isprano"</p>
+<p class="p">U nekim slučajevima možemo <span class="em">ispraviti</span> izlaz iz uređaja mijenjajući podatke koje ćemo mu poslati, ali u drugim slučajevima gdje to nije moguće moramo pokazati korisniku kako će rezultat izgledati.</p>
+<p class="p">Za fotografijama ima smisla koristiti cijeli tonski spektar boja uređaja, biti u mogućnosti napraviti glatke promjene u boji. Za ostale grafike, možda želite uskladiti boju točno, što je važno ako pokušavate ispisati prilagođeni šalicu s Red Hat logom koji ima <span class="em"> </span> biti točan Red Hat Red.</p>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Više informacija</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="color.html" title="Upravljanje bojama">Upravljanje bojama</a><span class="desc"> — 
+      <span class="link"><a href="color-whyimportant.html" title="Zašto je upravljanje bojama važno?">Why is this important</a></span>,
+      <span class="link"><a href="color.html#profiles" title="Profili boja">Color profiles</a></span>,
+      <span class="link"><a href="color.html#calibration" title="Kalibracija">How to calibrate a device</a></span>…
+    </span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

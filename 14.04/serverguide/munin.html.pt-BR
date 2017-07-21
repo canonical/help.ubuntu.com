@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang=pt-BR>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Munin</title>
+<link rel="stylesheet" type="text/css" href="pt_BR.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Guia para servidores Ubuntu">Guia para servidores Ubuntu</a> » <a class="trail" href="monitoring.html" title="Monitoramento">Monitoramento</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="nagios.html" title="Nagios">Anterior</a><a class="nextlinks-next" href="web-servers.html" title="Servidores Web">Próximo</a>
+</div>
+<div class="hgroup"><h1 class="title">Munin</h1></div>
+<div class="region">
+<div class="contents"></div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="munin.html#munin-installation" title="Instalação">Instalação</a></li>
+<li class="links"><a class="xref" href="munin.html#munin-configuration" title="Configuração">Configuração</a></li>
+<li class="links"><a class="xref" href="munin.html#munin-plugins" title="Plug-ins adicionais">Plug-ins adicionais</a></li>
+<li class="links"><a class="xref" href="munin.html#munin-references" title="Referências">Referências</a></li>
+</ul></div>
+<div class="sect2 sect" id="munin-installation"><div class="inner">
+<div class="hgroup"><h2 class="title">Instalação</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Antes de instalar o <span class="app application">Munin</span> no <span class="em emphasis">server01</span> o <span class="app application">apache2</span> deverá está instalado. A configuração padrão é boa para executar um servidor <span class="app application">munin</span>. Para mais informações veja <a class="xref" href="httpd.html" title="HTTPD - Servidor Web Apache2">HTTPD - Servidor Web Apache2</a>.</p>
+<p class="para">Primeiramente, no <span class="em emphasis">server01</span> instale o <span class="app application">munin</span>. Em um terminal digite:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt-get install munin</span>
+</pre></div>
+<p class="para">Agora, no <span class="em emphasis">server02</span> instale o pacote <span class="app application">munin-node</span>:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt-get install munin-node</span>
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="munin-configuration"><div class="inner">
+<div class="hgroup"><h2 class="title">Configuração</h2></div>
+<div class="region"><div class="contents">
+<p class="para">No <span class="em emphasis">server01</span> edite o <span class="file filename">/etc/munin/munin.conf</span> adicionando o endereço de IP para <span class="em emphasis">server02</span>:</p>
+<div class="code"><pre class="contents ">## First our "normal" host.
+[server02]
+       address 172.18.100.101
+</pre></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents">
+        <p class="para">Substitua <span class="em emphasis">server02</span> e <span class="em emphasis">172.18.100.101</span> com o hostname atual e endereço de IP do seu servidor.</p>
+      </div></div></div></div>
+<p class="para">Em seguida, configure o <span class="app application">munin-node</span> no <span class="em emphasis">server02</span>. Edite <span class="file filename">/etc/munin/munin-node.conf</span> para permitir acesso pelo <span class="em emphasis">server01</span>:</p>
+<div class="code"><pre class="contents ">allow ^172\.18\.100\.100$
+</pre></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents">
+        <p class="para">Substitua <span class="em emphasis">^172\.18\.100\.100$</span> com o endereço de IP do seu servidor <span class="app application">munin</span>.</p>
+      </div></div></div></div>
+<p class="para">Agora reinicie o <span class="app application">munin-node</span> no <span class="em emphasis">server02</span> para as mudanças fazerem efeito:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo service munin-node restart</span>
+</pre></div>
+<p class="para">Finalmente, em um navegador vá para <span class="em emphasis">http://server01/munin</span> e você deve ver os links de ótimos gráficos mostrando informações a partir do padrão <span class="em emphasis">munin-plugins</span> para o disco, rede, processos e sistema.</p>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents">
+        <p class="para">Por ser uma nova instalação, é provável que leve algum tempo para os gráficos exibirem algo útil.</p>
+      </div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="munin-plugins"><div class="inner">
+<div class="hgroup"><h2 class="title">Plug-ins adicionais</h2></div>
+<div class="region"><div class="contents">
+<p class="para">O pacote <span class="app application">munin-plugins-extra</span> contém verificações de desempenho de serviços adicionais, tais como DNS, DHCP, Samba, etc. Para instalar o pacote, em um terminal digite:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt-get install munin-plugins-extra</span>
+</pre></div>
+<p class="para">Certifique-se de instalar o pacote em ambos, no servidor e nas máquinas do nó.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="munin-references"><div class="inner">
+<div class="hgroup"><h2 class="title">Referências</h2></div>
+<div class="region"><div class="contents"><div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+          <p class="para">Olhe o site <a href="http://munin.projects.linpro.no/" class="ulink" title="http://munin.projects.linpro.no/">Munin</a> para mais detalhes.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">Especificamente, a pagina da <a href="http://munin.projects.linpro.no/wiki/Documentation" class="ulink" title="http://munin.projects.linpro.no/wiki/Documentation">Documentação Munin </a> contém informações adicionais sobre plugins,  plugins de escrita, etc.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">Além disso, há um livro em alemão pela Open Source Press: Gr.</p>
+        </li>
+</ul></div></div></div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="nagios.html" title="Nagios">Anterior</a><a class="nextlinks-next" href="web-servers.html" title="Servidores Web">Próximo</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p></div>
+</div>
+</body>
+</html>

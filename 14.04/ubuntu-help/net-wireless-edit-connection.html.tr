@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang=tr>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Bir kablosuz bağlantıyı düzenleyin</title>
+<link rel="stylesheet" type="text/css" href="tr.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Ubuntu Masaüstü Rehberi"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Yardım"></span></span> Ubuntu Masaüstü Rehberi</a> » <a class="trail" href="net.html" title="Bağlantı, genelağ, e-ileti ve sohbet">Bağlantı, genelağ, e-ileti ve sohbet</a> » <a class="trail" href="net-wireless.html" title="Kablosuz Ağ Oluşturma">Kablosuz Ağ Oluşturma</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Bir kablosuz bağlantıyı düzenleyin</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Bu konu, bir kablosuz ağ bağlantısını düzenlerken mevcut tüm seçenekleri açıklar. Bir bağlantıyı düzenlemek için, seçke çubuğu içindeki <span class="gui">ağ seçkesini</span> tıklayın ve <span class="gui">Bağlantıları Düzenle</span> seçimini yapın.</p>
+<div class="note" title="Not"><div class="inner"><div class="region"><div class="contents"><p class="p">Çoğu ağ öntanımlı ayarlarıyla doğru düzgün çalışmaktadır, bu yüzden bu ayarlarla çok fazla oynama yapmanız gerekmez. Buradaki seçenekler gelişmiş ağlar üzerinde size daha iyi bir denetim sağlayacaktır.</p></div></div></div></div>
+</div>
+<div id="available" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Tüm kullanıcılar için uygun / Kendiliğinden bağlan</span></h2></div>
+<div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">Kendiliğinden bağlan</span></dt>
+<dd class="terms">
+<p class="p">Bilgisayarın bu ağa erişilebildiği durumda bağlanmasını istiyorsanız bu seçeneği işaretleyin.</p>
+<p class="p">Eğer birden fazla erişilen ağ varsa, bilgisayar <span class="gui">Ağ Bağlantıları</span> penceresindeki <span class="gui">Kablosuz</span> sekmesi içindeki ilk görülen ağa bağlanacak. Mevcut bağlı durumda olan bir ağ bağlantısı, başka bir ağ erişim alanına girse bile koparılmaz.</p>
+</dd>
+<dt class="terms"><span class="gui">Tüm kullanıcılar tarafından kullanılabilir</span></dt>
+<dd class="terms">
+<p class="p">Eğer bu bilgisayardaki tüm kullanıcıların kablosuz ağa erişebilmesini istiyorsanız bunu işaretleyin. Eğer eğın bir <span class="link"><a href="net-wireless-wepwpa.html" title="WEP ve WPA ne anlama gelmektedir?">WEP/WPA parolası</a></span> varsa ve bunu işaretlediyseniz, parolayı yalnızca bir kere girmeniz gerekmektedir. Bundan sonra bilgisayarınızdaki tüm kullanıcılar parolayı bilmeseler bile bu ağa bağlanabilecektir.</p>
+<p class="p">Eğer bu işaretlendiyse, bu ağın ayarlarını değiştirmek için <span class="link"><a href="user-admin-explain.html" title="Yönetimsel ayrıcalıklar nasıl çalışır?">yönetici</a></span> olmak zorundasınız. Yönetici parolanız sorulabilir.</p>
+</dd>
+</dl></div></div></div></div></div>
+</div></div>
+<div id="wireless" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Kablosuz</span></h2></div>
+<div class="region">
+<div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">SSID</span></dt>
+<dd class="terms"><p class="p">Bu, bağlanmaya çalıştığınız kablosuz ağın adıdır, diğer bir deyişle <span class="em">Hizmet Ayar Tanımlayıcı</span>. Kablosuz ağın adını değiştirmedikçe bunu değiştirmeyin (örneğin, yöneltici ya da ana vericinizin ayarları).</p></dd>
+<dt class="terms"><span class="gui">Kip</span></dt>
+<dd class="terms">
+<p class="p">Bunu, bir <span class="gui">Altyapı</span> ağına (bilgisayarların kablosuz olarak merkezi bir noktaya veya yönlendiriciye bağlandığı ağ türü) mı yoksa <span class="gui">Geçici Ağ</span> (Ad-hoc Ağı)'na mı (Merkezi bir nokta olmayan ve ağdaki bilgisayarların birbirine bağlandığı ağ türü) bağlandığını belirlemek için kullanın. Çoğu ağ, altyapı ağlarıdır; ama yine de kendi <span class="link"><a href="net-wireless-adhoc.html" title="Kablosuz bir erişim noktası oluşturun">geçici ağınızı (ad-hoc) oluşturmak</a></span> isteyebilirsiniz.</p>
+<p class="p">Eğer <span class="gui">Geçici Ağı (Ad-hoc)</span> seçerseniz <span class="gui">Bant</span> and <span class="gui">Kanal</span> adında iki başka seçenek göreceksiniz. Bunlar, ad-hoc kablosuz ağının üzerinden çalışacağı kablosuz sıklık bandını belirler. Bazı bilgisayarlar sadece belli bantlar üzerinde çalışabilir (mesela, <span class="gui">A</span> veya sadece <span class="gui">B/G</span>). Bu yüzden ad-hoc bağlantısındaki tüm bilgisayarların kullanabileceği bir bant seçmek isteyebilirsiniz. Yoğun kullanım olan yerlerde aynı kanalı paylaşan birkaç kablosuz ağ olabilir. Bu, bağlantınızı yavaşlatabilir. Bu yüzden kullandığınız kanalı da değiştirebilirsiniz.</p>
+</dd>
+<dt class="terms"><span class="gui">BSSID</span></dt>
+<dd class="terms"><p class="p">Bu, <span class="em">Temel Hizmet Ayarı Tanıtıcı</span>'dır. SSID (yukarı bakın), insanların okuması amaçlanan ağ bağlantısının adıdır; BSSID ise bilgisayar için olan ağın adıdır (kablosuz ağ için özel olan harf ve sayılardan oluşan bir dizgidir). Eğer bir <span class="link"><a href="net-wireless-hidden.html" title="Gizli bir kablosuz ağa bağlan">ağ gizli ise</a></span>, bunun bir SSID adı yoktur ancak BSSID adı vardır.</p></dd>
+<dt class="terms"><span class="gui">Aygıt MAC adresi</span></dt>
+<dd class="terms">
+<p class="p">Bir <span class="link"><a href="net-macaddress.html" title="MAC adresi nedir?">MAC adresi</a></span>, bir parça ağ donanımını kodudur (örneğin, bir kablosuz ağ kartı, bir Ethernet kartı ya da yöneltici). Bir ağa bağlayacağınız her aygıtın fabrikada iken verilmiş benzersiz bir MAC adresi vardır.</p>
+<p class="p">Bu seçenek ağ kartınızın MAC adresini değiştirmek için kullanılabilir.</p>
+</dd>
+<dt class="terms"><span class="gui">Çoğaltılmış MAC adresi</span></dt>
+<dd class="terms"><p class="p">Ağ donanımınız (kablosuz kartınız), farklı bir MAC adresi varmış gibi davranabilir. Bu, yalnızca belli bir MAC adresi ile iletişim kurarken bir aygıt ya da hizmet kullanıyorsanız faydalıdır (örneğin, kablolu bir genişbant modemi). Eğer bu MAC adresini <span class="gui">çoğaltılmış MAC adresi</span> kutusuna yazarsanız, hizmet/aygıt bilgisayarınız gerçek bir MAC adresi yerine çoğaltılmış bir MAC adresine sahipmiş gibi davranacaktır.</p></dd>
+<dt class="terms"><span class="gui">MTU</span></dt>
+<dd class="terms"><p class="p">Bu ayar, <span class="em">En Yüksek İletim Birimini</span> değiştirir, bu da ağdan gönderilebilecek bir yığın verinin en yüksek boyutudur. Dosyalar bir ağ üzerinden gönderildiğinde, veri küçük yığınlara (ya da paketlere) ayrılır. Uygun En Yüksek İletim Birimi, ağınız için bağlantının ne kadar hızlı olduğuna ve paketlerin nasıl gittiğine göre değişir. Genellikle, bu ayarı değiştirmemelisiniz.</p></dd>
+</dl></div></div></div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">Ayrıyetten Bakınız</span></h3></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless-hidden.html" title="Gizli bir kablosuz ağa bağlan">Gizli bir kablosuz ağa bağlan</a><span class="desc"> — Seçke çubuğunda  <span class="gui">ağ seçkesi</span>ni tıklayın ve <span class="gui">Gizli Kablosuz Ağlara Bağlan</span>ı seçin.</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+</div></div>
+<div id="security" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Kablosuz Güvenliği</span></h2></div>
+<div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">Güvenlik</span></dt>
+<dd class="terms">
+<p class="p">Bu, kablosuz ağınızın nasıl bir <span class="em">şifreleme</span> kullandığını tanımlar. Şifrelenmiş bağlantılar kablosuz ağınızın kesilmesinin önlenmesine yardımcı olurlar, böylelikle diğer kişiler "araya giremez" ve hangi siteleri ziyaret ettiğinizi göremez.</p>
+<p class="p">Bazı tür şifrelemeler diğerlerinden daha güçlüdür fakat eski kablosuz ağ donanımlarınca desteklenmeyebilir. Doğal olarak bağlantı için bir parola yazmanız gerekecek; çok incelikli güvenlik türleri bir kullanıcı adı ve dijital "belge-sertifika" gerektirebilir. Gözde kablosuz ağ şifreleme türleri hakkında daha fazla bilgi için <span class="link"><a href="net-wireless-wepwpa.html" title="WEP ve WPA ne anlama gelmektedir?">WEP ve WPA ne anlama gelmektedir?</a></span> bağlantısına bakın.</p>
+</dd>
+</dl></div></div></div></div></div>
+</div></div>
+<div id="ipv4" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">IPv4 Ayarları</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Bu sekmeyi  bilgisayarınızın hangi IP adresini ve DNS sunucularını kullanması gerektiğini tanımlamak için kullanın. Bu bilginin nasıl farklı yollarla alındığını/ayarlandığını görmek icin <span class="gui">Yöntem</span>'i değiştirin.</p>
+<p class="p">Aşağıdaki yöntemler kullanılabilir:</p>
+<div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">Otomatik (DHCP)</span></dt>
+<dd class="terms"><p class="p">IP adresi ve DNS sunucusu gibi DHCP sunucusundan bilgi alır. <span class="em">DHCP sunucusu</span> sizi ağa bağlayan ve hangi ağ ayarlarınızı kullanacağınıza karar veren bir bilgisayardır (veya başka bir cihaz, router gibi). Ağa ilk bağlandığınızda otomatik olarak doğru ayarlar atanır. Çoğu ağ DHCP kullanır.</p></dd>
+<dt class="terms"><span class="gui">Sadece otomatik (DHCP) adresleri</span></dt>
+<dd class="terms"><p class="p">Eğer bu ayarı seçerseniz, bilgisayarınız IP adresini bir DHCP sunucudan alır fakat diğer ayrıntıları elle tanımlamak zorundasınız (hangi DNS sunucusunun kullanılacağı gibi).</p></dd>
+<dt class="terms"><span class="gui">El ile</span></dt>
+<dd class="terms"><p class="p">Eğer bilgisayarın kullanması gereken IP adresi de dahil tüm ağ ayarları kendiniz tanımlamak istiyorsanız bu seçeneği seçin.</p></dd>
+<dt class="terms"><span class="gui">Sadece Yerel-Bağlantı</span></dt>
+<dd class="terms"><p class="p"><span class="em">Link-Local</span>, bir DHCP sunucusuna veya IP adreslerini ve diğer bilgileri elle tanımlamaya gerek kalmadan bilgisayarları bir ağ üzerinde birleştirmenin bir yoludur. Bir Link-Local ağına bağlandığınızda, ağdaki bilgisayarlar hangi IP adreslerinin kullanılacağına ve diğer şeylere kendi aralarında karar verecektir. Bu, birkaç bilgisayarı, kendi aralarında iletişim kurabilmeleri için geçici olarak birbirine bağlamak istediğinizde kullanışlı olur.</p></dd>
+<dt class="terms"><span class="gui">Devredışı</span></dt>
+<dd class="terms"><p class="p">Bu seçenek ağ bağlantınızı devre dışı bırakır ve ağa bağlanmanızı engeller. <span class="gui">IPv4</span> ve <span class="gui">IPv6</span>'ün aynı ağ kartı için olsa da farklı ağlarmış gibi algılandığına dikkat edin. Eğer bir tanesi etkinleştirilmişse diğerini devre dışı bırakmak isteyebilirsiniz.</p></dd>
+</dl></div></div></div>
+</div></div>
+</div></div>
+<div id="ipv6" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">IPv6 Ayarları</span></h2></div>
+<div class="region"><div class="contents"><p class="p">Bu, <span class="gui">IPv4</span> sekmesine oldukça benzerdir ama daha yeni olan IPv6 standardı ile çalışır. En yeni ağlar IPv6 kullanır ama IPv4 hala oldukça yaygındır.</p></div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Daha Fazla Bilgi</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless.html" title="Kablosuz Ağ Oluşturma">Kablosuz Ağ Oluşturma</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Kablosuz ağa bağlan">Wifi bağlan</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Gizli bir kablosuz ağa bağlan">Gizli ağlar</a></span>, <span class="link"><a href="net-wireless-edit-connection.html" title="Bir kablosuz bağlantıyı düzenleyin">Bağlantı ayarlarını düzenle</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Kablosuz ağım neden bağlantıyı kesiyor?">Bağlantı kesiliyor</a></span>…</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

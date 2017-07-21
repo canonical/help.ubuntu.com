@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=ast>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Editar una conexón inalámbrica</title>
+<link rel="stylesheet" type="text/css" href="ast.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Guía del escritoriu d'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía d'escritoriu d'Ubuntu</a> » <a class="trail" href="net.html" title="Redes, web, corréu y chat">Redes, web, corréu y chat</a> » <a class="trail" href="net-wireless.html" title="Redes inalámbriques">Redes inalámbriques</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Editar una conexón inalámbrica</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Esti tema describe toles opciones disponibles cuando edita una conexón de rede inalámbrica. Pa editar una conexón, calque nel <span class="gui">menú de rede</span> na barra de menús, y escueya <span class="gui">Editar les conexones</span>.</p>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">La mayoría de les redes nun van tener dengún problema si dexa esta configuración predeterminada, polo que probablemente nun va ser necesario camudar denguna d'elles. Munches de les opciones qu'equí s'apurren son pa da-y un mayor control sobre redes más avanzaes.</p></div></div></div></div>
+</div>
+<div id="available" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Disponible pa tolos usuarios / Coneutar automáticamente</span></h2></div>
+<div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">Coneutar automáticamente</span></dt>
+<dd class="terms">
+<p class="p">Conseñe esta opción si quier que l'equipu intente coneutase a esta rede inalámbrica cuando tea nel rangu.</p>
+<p class="p">Si hai delles redes afitaes nel rangu, pa coneutase automáticamente, l'equipu va coneutase a la primera que s'amuese na llingüeta <span class="gui">Inalámbrica</span> na ventana <span class="gui">Conexones de rede</span>. Nun va desconeutase d'una rede disponible pa coneutase a una distinta qu'acabe d'apaecer.</p>
+</dd>
+<dt class="terms"><span class="gui">Disponible pa tolos usuarios</span></dt>
+<dd class="terms">
+<p class="p">Conseñe esta opción si quier que tolos usuarios nel equipu tengan accesu a esta rede inalámbrica. Si la rede tien una <span class="link"><a href="net-wireless-wepwpa.html" title="¿Qué signifiquen WEP y WPA?">contraseña WEP/WPA</a></span> y escoyó esta opción, namái va tener qu'introducir la contraseña una vegada. Tolos demás usuarios nel equipu van ser quien a coneutase a la rede ensin tener que conocer la contraseña.</p>
+<p class="p">Si conseña esta opción, tien que ser <span class="link"><a href="user-admin-explain.html" title="¿Cómo funcionen los privilexos d'alministrador?">alministrador</a></span> pa camudar la configuración d'esta rede. Pue pidíse-y qu'introduza la so contraseña d'alministrador.</p>
+</dd>
+</dl></div></div></div></div></div>
+</div></div>
+<div id="wireless" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Rede Inalámbrica</span></h2></div>
+<div class="region">
+<div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">SSID</span></dt>
+<dd class="terms"><p class="p">Esti ye'l nome de la rede inalámbrica a la que se coneuta, tamién conocíu como'l <span class="em">Service Set Identifier</span> (identificador de conxuntu de serviciu). Nun lu camude nun siendo que camudare'l nome de la rede inalámbrica (por exemplu, al camudar la configuración del so enrutador inalámbricu o estación base).</p></dd>
+<dt class="terms"><span class="gui">Mou</span></dt>
+<dd class="terms">
+<p class="p">Use this to specify whether you are connecting to an <span class="gui">Infrastructure</span> network (one where computers wirelessly connect to a central base station or router) or an <span class="gui">Ad-hoc</span> network (where there is no base station, and the computers in the network connect to one another). Most networks are infrastructure ones; you may wish to <span class="link"><a href="net-wireless-adhoc.html" title="Crear un «hotspot» inalámbricu">set-up your own ad-hoc network</a></span> though.</p>
+<p class="p">Si seleiciona <span class="gui">Ad-hoc</span>, va ver otres dos opciones: <span class="gui">Banda</span> y <span class="gui">Canal</span>, que determinen en qué banda de frecuencies inalámbrica va operar la red ad-hoc. Dellos equipos namái puen funcionar en delles bandes (por exemplu, solo na <span class="gui">A</span> o na <span class="gui">B/G</span>), polo que deberá escoyer la banda afayadiza pa que tolos equipos de la rede ad-hoc puedan usala. En llugares concurríos, ye dable qu'esistan delles redes inalámbriques compartiendo la mesma canal; esto podría ralentizar la conexón, polo que tamién pue camudar la canal que vaya a usar.</p>
+</dd>
+<dt class="terms"><span class="gui">BSSID</span></dt>
+<dd class="terms"><p class="p">Ésti ye'l <span class="em">Identificador de Conxuntu Básicu de Serviciu</span>. El SSID (ver más arriba) ye'l nome de la rede que los humanos lleen; el BSSID ye un nome que l'equipu pue atalantar (ye una cadena de lletres y númberos que se supon única pa la rede inalámbrica). Si una <span class="link"><a href="net-wireless-hidden.html" title="Coneutar a una rede inalámbrica tapecida">rede ta tapecida</a></span>, nun va tener un SSID, pero sí un BSSID.</p></dd>
+<dt class="terms"><span class="gui">Direición MAC del preséu:</span></dt>
+<dd class="terms">
+<p class="p">Una <span class="link"><a href="net-macaddress.html" title="¿Qué ye una direición MAC?">direición MAC</a></span> ye un códigu qu'identifica una pieza del hardware de rede (por exemplu, una tarxeta inalámbrica, una tarxeta de rede Ethernet o un router. Cada preséu que pue coneutase a una rede tien una direición MAC única, asignada de fábrica.</p>
+<p class="p">Esta opción pue usase pa camudar la direición MAC de la so tarxeta de rede.</p>
+</dd>
+<dt class="terms"><span class="gui">Direición MAC clonada</span></dt>
+<dd class="terms"><p class="p">El so hardware de rede (tarxeta inalámbrica) pue intentar tener una direición MAC distinta. Esto ye útil si tien un preséu o serviciu que namái se comunica con una determinada direición MAC (por exemplu, un cablemódem de banda ancha). Si pon esa direición MAC nel apartáu <span class="gui">direición MAC clonada</span>, el preséu o serviciu va pensar que'l so equipu tien la direición MAC clonada en cuenta de la real.</p></dd>
+<dt class="terms"><span class="gui">MTU</span></dt>
+<dd class="terms"><p class="p">Esta configuración camuda la <span class="em">Unidá de Tresmisión Máxima</span>, que ye'l tamañu máximu del cachu de datos que pue unviase na rede. Cuando los ficheros s'unvien a la rede, los datos pártense en pequeños cachos o paquetes. La MTU óptima pa la so rede va depender de la probabilidá de perder paquetes (por cuenta de ruíos na rede) y la rapidez de la conexón. Polo xeneral nun tendría de camudar esta configuración.</p></dd>
+</dl></div></div></div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">Lleer tamién</span></h3></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless-hidden.html" title="Coneutar a una rede inalámbrica tapecida">Coneutar a una rede inalámbrica tapecida</a><span class="desc"> — Calque nel <span class="gui">menú de rede</span> na barra de menús y escueya <span class="gui">Coneutar a otra rede inalámbrica tapecida</span>.</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+</div></div>
+<div id="security" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Seguridá inalámbrica</span></h2></div>
+<div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">Seguridá</span></dt>
+<dd class="terms">
+<p class="p">Esto define qué tipu de <span class="em">cifráu</span> usa la so rede inalámbrica. Les conexones cifraes ayuden a protexer la so conexón inalámbrica de ser interceptada, polo qu'otres persones nun van poder «escuchar» y ver qué sitiu web ta visitando, etc.</p>
+<p class="p">Delles tribes de cifráu son más fuertes qu'otres, pero pue que dellos preseos de rede inalámbrica más antiguos nun lu almitan. Normalmente va tener que teclear una contraseña pa coneutase; otres tribes de seguridá más sofisticaes tamién necesiten un nome d'usuariu y un «certificáu» dixital. Consulte <span class="link"><a href="net-wireless-wepwpa.html" title="¿Qué signifiquen WEP y WPA?">¿Qué signifiquen WEP y WPA?</a></span> pa más información sobre les tribes de cifráu inalámbricu más usuales.</p>
+</dd>
+</dl></div></div></div></div></div>
+</div></div>
+<div id="ipv4" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Axustes de IPv4</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Use esta llingüeta pa definir información como la direición IP del so equipu y los sirvidores DNS que tien d'usar. Camude'l <span class="gui">Métodu</span> pa ver les distintes maneres de llograr/afitar esa información.</p>
+<p class="p">Los siguientes métodos tán disponibles:</p>
+<div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">Automáticu (DHCP)</span></dt>
+<dd class="terms"><p class="p">Recueye información como la direición IP y sirvidor DNS pa usala dende un <span class="em">sirvidor DHCP</span>. Un sirvidor DHCP ye un equipu (o otru preséu, como un router) coneutáu a la rede que decide la configuración de rede del so equipu; al coneutase per primer vegada a la rede, va asignáse-y automáticamente la configuración afayadiza. La mayoría de redes usen DHCP.</p></dd>
+<dt class="terms"><span class="gui">Namái direiciones automátiques (DHCP)</span></dt>
+<dd class="terms"><p class="p">Si escueye esta opción, l'equipu va obtener la so direición IP d'un sirvidor DHCP, pero va tener que definir manualmente otros detalles (como'l sirvidor DNS que va usar).</p></dd>
+<dt class="terms"><span class="gui">Manual</span></dt>
+<dd class="terms"><p class="p">Escueya esta opción si quier definir tola configuración de rede, incluyendo la direición IP que l'equipu tien d'usar.</p></dd>
+<dt class="terms"><span class="gui">Namái enllaz llocal</span></dt>
+<dd class="terms"><p class="p"><span class="em">Namái enllaz llocal</span> (Link-Local) ye una manera d'interconeutar equipos nuna rede ensin precisar un sirvidor DHCP o introducir manualmente direiciones IP o otra información. Si se coneuta a una rede llocal, los equipos de la rede van decidir qué IP utilizar y demás. Ye útil pa coneutar temporalmente equipos xuntos.</p></dd>
+<dt class="terms"><span class="gui">Desactiváu</span></dt>
+<dd class="terms"><p class="p">Esta opción va desactivar la conexón a la rede y va torga-y coneutase a ella. Decátese que <span class="gui">IPv4</span> y <span class="gui">IPv6</span> trátense como conexones separtaes, inclusu anque vaigan pela mesma tarxeta de rede. Si activó una d'elles, pue que quiera desactivar la otra.</p></dd>
+</dl></div></div></div>
+</div></div>
+</div></div>
+<div id="ipv6" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Axustes de IPv6</span></h2></div>
+<div class="region"><div class="contents"><p class="p">Ye asemeyada a la llingüeta <span class="gui">IPv4</span> sacante en que trabaya col estándar IPv6, que ye más recién. Les redes más modernes usen IPv6, pero IPv4 sigue siendo más popular nesti momentu.</p></div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">More Information</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless.html" title="Redes inalámbriques">Redes inalámbriques</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html" title="Coneutase a una rede inalámbrica">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html" title="Coneutar a una rede inalámbrica tapecida">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-edit-connection.html" title="Editar una conexón inalámbrica">Edit connection settings</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html" title="¿Por qué la mio rede inalámbrica sigue desconeutándose?">Disconnecting</a></span>…
+    </span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

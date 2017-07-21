@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang=ko>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>네트워크 파일 시스템 (NFS)</title>
+<link rel="stylesheet" type="text/css" href="ko.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="우분투 서버 가이드">우분투 서버 가이드</a> » <a class="trail" href="file-servers.html" title="파일 서버">파일 서버</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="ftp-server.html" title="FTP 서버">이전</a><a class="nextlinks-next" href="iscsi-initiator.html" title="iSCSI Initiator">다음</a>
+</div>
+<div class="hgroup"><h1 class="title">네트워크 파일 시스템 (NFS)</h1></div>
+<div class="region">
+<div class="contents">
+<p class="para">NFS는 네트워크 상의 다른 사람과 디렉토리와 파일을 공유하는 시스템을 허용 합니다. NFS를 사용하는 것으로, 사용자와 프로그램은 원격지 시스템 상의 파일을 로컬 파일을 사용하는 것과 거의 비슷하게 접근할 수 있습니다.</p>
+<p class="para">NFS가 제공하는 가장 주목할 만한 혜택의 몇 가지는 다음과 같습니다:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+      <p class="para">로컬 워크스테이션은 공통적으로 사용되는 데이터가 단일 기계에 저장되고 네트워크 상의 다른 것을 여전히 접근할 수 있기 때문에 보다 적은 디스크 공간을 사용 합니다.</p>
+          </li>
+<li class="list itemizedlist">
+      <p class="para">사용자가 모든 네트워크 기계들에 분리된(각각의) 홈 디렉토리를 가질 필요가 없습니다. 홈 디렉토리는 NFS 서버 상에 만들어질 수 있고 네트워크를 통하여 사용할 수 있습니다.</p>
+          </li>
+<li class="list itemizedlist">
+
+      <p class="para">플로피 디스크, CD-ROM 드라이브, 그리고 USB 드라이브와 같은 저장 장치들은 네트워크 상의 다른 기계에 의하여 사용될 수 있습니다. 이것은 네트워크 전체의 이동식 미디어 드라이브의 숫자를 줄일지도 모릅니다.</p>
+          </li>
+</ul></div>
+</div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="network-file-system.html#nfs-installation" title="설치">설치</a></li>
+<li class="links"><a class="xref" href="network-file-system.html#nfs-configuration" title="설정">설정</a></li>
+<li class="links"><a class="xref" href="network-file-system.html#nfs-client-configuration" title="NFS  클라이언트 설정">NFS  클라이언트 설정</a></li>
+<li class="links"><a class="xref" href="network-file-system.html#nfs-references" title="참조">참조</a></li>
+</ul></div>
+<div class="sect2 sect" id="nfs-installation"><div class="inner">
+<div class="hgroup"><h2 class="title">설치</h2></div>
+<div class="region"><div class="contents">
+<p class="para">NFS 서버를 설치하기 위하여 다음의 명령을 터미널 프롬프트에서 입력 합니다:</p>
+<p class="para">
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt-get install nfs-kernel-server</span>
+</pre></div>
+          </p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="nfs-configuration"><div class="inner">
+<div class="hgroup"><h2 class="title">설정</h2></div>
+<div class="region"><div class="contents">
+<p class="para"><span class="file filename">/etc/exports</span> 파일에 디렉토리를 추가하는 것으로 내보낼 디렉토리를 설정할 수 있습니다. 예는:</p>
+<p class="para">
+<div class="screen"><pre class="contents ">/ubuntu *(ro,sync,no_root_squash)
+/home *(rw,sync,no_root_squash)
+</pre></div>
+          </p>
+<p class="para">호스트 이름 형식의 하나를 *로 대체할 수 있습니다. 호스트 이름 정의를 가능한 지정하여 원하지 않는 시스템이 NFS 마운트를 접근할 수 없도록 합니다.</p>
+<p class="para">NFS 서버를 시작하기 위하여, 다음의 명령을 터미널 프롬프트에서 실행할 수 있습니다:</p>
+<p class="para">
+<div class="screen"><pre class="contents "><span class="cmd command">sudo service nfs-kernel-server start</span>
+</pre></div>
+          </p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="nfs-client-configuration"><div class="inner">
+<div class="hgroup"><h2 class="title">NFS  클라이언트 설정</h2></div>
+<div class="region"><div class="contents">
+<p class="para">다른 기계에서 공유된 NFS 디렉토리를 마운트하려면 <span class="app application">mount</span> 명령을 사용하고, 터미널 프롬프트에서 다음의 명령과 비슷하게(각자의 경우에 맞게) 명령을 입력 합니다:</p>
+<p class="para">
+<div class="screen"><pre class="contents "><span class="cmd command">sudo mount example.hostname.com:/ubuntu /local/ubuntu</span>
+</pre></div>
+</p>
+<div class="note note-warning" title="경고"><div class="inner"><div class="region"><div class="contents">
+      <p class="para">마운트 위치 디렉토리 <span class="file filename">/local/ubuntu</span> 반드시 있어야 합니다. <span class="file filename">/local/ubuntu</span> 디렉토리 내에는 파일 또는 서브 디렉토리가 없어야만 합니다.</p>
+      </div></div></div></div>
+<p class="para">다른 기계에서 NFS 공유를 마운트하는 다른 방법은 <span class="file filename">/etc/fstab</span> 파일에 한 줄을 더하는 것 입니다. 그 줄은 NFS 서버의 호스트 이름, 내보내지는 서버 상의 디렉토리, NFS 공유가 마운트되는 로컬 기계 상의 디렉토리를 반드시 기술 합니다.</p>
+<p class="para"><span class="file filename">/etc/fstab</span> 파일 내의 그 줄을 위한 일반적인 문법은 다음과 같습니다:</p>
+<div class="code"><pre class="contents ">example.hostname.com:/ubuntu /local/ubuntu nfs rsize=8192,wsize=8192,timeo=14,intr
+</pre></div>
+<p class="para">NFS 공유 폴더를 마운트 하는 과정에서 문제가 발생했다면, 클라이언트 쪽에 <span class="app application">nfs-common</span> 꾸러미가 설치되어 있는지 확인하십시오. <span class="app application">nfs-common</span> 꾸러미를 설치하려면 터미널 프롬프트에서 다음 명령을 입력히세요: <div class="screen"><pre class="contents "><span class="cmd command">sudo apt-get install nfs-common</span>
+</pre></div></p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="nfs-references"><div class="inner">
+<div class="hgroup"><h2 class="title">참조</h2></div>
+<div class="region"><div class="contents">
+<p class="para"><a href="http://nfs.sourceforge.net/" class="ulink" title="http://nfs.sourceforge.net/">리눅스 NFS에 대해 자주하는 질문</a></p>
+<p class="para">
+                <a href="https://help.ubuntu.com/community/NFSv4Howto" class="ulink" title="https://help.ubuntu.com/community/NFSv4Howto">Ubuntu Wiki NFS Howto</a>
+                </p>
+</div></div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="ftp-server.html" title="FTP 서버">이전</a><a class="nextlinks-next" href="iscsi-initiator.html" title="iSCSI Initiator">다음</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p></div>
+</div>
+</body>
+</html>

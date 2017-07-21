@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang=gl-GL>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Xestionar os aplicativos e as configuracións coa barra de menús</title>
+<link rel="stylesheet" type="text/css" href="gl.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do escritorio de Ubuntu</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Xestionar os aplicativos e as configuracións coa barra de menús</span></h1></div>
+<div class="region">
+<div class="contents"><p class="p">A <span class="gui">barra de menús</span> é a banda escura na parte superior da pantalla. Contén os botóns de xestión das xanelas, o menú do aplicativo e os menús de estado.</p></div>
+<div id="window-management" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Botóns de xestión de xanelas</span></h2></div>
+<div class="region">
+<div class="contents"><p class="p">Os <span class="gui">botóns de xestión das xanelas</span> están no recanto superior esquerdo destas. Cando están maximizadas, os botóns aparecen na banda superior esquerda da pantalla. Prema nestes botóns para pechar, maximizar, minimizar ou restabelecer as xanelas.</p></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">Vexa tamén</span></h3></div>
+<div class="region"><ul><li class="links ">
+<a href="shell-windows-states.html" title="Operacións con xanelas">Operacións con xanelas</a><span class="desc"> — Restaurar, redimensionar, ordenar e ocultar.</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+</div></div>
+<div id="app-menus" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Menús de aplicativos</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Os <span class="gui">menús dos aplicativos</span> están localizados de forma predeterminada á dereita dos botóns de xestión das xanelas. Unity oculta estes menús e os botóns de xestión das xanelas excepto se vostede move o punteiro á banda superior esquerda da pantalla ou preme <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span>. Esta funcionalidade permite que teña un área maior para ver os contidos, especialmente valorábel en pantallas pequenas como as dos notebooks.</p>
+<p class="p">Se o desexa, pode cambiar o comportamento predeterminado para ter os menús anexados á barra de título das xanelas do aplicativo respectivo no canto de telos na barra dos menús. Tamén pode axustar a visibilidade como sempre visíbel no canto de mostrarse unicamente ao pasar o rato.</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Prema no <span class="em">menú do sistema</span> <span class="media"><span class="media media-image"><img src="figures/system-devices-panel.svg" class="media media-inline" alt="Icona da roda dentada"></span></span> e seleccione <span class="gui">Preferencias do sistema</span>.</p></li>
+<li class="steps"><p class="p">Na sección Persoal, prema <span class="gui">Aparencia</span> e seleccione a lapela <span class="gui">Comportamento</span>.</p></li>
+<li class="steps"><p class="p">En <span class="gui">Mostrar os menús para de xanela</span>, seleccione <span class="gui">Na barra do título da xanela</span>.</p></li>
+<li class="steps"><p class="p">En <span class="gui">Visibilidade dos menús</span>, seleccione <span class="gui">Sempre visíbeis</span>.</p></li>
+</ol></div></div></div>
+</div></div>
+</div></div>
+<div id="status-menus" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Menús de estado</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Ubuntu ten varios <span class="gui">menús de estado</span> (algunhas veces denomínanse <span class="gui">indicadores</span>) na banda dereita da barra do menú. Os menús de estado son un lugar práctico onde comprobar e modificar o estado do computador e dos aplicativos.</p>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Algunhas das iconas usadas polos menús indicadores cambian en función do estado do aplicativo.</p></div></div></div></div>
+<p class="p">Outros programas como <span class="app">Tomboy</span> ou <span class="app">Transmission</span> tamén poden engadir menús indicadores ao panel.</p>
+<div class="list ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-list"><h3><span class="title">Lista dos menús de estado e a súa función</span></h3></div>
+<div class="region"><ul class="list" style="list-style-type:disc">
+<li class="list">
+<p class="p"><span class="em">Menú de rede</span> <span class="media"><span class="media media-image"><img src="figures/network-offline.svg" class="media media-inline" alt="Icona de rede sen conexión"></span></span></p>
+<p class="p">Conectarse a redes <span class="link"><a href="net-wired-connect.html" title="Conectar a unha rede con fíos (Ethernet)">con fíos</a></span>, <span class="link"><a href="net-wireless-connect.html" title="Conectarse a unha rede sen fíos">sen fíos</a></span>, <span class="link"><a href="net-mobile.html" title="Conectarse por banda larga móbil">móbiles</a></span> e <span class="link"><a href="net-vpn-connect.html" title="Conectar a unha VPN">VPN</a></span>.</p>
+</li>
+<li class="list">
+<p class="p"><span class="em">Menú da orixe de entrada</span> <span class="media"><span class="media media-image"><img src="figures/indicator-keyboard-En.svg" class="media media-inline" alt="Icona da orixe de entrada"></span></span></p>
+<p class="p">Seleccionar a orixe da disposición/entrada do teclado, <span class="link"><a href="keyboard-layouts.html" title="Usar orixes de entrada alternativas">configurar orixes de entrada</a></span>.</p>
+</li>
+<li class="list">
+<p class="p"><span class="em">Menú Bluetooth</span> <span class="media"><span class="media media-image"><img src="figures/bluetooth-active.svg" class="media media-inline" alt="Icona Bluetooth"></span></span></p>
+<p class="p">Envíe ou reciba ficheiro por <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>. Este menú está oculto se non se detecta un dispositivo bluetooth.</p>
+</li>
+<li class="list">
+<p class="p"><span class="em">Menú da mensaxería</span> <span class="media"><span class="media media-image"><img src="figures/indicator-messages.svg" class="media media-inline" alt="Icona da mensaxe"></span></span></p>
+<p class="p">Envíe e reciba notificacións entrantes dos aplicativos de mensaxería incluíndo o correo electrónico, as redes sociais e conversas de internet.</p>
+</li>
+<li class="list">
+<p class="p"><span class="em">Menú da batería</span> <span class="media"><span class="media media-image"><img src="figures/battery-100.svg" class="media media-inline" alt="Icona da batería"></span></span></p>
+<p class="p">Comprobar o estado da carga da batería dun portátil. Este menú agochase se non se detecta ningunha batería.</p>
+</li>
+<li class="list">
+<p class="p"><span class="em">Menú do son</span> <span class="media"><span class="media media-image"><img src="figures/audio-volume-high-panel.svg" class="media media-inline" alt="Icona do volume"></span></span></p>
+<p class="p">Regule o <span class="link"><a href="sound-volume.html" title="Cambiar o volume do son">volume</a></span>, configure os <span class="link"><a href="media.html" title="Son, vídeo e imaxes">axustes</a></span> de son e controle reprodutores multimedia como <span class="app">Rhythmbox</span>.</p>
+</li>
+<li class="list">
+<p class="p"><span class="em">Reloxo</span></p>
+<p class="p">Acceda á hora e data actuais. Tamén se poden ver aquí as citas do aplicativo incorporado <span class="link"><a href="clock-calendar.html" title="Apuntamentos no calendario">Calendario</a></span>.</p>
+</li>
+<li class="list">
+<p class="p"><span class="em">Menú do sistema</span> <span class="media"><span class="media media-image"><img src="figures/system-devices-panel.svg" class="media media-inline" alt="Icona da engrenaxe"></span></span></p>
+<p class="p">Acceda á información sobre o seu computador, a esta guía de axuda e ás <span class="link"><a href="prefs.html" title="Configuracións do usuario e sistema">preferencias do sistema</a></span>. Cambio de usuario, bloqueo de pantalla, saída da sesión, suspensión, reinicio ou peche do computador.</p>
+</li>
+</ul></div>
+</div>
+</div>
+</div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Máis información</span></h2></div>
+<div class="region"><ul>
+<li class="links "><a href="index.html" title="Guia do escritorio Ubuntu">Guia do escritorio Ubuntu</a></li>
+<li class="links "><a href="shell-overview.html#desktop" title="O escritorio">O escritorio</a></li>
+</ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

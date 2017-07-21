@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=pt-BR>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Meu computador esquenta demais</title>
+<link rel="stylesheet" type="text/css" href="pt-BR.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia do Ubuntu Deskop</a> » <a class="trail" href="hardware.html" title="Hardware e drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemas comuns">Problemas</a> » <a class="trail" href="power.html#problems" title="Problemas">Problemas com a alimentação de energia</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Meu computador esquenta demais</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">A maioria dos computadores esquenta depois de um período, e alguns ficam bem quentes. Isso é normal: é simplesmente parte de como o computador se resfria. Contudo, se seu computador ficar muito quente pode ser sinal de que ele está superaquecido, e isso pode potencialmente causar estragos.</p>
+<p class="p">A maioria dos laptops fica razoavelmente quente após um certo perído de uso. Geralmente, não há nada com que se preocupar - computadores produzem muito calor e laptops são muito compactos, então eles precisam remover o calor rapidamente e por isso suas partes externas esquentam. Alguns laptops ficam realmente muito quentes, entretanto, e podem ficar desconfortáveis de usar. Isso normalmente é o resultado de um sistema de refrigeração mal projetado. Você pode, algumas vezes, adicionar acessórios de refrigeração que se encaixam na parte de baixo do laptop e promover uma melhor refrigeração.</p>
+<p class="p">Se você tem um computador de mesa que esquenta demais para tocar, talvez ele tenha uma refrigeração insuficiente. Se este for o seu caso, você pode comprar um ventilador extra ou checar se os ventiladores e dissipadores estão limpos de poeira e outros fatores bloqueadores. Você pode querer considerar colocar o computador em uma área mais bem ventilada também. Se mantido em espaços confinados (p. ex., em um armário), o sistema de refrigeração do computador pode não ser capaz de remover o calor e circular o ar fresco com a rapidez necessária.</p>
+<p class="p">Algumas pessoas se preocupam sobre os risco à saúde de usar laptops quentes. Existem indícios de que o uso prolongado de um laptop quente em seu colo pode reduzir fertilidade (masculina), e existem relatos de pequenas queimaduras ( em casos extremos). Se você se preocupa com esses problemas potenciais, você talvez deva consultar um médico. Claro que, você pode simplesmente escolher não apoiar o laptop em seu colo.</p>
+<p class="p">A maioria dos computadores modernos desliga se esquentar muito, para evitar que se danifique. Se o seu computador desliga a todo instante, este pode ser o motivo. Se o seu computador está superaquecendo, provavelmente você vai precisar consertá-lo.</p>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Mais informações</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="power.html#problems" title="Problemas">Problemas com a alimentação de energia</a><span class="desc"> — Resolução de problemas com energia e baterias.</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang=cs>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Sítě, www a e-mail</title>
+<link rel="stylesheet" type="text/css" href="cs.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Sítě, www a e-mail</span></h1></div>
+<div class="region">
+<div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
+<div class="links-grid ">
+<div class="links-grid-link"><a href="net-wireless.html" title="Bezdrátové sítě">Bezdrátové sítě</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-connect.html" title="Připojení k bezdrátové síti">Připojení k Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Připojení ke skryté bezdrátové síti">Skryté sítě</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Proč se moje síť pořád odpojuje?">Odpojování</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="net-chat.html" title="Chatování a společenské sítě">Chatování a společenské sítě</a></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="net-chat-empathy.html" title="Rychlá komunikace na Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
+      <span class="link"><a href="net-chat-video.html" title="Videotelefonování">make video calls</a></span>,
+      <span class="link"><a href="net-chat-skype.html" title="Jak mohu použít Skype v Ubuntu?">install skype</a></span>
+    </span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="net-security.html" title="Dodržování bezpečnosti na Internetu">Dodržování bezpečnosti na Internetu</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-antivirus.html" title="Potřebuji antivirový software?">Antivirový software</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Povolení nebo blokování přístupu na firewallu">základy k firewallu</a></span>, <span class="link"><a href="net-firewall-ports.html" title="Běžně používané síťové porty">porty na firewallu</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="net-wired.html" title="Drátová síť">Drátová síť</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html" title="Připojení k drátové síti (Ethernet)">Připojení k Internetu po drátu</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Vytvoření připojení se pevnou adresou IP">pevná IP adresa</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="net-email.html" title="E-mail a poštovní software">E-mail a poštovní software</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-default-email.html" title="Změna poštovní aplikace používané k psaní e-mailů">Výchozí poštovní aplikace</a></span>, <span class="link"><a href="net-email-virus.html" title="Potřebuji kontrolovat své e-maily ohledně virů?">měl bych kontrolovat viry?</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="contacts.html" title="Kontakty">Kontakty</a></div>
+<div class="desc"><span class="desc">Jak se dostat ke svým kontaktům.</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="net-problem.html" title="Problémy se sítí">Problémy se sítí</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html" title="Řešení problémů s bezdrátovými sítěmi">Řešení problémů s bezdrátovým připojením</a></span>, <span class="link"><a href="net-wireless-find.html" title="Nevidím svoji bezdrátovou síť v seznamu">vyhledání vaší sítě Wi-Fi</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="net-browser.html" title="Prohlížeče WWW">Prohlížeče WWW</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-default-browser.html" title="Změna prohlížeče, ve kterém se jako výchozím otevírají stránky WWW">Změna výchozího prohlížeče</a></span>, <span class="link"><a href="net-install-flash.html" title="Instalace zásuvného modulu Flash">instalace zásuvného modulu Flash</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="sharing.html" title="Sdílení">Sdílení</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="sharing-desktop.html" title="Sdílení vaší plochy">Sdílení pracovní plochy</a></span>, <span class="link"><a href="files-share.html" title="Sdílení souborů přes e-mail">sdílení souborů přes e-mail</a></span>, <span class="link"><a href="sharing-media.html" title="Sdílení vaší hudby, fotografií a videí">sdílení multimédií</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="net-general.html" title="Terminologie sítí a rady">Terminologie sítí a rady</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-findip.html" title="Zjištění vaší IP adresy">Zjištění vaší adresy IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Co znamená WEP a WPA?">zabezpečení WEP a WPA</a></span>, <span class="link"><a href="net-macaddress.html" title="Co je to MAC adresa?">adresa MAC</a></span>, <span class="link"><a href="net-proxy.html" title="Nastavení proxy">proxy</a></span>…</span></div>
+</div>
+</div></div></div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Další informace</span></h2></div>
+<div class="region"><ul><li class="links "><a href="index.html" title="Průvodce pracovním prostředím Ubuntu">Průvodce pracovním prostředím Ubuntu</a></li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Viz také</span></h2></div>
+<div class="region"><ul><li class="links "><a href="gs-get-online.html" title="Připojení k internetu">Vysvětlení, jak se připojit</a></li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

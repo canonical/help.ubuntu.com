@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang=ja>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>デクストップ、アプリケーション、ウィンドウ</title>
+<link rel="stylesheet" type="text/css" href="ja.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="ヘルプ"></span></span>Ubuntu デスクトップガイド</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">デクストップ、アプリケーション、ウィンドウ</span></h1></div>
+<div class="region">
+<div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="unity-introduction.html" title="Ubuntuへようこそ"><span class="title">Ubuntuへようこそ</span><span class="linkdiv-dash"> — </span><span class="desc">Unityデスクトップの見た目の紹介</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html" title="便利なキーボードショートカット"><span class="title">便利なキーボードショートカット</span><span class="linkdiv-dash"> — </span><span class="desc">キーボードでデスクトップを使いこなします。</span></a></div></div>
+</div></div></div></div>
+<div id="desktop" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">デスクトップ</span></h2></div>
+<div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
+<div class="links-twocolumn">
+<div class="linkdiv "><a class="linkdiv" href="unity-launcher-intro.html" title="Launcherを使ってアプリケーションを起動する"><span class="title">Launcherを使ってアプリケーションを起動する</span><span class="linkdiv-dash"> — </span><span class="desc">Launcherは画面の左側にあります。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="unity-dash-intro.html" title="Dashでアプリケーションやファイル、音楽などを見つける"><span class="title">Dashでアプリケーションやファイル、音楽などを見つける</span><span class="linkdiv-dash"> — </span><span class="desc">DashはLauncherの一番上にあるボタンです。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="unity-hud-intro.html" title="HUDとは何ですか?"><span class="title">HUDとは何ですか?</span><span class="linkdiv-dash"> — </span><span class="desc">HUD を使ってアプリケーションのメニューを検索します。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="unity-menubar-intro.html" title="アプリの管理とメニューバーでの設定"><span class="title">アプリの管理とメニューバーでの設定</span><span class="linkdiv-dash"> — </span><span class="desc">メニューバーは画面上部にある薄暗い帯状のものです。</span></a></div>
+</div>
+<div class="links-twocolumn">
+<div class="linkdiv "><a class="linkdiv" href="unity-scrollbars-intro.html" title="オーバーレイスクロールバーとは何ですか?"><span class="title">オーバーレイスクロールバーとは何ですか?</span><span class="linkdiv-dash"> — </span><span class="desc">オーバーレイスクロールバーは、長いドキュメントの上に表示される、オレンジ色をした細長いバーです。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html" title="スケジュール表"><span class="title">スケジュール表</span><span class="linkdiv-dash"> — </span><span class="desc">画面上部のカレンダーに予定を表示します。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="ログアウト、電源OFF、ユーザーの切り替え"><span class="title">ログアウト、電源OFF、ユーザーの切り替え</span><span class="linkdiv-dash"> — </span><span class="desc">ログアウトやユーザーの切り替えといった方法で、現在のユーザーアカウントから抜ける方法を学びます。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-guest-session.html" title="制限付きのゲストセッションの起動"><span class="title">制限付きのゲストセッションの起動</span><span class="linkdiv-dash"> — </span><span class="desc">友人や同僚に安全な方法でコンピューターを貸す。</span></a></div>
+</div>
+</div></div></div></div></div>
+</div></div>
+<div id="apps" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">アプリケーションとウィンドウ</span></h2></div>
+<div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
+<div class="links-twocolumn">
+<div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html" title="Launcherに表示されるアプリケーションを変更する"><span class="title">Launcherに表示されるアプリケーションを変更する</span><span class="linkdiv-dash"> — </span><span class="desc">Launcher上に頻繁に利用するプログラムアイコンを追加、移動、削除します。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows.html" title="ウィンドウとワークスペース"><span class="title">ウィンドウとワークスペース</span><span class="linkdiv-dash"> — </span><span class="desc">ウィンドウを移動および整理します。</span></a></div>
+</div>
+<div class="links-twocolumn">
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html" title="ウィンドウを切り替える"><span class="title">ウィンドウを切り替える</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> を押します。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="startup-applications.html" title="自動起動するアプリケーション"><span class="title">自動起動するアプリケーション</span><span class="linkdiv-dash"> — </span><span class="desc">ログインするときに起動するアプリケーションを選択します。</span></a></div>
+</div>
+</div></div></div></div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">詳細</span></h2></div>
+<div class="region"><ul><li class="links "><a href="index.html" title="Ubuntu デスクトップガイド">Ubuntu デスクトップガイド</a></li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

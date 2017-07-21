@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang=it>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Firewall</title>
+<link rel="stylesheet" type="text/css" href="it.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../16.04" class="trail">Ubuntu 16.04</a> » <a class="trail" href="index.html" title="Guida a Ubuntu Server">Guida a Ubuntu Server</a> » <a class="trail" href="security.html" title="Sicurezza">Sicurezza</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="console-security.html" title="Sicurezza della console">Indietro</a><a class="nextlinks-next" href="apparmor.html" title="AppArmor">Avanti</a>
+</div>
+<div class="hgroup"><h1 class="title">Firewall</h1></div>
+<div class="region">
+<div class="contents"></div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="firewall.html#firewall-introduction" title="Introduzione">Introduzione</a></li>
+<li class="links"><a class="xref" href="firewall.html#firewall-ufw" title="ufw - Firewall non complicato">ufw - Firewall non complicato</a></li>
+<li class="links"><a class="xref" href="firewall.html#ip-masquerading" title="IP masquerading">IP masquerading</a></li>
+<li class="links"><a class="xref" href="firewall.html#firewall-logs" title="Registri">Registri</a></li>
+<li class="links"><a class="xref" href="firewall.html#other-firewall-tools" title="Altri strumenti">Altri strumenti</a></li>
+<li class="links"><a class="xref" href="firewall.html#firewall-references" title="Riferimenti">Riferimenti</a></li>
+</ul></div>
+<div class="sect2 sect" id="firewall-introduction"><div class="inner">
+<div class="hgroup"><h2 class="title">Introduzione</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Il kernel Linux include il sottosistema <span class="em emphasis">Netfilter</span> usato per manipolare o decidere la sorte del traffico di rete diretto all'interno o attraverso un server. Tutte le moderne soluzioni firewall per Linux si basano su questo sistema di filtraggio dei pacchetti.</p>
+<p class="para">
+              The kernel's packet filtering system would be of little use to administrators without
+			  a userspace interface to manage it. This is the purpose of iptables: When a packet
+			  reaches your server, it will be handed off to the Netfilter subsystem for acceptance,
+			  manipulation, or rejection based on the rules supplied to it from userspace via
+			  iptables. Thus, iptables is all you need to manage your firewall, if you're familiar
+			  with it, but many frontends are available to simplify the task.
+            </p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="firewall-ufw"><div class="inner">
+<div class="hgroup"><h2 class="title">ufw - Firewall non complicato</h2></div>
+<div class="region">
+<div class="contents">
+<p class="para">
+	    The default firewall configuration tool for Ubuntu is <span class="app application">ufw</span>. Developed to ease iptables firewall configuration,
+	    <span class="app application">ufw</span> provides a user-friendly way to create an IPv4 or IPv6 host-based firewall.
+	    </p>
+<p class="para"><span class="app application">ufw</span>, in modo predefinito, è inizialmente disabilitato. Dal manuale di <span class="app application">ufw</span> si legge:</p>
+<p class="para">
+<span class="quote">“ufw is not intended to provide complete firewall functionality via its command interface, but instead provides an easy way to add or remove simple rules. It is currently mainly used for host-based firewalls
+(ufw non ha lo scopo di implementare tutte le funzionalità di un firewall tramite la sua interfaccia di comandi, ma invece cerca di facilitare l'aggiunta o la rimozione di semplici regole. È usato principalmente per dei firewall host-based)”</span>
+	    </p>
+<p class="para">Seguono degli esempi sull'uso di <span class="app application">ufw</span>:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+                <p class="para">Per prima cosa, è necessario abilitare <span class="app application">ufw</span>. In un terminale digitare:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ufw enable</span>
+</pre></div>
+	      </li>
+<li class="list itemizedlist">
+                <p class="para">
+                To open a port (SSH in this example):
+	        </p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ufw allow 22</span>
+</pre></div>
+	      </li>
+<li class="list itemizedlist">
+                <p class="para">Le regole possono anche essere aggiunte usando un formato <span class="em emphasis">a numeri</span>:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ufw insert 1 allow 80</span>
+</pre></div>
+	      </li>
+<li class="list itemizedlist">
+                <p class="para">Analogamente, per chiudere una porta aperta:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ufw deny 22</span>
+</pre></div>
+	      </li>
+<li class="list itemizedlist">
+                <p class="para">Per eliminare una regola, usare «delete» seguito dalla regola:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ufw delete deny 22</span>
+</pre></div>
+	      </li>
+<li class="list itemizedlist">
+                <p class="para">
+		It is also possible to allow access from specific hosts or networks to a port. The following example allows SSH access
+		from host 192.168.0.2 to any IP address on this host:
+	        </p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ufw allow proto tcp from 192.168.0.2 to any port 22</span>
+</pre></div>
+	        <p class="para">
+		Replace 192.168.0.2 with 192.168.0.0/24 to allow SSH access from the entire subnet.
+		</p>
+	      </li>
+<li class="list itemizedlist">
+
+                <p class="para">Aggiungendo l'opzione <span class="em emphasis">--dry-run</span> a un comando <span class="em emphasis">ufw</span> è possibile visualizzare il risultato delle regole, ma senza applicarle. Per esempio, questo è quello che verrebbe applicato nel caso venisse aperta la porta HTTP:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ufw --dry-run allow http</span>
+</pre></div>
+
+<div class="screen"><pre class="contents "><span class="output computeroutput">*filter
+:ufw-user-input - [0:0]
+:ufw-user-output - [0:0]
+:ufw-user-forward - [0:0]
+:ufw-user-limit - [0:0]
+:ufw-user-limit-accept - [0:0]
+### RULES ###
+
+### tuple ### allow tcp 80 0.0.0.0/0 any 0.0.0.0/0
+-A ufw-user-input -p tcp --dport 80 -j ACCEPT
+
+### END RULES ###
+-A ufw-user-input -j RETURN
+-A ufw-user-output -j RETURN
+-A ufw-user-forward -j RETURN
+-A ufw-user-limit -m limit --limit 3/minute -j LOG --log-prefix "[UFW LIMIT]: "
+-A ufw-user-limit -j REJECT
+-A ufw-user-limit-accept -j ACCEPT
+COMMIT
+Rules updated</span>
+</pre></div>
+
+              </li>
+<li class="list itemizedlist">
+                <p class="para">È possibile disabilitare <span class="app application">ufw</span> con il comando:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ufw disable</span>
+</pre></div>
+	      </li>
+<li class="list itemizedlist">
+                <p class="para">Per visualizzare lo stato del firewall usare:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ufw status</span>
+</pre></div>
+	      </li>
+<li class="list itemizedlist">
+                <p class="para">Per informazioni più dettagliate usare:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ufw status verbose</span>
+</pre></div>
+	      </li>
+<li class="list itemizedlist">
+                <p class="para">Per visualizzare il formato <span class="em emphasis">a numeri</span>:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ufw status numbered</span>
+</pre></div>
+	      </li>
+</ul></div>
+<div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents">
+	      <p class="para">Se la porta che si vuole aprire o chiudere è definita in <span class="file filename">/etc/services</span>, è possibile usare il nome della porta al posto del numero. In questo esempio si sostituisce <span class="em emphasis">22</span> con <span class="em emphasis">ssh</span>.</p>
+	    </div></div></div></div>
+<p class="para">Questa è una breve introduzione all'utilizzo di <span class="app application">ufw</span>. Per maggiori informazioni, consultare le pagine man di <span class="app application">ufw</span>.</p>
+</div>
+<div class="sect3 sect" id="ufw-application-integration"><div class="inner">
+<div class="hgroup"><h3 class="title">Integrazione delle applicazioni con ufw</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Le applicazioni che aprono delle porte possono includere un profilo <span class="app application">ufw</span> in cui vengono descritte le porte necessarie all'applicazione per funzionare correttamente. I profili vengono salvati in <span class="file filename">/etc/ufw/applications.d</span> e possono essere modificati se le porte predefinite sono cambiate.</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+
+                  <p class="para">Per visualizzare quali applicazioni hanno un profilo installato, in un terminale digitare:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ufw app list</span>
+</pre></div>
+
+                </li>
+<li class="list itemizedlist">
+
+                  <p class="para">Usare un profilo di un'applicazione è simile al consentire il traffico attraverso una porta:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ufw allow Samba</span>
+</pre></div>
+
+                </li>
+<li class="list itemizedlist">
+
+                  <p class="para">È disponibile anche una sintassi più estesa:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">ufw allow from 192.168.0.0/24 to any app Samba</span>
+</pre></div>
+
+                  <p class="para">Sostituire <span class="em emphasis">Samba</span> e <span class="em emphasis">192.168.0.0/24</span> con il profilo dell'applicazione da usare e l'intervallo di indirizzi della propria rete.</p>
+
+                  <div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents">
+                    <p class="para">Non è necessario specificare il <span class="em emphasis">protocollo</span> per l'applicazione, dato che queste informazioni sono contenute nel profilo. Notare che il nome dell'<span class="em emphasis">applicazione</span> sostituisce il numero della <span class="em emphasis">porta</span>.</p>
+                  </div></div></div></div>
+
+                </li>
+<li class="list itemizedlist">
+
+                  <p class="para">
+                  To view details about which ports, protocols, etc., are defined for an application, enter:
+                  </p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ufw app info Samba</span>
+</pre></div>
+
+                </li>
+</ul></div>
+<p class="para">Non tutte le applicazioni che richiedono l'apertura di una porta hanno un profilo <span class="app application">ufw</span>, ma se è stato creato un profilo per un'applicazione e lo si vuole includere nel pacchetto, segnalare un bug su Launchpad.</p>
+<div class="screen"><pre class="contents "><span class="cmd command">ubuntu-bug NOME_DEL_PACCHETTO</span>
+</pre></div>
+</div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect2 sect" id="ip-masquerading"><div class="inner">
+<div class="hgroup"><h2 class="title">IP masquerading</h2></div>
+<div class="region">
+<div class="contents"><p class="para">Il compito dell'IP masquerading è di consentire a quei computer della rete forniti di indirizzi IP privati e non instradabili, di accedere a Internet tramite il computer che opera il masquerading. Il traffico che va dalla rete privata verso Internet deve essere manipolato per ottenere risposte che siano re-instradabili al computer che ne ha fatto richiesta. Per ottenere questo risultato, il kernel deve modificare l'indirizzo IP <span class="em emphasis">sorgente</span> di ciascun pacchetto affinché tali risposte vengano re-instradate a esso invece che all'indirizzo IP privato che ha fatto la richiesta, procedura impossibile da eseguire su Internet. Linux fa uso del <span class="em emphasis">tracciamento della connessione</span> (conntrack) per tenere traccia di quale connessione appartenga a quale computer e di conseguenza per re-instradare ciascun pacchetto di risposta. Il traffico in uscita dalla rete privata viene quindi «mascherato» per simulare l'uscita dalla macchina gateway Ubuntu. Nella documentazione Microsoft questo processo è indicato come condivisione delle connessioni internet (Internet Connection Sharing).</p></div>
+<div class="sect3 sect" id="ip-masquerade-ufw"><div class="inner">
+<div class="hgroup"><h3 class="title">Masquerading con ufw</h3></div>
+<div class="region"><div class="contents">
+<p class="para">L'IP masquerading può essere ottenuto utilizzando regole <span class="app application">ufw</span> personalizzate. Questo è possibile dato che il backend attuale per <span class="app application">ufw</span> è <span class="app application">iptables-restore</span> con i file delle regole posizionati in <span class="file filename">/etc/ufw/*.rules</span>. Questi file possono essere usati per aggiungere vecchie regole di iptables usate senza <span class="app application">ufw</span> e regole maggiormente legate al gateway o al bridge.</p>
+<p class="para">Le regole sono divise in due file diversi, regole da eseguire prima delle regole a riga di comando di <span class="app application">ufw</span> e regole da eseguire dopo <span class="app application">ufw</span>.</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+		  <p class="para">Per prima cosa, è necessario abilitare l'inoltro dei pacchetti modificando due file di configurazione. In <span class="file filename">/etc/default/ufw</span> modificare <span class="em emphasis">DEFAULT_FORWARD_POLICY</span> in <span class="quote">“ACCEPT”</span>:</p>
+<div class="code"><pre class="contents ">DEFAULT_FORWARD_POLICY="ACCEPT"
+</pre></div>
+		  <p class="para">Quindi modificare il file <span class="file filename">/etc/ufw/sysctl.conf</span> de-commentando:</p>
+<div class="code"><pre class="contents ">net/ipv4/ip_forward=1
+</pre></div>
+		  <p class="para">Similmente, per abilitare l'inoltro con IPv6 de-commentare:</p>
+<div class="code"><pre class="contents ">net/ipv6/conf/default/forwarding=1
+</pre></div>
+		</li>
+<li class="list itemizedlist">
+		  <p class="para">
+		  Now add rules to the <span class="file filename">/etc/ufw/before.rules</span> file. The default rules only configure the <span class="em emphasis">filter</span>
+	          table, and to enable masquerading the <span class="em emphasis">nat</span> table will need to be configured. Add the following to the top of the file
+		  just after the header comments:	          
+		  </p>
+<div class="code"><pre class="contents "># regole tabella nat
+*nat
+:POSTROUTING ACCEPT [0:0]
+
+# Inoltro traffico da eth1 attraverso eth0
+-A POSTROUTING -s 192.168.0.0/24 -o eth0 -j MASQUERADE
+
+# non cancellare la riga 'COMMIT' o queste tabelle di regole non saranno elaborate
+COMMIT
+</pre></div>
+	          <p class="para">I commenti non sono necessari, ma è buona pratica documentare le proprie configurazioni. Inoltre, quando si modificano i file <span class="em emphasis">rules</span> in <span class="file filename">/etc/ufw</span>, assicurarsi che queste righe siano sempre le ultime in ogni tabella modificata:</p>
+
+<div class="code"><pre class="contents "># non eliminare la riga 'COMMIT' o queste tabelle di regole non saranno elaborate
+COMMIT
+</pre></div>
+
+                  <p class="para">Per ogni <span class="em emphasis">tabella</span> è necessario un <span class="em emphasis">COMMIT</span>. In questi esempi sono mostrate solamente le tabelle <span class="em emphasis">nat</span> e <span class="em emphasis">filter</span>, ma è possibile aggiungere regole per le tabelle <span class="em emphasis">raw</span> e <span class="em emphasis">mangle</span>.</p>
+
+                  <div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents">
+                   <p class="para">Nell'esempio precedente, sostituire <span class="em emphasis">eth0</span>, <span class="em emphasis">eth1</span> e <span class="em emphasis">192.168.0.0/24</span> con le interfacce appropriate e con l'intervallo di indirizzi corretto.</p>
+                  </div></div></div></div>
+
+		</li>
+<li class="list itemizedlist">
+		  <p class="para">Infine, disattivare e riattivare <span class="app application">ufw</span> per applicare le modifiche:</p>
+<div class="code"><pre class="contents "><span class="cmd command">sudo ufw disable &amp;&amp; sudo ufw enable</span>
+</pre></div>
+		</li>
+</ul></div>
+<p class="para">L'IP masquerading ora dovrebbe essere abilitato. È possibile aggiungere regole FORWARD aggiuntive al file <span class="file filename">/etc/ufw/before.rules</span>. È utile che queste regole addizionali vengano aggiunte alla catena <span class="em emphasis">ufw-before-forward</span>.</p>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="ip-masquerading-iptables"><div class="inner">
+<div class="hgroup"><h3 class="title">Masquerading con iptables</h3></div>
+<div class="region"><div class="contents">
+<p class="para">È possibile usare <span class="app application">iptables</span> per abilitare Masquerading.</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+  	        <p class="para">
+ 	        Similar to <span class="app application">ufw</span>, the first step is to enable IPv4 packet forwarding by editing 
+		<span class="file filename">/etc/sysctl.conf</span> and uncomment the following line:
+	        </p>
+<div class="code"><pre class="contents ">net.ipv4.ip_forward=1
+</pre></div>
+	        <p class="para">Per abilitare l'inoltro con IPv6, de-commetare:</p>
+<div class="code"><pre class="contents ">net.ipv6.conf.default.forwarding=1
+</pre></div>
+ 	      </li>
+<li class="list itemizedlist">
+		  <p class="para">Quindi, eseguire il comando <span class="app application">sysctl</span> per abilitare le nuove impostazioni nel file di configurazione:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo sysctl -p</span>
+</pre></div>
+		</li>
+<li class="list itemizedlist">
+	        <p class="para">L'IP masquerading può essere ottenuto con una sola regola di iptables, che può cambiare leggermente in base alla configurazione della propria rete:</p>
+<div class="screen"><pre class="contents ">sudo iptables -t nat -A POSTROUTING -s 192.168.0.0/16 -o ppp0 -j MASQUERADE
+</pre></div>
+	        <p class="para">Il comando precedente assume che lo spazio di indirizzi privato sia 192.168.0.0/16 e che il dispositivo collegato a Internet sia ppp0. La sintassi del comando è la seguente:</p>
+		<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist"><p class="para">-t nat: regola viene inserita nella tabella nat</p></li>
+<li class="list itemizedlist"><p class="para">-A POSTROUTING: la regola viene accodata (-A) alla catena POSTROUTING</p></li>
+<li class="list itemizedlist"><p class="para">-s 192.168.0.0/16: la regola si applica al traffico originato dallo spazio di indirizzi specificato</p></li>
+<li class="list itemizedlist"><p class="para">-o ppp0: la regola si applica al traffico instradato attraverso l'interfaccia di rete specificata</p></li>
+<li class="list itemizedlist">
+                    <p class="para">-j MASQUERADE: il traffico che soddisfa questa regola viene «saltato» (-j sta per jump) alla destinazione MASQUERADE per essere manipolato come descritto in precedenza</p>
+                  </li>
+</ul></div>
+	      </li>
+<li class="list itemizedlist">
+		<p class="para">Inoltre, ogni catena nella tabella «filter» (la tabella predefinita e dove avvengono la maggior parte dei filtri sui pacchetti) ha una <span class="em emphasis">politica</span> predefinita di ACCEPT, ma se si sta creando un firewall in aggiunta a un dispositivo gateway, è possibile aver impostato le politiche DROP e REJECT, nel cui caso il traffico «masqueraded» deve essere consentito attraverso la catena FORWARD affinché la regola precedente possa funzionare:</p>
+<div class="screen"><pre class="contents ">sudo iptables -A FORWARD -s 192.168.0.0/16 -o ppp0 -j ACCEPT
+sudo iptables -A FORWARD -d 192.168.0.0/16 -m state \
+--state ESTABLISHED,RELATED -i ppp0 -j ACCEPT
+</pre></div>
+		<p class="para">I precedenti comandi consentiranno a tutte le connessioni della propria rete locale accesso a Internet e a tutto il traffico relativo a queste connessioni di ritornare ai computer che lo hanno originato.</p>
+	      </li>
+<li class="list itemizedlist">
+		<p class="para">Per fare in modo che il masquerading sia abilitato al riavvio, modificare il file <span class="file filename">/etc/rc.local</span> e aggiungere qualsiasi dei comandi utilizzati precedentemente. Per esempio, aggiungere il primo comando senza filtro:</p>
+<div class="screen"><pre class="contents ">iptables -t nat -A POSTROUTING -s 192.168.0.0/16 -o ppp0 -j MASQUERADE
+</pre></div>
+	      </li>
+</ul></div>
+</div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect2 sect" id="firewall-logs"><div class="inner">
+<div class="hgroup"><h2 class="title">Registri</h2></div>
+<div class="region"><div class="contents">
+<p class="para">I registri del firewall sono molto utili per riconoscere gli attacchi, migliorare le regole del firewall e per verificare attività inusuali nella propria rete. È necessario includere regole di registrazione per fare in modo che vengano eseguite le registrazioni e queste devono essere inserite prima di qualsiasi regola terminante applicabile (un regola con un obiettivo che decide il destino di un pacchetto, come ACCEPT, DROP o REJECT).</p>
+<p class="para">Se si sta usando <span class="app application">ufw</span> è possibile attivare la registrazione con il seguente comando:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ufw logging on</span>
+</pre></div>
+<p class="para">Per disabilitare la registrazione in <span class="app application">ufw</span>, sostituire, nel comando precedente, <span class="em emphasis">on</span> con <span class="em emphasis">off</span>.</p>
+<p class="para">Se è in uso <span class="app application">iptables</span> al posto di <span class="app application">ufw</span>, digitare:</p>
+<div class="screen"><pre class="contents ">sudo iptables -A INPUT -m state --state NEW -p tcp --dport 80 \
+-j LOG --log-prefix "NEW_HTTP_CONN: "
+</pre></div>
+<p class="para">Una richiesta sulla porta 80 dal computer locale genererebbe, in dmesg, una traccia simile a questa (unica riga divisa in 3 per adattarla al formato di questo documento):</p>
+<div class="code"><pre class="contents ">[4304885.870000] NEW_HTTP_CONN: IN=lo OUT= MAC=00:00:00:00:00:00:00:00:00:00:00:00:08:00
+SRC=127.0.0.1 DST=127.0.0.1 LEN=60 TOS=0x00 PREC=0x00 TTL=64 ID=58288 DF PROTO=TCP
+SPT=53981 DPT=80 WINDOW=32767 RES=0x00 SYN URGP=0
+</pre></div>
+<p class="para">Il registro precedente appare anche in <span class="file filename">/var/log/messages</span>, <span class="file filename">/var/log/syslog</span> e <span class="file filename">/var/log/kern.log</span>. Questo comportamento può essere cambiato, modificando in modo appropriato il file <span class="file filename">/etc/syslog.conf</span> oppure installando e configurando <span class="app application">ulogd</span> e facendo uso della destinazione ULOG al posto di LOG. Il demone <span class="app application">ulogd</span> è un server nello spazio utente in ascolto per le istruzioni di registro del kernel specifiche dei firewall; è possibile salvare i registri su qualsiasi file o perfino in un database come <span class="app application">PostgreSQL</span> o <span class="app application">MySQL</span>. Per dare un significato ai registri del firewall è possibile utilizzare delle applicazioni di analisi dei registri come <span class="app application">logwatch</span>, <span class="app application">fwanalog</span>, <span class="app application">fwlogwatch</span> o <span class="app application">lire</span>.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="other-firewall-tools"><div class="inner">
+<div class="hgroup"><h2 class="title">Altri strumenti</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Esistono diversi strumenti per «costruire» un firewall completo senza alcuna conoscenza di iptables. Per chi preferisce un'interfaccia grafica:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist"><li class="list itemizedlist">
+		<p class="para"><a href="http://www.fwbuilder.org/" class="ulink" title="http://www.fwbuilder.org/">fwbuilder</a> è molto potente e ha un aspetto che può risultare familiare agli amministratori che hanno utilizzato un firewall commerciale come <span class="app application">Checkpoint FireWall-1</span>.</p>
+	      </li></ul></div>
+<p class="para">Per chi preferisce uno strumento a riga di comando con file di configurazione in semplice testo:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist"><li class="list itemizedlist">
+		<p class="para"><a href="http://www.shorewall.net/" class="ulink" title="http://www.shorewall.net/">Shorewall</a> è una soluzione molto potente per configurare un firewall di livello avanzato per qualsiasi rete.</p>
+	      </li></ul></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="firewall-references"><div class="inner">
+<div class="hgroup"><h2 class="title">Riferimenti</h2></div>
+<div class="region"><div class="contents"><div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+	      <p class="para">La pagina relativa a <a href="https://wiki.ubuntu.com/UncomplicatedFirewall" class="ulink" title="https://wiki.ubuntu.com/UncomplicatedFirewall">Ubuntu Firewall</a> della documentazione contiene informazioni sullo sviluppo di <span class="app application">ufw</span>.</p>
+	    </li>
+<li class="list itemizedlist">
+	      <p class="para">Inoltre, la pagina del manuale <span class="app application">ufw</span> contiene alcune informazioni molto utili: <span class="cmd command">man ufw</span>.</p>
+	    </li>
+<li class="list itemizedlist">
+	      <p class="para">Per ulteriori informazioni sull'utilizzo di <span class="app application">iptables</span>, consultare  <a href="http://www.netfilter.org/documentation/HOWTO/packet-filtering-HOWTO.html" class="ulink" title="http://www.netfilter.org/documentation/HOWTO/packet-filtering-HOWTO.html">packet-filtering-HOWTO</a>.</p>
+	    </li>
+<li class="list itemizedlist">
+	      <p class="para">Il <a href="http://www.netfilter.org/documentation/HOWTO/NAT-HOWTO.html" class="ulink" title="http://www.netfilter.org/documentation/HOWTO/NAT-HOWTO.html">nat-HOWTO</a> contiene ulteriori dettagli sul masquerading.</p>
+	    </li>
+<li class="list itemizedlist">
+	      <p class="para">La pagine della documentazione della comunità <a href="https://help.ubuntu.com/community/IptablesHowTo" class="ulink" title="https://help.ubuntu.com/community/IptablesHowTo">IPTables HowTo</a> è una grande risorsa.</p>
+	    </li>
+</ul></div></div></div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="console-security.html" title="Sicurezza della console">Indietro</a><a class="nextlinks-next" href="apparmor.html" title="AppArmor">Avanti</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p></div>
+</div>
+</body>
+</html>

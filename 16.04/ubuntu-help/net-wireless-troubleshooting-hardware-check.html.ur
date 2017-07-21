@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=ur>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Wireless connection troubleshooter</title>
+<link rel="stylesheet" type="text/css" href="ur.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web, email &amp; chat">Networking, web, email &amp; chat</a> » <a class="trail" href="net-wireless.html" title="Wireless Networking">Wireless Networking</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Wireless network troubleshooter">Wireless network troubleshooter</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Common problems">Problems</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Wireless network troubleshooter">Wireless network troubleshooter</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="Wireless network troubleshooter">Previous</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="Wireless network troubleshooter">Next</a>
+</div>
+<div class="hgroup">
+<h1 class="title"><span class="title">Wireless connection troubleshooter</span></h1>
+<h2 class="subtitle"><span class="subtitle">Check that the wireless adapter was recognized</span></h2>
+</div>
+<div class="region">
+<div class="contents">
+<p class="p">Even though the wireless adapter is connected to the computer, it may not have been recognized as a network device by the computer. In this step, you will check whether the device was recognized properly.</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Open a Terminal window, type <span class="cmd">sudo lshw -C network</span> and press <span class="key"><kbd>Enter</kbd></span>. If this gives an error message, you can install the <span class="app">lshw</span> program on your computer by typing <span class="cmd">sudo apt-get install lshw</span> into the terminal.</p></li>
+<li class="steps">
+<p class="p">Look through the information that appeared and find the <span class="em">Wireless interface</span> section. If your wireless adapter was detected properly, you should see something similar (but not identical) to this:</p>
+<div class="code"><pre class="contents ">*-network
+       description: Wireless interface
+       product: PRO/Wireless 3945ABG [Golan] Network Connection
+       vendor: Intel Corporation</pre></div>
+</li>
+<li class="steps">
+<p class="p">If a wireless device is listed, continue on to the <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Wireless network troubleshooter">Device Drivers step</a></span>.</p>
+<p class="p">If a wireless device is <span class="em">not</span> listed, the next steps you take will depend on the type of device that you use. Refer to the section below that is relevant to the type of wireless adapter that your computer has (<span class="link"><a href="#pci" title="PCI (internal) wireless adapter">internal PCI</a></span>, <span class="link"><a href="#usb" title="USB wireless adapter">USB</a></span>, or <span class="link"><a href="#pcmcia" title="Checking for a PCMCIA device">PCMCIA</a></span>).</p>
+</li>
+</ol></div></div></div>
+</div>
+<div id="pci" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">PCI (internal) wireless adapter</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Internal PCI adapters are the most common, and are found in most laptops made within the past few years. To check if your PCI wireless adapter was recognized:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Open a Terminal, type <span class="cmd">lspci</span> and press <span class="key"><kbd>Enter</kbd></span>.</p></li>
+<li class="steps">
+<p class="p">Look through the list of devices that is shown and find any that are marked <span class="code">Network controller</span> or <span class="code">Ethernet controller</span>. Several devices may be marked in this way; the one corresponding to your wireless adapter might include words like <span class="code">wireless</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> or <span class="code">802.11</span>. Here is an example of what the entry might look like:</p>
+<div class="code"><pre class="contents ">Network controller: Intel Corporation PRO/Wireless 3945ABG [Golan] Network Connection</pre></div>
+</li>
+<li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Wireless network troubleshooter">Device Drivers step</a></span>. If you didn't find anything related to your wireless adapter, see <span class="link"><a href="#not-recognized" title="Wireless adapter was not recognized">the instructions below</a></span>.</p></li>
+</ol></div></div></div>
+</div></div>
+</div></div>
+<div id="usb" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">USB wireless adapter</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Wireless adapters that plug into a USB port on your computer are less common. They can plug directly into a USB port, or may be connected by a USB cable. 3G/mobile broadband adapters look quite similar to wireless (wifi) adapters, so if you think you have a USB wireless adapter, double-check that it is not actually a 3G adapter. To check if your USB wireless adapter was recognized:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Open a Terminal, type <span class="cmd">lsusb</span> and press <span class="key"><kbd>Enter</kbd></span>.</p></li>
+<li class="steps">
+<p class="p">Look through the list of devices that is shown and find any that seem to refer to a wireless or network device. The one corresponding to your wireless adapter might include words like <span class="code">wireless</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> or <span class="code">802.11</span>. Here is an example of what the entry might look like:</p>
+<div class="code"><pre class="contents ">Bus 005 Device 009: ID 12d1:140b Huawei Technologies Co., Ltd. EC1260 Wireless Data Modem HSD USB Card</pre></div>
+</li>
+<li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Wireless network troubleshooter">Device Drivers step</a></span>. If you didn't find anything related to your wireless adapter, see <span class="link"><a href="#not-recognized" title="Wireless adapter was not recognized">the instructions below</a></span>.</p></li>
+</ol></div></div></div>
+</div></div>
+</div></div>
+<div id="pcmcia" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Checking for a PCMCIA device</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">PCMCIA wireless adapters are typically rectangular cards which slot into the side of your laptop. They are more commonly found in older computers. To check if your PCMCIA adapter was recognized:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Start your computer <span class="em">without</span> the wireless adapter plugged in.</p></li>
+<li class="steps">
+<p class="p">Open a Terminal and type the following, then press <span class="key"><kbd>Enter</kbd></span>:</p>
+<div class="code"><pre class="contents ">tail -f /var/log/dmesg</pre></div>
+<p class="p">This will display a list of messages related to your computer's hardware, and will automatically update if anything to do with your hardware changes.</p>
+</li>
+<li class="steps"><p class="p">Insert your wireless adapter into the PCMCIA slot and see what changes in the Terminal window. The changes should include some information about your wireless adapter. Look through them and see if you can identify it.</p></li>
+<li class="steps"><p class="p">To stop the command from running in the Terminal, press <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span>. After you have done that, you can close the Terminal if you like.</p></li>
+<li class="steps"><p class="p">If you found any information about your wireless adapter, proceed to the <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Wireless network troubleshooter">Device Drivers step</a></span>. If you didn't find anything related to your wireless adapter, see <span class="link"><a href="#not-recognized" title="Wireless adapter was not recognized">the instructions below</a></span>.</p></li>
+</ol></div></div></div>
+</div></div>
+</div></div>
+<div id="not-recognized" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Wireless adapter was not recognized</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">If your wireless adapter was not recognized, it might not be working properly or the correct drivers may not be installed for it.</p>
+<p class="p">To get specific help, look at the support options on your distribution's website. These might include mailing lists and web chats where you can ask about your wireless adapter, for example.</p>
+</div></div>
+</div></div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="Wireless network troubleshooter">Previous</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="Wireless network troubleshooter">Next</a>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">More Information</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless-troubleshooting.html" title="Wireless network troubleshooter">Wireless network troubleshooter</a><span class="desc"> — Identify and fix problems with wireless connections</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

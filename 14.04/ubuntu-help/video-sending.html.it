@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang=it>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Altre persone non possono riprodurre i miei video</title>
+<link rel="stylesheet" type="text/css" href="it.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Guida Ubuntu Desktop</a> » <a class="trail" href="media.html" title="Audio, video e immagini">Audio, video e immagini</a> › <a class="trail" href="media.html#videos" title="Video e videocamere">Video</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Altre persone non possono riprodurre i miei video</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Se è stato creato un video col proprio computer Linux ed è stato inviato ad altre persone che utilizzano Windows o Mac OS, queste potrebbero riscontrare dei problemi nel riprodurlo correttamente.</p>
+<p class="p">Per poter riprodurre il video è necessario che le persone a cui è stato inviato abbiano installato i <span class="em">codec</span> corretti. Un codec è un componente software in grado di gestire il video e visualizzarlo correttamente sullo schermo. Esistono vari formati video e ognuno di essi richiede un codec differente per poter essere visualizzato. Per controllare il formato del proprio video:</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p">Aprire il <span class="link"><a href="files-browse.html" title="Esplorare file e cartelle">gestore di file</a></span>.</p></li>
+<li class="list"><p class="p">Fare clic con il pulsante destro sul file del video e selezionare <span class="gui">Proprietà</span>.</p></li>
+<li class="list"><p class="p">Scegliere la scheda <span class="gui">Audio/Video</span> e controllare quale <span class="gui">codec</span> viene mostrato nella sezione <span class="gui">Video</span>.</p></li>
+</ul></div></div></div>
+<p class="p">Chiedere alle persone che hanno problemi di riproduzione se hanno installato il codec corretto. Potrebbe essere d'aiuto cercare sul web il nome del codec assieme al nome del programma. Per esempio, se il proprio video utilizza il formato <span class="em">Theora</span> e la persona a cui è stato inviato il video utilizza Windows Media Player, provare a cercare "theora windows media player". Molto spesso è possibile scaricare il codec corretto gratuitamente se non è già installato.</p>
+<p class="p">Se non è possibile trovare il codec corretto, provare a utilizzare <span class="link"><a href="http://www.videolan.org/vlc/" title="http://www.videolan.org/vlc/">VLC media player</a></span>. Funziona su Windows e Mac OS così come su Linux e supporta molti formati video differenti. In alternativa, provare a convertire il video in un formato diverso. La maggior parte degli editor video possono svolgere questa funzione, e sono disponibile anche specifiche applicazione per la conversione dei video. Controllare in <span class="app">Ubuntu Software Center</span> quali sono disponibili.</p>
+<div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents"><p class="p">Ci sono pochi altri problemi che potrebbero impedire ad altre persone di riprodurre un video. Il video potrebbe essere stato danneggiato quando è stato inviato a loro (a volte, file di grandi dimensioni non vengono copiati perfettamente), potrebbero avere problemi con il loro programma di riproduzione video o il video non è stato creato correttamente (potrebbe esserci stato qualche errore nel salvare il video).</p></div></div></div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
+<div class="region"><ul><li class="links "><a href="media.html#videos" title="Video e videocamere">Video</a></li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang=ast>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Renomar un ficheru o una carpeta</title>
+<link rel="stylesheet" type="text/css" href="ast.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Guía del escritoriu d'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía d'escritoriu d'Ubuntu</a> » <a class="trail" href="files.html" title="Gueta de ficheros y carpetes">Ficheros</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Renomar un ficheru o una carpeta</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Pue usar el xestor de ficheros pa camudar el nome d'un ficheru o carpeta.</p>
+<div class="steps"><div class="inner">
+<div class="title title-steps"><h2><span class="title">Pa renomar un ficheru o carpeta:</span></h2></div>
+<div class="region"><ol class="steps">
+<li class="steps"><p class="p">Calque l'elementu col botón derechu del mur y escueya <span class="gui">Renomar</span>, o escueya'l ficheru y calque <span class="key"><kbd>F2</kbd></span>.</p></li>
+<li class="steps"><p class="p">Escriba'l nome nuevu y calque <span class="key"><kbd>Intro</kbd></span>.</p></li>
+</ol></div>
+</div></div>
+<p class="p">Tamién pue renomar un ficheru dende la ventana de <span class="link"><a href="nautilus-file-properties-basic.html" title="Propiedaes del ficheru">Propiedaes</a></span>.</p>
+<p class="p">Cuando renoma un ficheru, namái se seleiciona la primer parte del ficheru, non la estensión del ficheru (la parte dempués del «.»). La estensión normalmente denota'l tipu de ficheru que ye (por exemplu, <span class="file">ficheru.pdf</span> ye un documentu PDF), y xeneralmente nun va querer camudar eso. Si precisa camudar tamién la estensión, seleicione'l nome del ficheru completu y camúdelu.</p>
+<div class="note note-tip" title="Gabitu"><div class="inner"><div class="region"><div class="contents"><p class="p">If you renamed the wrong file, or named your file improperly, you can
+    undo the rename. To revert the action, immediately click the gear button in
+    the toolbar and select <span class="gui">Undo</span> to restore the former name.</p></div></div></div></div>
+</div>
+<div id="valid-chars" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Caráuteres válidos pa nomes de ficheru</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Pue usar cualquier caráuter menos la <span class="key"><kbd>/</kbd></span> (barra) nos nomes de ficheru. Sicasí, dellos preseos usen un <span class="em">sistema de ficheros</span> que tien más restricciones nos nomes de ficheru. Por ello, ye recomendable evitar usar cualesquier de los siguientes caráuteres cuando-yos dea nome a los ficheros: <span class="key"><kbd>|</kbd></span>, <span class="key"><kbd>\</kbd></span>, <span class="key"><kbd>?</kbd></span>, <span class="key"><kbd>*</kbd></span>, <span class="key"><kbd>&lt;</kbd></span>, <span class="key"><kbd>"</kbd></span>, <span class="key"><kbd>:</kbd></span>, <span class="key"><kbd>&gt;</kbd></span>, <span class="key"><kbd>/</kbd></span>.</p>
+<div class="note note-warning" title="Curiáu"><div class="inner"><div class="region"><div class="contents"><p class="p">Si'l nome d'un ficheru contién un <span class="key"><kbd>.</kbd></span> como primer caráuter, el ficheru va tar <span class="link"><a href="files-hidden.html" title="Anubrir un ficheru">anubríu</a></span> cuando intente velu nel xestor de ficheros.</p></div></div></div></div>
+</div></div>
+</div></div>
+<div id="common-probs" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Problemes comunes</span></h2></div>
+<div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms">El nome del ficheru yá ta n'usu</dt>
+<dd class="terms">
+<p class="p">Nun pue tener dos ficheros o carpetes col mesmu nome na mesma carpeta. Si intenta renomar un ficheru con un nome que yá esiste na carpeta na que ta trabayando, el xestor de ficheros nun va permitilo.</p>
+<p class="p">Los nomes de ficheros y direutorios son sensibles a mayúscules/minúscules, de mou que <span class="file">Ficheru.txt</span> nun ye lo mesmo que <span class="file">FICHERU.txt</span>. Permítese l'usu de distintos nomes de ficheros d'esta miente, pero nun s'encamienta.</p>
+</dd>
+<dt class="terms">El nome del ficheru ye enforma llargu</dt>
+<dd class="terms"><p class="p">En dalgunos sistemes de ficheros, los nomes de ficheru nun puen superar los 255 caráuteres. El llímite de 255 caráuteres inclúi tanto'l nome de ficheru como'l so camín (por exemplu, <span class="file">/home/selina/Documentos/trabayu/propuestes-negociu/...</span>), polo que tendría d'evitar nomes de ficheros y de carpetes llargos siempre que seya dable.</p></dd>
+<dt class="terms">La opción pa renomar ta en gris</dt>
+<dd class="terms"><p class="p">Si <span class="gui">Renomar</span> ta en gris, significa que nun tien permisos pa renomar el ficheru. Tien d'estremar precauciones al renomar talos ficheros, darréu que renomar dalgunos ficheros protexíos o anubríos pue desestabilizar el sistema. Consulte <span class="link"><a href="nautilus-file-properties-permissions.html" title="Afitar los permisos de ficheru">Afitar los permisos de ficheru</a></span> pa más información.</p></dd>
+</dl></div></div></div></div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">More Information</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="files.html" title="Gueta de ficheros y carpetes">Gueta de ficheros y carpetes</a><span class="desc"> — 
+      <span class="link"><a href="files-search.html" title="Guetar ficheros">Searching</a></span>,
+      <span class="link"><a href="files-delete.html" title="Desaniciar ficheros y carpetes">delete files</a></span>,
+      <span class="link"><a href="files.html#backup" title="Facer copies de seguridá">backups</a></span>,
+      <span class="link"><a href="files.html#removable" title="Preseos estrayibles y discos esternos">removable drives</a></span>,
+      <span class="link"><a href="files.html#documents" title="Documents">documents</a></span>…
+    </span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

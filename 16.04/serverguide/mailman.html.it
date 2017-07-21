@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang=it>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Mailman</title>
+<link rel="stylesheet" type="text/css" href="it.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../16.04" class="trail">Ubuntu 16.04</a> » <a class="trail" href="index.html" title="Guida a Ubuntu Server">Guida a Ubuntu Server</a> » <a class="trail" href="email-services.html" title="Servizi email">Servizi email</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="dovecot-server.html" title="Server Dovecot">Indietro</a><a class="nextlinks-next" href="mail-filtering.html" title="Filtrare le email">Avanti</a>
+</div>
+<div class="hgroup"><h1 class="title">Mailman</h1></div>
+<div class="region">
+<div class="contents"><p class="para">Mailman è un programma open source per la gestione di discussioni elettroniche e newsletter. Molte mailing list open source (incluse tutte le mailing list di <a href="http://lists.ubuntu.com" class="ulink" title="http://lists.ubuntu.com">Ubuntu</a>) utilizzano Mailman come software. È molto potente e facile da installare.</p></div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="mailman.html#mailman-installation" title="Installazione">Installazione</a></li>
+<li class="links"><a class="xref" href="mailman.html#mailman-configuration" title="Configurazione">Configurazione</a></li>
+<li class="links"><a class="xref" href="mailman.html#mailman-admin" title="Amministrazione">Amministrazione</a></li>
+<li class="links"><a class="xref" href="mailman.html#mailman-users" title="Utenti">Utenti</a></li>
+<li class="links"><a class="xref" href="mailman.html#mailman-references" title="Riferimenti">Riferimenti</a></li>
+</ul></div>
+<div class="sect2 sect" id="mailman-installation"><div class="inner">
+<div class="hgroup"><h2 class="title">Installazione</h2></div>
+<div class="region">
+<div class="contents">
+<p class="para">Mailman dispone in un'interfaccia web sia per gli amministratori che per gli utenti, utilizzando un server mail esterno per inviare e ricevere le email e si integra perfettamente con i seguenti server mail:</p>
+<p class="para">
+            <div class="list itemizedlist"><ul class="list itemizedlist compact">
+<li class="list itemizedlist">
+                    <p class="para"><span class="app application">Postfix</span></p>
+                </li>
+<li class="list itemizedlist">
+                    <p class="para"><span class="app application">Exim</span></p>
+                </li>
+<li class="list itemizedlist">
+                    <p class="para"><span class="app application">Sendmail</span></p>
+                </li>
+<li class="list itemizedlist">
+                    <p class="para"><span class="app application">Qmail</span></p>
+                </li>
+</ul></div>
+            </p>
+<p class="para">Viene descritto come installare Mailman, il server web Apache e il server mail Postfix o Exim. Per installare Mailman con un server mail diverso, fare riferimento alla sezione «Riferimenti».</p>
+<div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents">
+	       <p class="para">È necessario installare solamente un server mail e <span class="app application">Postfix</span> è il Mail Transfer Agent predefinito di Ubuntu.</p>
+	     </div></div></div></div>
+</div>
+<div class="sect3 sect" id="mailman-apache2"><div class="inner">
+<div class="hgroup"><h3 class="title">Apache2</h3></div>
+<div class="region"><div class="contents"><p class="para">Per i dettagli relativi all'installazione di Apache2, consultare <a class="xref" href="httpd.html#http-installation" title="Installazione">Installazione</a>.</p></div></div>
+</div></div>
+<div class="sect3 sect" id="mailman-postfix"><div class="inner">
+<div class="hgroup"><h3 class="title">Postfix</h3></div>
+<div class="region"><div class="contents"><p class="para">Per le istruzioni su come installare e configurare Postfix, consultare <a class="xref" href="postfix.html" title="Postfix">Postfix</a></p></div></div>
+</div></div>
+<div class="sect3 sect" id="mailman-exim4"><div class="inner">
+<div class="hgroup"><h3 class="title">Exim4</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Per installare Exim4, consultare <a class="xref" href="exim4.html" title="Exim4">Exim4</a>.</p>
+<p class="para">Una volta installato exim4, i file di configurazione sono salvati nella directory <span class="file filename">/etc/exim4</span>. In Ubuntu, per impostazione predefinita, i file di configurazione di exim4 sono divisi tra vari file, ma è possibile cambiare questo comportamento modificando la seguente variabile nel file <span class="file filename">/etc/exim4/update-exim4.conf</span>:</p>
+<div class="code"><pre class="contents ">dc_use_split_config='true'
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="mailman-mailman"><div class="inner">
+<div class="hgroup"><h3 class="title">Mailman</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Per installare <span class="app application">Mailman</span>, in un terminale, digitare il seguente comando:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install mailman</span> 
+</pre></div>
+<p class="para">Questo copia i file di installazione nella directory <span class="app application">/var/lib/mailman</span>, gli script CGI nella directory <span class="app application">/usr/lib/cgi-bin/mailman</span>, crea l'utente <span class="em emphasis">list</span> e il gruppo <span class="em emphasis">list</span>. Il proprietario del processo mailman sarà l'utente creato.</p>
+</div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect2 sect" id="mailman-configuration"><div class="inner">
+<div class="hgroup"><h2 class="title">Configurazione</h2></div>
+<div class="region">
+<div class="contents"><p class="para">Questa sezione ha come presupposto l'avvenuta installazione di <span class="app application">mailman</span>, <span class="app application">apache2</span> e di <span class="app application">postfix</span> o <span class="app application">exim4</span>. Ora è solo necessario configurarle.</p></div>
+<div class="sect3 sect" id="mailman-conf-apache2"><div class="inner">
+<div class="hgroup"><h3 class="title">Apache2</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Un file di esempio di Apache è disponibile con <span class="app application">Mailman</span> ed è localizzato in <span class="file filename">/etc/mailman/apache.conf</span>. Affinché Apache possa utilizzare il file di configurazione è necessario copiarlo in <span class="file filename">/etc/apache2/sites-available</span>:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo cp /etc/mailman/apache.conf /etc/apache2/sites-available/mailman.conf</span>
+</pre></div>
+<p class="para">In questo modo verrà configurato un nuovo <span class="em emphasis">VirtualHost</span> per il sito di amministrazione di Mailman. Ora è necessario abilitare la configurazione e riavviare Apache:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo a2ensite mailman.conf</span>
+<span class="cmd command">sudo systemctl restart apache2.service</span>
+</pre></div>
+<p class="para">Mailman utilizza apache2 per eseguire gli script CGI. Gli script CGI di mailman sono installati all'interno della directory <span class="app application">/usr/lib/cgi-bin/mailman</span> e l'URL di mailman risulta quindi «http://hostname/cgi-bin/mailman/». È possibile apportare cambiamenti al file <span class="file filename">/etc/apache2/sites-available/mailman.conf</span> per modificarne il comportamento.</p>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="mailman-conf-postfix"><div class="inner">
+<div class="hgroup"><h3 class="title">Postfix</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Per l'integrazione di <span class="app application">Postfix</span>, verrà associato il dominio «lists.example.com» con le seguenti mailing list. Sostituire <span class="em emphasis">lists.example.com</span> con il proprio dominio.</p>
+<p class="para">È possibile usare il comando postconf per aggiungere la configurazione necessaria in <span class="file filename">/etc/postfix/main.cf</span>:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo postconf -e 'relay_domains = lists.example.com'</span>
+<span class="cmd command">sudo postconf -e 'transport_maps = hash:/etc/postfix/transport'</span>
+<span class="cmd command">sudo postconf -e 'mailman_destination_recipient_limit = 1'</span>
+</pre></div>
+<p class="para">Controllare che in <span class="file filename">/etc/postfix/master.cf</span> sia presente quanto segue:</p>
+<div class="code"><pre class="contents ">mailman   unix  -       n       n       -       -       pipe
+  flags=FR user=list argv=/usr/lib/mailman/bin/postfix-to-mailman.py
+  ${nexthop} ${user}
+</pre></div>
+<p class="para">Invoca lo script <span class="em emphasis">postfix-to-mailman.py</span> quando viene ricevuta una mail in una lista.</p>
+<p class="para">Associare il dominio «lists.example.com» a Mailman con la mappa dei metodi «transport». Modificare il file <span class="file filename">/etc/postfix/transport</span>:</p>
+<div class="code"><pre class="contents ">lists.example.com      mailman:
+</pre></div>
+<p class="para">Ora è necessario far generare a <span class="app application">Postfix</span> la mappa «transport» digitando, in un terminale:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo postmap -v /etc/postfix/transport</span>
+</pre></div>
+<p class="para">Riavviare Postfix per abilitare le nuove configurazioni:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo systemctl restart postfix.service</span>
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="mailman-conf-exim4"><div class="inner">
+<div class="hgroup"><h3 class="title">Exim4</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Una volta installato Exim4, è possibile avviare il server Exim digitando, in un terminale, il seguente comando:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo systemctl start exim4.service</span>
+</pre></div>
+<p class="para">Affinché mailman funzioni con Exim4, è necessario configurare Exim4. Come già spiegato, Exim4 utilizza molteplici file di configurazione di diverse tipologia (per maggiori informazioni, fare riferimento al <a href="http://www.exim.org" class="ulink" title="http://www.exim.org">sito web di Exim</a>). Per poter eseguire mailman, è necessario aggiungere un nuovo file di configurazione alle seguenti tipologie di configurazione: <div class="list itemizedlist"><ul class="list itemizedlist compact">
+<li class="list itemizedlist">
+                <p class="para">Main</p>
+              </li>
+<li class="list itemizedlist">
+                <p class="para">Transport</p>
+              </li>
+<li class="list itemizedlist">
+                <p class="para">Router</p>
+              </li>
+</ul></div> Exim quindi crea un file di configurazione principale ordinando tutti i file di configurazione: l'ordine di questi file è molto importante.</p>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="mailman-conf-main"><div class="inner">
+<div class="hgroup"><h3 class="title">Main</h3></div>
+<div class="region"><div class="contents"><p class="para">Tutti i file di configurazione appartenenti al tipo main sono archiviati nella directory <span class="file filename">/etc/exim4/conf.d/main/</span>. È possibile aggiungere il seguente contenuto a un nuovo file di configurazione chiamato <span class="file filename">04_exim4-config_mailman</span>: <div class="code"><pre class="contents "># start
+# Home dir for your Mailman installation -- aka Mailman's prefix
+# directory.
+# On Ubuntu this should be "/var/lib/mailman"
+# This is normally the same as ~mailman
+MM_HOME=/var/lib/mailman
+#
+# User and group for Mailman, should match your --with-mail-gid
+# switch to Mailman's configure script. Value is normally "mailman"
+MM_UID=list
+MM_GID=list
+#
+# Domains that your lists are in - colon separated list
+# you may wish to add these into local_domains as well
+domainlist mm_domains=hostname.com
+#
+# -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+#
+# These values are derived from the ones above and should not need
+# editing unless you have munged your mailman installation
+#
+# The path of the Mailman mail wrapper script
+MM_WRAP=MM_HOME/mail/mailman
+#
+# The path of the list config file (used as a required file when
+# verifying list addresses)
+MM_LISTCHK=MM_HOME/lists/${lc::$local_part}/config.pck
+# end
+</pre></div></p></div></div>
+</div></div>
+<div class="sect3 sect" id="mailman-conf-transport"><div class="inner">
+<div class="hgroup"><h3 class="title">Transport</h3></div>
+<div class="region"><div class="contents"><p class="para">Tutti i file di configurazione appartenenti al tipo transport sono archiviati nella directory <span class="file filename">/etc/exim4/conf.d/transport/</span>. È possibile aggiungere il seguente contenuto a un nuovo file di configurazione chiamato <span class="file filename"> 40_exim4-config_mailman</span>: <div class="code"><pre class="contents ">  mailman_transport:
+   driver = pipe
+   command = MM_WRAP \
+               '${if def:local_part_suffix \
+                    {${sg{$local_part_suffix}{-(\\w+)(\\+.*)?}{\$1}}} \
+                    {post}}' \
+               $local_part
+    current_directory = MM_HOME
+    home_directory = MM_HOME
+    user = MM_UID
+    group = MM_GID
+</pre></div></p></div></div>
+</div></div>
+<div class="sect3 sect" id="mailman-conf-router"><div class="inner">
+<div class="hgroup"><h3 class="title">Router</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Tutti i file di configurazione appartenenti al tipo router sono archiviati nella directory <span class="file filename">/etc/exim4/conf.d/router/</span>. È possibile aggiungere il seguente contenuto a un nuovo file di configurazione chiamato <span class="file filename">101_exim4-config_mailman</span>: <div class="code"><pre class="contents ">  mailman_router:
+   driver = accept
+   require_files = MM_HOME/lists/$local_part/config.pck
+   local_part_suffix_optional
+   local_part_suffix = -bounces : -bounces+* : \
+                      -confirm+* : -join : -leave : \
+                      -owner : -request : -admin
+   transport = mailman_transport
+</pre></div></p>
+<div class="note note-warning" title="Avvertimento"><div class="inner"><div class="region"><div class="contents">
+<p class="para">L'ordine dei file di configurazione main e transport può essere qualsiasi. L'ordine dei file di configurazione del tipo router deve essere lo stesso. Questo particolare file deve apparire prima del file <span class="file filename">200_exim4-config_primary</span>. Questi file contengono le stesse informazioni, ma il primo ha la precedenza. Per maggiori informazioni fare riferimento alla sezione «Riferimenti».</p>
+</div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="mailman-conf-mailman"><div class="inner">
+<div class="hgroup"><h3 class="title">Mailman</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Una volta installato mailman, è possibile avviarlo usando il seguente comando:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo systemctl start mailman.service</span>
+</pre></div>
+<p class="para">Creare quindi la mailing list predefinita. Per crearla, eseguire il seguente comando:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo /usr/sbin/newlist mailman</span>
+</pre></div>
+<div class="code"><pre class="contents ">  Enter the email address of the person running the list: bhuvan at ubuntu.com
+  Initial mailman password:
+  To finish creating your mailing list, you must edit your <span class="file filename">/etc/aliases</span> (or
+  equivalent) file by adding the following lines, and possibly running the
+  `newaliases' program:
+
+  ## mailman mailing list
+  mailman: "|/var/lib/mailman/mail/mailman post mailman"
+  mailman-admin: "|/var/lib/mailman/mail/mailman admin mailman"
+  mailman-bounces: "|/var/lib/mailman/mail/mailman bounces mailman"
+  mailman-confirm: "|/var/lib/mailman/mail/mailman confirm mailman"
+  mailman-join: "|/var/lib/mailman/mail/mailman join mailman"
+  mailman-leave: "|/var/lib/mailman/mail/mailman leave mailman"
+  mailman-owner: "|/var/lib/mailman/mail/mailman owner mailman"
+  mailman-request: "|/var/lib/mailman/mail/mailman request mailman"
+  mailman-subscribe: "|/var/lib/mailman/mail/mailman subscribe mailman"
+  mailman-unsubscribe: "|/var/lib/mailman/mail/mailman unsubscribe mailman"
+
+  Hit enter to notify mailman owner..
+
+  # 
+</pre></div>
+<p class="para">Postfix o Exim4 sono stati configurati per riconoscere tutte le email di mailman ed è ora obbligatorio creare le nuove voci in <span class="file filename">etc/aliases</span>. Se sono state apportate modifiche ai file di configurazione, assicurarsi di riavviare tali servizi prima di continuare.</p>
+<div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents">
+         <p class="para">Exim4 non utilizza gli alias precedenti per inoltrare le mail a Mailman dato che usa un approccio di tipo <span class="em emphasis">discover</span>. Per eliminare gli alias quando viene creato l'elenco, è possibile aggiungere la riga <span class="em emphasis">MTA=None</span> nel file di configurazione di Mailman <span class="file filename">/etc/mailman/mm_cfg.py</span>.</p>
+         </div></div></div></div>
+</div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect2 sect" id="mailman-admin"><div class="inner">
+<div class="hgroup"><h2 class="title">Amministrazione</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Si assume che sia stata fatta un'installazione di base. Gli script cgi di mailman si trovano nella directory <span class="app application">/usr/lib/cgi-bin/mailman/</span>. Mailman fornisce uno strumento di amministrazione basato sul web, per accedere alla relativa pagina, aprire con il browser il seguente url:</p>
+<p class="para">http://hostname/cgi-bin/mailman/admin</p>
+<p class="para">La mailing list di base, <span class="em emphasis">mailman</span>, comparirà in questa schermata. Facendo clic sul nome della mailing list, verrà richiesta la password di autenticazione. Se viene inserita la password corretta sarà possibile modificare le preferenze di amministrazione di questa mailing list. È possibile creare una nuova mailing list usando l'utilità a riga di comando (<span class="cmd command">/usr/sbin/newlist</span>). In alternativa, è possibile creare una nuova mailing list usando l'interfaccia web.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="mailman-users"><div class="inner">
+<div class="hgroup"><h2 class="title">Utenti</h2></div>
+<div class="region"><div class="contents">
+<p class="para"><span class="app application">Mailman</span> fornisce un'interfaccia web per gli utenti. Per accedere a questa pagina, indirizzare il browser web al seguente URL:</p>
+<p class="para">http://hostname/cgi-bin/mailman/listinfo</p>
+<p class="para">La mailing list predefinita, <span class="em emphasis">mailman</span>, compare a schermo. Facendo clic sul nome, viene presentato il modulo di iscrizione. È possibile inserire il proprio indirizzo email, il nome (opzionale) e la password per completare l'iscrizione. Viene così inviata una email di invito all'indirizzo specificato. È possibile seguire le istruzioni contenute nell'email per completare l'iscrizione.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="mailman-references"><div class="inner">
+<div class="hgroup"><h2 class="title">Riferimenti</h2></div>
+<div class="region"><div class="contents">
+<p class="para">
+<a href="http://www.list.org/mailman-install/index.html" class="ulink" title="http://www.list.org/mailman-install/index.html">GNU Mailman - Manuale di installazione</a>
+</p>
+<p class="para">
+<a href="http://www.exim.org/howto/mailman21.html" class="ulink" title="http://www.exim.org/howto/mailman21.html">HOWTO - Using Exim 4 and Mailman 2.1 together</a>
+</p>
+<p class="para">Consultare anche la pagina della <a href="https://help.ubuntu.com/community/Mailman" class="ulink" title="https://help.ubuntu.com/community/Mailman">documentazione della comunità su Mailman</a>.</p>
+</div></div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="dovecot-server.html" title="Server Dovecot">Indietro</a><a class="nextlinks-next" href="mail-filtering.html" title="Filtrare le email">Avanti</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p></div>
+</div>
+</body>
+</html>

@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang=zh-TW>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>編輯無線網路連線</title>
+<link rel="stylesheet" type="text/css" href="zh-TW.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Ubuntu 桌面版手冊"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="幫助"></span></span> Ubuntu 桌面版手冊</a> » <a class="trail" href="net.html" title="連線、網路、郵件與聊天">連線、網路、郵件與聊天</a> » <a class="trail" href="net-wireless.html" title="無線網路">無線網路</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">編輯無線網路連線</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">這個主題描述的，是編輯無線網路連線時所有可以使用的選項。若要編輯連線，點擊選單列上的<span class="gui">網路選單</span>，並選擇<span class="gui">編輯連線</span>。</p>
+<div class="note" title="備註"><div class="inner"><div class="region"><div class="contents"><p class="p">大多數網路只要將設定值留成預設值即可，可以正常運作，所以您應該不需要改變任何設定值。這裡提供了很多選項，讓您能更好控制比較進階的網路。</p></div></div></div></div>
+</div>
+<div id="available" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">所有使用者皆可用 / 自動連線</span></h2></div>
+<div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">自動連線</span></dt>
+<dd class="terms">
+<p class="p">若您要讓電腦自己嘗試連線到此無線網路（無論有沒有在範圍內），就勾選這個選項。</p>
+<p class="p">如果有數個設成自動連線的網路在範圍內，電腦會自動連接<span class="gui">網路連線</span>視窗內<span class="gui">無線網路</span>分頁中第一個顯示的網路。電腦不會從一個可用網路斷線，並連接一個不同的範圍內網路。</p>
+</dd>
+<dt class="terms"><span class="gui">所有使用者皆可用</span></dt>
+<dd class="terms">
+<p class="p">若您要電腦上所有的使用者都可以存取此無線網路，就勾選這個選項。如果該網路有設 <span class="link"><a href="net-wireless-wepwpa.html" title="WEP 和 WPA 是什麼意思？">WEP/WPA 密碼</a></span>，且此選項有勾選的話，您只會需要輸入密碼一次。所有其他的電腦使用者並不需要自己知道密碼，就能夠連接到這個網路上。</p>
+<p class="p">如果有勾選此項，您需要是一位<span class="link"><a href="user-admin-explain.html" title="管理員權限是怎麼運作的？">管理員</a></span>，才能改變此網路的任何設定值。系統可能會要您輸入您的管理員密碼。</p>
+</dd>
+</dl></div></div></div></div></div>
+</div></div>
+<div id="wireless" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">無線網路</span></h2></div>
+<div class="region">
+<div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">SSID</span></dt>
+<dd class="terms"><p class="p">這是您要連接的無線網路的名稱，另外也稱之為<span class="em">服務設定識別碼</span>。除非您有改變無線網路的名稱（例如改變您的無線路由器或基地台的設定值），請不要改變這個設定值。</p></dd>
+<dt class="terms"><span class="gui">模式</span></dt>
+<dd class="terms">
+<p class="p">Use this to specify whether you are connecting to an <span class="gui">Infrastructure</span> network (one where computers wirelessly connect to a central base station or router) or an <span class="gui">Ad-hoc</span> network (where there is no base station, and the computers in the network connect to one another). Most networks are infrastructure ones; you may wish to <span class="link"><a href="net-wireless-adhoc.html" title="建立無線網路熱點">set-up your own ad-hoc network</a></span> though.</p>
+<p class="p">若您選擇了 <span class="gui">Ad-hoc</span>，會看到另外兩個選項：<span class="gui">頻寬</span>和<span class="gui">頻道</span>。在這裡可以決定 Ad-hoc 無線網路所運作的無線頻率頻帶。某些電腦只能在特定的頻帶上運作（例如只有 <span class="gui">A</span>，或是只有 <span class="gui">B/G</span>），因此您應該要挑選一個可以讓 Ad-hoc 網路上所有電腦使用的頻帶。在繁忙的地帶可能會有數個無線網路分享相同的頻道，這可能會減緩您的連線，因此您可以改變要使用的頻道。</p>
+</dd>
+<dt class="terms"><span class="gui">BSSID</span></dt>
+<dd class="terms"><p class="p">這是<span class="em">基礎服務組識別碼</span>。SSID（請參閱上面）是人要讀取的網路名稱；BSSID 是電腦所理解的名稱（它是字母和數字組成的字串，對無線網路來說是獨特的）。如果<span class="link"><a href="net-wireless-hidden.html" title="連接到隱藏的無線網路">網路被隱藏起來</a></span>，它不會有 SSID，但是它會有一個 BSSID。</p></dd>
+<dt class="terms"><span class="gui">裝置的 MAC 位址</span></dt>
+<dd class="terms">
+<p class="p"><span class="link"><a href="net-macaddress.html" title="什麼是 MAC 位址？">MAC 位址</a></span>是用來辨識網路硬體（例如無線網卡、乙太網路卡，或是路由器）的碼號。每一個可以用來連接至網路的裝置，在出廠時都會附有一個獨一無二的 MAC 位址。</p>
+<p class="p">這個選項可以用來改變您的網路卡的 MAC 位址。</p>
+</dd>
+<dt class="terms"><span class="gui">複製的 MAC 位址</span></dt>
+<dd class="terms"><p class="p">您的網路硬體（無線網卡）可以假裝有一個不同的 MAC 位址。如果您有一個只跟特定 MAC 位址溝通的裝置或服務（例如有線寬頻數據機），這個方式會很好用。如果您在<span class="gui">複製的 MAC 位址</span>欄位填入該 MAC 位址，裝置/服務會認為您的電腦的 MAC 位址是複製的那一個，而不是真正的位址。</p></dd>
+<dt class="terms"><span class="gui">MTU</span></dt>
+<dd class="terms"><p class="p">這個設定值會改變<span class="em">最大傳輸單元</span>，他是透過網路傳送的資料塊的最大大小。當檔案在網路上傳送時，資料會被分成小塊（或封包）。您的網路的最佳 MTU 取決於封包的遺失程度（由雜訊造成），以及連線的速度有多快。一般來說，您應該不需改變這裡的設定值。</p></dd>
+</dl></div></div></div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">另請參閱</span></h3></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless-hidden.html" title="連接到隱藏的無線網路">連接到隱藏的無線網路</a><span class="desc"> — 點擊選單列上的<span class="gui">網路選單</span>，選擇<span class="gui">連接到隱藏的無線網路</span>。</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+</div></div>
+<div id="security" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">無線網路防護</span></h2></div>
+<div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">安全性</span></dt>
+<dd class="terms">
+<p class="p">這裡決定了您的無線網路要使用什麼類型的<span class="em">加密方式</span>。加密連線可以保護您的無線連接不被攔截，這樣其他人就無法「偷聽」，查看您正在造訪的網站等等。</p>
+<p class="p">某些類型的加密方式比其他加密還強，但可能不被較為老舊的無線網路器材支援。正常情況下，您會需要輸入一個密碼才能連線；更嚴謹的類型可能會要求使用者帳號以及一個數位「憑證」。請參閱<span class="link"><a href="net-wireless-wepwpa.html" title="WEP 和 WPA 是什麼意思？">WEP 和 WPA 是什麼意思？</a></span>，了解更多知名的無線網路加密類型。</p>
+</dd>
+</dl></div></div></div></div></div>
+</div></div>
+<div id="ipv4" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">IPv4 設定</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">使用這個分頁來定義連線資訊，如您的電腦 IP 位址和要使用的 DNS 伺服器。改變<span class="gui">方法</span>來看不同得取、設定資訊的方式。</p>
+<p class="p">以下是可用的方式：</p>
+<div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">自動 (DHCP)</span></dt>
+<dd class="terms"><p class="p">從 <span class="em">DHCP 伺服器</span>得取如 IP 位址和欲使用 DNS 伺服器的資訊。DHCP 伺服器是一台有連接網路的電腦（或是其他裝置如路由器），它決定了您的電腦應該有的設定值 —— 當您第一次連線到網路時，伺服器會自動指定正確的設定值。大多數網路都使用 DHCP。</p></dd>
+<dt class="terms"><span class="gui">只用自動 (DHCP) 位址</span></dt>
+<dd class="terms"><p class="p">如果您選擇了這個設定值，您的電腦會從 DHCP 伺服器得到自己的 IP 位址，但您得手動定義其他的詳細資訊（像是要使用什麼 DNS 伺服器）。</p></dd>
+<dt class="terms"><span class="gui">手動</span></dt>
+<dd class="terms"><p class="p">如果您要自己定義所有的網路設定值，包含電腦應該使用的 IP 位址，就選擇這個項目。</p></dd>
+<dt class="terms"><span class="gui">只有本機連線</span></dt>
+<dd class="terms"><p class="p"><span class="em">本機連線</span>是一個將電腦們連接起來的方法，您不需要 DHCP 伺服器，或是手動定義 IP 位址與其他資訊。如果您連上一個本機連線網路，網路上的電腦會自己決定要使用什麼 IP 位址。如果您想要暫時將幾台電腦連接起來，讓它們互相溝通，這個方式就可以派上用場。</p></dd>
+<dt class="terms"><span class="gui">已停用</span></dt>
+<dd class="terms"><p class="p">這個選項會停用網路連線，避免您連接到網路上。請注意，雖然 <span class="gui">IPv4</span> 和 <span class="gui">IPv6</span> 連線用的是同一張網路卡，這兩種連線是會被分開處理的。如果您有啟用某一種連線，可能也會想把另一種連線停用掉。</p></dd>
+</dl></div></div></div>
+</div></div>
+</div></div>
+<div id="ipv6" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">IPv6 設定</span></h2></div>
+<div class="region"><div class="contents"><p class="p">這裡跟 <span class="gui">IPv4</span> 分頁類似，不過它處理的是新型的 IPv6 標準。比較先進的網路會使用 IPv6，但以目前來說 IPv4 仍然是主流。</p></div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">更多資訊</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless.html" title="無線網路">無線網路</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html" title="連接至無線網路">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html" title="連接到隱藏的無線網路">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-edit-connection.html" title="編輯無線網路連線">Edit connection settings</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html" title="為什麼我的無線網路一直斷線？">Disconnecting</a></span>…
+    </span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=lv>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Klikšķini un kustini peles rādītāju, izmantojot papildtastatūru</title>
+<link rel="stylesheet" type="text/css" href="lv.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Palīdzība"></span></span> Ubuntu darbvirsmas rokasgrāmata</a> » <a class="trail" href="hardware.html" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="mouse.html" title="Pele">Pele</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Palīdzība"></span></span> Ubuntu darbvirsmas rokasgrāmata</a> » <a class="trail" href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="mouse.html" title="Pele">Pele</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Palīdzība"></span></span> Ubuntu darbvirsmas rokasgrāmata</a> » <a class="trail" href="a11y.html" title="Universālā piekļuve">Universālā piekļuve</a> › <a class="trail" href="a11y.html#mobility" title="Kustību traucējumi">Kustību traucējumi</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Klikšķini un kustini peles rādītāju, izmantojot papildtastatūru</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Ja jums sagādā grūtības peles, vai kādas citas norādīšanas ierīces izmantošana, jūs varat kontrolēt peles rādītāju, izmantojot savas tastatūras papildtastatūru. Šī iespēja tiek saukta par <span class="em">peles taustiņiem</span>.</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Spiediet taustiņu <span class="key"><kbd><span class="link"><a href="windows-key.html" title="Kas ir “Super” taustiņš?">Super</a></span></kbd></span>, lai atvērtu<span class="gui">paneli</span>.</p></li>
+<li class="steps"><p class="p">Ierakstiet <span class="input">Universālo piekļuvi</span> un spiediet <span class="key"><kbd>Enter</kbd></span>, lai atvērtu universālās piekļuves iestatījumus.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="key"><kbd>Tab</kbd></span> vienreiz, lai izvēlētos <span class="gui">Redzēšanas</span> cilni.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="key"><kbd>←</kbd></span>, kad esat pārslēdzies uz cilni<span class="gui">Norādīšana un klikšķināšana</span>.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="key"><kbd>↓</kbd></span> vienreiz, lai izvēlētos <span class="gui">peles taustiņu</span> slēdzi, un tad spiediet <span class="key"><kbd>Enter</kbd></span>, lai uz to pārslēgtos.</p></li>
+<li class="steps"><p class="p">Pārliecinieties, ka <span class="key"><kbd>Num Lock</kbd></span> ir izslēgts. Tagad varēsiet kustināt peles rādītāju, izmantojot papildtastatūru.</p></li>
+</ol></div></div></div>
+<div class="note note-tip" title="Padoms"><div class="inner"><div class="region"><div class="contents"><p class="p">Šīs instrukcijas dod īsāko ceļu, kā aktivēt peles taustiņus, izmantojot tikai tastatūru. Izvēlieties <span class="gui">Universālās pieejas iestatījumus</span>, lai piekļūtu vairāk pieejamības opcijām.</p></div></div></div></div>
+<p class="p">Papildtastatūra ir bloks ar cipariem uz tavas tastatūras, parasti izkārtota četrstūrī. Ja tastatūra ir bez papildtastatūras (piemēram klēpjdators), iespējams, jums vajadzēs turēt funkcijas (<span class="key"><kbd class="key-Fn">Fn</kbd></span>) taustiņu un izmantot citus tastatūras taustiņus kā papildtastatūru. Ja šo iespēju uz klēpjdatora izmanto bieži, varat apsvērt domu nopirkt ārējo USB papildtastatūru.</p>
+<p class="p">Katrs cipars uz papildtastatūras atbilst kādam virzienam. Piemēram, taustiņa <span class="key"><kbd>8</kbd></span> nospiešana pakustinās rādītāju augšup, bet <span class="key"><kbd>2</kbd></span> lejup. Lai peli nospiestu, spied taustiņu <span class="key"><kbd>5</kbd></span>, bet lai veiktu dubltklikšķi, spied to divas reizes pēc kārtas.</p>
+<p class="p">Lielākajai daļai tastatūru ir īpašs taustiņš kurš ļauj jums veikt labo peles klikšķi; parasti tas ir tuvu atstarpes taustiņam. Tomēr šis atbilst tam, kur atrodas tavs tastatūras fokuss, nevis peles rādītājs. Skaties <span class="link"><a href="a11y-right-click.html" title="Simulēt peles labā taustiņa klikšķi">Simulēt peles labā taustiņa klikšķi</a></span> informācijai par to, kā veikt labo peles klikšķi, turot <span class="key"><kbd>5</kbd></span> vai kreiso peles pogu.</p>
+<p class="p">Ja vēlies izmantot papildtastatūru, lai rakstītu skaitļus, kamēr peles taustiņi ir aktivēti, ieslēdz <span class="key"><kbd>Num Lock</kbd></span> taustiņu. Peli nevar kontrolēt ar papildtastatūru, kamēr <span class="key"><kbd>Num Lock</kbd></span> taustiņš ir ieslēgts.</p>
+<div class="note" title="Piezīmes"><div class="inner"><div class="region"><div class="contents"><p class="p">Parastos ciparu taustiņus, tie kuri ir rindā tastatūras augšā, nevar izmanto peles rādītāja vadīšanai. Tam var izmanto tikai papildtastatūru.</p></div></div></div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
+<div class="region"><ul>
+<li class="links "><a href="a11y.html#mobility" title="Kustību traucējumi">Kustību traucējumi</a></li>
+<li class="links ">
+<a href="mouse.html" title="Pele">Pele</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="Izmantot peli kā kreilim">Kreiļiem</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Piemērot peles vai skārienpaliktņa ātrumu">ātrums un jutīgums</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Spiediet, velciet vai ritiniet ar skārienpaliktni">skārienpaliktņa klikšķināšana un ritināšana</a></span>…</span>
+</li>
+</ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

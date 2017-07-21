@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=bs>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Uredite bežičnu konekciju</title>
+<link rel="stylesheet" type="text/css" href="bs.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Priručnik"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoć"></span></span> Ubuntu Desktop Priručnik</a> » <a class="trail" href="net.html" title="Umrežavanje, web, elektronska pošta i ćaskanje">Umrežavanje, web, elektronska pošta i ćaskanje</a> » <a class="trail" href="net-wireless.html" title="Bežično Umrežavanje">Bežično Umrežavanje</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Uredite bežičnu konekciju</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Tema opisuje sve opcije koje su dostupne kada uređujete bežičnu mrežnu konekciju. Da uredite konekciju, kliknite <span class="gui">mrežni meni</span> na traci menija i odaberite <span class="gui">Uredi konekcije</span>.</p>
+<div class="note" title="Napomena"><div class="inner"><div class="region"><div class="contents"><p class="p">Veina mreža će raditi dobro ako ostavite podešavanja kako su zadana, dakle Vi ih vjerovatno ne morate mijenjati. Mnoge opcije ovdje su postavljene tako da vam daju najbolju kontrolu nad mnogim naprednim mrežama.</p></div></div></div></div>
+</div>
+<div id="available" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Dostupno svim korisnicima/Poveži se automatski</span></h2></div>
+<div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">Poveži se automatski</span></dt>
+<dd class="terms">
+<p class="p">Označite ovu opciju ako želite da se računar poveže na ovu konekciju kad god je u mogućnosti</p>
+<p class="p">U nekim mrežama koje su postavljene za autmatsko povezivanje, racčnar će se konktovati na prvu prikazanu u <span class="gui">Bežične</span> traci u <span class="gui">Mrežne konekcije</span> prozoru. Neće se diskonekotavati sa jedne dostupne mreže, pa se konektovati na drugu koja se upravo pojavila</p>
+</dd>
+<dt class="terms"><span class="gui">Dostupno svim korisnicima</span></dt>
+<dd class="terms">
+<p class="p">Označite ovo ukoliko želite  da svi korisnici računara imaju pristup bežičnoj mreži. Ukoliko mreža ima <span class="link"><a href="net-wireless-wepwpa.html" title="Šta su WEP i WPA?">WEP/WPA lozinku</a></span> i Vi imate izabranu ovu opciju, Vi ćete trebati samo jednom da ukucate šifru. Svim korisnicima Vašeg računara ce biti dostupan internet bez znanja šifre.</p>
+<p class="p">Ako je ovo izabrano, Vi trebate biti <span class="link"><a href="user-admin-explain.html" title="Kako funkcionišu administrativne privilegije?">administrator</a></span> da biste mijenjali podešavanja ove mreže. Možete biti pitani za unos sifre.</p>
+</dd>
+</dl></div></div></div></div></div>
+</div></div>
+<div id="wireless" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Bežična</span></h2></div>
+<div class="region">
+<div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">SSID</span></dt>
+<dd class="terms"><p class="p">Ovo je ime bežične mreže na koju ste konektovani, znano kao <span class="em">Service Set Identifier</span>. Nemoje ovo mijenjati osim ako ste promijenili ime mreže (na primjer,mijenjanjem postavki vaseg bezicnog usmjerivaca ili bazne stanice).</p></dd>
+<dt class="terms"><span class="gui">Režim</span></dt>
+<dd class="terms">
+<p class="p">Use this to specify whether you are connecting to an <span class="gui">Infrastructure</span> network (one where computers wirelessly connect to a central base station or router) or an <span class="gui">Ad-hoc</span> network (where there is no base station, and the computers in the network connect to one another). Most networks are infrastructure ones; you may wish to <span class="link"><a href="net-wireless-adhoc.html" title="Kreirajte pristupnu tačku wireless-a">set-up your own ad-hoc network</a></span> though.</p>
+<p class="p">Ako izaberete <span class="gui">Ad-hoc</span>,vidjet ćete druge opcije,<span class="gui">Opseg</span> i <span class="gui">Kanal</span>. To zavisi sa kojom bežičnom frekvencijom će ad-hoc  bežična mreza operitati.Neki računari su u mogućnosti da rade  na nekim opsezima (na primjer,samo <span class="gui">A</span> ili samo <span class="gui">B/G</span>), dakle mozete zeljeti izabrati opseg koji će moći koristiti svi računari u ad-hoc mrezi.U zauzetim mjestima,moguće je da postoji nekoliko bežičnih mreža na istom kanalu;to moze da uspori Vašu konekciju,dakle možete mijenjati koji kanal da koristite.</p>
+</dd>
+<dt class="terms"><span class="gui">BSSID</span></dt>
+<dd class="terms"><p class="p">Ovo je <span class="em">Identifikator osnovnog skupa servisa</span>.SSID (vidi iznad) je ime mreže koja je namjenjena za čitanje, BSSID je ime mreže koju razumije računar (to je string slova ili brojevi koji su vjerovatno jedinstveni bežičnoj mrezi).Ako je <span class="link"><a href="net-wireless-hidden.html" title="Poveži se na skrivenu bežičnu mrežu">mreža skrivena</a></span>,onda neće imati SSID,ali će imati BSSID</p></dd>
+<dt class="terms"><span class="gui">MAC adresa uređaja</span></dt>
+<dd class="terms">
+<p class="p"><span class="link"><a href="net-macaddress.html" title="Šta je MAC adresa?">MAC adresa</a></span> je kod koji identificira dio hardvera mreže ( na primjer, bežična karta,Ethernet mrezna kartica ili usmjerivac). Svaki uređaj kojim se mozete konektovati na mrežu ima jedinstvenu MAC adresu koja mu je data u fabrici</p>
+<p class="p">Ova opcija može biti korištena za mijenjanje MAC adrese na Vašoj mrežnoj karti</p>
+</dd>
+<dt class="terms"><span class="gui">Klonirana MAC adresa</span></dt>
+<dd class="terms"><p class="p">Vas mrežni hardver (bežična karta) može se pretvarati da ima novu MAC adresu. Ovomože biti korisno ako imate uređaj ili sevis koji ce komunicirati sa određenom MAC adresom (na primjer širokopojasni modem za kablovski Internet). Ako stavite tu MAC adresu u <span class="gui">klonirana MAC adresa</span>, uređaj/servis će misliti da Vaš računar ima kloniranu MAC adresu prije nego njegovu vlastitu</p></dd>
+<dt class="terms"><span class="gui">MTU</span></dt>
+<dd class="terms"><p class="p">Ova postavka mijenja <span class="em">Mksimalnu Transmisionu jedinicu</span>, koja je maksimalna veličina bloka podataka koji se mogu poslati preko mreže. Kada su datoteke poslane preko mreže, podaci se dijele u manje blokove (ili pakete). Optimalni MTU za Vašu mrezu ce zavisiti od toga kolika je vjerovatnost za pakete da se izgube (zbog bučnih veza) i koliko brza je veza. Općenito, ne morate mijenjati tu postavku.</p></dd>
+</dl></div></div></div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">Vidite i</span></h3></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless-hidden.html" title="Poveži se na skrivenu bežičnu mrežu">Poveži se na skrivenu bežičnu mrežu</a><span class="desc"> — Kliknite <span class="gui">mreža meni</span> na traci menija i odaberite <span class="gui">Poveži se sa skrivenim bežičnim mrežama</span>.</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+</div></div>
+<div id="security" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Bežična bezbjednost</span></h2></div>
+<div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">Sigurnost</span></dt>
+<dd class="terms">
+<p class="p">To definira kakvu vrstu <span class="em"> enkripcije </span> vaša bežična mreže koristi. Šifrirane veze pomažu u zaštiti vaše bežične veze od presretanja, tako da drugi ljudi ne mogu "slušati" i vidjeti koje web stranice posjećujete i tako dalje.</p>
+<p class="p">Neki tipovi enkripcije su jači od drugih,al mogu da ne budu podržani od strane starijih bežičnih mreznih oprema. Vi ćete normalno trebati da ukucate Vašu šifru za konekciju; više sofisticiranih tipova sigurnosti također može zahtjevati korisnicko ime i digitalni "certifikat". Vidite <span class="link"><a href="net-wireless-wepwpa.html" title="Šta su WEP i WPA?">Šta su WEP i WPA?</a></span>  za više informacija na popularnim tipovima bežične enkripcije.</p>
+</dd>
+</dl></div></div></div></div></div>
+</div></div>
+<div id="ipv4" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">IPv4 podešavanja</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Koristite karticu da biste definisali informaciju kao što je IP adresa Vašeg računara i koji DNS server treba koristiti. Promijenite <span class="gui">Metod</span>  da biste vidjeli različite načine dobijanja/postavljanja te informacije</p>
+<p class="p">Sljedeće metode su dostupne :</p>
+<div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">Automatski (DHCP)</span></dt>
+<dd class="terms"><p class="p">Nabavite informacije kao što su IP adrese i DNS poslužitelji iz <span class="em"> DHCP poslužitelj </span>.DHCP poslužitelj je računar (ili neki drugi uređaj, poput usmjerivača) spojen na mrežu koja odlučuje koje se mrežne postavke računara trebaju imati - kada se prvi put spojite na mrežu, za vas će biti automatski dodijeljene ispravne postavke. Većina mreža koriste DHCP.</p></dd>
+<dt class="terms"><span class="gui">Automatski (DHCP) samo adrese</span></dt>
+<dd class="terms"><p class="p">Ako izaberete ovu postavku,Vaš računar ce dobiti svoju IP adresu iz DHCP servera,ali ćete morati ručno da definirate ostale detalje (kao sto je npr. koji DNS server koristiti)</p></dd>
+<dt class="terms"><span class="gui">Ručno</span></dt>
+<dd class="terms"><p class="p">Izaberite ovu opciju ako želite definisati sami definisati sve mrežne posatvke, uključujući i to koju IP adresu računar treba koristiti</p></dd>
+<dt class="terms"><span class="gui">Samo lokalne veze</span></dt>
+<dd class="terms"><p class="p"><span class="em">Link-Local</span> je način povezivanja računala zajedno na mreži bez potrebe za DHCP server ili ručno određivanje IP adrese i druge informacije. Ako se spojite na Link-lokalne mreže, računaria na mreži će se odlučiti između sebe koja IP adresa za korištenje i tako dalje. Ovo je korisno ako želite privremeno povezati nekoliko računara zajedno, tako oni komuniciraju jedni s drugima.</p></dd>
+<dt class="terms"><span class="gui">Onemogućeno</span></dt>
+<dd class="terms"><p class="p">Ova opcija će onemogućiti mrežnu konekciju i spriječiti Vam to konektovanje.Zapamtite <span class="gui">IPv4</span>  i  <span class="gui">IPv6</span> se tretiraju kao različite konekcije iako su za istu mrežnu kartu.Ako imate jednu omogućenu,možete drugu onemogućiti.</p></dd>
+</dl></div></div></div>
+</div></div>
+</div></div>
+<div id="ipv6" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">IPv6 podešavanja</span></h2></div>
+<div class="region"><div class="contents"><p class="p">Ovo je slično <span class="gui">IPv4</span> kartici osim što se bavi novijim IPv6 standardom. Većina modernih mreža koriste IPv6, ali IPv4 je i dalje popularniji</p></div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Više informacija</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless.html" title="Bežično Umrežavanje">Bežično Umrežavanje</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Povežite se na bežičnu mrežu.">Connect to wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Poveži se na skrivenu bežičnu mrežu">Hidden networks</a></span>, <span class="link"><a href="net-wireless-edit-connection.html" title="Uredite bežičnu konekciju">Edit connection settings</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Zašto je moja bežična mreža odspojena?">Disconnecting</a></span>…</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

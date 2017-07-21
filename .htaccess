@@ -1,0 +1,42 @@
+Options +FollowSymLinks +MultiViews
+# For "AddLanguage" directives, also see the /etc/apache2/mods-available/mime.conf file.
+# We only have to add missing ones or ones we want to override.
+AddLanguage ast .ast
+AddLanguage az .az
+AddLanguage bo .bo
+AddLanguage bs .bs
+AddLanguage ce .ce
+# The following one is an override
+AddLanguage da .da
+AddLanguage en-au .en-AU
+AddLanguage en-ca .en-CA
+AddLanguage en-gb .en-GB
+AddLanguage en-us .en
+AddLanguage fi .fi
+AddLanguage fo .fo
+AddLanguage gl .gl-GL
+AddLanguage hi .hi
+AddLanguage hu .hu
+AddLanguage ia .ia
+AddLanguage lt .lt
+AddLanguage ms .ms-MS
+AddLanguage my .my
+AddLanguage nb .nb
+AddLanguage oc .oc
+AddLanguage pl .pl-PL
+AddLanguage sk .sk
+AddLanguage sl .sl
+AddLanguage sr .sr
+AddLanguage tg .tg
+AddLanguage ug .ug
+AddLanguage uk .uk
+AddLanguage uz .uz
+AddLanguage zh-hk .zh-HK
+LanguagePriority en-us
+ForceLanguagePriority Prefer Fallback
+
+# For Installation guide text files, which contain non-ASCII characters
+#
+AddCharset UTF-8 .txt
+
+RedirectMatch permanent ^/(stable|lts|\d+\.\d+)/?(index\.html)?$ https://help.ubuntu.com

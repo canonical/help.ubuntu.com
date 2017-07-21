@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=ms-MS>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Capaian universal</title>
+<link rel="stylesheet" type="text/css" href="ms.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Capaian universal</span></h1></div>
+<div class="region">
+<div class="contents"><p class="p">Unity desktop menyertakan teknologi pembantu untuk menyokong pengguna  mempunyai  pelbagai ketakmampuan dan keperluan khas, dan untuk berinteraksi dengan peranti bantuan umum. Kebanyakan fitur kebolehcapaian boleh dicapai melalui bahagian <span class="gui">Capaian Universal</span> dalam <span class="gui">Tetapan Sistem</span>.</p></div>
+<div id="vision" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Ketakmampuan penglihatan</span></h2></div>
+<div class="region"><div class="contents">
+<div class="links topiclinks"><div class="inner">
+<div class="title title-links"><h3><span class="title">Kebutaan</span></h3></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="a11y-braille.html" title="Baca skrin dalam Braille">Baca skrin dalam Braille</a><span class="desc"> — Guna pembaca skrin <span class="app">Orca</span> dengan paparan Braille boleh disegar semula.</span>
+</li>
+<li class="links ">
+<a href="a11y-screen-reader.html" title="Baca skrin dengan kuat">Baca skrin dengan kuat</a><span class="desc"> — Guna pembaca skrin <span class="app">Orca</span> untuk tuturkan antaramuka pengguna.</span>
+</li>
+</ul></div>
+</div></div>
+<div class="links topiclinks"><div class="inner">
+<div class="title title-links"><h3><span class="title">Penglihatan terhad</span></h3></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="keyboard-cursor-blink.html" title="Jadikan kursor papan kekunci berkelip">Jadikan kursor papan kekunci berkelip</a><span class="desc"> — Jadikan titik sisipan berkelip dan kawal berapa pantaskah ia berkelip.</span>
+</li>
+<li class="links ">
+<a href="a11y-contrast.html" title="Laras beza jelas">Laras beza jelas</a><span class="desc"> — Jadikan tetingkap dan butang pada skrin lebih (atau kurang) jelas, supaya ia mudah dilihat.</span>
+</li>
+<li class="links ">
+<a href="a11y-font-size.html" title="Ubah saiz teks pada skrin">Ubah saiz teks pada skrin</a><span class="desc"> — Guna fon lebih besar untuk memudahkan teks dibaca.</span>
+</li>
+</ul></div>
+</div></div>
+</div></div>
+</div></div>
+<div id="sound" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Ketakmampuan pendengaran</span></h2></div>
+<div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><ul><li class="links ">
+<a href="a11y-visualalert.html" title="Denyarkan skrin untuk bunyi amaran">Denyarkan skrin untuk bunyi amaran</a><span class="desc"> — Benarkan amaran visual untuk denyarkan skrin atau tetingkap bila bunyi amaran dimainkan.</span>
+</li></ul></div></div></div></div></div>
+</div></div>
+<div id="mobility" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Ketakmampuan pergerakan</span></h2></div>
+<div class="region"><div class="contents">
+<div class="links topiclinks"><div class="inner">
+<div class="title title-links"><h3><span class="title">Pergerakan tetikus</span></h3></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="mouse-mousekeys.html" title="Klik dan gerak penuding tetikus anda menggunakan pad kekunci">Klik dan gerak penuding tetikus anda menggunakan pad kekunci</a><span class="desc"> — Benarkan kekunci tetikus untuk mengawal tetikus dengan pad kekunci.</span>
+</li>
+<li class="links ">
+<a href="mouse-sensitivity.html" title="Laras kelajuan tetikus dan pad sentuh">Laras kelajuan tetikus dan pad sentuh</a><span class="desc"> — Ubah berapa pantaskah penuding bergerak bila anda guna tetikus atau pad sesentuh anda.</span>
+</li>
+</ul></div>
+</div></div>
+<div class="links topiclinks"><div class="inner">
+<div class="title title-links"><h3><span class="title">Mengklik dan menyeret</span></h3></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="mouse-doubleclick.html" title="Laras kelajuan dwi-klik">Laras kelajuan dwi-klik</a><span class="desc"> — Kawal berapa pantaskah anda perlu tekan butang tetikus kali kedua semasa dwi-klik.</span>
+</li>
+<li class="links ">
+<a href="a11y-right-click.html" title="Simulasikan klik tetikus kanan">Simulasikan klik tetikus kanan</a><span class="desc"> — Tekan dan tahan butang kiri tetikus untuk klik-kanan</span>
+</li>
+<li class="links ">
+<a href="a11y-dwellclick.html" title="Simulasikan mengklik dengan cara terapung">Simulasikan mengklik dengan cara terapung</a><span class="desc"> — Fitur Klik Apung (Klik Inap) membenarkan anda lakukan klik dengan hanya memegang tetikus.</span>
+</li>
+</ul></div>
+</div></div>
+<div class="links topiclinks"><div class="inner">
+<div class="title title-links"><h3><span class="title">Penggunaan papan kekunci</span></h3></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="keyboard-osk.html" title="Guna papan kekunci skrin">Guna papan kekunci skrin</a><span class="desc"> — Guna papan kekunci atas-skrin untuk masukkan teks dengan mengklik butang dengan tetikus.</span>
+</li>
+<li class="links ">
+<a href="a11y-slowkeys.html" title="Hidupkan kekunci lambat">Hidupkan kekunci lambat</a><span class="desc"> — Membuat lengahan diantara kekunci yang ditekan dan huruf yang muncul pada skrin.</span>
+</li>
+<li class="links ">
+<a href="a11y-bouncekeys.html" title="Hidupkan kekunci lantun">Hidupkan kekunci lantun</a><span class="desc"> — Abaikan penenakan kekunci berulang-pantas bagi kekunci yang sama</span>
+</li>
+<li class="links ">
+<a href="a11y-stickykeys.html" title="Hidupkan kekunci lekat">Hidupkan kekunci lekat</a><span class="desc"> — Taip pintasan papan kekunci satu kekunci sekali berbanding menahan kesemua kekunci serentak.</span>
+</li>
+<li class="links ">
+<a href="keyboard-repeat-keys.html" title="Matikan penekanan kekunci ulangan">Matikan penekanan kekunci ulangan</a><span class="desc"> — Pastian papan kekunci tidak mengulang huruf bila anda menahan kekunci, atau tukar lengahan dan kelajuan kekunci ulangan.</span>
+</li>
+<li class="links ">
+<a href="keyboard-nav.html" title="Navigasi papan kekunci">Navigasi papan kekunci</a><span class="desc"> — Guna aplikasi dan desktop tanpa tetikus.</span>
+</li>
+</ul></div>
+</div></div>
+</div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">More Information</span></h2></div>
+<div class="region"><ul><li class="links "><a href="index.html" title="Panduan Desktop Ubuntu">Panduan Desktop Ubuntu</a></li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

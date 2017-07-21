@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=it>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Problemi dello schermo</title>
+<link rel="stylesheet" type="text/css" href="it.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Guida Ubuntu Desktop</a> » <a class="trail" href="hardware.html" title="Hardware e driver">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemi comuni">Problemi</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Problemi dello schermo</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">La maggior parte dei problemi con lo schermo sono causati da problemi con i driver della scheda grafica o dalla sua configurazione. Quale delle seguenti frasi descrive meglio il problema che si è verificato?</p>
+<div class="links topiclinks"><div class="inner"><div class="region">
+<div class="linkdiv "><a class="linkdiv" href="display-dimscreen.html" title="Impostare la luminosità dello schermo"><span class="title">Impostare la luminosità dello schermo</span><span class="linkdiv-dash"> — </span><span class="desc">Oscurare lo schermo per risparmiare energia o aumentare la luminosità per migliorare la leggibilità con luce intensa.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html" title="Lo schermo si blocca troppo velocemente"><span class="title">Lo schermo si blocca troppo velocemente</span><span class="linkdiv-dash"> — </span><span class="desc">Modificare il tempo di attesa prima che lo schermo si blocchi in <span class="gui">Luminosità e blocco</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="look-resolution.html" title="Modificare la dimensione o la rotazione dello schermo"><span class="title">Modificare la dimensione o la rotazione dello schermo</span><span class="linkdiv-dash"> — </span><span class="desc">Modificare la risoluzione dello schermo e l'orientamento (rotazione).</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="look-display-fuzzy.html" title="Perché gli oggetti sullo schermo sembrano strani/pixelati?"><span class="title">Perché gli oggetti sullo schermo sembrano strani/pixelati?</span><span class="linkdiv-dash"> — </span><span class="desc">La risoluzione dello schermo potrebbe essere impostata in modo sbagliato.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html" title="Perché il computer non si riaccende dopo la sospensione?"><span class="title">Perché il computer non si riaccende dopo la sospensione?</span><span class="linkdiv-dash"> — </span><span class="desc">Alcune componenti hardware del computer provocano problemi in seguito alla sospensione o all'ibernazione.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-whydim.html" title="Perché lo schermo si oscura dopo un po' di tempo?"><span class="title">Perché lo schermo si oscura dopo un po' di tempo?</span><span class="linkdiv-dash"> — </span><span class="desc">Quando il computer portatile è alimentato a batteria, lo schermo si oscura quando è inattivo, allo scopo di risparmiare energia.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html" title="Il computer non si accende"><span class="title">Il computer non si accende</span><span class="linkdiv-dash"> — </span><span class="desc">Cavi fissati male e problemi coi componenti hardware possono esserne la ragione.</span></a></div>
+</div></div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
+<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="Problemi comuni">Problemi hardware</a></li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

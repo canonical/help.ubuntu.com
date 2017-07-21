@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang=el>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Εύρεση ενός χαμένου αρχείου</title>
+<link rel="stylesheet" type="text/css" href="el.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Βοήθεια"></span></span> Οδηγός χρήσης Ubuntu</a> » <a class="trail" href="files.html" title="Αρχεία, φάκελοι &amp; αναζήτηση">Αρχεία</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Εύρεση ενός χαμένου αρχείου</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Αν δημιουργήσατε ή κατεβάσατε από το Διαδίκτυο ένα αρχείο αλλά τώρα δεν μπορείτε να το βρείτε, ακολουθήστε αυτές τις συμβουλές.</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p">Αν δεν θυμάστε που σώσατε το αρχείο αλλά έχετε μια ιδέα για το πως το ονομάσατε, μπορείτε να αναζητήσετε το αρχείο με την ονομασία του. Δείτε τον σύνδεσμο <span class="link"><a href="files-search.html" title="Αναζήτηση για αρχεία">αναζήτηση αρχείων</a></span> για να μάθετε τον τρόπο.</p></li>
+<li class="list"><p class="p">Αν μόλις μόλις κάνατε λήψη ενός αρχείου από το διαδίκτυο, ο περιηγητής ιστού σας ίσως να το αποθήκευσε αυτόματα σε έναν κοινό φάκελο. Ελέγξτε τους φακέλους «Επιφάνεια εργασίας» και «Λήψεις» στον προσωπικό σας φάκελο.</p></li>
+<li class="list"><p class="p">Μπορεί κατά λάθος να διαγράψατε το αρχείο. Όταν διαγράφετε ένα αρχείο, αυτό μεταφέρεται στα απορρίματα, όπου παραμένει εώς ότου να τα αδειάσετε χειροκίνητα. Δείτε τον σύνδεσμο <span class="link"><a href="files-recover.html" title="Ανάκτηση ενός αρχείου από τα απορρίμματα.">Επαναφορά αρχείων</a></span> για να μάθετε τον τρόπο επαναφοράς ενός διαγραμμένου αρχείου.</p></li>
+<li class="list"><p class="p">Ίσως έχετε μετονομάσει το αρχείο με τρόπο που το καθιστά κρυφό αρχείο. Τα αρχεία που ξεκινούν με <span class="file">.</span> ή τελειώνουν σε <span class="file">~</span> είναι κρυμένα από τον διαχειριστή αρχείων. Πατήστε το κουμπί <span class="media"><span class="media media-image"><img src="figures/go-down.png" class="media media-inline" alt="down"></span></span> της γραμμής εργαλείων του διαχειριστή αρχείων και επιλέξτε <span class="gui">Εμφάνιση κρυφών αρχείων</span> για να τα προβάλλετε. Για περισσότερα, δείτε <span class="link"><a href="files-hidden.html" title="Κρύψτε ένα αρχείο">Κρύψτε ένα αρχείο</a></span>.</p></li>
+</ul></div></div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="files.html" title="Αρχεία, φάκελοι &amp; αναζήτηση">Αρχεία, φάκελοι &amp; αναζήτηση</a><span class="desc"> — 
+      <span class="link"><a href="files-search.html" title="Αναζήτηση για αρχεία">Searching</a></span>,
+      <span class="link"><a href="files-delete.html" title="Διαγραφή αρχείων και φακέλων">delete files</a></span>,
+      <span class="link"><a href="files.html#backup" title="Δημιουργία αντιγράφων ασφαλείας">backups</a></span>,
+      <span class="link"><a href="files.html#removable" title="Αφαιρούμενοι οδηγοί και εξωτερικοί δίσκοι">removable drives</a></span>,
+      <span class="link"><a href="files.html#documents" title="Έγγραφα">documents</a></span>…
+    </span>
+</li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="files-recover.html" title="Ανάκτηση ενός αρχείου από τα απορρίμματα.">Ανάκτηση ενός αρχείου από τα απορρίμματα.</a><span class="desc"> — Τα διαγραμμένα αρχεία στέλνονται συνήθως στα απορρίμματα, μπορούν όμως να ανακτηθούν.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

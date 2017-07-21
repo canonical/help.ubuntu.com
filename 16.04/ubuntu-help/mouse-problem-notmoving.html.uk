@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=uk>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Вказівник миші не рухається</title>
+<link rel="stylesheet" type="text/css" href="uk.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Керівництво користувача Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Керівництво користувача Ubuntu</a> » <a class="trail" href="hardware.html" title="Обладнання й драйвери">Обладнання</a> » <a class="trail" href="mouse.html" title="Миша">Миша</a> › <a class="trail" href="mouse.html#problems" title="Типові проблеми">Типові проблеми</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="Керівництво користувача Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Керівництво користувача Ubuntu</a> » <a class="trail" href="prefs.html" title="Налаштування користувача та системи">Параметри</a> » <a class="trail" href="mouse.html" title="Миша">Миша</a> › <a class="trail" href="mouse.html#problems" title="Типові проблеми">Типові проблеми</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Вказівник миші не рухається</span></h1></div>
+<div class="region">
+<div class="contents"><div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
+<li class="links "><a href="mouse-problem-notmoving.html#plugged-in" title="Перевірте, чи під’єднано мишу">Перевірте, чи під’єднано мишу</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html#connected" title="Перевірте, чи розпізнається миша вашим комп’ютером">Перевірте, чи розпізнається миша вашим комп’ютером</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html#broken" title="Перевірка працездатності миші">Перевірка працездатності миші</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html#wireless-mice" title="Перевірка бездротової миші">Перевірка бездротової миші</a></li>
+</ul></div></div></div></div>
+<div id="plugged-in" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Перевірте, чи під’єднано мишу</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Якщо у миші є дріт, перевірте, чи надійно він під’єднаний до вашого комп’ютера.</p>
+<p class="p">Якщо це USB-миша (з прямокутним штекером), спробуйте під’єднати її до іншого гнізда USB. Якщо це PS/2-миша (з маленьким круглим штекером з шістьма штирами), переконайтеся, що вона під’єднана у зелене гніздо для миші, а не у фіолетове гніздо для клавіатури. Якщо миша не була під’єднана, можливо, знадобиться перезавантажити комп’ютер.</p>
+</div></div>
+</div></div>
+<div id="connected" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Перевірте, чи розпізнається миша вашим комп’ютером</span></h2></div>
+<div class="region"><div class="contents">
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Наберіть <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span>, щоб відкрити <span class="app">Термінал</span>.</p></li>
+<li class="steps"><p class="p">У вікні терміналу наберіть <span class="cmd">xsetpointer -l | grep Pointer</span> у точності так, як тут написано, й натисніть <span class="key"><kbd>Enter</kbd></span>.</p></li>
+<li class="steps"><p class="p">З’явиться короткий перелік пристроїв миші. Переконайтеся, що принаймні у одному з рядків переліку міститься запис <span class="sys">[XExtensionPointer]</span>, й що у рядку ліворуч від одного з записів <span class="sys">[XExtensionPointer]</span> є назва миші.</p></li>
+<li class="steps"><p class="p">Якщо немає запису, що містить назву миші, що передує <span class="sys">[XExtensionPointer]</span>, то мишу не визначено вашим комп’ютером. Якщо запис існує, то мишу було розпізнано вашим комп’ютером. У цьому випадку потрібно перевірити, що миша <span class="link"><a href="mouse-problem-notmoving.html#plugged-in" title="Перевірте, чи під’єднано мишу">під’єднана</a></span> й знаходиться у <span class="link"><a href="mouse-problem-notmoving.html#broken" title="Перевірка працездатності миші">робочому стані</a></span>.</p></li>
+</ol></div></div></div>
+<p class="p">Якщо у миші штекер, що під’єднується до послідовного порту (RS-232), можливо знадобиться виконати деякі додаткові дії, щоб вона запрацювала. Ці дії можуть залежати від виробника й моделі миші.</p>
+<p class="p">Подолати проблему виявлення миші буває досить складно. Зверніться за підтримкою до вашого постачальника або виробника, якщо вважаєте, що ваша миша не визначається потрібним чином.</p>
+</div></div>
+</div></div>
+<div id="broken" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Перевірка працездатності миші</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Під’єднайте мишу до іншого комп’ютера й перевірте, чи працює вона.</p>
+<p class="p">В оптичної або лазерної миші при вмиканні повинно бути видно світло знизу. Якщо миша не світиться, перевірте, чи вона під’єднана. Якщо світла все одно немає, ймовірно, миша несправна.</p>
+</div></div>
+</div></div>
+<div id="wireless-mice" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Перевірка бездротової миші</span></h2></div>
+<div class="region"><div class="contents">
+<div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p">Переконайтеся, що миша увімкнена. Часто на нижній частині миші знаходиться перемикач для повного вимикання миші, щоб можна було пересувати її з місця на місце, не боячись, що вона буде постійно просипатися.</p></li>
+<li class="list"><p class="p">При використанні Bluetooth-миші переконайтеся, що миша справді спарована з комп’ютером. Див. <span class="link"><a href="bluetooth-connect-device.html" title="Під’єднайте ваш комп'ютер до Bluetooth пристрою">Під’єднайте ваш комп'ютер до Bluetooth пристрою</a></span>.</p></li>
+<li class="list"><p class="p">Клацніть кнопкою миші й подивіться, чи не почне після цього рухатися вказівник. Деякі бездротові миші здатні переходити у режим економії електрики й не відповідають, поки не клацнути кнопкою. Див. <span class="link"><a href="mouse-wakeup.html" title="Миша починає працювати не відразу">Миша починає працювати не відразу</a></span>.</p></li>
+<li class="list"><p class="p">Перевірте, чи не розрядилася батарейка миші.</p></li>
+<li class="list"><p class="p">Переконайтеся, що приймач (dongle) надійно під’єднаний до комп’ютера.</p></li>
+<li class="list"><p class="p">Якщо миша й приймач здатні працювати на різних радіочастотах, переконайтеся, що вони налаштовані на використання одної й тої ж частоти.</p></li>
+<li class="list"><p class="p">Можливо, для встановлення з’єднання потрібно натиснути кнопку на миші або приймачі. Подробиці про це повинні бути приведені у керівництві по експлуатації вашої миші.</p></li>
+</ul></div></div></div>
+<p class="p">Більшість бездротових RF-миш (керованих по радіо) повинні працювати автоматично після їх під’єднання до комп’ютера. Якщо в вас бездротова миша Bluetooth або ІЧ-миша (інфрачервона), то, можливо, знадобиться виконати декілька додаткових дій, щоб миша запрацювала. Дії можуть залежати від марки або моделі миші.</p>
+</div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Докладніше</span></h2></div>
+<div class="region"><ul><li class="links "><a href="mouse.html#problems" title="Типові проблеми">Типові проблеми з мишею</a></li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

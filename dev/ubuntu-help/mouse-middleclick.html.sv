@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang=sv>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Mittenklick</title>
+<link rel="stylesheet" type="text/css" href="sv.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="mouse.html" title="Mus">Mus</a> › <a class="trail" href="mouse.html#tips" title="Tips">Tips</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="mouse.html" title="Mus">Mus</a> › <a class="trail" href="mouse.html#tips" title="Tips">Tips</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="Tips och tricks">Tips och tricks</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Mittenklick</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Många möss och vissa styrplattor har en mittmusknapp. På en mus med ett rullhjul kan du vanligtvis trycka ner rullhjulet för att mittenklicka. Om du inte har en mittmusknapp kan du trycka på vänster och höger musknappar samtidigt för att mittenklicka.</p>
+<p class="p">På styrplattor som har stöd för flerfingerknackningar kan du knacka med tre fingrar samtidigt för att mittenklicka. Du måste <span class="link"><a href="mouse-touchpad-click.html" title="Klicka, dra eller rulla med styrplattan">aktivera knackklickning</a></span> i styrplattsinställningarna för att detta ska fungera.</p>
+<p class="p">Många program använder mittenklick för avancerade klickgenvägar.</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p">I översiktsvyn <span class="gui">Aktiviteter</span> kan du snabbt öppna ett nytt fönster för ett program i en ny, egen arbetsyta med mittenklick. Mittenklicka helt enkelt på programmets ikon antingen i snabbstartspanelen till vänster eller i programöversikten. Programöversikten visas via rutnätsknappen i snabbstartspanelen.</p></li>
+<li class="list"><p class="p">De flesta webbläsare låter dig öppna länkar i flika snabbt via mittmusknappen. Bara klicka på vilken länk som helst med din mittmusknapp så kommer den att öppnas i en ny flik. Var aktsam med att klicka på länkar i webbläsaren <span class="app">Firefox</span>. I <span class="app">Firefox</span> om du klickar på något som inte är en länk kommer den att försöka hämta din valda text som en URL, som om du använt mittenklick för att klistra in den i adressraden och tryckt <span class="key"><kbd>Retur</kbd></span>.</p></li>
+<li class="list"><p class="p">I filhanteraren fungerar mittenklick på två sätt. Om du mittenklickar på en mapp kommer den att öppnas i en ny flik. Detta speglar beteendet hos populära webbläsare. Om du mittenklickar på en fil kommer den att öppna filen, precis som om du hade dubbelklickat.</p></li>
+</ul></div></div></div>
+<p class="p">Vissa speciella program låter dig använda mittknappen för andra funktioner. Sök i ditt programs hjälp efter <span class="em">mittenklick</span> eller <span class="em">musens mittknapp</span>.</p>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Mer information</span></h2></div>
+<div class="region"><ul>
+<li class="links "><a href="mouse.html#tips" title="Tips">Mustips</a></li>
+<li class="links ">
+<a href="tips.html" title="Tips och tricks">Tips och tricks</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Mata in speciella tecken">Specialtecken</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Mittenklick">genvägar för mittenklick</a></span>…</span>
+</li>
+</ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

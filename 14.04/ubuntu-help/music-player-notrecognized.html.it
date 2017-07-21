@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang=it>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Perchè il riproduttore audio non viene riconosciuto quando è collegato?</title>
+<link rel="stylesheet" type="text/css" href="it.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Guida Ubuntu Desktop</a> » <a class="trail" href="media.html" title="Audio, video e immagini">Audio, video e immagini</a> › <a class="trail" href="media.html#music" title="Musica e riproduttori audio portatili">Musica e riproduttori audio</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Perchè il riproduttore audio non viene riconosciuto quando è collegato?</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Se il riproduttore audio (riproduttore MP3 ecc.) è collegato al computer, ma non è visibile nell'applicazione di gestione dei brani musicali, potrebbe non essere stato riconosciuto correttamente come un riproduttore musicale.</p>
+<p class="p">Provare a scollegare e ricollegare il dispositivo. Se non si ottengono risultati, <span class="link"><a href="files-browse.html" title="Esplorare file e cartelle">aprire il gestore di file</a></span>: il riproduttore dovrebbe essere visualizzato nel riquadro laterale in <span class="gui">Dispositivi</span>. Fare clic per aprire la cartella per il riproduttore audio, quindi selezionare <span class="guiseq"><span class="gui">File</span> ▸ <span class="gui">Crea nuovo documento</span> ▸ <span class="gui">Documento vuoto</span></span>, digitare <span class="input">.is_audio_player</span> e premere <span class="key"><kbd>Invio</kbd></span> (il punto e i caratteri di sottolineatura sono importanti, digitare inoltre tutto in minuscolo). Questo file consente al computer di riconoscere il dispositivo come un riproduttore audio.</p>
+<p class="p">Ora, trovare il riproduttore audio nel riquadro laterale del gestore di file ed espellerlo (fare clic col pulsante destro e scegliere <span class="gui">Espelli</span>), scollegarlo e quindi ricollegarlo. Questa volta dovrebbe essere riconosciuto come un riproduttore audio dal gestore di brani musicali. In caso contrario, provare a chiudere il gestore di brani musicali e a riaprirlo.</p>
+<div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents"><p class="p">Queste istruzioni non funzionano con gli iPod e alcuni altri riproduttori audio. Dovrebbero funzionare invece se il riproduttore è un dispositivo di <span class="em">Memoria di massa USB</span> (il manuale del riproduttore dovrebbe indicare questa caratteristica).</p></div></div></div></div>
+<div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents"><p class="p">Quando si visualizza nuovamente la cartella del riproduttore audio, il file <span class="input">.is_audio_player</span> non sarà visibile. Ciò in quanto il gestore di file nasconde i file il cui nome inizia con un punto. È possibile controllare se il file è ancora presente facendo clic su <span class="guiseq"><span class="gui">Visualizza</span> ▸ <span class="gui">Mostra file nascosti</span></span>.</p></div></div></div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
+<div class="region"><ul><li class="links "><a href="media.html#music" title="Musica e riproduttori audio portatili">Musica e riproduttori audio</a></li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Confronta anche</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="music-player-newipod.html" title="L'iPod nuovo non funziona">L'iPod nuovo non funziona</a><span class="desc"> — Per poter utilizzare i nuovi iPod è necessario configurarli attraverso iTunes.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

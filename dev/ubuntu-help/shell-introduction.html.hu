@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang=hu>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>A GNOME bemutatása</title>
+<link rel="stylesheet" type="text/css" href="hu.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">A GNOME bemutatása</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">A GNOME 3 egy teljesen újratervezett felhasználói felületet tartalmaz, amelyet arra terveztek, hogy ne legyen útban, ne terelje el a figyelmét, és segítse feladatai végrehajtásában. Az első bejelentkezésekor az üres asztalt, és a felső sávot fogja látni.</p>
+<div class="media media-image if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-top-bar.png" width="600" class="media media-block" alt="A GNOME környezet felső sávja"></div></div>
+<p class="p">A felső sávból elérheti ablakait és alkalmazásait, naptárát és találkozóit, valamint a <span class="link"><a href="status-icons.html" title="Mit jelentenek az ikonok a felső sávon?">rendszer olyan beállításait</a></span>, mint a hang, hálózat és energiagazdálkodás. A felső sávon az állapotmenüben módosíthatja a hangerőt vagy a kijelző fényerejét, szerkesztheti <span class="gui">Wi-Fi</span> kapcsolat beállításait, ellenőrizheti az akkumulátor állapotát, kijelentkezhet, felhasználót válthat, és kikapcsolhatja számítógépét.</p>
+<div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
+<li class="links "><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés"><span class="gui">Tevékenységek</span> áttekintés</a></li>
+<li class="links "><a href="shell-introduction.html#appmenu" title="Alkalmazásmenü">Alkalmazásmenü</a></li>
+<li class="links "><a href="shell-introduction.html#clock" title="Óra, naptár és találkozók">Óra, naptár és találkozók</a></li>
+<li class="links "><a href="shell-introduction.html#yourname" title="Ön és a számítógépe">Ön és a számítógépe</a></li>
+<li class="links "><a href="shell-introduction.html#lockscreen" title="Zároló képernyő">Zároló képernyő</a></li>
+<li class="links "><a href="shell-introduction.html#window-list" title="Ablaklista">Ablaklista</a></li>
+</ul></div></div></div>
+</div>
+<div id="activities" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title"><span class="gui">Tevékenységek</span> áttekintés</span></h2></div>
+<div class="region"><div class="contents">
+<div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-activities.png" class="media media-block" alt="Tevékenységek gomb"></div></div>
+<p class="p">Ablakai és alkalmazásai eléréséhez kattintson a <span class="gui">Tevékenységek</span> gombra, vagy vigye az egérmutatót a bal felső forró sarokba, valamint megnyomhatja a <span class="key"><a href="keyboard-key-super.html" title="Mi az a Super billentyű?"><kbd>Super billentyűt</kbd></a></span> is. Ablakai és alkalmazásai megjelennek az áttekintésben. Ezen kívül a gépelés megkezdésével is kereshet alkalmazásokat, fájlokat, mappákat és a weben.</p>
+<div class="media media-image floatstart if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-dash.png" height="300" class="media media-block" alt="Az indítópanel"></div></div>
+<p class="p">Az áttekintés bal oldalán található az <span class="em">indítópanel</span>. Az indítópanel megjeleníti kedvenc és futó alkalmazásait. Kattintson bármely ikonra az alkalmazás megnyitásához. Ha az alkalmazás már fut, akkor kiemelve jelenik meg, és az ikonra kattintva előtérbe hozhatja a legutóbb használt ablakot. Az ikont áthúzhatja az áttekintésre, vagy a jobb oldalon lévő bármelyik munkaterületre.</p>
+<p class="p">Az ikonra való jobb kattintás megjelenít egy menüt, amely lehetővé teszi tetszőleges ablak kiválasztását a futó alkalmazásban, vagy új ablak megnyitását. Új ablakot úgy is megnyithat, ha a <span class="key"><kbd>Ctrl</kbd></span> lenyomva tartása mellett kattint az ikonra.</p>
+<p class="p">Az áttekintés megnyitásakor először az ablakok áttekintést látja, amely az aktuális munkaterület ablakainak élő bélyegképeit jeleníti meg.</p>
+<p class="p">Kattintson a rács gombra az indítópanel alján az alkalmazások áttekintés megjelenítéséhez. Ez megjeleníti a számítógépére telepített összes alkalmazást. Kattintson bármely alkalmazásra a futtatásához, vagy húzza az áttekintésből az egyik munkaterület-bélyegképre. Az alkalmazásokat az indítópanelre is áthúzhatja, így felveheti azokat kedvencei közé. A kedvenc alkalmazásai akkor is az indítópanelen maradnak, amikor nem futnak, így gyorsan elérheti azokat.</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact">
+<li class="list"><p class="p"><span class="link"><a href="shell-apps-open.html" title="Alkalmazások indítása">Tudjon meg többet az alkalmazások indításáról.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-windows.html" title="Ablakok és munkaterületek">Tudjon meg többet az alkalmazásokról és munkaterületekről.</a></span></p></li>
+</ul></div></div></div>
+</div></div>
+</div></div>
+<div id="appmenu" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Alkalmazásmenü</span></h2></div>
+<div class="region"><div class="contents">
+<div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-appmenu-shell.png" width="250" class="media media-block" alt="A Terminál alkalmazásmenüje"></div></div>
+<p class="p">A <span class="gui">Tevékenységek</span> gomb mellett található alkalmazásmenü megjeleníti az aktív alkalmazás nevét és ikonját, és gyors hozzáférést biztosít az alkalmazás beállításaihoz vagy súgójához. Az alkalmazásmenüben elérhető elemek az alkalmazástól függően változnak.</p>
+</div></div>
+</div></div>
+<div id="clock" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Óra, naptár és találkozók</span></h2></div>
+<div class="region"><div class="contents">
+<div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-appts.png" width="250" class="media media-block" alt="Óra, naptár, találkozók és értesítések"></div></div>
+<p class="p">Kattintson az órára a felső sávon az aktuális dátum, egy havi beosztású naptár, a soron következő találkozók és az új értesítések megjelenítéséhez. A naptár megnyitható a <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span> kombináció megnyomásával is. Közvetlenül a menüből elérheti a dátum és idő beállításait, és megnyithatja a teljes <span class="app">Evolution</span> naptárát is.</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact">
+<li class="list"><p class="p"><span class="link"><a href="clock-calendar.html" title="Naptári találkozók">Tudjon meg többet a naptárról és a találkozókról.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-notifications.html" title="Értesítések és az üzenettálca">Tudjon meg többet az értesítésekről és az üzenettálcáról.</a></span></p></li>
+</ul></div></div></div>
+</div></div>
+</div></div>
+<div id="yourname" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Ön és a számítógépe</span></h2></div>
+<div class="region"><div class="contents">
+<div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-exit.png" width="250" class="media media-block" alt="Felhasználói menü"></div></div>
+<p class="p">Kattintson a rendszer menüre a jobb felső sarokban a rendszerbeállítások és számítógépének kezeléséhez.</p>
+<p class="p">When you leave your computer, you can lock your screen to prevent other
+  people from using it. You can also quickly switch users without logging out
+  completely to give somebody else access to the computer, or you can
+  suspend or power off the computer from the menu. If you have a screen 
+  that supports vertical or horizontal rotation, you can quickly rotate the 
+  screen from the system menu. If your screen does not support rotation, 
+  you will not see the button.</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-exit.html" title="Kijelentkezés, kikapcsolás vagy felhasználóváltás">Tudjon meg többet a felhasználóváltásról, a kijelentkezésről és a számítógép kikapcsolásáról.</a></span></p></li></ul></div></div></div>
+</div></div>
+</div></div>
+<div id="lockscreen" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Zároló képernyő</span></h2></div>
+<div class="region"><div class="contents">
+<div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-lock.png" width="250" class="media media-block" alt="Zároló képernyő"></div></div>
+<p class="p">Amikor zárolja a képernyőjét, vagy az automatikusan zárolásra kerül, akkor jelenik meg a zároló képernyő. A rendszer illetéktelen hozzáférés elleni védelmén túl a zároló képernyő megjeleníti a dátumot és időt. Információkat jelenít meg továbbá az akkumulátor és a hálózat állapotáról, valamint lehetővé teszi a médialejátszás vezérlését.</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-lockscreen.html" title="A zároló képernyő">Tudjon meg többet a zároló képernyőről.</a></span></p></li></ul></div></div></div>
+</div></div>
+</div></div>
+<div id="window-list" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Ablaklista</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">A GNOME eltérő megközelítést alkalmaz az ablakok váltásához a más asztali környezetekben található, állandóan látható ablaklistákkal szemben. Ez lehetővé teszi a feladataira koncentrálást a figyelmének megosztása nélkül.</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-windows-switching.html" title="Váltás ablakok között">Tudjon meg többet az ablakváltásról.</a></span></p></li></ul></div></div></div>
+</div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">További információk</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="shell-overview.html" title="Az asztal">Az asztal</a><span class="desc"> — <span class="link"><a href="clock-calendar.html" title="Naptári találkozók">naptár</a></span>, <span class="link"><a href="shell-notifications.html" title="Értesítések és az üzenettálca">értesítések</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Hasznos gyorsbillentyűk">gyorsbillentyűk</a></span>, <span class="link"><a href="shell-windows.html" title="Ablakok és munkaterületek">ablakok és munkaterületek</a></span>…</span>
+</li>
+<li class="links "><a href="index.html" title="Ubuntu felhasználói kézikönyv">Ubuntu felhasználói kézikönyv</a></li>
+</ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

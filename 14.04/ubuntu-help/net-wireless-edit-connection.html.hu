@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang=hu>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Vezeték nélküli kapcsolat szerkesztése</title>
+<link rel="stylesheet" type="text/css" href="hu.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<a href="../../14.04" class="trail">Ubuntu 14.04</a> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Súgó"></span></span> Ubuntu felhasználói kézikönyv</a> » <a class="trail" href="net.html" title="Hálózatok, web, e-mail és csevegés">Hálózatok, web, e-mail és csevegés</a> » <a class="trail" href="net-wireless.html" title="Vezeték nélküli hálózatok">Vezeték nélküli hálózatok</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Vezeték nélküli kapcsolat szerkesztése</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Ez a téma leírja a vezeték nélküli hálózati kapcsolat szerkesztéséhez elérhető beállításokat. Kapcsolat szerkesztéséhez kattintson a <span class="gui">hálózat menüre</span> a menüsávon, majd válassza a <span class="gui">Kapcsolat szerkesztése</span> menüpontot.</p>
+<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents"><p class="p">A legtöbb hálózat megfelelően működik az alapbeállításokkal, emiatt nem kell azokat módosítania. Számos itt ismertetett beállítás célja a speciálisabb hálózatok jobb felügyelete.</p></div></div></div></div>
+</div>
+<div id="available" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Elérhető minden felhasználónak / Automatikus csatlakozás</span></h2></div>
+<div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">Automatikus csatlakozás</span></dt>
+<dd class="terms">
+<p class="p">Jelölje be ezt a négyzetet, hogy a számítógép mindig megpróbáljon csatlakozni a vezeték nélküli hálózathoz, amikor hatótávon belül van.</p>
+<p class="p">Ha több automatikus csatlakozásra állított hálózat is hatókörön belül van, akkor a számítógép a <span class="gui">Hálózati kapcsolatok</span> ablak <span class="gui">Vezeték nélküli</span> lapján elsőként megjelenő hálózathoz fog csatlakozni. Ha már csatlakozva van egy hálózathoz, akkor ez a kapcsolat nem fog megszakadni azért, hogy egy éppen elérhetővé vált másik hálózathoz csatlakozzon.</p>
+</dd>
+<dt class="terms"><span class="gui">Elérhető minden felhasználónak</span></dt>
+<dd class="terms">
+<p class="p">Jelölje be ezt a négyzetet, ha a számítógép minden felhasználója hozzáférhet ehhez a vezeték nélküli hálózathoz. Ha a hálózat <span class="link"><a href="net-wireless-wepwpa.html" title="Mit jelent a WEP és WPA?">WEP/WPA jelszóval</a></span> védett, és bejelölte ezt a négyzetet, akkor csak egyszer kell megadnia a jelszót. A számítógép minden más felhasználója így anélkül lesz képes csatlakozni a hálózathoz, hogy a jelszót tudnák.</p>
+<p class="p">Ha ez be van jelölve, akkor a hálózat beállításainak módosításához <span class="link"><a href="user-admin-explain.html" title="Hogyan működnek a rendszergazdai jogosultságok?">rendszergazdai jogokkal</a></span> kell rendelkeznie. A program bekérheti a rendszergazdai jelszót.</p>
+</dd>
+</dl></div></div></div></div></div>
+</div></div>
+<div id="wireless" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Vezeték nélküli</span></h2></div>
+<div class="region">
+<div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">SSID</span></dt>
+<dd class="terms"><p class="p">Ez azon vezeték nélküli hálózat neve (angolul <span class="em">Service Set Identifier</span>), amelyhez csatlakozik. Ne módosítsa, hacsak nem változtatta meg a vezeték nélküli hálózat nevét (például a vezeték nélküli router vagy bázisállomás beállításai alatt).</p></dd>
+<dt class="terms"><span class="gui">Mód</span></dt>
+<dd class="terms">
+<p class="p">Itt adhatja meg, hogy <span class="gui">Kiépített</span> hálózathoz (ahol a számítógépek egy központi bázisállomáshoz vagy routerhez csatlakoznak) vagy <span class="gui">Eseti</span> hálózathoz (ahol nincs bázisállomás, és a hálózat számítógépei egymáshoz kapcsolódnak). A legtöbb hálózat kiépített típusú, néha hasznos lehet <span class="link"><a href="net-wireless-adhoc.html" title="Vezeték nélküli hotspot létrehozása">saját eseti hálózatot összeállítani</a></span>.</p>
+<p class="p">Ha az <span class="gui">Eseti</span> beállítást választja, akkor két másik beállítás is megjelenik: a <span class="gui">Sáv</span> és a <span class="gui">Csatorna</span>. Ezek megadják, hogy az eseti vezeték nélküli hálózat melyik vezeték nélküli frekvencián működik. Néhány számítógép csak bizonyos sávokon képes működni (például csak az <span class="gui">A</span> vagy csak a <span class="gui">B/G</span> sávon), emiatt azt a sávot válassza ki, amelyet az eseti hálózat minden leendő számítógépe képes használni. Forgalmas helyeken több vezeték nélküli hálózat is használhatja ugyanazt a csatornát, ez lelassíthatja a kapcsolatot, emiatt is szükség lehet a csatorna megváltoztatására.</p>
+</dd>
+<dt class="terms"><span class="gui">BSSID</span></dt>
+<dd class="terms"><p class="p">Ez a <span class="em">Basic Service Set Identifier</span> rövidítése. Az SSID (lásd fent) a hálózat emberek által olvasható neve, a BSSID a számítógépek által értelmezett név, amely egy számokból és betűkből álló, egyedi karakterlánc. Ha egy <span class="link"><a href="net-wireless-hidden.html" title="Kapcsolódás rejtett vezeték nélküli hálózathoz">hálózat rejtett</a></span>, akkor nem rendelkezik SSID-vel, csak BSSID-vel.</p></dd>
+<dt class="terms"><span class="gui">Eszköz MAC-címe</span></dt>
+<dd class="terms">
+<p class="p">A <span class="link"><a href="net-macaddress.html" title="Mi az a MAC-cím?">MAC-cím</a></span> egy hálózati hardvert (például vezeték nélküli kártyát, Ethernet hálózati kártyát vagy routert) azonosító kód. Minden eszköz, amelyhez a hálózaton csatlakozhat, rendelkezik egy egyedi, a gyárban kapott MAC-címmel.</p>
+<p class="p">Ezen beállítás segítségével megváltoztatható a hálózati kártya MAC-címe.</p>
+</dd>
+<dt class="terms"><span class="gui">Klónozott MAC-cím</span></dt>
+<dd class="terms"><p class="p">A hálózati hardver (vezeték nélküli kártya) képes másik MAC-címet használni. Ez akkor hasznos, ha egy csak adott MAC-címmel kommunikáló eszközzel (például egy széles sávú kábelmodemmel) vagy szolgáltatással rendelkezik.</p></dd>
+<dt class="terms"><span class="gui">MTU</span></dt>
+<dd class="terms"><p class="p">Ez a beállítás megváltoztatja a <span class="em">maximális átviteli egységet</span>, ami a hálózaton egyszerre átküldhető adatcsomag maximális mérete. A fájlok hálózaton való átküldésekor az adatok kis csomagokra lesznek felbontva. A hálózaton optimális MTU a (zajos kapcsolat miatti) csomagvesztés valószínűségétől és a kapcsolat sebességétől függ. Ezt a beállítást általában nem kell módosítani.</p></dd>
+</dl></div></div></div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">Lásd még</span></h3></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless-hidden.html" title="Kapcsolódás rejtett vezeték nélküli hálózathoz">Kapcsolódás rejtett vezeték nélküli hálózathoz</a><span class="desc"> — Kattintson a <span class="gui">hálózat menüre</span> a menüsávon, és válassza a <span class="gui">Kapcsolódás rejtett vezeték nélküli hálózathoz</span> menüpontot.</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+</div></div>
+<div id="security" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Vezeték nélküli biztonság</span></h2></div>
+<div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">Biztonság</span></dt>
+<dd class="terms">
+<p class="p">Ez megadja a vezeték nélküli hálózat által használat <span class="em">titkosítást</span>. A titkosított kapcsolatok segítenek megvédeni a vezeték nélküli kapcsolatot az eltérítéstől, így mások nem „hallgathatnak bele”, és nem láthatják például, hogy milyen weboldalakat keres fel.</p>
+<p class="p">Egyes titkosításfajták erősebbek másoknál, de régebbi vezeték nélküli berendezések esetleg nem támogatják. A kapcsolódáshoz általában be kell írnia egy jelszót, a kifinomultabb típusok megkövetelhetnek felhasználónevet és digitális tanúsítványt is. A népszerű vezeték nélküli titkosításfajtákkal kapcsolatos információkért lásd: <span class="link"><a href="net-wireless-wepwpa.html" title="Mit jelent a WEP és WPA?">Mit jelent a WEP és WPA?</a></span>.</p>
+</dd>
+</dl></div></div></div></div></div>
+</div></div>
+<div id="ipv4" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">IPv4 beállítások</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Ezen a lapon megadhatja például a számítógépének IP-címét, és hogy melyik DNS-kiszolgálókat használja. A <span class="gui">Módszer</span> lista különböző értékeinek kiválasztásával az információk megadásának különböző módjai közt válogathat.</p>
+<p class="p">A következő módszerek érhetők el:</p>
+<div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">Automatikus (DHCP)</span></dt>
+<dd class="terms"><p class="p">Az IP-címhez és a használandó DNS-kiszolgálóhoz hasonló információk lekérése egy <span class="em">DHCP-kiszolgálótól</span>. A DHCP-kiszolgáló egy számítógép vagy más eszköz (például router) a hálózaton, amely eldönti, hogy a számítógépe milyen hálózati beállításokat kap - a hálózathoz való első kapcsolódáskor automatikusan a helyes beállításokat kapja. A legtöbb hálózat DHCP-t használ.</p></dd>
+<dt class="terms"><span class="gui">Csak automatikus (DHCP) címek</span></dt>
+<dd class="terms"><p class="p">Ha ezt a beállítást választja, akkor a számítógép az IP-címét egy DHCP-kiszolgálótól kapja, de a többi beállítást (például a használandó DNS-kiszolgálót) saját kezűleg kell megadnia.</p></dd>
+<dt class="terms"><span class="gui">Kézi</span></dt>
+<dd class="terms"><p class="p">Válassza ezt a lehetőséget, ha minden hálózati beállítást maga szeretne megadni, ideértve a számítógép által használandó IP-címet is.</p></dd>
+<dt class="terms"><span class="gui">Csak közvetlen kapcsolat</span></dt>
+<dd class="terms"><p class="p">A <span class="em">közvetlen kapcsolat</span> segítségével a hálózaton a számítógépeket DHCP-kiszolgáló használata vagy az IP-címek és más beállítások kézi megadása nélkül kapcsolhatja össze. Ha közvetlen kapcsolatot használó hálózathoz csatlakozik, akkor a számítógépek egymás közt meghatározzák a használandó IP-címeket és hasonlókat. Ez akkor hasznos, ha ideiglenesen szeretne összekapcsolni néhány számítógépet, hogy egymással kommunikálhassanak.</p></dd>
+<dt class="terms"><span class="gui">Tiltva</span></dt>
+<dd class="terms"><p class="p">Ez a beállítás letiltja a hálózati kapcsolatot, és megakadályozza a csatlakozást. Ne feledje, hogy az <span class="gui">IPv4</span> és <span class="gui">IPv6</span> külön kapcsolatnak számítanak, még ha ugyanahhoz a hálózati kártyához tartoznak is. Ha az egyik engedélyezett, akkor állítsa a másikat mellőzöttre.</p></dd>
+</dl></div></div></div>
+</div></div>
+</div></div>
+<div id="ipv6" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">IPv6 beállítások</span></h2></div>
+<div class="region"><div class="contents"><p class="p">Ez hasonló az <span class="gui">IPv4</span> laphoz, csupán az újabb IPv6 szabványt kezeli. A legkorszerűbb hálózatok IPv6-ot használnak, de az IPv4 sokkal népszerűbb.</p></div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">További információk</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless.html" title="Vezeték nélküli hálózatok">Vezeték nélküli hálózatok</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Csatlakozás vezeték nélküli hálózatra">Kapcsolódás Wi-Fi-hez</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Kapcsolódás rejtett vezeték nélküli hálózathoz">Rejtett hálózatok</a></span>, <span class="link"><a href="net-wireless-edit-connection.html" title="Vezeték nélküli kapcsolat szerkesztése">Kapcsolatbeállítások szerkesztése</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Miért bontja folyamatosan a kapcsolatot a vezeték nélküli hálózatom?">Kapcsolatbontás</a></span>…</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

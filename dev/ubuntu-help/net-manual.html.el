@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang=el>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Χειροκίνητος ορισμός ρυθμίσεων δικτύου</title>
+<link rel="stylesheet" type="text/css" href="el.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-wireless.html" title="Ασύρματη δικτύωση">Ασύρματη δικτύωση</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-wired.html" title="Ενσύρματη δικτύωση">Ενσύρματη δικτύωση</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Χειροκίνητος ορισμός ρυθμίσεων δικτύου</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Εάν το δίκτυο σας δεν εκχωρεί αυτόματα ρυθμίσεις δικτύου στον υπολογιστή σας, μπορεί να πρέπει να εισάγετε χειροκίνητα τις ρυθμίσεις ο ίδιος. Αυτό το θέμα υποθέτει ότι ήδη ξέρετε τις σωστές ρυθμίσεις για χρήση. Εάν όχι, ίσως χρειαστείτε να τις ζητήσετε από τον διαχειριστή του δικτύου ή να κοιτάξετε τις ρυθμίσεις του δρομολογητή ή του διακόπτη δικτύου.</p>
+<div class="steps"><div class="inner">
+<div class="title title-steps"><h2><span class="title">Για να ορίσετε χειροκίνητα τις ρυθμίσεις δικτύου:</span></h2></div>
+<div class="region"><ol class="steps">
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Δίκτυο</span>.</p></li>
+<li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Δίκτυο</span> για να ανοίξετε τον πίνακα.</p></li>
+<li class="steps">
+<p class="p">Από τον αριστερό πίνακα, επιλέξτε τη σύνδεση δικτύου που θέλετε να ρυθμίσετε χειροκίνητα. Αν συνδέεστε στο δίκτυο με καλώδιο, κάντε κλικ στο <span class="gui">Ενσύμαρτη</span>, και έπειτα στο κουμπί <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="ρυθμίσεις"></span></span> στην κάτω δεξιά γωνία του πίνακα. Για μια σύνδεση <span class="gui">Wi-Fi</span>, το κουμπί <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="ρυθμίσεις"></span></span> βρίσκεται δίπλα στο ενεργό δίκτυο.</p>
+<p class="p">Βεβαιωθείτε ότι η ασύρματη κάρτα σας είναι ενεργή ή το καλώδιο δικτύου είναι συνδεμένο.</p>
+</li>
+<li class="steps"><p class="p">Click on <span class="gui">IPv4</span> or <span class="gui">IPv6</span> in the left pane
+      and change the <span class="gui">Addresses</span> to <span class="em">Manual</span>.</p></li>
+<li class="steps"><p class="p">Type in the <span class="gui"><a href="net-what-is-ip-address.html" title="Τι είναι μια διεύθυνση IP;">IP Address</a></span> and
+      <span class="gui">Gateway</span>, as well as the appropriate <span class="gui">Netmask</span>.</p></li>
+<li class="steps"><p class="p">Στην ενότητα <span class="gui">DNS</span>, αλλάξτε το <span class="gui">Αυτόματο</span> σε <span class="gui">ΟΧΙ</span>. Εισάγετε τη διεύθυνση IP ενός διακομιστή DNS που θέλετε να χρησιμοποιήσετε. Εισάγετε πρόσθετες διευθύνσεις διακομιστή DNS χρησιμοποιώντας το πλήκτρο <span class="gui">+</span>.</p></li>
+<li class="steps"><p class="p">Στην ενότητα <span class="gui">Διαδρομές</span>, αλλάξτε το <span class="gui">Αυτόματο</span> σε <span class="gui">ΟΧΙ</span>. Εισάγετε τη <span class="gui">Διεύθυνση</span>, τη <span class="gui">Μάσκα δικτύου</span>, τη <span class="gui">Πύλη δικτύου</span> και <span class="gui">Μετρικό</span> για τη διαδρομή που θέλετε να χρησιμοποιήσετε. Εισάγετε επιπρόσθετες διαδρομές χρησιμοποιώντας το πλήκτρο <span class="gui">+</span>.</p></li>
+<li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Εφαρμογή</span>. Αν δεν είσαστε συνδεμένοι στο δίκτυο, κάντε κλικ στην περιοχή κατάστασης συστήματος στην πάνω γραμμή και συνδεθείτε. Δοκιμάστε τις ρυθμίσεις δικτύου προσπαθώντας να επισκεφτείτε έναν ιστότοπο ή κοιτώντας κοινόχρηστα αρχεία στο δίκτυο για παράδειγμα.</p></li>
+</ol></div>
+</div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="net-wireless.html" title="Ασύρματη δικτύωση">Ασύρματη δικτύωση</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Σύνδεση σε ασύρματο δίκτυο">Σύνδεση σε wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Σύνδεση σε κρυφό ασύρματο δίκτυο">Κρυφά δίκτυα</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Γιατί το ασύρματο δίκτυό μου εξακολουθεί να είναι αποσυνδεμένο;">Αποσύνδεση</a></span>…</span>
+</li>
+<li class="links ">
+<a href="net-wired.html" title="Ενσύρματη δικτύωση">Ενσύρματη δικτύωση</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html" title="Σύνδεση σε ενσύρματο δίκτυο (Ethernet)">Ενσύρματες συνδέσεις διαδικτύου</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Δημιουργία σύνδεσης με σταθερή διεύθυνση IP">Σταθερές διευθύνσεις IP</a></span>…</span>
+</li>
+</ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

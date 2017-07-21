@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang=sr>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Не чујем никакав звук на рачунару</title>
+<link rel="stylesheet" type="text/css" href="sr.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Помоћ"></span></span> Убунтуов водич за радну површ</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="media.html#sound" title="Основни звук">Звук</a> » <a class="trail" href="sound-broken.html" title="Проблеми са звуком">Проблеми са звуком</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Помоћ"></span></span> Убунтуов водич за радну површ</a> » <a class="trail" href="hardware.html" title="Хардвер и управљачки програми">Хардвер</a> › <a class="trail" href="hardware.html#problems" title="Општи проблеми">Проблеми</a> » <a class="trail" href="sound-broken.html" title="Проблеми са звуком">Проблеми са звуком</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Не чујем никакав звук на рачунару</span></h1></div>
+<div class="region">
+<div class="contents"><p class="p">Ако не можете да чујете никакав звук на рачунару, на пример када покушавате да пустите музику, пробајте ове кораке за решавање проблема.</p></div>
+<div id="mute" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Уверите се да звук није утишан</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Кликните на <span class="gui">изборник звука</span> на траци изборника (изгледа као звучник) и уверите се да звук није утишан или потпуно искључен.</p>
+<p class="p">Неки преносни рачунари имају прекидаче или тастере на тастатурама — покушајте да притиснете тај тастер да видите да ли ће се звук појачати.</p>
+<p class="p">Треба такође да проверите да нисте утишали програм који користите за пуштање звука (на пример, програм за музику или филмове). Програм може да има дугме за утишавање или јачину звука на главном прозору, и зато проверите и то. Такође, кликните на изборник звука на траци изборника и изаберите <span class="gui">Подешавања звука</span>. Када се појави прозор <span class="gui">звука</span>, идите на језичак <span class="gui">Програми</span> и проверите да ваш програм није утишан.</p>
+</div></div>
+</div></div>
+<div id="speakers" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Проверите да ли су звучници упаљени и исправно прикључени</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Ако ваш рачунар има спољне звучнике, уверите се да су упаљени и да је јачина звука појачана. Уверите се да је кабал звучника безбедно прикључен у „излазну“ прикључницу звука на вашем рачунару. Ова прикључница је обично светло-зелене боје.</p>
+<p class="p">Неке звучне картице могу да промене утичницу коју користе за излаз (на звучнике) и улаз (из микрофона, на пример). Излазна утичница може бити другачија када ради под Линуксом, Виндоузом или Мек ОС-ом. Покушајте да повежете кабал звучника на другу звучну утичницу на рачунару.</p>
+<p class="p">Последња ствар за проверу је да ли је аудио кабал безбедно прикључен на полеђину звучника. Такође, неки звучници имају више од једног улаза.</p>
+</div></div>
+</div></div>
+<div id="device" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Проверите да ли је изабран одговарајући звучни уређај</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Неки рачунари имају инсталираних више „звучних уређаја“. Неки од њих имају могућност отпуштања звука а неки не, тако да требате да проверите да ли сте изабрали онај прави. Ово може да обухвати неке пробе-и-грешке за избор оне праве.</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Кликните на <span class="gui">изборник звука</span> на <span class="gui">траци изборника</span> и изаберите <span class="gui">Подешавања звука</span>.</p></li>
+<li class="steps"><p class="p">У прозору <span class="gui">Звук</span> који ће се појавити, покушајте да изаберете други излаз са списка <span class="gui">Пусти звук помоћу</span>.</p></li>
+<li class="steps"><p class="p">За изабрани уређај, кликните <span class="gui">Пробај звук</span>. У искачућем прозору, кликните на дугме за сваки звучник. Сваки тастер ће изговорити свој положај само за канал који одговара том звучнику.</p></li>
+<li class="steps"><p class="p">Ако ово не ради, можете да покушате да урадите исто за сваки други уређај који се налази на списку.</p></li>
+</ol></div></div></div>
+</div></div>
+</div></div>
+<div id="hardware-detected" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Проверите да ли је звучна картица исправно откривена</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Можда ваша звучна картица није правилно откривена. Ако се то десило, рачунар ће мислити да није у стању да пушта звук. Могући разлог неоткривања картице је да управљачки програми за картицу нису инсталирани.</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Идите до <span class="link"><a href="unity-dash-intro.html" title="Нађите програме, датотеке, музику и много тога уз помоћ Полетника">Полетника</a></span> и отворите Терминал.</p></li>
+<li class="steps"><p class="p">Упишите <span class="cmd">aplay -l</span> и притисните <span class="key"><kbd>Унеси</kbd></span>.</p></li>
+<li class="steps"><p class="p">Биће приказан списак уређаја. Ако не постоји <span class="gui">playback hardware devices</span> (хардверски уређаји за пуштање), ваша звучна картица није откривена.</p></li>
+</ol></div></div></div>
+<p class="p">Ако ваша звучна картица није откривена, мораћете ручно да инсталирате управљачке програме за њу. Како ћете ово да урадите зависиће од звучне картице коју имате.</p>
+<p class="p">Можете да видите коју звучну картицу имате користећи наредбу <span class="cmd">lspci</span> у <span class="app">терминалу</span>. Можете да добијете комплетнији резултат ако покренете наредбу <span class="cmd">lspci</span> као <span class="link"><a href="user-admin-explain.html" title="Како функционишу администраторска овлашћења?">суперкорисник</a></span>; упишите <span class="cmd">sudo lspci</span> и унесите вашу лозинку. Погледајте да ли се на списку налази неки <span class="em">audio controller</span> или <span class="em">audio device</span> — треба да садржи марку и модел звучне картице. Наредба <span class="cmd">sudo lspci -v</span> приказаће списак са детаљнијим подацима.</p>
+<p class="p">Можете бити у могућности да пронађете и инсталирате управљачке програме за вашу картицу тражећи на Интернету. У супротном, можете да <span class="link"><a href="report-ubuntu-bug.html" title="Пријавите проблем у Убунтуу">известите о грешци</a></span>.</p>
+<p class="p">Ако не можете да набавите управљачке програме за вашу звучну картицу, можда ћете желети да купите нову. Можете да набавите звучне картице које могу бити инсталиране унутар рачунара и спољне УСБ звучне картице.</p>
+</div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Још података</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="sound-broken.html" title="Проблеми са звуком">Проблеми са звуком</a><span class="desc"> — Решите проблеме као што је непостојање звука или звук лошег квалитета.</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

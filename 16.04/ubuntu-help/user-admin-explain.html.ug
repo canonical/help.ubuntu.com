@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang=ug>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>باشقۇرۇش ئىمتىيازىنىڭ(privileges) خىزمىتى قانداق؟</title>
+<link rel="stylesheet" type="text/css" href="ug.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 16.04</span> » <a class="trail" href="index.html" title="ئۇبۇنتۇ ئۈستەلئۈستى قوللانمىسى"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="ياردەم"></span></span> ئۇبۇنتۇ ئۈستەلئۈستى قوللانمىسى</a> » <a class="trail" href="prefs.html" title="ئىشلەتكۈچى ۋە سىستېما تەڭشەكلىرى">تەڭشەكلەر</a> » <a class="trail" href="user-accounts.html" title="ئىشلەتكۈچى ھېساباتلىرى">ئىشلەتكۈچىلەر</a> › <a class="trail" href="user-accounts.html#privileges" title="ئىشلەتكۈچى ئىمتىيازلىرى">ئىمتىيازلار</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">باشقۇرۇش ئىمتىيازىنىڭ(privileges) خىزمىتى قانداق؟</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p"><span class="em">سىز</span> قۇرغان ھۆججەتلەر بىلەن بىرگە كومپيۇتېرىڭىزدا سىستېمىنىڭ نورمال خىزمەت قىلىش ئۈچۈن لازىم بولغان ھۆججەتلەر بولىدۇ. ئەگەر بۇ مۇھىم بولغان <span class="em">سىستېما ھۆججەتلىرىنى</span> مۇۋاپىق بولمىغان ئۆزگەرتىش ، ھەرخىل نەرسىلەرنىڭ بۇزۇلۇشىنى كەلتۈرۈپ چىقىرىدۇ، شۇڭلاشقا ئادەتتە ئۇلار ئۆزگەرتىشتىن ساقلىنىدىغان قىلىنغان. بەزى پروگراممىلار سىستېمىنىڭ مۇھىم بولغان قىسمىغا ئۆزگەرتىش لىپ بارىدۇ، ئەلۋەتتە بۇلارمۇ قوغدالغان بولىدۇ.</p>
+<p class="p">بۇ ھۆججەتلەرنى ۋە پروگراممىلارنى پەقەت <span class="em">باشقۇرغۇچى ھوقۇقى</span> بولغان ئىشلەتكۈچىنىڭ ئىشلىتىشىگە ۋە ئۆزگەرتىشىگە بولىدۇ. كۈندىلىك تۇرمۇشتا ئىشلىتىشتە سىستېما ھۆججەتلەرنى ئىشلىتىش ياكى ئۆزگەرتىشكە ھاجىتىمىز چۈشمەيدۇ، شۇنىڭ ئۈچۈن ئادەتتە ئەھۋالدا سىزدە باشقۇرغۇچى ھوقۇقى بولمايدۇ.</p>
+<p class="p">بەزىدە سىزنىڭ بۇ پروگراممىلارنى ئىشلىتىشىڭىزگە توغرا كېلىدۇ، بۇ خىل ئەھۋالدا ۋاقىتلىق باشقۇرغۇچى ھوقۇقى سىزنى ئۆزگەرتىش ئىمكانىيىتىگە ئىگە قىلىدۇ. مەسىلەن، سىز يېڭىدىن يۇمشاق دېتال قاچىلىماقچى بولسىڭىز ،يۇمشاق دېتال قاچىلىغۇچى(بوغچا باشقۇرغۇچىسى) سىزدىن باشقۇرغۇچى ئىمنى تەلەپ قىلىدۇ شۇنىڭ بىلەن بىرگە يېڭى پروگراممىنى سىستېمىغا قاچىلايدۇ. تاماملىنىشى بىلەن بىرگە سىزنىڭ باشقۇرۇش ھوقۇقىڭىزمۇ ئەمەلدىن قالىدۇ.</p>
+<p class="p">Admin privileges are associated with your user account. Some users are
+ allowed to have admin privileges and some are not. Without admin privileges you
+ will not be able to install software. Some user accounts (for example, the
+ "root" account) have permanent admin privileges. You shouldn't use admin
+ privileges all of the time, because you might accidentally change something
+ you did not intend to (like delete a needed system file, for example).</p>
+<p class="p">ئومۇمەن، باشقۇرغۇچى ھوقۇقى زۆرۈر بولغاندا سىزنى سىستېمىنىڭ مۇھىم قىسىمنى ئۆزگەرتىش ئىمكانىيىتىگە ئىگە قىلىدۇ، ئەمما تاسادىپىي مەشغۇلات قىلىشىڭىزنىڭ ئالدىنى ئالىدۇ.</p>
+<div class="note" title="ئىزاھات"><div class="inner">
+<div class="title title-note"><h2><span class="title">«ئالىي ئىشلەتكۈچى» دېگەن نېمە؟</span></h2></div>
+<div class="region"><div class="contents"><p class="p">باشقۇرغۇچى ھوقۇقى بار ئىشلەتكۈچى بەزىدە <span class="em">ئالىي ئىشلەتكۈچى</span> دەپمۇ ئاتىلىدۇ. ئادەتتىكى ئىشلەتكۈچىگە قارىغاندا كۆپ ئىمتىيازلىق بولغانلىقى ئۈچۈندۇر. بەلكىم كىشىلەرنىڭ <span class="cmd">su</span> بىلەن <span class="cmd">sudo</span> ئۈستىدىكى قىلىشقان مۇنازىرىلىرىنى كۆرگەن بولۇشىڭىز مۇمكىن. بۇلار سىزنى ۋاقىتلىق «ئالىي ئىشلەتكۈچى» قىلىدىغان پروگراممىلاردىن ئىبارەت.</p></div></div>
+</div></div>
+</div>
+<div id="advantages" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">باشقۇرۇش ئىمتىيازىنىڭ قانداق پايدىسى بار؟</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">مەقسەتلىك ياكى تاسادىپىي بولغان سىستېمىنىڭ بۇزۇلۇپ كېتىشنىڭ ئالدىنى ئېلىشقا ياردەم بېرىدىغانلىقى ئۈچۈن مۇھىم بولغان سىستېما ئۆزگىرىشىدىن بۇرۇن ئىشلەتكۈچىدىن باشقۇرغۇچى ھوقۇقىنى تەلەپ قىلىش ئىنتايىن ئىشلىتىشچانلىققا ئىگە.</p>
+<p class="p">ئەگەر سىزدە داۋاملىق باشقۇرغۇچى ھوقۇقىنى بولسا، سىز تاسادىپىي ھالدا مۇھىم بولغان ھۆججەتنى ئۆزگەرتىپ قويسىڭىز ياكى خاتالىشىپ مۇھىم بولغان نەرسىنى ئۆزگەرتىپ قويىدىغان پروگراممىنى قوزغىتىپ قويسىڭىز مۇمكىن. باشقۇرغۇچى ھوقۇقىغا ۋاقىتلىقلا ئىگە بولسىڭىز ، باشقۇرۇش ھوقۇقى لازىم بولغاندا ، بۇ خاتالىقلارنىڭ خېيىم خەتىرىنى ئازايتقىلى بولىدۇ.</p>
+<p class="p">پەقەت مەلۇم ياكى ئىشەنچلىك ئىشلەتكۈچىلا باشقۇرغۇچى ھوقۇقىغا ئىگە بولىدۇ. بۇنداق بولغاندا باشقا ئىشلەتكۈچىلەرنىڭ كومپيۇتېردىكى سىزگە لازىملىق پروگراممىلارنى ئۆچۈرۈۋېتىش، سىزگە لازىم بولمايدىغان پروگراممىنى قاچىلاش ياكى مۇھىم بولغان ھۆججەتلەرنى ئۆچۈرۈۋېتىش دېگەندەك قالايمىقانچىلىقىنىڭ ئالدىنى ئالغىلى بولىدۇ. بىخەتەرلىك نۇقتىسىدىن لىپ ئېيتقاندا تولىمۇ ئىشلىتىشچانلىققا ئىگە.</p>
+</div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">تېخىمۇ كۆپ ئۇچۇر</span></h2></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html#privileges" title="ئىشلەتكۈچى ئىمتىيازلىرى">ئىشلەتكۈچى ئىمتىيازلىرى</a></li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">مۇناسىۋەتلىك مەزمۇنلار</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="net-othersedit.html" title="باشقا ئىشلەتكۈچىلەر تور باغلىنىشىنى تەھرىرلىيەلمەيۋاتىدۇ">باشقا ئىشلەتكۈچىلەر تور باغلىنىشىنى تەھرىرلىيەلمەيۋاتىدۇ</a><span class="desc"> — باغلىنىش تەڭشىكىدىن <span class="gui">بارلىق ئىشلەتكۈچىلەر ئىشلىتەلەيدۇ</span> تاللىنىشىنى تاللىماڭ.</span>
+</li>
+<li class="links ">
+<a href="user-admin-change.html" title="باشقۇرغۇچى ھوقۇقى بارلارنى ئۆزگەرتىش">باشقۇرغۇچى ھوقۇقى بارلارنى ئۆزگەرتىش</a><span class="desc"> — قايسى ئىشلەتكۈچىگە سىستېمىنى ئۆزگەرتىش ھوقۇقى بېرىش-بەرمەسلىكنى باشقۇرۇش ھوقۇقى بېرىش ئارقىلىق ئۆزگەرتەلەيسىز</span>
+</li>
+</ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

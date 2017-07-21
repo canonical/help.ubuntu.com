@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang=hu>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Fájlkezelő listaoszlopainak beállításai</title>
+<link rel="stylesheet" type="text/css" href="hu.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 17.04</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Súgó"></span></span> Ubuntu felhasználói kézikönyv</a> » <a class="trail" href="files.html" title="Fájlok, mappák és keresés">Fájlok</a> » <a class="trail" href="nautilus-prefs.html" title="Fájlkezelő beállításai">Fájlkezelő beállításai</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Fájlkezelő listaoszlopainak beállításai</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">A fájlkezelő listanézetében 9 információs oszlopot jeleníthet meg. Válassza a <span class="gui">Fájlok</span> ikont a menüsávon, majd a <span class="gui">Beállítások</span> menüpontot, majd a <span class="gui">Listaoszlopok</span> lapot a látható oszlopok kiválasztásához.</p>
+<div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">Használja a <span class="gui">Fel</span> és <span class="gui">Le</span> gombokat a kijelölt oszlop megjelenési sorrendjének kiválasztásához.</p></div></div></div></div>
+<div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">Név</span></dt>
+<dd class="terms"><p class="p">A megjelenített mappában lévő mappák és fájlok nevei.</p></dd>
+<dt class="terms"><span class="gui">Méret</span></dt>
+<dd class="terms"><p class="p">Egy mappa mérete a mappában lévő elemek száma. Egy fájl mérete bájtban, KB-ban vagy MB-ban kerül megadásra.</p></dd>
+<dt class="terms"><span class="gui">Típus</span></dt>
+<dd class="terms"><p class="p">A típus mint „mappa”, vagy mint konkrét fájltípus (például PDF-dokumentum, JPEG-kép, MP3-hang) jelenik meg.</p></dd>
+<dt class="terms"><span class="gui">Módosítva</span></dt>
+<dd class="terms"><p class="p">Megjeleníti a fájl utolsó módosításának idejét.</p></dd>
+<dt class="terms"><span class="gui">Tulajdonos</span></dt>
+<dd class="terms"><p class="p">A fájlt vagy mappát birtokló felhasználó neve.</p></dd>
+<dt class="terms"><span class="gui">Csoport</span></dt>
+<dd class="terms"><p class="p">A fájlt birtokló csoport. Otthoni számítógépeken minden felhasználó a saját csoportjában van. A csoportok vállalati környezetben használatosak, ahol a felhasználók például osztály vagy projekt alapján vannak csoportosítva.</p></dd>
+<dt class="terms"><span class="gui">Jogosultságok</span></dt>
+<dd class="terms">
+<p class="p">A fájl hozzáférési jogosultságai, például: <span class="gui">drwxrw-r--</span></p>
+<div class="list"><div class="inner"><div class="region"><ul class="list" style="list-style-type:disc">
+<li class="list"><p class="p">Az első karakter, a <span class="gui">-</span> a fájl típusa. A <span class="gui">-</span> normális fájlt jelent, a <span class="gui">d</span> pedig mappát.</p></li>
+<li class="list"><p class="p">A következő három karakter, az <span class="gui">rwx</span> a fájlt birtokló felhasználó jogosultságait adja meg.</p></li>
+<li class="list"><p class="p">A következő három, az <span class="gui">rw-</span> a fájlt birtokló csoport összes tagjának jogosultságait adja meg.</p></li>
+<li class="list"><p class="p">Az utolsó három karakter, az <span class="gui">r--</span> a rendszer minden más felhasználójának jogosultságait adja meg.</p></li>
+</ul></div></div></div>
+<p class="p">Minden karakter a következő jelentéssel bír:</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list" style="list-style-type:disc">
+<li class="list"><p class="p">r : Olvasási jogosultság.</p></li>
+<li class="list"><p class="p">w : Írási jogosultság.</p></li>
+<li class="list"><p class="p">x : Végrehajtási jogosultság.</p></li>
+<li class="list"><p class="p">- : Nincs jogosultság.</p></li>
+</ul></div></div></div>
+</dd>
+<dt class="terms"><span class="gui">MIME-típus</span></dt>
+<dd class="terms"><p class="p">Az elem MIME-típusa.</p></dd>
+<dt class="terms"><span class="gui">Hely</span></dt>
+<dd class="terms"><p class="p">A fájl helyének elérési útvonala.</p></dd>
+</dl></div></div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">További információk</span></h2></div>
+<div class="region"><ul><li class="links "><a href="nautilus-prefs.html" title="Fájlkezelő beállításai">Fájlkezelő beállításai</a></li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

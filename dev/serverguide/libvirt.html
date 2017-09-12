@@ -148,7 +148,7 @@
 </pre></div>
 <p class="para">There are several options available when using
       <span class="app application">virt-install</span>. For example:</p>
-<div class="screen"><pre class="contents "><span class="cmd command">sudo virt-install -n web_devel -r 256 \
+<div class="screen"><pre class="contents "><span class="cmd command">sudo virt-install -n web_devel -r 512 \
 --disk path=/var/lib/libvirt/images/web_devel.img,bus=virtio,size=4 -c \
 ubuntu-16.04-server-i386.iso --network network=default,model=virtio \
 --graphics vnc,listen=0.0.0.0 --noautoconsole -v</span>
@@ -160,7 +160,7 @@ ubuntu-16.04-server-i386.iso --network network=default,model=virtio \
           example.</p>
         </li>
 <li class="list itemizedlist">
-          <p class="para"><span class="em emphasis">-r 256:</span> specifies the amount of memory
+          <p class="para"><span class="em emphasis">-r 512:</span> specifies the amount of memory
           the virtual machine will use in megabytes.</p>
         </li>
 <li class="list itemizedlist">

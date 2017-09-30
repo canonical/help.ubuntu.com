@@ -65,14 +65,9 @@
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
-<div class="region"><ul>
-<li class="links ">
-<a href="translate.html" title="Participate to improve translations">Participate to improve translations</a><span class="desc"> — How and where to help translate these topics.</span>
-</li>
-<li class="links ">
+<div class="region"><ul><li class="links ">
 <a href="report-ubuntu-bug.html" title="Αναφορά προβλήματος στο Ubuntu">Αναφορά προβλήματος στο Ubuntu</a><span class="desc"> — Πώς και πού μπορούν να αναφερθούν προβλήματα σχετικά με το Ubuntu.</span>
-</li>
-</ul></div>
+</li></ul></div>
 </div></div>
 </div>
 </div>

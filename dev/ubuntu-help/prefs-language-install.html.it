@@ -51,8 +51,11 @@
 <div class="contents">
 <p class="p">Al momento dell'installazione di Ubuntu, la lingua prescelta viene installata insieme all'inglese, ma è comunque possibile aggiungere ulteriori lingue.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the <span class="em">system menu</span> and select <span class="gui">System Settings</span>.</p></li>
-<li class="steps"><p class="p">Nella sezione «Personale», fare clic su <span class="gui">Supporto lingue</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+      start typing <span class="gui">Region &amp; Language</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Manage Installed Languages</span> button to open <span class="gui">Language
+      Support</span>.</p></li>
 <li class="steps"><p class="p">Fare clic su <span class="gui">Installa/Rimuovi lingue...</span>. La finestra <span class="gui">Lingue installate</span> elenca tutte le lingue disponibili, con la spunta sulle lingue installate attualmente.</p></li>
 <li class="steps"><p class="p">Selezionare le lingue da installare e deselezionare quelle attualmente installate da rimuovere.</p></li>
 <li class="steps"><p class="p">Fare clic su <span class="gui">Applica modifiche</span>.</p></li>
@@ -89,7 +92,7 @@
 <a href="prefs-language.html" title="Region &amp; Language">Region &amp; Language</a><span class="desc"> — 
       <span class="link"><a href="session-language.html" title="Cambiare la lingua utilizzata">Language</a></span>,
       <span class="link"><a href="session-formats.html" title="Modificare data e unità di misura">region and formats</a></span>,
-      <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">keyboard layouts</a></span>…
+      <span class="link"><a href="keyboard-layouts.html" title="Usare disposizioni di tastiera alternative">keyboard layouts</a></span>…
     </span>
 </li>
 </ul></div>

@@ -50,13 +50,14 @@
 <div class="region">
 <div class="contents">
 <p class="p">如果惯于使用 Windows 或 Mac OS，则也很可能惯于始终都在运行防病毒软件。防病毒软件在后台运行，不断检查计可能会设法侵入计算机的计算机病毒。</p>
-<p class="p">Anti-virus software does exist for Linux, but you probably don't need to
+<p class="p">Anti-virus software does exist for Linux, but you probably don’t need to
   use it. Viruses that affect Linux are still very rare. Some argue that this
   is because Linux is not as widely used as other operating systems, so no one
   writes viruses for it. Others argue that Linux is intrinsically more secure,
   and security problems that viruses could make use of are fixed very
   quickly.</p>
-<p class="p">不管是什么原因，Linux 病毒非常罕见，您实在是不必担心它们。</p>
+<p class="p">Whatever the reason, Linux viruses are so rare that you don’t really need
+  to worry about them at the moment.</p>
 <p class="p">如果您想获得额外的安全防护，或者您想检查由使用 Windows 或 Mac OS 系统用户发来的文件，您也可以安装一款防病毒软件，搜索软件包管理器或者网络，有许多可用的应用程序。</p>
 </div>
 <div class="sect sect-links" role="navigation">

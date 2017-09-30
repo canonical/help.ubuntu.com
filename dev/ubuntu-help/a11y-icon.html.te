@@ -67,7 +67,14 @@
 <li class="steps"><p class="p">Switch <span class="gui">Always Show Universal Access Menu</span> to
       <span class="gui">ON</span>.</p></li>
 </ol></div></div></div>
-<p class="p">మౌస్ కన్నా కీబోర్డు వుపయోగించి ఈ మెనూను ఏక్సెస్ చేయుటకు, కీబోర్డ్ దృష్టిని పై పట్టీనకు కదుల్చుటకు <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> వత్తండి. <span class="gui">కార్యకలాపాల</span> బటన్ కిందన వొక తెల్లని లైను కనిపించును - పై పట్టీ నందు ఏ అంశం ఎంపికకాబడెనో ఇది మీకు చెప్పును. బాణపు కీలను వుపయోగించి తెల్ల లైనును సార్వత్రిక ఏక్సెస్ మెనూ ప్రతిమ కిందకు కదిపి దానిని తెరుచుటకు <span class="key"><kbd>Enter</kbd></span> వత్తుము. మెనూ నందలి అంశములను ఎంపికచేయుటకు మీరు పైన మరియు కింద బాణపు గుర్తులను వుపయోగించవచ్చు. ఎంచిన అంశమును మార్చుటకు <span class="key"><kbd>Enter</kbd></span> వత్తుము.</p>
+<p class="p">To access this menu using the keyboard rather than the mouse, press
+  <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> to move the
+  keyboard focus to the top bar. A white line will appear underneath the
+  <span class="gui">Activities</span> button — this tells you which item on the top bar is
+  selected. Use the arrow keys on the keyboard to move the white line under the
+  universal access menu icon and then press <span class="key"><kbd>Enter</kbd></span> to open it. You
+  can use the up and down arrow keys to select items in the menu. Press
+  <span class="key"><kbd>Enter</kbd></span> to toggle the selected item.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

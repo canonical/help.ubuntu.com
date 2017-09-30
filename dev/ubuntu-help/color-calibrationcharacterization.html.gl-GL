@@ -2,7 +2,7 @@
 <html lang=gl-GL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Cal é a diferenza entre calibración e caracterización?</title>
+<title>What’s the difference between calibration and characterization?</title>
 <link rel="stylesheet" type="text/css" href="gl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -50,7 +50,7 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Cal é a diferenza entre calibración e caracterización?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">What’s the difference between calibration and characterization?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Ao principio moita xente está confundida coa diferenza entre calibración e caracterización. A calibración é o proceso de modificar o comportamente de cor dun dispositivo. Xeralmente realízase a través de dous mecanismos:</p>
@@ -60,7 +60,11 @@
 </ul></div></div></div>
 <p class="p">A idea de calibración é a de poñer un dispositivo nun estado definido dependendo da súa resposta de cor. Xeralmente úsase como un instrumento do día a día para manter un comportamento reproducíbel. Tipicamente, a calibración almacénase en formatos de ficheiro específicos de dispositivo ou sistema que gardan a configuración do dispositivo ou curvas de calibración por canle.</p>
 <p class="p">A caracterización (ou perfilado) é <span class="em">gravar</span> a forma na que un dispositivo reproduce ou responde á cor. Xeralmente o resultado almacénase nun perfíl ICC de dispositivo. Tal perfil non modifica por si mesmo a cor en ningunha medida. Permite ao sistema tal como o CMM (módulo de xestión de cor, «Color Management Module») ou a un aplicativo capaz de xestionar cor, modificar a cor ao combinarse con outro perfil de cor. Só sabendo as características de dous dispositivos se pode transferir a cor dun dispositivo a outro.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Teña en conta que unha caracterización (perfil) só será válida para un dispositivo se está no mesmo estado de calibración no que estaba cando se caracterizou.</p></div></div></div></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">
+      Note that a characterization (profile) will only be valid for a device
+      if it’s in the same state of calibration as it was when it was
+      characterized.
+    </p></div></div></div></div>
 <p class="p">No caso de perfiles de pantalla existe certa confusión adicional xa que a información de calibrado almacénase no perfil de conveniencia. Por convenio, almacénase nunha etiqueta denominada <span class="em">cvgt</span>. Aínda que se almacena no perfil, ningunha das ferramentas ou aplicativos normais baseadas en ICC a teñen en conta. De igual forma, as ferramentas de calibrado e aplicativos típicos non son conscientes nin traballan coa información de caracterización (perfíl) ICC.</p>
 </div>
 <div class="sect sect-links" role="navigation">

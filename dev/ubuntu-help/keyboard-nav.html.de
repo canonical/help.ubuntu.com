@@ -56,7 +56,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Dieser Abschnitt beschreibt detailliert die Tastaturnavigation für Benutzer, die keine Maus oder ein anderes Zeigegerät verwenden können, oder die ihre Tastatur so viel wie möglich nutzen wollen. In <span class="link"><a href="shell-keyboard-shortcuts.html" title="Nützliche Tastenkombinationen">Nützliche Tastenkombinationen</a></span> finden Sie Tastenkombinationen, die für alle Benutzer nützlich sind.</p>
-<div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">Wenn es Ihnen schwer fällt, eine Maus oder andere Zeigegeräte zu verwenden, können Sie den Mauszeiger mit Hilfe des Nummernblocks Ihrer Tastatur bewegen. Weitere Details finden Sie in <span class="link"><a href="mouse-mousekeys.html" title="Klicken und Bewegen des Mauszeigers mit dem Nummernblock der Tastatur">Klicken und Bewegen des Mauszeigers mit dem Nummernblock der Tastatur</a></span></p></div></div></div></div>
+<div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">Wenn es Ihnen schwer fällt, eine Maus oder andere Zeigegeräte zu verwenden, können Sie den Mauszeiger mit Hilfe des Nummernblocks Ihrer Tastatur bewegen. Weitere Details finden Sie in <span class="link"><a href="mouse-mousekeys.html" title="Klicken und Bewegen des Mauszeigers mit dem Nummernblock der Tastatur">Klicken und Bewegen des Mauszeigers mit dem Nummernblock der Tastatur</a></span>.</p></div></div></div></div>
 <div class="table"><div class="inner">
 <div class="title title-table"><h2><span class="title">Navigieren in Benutzeroberflächen</span></h2></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
@@ -69,10 +69,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Pfeiltasten</p></td>
-<td style="border-top-style: solid;">
-<p class="p">Bewegen Sie die Auswahl zwischen Objekten in einem einzelnen Bedienelement, oder in einem Bereich aus aufeinander bezogenen Elementen. Verwenden Sie die Pfeiltasten, um die Knöpfe in einer Werkzeugleiste zu fokussieren oder die Objekte einer Listen- oder Symbolansicht oder einen Radioknopf aus einer Gruppe auszuwählen.</p>
-<p class="p">In einer Baumansicht können Sie die linke und rechte Pfeiltaste verwenden, um Objekte mit Unterelementen aus- oder einzuklappen.</p>
-</td>
+<td style="border-top-style: solid;"><p class="p">Bewegen Sie die Auswahl zwischen Objekten in einem einzelnen Bedienelement, oder in einem Bereich aus aufeinander bezogenen Elementen. Verwenden Sie die Pfeiltasten, um die Knöpfe in einer Werkzeugleiste zu fokussieren oder die Objekte einer Listen- oder Symbolansicht oder einen Radioknopf aus einer Gruppe auszuwählen.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Strg</kbd></span>+<span class="key"><kbd>Pfeiltasten</kbd></span></span></p></td>
@@ -81,6 +78,7 @@
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Umschalttaste</kbd></span>+<span class="key"><kbd>Pfeiltasten</kbd></span></span></p></td>
 <td style="border-top-style: solid;"><p class="p">In einer Listen- oder Symbolansicht wählen Sie alle Objekte vom aktuell ausgewählten Objekt bis zum neu fokussierten Objekt aus.</p></td>
+<td style="border-top-style: solid;"><p class="p">In einer Baumansicht können Objekte eingeklappt oder ausgeklappt sein. Um diese anzuzeigen, drücken Sie <span class="keyseq"><span class="key"><kbd>Umschalttaste</kbd></span>+<span class="key"><kbd>→</kbd></span></span> oder zum Einklappen <span class="keyseq"><span class="key"><kbd>Umschalttaste</kbd></span>+<span class="key"><kbd>←</kbd></span></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Leertaste</kbd></span></p></td>
@@ -115,7 +113,7 @@
 <td style="border-top-style: solid;"><p class="p">In der Dateiverwaltung das Kontextmenü für den aktuellen Ordner öffnen, wie mit einem Klick mit der rechten Maustaste auf den Hintergrund und nicht auf ein Objekt. </p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Durch Drücken von <span class="keyseq"><span class="key"><kbd>Strg</kbd></span>+<span class="key"><kbd>Bild auf</kbd></span></span> und <span class="keyseq"><span class="key"><kbd>Strg</kbd></span>+<span class="key"><kbd>Bild ab</kbd></span></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Strg</kbd></span>+<span class="key"><kbd>Bild auf</kbd></span></span> und <span class="keyseq"><span class="key"><kbd>Strg</kbd></span>+<span class="key"><kbd>Bild ab</kbd></span></span></p></td>
 <td style="border-top-style: solid;"><p class="p">Wechseln Sie in einer Reiteransicht zum Reiter links oder rechts.</p></td>
 </tr>
 </table></div>
@@ -181,7 +179,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Umschalttaste</kbd></span>+<span class="key"><kbd>Bild auf</kbd></span></span> und <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Umschalttaste</kbd></span>+<span class="key"><kbd>Bild ab</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html" title="Fenster auf eine andere Arbeitsfläche verschieben">Das aktuelle Fenster auf eine andere Arbeitsfläche verschieben.</a></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html" title="Fenster auf eine andere Arbeitsfläche verschieben">Das aktuelle Fenster auf eine andere Arbeitsfläche verschieben</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Umschalttaste</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>

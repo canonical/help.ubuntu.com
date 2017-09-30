@@ -56,7 +56,13 @@
 <p class="p">Barvni profil je zbirka podatkov, ki karakterizira napravo kot je projektor ali barvni prostor kot je sRGB.</p>
 <p class="p">Večina barvnih profilov je v obliki ICC, majhni datoteki s pripono datoteke <span class="input">.ICC</span> ali <span class="input">.ICM</span>.</p>
 <p class="p">Barvne profile lahko vstavite v slike za določitev obsega game v podatke. To zagotovi, da uporabnik vidi isto barvo na različnih napravah.</p>
-<p class="p">Vsaka naprava, ki obdeluje barvo, bi morala imeti svoj profil ICC in ko je to doseženo ima sistem <span class="em">barvno upravljano delo od enega do drugega konca</span>. V tem primeru ste lahko prepričani, da se barve ne izgubljajo ali spreminjajo.</p>
+<p class="p">
+    Every device that is processing color should have its own ICC
+    profile and when this is achieved the system is said to have an
+    <span class="em">end-to-end color-managed workflow</span>.
+    With this kind of workflow you can be sure that colors are not being
+    lost or modified.
+  </p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Sort files and folders</title>
+<title>Bestanden en mappen sorteren</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,70 +43,48 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html#common-file-tasks" title="Common tasks">Common tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Sort files and folders</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Bestanden en mappen sorteren</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can sort files in different ways in a folder, for example by sorting them
-in order of date or file size. See <span class="link"><a href="#ways" title="Ways of sorting files">Ways of sorting files</a></span> below for a list of
-common ways to sort files. See <span class="link"><a href="nautilus-views.html" title="Views preferences in Files">Views preferences in <span class="app">Files</span></a></span> for information on
-how to change the default sort order.</p>
-<p class="p">The way that you can sort files depends on the <span class="em">folder view</span> that you
-are using. You can change the current view using the list or icon buttons in the
-toolbar.</p>
+<p class="p">U kan bestanden in een map op verschillende manieren sorteren. bijvoorbeeld door ze op datum of bestandsgrootte te sorteren. Zie onderstaande <span class="link"><a href="#ways" title="Manieren om bestanden te sorteren">Manieren om bestanden te sorteren</a></span> voor een lijst van veelgebruikte manieren om bestanden te sorteren. Zie <span class="link"><a href="nautilus-views.html" title="Weergaven-voorkeuren in Bestanden">Weergaven-voorkeuren in <span class="app">Bestanden</span></a></span> voor informatie over hoe u de standaard sorteervolgorde kunt wijzigen.</p>
+<p class="p">De manier waarop us bestanden kunt sorteren is afhankelijk van de door u gebruikte <span class="em">folderweergave</span>. U kan met behulp van de lijst of pictogramknoppen in de taakbalk de huidige weergave wijzigen.</p>
 </div>
 <div id="icon-view" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Icon view</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Pictogramweergave</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">To sort files in a different order, click the view options button in the
-  
-  toolbar and choose <span class="gui">By Name</span>, <span class="gui">By Size</span>, <span class="gui">By
-  Type</span>, <span class="gui">By Modification Date</span>, or <span class="gui">By Access
-  Date</span>.</p>
-<p class="p">As an example, if you select <span class="gui">By Name</span>, the files will be sorted
-  by their names, in alphabetical order. See <span class="link"><a href="#ways" title="Ways of sorting files">Ways of sorting files</a></span> for other
-  options.</p>
-<p class="p">You can sort in the reverse order by selecting <span class="gui">Reversed Order</span>
-  from the menu.</p>
+<p class="p">Om bestanden in een andere volgorde te sorteren: klik in de taakbalk op de knop Weergaveopties en kies <span class="gui">Op naam</span>, <span class="gui">Op grootte</span>, <span class="gui">Op type</span>, <span class="gui">Op wijzigingsdatum</span> of op <span class="gui">Benaderd</span>.</p>
+<p class="p">Als u bijvoorbeeld <span class="gui">Op naam</span> kiest, zullen de bestanden in alfabetische volgorde op naam worden gesorteerd. Zie <span class="link"><a href="#ways" title="Manieren om bestanden te sorteren">Manieren om bestanden te sorteren</a></span> voor andere opties.</p>
+<p class="p">U kunt in omgekeerde volgorde sorteren door in het menu <span class="gui">Omgekeerde volgorde</span> te kiezen.</p>
 </div></div>
 </div></div>
 <div id="list-view" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">List view</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Lijstweergave</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">To sort files in a different order, click one of the column headings in
-  the file manager. For example, click <span class="gui">Type</span> to sort by file type.
-  Click the column heading again to sort in the reverse order.</p>
-<p class="p">In list view, you can show columns with more attributes and sort on those
-  columns. Click the view options button in the toolbar, pick <span class="gui">Visible
-  
-  Columns…</span> and select the columns that you want to be visible. You will
-  then be able to sort by those columns. See <span class="link"><a href="nautilus-list.html" title="Files list columns preferences">Files list columns preferences</a></span> for
-  descriptions of available columns.</p>
+<p class="p">Om bestanden in een andere volgorde te sorteren klikt u op één van de kolommen in bestandsbeheer. Klik bijvoorbeeld op <span class="gui">Type</span> om te sorteren op bestandstype. Klik opnieuw op de kolom om in de omgekeerde volgorde te sorteren.</p>
+<p class="p">In lijstweergave kunt u kolommen met meer attributen laten weergeven en op die kolommen sorteren. Klik in de taakbalk op de knop Weergaveopties en kies <span class="gui">Zichtbare kolommen…</span> en selecteer de kolommen waarvan u wilt dat die zichtbaar zijn. U kunt vervolgens op die kolommen sorteren. Zie <span class="link"><a href="nautilus-list.html" title="Files list columns preferences">Files list columns preferences</a></span> voor een beschrijving van de beschikbare kolommen.</p>
 </div></div>
 </div></div>
 <div id="ways" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Ways of sorting files</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Manieren om bestanden te sorteren</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms">Name</dt>
-<dd class="terms"><p class="p">Sorts alphabetically by the name of the file.</p></dd>
-<dt class="terms">Size</dt>
-<dd class="terms"><p class="p">Sorts by the size of the file (how much disk space it takes up). Sorts
-      from smallest to largest by default.</p></dd>
+<dt class="terms">Naam</dt>
+<dd class="terms"><p class="p">Sorteert op alfabetische volgorde op de naam van het bestand.</p></dd>
+<dt class="terms">Grootte</dt>
+<dd class="terms"><p class="p">Sorteert op de bestandsgrootte (hoeveel schijfruimte het inneemt). Sorteert standaard van kleinste naar grootste bestand.</p></dd>
 <dt class="terms">Type</dt>
-<dd class="terms"><p class="p">Sorts alphabetically by the file type. Files of the same type are
-      grouped together, then sorted by name.</p></dd>
-<dt class="terms">Last Modified</dt>
-<dd class="terms"><p class="p">Sorts by the date and time that a file was last changed. Sorts from
-      oldest to newest by default.</p></dd>
+<dd class="terms"><p class="p">Sorteert op alfabetisch volgorde op het bestandstype. Bestanden van hetzelfde type zijn gegroepeerd, vervolgens gesorteerd op naam.</p></dd>
+<dt class="terms">Laatst gewijzigd</dt>
+<dd class="terms"><p class="p">Sorteert de datum en tijd waarop een bestand voor het laatst is gewijzigd. Sorteert standaard van oud naar nieuw.</p></dd>
 </dl></div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Common tasks">Common tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

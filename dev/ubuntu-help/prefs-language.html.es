@@ -51,7 +51,7 @@
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="linkdiv "><a class="linkdiv" href="session-language.html" title="Cambiar el idioma que usa"><span class="title">Cambiar el idioma que usa</span><span class="linkdiv-dash"> — </span><span class="desc">Cambiar a un idioma diferente la interfaz de usuario y el texto de la ayuda.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="session-formats.html" title="Cambiar la fecha y los formatos de medida"><span class="title">Cambiar la fecha y los formatos de medida</span><span class="linkdiv-dash"> — </span><span class="desc">Elija una región usada para fecha, hora, números, moneda y medidas.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="keyboard-layouts.html" title="Use alternative keyboard layouts"><span class="title">Use alternative keyboard layouts</span><span class="linkdiv-dash"> — </span><span class="desc">Add keyboard layouts and switch between them.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="keyboard-layouts.html" title="Usar distribuciones de teclado alternativas"><span class="title">Usar distribuciones de teclado alternativas</span><span class="linkdiv-dash"> — </span><span class="desc">Añadir distribuciones de teclado y cambiar entre ellas.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

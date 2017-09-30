@@ -50,16 +50,16 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html" title="I can’t see my wireless network in the list"><span class="title">I can’t see my wireless network in the list</span><span class="linkdiv-dash"> — </span><span class="desc">The wireless could be turned off or broken, or you may be trying to
+    connect to a hidden network.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-slow.html" title="Internet terasa lambat"><span class="title">Internet terasa lambat</span><span class="linkdiv-dash"> — </span><span class="desc">Other things might be downloading, you could have a poor connection,
     or it could be a busy time of day.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-disconnecting.html" title="Mengapa jaringan nirkabel saya terputus terus?"><span class="title">Mengapa jaringan nirkabel saya terputus terus?</span><span class="linkdiv-dash"> — </span><span class="desc">You might have low signal, or the network might not be letting you
     connect properly.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-othersconnect.html" title="Pengguna lain tak bisa menyambung ke internet"><span class="title">Pengguna lain tak bisa menyambung ke internet</span><span class="linkdiv-dash"> — </span><span class="desc">You can save settings (like the password) for a network connection so that everyone who uses the computer will be able to connect to it.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-othersedit.html" title="Pengguna lain tak bisa menyunting koneksi jaringan"><span class="title">Pengguna lain tak bisa menyunting koneksi jaringan</span><span class="linkdiv-dash"> — </span><span class="desc">You need to uncheck the <span class="gui">Available to all users</span> option in the network connection settings.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html" title="Saya tak bisa melihat jaringan nirkabelku dalam daftar"><span class="title">Saya tak bisa melihat jaringan nirkabelku dalam daftar</span><span class="linkdiv-dash"> — </span><span class="desc">The wireless could be turned off or broken, or you may be trying to
-    connect to a hidden network.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-othersconnect.html" title="Other users can’t connect to the internet"><span class="title">Other users can’t connect to the internet</span><span class="linkdiv-dash"> — </span><span class="desc">You can save settings (like the password) for a network connection so that everyone who uses the computer will be able to connect to it.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-othersedit.html" title="Other users can’t edit the network connections"><span class="title">Other users can’t edit the network connections</span><span class="linkdiv-dash"> — </span><span class="desc">You need to uncheck the <span class="gui">Available to all users</span> option in the network connection settings.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -74,11 +74,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Jaringan Nirkabel">Jaringan Nirkabel</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html" title="Menyambung ke jaringan nirkabel">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="Menyambung ke suatu jaringan nirkabel tersembunyi">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="Mengapa jaringan nirkabel saya terputus terus?">Disconnecting</a></span>…
-    </span>
+<a href="net-wireless.html" title="Jaringan Nirkabel">Jaringan Nirkabel</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Menyambung ke jaringan nirkabel">Menyambung ke wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Menyambung ke suatu jaringan nirkabel tersembunyi">Jaringan tersembunyi</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Mengapa jaringan nirkabel saya terputus terus?">Memutus</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

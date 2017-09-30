@@ -49,7 +49,9 @@
 <div class="hgroup"><h1 class="title"><span class="title">Ввод специальных символов</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Можно просмотреть и ввести тысячи различных символов из большинства систем письма народов мира, даже если эти символы отсутствуют на клавиатуре. Ниже перечислены несколько различных способов ввода специальных символов.</p>
+<p class="p">You can enter and view thousands of characters from most of the world’s
+  writing systems, even those not found on your keyboard. This page lists
+  some different ways you can enter special characters.</p>
 <div role="navigation" class="links sectionlinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Способы ввода символов</span></h2></div>
 <div class="region"><ul>
@@ -84,16 +86,21 @@
 <div class="hgroup"><h2 class="title"><span class="title">Клавиша Compose</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Клавиша Compose — это специальная клавиша, позволяющая вводить специальные символы с помощью определённых комбинаций клавиш. Например, чтобы ввести символ <span class="em">é</span>, нужно нажать <span class="key"><kbd>Compose</kbd></span>, затем <span class="key"><kbd>'</kbd></span> и <span class="key"><kbd>e</kbd></span>.</p>
-<p class="p">Клавиши Compose нет на клавиатуре, но можно назначить для выполнения её функций одну из имеющихся клавиш.</p>
+<p class="p">Keyboards don’t have specific compose keys. Instead, you can define
+    one of the existing keys on your keyboard as a compose key.</p>
+<div class="note note-important" title="Важно"><div class="inner"><div class="region"><div class="contents"><p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
+      change this setting.</p></div></div></div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">Назначение клавиши Compose</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Define a compose key</span></h3></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
-        start typing <span class="gui">Keyboard</span>.</p></li>
-<li class="steps"><p class="p">Нажмите <span class="gui">Клавиатура</span>, чтобы открыть этот раздел настроек.</p></li>
-<li class="steps"><p class="p">Откройте вкладку <span class="gui">Горячие клавиши</span> и нажмите <span class="gui">Ввод</span>.</p></li>
-<li class="steps"><p class="p">Нажмите на <span class="gui">Клавишу Compose</span> в правой панели.</p></li>
-<li class="steps"><p class="p">Нажмите <span class="gui">Отключено</span> и выберите в выпадающем меню клавишу, которая должна играть роль клавиши compose. Можно выбрать одну из клавиш <span class="key"><kbd>Ctrl</kbd></span>, правую клавишу <span class="key"><kbd>Alt</kbd></span>, правую клавишу <span class="key"><kbd>Win</kbd></span> или клавишу <span class="key"><a href="keyboard-key-super.html" title="Что такое клавиша Super?"><kbd>Super</kbd></a></span>, если она есть на клавиатуре, клавишу<span class="key"><a href="keyboard-key-menu.html" title="Что такое клавиша Меню?"><kbd>Menu</kbd></a></span>, клавишу <span class="key"><kbd>Caps Lock</kbd></span>. Любая выбранная клавиша будет в дальнейшем работать только как клавиша compose, и больше не будет выполнять свой первоначальный функционал.</p></li>
+      start typing <span class="gui">Tweaks</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Tweaks</span> to open the application.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Keyboard &amp; Mouse</span> tab.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Disabled</span> next to the <span class="gui">Compose Key</span> setting.</p></li>
+<li class="steps"><p class="p">Turn the switch on in the dialog and pick the keyboard shortcut you want to use.</p></li>
+<li class="steps"><p class="p">Tick the checkbox of the key that you want to set as the Compose key.</p></li>
+<li class="steps"><p class="p">Close the <span class="gui">Tweaks</span> window.</p></li>
 </ol></div>
 </div></div>
 <p class="p">С помощью клавиши Compose можно вводить некоторые часто используемые символы, например:</p>
@@ -110,12 +117,17 @@
 <div class="hgroup"><h2 class="title"><span class="title">Коды символов</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Можно ввести любой символ Unicode, набрав на клавиатуре его четырёхзначный код. Чтобы узнать код символа, найдите этот символ в приложении «Таблица символов» и посмотрите на строку состояния или содержимое вкладки <span class="gui">Подробности о символе</span>. Код символа — это четыре символа после <span class="gui">U+</span>.</p>
-<p class="p">Чтобы ввести символ по его коду, удерживайте нажатыми клавиши <span class="key"><kbd>Ctrl</kbd></span> и <span class="key"><kbd>Shift</kbd></span> и наберите <span class="key"><kbd>U</kbd></span> и четырёхсимвольный код, затем отпустите клавиши <span class="key"><kbd>Ctrl</kbd></span> и <span class="key"><kbd>Shift</kbd></span>. Если вы часто используете символы, которые сложно ввести другими способами, может быть полезно запомнить коды таких символов, чтобы быстро их вводить.</p>
+<p class="p">To enter a character by its code point, hold down <span class="key"><kbd>Ctrl</kbd></span> and
+  <span class="key"><kbd>Shift</kbd></span>, type <span class="key"><kbd>U</kbd></span> followed by the four-character code
+  point, then release <span class="key"><kbd>Ctrl</kbd></span> and <span class="key"><kbd>Shift</kbd></span>. If you often use
+  characters that you can’t easily access with other methods, you might find
+  it useful to memorize the code point for those characters so you can enter
+  them quickly.</p>
 </div></div>
 </div></div>
 <div id="layout" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Раскладки клавиатуры</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Можно сделать так, чтобы ваша клавиатура вела себя как клавиатура для другого языка, независимо от того, какие буквы изображены на клавишах. Можно даже легко переключаться между различными раскладками клавиатуры, используя значок в верхней панели. О том, как это делать, смотрите <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a></span>.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Можно сделать так, чтобы ваша клавиатура вела себя как клавиатура для другого языка, независимо от того, какие буквы изображены на клавишах. Можно даже легко переключаться между различными раскладками клавиатуры, используя значок в верхней панели. О том, как это делать, смотрите <span class="link"><a href="keyboard-layouts.html" title="Использование альтернативных раскладок клавиатуры">Использование альтернативных раскладок клавиатуры</a></span>.</p></div></div>
 </div></div>
 <div id="im" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Методы ввода</span></h2></div>
@@ -136,7 +148,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
+<a href="keyboard-layouts.html" title="Использование альтернативных раскладок клавиатуры">Использование альтернативных раскладок клавиатуры</a><span class="desc"> — Добавьте раскладки клавиатуры и переключайтесь между ними.</span>
 </li></ul></div>
 </div></div>
 </div>

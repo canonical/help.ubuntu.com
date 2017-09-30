@@ -50,7 +50,9 @@
 <div class="region">
 <div class="contents">
 <p class="p">Vaš računalnik bo za določene vrste sporočil in dogodkov predvajal enostaven zvok alarma. V primeru, da te zvoke težko slišite, lahko nastavite, da vaš celoten zaslon ali vaše trenutno okno zabliska, ko se predvaja zvok alarma.</p>
-<p class="p">To je lahko uporabno tudi, če ste v okolju, kjer mora biti vaš računalnik tih, kot je na primer knjižnica. Oglejte si <span class="link"><a href="sound-alert.html" title="Izbira ali onemogočitev opozorilnega zvoka">Izbira ali onemogočitev opozorilnega zvoka</a></span> za podatke o tem kako narediti zvok alarma nem in nato omogočite vidna opozorila.</p>
+<p class="p">This can also be useful if you’re in an environment where you need your
+  computer to be silent, such as in a library. See <span class="link"><a href="sound-alert.html" title="Izbira ali onemogočitev opozorilnega zvoka">Izbira ali onemogočitev opozorilnega zvoka</a></span>
+  to learn how to mute the alert sound, then enable visual alerts.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p></li>

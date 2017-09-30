@@ -69,7 +69,7 @@
   GUI:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka <span class="app">Pengaturan</span> dari ringkasan <span class="gui">Aktivitas</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Sound</span>.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Suara</span>.</p></li>
 <li class="steps"><p class="p">Go to the <span class="gui">Applications</span> tab and check that your application
       is not muted.</p></li>
 </ol></div></div></div>
@@ -80,7 +80,7 @@
 <div class="region"><div class="contents">
 <p class="p">If your computer has external speakers, make sure that they are turned on
   and that the volume is turned up. Make sure that the speaker cable is securely
-  plugged into the "output" audio socket on your computer. This socket
+  plugged into the “output” audio socket on your computer. This socket
   is usually light green in color.</p>
 <p class="p">Some sound cards can switch between the socket they use for output
   (to the speakers) and the socket for input (from a microphone, for instance).
@@ -94,13 +94,12 @@
 <div id="device" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Check that the correct sound device is selected</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Some computers have multiple "sound devices" installed. Some of these are
+<p class="p">Some computers have multiple “sound devices” installed. Some of these are
   capable of outputting sound and some are not, so you should check that you
   have the correct sound device selected. This might involve some
   trial-and-error to choose the right one.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span> overview and
-      start typing <span class="gui">Sound</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Suara</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Suara</span> untuk membuka panel.</p></li>
 <li class="steps">
 <p class="p">In the <span class="gui">Output</span> tab, change the <span class="gui">Profile</span>

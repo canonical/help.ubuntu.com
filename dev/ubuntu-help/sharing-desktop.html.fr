@@ -64,7 +64,9 @@
 <div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">Si le texte sous <span class="gui">Nom de l'ordinateur</span> le permet, vous pouvez <span class="link"><a href="sharing-displayname.html" title="Choix d'un nom public pour votre ordinateur">changer</a></span> le nom que votre ordinateur affiche sur le réseau.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Choisissez <span class="gui">Partage de l'écran</span>.</p></li>
-<li class="steps"><p class="p">Pour autoriser d'autres personnes à voir votre bureau, basculez <span class="gui">Partage d'écran</span> sur <span class="gui">Activé</span>. Maintenant, d'autres personnes peuvent tenter de se connecter à votre ordinateur pour voir ce qu'il y a d'affiché.</p></li>
+<li class="steps"><p class="p">To let others view your desktop, switch <span class="gui">Screen Sharing</span> to
+      <span class="gui">ON</span>. This means that other people will be able to attempt to
+      connect to your computer and view what’s on your screen.</p></li>
 <li class="steps">
 <p class="p">Pour laisser d'autres personnes interagir avec votre bureau, basculez <span class="gui">Autoriser le contrôle à distance</span> sur <span class="gui">Activé</span>. Cette action permet à un utilisateur distant de déplacer le pointeur de votre souris, de lancer des applications et de consulter des fichiers sur votre ordinateur en fonction des paramètres de sécurité que vous avez définis.</p>
 <div class="note note-tip" title="Astuce"><div class="inner"><div class="region"><div class="contents"><p class="p">Cette option est activée par défaut quand <span class="gui">Partage d'écran</span> est <span class="gui">Activé</span>.</p></div></div></div></div>

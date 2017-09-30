@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Use alternative keyboard layouts</title>
+<title>Alternatieve toetsenbordindelingen gebruiken</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,30 +44,37 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="keyboard.html" title="Keyboard">Keyboard</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="keyboard.html" title="Toetsenbord">Toetsenbord</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="keyboard.html" title="Keyboard">Keyboard</a> » <a class="trail" href="keyboard-shortcuts-set.html" title="Set keyboard shortcuts">Set keyboard shortcuts</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="keyboard.html" title="Toetsenbord">Toetsenbord</a> » <a class="trail" href="keyboard-shortcuts-set.html" title="Sneltoetsen instellen">Sneltoetsen instellen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="keyboard.html" title="Keyboard">Keyboard</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="prefs-language.html" title="Regio &amp; taal">Regio &amp; taal</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="keyboard.html" title="Keyboard">Keyboard</a> » <a class="trail" href="keyboard-shortcuts-set.html" title="Set keyboard shortcuts">Set keyboard shortcuts</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="keyboard.html" title="Toetsenbord">Toetsenbord</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="prefs-language.html" title="Region &amp; Language">Region &amp; Language</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="keyboard.html" title="Toetsenbord">Toetsenbord</a> » <a class="trail" href="keyboard-shortcuts-set.html" title="Sneltoetsen instellen">Sneltoetsen instellen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Use alternative keyboard layouts</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Alternatieve toetsenbordindelingen gebruiken</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Toetsenborden zijn er in honderden verschillende indelingen voor verschillende talen. Zelfs voor één taal zijn er vaak meerdere toetsenbordindelingen, zoals de Dvorak-indeling voor Engels. U kunt uw toetsenbord zo instellen dat deze zich gedraagt als een toetsenbord met een andere indeling, ongeacht de letters en symbolen die u op de toetsen ziet staan. Dit is handig wanneer u vaak wisselt van taal.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activities</a></span> overview and
       start typing <span class="gui">Region &amp; Language</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">+</span> button in the <span class="gui">Input Sources</span> section,
       select the language which is associated with the layout, then select a
       layout and press <span class="gui">Add</span>.</p></li>
 </ol></div></div></div>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Some rarely used keyboard layout variants are not available by default when you click
+    the <span class="gui">+</span> button. To make also those input sources available you can open a terminal
+    window by pressing <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span>
+    and run this command:</p>
+<p class="p"><span class="cmd">gsettings set org.gnome.desktop.input-sources show-all-sources true</span></p>
+</div></div></div></div>
 <div class="note note-sidebar" title="Zijbalk"><div class="inner"><div class="region"><div class="contents"><p class="p">You can preview an image of any layout by selecting it in the list of
     <span class="gui">Input Sources</span> and clicking
     <span class="gui"><span class="media"><span class="media media-image"><img src="figures/input-keyboard-symbolic.png" height="16" width="16" class="media media-inline" alt="preview"></span></span></span></p></div></div></div></div>
@@ -80,7 +87,7 @@
   to the extra settings.</p>
 <p class="p">When you use multiple layouts, you can choose to have all windows use the
   same layout or to set a different layout for each window. Using a different
-  layout for each window is useful, for example, if you're writing an article
+  layout for each window is useful, for example, if you’re writing an article
   in another language in a word processor window. Your keyboard selection will
   be remembered for each window as you switch between windows. Press the
   <span class="gui">Options</span> button to select how you want to manage
@@ -95,7 +102,7 @@
   <span class="gui">Input Source</span> <span class="gui">Keyboard Shortcuts</span>. These shortcuts open 
   the <span class="gui">Input Source</span> chooser where you can move forward and backward. 
   By default, you can switch to the next input source with 
-  <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Space</kbd></span></span>
+  <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Space</kbd></span></span>
   and to the previous one with
   <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Space</kbd></span></span>. You can
   change these shortcuts in the <span class="gui">Keyboard</span> settings.</p>
@@ -108,22 +115,21 @@
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard.html" title="Keyboard">Keyboard</a><span class="desc"> — 
-      <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Keyboard layouts</a></span>,
-      <span class="link"><a href="keyboard-cursor-blink.html" title="Make the keyboard cursor blink">cursor blinking</a></span>,
-      <span class="link"><a href="a11y.html#mobility" title="Mobility impairments">keyboard accessibility</a></span>…
+<a href="prefs-language.html" title="Regio &amp; taal">Regio &amp; taal</a><span class="desc"> — 
+      <span class="link"><a href="session-language.html" title="Een andere taal kiezen voor uzelf">Language</a></span>,
+      <span class="link"><a href="session-formats.html" title="Formaat voor datum en maten wijzigen">region and formats</a></span>,
+      <span class="link"><a href="keyboard-layouts.html" title="Alternatieve toetsenbordindelingen gebruiken">keyboard layouts</a></span>…
     </span>
 </li>
 <li class="links ">
-<a href="prefs-language.html" title="Region &amp; Language">Region &amp; Language</a><span class="desc"> — 
-      <span class="link"><a href="session-language.html" title="Change which language you use">Language</a></span>,
-      <span class="link"><a href="session-formats.html" title="Change date and measurement formats">region and formats</a></span>,
-      <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">keyboard layouts</a></span>…
-    </span>
+<a href="keyboard-shortcuts-set.html" title="Sneltoetsen instellen">Sneltoetsen instellen</a><span class="desc"> — Sneltoetsen definiëren of wijzigen in de <span class="gui">Toetsenbord</span>-instellingen.</span>
 </li>
 <li class="links ">
-<a href="keyboard-shortcuts-set.html" title="Set keyboard shortcuts">Set keyboard shortcuts</a><span class="desc"> — Define or change keyboard shortcuts in <span class="gui">Keyboard</span>
-    settings.</span>
+<a href="keyboard.html" title="Toetsenbord">Toetsenbord</a><span class="desc"> — 
+      <span class="link"><a href="keyboard-layouts.html" title="Alternatieve toetsenbordindelingen gebruiken">Keyboard layouts</a></span>,
+      <span class="link"><a href="keyboard-cursor-blink.html" title="De toetsenbordcursor laten knipperen">cursor blinking</a></span>,
+      <span class="link"><a href="a11y.html#mobility" title="Beperkte mobiliteit">keyboard accessibility</a></span>…
+    </span>
 </li>
 </ul></div>
 </div></div>

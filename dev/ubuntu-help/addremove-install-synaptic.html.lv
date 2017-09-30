@@ -56,7 +56,10 @@
 <div class="hgroup"><h2 class="title"><span class="title">Instalēt programmatūru ar Synaptic</span></h2></div>
 <div class="region"><div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet Synaptic no <span class="gui">paneļa</span> vai <span class="gui">palaidēja</span>. <span class="gui">Autentifikācijas</span> logā jums vajadzēs ievadīt savu paroli.</p></li>
+<li class="steps"><p class="p">
+          Open <span class="app">Synaptic</span> via the <span class="em">Activities</span> search bar. You 
+          will need to enter your password in the <span class="gui">Authenticate</span> window.
+        </p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Search</span>, lai meklētu lietotni, vai spiediet <span class="gui">Sections</span> un meklējiet kategorijās, lai atrastu programmu.</p></li>
 <li class="steps"><p class="p">Spiediet labo peles pogu uz lietotnes, ko vēlaties instalēt, un izvēlieties <span class="gui">Mark for Installation</span>.</p></li>
 <li class="steps"><p class="p">Ja jums prasa papildu izmaiņas, spiediet <span class="gui">Mark</span>.</p></li>

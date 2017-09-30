@@ -49,7 +49,12 @@
 <div class="hgroup"><h1 class="title"><span class="title">WEP மற்றும் WPA என்றால் என்ன?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">WEP மற்றும் WPA (WPA2 உடன்) ஆகியவை உங்கள் வயர்லெஸ் இணைப்பை பாதுகாக்கப் பயன்படும் வெவ்வேறு குறியாக்கக் கருவிகளின் பெயர்களாகும். குறியாக்கம் செய்வதால் உங்கள் பிணைய இணைப்பு குழப்பப்படும் ஆகவே யாரும் உங்களை "ஒட்டுக் கேட்க" முடியாது, அதாவது உதாரனமாக நீங்கள் எந்த வலைப் பக்கங்களைப் பார்க்கிறீர்கள் எனப் பார்க்க முடியாது. WEP என்பது <span class="em">Wired Equivalent Privacy</span> (வயர்டு ஈக்வலனட் ப்ரைவசி) என்பதைக் குறிக்கிறது, WPA என்பது <span class="em">Wireless Protected Access</span> (வயர்லெஸ் ப்ரொட்டக்ட்டட் ஆக்சஸ்) என்பதைக் குறிக்கிறது. WPA2 என்பது WPA தரநிலையின் இரண்டாம் பதிப்பாகும்.</p>
+<p class="p">WEP and WPA (along with WPA2) are names for different encryption tools
+  used to secure your wireless connection. Encryption scrambles the network
+  connection so that no one can “listen in” to it and look at which web pages
+  you are viewing, for example. WEP stands for <span class="em">Wired Equivalent
+  Privacy</span>, and WPA stands for <span class="em">Wireless Protected Access</span>. WPA2 is
+  the second version of the WPA standard.</p>
 <p class="p">குறியாக்கத்தையே பயன்படுத்தாமல் இருப்பதை விட <span class="em">ஏதேனும்</span> ஒரு குறியாக்கத்தைப் பயன்படுத்துவது நல்லது, ஆனால் WEP ஆனது இந்தத் தரநிலைகளுக்கான குறைந்த பாதுகாப்பு கொண்ட முறையாகும், ஆகவே அதைத் தவிர்க்க முடிந்தால் அதைப் பயன்படுத்தாமல் இருப்பது நல்லது. WPA2 என்பது மிக அதிக பாதுகாப்பானது. உங்கள் வயர்லெஸ் கார்டு மற்றும் ரௌட்டர் WPA2 ஐ ஆதரித்தால், உங்கள் வயர்லெஸ் பிணையத்தை அமைக்கும் போது நீங்கள் அதையே பயன்படுத்த வேண்டும்.</p>
 </div>
 <div class="sect sect-links" role="navigation">

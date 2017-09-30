@@ -53,9 +53,25 @@
 <div class="hgroup"><h1 class="title"><span class="title">Conectar a unha VPN</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Unha VPN (ou <span class="em">Rede privada virtual</span>) é unha forma de conectarse a unha rede local empregando internet. Por exemplo, digamos que quere conectarse a unha rede local no seu lugar de traballo mentres está nun viaxe de negocios. Podería atopar unha conexión de rede en calquera lugar (como nun hotel) e conectarse á VPN do traballo. Sería como se estivera conectado diretamente  á rede do traballo, pero coa conexión de rede real sería mediante a conexión de internet do hotel. As conexións VPN normalmente están <span class="em">cifradas</span> para evitar que outras persoas accedan á súa rede local conectándose sen iniciar unha sesión.</p>
-<p class="p">Hai varios tipos de VPN. Dependendo do tipo á que queira conectarse podería ter que instalar software adicional. Busque información da conexión do responsábel da VPN e vexa que <span class="em">cliente de VPN</span> precisa. Logo, vaia ao aplicativo de instalación de software e busque polo paquete <span class="app">NetworkManager</span> que funcione co seu VPN (se hai algún) e instáleo.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Se non hai un paquete de NetworkManager para o seu tipo de VPN, probabelmente terá que descargar e instalar algún software cliente desde a empresa que fornece o software de VPN. Probabelmente teña que seguir instrucións para facela funcionar.</p></div></div></div></div>
+<p class="p">A VPN (or <span class="em">Virtual Private Network</span>) is a way of connecting to a
+ local network over the internet. For example, say you want to connect to the
+ local network at your workplace while you’re on a business trip. You would
+ find an internet connection somewhere (like at a hotel) and then connect to
+ your workplace’s VPN. It would be as if you were directly connected to the
+ network at work, but the actual network connection would be through the
+ hotel’s internet connection. VPN connections are usually <span class="em">encrypted</span>
+ to prevent people from accessing the local network you’re connecting to
+ without logging in.</p>
+<p class="p">There are a number of different types of VPN. You may have to install some
+ extra software depending on what type of VPN you’re connecting to. Find out
+ the connection details from whoever is in charge of the VPN and see which
+ <span class="em">VPN client</span> you need to use. Then, go to the software installer
+ application and search for the <span class="app">NetworkManager</span> package which works
+ with your VPN (if there is one) and install it.</p>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">If there isn’t a NetworkManager package for your type of VPN, you will
+ probably have to download and install some client software from the company
+ that provides the VPN software. You’ll probably have to follow some different
+ instructions to get that working.</p></div></div></div></div>
 <p class="p">To set up the VPN connection:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and

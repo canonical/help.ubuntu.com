@@ -81,14 +81,17 @@
 <div class="region"><div class="contents">
 <p class="p">Uma tecla de composição é uma tecla especial que lhe permite pressionar múltiplas teclas de uma vez para obter um caractere especial. Por exemplo, para digitar a letra acentuada <span class="em">é</span>, você pode pressionar <span class="key"><kbd>composição</kbd></span>, <span class="key"><kbd>'</kbd></span> e então <span class="key"><kbd>e</kbd></span>.</p>
 <p class="p">Os teclados não possuem teclas específicas para composição. Em vez disso, você pode definir uma das existentes no seu teclado como uma de composição.</p>
+<div class="note note-important" title="Importante"><div class="inner"><div class="region"><div class="contents"><p class="p">Você precisa ter <span class="app">Ajustes</span> instalado em seu computador para alterar essa configuração.</p></div></div></div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Definir uma tecla de composição</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Teclado</span>.</p></li>
-<li class="steps"><p class="p">Clique em <span class="gui">Teclado</span> para abrir o painel.</p></li>
-<li class="steps"><p class="p">Selecione a aba <span class="gui">Atalhos</span> e clique em <span class="gui">Digitação</span>.</p></li>
-<li class="steps"><p class="p">Clique em <span class="gui">Tecla de composição</span> no painel lateral.</p></li>
-<li class="steps"><p class="p">Clique em <span class="gui">Desabilitado</span> e selecione, no menu suspenso, a tecla que você deseja que se comporte como uma tecla de composição. Você pode escolher qualquer uma das teclas <span class="key"><kbd>Ctrl</kbd></span>, a tecla <span class="key"><kbd>Alt</kbd></span> da direita, a tecla <span class="key"><kbd>Win</kbd></span> da direita ou <span class="key"><a href="keyboard-key-super.html" title="O que é a tecla Super?"><kbd>Super</kbd></a></span>, se você tiver uma, ou a tecla de <span class="key"><a href="keyboard-key-menu.html" title="O que é a tecla Menu?"><kbd>Menu</kbd></a></span> ou <span class="key"><kbd>Caps Lock</kbd></span>. Então, qualquer tecla que você selecionar só funcionará como uma tecla de composição, não mais funcionando para seus propósitos originais.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Ajustes</span>.</p></li>
+<li class="steps"><p class="p">Clique em <span class="gui">Ajustes</span> para abrir o aplicativo.</p></li>
+<li class="steps"><p class="p">Clique na aba <span class="gui">Teclado &amp; mouse</span>.</p></li>
+<li class="steps"><p class="p">Clique em <span class="gui">Desabilitado</span> próximo à configuração <span class="gui">Tecla de composição</span>.</p></li>
+<li class="steps"><p class="p">Ative o botão no diálogo e escolha o atalho de teclado que você deseja usar.</p></li>
+<li class="steps"><p class="p">Marque a caixa de seleção da tecla que você deseja definir como tecla de composição.</p></li>
+<li class="steps"><p class="p">Feche a janela do <span class="gui">Ajustes</span>.</p></li>
 </ol></div>
 </div></div>
 <p class="p">Você pode digitar muitos caracteres comuns usando a tecla de composição; por exemplo:</p>

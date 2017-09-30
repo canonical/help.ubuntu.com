@@ -59,7 +59,7 @@
 </div>
 <div class="region">
 <div class="contents">
-<p class="p">Även om den trådlösa adapter är ansluten till datorn så kanske den inte har känts igen som en nätverksenhet av datorn. I detta steget kommer du att kontrollera huruvida enheten kändes igen korrekt.</p>
+<p class="p">Även om den trådlösa adapter är ansluten till datorn så kanske den inte har känts igen som en nätverksenhet av datorn. I detta steg kommer du att kontrollera huruvida enheten kändes igen korrekt.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öppna ett Terminal-fönster, skriv <span class="cmd">lshw -C network</span> och tryck <span class="key"><kbd>Retur</kbd></span>. Om detta ger ett felmeddelande, kan du behöva installera programmet <span class="app">lshw</span> på din dator.</p></li>
 <li class="steps">

@@ -108,7 +108,8 @@
 <a href="power-batterylife.html" title="Poraba manjše količine energije in podaljšanje trajanja baterije">Poraba manjše količine energije in podaljšanje trajanja baterije</a><span class="desc"> — Namigi za zmanjšanje porabe vašega računalnika.</span>
 </li>
 <li class="links ">
-<a href="a11y-contrast.html" title="Prilagoditev kontrasta">Prilagoditev kontrasta</a><span class="desc"> — Naredi okna in gumbe na zaslonu bolj (ali manj) živa, da jih je lažje videti.</span>
+<a href="a11y-contrast.html" title="Prilagoditev kontrasta">Prilagoditev kontrasta</a><span class="desc"> — Make windows and buttons on the screen more (or less) vivid, so
+    they’re easier to see.</span>
 </li>
 <li class="links ">
 <a href="power-whydim.html" title="Zakaj se moj zaslon po določenem času zatemni?">Zakaj se moj zaslon po določenem času zatemni?</a><span class="desc"> — The screen will dim when the computer is idle in order to save power.</span>

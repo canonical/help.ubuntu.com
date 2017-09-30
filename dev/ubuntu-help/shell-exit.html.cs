@@ -86,7 +86,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Abyste ušetřili energii, uspěte svůj počítač, když jej zrovna nepoužíváte. Pokud používáte notebook, standardně jej GNOME uspí automaticky při zavření víka. Při uspání se pouze uchová stav v paměti počítač a většina součástí počítače se vypne. Během uspání je zapotřebí napájení, ale odběr je velmi malý.</p>
-<p class="p">Když chcete počítač uspat ručně, klikněte na systémovou nabídku na pravé straně horní lišty a podržte zmáčknutou klávesu <span class="key"><kbd>Alt</kbd></span>. Tlačítko vypnutí se změní na tlačítko uspání. Zmáčkněte jej.</p>
+<p class="p">Když chcete počítač uspat ručně, klikněte na systémovou nabídku na pravé straně horní lišty. Zde pak podržte zmáčknutou klávesu <span class="key"><kbd>Alt</kbd></span> a klikněte na tlačítko pro vypnutí, nebo stačí na tlačítko pro vypnutí kliknout dlouze.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Where to store your backup</title>
+<title>Waar uw reservekopieën op te slaan</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,43 +43,38 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html#backup" title="Backing up">Backing up</a> » <a class="trail" href="backup-why.html" title="Back up your important files">Backups</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#backup" title="Reservekopieën maken">Reservekopieën maken</a> » <a class="trail" href="backup-why.html" title="Reservekopieën maken van uw belangrijke bestanden">Reservekopieën</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Where to store your backup</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Waar uw reservekopieën op te slaan</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">You should store backup copies of your files somewhere separate from your
- computer - on an external hard disk, for example. That way, if the computer
- breaks, the backup will still be intact. For maximum security, you shouldn't
+ computer — on an external hard disk, for example. That way, if the computer
+ breaks, the backup will still be intact. For maximum security, you shouldn’t
  keep the backup in the same building as your computer. If there is a fire or
  theft, both copies of the data could be lost if they are kept together.</p>
-<p class="p">It is important to choose an appropriate <span class="em">backup medium</span> too. You
- need to store your backups on a device that has sufficient disk capacity for
- all of the backed-up files.</p>
+<p class="p">Het is belangrijk om het juiste <span class="em">reservekopiemedium</span> te kiezen. U moet uw reservekopieën op een medium opslaan met voldoende capaciteit om van alle bestanden een reservekopie te kunnen maken.</p>
 <div class="list"><div class="inner">
-<div class="title title-list"><h2><span class="title">Local and remote storage options</span></h2></div>
+<div class="title title-list"><h2><span class="title">Lokale en externe opslagmogelijkheden</span></h2></div>
 <div class="region"><ul class="list compact">
-<li class="list"><p class="p">USB memory key (low capacity)</p></li>
-<li class="list"><p class="p">Internal disk drive (high capacity)</p></li>
-<li class="list"><p class="p">External hard disk (typically high capacity)</p></li>
-<li class="list"><p class="p">Network-connected drive (high capacity)</p></li>
-<li class="list"><p class="p">File/backup server (high capacity)</p></li>
-<li class="list"><p class="p">Writable CDs or DVDs (low/medium capacity)</p></li>
-<li class="list"><p class="p">Online backup service
-     (<span class="link"><a href="http://aws.amazon.com/s3/" title="http://aws.amazon.com/s3/">Amazon S3</a></span>, for example;
-     capacity depends on price)</p></li>
+<li class="list"><p class="p">USB-geheugenstick (lage capaciteit)</p></li>
+<li class="list"><p class="p">Interne harde schijf (hoge capaciteit)</p></li>
+<li class="list"><p class="p">Externe harde schijf (doorgaans hoge capaciteit)</p></li>
+<li class="list"><p class="p">Netwerkschijf (hoge capaciteit)</p></li>
+<li class="list"><p class="p">Bestands-/backupserver (hoge capaciteit)</p></li>
+<li class="list"><p class="p">Beschrijfbare cd's of dvd's (lage/gemiddelde capaciteit)</p></li>
+<li class="list"><p class="p">Online reservekopiedienst (zoals <span class="link"><a href="http://aws.amazon.com/s3/" title="http://aws.amazon.com/s3/">Amazon S3</a></span>; De opslagruimte is afhankelijk van de prijs)</p></li>
 </ul></div>
 </div></div>
-<p class="p">Some of these options have sufficient capacity to allow for a backup of
- every file on your system, also known as a <span class="em">complete system backup</span>.</p>
+<p class="p">Sommige van deze opties hebben voldoende capaciteit om een reservekopie van elk bestand op uw systeem te kunnen maken, wat ook wel een <span class="em">volledige systeemreservekopie</span> wordt genoemd.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="backup-why.html" title="Back up your important files">Back up your important files</a><span class="desc"> — Why, what, where and how of backups.</span>
+<a href="backup-why.html" title="Reservekopieën maken van uw belangrijke bestanden">Reservekopieën maken van uw belangrijke bestanden</a><span class="desc"> — Het waarom, wat, waar en hoe van reservekopieën maken.</span>
 </li></ul></div>
 </div></div></div>
 </div>

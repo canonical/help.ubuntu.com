@@ -51,21 +51,15 @@
 <div class="contents">
 <p class="p">Memperbesar layar berbeda dengan hanya memperbesar <span class="link"><a href="a11y-font-size.html" title="Ubah ukuran teks pada layar">ukuran teks</a></span>. Fitur ini seperti memiliki kaca pembesar, memungkinkan Anda berpindah-pindah dengan menzum pada berbagai bagian layar.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span> overview and
-      start typing <span class="gui">Universal Access</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akses Universal</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Akses Universal</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Tekan <span class="gui">Zum</span> dalam bagian <span class="gui">Melihat</span>.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Zoom</span> to <span class="gui">ON</span> in the top-right corner of the
-      <span class="gui">Zoom Options</span> window.</p></li>
+<li class="steps"><p class="p">Nyalakan <span class="gui">Zum</span> di pojok kanan atas jendela <span class="gui">Opsi Zum</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Anda kini dapat berpindah-pindah pada area layar. Dengan memindah tetikus Anda ke tepi layar, Anda akan memindah area yang diperbesar ke arah berbeda, memungkinkan Anda melihat area pilihan Anda.</p>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Anda dapat secara cepat menyalakan dan mematikan zum dengan mengklik <span class="link"><a href="a11y-icon.html" title="Temukan menu akses universal">ikon aksesibilitas</a></span> pada bilah puncak dan memilih <span class="gui">Zum</span>.</p></div></div></div></div>
-<p class="p">You can change the magnification factor, the mouse tracking, and the
-  position of the magnified view on the screen. Adjust these in the
-  <span class="gui">Magnifier</span> tab of the <span class="gui">Zoom Options</span> window.</p>
-<p class="p">You can activate crosshairs to help you find the mouse or touchpad
-  pointer. Switch them on and adjust their length, color, and thickness in the
-  <span class="gui">Crosshairs</span> tab of the <span class="gui">Zoom</span> settings window.</p>
+<p class="p">Anda dapat mengubah faktor perbesaran, pelacakan tetikus, dan posisi tilikan yang diperbesar pada layar. Atur ini dalam tab <span class="gui">Pembesar</span> dari jendela <span class="gui">Opsi Zum</span>.</p>
+<p class="p">Anda dapat mengaktifkan pembidik silang untuk membantu Anda menemukan penunjuk tetikus atau touchpad. Nyalakan dan atur panjang, warna, dan ketebalannya dalam tab <span class="gui">Pembidik Silang</span> dari jendela pengaturan <span class="gui">Zum</span>.</p>
 <p class="p">Anda dapat beralih ke video terbalik atau <span class="gui">Putih di atas hitam</span>, dan mengatur opsi kecerahan, kontras, serta tingkat abu-abu bagi pembesar. Kombinasi opsi-opsi ini berguna bagi orang yang memiliki penglihatan lemah, sebarang tingkat fotofobia, atau sekedar untuk memakai komputer di bawah kondisi pencahayaan ekstrim. Pilih tab <span class="gui">Efek Warna</span> dalam jendela pengaturan <span class="gui">Zum</span> untuk mengaktifkan dan mengubah opsi-opsi ini.</p>
 </div>
 <div class="sect sect-links" role="navigation">

@@ -70,7 +70,9 @@
 </div></div>
 </div></div>
 <p class="p">Χρησιμοποιήστε τον ολισθητή <span class="gui">αποδοχή καθυστέρησης</span> για να ελέγξετε πόσο πρέπει να πατάτε ένα πλήκτρο για να καταχωριστεί.</p>
-<p class="p">Μπορείτε να κάνετε τον υπολογιστή σας να ηχεί όταν πατάτε ένα πλήκτρο, όταν το πάτημα ενός πλήκτρου γίνεται δεκτό, ή όταν το πάτημα πλήκτρου απορρίπτεται επειδή δεν κρατήσατε πατημένο το πλήκτρο αρκετά.</p>
+<p class="p">You can have your computer make a sound when you press a key, when a key
+  press is accepted, or when a key press is rejected because you didn’t hold
+  the key down long enough.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

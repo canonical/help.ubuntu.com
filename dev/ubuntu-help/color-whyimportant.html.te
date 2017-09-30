@@ -68,7 +68,10 @@
 <div class="desc">బ్యూజినెస్ లాప్‌టాప్ తెర పైన వాడుకరి ఇదే చూస్తాడు</div>
 </div>
 </div></div>
-<p class="p">తెలుపు ఎందుకని 'కాగితమంత తెలుపు' కాదు మరియు కంటి నలుపు ఇప్పుడు పుగాకు రంగులో గమనించండి.</p>
+<p class="p">
+    Notice how the white is not “paper white” and the black of the eye
+    is now a muddy brown.
+  </p>
 <div class="figure"><div class="inner">
 <a href="#" class="zoom" data-zoom-in-title="చిత్రములను సాధారణ పరిమాణంలో వీక్షించండి" data-zoom-out-title="చిత్రములను క్రమీకరించు"></a><div class="region">
 <div class="contents"><div class="media media-image"><div class="inner"><img src="figures/color-printer.png" class="media media-block" alt=""></div></div></div>
@@ -76,11 +79,41 @@
 </div>
 </div></div>
 <p class="p">మనం ఇక్కడ కలిగివున్న ప్రతి పరికరం భిన్న విస్తృతిలోని రంగులను సంభాలించగల సామర్ధ్యం కలిగివుండటం యిక్కడ ప్రాథమిక సమస్య. కనున మీరు ఎలక్ట్రిక్ నీలం యొక్క ఫొటోను తీయగల్గినప్పుడు, చాలా ముద్రకాలు వాటిని అలానే ముద్రించలేవు.</p>
-<p class="p">చాలా వరకు చిత్ర పరికరాలు RGB (ఎరుపు, ఆకుపచ్చ, నీలం) నందు తీసి మరియు ముద్రించడానికి దానిని CMYK (ఆకాశనీలం, మజెంట, పసుపు, మరియు నలుపు) కు మార్చాలి. వేరొక సమస్య మీకు <span class="em">తెలుపు</span> రంగు వుండదు, కనుక తెల్లదనం అనేది కాగితం ఎంత తెలుపువుందో అంతే.</p>
-<p class="p">ఇంకొక సమస్య ప్రమాణాలు. దేనిపైనైతే రంగు కొలవబడునో ఆ కొలబద్దను తెలుపకుండా, 100% ఎరుపు అనునది ఇన్ఫ్రారెడ్‌కు దగ్గరగావుందో లేక ముద్రకం నందలి ముదురు ఎరుపుసిరానో మనకుతెలియదు.  ఒక ప్రదర్శకం నందలి 50% ఎరుపు వేరొక ప్రదర్శకంనందు బహుశా 62% కావచ్చు. ఇది ఎలా వుంటుందంటే, ప్రమాణం అనేది 7 కిలోమీటర్లా లేదా మీటర్ల అనేది తెలియకుండా, మీరు ఒక వ్యక్తికి 7 ప్రమాణాల దూరం నడిపారని చెప్పినట్లు వుంటుంది.</p>
-<p class="p">రంగు నందు, మనం ప్రమాణాలను గమత్‌గా చూస్తాం. గామత్ అనగా తప్పనిసరిగా తిరిగివుత్పన్నం చేయగల రంగుల విస్తృతి. DSLR కేమెరా వంటి పరికరం ఎక్కువ గామత్‌ను కలిగివుండవచ్చు, సూర్యాస్తమయం నందు అన్ని రంగులను తీయగలదు, అయితే ప్రోజెక్టర్ చాలా తక్కువ గామత్ కలిగివుంటుంది మరియు అన్ని రంగులు "కడిగేసినట్లు" కనబడతాయి.</p>
-<p class="p">కొన్ని సందర్భాలలో పరికర అవుట్పుట్‌ను మనం దానికి పంపే దత్తాంశంను మార్చుట ద్వారా <span class="em">సరిదిద్ద</span> వచ్చు, అయితే అది సాధ్యంకాని ఇతర సందర్భాలలో (మీరు ఎలక్ట్రిక్ బ్లూ ముద్రించలేరు) మనం ఫలితం ఎలా కనబడుతుందో వాడుకరికి చూపవలసివుంటుంది.</p>
-<p class="p">రంగు పరికరం యొక్క పూర్తి టోనల్ విస్తృతిని ఫొటోగ్రాఫ్స్ కొరకు వుపయోగించుట మంచిది, రంగునందు సున్నితమైన మార్పులు చేయగల్గుటకు. ఇతర గ్రాఫిక్స్ కొరకు, మీరు రంగును ఖచ్చితంగా పోల్చాలని అనుకోవచ్చు, మీరు అచ్చంగా Red Hat ఎరుపును <span class="em">కలిగివున్న</span> Red Hat చిహ్నంతో కస్టమ్ మగ్‌ను ముద్రించాలని అనుకుంటే ఇది చాలా ముఖ్యం.</p>
+<p class="p">
+    Most image devices capture in RGB (Red, Green, Blue) and have
+    to convert to CMYK (Cyan, Magenta, Yellow, and Black) to print.
+    Another problem is that you can’t have <span class="em">white</span> ink, and so
+    the whiteness can only be as good as the paper color.
+  </p>
+<p class="p">
+    Another problem is units. Without specifying the scale on which a
+    color is measured, we don’t know if 100% red is near infrared or
+    just the deepest red ink in the printer. What is 50% red on one
+    display is probably something like 62% on another display.
+    It’s like telling a person that you’ve just driven 7 units of
+    distance, without the unit you don’t know if that’s 7 kilometers or
+    7 meters.
+  </p>
+<p class="p">
+    In color, we refer to the units as gamut. Gamut is essentially the
+    range of colors that can be reproduced.
+    A device like a DSLR camera might have a very large gamut, being able
+    to capture all the colors in a sunset, but a projector has a very
+    small gamut and all the colors are going to look “washed out”.
+  </p>
+<p class="p">
+    In some cases we can <span class="em">correct</span> the device output by altering
+    the data we send to it, but in other cases where that’s not
+    possible (you can’t print electric blue) we need to show the user
+    what the result is going to look like.
+  </p>
+<p class="p">
+    For photographs it makes sense to use the full tonal range of a color
+    device, to be able to make smooth changes in color.
+    For other graphics, you might want to match the color exactly, which
+    is important if you’re trying to print a custom mug with the Red Hat
+    logo that <span class="em">has</span> to be the exact Red Hat Red.
+  </p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

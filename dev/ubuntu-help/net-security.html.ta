@@ -52,7 +52,8 @@
 <div class="linkdiv "><a class="linkdiv" href="net-firewall-on-off.html" title="ஃபயர்வால் அணுகலை இயக்குதல் அல்லது தடுத்தல்"><span class="title">ஃபயர்வால் அணுகலை இயக்குதல் அல்லது தடுத்தல்</span><span class="linkdiv-dash"> — </span><span class="desc">நீங்கள் திட்டங்கள் பிணைய அணுக முடியும் கட்டுப்படுத்த முடியும். இந்த பாதுகாப்பான உங்கள் கணினியில் வைக்க உதவுகிறது.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-email-virus.html" title="என் மின்னஞ்சல்களில் வைரஸ்கள் உள்ளதா என ஸ்கேன் செய்ய வேண்டுமா?"><span class="title">என் மின்னஞ்சல்களில் வைரஸ்கள் உள்ளதா என ஸ்கேன் செய்ய வேண்டுமா?</span><span class="linkdiv-dash"> — </span><span class="desc">வைரஸ்கள் உங்கள் கணினியில் பாதிப்பை ஏற்படுத்த வாய்ப்பில்லை, ஆனால் நீங்கள் மின்னஞ்சல் அனுப்பும் நபர்களின் கணினிகளை பாதிக்கலாம்.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-firewall-ports.html" title="பொதுவாக பயன்படுத்தப்படும் பிணைய போர்ட்கள்"><span class="title">பொதுவாக பயன்படுத்தப்படும் பிணைய போர்ட்கள்</span><span class="linkdiv-dash"> — </span><span class="desc">உங்கள் ஃபயர்வால் கொண்டு, ஒரு நிரலுக்கான பிணைய அணுகலை இயக்க/முடக்க நீங்கள் சரியான பிணைய போர்ட்டைக் குறிப்பிட வேண்டும்.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-antivirus.html" title="வைரஸ் எதிர்ப்பு மென்பொருள் தேவையா?"><span class="title">வைரஸ் எதிர்ப்பு மென்பொருள் தேவையா?</span><span class="linkdiv-dash"> — </span><span class="desc">Linux இல் வைரஸ்கள் மிகக் குறைவே, ஆகவே உங்களுக்கு வைரஸ் எதிர்ப்பு மென்பொருள் தேவையில்லை.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-antivirus.html" title="வைரஸ் எதிர்ப்பு மென்பொருள் தேவையா?"><span class="title">வைரஸ் எதிர்ப்பு மென்பொருள் தேவையா?</span><span class="linkdiv-dash"> — </span><span class="desc">There are few Linux viruses, so you probably don’t need anti-virus
+    software.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

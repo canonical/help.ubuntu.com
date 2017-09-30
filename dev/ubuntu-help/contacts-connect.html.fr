@@ -53,7 +53,8 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Sélectionnez le contact dans la liste de contacts.</p></li>
 <li class="steps"><p class="p">Cliquez sur le <span class="em">détail</span> que vous voulez utiliser. Par exemple, pour envoyer un courriel à votre contact cliquez sur l'adresse courriel.</p></li>
-<li class="steps"><p class="p">L'application correspondante sera lancée en utilisant les détails du contact.</p></li>
+<li class="steps"><p class="p">The corresponding application will be launched using the contact’s
+      details.</p></li>
 </ol></div></div></div>
 <div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">Vous ne pourrez pas sélectionner un détail pour lequel aucune application n'est disponible.</p></div></div></div></div>
 </div>

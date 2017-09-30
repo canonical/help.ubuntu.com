@@ -49,20 +49,15 @@
 <div class="hgroup"><h1 class="title"><span class="title">Искључите бежичну (режим у авиону)</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you have your computer on an airplane (or some other area where wireless
- connections are not allowed), you should switch off your wireless. You may
- also want to switch off your wireless for other reasons (to save battery power,
- for example).</p>
+<p class="p">Ако сте понели рачунар и налазите се у авиону (или на неком другом месту на коме бежичне везе нису дозвољене), требате да угасите вашу бежичну везу. Можда ћете морати да искључите вашу бежичну везу из других разлога (да сачувате батерију, на пример).</p>
 <div class="note" title="Белешка"><div class="inner"><div class="region"><div class="contents"><p class="p">Коришћење <span class="em">Режима у авиону</span> ће у потпуности да искључи све бежичне везе, укључујући бежичну, 3Г и блутут везу.</p></div></div></div></div>
-<p class="p">To turn on airplane mode:</p>
+<p class="p">Да укључите режим у авиону:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Мрежа</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Мрежа</span> да отворите панел.</p></li>
 <li class="steps"><p class="p">Пребаците <span class="gui">Режим у авиону</span> на <span class="gui">УКЉ.</span>. Ово ће искључити вашу бежичну везу све док поново не искључите режим у авиону.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Савет"><div class="inner"><div class="region"><div class="contents"><p class="p">You can turn off your WiFi connection from the 
-    <span class="gui"><a href="shell-introduction.html#yourname" title="Ви и ваш рачунар">system menu</a></span> by clicking on 
-    the connection name and choosing <span class="gui">Turn Off</span>.</p></div></div></div></div>
+<div class="note note-tip" title="Савет"><div class="inner"><div class="region"><div class="contents"><p class="p">Можете да искључите вашу бежичну мрежу у <span class="gui"><a href="shell-introduction.html#yourname" title="Ви и ваш рачунар">системском изборнику</a></span> тако што ћете кликнути на назив мреже и изабрати <span class="gui">Искључи</span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

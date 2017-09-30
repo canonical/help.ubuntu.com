@@ -57,7 +57,7 @@
 </li>
 <li class="list">
 <p class="p">Pamēģiniet hex vai ASCII paroles atslēgu</p>
-<p class="p">Ievadītā parole var būt attēlota dažādos veidos - rinda simbolu virkne heksidecimālā (cipari 0-9 un burti a-f) saukta par paroles atslēgu. Katrai parolei ir līdzvērtīga paroles atslēga. Ja jums ir piekļuve paroles atslēgai kā arī parole/paroles frāze, mēģiniet izmantot paroles atslēgu. Pārliecinieties, ka izvēlaties pareizo <span class="gui">bezvadu drošības</span> opciju, kad jautā paroli (piemēram, izvēlaties <span class="gui">WEP 40/128-bitu atslēga</span>, ja jūs vadāt 40 zīmju paroli ar WEP šifrēto savienojumu).</p>
+<p class="p">Ievadītā parole var būt attēlota dažādos veidos — rinda simbolu virkne heksidecimālā (cipari 0-9 un burti a-f) saukta par paroles atslēgu. Katrai parolei ir līdzvērtīga paroles atslēga. Ja jums ir piekļuve paroles atslēgai kā arī parole/paroles frāze, mēģiniet izmantot paroles atslēgu. Pārliecinieties, ka izvēlaties pareizo <span class="gui">bezvadu drošības</span> opciju, kad jautā paroli (piemēram, izvēlaties <span class="gui">WEP 40/128-bitu atslēga</span>, ja jūs vadāt 40 zīmju paroli ar WEP šifrēto savienojumu).</p>
 </li>
 <li class="list">
 <p class="p">Mēģiniet izslēgt un ieslēgt bezvadu tīkla karti</p>

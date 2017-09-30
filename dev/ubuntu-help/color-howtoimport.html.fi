@@ -53,8 +53,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Kuinka tuon väriprofiileja?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can import a color profile by double clicking on a <span class="file">.ICC</span>
-  or <span class="file">.ICM</span> file in the file browser.</p>
+<p class="p">Väriprofiili on helppo tuoda kaksoisnapsauttamalla <span class="input">.ICC</span>- tai <span class="input">.ICM</span>-päätteistä tiedostoa tiedostonhallinnassa.</p>
 <p class="p">Alternatively you can manage your color profiles through the
   <span class="gui">Color</span> panel.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">

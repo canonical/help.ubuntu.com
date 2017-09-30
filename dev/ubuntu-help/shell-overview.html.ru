@@ -53,10 +53,7 @@
 <div class="linkdiv "><a class="linkdiv" href="shell-introduction.html" title="Введение в GNOME"><span class="title">Введение в GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Наглядное введение в функциональные возможности рабочего стола. Верхняя панель. Режим <span class="gui">Обзора</span>.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Завершение сеанса, выключение компьютера или переключение пользователей"><span class="title">Завершение сеанса, выключение компьютера или переключение пользователей</span><span class="linkdiv-dash"> — </span><span class="desc">Способы завершения работы с учётной записью: завершение сеанса, переключение пользователей и другие.</span></a></div>
 </div>
-<div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Запуск приложений"><span class="title">Запуск приложений</span><span class="linkdiv-dash"> — </span><span class="desc">Запуск приложений из режима <span class="gui">Обзора</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-guest-session.html" title="Запуск ограниченного гостевого сеанса"><span class="title">Запуск ограниченного гостевого сеанса</span><span class="linkdiv-dash"> — </span><span class="desc">Позвольте друзьям или коллегам воспользоваться вашим компьютером, не подвергая риску безопасность системы.</span></a></div>
-</div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Запуск приложений"><span class="title">Запуск приложений</span><span class="linkdiv-dash"> — </span><span class="desc">Запуск приложений из режима <span class="gui">Обзора</span>.</span></a></div></div>
 </div></div></div></div>
 <div id="desktop" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Customize your desktop</span></h2></div>

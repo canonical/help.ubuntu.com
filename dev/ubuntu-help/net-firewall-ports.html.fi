@@ -49,7 +49,11 @@
 <div class="hgroup"><h1 class="title"><span class="title">Yleisesti käytetyt verkkoportit</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Alla on lueteltuna sovellukset, jotka käyttävät Internet-yhteyttä sekä niiden käyttämät portit. Voit <span class="link"><a href="net-firewall-on-off.html" title="Salli ja estä ohjelmien yhteydet palomuurin läpi">estää tai sallia</a></span> näiden sovellusten käyttää yhteyttä järjestelmän palomuurilla. Oikeasti portteja on tuhansia, joten tämä taulukko ei todellakaan kata kaikkia, mutta kuitenkin yleisimmät ja tärkeimmät.</p>
+<p class="p">This is a list of network ports commonly used by applications that provide
+  network services, like file sharing or remote desktop viewing. You can change
+  your system’s firewall to <span class="link"><a href="net-firewall-on-off.html" title="Salli ja estä ohjelmien yhteydet palomuurin läpi">block or allow
+  access</a></span> to these applications. There are thousands of ports in use, so
+  this table isn’t complete.</p>
 <div class="table"><div class="inner"><div class="region"><table class="table" style="border-top-style: solid;">
 <thead><tr>
 <td><p class="p">Portti</p></td>
@@ -75,7 +79,8 @@
 <tr>
 <td><p class="p">5298/tcp</p></td>
 <td><p class="p">Tilan tiedotus</p></td>
-<td><p class="p">Sallii pikaviestintilasi esittämisen verkossa muille käyttäjille (esimerkiksi "Tavoitettavissa" tai "Varattu").</p></td>
+<td><p class="p">Allows you to advertise your instant messaging status to other
+          people on the network, such as “online” or “busy”.</p></td>
 </tr>
 <tr class="shade">
 <td><p class="p">5900/tcp</p></td>
@@ -96,11 +101,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-security.html" title="Tietoturva">Tietoturva</a><span class="desc"> — 
-      <span class="link"><a href="net-antivirus.html" title="Tarvitsenko virustentorjuntaohjelman?">Antivirus software</a></span>,
-      <span class="link"><a href="net-firewall-on-off.html" title="Salli ja estä ohjelmien yhteydet palomuurin läpi">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html" title="Yleisesti käytetyt verkkoportit">firewall ports</a></span>…
-    </span>
+<a href="net-security.html" title="Tietoturva">Tietoturva</a><span class="desc"> — <span class="link"><a href="net-antivirus.html" title="Tarvitsenko virustentorjuntaohjelman?">Virustorjuntaohjelmisto</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Salli ja estä ohjelmien yhteydet palomuurin läpi">palomuurit</a></span>, <span class="link"><a href="net-firewall-ports.html" title="Yleisesti käytetyt verkkoportit">palomuurien portit</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

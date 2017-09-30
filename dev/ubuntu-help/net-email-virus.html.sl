@@ -54,8 +54,19 @@
 <div class="region">
 <div class="contents">
 <p class="p">Virusi so programi, ki na vašem računalniku povzročajo težave. Pogosto se prenesejo na računalnik preko sporočil e-pošte.</p>
-<p class="p">Virusi, ki učinkujejo na računalnike na katerih teče Linux so precej redki, zato <span class="link"><a href="net-antivirus.html" title="Ali potrebujem protivirusni program?">je malo verjetno, da bi se okužili z virusom preko e-pošte ali kako drugače</a></span>. Če prejmete e-pošto s skritim virusom, verjetno na vaš računalnik ne bo imel vpliva. Zato vam svoje e-pošte ni treba preiskati za prisotnost virusov.</p>
-<p class="p">Vendar morda želite preiskati svojo e-pošto za viruse, da ne bi vursa posredovali od ene k drugi osebi. Na primer, če ima en od vaših prijateljev računalnik Windows z virusov in vam pošlje e-pošto okuženo z virusom, ki jo nato posredujete drugemu prijatelju z računalnikom Windows, potem lahko virus dobi tudi drugi prijatelj. Da bi se temi izognili lahko namestite protivirusni progam za preiskovanje svoje e-pošte, vendar je verjetnost takšnega dogodka zelo majhna in večina ljudi z Windows ali Mac OS ima nameščen svoj protivirusni program.</p>
+<p class="p">Viruses that can affect computers running Linux are quite rare, so you are
+  <span class="link"><a href="net-antivirus.html" title="Ali potrebujem protivirusni program?">unlikely to get a virus through email or
+  otherwise</a></span>. If you receive an email with a virus hidden in it, it will
+  probably have no effect on your computer. As such, you probably don’t need to
+  scan your email for viruses.</p>
+<p class="p">You may, however, wish to scan your email for viruses in case you happen
+  to forward a virus from one person to another. For example, if one of your
+  friends has a Windows computer with a virus and sends you a virus-infected
+  email, and you then forward that email to another friend with a Windows
+  computer, then the second friend might get the virus too. You could install
+  an anti-virus application to scan your emails to prevent this, but it’s
+  unlikely to happen and most people using Windows and Mac OS have anti-virus
+  software of their own anyway.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -81,7 +92,8 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-antivirus.html" title="Ali potrebujem protivirusni program?">Ali potrebujem protivirusni program?</a><span class="desc"> — Za Linux obstaja zelo malo virusov, zato verjetno protivirusnega programa ne potrebujete.</span>
+<a href="net-antivirus.html" title="Ali potrebujem protivirusni program?">Ali potrebujem protivirusni program?</a><span class="desc"> — There are few Linux viruses, so you probably don’t need anti-virus
+    software.</span>
 </li></ul></div>
 </div></div>
 </div>

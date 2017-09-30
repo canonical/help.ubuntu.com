@@ -50,7 +50,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">You can set up a connection to a cellular (3G) network with your
-  computer's built-in 3G modem, your mobile phone, or an Internet stick.</p>
+  computer’s built-in 3G modem, your mobile phone, or an Internet stick.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">If you do not have a built-in 3G modem, connect your phone or
     Internet stick to a USB port on your computer.</p></li>
@@ -67,7 +67,8 @@
     time, the <span class="gui">Set up a Mobile Broadband Connection</span> wizard is
     launched. The opening screen displays a list of required information. Click
     <span class="gui">Next</span>.</p></li>
-<li class="steps"><p class="p">Выберите из списка страну или область вашего провайдера. Нажмите <span class="gui">Далее</span>.</p></li>
+<li class="steps"><p class="p">Choose your provider’s country or region from the list. Click
+    <span class="gui">Next</span>.</p></li>
 <li class="steps"><p class="p">Выберите вашего провайдера из списка. Нажмите <span class="gui">Далее</span>.</p></li>
 <li class="steps"><p class="p">Выберите тариф в зависимости от типа подключённого устройства. Это позволит определить точку доступа. Нажмите <span class="gui">Далее</span>.</p></li>
 <li class="steps"><p class="p">Подтвердите выбранные параметры, нажав кнопку <span class="gui">Применить</span>. Помощник закроется и панель <span class="gui">Сеть</span> отобразит свойства вашего подключения.</p></li>

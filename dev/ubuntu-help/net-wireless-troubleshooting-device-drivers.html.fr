@@ -75,7 +75,13 @@
 </li>
 <li class="list">
 <p class="p">Recherchez des pilotes propriétaires (binaires).</p>
-<p class="p">Beaucoup de distributions Linux sont livrées avec des pilotes de périphérique <span class="em">gratuits</span> et <span class="em">libres</span>. La raison est qu'elles n'ont pas le droit de distribuer des pilotes propriétaires ou dont le code source est fermé. Si le pilote adéquat pour votre adaptateur sans fil n'existe qu'en version propriétaire ou « binaire », il n'est pas installé par défaut. Dans ce cas, recherchez sur le site du fabricant de votre adaptateur sans fil pour vérifier s'il y a un pilote disponible compatible avec Linux.</p>
+<p class="p">Many Linux distributions only come with device drivers which are
+      <span class="em">free</span> and <span class="em">open source</span>. This is because they cannot
+      distribute drivers which are proprietary, or closed-source. If the
+      correct driver for your wireless adapter is only available in a non-free,
+      or “binary-only” version, it may not be installed by default. If this is
+      the case, look on the wireless adapter manufacturer’s website to see if
+      they have any Linux drivers.</p>
 <p class="p">Quelques distributions Linux proposent un outil pour télécharger des pilotes restreints à votre place. Si c'est le cas avec votre distribution, utilisez-le pour trouver vos pilotes sans fil.</p>
 </li>
 <li class="list">

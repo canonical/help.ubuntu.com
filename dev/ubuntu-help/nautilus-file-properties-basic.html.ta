@@ -60,7 +60,11 @@
 <dd class="terms"><p class="p">நீங்கள் இந்த புலத்தை மாற்றுவதன் மூலம் கோப்பை மறுபெயரிட முடியும். நீங்கள் பண்புகள் சாளரத்திற்கு வெளியேயும் ஒரு கோப்பை மறுபெயரிட முடியும். <span class="link"><a href="files-rename.html" title="ஒரு கோப்பு அல்லது கோப்புறையை மறுபெயரிடுதல்">ஒரு கோப்பு அல்லது கோப்புறையை மறுபெயரிடுதல்</a></span> ஐப் பார்க்கவும்.</p></dd>
 <dt class="terms"><span class="gui">Type</span></dt>
 <dd class="terms">
-<p class="p">PDF ஆவணம், OpenDocument உரை அல்லது JPEG படம் போன்று, கோப்பு வகையை அடையாளம் காண இது உதவுகிறது. மற்ற அம்சங்களுடன், ஒரு கோப்பை எந்தப் பயன்பாடுகள் திறக்க முடியும் என்பதையும் கோப்பு வகையே தீர்மானிக்கிறது. உதாரணமாக, நீங்கள் ஒரு மியூசிக் பிளேயர் மூலம் ஒரு படத்தை திறக்க முடியாது. இது குறித்த மேலும் தகவலுக்கு <span class="link"><a href="files-open.html" title="மற்ற பயன்பாடுகளைக் கொண்டு கோப்புகளைத் திறக்கவும்">மற்ற பயன்பாடுகளைக் கொண்டு கோப்புகளைத் திறக்கவும்</a></span> ஐப் பார்க்கவும்.</p>
+<p class="p">This helps you identify the type of the file, such as PDF document,
+    OpenDocument Text, or JPEG image. The file type determines which
+    applications can open the file, among other things. For example, you
+    can’t open a picture with a music player. See <span class="link"><a href="files-open.html" title="மற்ற பயன்பாடுகளைக் கொண்டு கோப்புகளைத் திறக்கவும்">மற்ற பயன்பாடுகளைக் கொண்டு கோப்புகளைத் திறக்கவும்</a></span>
+    for more information on this.</p>
 <p class="p">கோப்பின் <span class="em">MIME வகை</span> அடைப்புக்குறிக்குள் காட்டப்படும்; MIME வகை என்பது கணினிகள் கோப்பு வகையைக் குறிக்க பயன்படுத்தும் ஒரு தரநிலையான வழியாகும்.</p>
 </dd>
 <dt class="terms">உள்ளடக்கம்</dt>
@@ -72,7 +76,7 @@
 </dd>
 <dt class="terms">Parent Folder</dt>
 <dd class="terms"><p class="p">The location of each file on your computer is given by its <span class="em">absolute
-    path</span>. This is a unique "address" of the file on your computer, made up
+    path</span>. This is a unique “address” of the file on your computer, made up
     of a list of the folders that you would need to go into to find the file.
     For example, if Jim had a file called <span class="file">Resume.pdf</span> in his Home
     folder, its parent folder would be <span class="file">/home/jim</span> and its location

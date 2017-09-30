@@ -49,13 +49,14 @@
 <div class="hgroup"><h1 class="title"><span class="title">IP முகவரி என்றால் என்ன?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">"IP முகவரி" என்பது <span class="em">Internet Protocol address</span> (இணைய நெறிமுறை முகவரி) என்பதைக் குறிக்கிறது, ஒரு (இணையம் போன்ற) பிணையத்தில் இணைந்துள்ள ஒவ்வொரு சாதனத்திற்கும் ஒரு IP முகவரி இருக்கும்.</p>
+<p class="p">“IP address” stands for <span class="em">Internet Protocol address</span>, and each
+  device that is connected to a network (like the internet) has one.</p>
 <p class="p">IP முகவரி என்பது உங்கள் தொலைபேசி எண் போன்றது. உங்கள் தொலைபேசி எண் என்பது மற்றவர்கள் உங்களை அழைக்க உதவுகின்ற ஒரு குறிப்பிட்ட எண் தொகுப்பாகும், அது உங்கள் தொலைபேசியை அடையாளப்படுத்துகிறது.இதே போல், IP முகவரி என்பது உங்கள் கணினியை அடையாளப்படுத்தும் ஒரு எண் தொகுப்பாகும், அது மற்ற கணினிகளிடையே தரவை அனுப்ப பெற உதவும் தனித்துவமான அடையாளமாகும்.</p>
 <p class="p">தற்போது, பெரும்பாலான IP முகவரிகள் நான்கு எண் தொகுதிகளைக் கொண்டுள்ளன, அவை ஒவ்வொன்றும் ஒரு புள்ளியால் பிரிக்கப்படும். <span class="code">192.168.1.42</span> என்பது IP முகவரிக்கு ஒரு எடுத்துக்காட்டு.</p>
 <div class="note note-tip" title="துணுக்கு"><div class="inner"><div class="region"><div class="contents"><p class="p">An IP address can either be <span class="em">dynamic</span> or <span class="em">static</span>. Dynamic
     IP addresses are temporarily assigned each time your computer connects to a
     network. Static IP addresses are fixed, and do not change. Dynamic IP
-    addresses are more common that static addresses - static addresses are
+    addresses are more common that static addresses — static addresses are
     typically only used when there is a special need for them, such as in the
     administration of a server.</p></div></div></div></div>
 </div>

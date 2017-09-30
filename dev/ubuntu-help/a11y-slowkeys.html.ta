@@ -71,7 +71,9 @@
 </div></div>
 </div></div>
 <p class="p">ஒரு விசையை நீங்கள் அழுத்துகையில், அந்த விசை ஏற்றுக்கொள்ளப்பட எவ்வளவு நேரம் அதை அழுத்திப் பிடித்திருக்க வேண்டும் என்ற நேரத்தைக் கட்டுப்படுத்த, <span class="gui">ஏற்றலில் தாமதம்</span> அளவுகோலைப் பயன்படுத்தலாம்.</p>
-<p class="p">நீங்கள் ஒரு விசையை அழுத்தும் போதும், ஒரு விசையை அழுத்துதல் ஏற்கப்படும் போதும், அல்லது நீங்கள் போதிய நேரம் விசையை அழுத்திப் பிடித்திருக்காததால் ஒரு விசை நிராகரிக்கப்படும் போதும் உங்கள் கணினியை ஒலி எழுப்பச் செய்யவும் முடியும்.</p>
+<p class="p">You can have your computer make a sound when you press a key, when a key
+  press is accepted, or when a key press is rejected because you didn’t hold
+  the key down long enough.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

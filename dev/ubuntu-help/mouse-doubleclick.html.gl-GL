@@ -55,7 +55,10 @@
 <div class="hgroup"><h1 class="title"><span class="title">Axustar a velocidade do dobre clic</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">A dobre pulsación só se produce cando preme o botón do rato dúas veces o bastante rápido. Se se tarda moito en premer a segunda vez, obterá dúas pulsacións separadas, non unha dobre pulsación. Se ten dificultades en premer o rato tan rápido debería incrementar o tempo de espera.</p>
+<p class="p">Double-clicking only happens when you press the mouse button twice
+quickly enough. If the second press is too long after the first, you’ll
+just get two separate clicks, not a double click. If you have difficulty
+pressing the mouse button quickly, you should increase the timeout.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Actividades</a></span> e comece a escribir <span class="gui">Acceso universal</span>.</p></li>
 <li class="steps"><p class="p">Prema sobre <span class="gui">Acceso universal</span> para abrir o panel.</p></li>

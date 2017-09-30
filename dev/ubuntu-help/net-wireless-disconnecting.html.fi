@@ -67,7 +67,12 @@
 <div id="network" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Verkkoyhteys ei muodostu kunnolla</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Joskus kun muodostat yhteyden langattomaan verkkoon, yhteys tuntuu katkeavan pian sen muodostamisen jälkeen. Tämä johtuu yleensä siitä, että yhteyden muodostus onnistui vain osittain; tietokone sai yhteyden verkkoon, mutta ei jostain syystä onnistunut viimeistelemään yhteyttä.</p>
+<p class="p">Sometimes, when you connect to a wireless network, it may appear that you
+ have successfully connected at first, but then you will be disconnected soon
+ after. This normally happens because your computer was only partially
+ successful in connecting to the network — it managed to establish a connection,
+ but was unable to finalize the connection for some reason and so was
+ disconnected.</p>
 <p class="p">Mahdollisia syitä tähän on muun muassa virheellinen salasana tai tietokonettasi ei sallittu käyttämään verkkoa (tämä taas voi johtua esimerkiksi siitä, että verkko vaatii rekisteröitymisen).</p>
 </div></div>
 </div></div>
@@ -89,14 +94,14 @@
 <a href="net-wireless.html" title="Langattomat verkkoyhteydet">Langattomat verkkoyhteydet</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Langattomaan verkkoon yhdistäminen">Langattomaan lähiverkkoon yhdistäminen</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Yhdistä piilotettuun verkkoon">piilotetut verkot</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Miksi langaton yhteys katkeaa?">yhteyden katkeaminen</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-problem.html" title="Yhteysongelmat">Yhteysongelmat</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Langattoman verkon vianselvitys">Langattoman yhteyden ongelmanratkaisu</a></span>, <span class="link"><a href="net-wireless-find.html" title="En näe langatonta verkkoani listalla">langattoman verkon löytäminen</a></span>…</span>
+<a href="net-problem.html" title="Yhteysongelmat">Yhteysongelmat</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Langattoman verkon vianselvitys">Langattoman yhteyden ongelmanratkaisu</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">langattoman verkon löytäminen</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-connect.html" title="Langattomaan verkkoon yhdistäminen">Langattomaan verkkoon yhdistäminen</a><span class="desc"> — Pääsysi internetiin - langattomasti.</span>
+<a href="net-wireless-connect.html" title="Langattomaan verkkoon yhdistäminen">Langattomaan verkkoon yhdistäminen</a><span class="desc"> — Yhdistä internetiin — langattomasti.</span>
 </li></ul></div>
 </div></div>
 </div>

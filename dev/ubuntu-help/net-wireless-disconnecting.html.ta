@@ -67,7 +67,12 @@
 <div id="network" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">பிணைய இணைப்பு சரியாக நிறுவப்படுவதில்லை</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">சில சமயங்களில், நீங்கள் ஒரு வயர்லெஸ் பிணையத்துடன் இணைக்கையில், முதலில் இணைப்பு கிடைத்துவிட்டதாகத் தெரியலாம், ஆனால் உடனே மீண்டும் துண்டிக்கப்படலாம். உங்கள் கணினி முதலில் பகுதியளவே இணைப்பில் வெற்றியடைந்ததே இதற்குக் காரணம். அது எப்படியோ ஒரு இணைப்பை உருவாக்கியிருக்கும், ஆனால் ஏதோ காரணங்களால் இணைப்பை இறுதிப்படுத்த முடியாமல் போயிருக்கலாம், ஆகவே மீண்டும் இணைப்பு துண்டிக்கப்பட்டிருக்கும்.</p>
+<p class="p">Sometimes, when you connect to a wireless network, it may appear that you
+ have successfully connected at first, but then you will be disconnected soon
+ after. This normally happens because your computer was only partially
+ successful in connecting to the network — it managed to establish a connection,
+ but was unable to finalize the connection for some reason and so was
+ disconnected.</p>
 <p class="p">இதற்கு சாத்தியமுள்ள சில காரணங்கள்: நீங்கள் தவறான வயர்லெஸ் கடவு வாக்கியத்தை உள்ளிட்டிருக்கலாம் அல்லது அந்த பிணையத்திற்கு இணைய உங்கள் கணினிக்கு அனுமதியில்லாமல் இருக்கலாம் (பிணையத்தில் புகுபதிவு செய்ய பயனர்பெயர் தேவையாக இருக்கலாம்).</p>
 </div></div>
 </div></div>
@@ -86,7 +91,7 @@
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-problem.html" title="பிணைய சிக்கல்கள்">பிணைய சிக்கல்கள்</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">வயர்லெஸ் இணைப்புகளை சிக்கல் தீர்த்தல்</a></span>, <span class="link"><a href="net-wireless-find.html" title="பட்டியலில் என் வயர்லெஸ் பிணையத்தைப் பார்க்க முடியவில்லை">உங்கள் wifi பிணையத்தைக் கண்டறிதல்</a></span>…</span>
+<a href="net-problem.html" title="பிணைய சிக்கல்கள்">பிணைய சிக்கல்கள்</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">வயர்லெஸ் இணைப்புகளை சிக்கல் தீர்த்தல்</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">உங்கள் wifi பிணையத்தைக் கண்டறிதல்</a></span>…</span>
 </li>
 <li class="links ">
 <a href="net-wireless.html" title="வயர்லெஸ் பிணையமாக்கம்">வயர்லெஸ் பிணையமாக்கம்</a><span class="desc"> — 
@@ -100,7 +105,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-connect.html" title="ஒரு வயர்லெஸ் பிணையத்துடன் இணைத்தல்">ஒரு வயர்லெஸ் பிணையத்துடன் இணைத்தல்</a><span class="desc"> — வயர்லெஸ் முறையில் இணையத்துடன் இணைத்தல்.</span>
+<a href="net-wireless-connect.html" title="ஒரு வயர்லெஸ் பிணையத்துடன் இணைத்தல்">ஒரு வயர்லெஸ் பிணையத்துடன் இணைத்தல்</a><span class="desc"> — Get on the internet — wirelessly.</span>
 </li></ul></div>
 </div></div>
 </div>

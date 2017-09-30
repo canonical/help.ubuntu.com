@@ -2,7 +2,7 @@
 <html lang=fr>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Mon nouvel iPod ne fonctionne pas</title>
+<title>My new iPod won’t work</title>
 <link rel="stylesheet" type="text/css" href="fr.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,10 +46,10 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Son, images et vidéos">Son, images et vidéos</a> › <a class="trail" href="media.html#music" title="Musique et lecteurs audio portables">Musique et lecteurs</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Mon nouvel iPod ne fonctionne pas</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">My new iPod won’t work</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Si vous possédez un iPod neuf qui n'a encore jamais été connecté à un ordinateur, il ne sera pas reconnu correctement par un système Linux. La raison est qu'il doit d'abord être configuré et mis à jour à partir du logiciel d'<span class="app">iTunes</span> opérationnel seulement depuis un ordinateur sous Windows ou Mac OS.</p>
+<p class="p">If you have a new iPod that has never been connected to a computer before, it won’t be recognized properly when you connect it to a Linux computer. This is because iPods need to be set up and updated using the <span class="app">iTunes</span> software, which only runs on Windows and Mac OS.</p>
 <p class="p">Pour configurer votre iPod, branchez-le sur un ordinateur sous Windows ou Mac OS. Suivez les étapes qui vous sont indiquées pour le paramétrage. Lorsqu'il vous est demandé de choisir le <span class="gui">Format du volume</span>, choisissez <span class="gui">MS-DOS (FAT)</span>, <span class="gui">Windows</span> ou quelque chose de similaire. L'autre format (HFS/Mac) ne fonctionne pas aussi bien sous Linux.</p>
 <p class="p">Après paramétrage, l'iPod doit fonctionner normalement quand vous le connectez à un ordinateur sous Linux.</p>
 </div>

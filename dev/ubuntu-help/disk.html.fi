@@ -49,13 +49,16 @@
 <div class="hgroup"><h1 class="title"><span class="title">Levyt ja tiedon tallennus</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
+<div class="linkdiv "><a class="linkdiv" href="disk-resize.html" title="Adjust the size of a filesystem"><span class="title">Adjust the size of a filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Shrink or grow a filesystem and its partition.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="addremove-creator.html" title="Create a startup disk"><span class="title">
     Create a startup disk
   </span><span class="linkdiv-dash"> — </span><span class="desc"> 
     Convert a USB flash drive into a volume from which you can startup and install Ubuntu.
     </span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-partitions.html" title="Hallitse levyjä ja osioita"><span class="title">Hallitse levyjä ja osioita</span><span class="linkdiv-dash"> — </span><span class="desc">Ymmärrät, mitä taltiot ja levyosiot ovat ja käytät levytyökalua niiden hallintaan.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-check.html" title="Tarkista kiintolevysi ongelmien varalta"><span class="title">Tarkista kiintolevysi ongelmien varalta</span><span class="linkdiv-dash"> — </span><span class="desc">Testaa kiintolevysi varmistaaksesi, että se on kunnossa.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-repair.html" title="Repair a damaged filesystem"><span class="title">Repair a damaged filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Check if a filesystem is damaged and bring it back into a usable
+          state.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-check.html" title="Tarkista kiintolevysi ongelmien varalta"><span class="title">Tarkista kiintolevysi ongelmien varalta</span><span class="linkdiv-dash"> — </span><span class="desc">Test your hard disk for problems to make sure that it’s healthy.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-capacity.html" title="Tarkista kuinka paljon levytilaa on käytössä"><span class="title">Tarkista kuinka paljon levytilaa on käytössä</span><span class="linkdiv-dash"> — </span><span class="desc">Käytä <span class="gui">Levynkäytön analysointia</span> tai <span class="gui">Järjestelmän valvontaa</span> levyn vapaan tilan ja koon tarkistamiseen.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-benchmark.html" title="Testaa kiintolevyn suorituskyky"><span class="title">Testaa kiintolevyn suorituskyky</span><span class="linkdiv-dash"> — </span><span class="desc">Suorita levylle suorituskykytestejä mitataksesi levyn nopeus.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-format.html" title="Tyhjennä siirrettävä levy"><span class="title">Tyhjennä siirrettävä levy</span><span class="linkdiv-dash"> — </span><span class="desc">Poista kaikki tiedostot ja kansiot ulkoiselta kiintolevyltä tai USB-muistitikulta alustamalla se.</span></a></div>

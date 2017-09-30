@@ -49,7 +49,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Anslut till ett dolt, trådlöst nätverk</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Det är möjligt att ställa in ett trådlöst nätverk så att det är ”dolt”. Dolda nätverk visas inte i listan över trådlösa nätverk som visas i inställningarna under <span class="gui">Nätverk</span>. För att ansluta till ett dolt nätverk:</p>
+<p class="p">Det är möjligt att ställa in ett trådlöst nätverk så att det är ”dolt”. Dolda nätverk visas inte i listan över trådlösa nätverk som visas i inställningarna under <span class="gui">Nätverk</span>. För att ansluta till ett dolt trådlöst nätverk:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öppna <span class="gui"><a href="shell-introduction.html#yourname" title="Du och din dator">systemmenyn</a></span> på högersidan av systemraden.</p></li>
 <li class="steps"><p class="p">Välj <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span> Trådlöst nätverk inte anslutet</span>. Då expanderas delen om trådlösa nätverk av menyn.</p></li>
@@ -60,7 +60,7 @@
 <li class="steps"><p class="p">Mata in lösenordet eller andra säkerhetsdetaljer.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Anslut</span>.</p></li>
 </ol></div></div></div>
-<p class="p">Du kan vara tvungen att kontrollera inställningarna på den trådlösa accesspunkten eller routern för att se vad nätverkets namn är. Om du inte har nätverksnamnet (SSID) kan du använda <span class="em">BSSID</span> (Basic Service Set Identifier, accesspunktens MAC-adress), som ser ut något i stil med <span class="gui">02:00:01:02:03:04</span> och kan vanligtvis hitta på undersidan av accesspunkten.</p>
+<p class="p">Du kan vara tvungen att kontrollera inställningarna på den trådlösa accesspunkten eller routern för att se vad nätverkets namn är. Om du inte har nätverksnamnet (SSID) kan du använda <span class="em">BSSID</span> (Basic Service Set Identifier, accesspunktens MAC-adress), som ser ut något i stil med <span class="gui">02:00:01:02:03:04</span> och kan vanligtvis hittas på undersidan av accesspunkten.</p>
 <p class="p">Du bör också kontrollera säkerhetsinställningarna för den trådlösa accesspunkten. Leta efter ord som WEP och WPA.</p>
 <div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">Du kanske tror att dölja ditt trådlösa nätverk kommer att förbättra säkerheten genom att förhindra personer som inte känner till det från att ansluta. I praktiken är detta inte fallet. Nätverket blir svårare att hitta men är fortfarande möjligt att hitta.</p></div></div></div></div>
 </div>

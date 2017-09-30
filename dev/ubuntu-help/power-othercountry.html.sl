@@ -51,7 +51,13 @@
 <div class="contents">
 <p class="p">Različne države uporabljajo polnilce z različnimi napetostmi (običajno 110V ali 220-240V) in frekvencami (običajno 50 Hz ali 60 Hz). Vaš računalnik bi moral delovati z napajalniki iz različnih držav dokler imate ustrezen vmesnik. Morda boste morali obrniti stikalo.</p>
 <p class="p">V primeru da imate prenosnik, je vse, kar morate storiti, najti pravi vtič za svoj napajalnik. Večina prenosnikov ima več kot en vtič za svoj napajalnik, zato morda že imate pravega. Če ga nimate, bo vklop obstoječega vtiča v običajni potovalni vmesnik zadostoval.</p>
-<p class="p">V primeru da imate namizni računalnik, lahko dobite tudi kabel z drugačnim vtičem ali uporabite potovalni vmesnik. V tem primeru boste morda morali spremeniti stikalo napetosti na napajalniku računalnika, če obstaja. Večina računalnikov takšnega stikala nima in bo delovalo z obema napetostma. Oglejte si zadnjo stran računalnika in najdite priključek za vklop kabla z električnega omrežja. Nekje blizu je lahko majhno stikalo označeno s "110V" ali "230V". Preklopite ga, če je to potrebno.</p>
+<p class="p">If you have a desktop computer, you can also get a cable with a different
+plug, or use a travel adapter. In this case, however, you may need to change
+the voltage switch on the computer’s power supply, if there is one. Many
+computers do not have a switch like this, and will happily work with either
+voltage. Look at the back of the computer and find the socket that the power
+cable plugs into. Somewhere nearby, there may be a small switch marked “110V”
+or “230V” (for example). Switch it if you need to.</p>
 <div class="note note-warning" title="Opozorilo"><div class="inner"><div class="region"><div class="contents"><p class="p">Pri spreminjanju kablov električnega omrežja ali uporabi potovalnih prilagodilnikov bodite previdni. Izklopite vse, kar lahko.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">

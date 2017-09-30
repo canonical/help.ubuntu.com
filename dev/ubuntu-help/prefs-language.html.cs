@@ -49,7 +49,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Region a jazyk</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="keyboard-layouts.html" title="Use alternative keyboard layouts"><span class="title">Use alternative keyboard layouts</span><span class="linkdiv-dash"> — </span><span class="desc">Add keyboard layouts and switch between them.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="keyboard-layouts.html" title="Použití alternativního rozložení klávesnice"><span class="title">Použití alternativního rozložení klávesnice</span><span class="linkdiv-dash"> — </span><span class="desc">Přidání rozložení klávesnice a přepnutí mezi nimi.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="session-formats.html" title="Změna formátů data a měrných jednotek"><span class="title">Změna formátů data a měrných jednotek</span><span class="linkdiv-dash"> — </span><span class="desc">Jak vybrat region určující formát data, času a čísel, měnu a jednotky.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="session-language.html" title="Změna jazyka, který používáte"><span class="title">Změna jazyka, který používáte</span><span class="linkdiv-dash"> — </span><span class="desc">Jak se přepnou na jiný jazyk pro uživatelské rozhraní a text nápovědy.</span></a></div>
 </div></div></div></div>

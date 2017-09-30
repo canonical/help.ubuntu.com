@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Change the name or location of a printer</title>
+<title>De naam of locatie van een printer wijzigen</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,10 +43,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="printing.html" title="Afdrukken">Afdrukken</a> › <a class="trail" href="printing.html#setup" title="Een printer instellen">Setup</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="printing.html" title="Afdrukken">Afdrukken</a> › <a class="trail" href="printing.html#setup" title="Een printer instellen">Setup</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Change the name or location of a printer</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">De naam of locatie van een printer wijzigen</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">You can change the name or location of a printer in the printer
@@ -55,29 +55,27 @@
     on the system to change the name or location of a printer.</p></div></div></div></div>
 </div>
 <div id="printer-name-change" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Change printer name</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">De printernaam wijzigen</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">If you want to change the name of a printer, take the following steps:</p>
+<p class="p">Als u de naam van een printer wilt wijzigen, doorloop de volgende stappen:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Printers</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Printers</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Printers</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Printers</span> om het paneel te openen.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Unlock</span> button in the top-right corner and enter
       your password.</p></li>
 <li class="steps"><p class="p">Click the name of your printer, and start typing a new name for
       the printer.</p></li>
-<li class="steps"><p class="p">Press <span class="key"><kbd>Enter</kbd></span> to save your changes.</p></li>
+<li class="steps"><p class="p">Druk op <span class="key"><kbd>Enter</kbd></span> om uw wijzigingen op te slaan.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
 <div id="printer-location-change" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Change printer location</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">De printerlocatie wijzigen</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">To change the location of your printer:</p>
+<p class="p">Om de locatie van uw printer te wijzigen:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Printers</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Printers</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Printers</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Printers</span> om het paneel te openen.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Unlock</span> button in the top-right corner and enter
       your password.</p></li>
 <li class="steps"><p class="p">Click the location, and start editing the location.</p></li>
@@ -95,8 +93,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="user-admin-explain.html" title="Hoe werken beheerdersrechten?">Hoe werken beheerdersrechten?</a><span class="desc"> — You need administrative privileges to change important parts of your
-    system.</span>
+<a href="user-admin-explain.html" title="Hoe werken beheerdersrechten?">Hoe werken beheerdersrechten?</a><span class="desc"> — U heeft beheerdersrechten nodig om belangrijke delen van uw systeem te wijzigen.</span>
 </li></ul></div>
 </div></div>
 </div>

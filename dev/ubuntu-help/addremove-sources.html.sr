@@ -64,7 +64,10 @@
    To add a repository:
    </p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Кликните на иконицу <span class="app">Убунтуов софтвер</span> на <span class="gui">Покретачу</span>, или потражите <span class="input">Софтвер</span> у траци претраге у <span class="gui">Полетнику</span>.</p></li>
+<li class="steps"><p class="p">
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">Када се покрене <span class="app">Убунтуов софтвер</span>, кликните <span class="gui">Софтвер и ажурирања</span></p></li>
 <li class="steps"><p class="p">Биће вам затражено да унесете лозинку. Када то урадите, пребаците се на језичак <span class="gui">Остали софтвер</span>.</p></li>
 <li class="steps">

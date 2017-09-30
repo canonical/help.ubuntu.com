@@ -59,7 +59,8 @@ because suspend is not supported properly by your hardware.</p></div>
 <div class="hgroup"><h2 class="title"><span class="title">Moj računalnik je v stanju pripravljenosti in se ne prižge</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">V primeru da ste svoj računalnik poslali v stanje pripravljenosti in nato pritisnili tipko ali kliknili na miško, bi se moral iz stanja pripravljenosti povrniti in prikazati zaslon, ki vas bo vprašal za vaše geslo. V primeru da se to ne zgodi, poskusite s pritiskom na gumb za vklop (ne držite ga, pritisnite ga le enkrat).</p>
-<p class="p">V primeru da tudi to ne pomaga, se prepričajte, da je zaslon vašega računalnika vklopljen in ponovno pritisnite tipko na tipkovnici.</p>
+<p class="p">If this still does not help, make sure that your computer’s monitor is
+  switched on and try pressing a key on the keyboard again.</p>
 <p class="p">Kot zadnjo možnost poskusite izklopiti računalnik s pritiskom na gumb za vklop za 5-10 sekund. S tem boste izgubili vse neshranjeno delo, vendar boste lahko računalnik ponovno prižgali.</p>
 <p class="p">V primeru da se to zgodi vsakič, ko računalnik pošljete v stanje pripravljenosti, zmožnost stanja pripravljenosti morda z vašo strojno opremo ne deluje.</p>
 <div class="note note-warning" title="Opozorilo"><div class="inner"><div class="region"><div class="contents"><p class="p">Če vaš računalnik izgubi napetost in nima nadomestnega vira napetosti (kot je delujoča baterija), se bo izklopil.</p></div></div></div></div>

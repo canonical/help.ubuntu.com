@@ -49,7 +49,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Andra användare kan inte redigera nätverksanslutningarna</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Om du kan redigera en nätverksanslutning men andra användare på din dator inte kan det, kan du behöva ställa in anslutning till att vara <span class="em">tillgänglig för alla användare</span>. Detta gör så att alla på datorn kan <span class="em">ansluta</span> via den anslutningen.</p>
+<p class="p">Om du kan redigera en nätverksanslutning men andra användare på din dator inte kan det, kan du behöva ställa in anslutningen till att vara <span class="em">tillgänglig för alla användare</span>. Detta gör så att alla på datorn kan <span class="em">ansluta</span> via den anslutningen.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Nätverk</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Nätverk</span> för att öppna panelen.</p></li>

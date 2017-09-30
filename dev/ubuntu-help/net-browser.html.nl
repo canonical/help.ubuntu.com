@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Web Browsers</title>
+<title>Webbrowsers</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Web Browsers</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Webbrowsers</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-default-browser.html" title="Change which web browser opens websites by default"><span class="title">Change which web browser opens websites by default</span><span class="linkdiv-dash"> — </span><span class="desc">Change the default web browser by going to <span class="gui">Details</span> in <span class="gui">Settings</span>.</span></a></div></div>
 <div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-install-flash.html" title="De Flash plug-in installeren"><span class="title">De Flash plug-in installeren</span><span class="linkdiv-dash"> — </span><span class="desc">Het kan zijn dat u Flash moet installeren om bepaalde websites met video's en interactieve webpagina's te kunnen bekijken.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-default-browser.html" title="Wijzigen in welke webbrowser websites geopend moeten worden"><span class="title">Wijzigen in welke webbrowser websites geopend moeten worden</span><span class="linkdiv-dash"> — </span><span class="desc">Om de standaard webbrowser te wijzigen, ga naar <span class="gui">Details</span> in de <span class="gui">Instellingen</span>.</span></a></div></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -58,12 +58,12 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless.html" title="Wireless Networking">Wireless</a></span>,
-      <span class="link"><a href="net-wired.html" title="Wired Networking">wired</a></span>,
-      <span class="link"><a href="net-problem.html" title="Network problems">connection problems</a></span>,
-      <span class="link"><a href="net-browser.html" title="Web Browsers">web browsing</a></span>,
-      <span class="link"><a href="net-email.html" title="Email &amp; email software">email accounts</a></span>…
+<a href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a><span class="desc"> — 
+      <span class="link"><a href="net-wireless.html" title="Draadloos netwerk">Wireless</a></span>,
+      <span class="link"><a href="net-wired.html" title="Bekabeld netwerk">wired</a></span>,
+      <span class="link"><a href="net-problem.html" title="Netwerkproblemen">connection problems</a></span>,
+      <span class="link"><a href="net-browser.html" title="Webbrowsers">web browsing</a></span>,
+      <span class="link"><a href="net-email.html" title="E mail &amp; e-mailsoftware">email accounts</a></span>…
     </span>
 </li></ul></div>
 </div></div>

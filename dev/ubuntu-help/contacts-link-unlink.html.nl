@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Link and unlink contacts</title>
+<title>Contactpersoon aan elkaar verbinden en weer losmaken</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,43 +43,34 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="contacts.html" title="Contacts">Contacts</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="contacts.html" title="Contacten">Contacten</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Link and unlink contacts</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Contactpersoon aan elkaar verbinden en weer losmaken</span></h1></div>
 <div class="region">
 <div class="contents"></div>
 <div id="link-contacts" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Link contacts</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Contacten koppelen</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">You can combine duplicate contacts from your local address book and online
-  accounts into one <span class="app">Contacts</span> entry. This feature helps you keep your
-  address book organized, with all details about one contact in one place.</p>
+<p class="p">U kunt dubbele contactpersonen in uw adresboek en online accounts met elkaar combineren tot één item in <span class="app">Contactpersonen</span>. Deze functie helpt u om uw adresboek te organiseren met alle gegevens over een contactpersoon op één lokatie.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Enable <span class="em">selection mode</span> by pressing the tick button above the
-      contact list.</p></li>
-<li class="steps"><p class="p">A checkbox will appear next to each contact. Tick the checkboxes next
-      to the contacts that you want to merge.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Link</span> to link the selected
-      contacts.</p></li>
+<li class="steps"><p class="p">Schakel <span class="em">selectiemodus</span> in door deze boven de lijst met contactpersonen aan te vinken.</p></li>
+<li class="steps"><p class="p">Er verschijnt een aankruisvakje bij elk contact. Plaats een vinkje in de aankruisvakjes bij de contacten die u wilt samenvoegen.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Koppelen</span> om de geselecteerde contactpersonen aan elkaar te verbinden.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
 <div id="unlink-contacts" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Unlink contacts</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Contacten ontkoppelen</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">You may want to unlink contacts if you accidentally linked contacts which
-  should not be linked.</p>
+<p class="p">Als u onbedoeld contactpersonen aan elkaar heeft verbonden die niet aan elkaar verbonden hadden moeten worden, dan kunt u ze van elkaar losmaken.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Select the contact you wish to unlink from your list of contact.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Edit</span> in the top-right corner of
-      <span class="app">Contacts</span>.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Linked Accounts</span>.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Unlink</span> to unlink the entry from the
-      contact.</p></li>
-<li class="steps"><p class="p">Close the window once you have finished unlinking the entries.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Done</span> to finish editing the
-      contact.</p></li>
+<li class="steps"><p class="p">Selecteer de contactpersoon die van de contactenlijst wil losmaken.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Bewerken</span> rechtsboven in de hoek van <span class="app">Contactpersonen</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Verbonden accounts</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Ontkoppelen</span> om het item van de contactpersoon los te maken.</p></li>
+<li class="steps"><p class="p">Sluit het venster zodra u klaar bent met het ontkoppelen van de items.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Gereed</span> om het bewerken van de contactpersoon te beëindigen.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -88,7 +79,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="contacts.html" title="Contacts">Contacts</a><span class="desc"> — Access your contacts.</span>
+<a href="contacts.html" title="Contacten">Contacten</a><span class="desc"> — Toegang tot uw contacten.</span>
 </li></ul></div>
 </div></div></div>
 </div>

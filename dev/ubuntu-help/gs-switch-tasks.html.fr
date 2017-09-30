@@ -57,9 +57,11 @@
 <video src="figures/gnome-task-switching.webm" preload="auto" controls="controls" class="media media-block" height="394" width="700" data-play-label="Lecture" data-pause-label="Pause"></video><div class="media-ttml">
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="1" data-ttml-end="5"><div class="media-ttml-node media-ttml-p" data-ttml-begin="1" data-ttml-end="5">Navigation entre les tâches</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="9" data-ttml-end="12"><div class="media-ttml-node media-ttml-p" data-ttml-begin="9" data-ttml-end="12">Cliquez sur une fenêtre pour passer à cette tâche.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="12" data-ttml-end="14"><div class="media-ttml-node media-ttml-p" data-ttml-begin="12" data-ttml-end="14">Pour maximiser une fenêtre le long du bord gauche de l'écran, saisissez la fenêtre par sa barre de titre et glissez-la vers la gauche.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="12" data-ttml-end="14"><div class="media-ttml-node media-ttml-p" data-ttml-begin="12" data-ttml-end="14">To maximize a window along the left side of the screen, grab
+            the window’s titlebar and drag it to the left.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="14" data-ttml-end="16"><div class="media-ttml-node media-ttml-p" data-ttml-begin="14" data-ttml-end="16">Lorsque la moitié de l'écran s'éclaire, lâchez la fenêtre.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="16" data-ttml-end="0"><div class="media-ttml-node media-ttml-p" data-ttml-begin="16" data-ttml-end="0">Pour maximiser une fenêtre le long du bord droit de l'écran, saisissez la fenêtre par sa barre de titre et glissez-la à droite.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="16" data-ttml-end="0"><div class="media-ttml-node media-ttml-p" data-ttml-begin="16" data-ttml-end="0">To maximize a window along the right side, grab the window’s
+            titlebar and drag it to the right.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="18" data-ttml-end="20"><div class="media-ttml-node media-ttml-p" data-ttml-begin="18" data-ttml-end="20">Lorsque la moitié de l'écran s'éclaire, lâchez la fenêtre.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="23" data-ttml-end="27"><div class="media-ttml-node media-ttml-p" data-ttml-begin="23" data-ttml-end="27">Appuyez simultanément sur <span class="keyseq"><span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Logo</kbd></a></span>+<span class="key"><kbd>Tabulation</kbd></span></span> pour afficher le <span class="gui">sélecteur de fenêtres</span>.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="27" data-ttml-end="29"><div class="media-ttml-node media-ttml-p" data-ttml-begin="27" data-ttml-end="29">Relâchez <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Logo</kbd></a></span> pour sélectionner la fenêtre en surbrillance suivante.</div></div>
@@ -81,7 +83,8 @@
 <div id="switching-tasks-tiling" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Disposition des fenêtres</span></h2></div>
 <div class="region"><div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Pour maximiser une fenêtre le long d'un bord de l'écran, saisissez la fenêtre par sa barre de titre et glissez-la à gauche ou à droite de l'écran.</p></li>
+<li class="steps"><p class="p">To maximize a window along a side of the screen, grab the window’s
+       titlebar and drag it to the left or right side of the screen.</p></li>
 <li class="steps"><p class="p">Lorsque la moitié de l'écran s'éclaire, lâchez la fenêtre et elle se trouve maximisée le long du bord de l'écran choisi.</p></li>
 <li class="steps"><p class="p">Pour maximiser deux fenêtres côte à côte, saisissez la seconde fenêtre par sa barre de titre et glissez-la de l'autre côté de l'écran.</p></li>
 <li class="steps"><p class="p">Lorsque la moitié de l'écran s'éclaire, lâchez la fenêtre et elle se trouve maximisée le long du bord de l'écran opposé.</p></li>

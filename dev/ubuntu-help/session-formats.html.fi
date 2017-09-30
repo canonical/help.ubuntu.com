@@ -57,14 +57,14 @@
 <li class="steps"><p class="p">Click <span class="gui">Formats</span>.</p></li>
 <li class="steps"><p class="p">Select the region and language that most closely matches the formats
       you would like to use. If your region and language are not listed, click
-      <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="..."></span></span></span>
+      <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="…"></span></span></span>
       at the bottom of the list to select from all available regions and
       languages.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Done</span> to save.</p></li>
 <li class="steps"><p class="p">Respond to the prompt, <span class="gui">Your session needs to be restarted for
       changes to take effect</span> by clicking
       <span class="gui">Restart Now</span>, or click
-      <span class="gui">X</span> to restart later.</p></li>
+      <span class="gui">×</span> to restart later.</p></li>
 </ol></div></div></div>
 <p class="p">After you have selected a region, the area to the right of the list shows
   various examples of how dates and other values are shown. Although not shown

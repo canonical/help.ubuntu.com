@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Add or remove a contact</title>
+<title>Een contact toevoegen of verwijderen</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,26 +43,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="contacts.html" title="Contacts">Contacts</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="contacts.html" title="Contacten">Contacten</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Add or remove a contact</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Een contact toevoegen of verwijderen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">To add a contact:</p>
+<p class="p">Een contact toevoegen:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Press the <span class="gui">+</span> button.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">New contact</span> dialog, enter the contact name and their
-      information. Click on the drop down box next to each field to chose the
-      type of detail.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Add</span>.</p></li>
+<li class="steps"><p class="p">Druk op de <span class="gui">+</span>-knop.</p></li>
+<li class="steps"><p class="p">In het <span class="gui">Nieuw contact</span>-venster, voer de naam en andere informatie in. Klik op het keuzemenu naast elk veld om het soort kenmerk te kiezen.</p></li>
+<li class="steps"><p class="p">Druk op <span class="gui">Toevoegen</span>.</p></li>
 </ol></div></div></div>
-<p class="p">To remove a contact:</p>
+<p class="p">Een contact verwijderen:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Select the contact from your contact list.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Edit</span> in the top-right corner of
-      <span class="app">Contacts</span>.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Remove Contact</span>.</p></li>
+<li class="steps"><p class="p">Kies een contactpersoon uit uw contactenlijst</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Bewerken</span> rechtsboven in de hoek van <span class="app">Contactpersonen</span>.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Contactpersoon verwijderen</span>.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -70,7 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="contacts.html" title="Contacts">Contacts</a><span class="desc"> — Access your contacts.</span>
+<a href="contacts.html" title="Contacten">Contacten</a><span class="desc"> — Toegang tot uw contacten.</span>
 </li></ul></div>
 </div></div></div>
 </div>

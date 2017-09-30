@@ -68,7 +68,7 @@
 <li class="steps"><p class="p">Klicka på <span class="gui">Lägg till…</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Om du vill ändra lösenordet efter att kontot skapats, välj kontot, <span class="gui">Lås upp</span> panelen och tryck på den aktuella lösenordsstatusen.</p>
-<div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">I panelen <span class="gui">Användare</span> kan du klicka på bilden intill användarens namn till höger för att ställa in en bild för kontot. Denna bilden kommer att visas i inloggningsfönstret. GNOME tillhandahåller några exempelfoton som du kan använda, eller så kan du välja dina egna eller ta en bild med din webbkamera.</p></div></div></div></div>
+<div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">I panelen <span class="gui">Användare</span> kan du klicka på bilden intill användarens namn till höger för att ställa in en bild för kontot. Denna bild kommer att visas i inloggningsfönstret. GNOME tillhandahåller några exempelfoton som du kan använda, eller så kan du välja dina egna eller ta en bild med din webbkamera.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

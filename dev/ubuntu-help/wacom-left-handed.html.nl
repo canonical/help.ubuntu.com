@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Use the tablet left-handed</title>
+<title>Het tablet gebruiken met uw linkerhand</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,25 +43,22 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="wacom.html" title="Wacom Graphics Tablet">Wacom Graphics Tablet</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="wacom.html" title="Wacom-tekentablet">Wacom-tekentablet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Use the tablet left-handed</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Het tablet gebruiken met uw linkerhand</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Some tablets have hardware buttons on one side. The tablet can be rotated
-   180 degrees to position these buttons for left-handed people. To switch the
-   orientation to left-handed:</p>
+<p class="p">Sommige tablets hebben knoppen aan de zijkant. Het tablet kan 180 graden gedraaid worden om deze knoppen op de plaats voor linkshandigen te zetten. Om de oriëntatie naar linkshandig om te zetten:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-    start typing <span class="gui">Wacom Tablet</span>.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Wacom-tablet</span>.</p></li>
 <li class="steps">
-<p class="p">Click on <span class="gui">Wacom Tablet</span> to open the panel.</p>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">If no tablet is detected, you'll be asked to
+<p class="p">Klik op <span class="gui">Wacom-tablet</span> om het paneel te openen.</p>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">If no tablet is detected, you’ll be asked to
     <span class="gui">Please plug in or turn on your Wacom tablet</span>. Click the
     <span class="gui">Bluetooth Settings</span> link to connect a wireless tablet.</p></div></div></div></div>
 </li>
-<li class="steps"><p class="p">Switch <span class="gui">Left-Handed Orientation</span> to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Zet <span class="gui">Linkshandige oriëntatie</span> op <span class="gui">AAN</span>.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -69,11 +66,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="wacom.html" title="Wacom Graphics Tablet">Wacom Graphics Tablet</a><span class="desc"> — 
-      <span class="link"><a href="wacom-multi-monitor.html" title="Choose a monitor">Map a monitor</a></span>,
-      <span class="link"><a href="wacom-stylus.html" title="Configure the stylus">configure the stylus</a></span>,
-      <span class="link"><a href="wacom-left-handed.html" title="Use the tablet left-handed">use the tablet left handed</a></span>…
-  </span>
+<a href="wacom.html" title="Wacom-tekentablet">Wacom-tekentablet</a><span class="desc"> — <span class="link"><a href="wacom-multi-monitor.html" title="Een monitor kiezen">Een monitor koppelen</a></span>, <span class="link"><a href="wacom-stylus.html" title="De pen configureren">de pen configureren</a></span>, <span class="link"><a href="wacom-left-handed.html" title="Het tablet gebruiken met uw linkerhand">de tablet linkshandig gebruiken</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

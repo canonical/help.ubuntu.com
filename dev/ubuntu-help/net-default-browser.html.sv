@@ -56,7 +56,7 @@
 <li class="steps"><p class="p">Välj <span class="gui">Standardprogram</span> från listan till vänster i fönstret.</p></li>
 <li class="steps"><p class="p">Välj vilken webbläsare du önskar att öppna länkar i genom att ändra alternativet <span class="gui">Webb</span>.</p></li>
 </ol></div></div></div>
-<p class="p">När du öppnar en annan webbläsare kan den komma att berätta för dig att den inte är standardwebbläsaren längre. Om detta händer klicka på knappen <span class="gui">Avbryt</span> (eller liknande) så att den inte försöker ställa in sig själv som standardwebbläsare igen.</p>
+<p class="p">När du öppnar en annan webbläsare kan den komma att berätta för dig att den inte är standardwebbläsaren längre. Om detta händer, klicka på knappen <span class="gui">Avbryt</span> (eller liknande) så att den inte försöker ställa in sig själv som standardwebbläsare igen.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

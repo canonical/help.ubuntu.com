@@ -61,7 +61,9 @@
       not be able to get the right drivers for them. In this case, you will
       probably have to get a different Bluetooth adapter.</p></dd>
 <dt class="terms">Adapter is not switched on</dt>
-<dd class="terms"><p class="p">Проверьте, включён ли адаптер Bluetooth. Нажмите на значок Bluetooth в <span class="gui">верхней панели</span> и проверьте что он не <span class="link"><a href="bluetooth-turn-on-off.html" title="Включение и выключение Bluetooth">отключён</a></span>.</p></dd>
+<dd class="terms"><p class="p">Make sure that your Bluetooth adapter is switched on. Click the
+          Bluetooth icon in the <span class="gui">menu bar</span> and check that it’s not
+          <span class="link"><a href="bluetooth-turn-on-off.html" title="Включение и выключение Bluetooth">disabled</a></span>.</p></dd>
 <dt class="terms">Выключено соединение с Bluetooth на устройстве</dt>
 <dd class="terms"><p class="p">Check that Bluetooth is turned on on the device you are trying to
       connect to, and that it is <span class="link"><a href="bluetooth-visibility.html" title="Что такое видимость Bluetooth?">discoverable

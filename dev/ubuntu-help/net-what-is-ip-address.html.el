@@ -49,10 +49,16 @@
 <div class="hgroup"><h1 class="title"><span class="title">Τι είναι μια διεύθυνση IP;</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">"Διεύθυνση IP" σημαίνει <span class="em">διεύθυνση πρωτοκόλλου διαδικτύου</span> και κάθε συσκευή που συνδέεται στο δίκτυο (όπως το διαδίκτυο) έχει μία.</p>
+<p class="p">“IP address” stands for <span class="em">Internet Protocol address</span>, and each
+  device that is connected to a network (like the internet) has one.</p>
 <p class="p">Μια διεύθυνση IP είναι παρόμοια με τον αριθμό τηλεφώνου σας. Ο αριθμός τηλεφώνου σας είναι ένα μοναδικό σύνολο αριθμών που ταυτοποιεί το τηλέφωνο σας έτσι ώστε τα άλλα άτομα να μπορούν να σας καλούν. Παρόμοια, μια διεύθυνση IP είναι ένα μοναδικό σύνολο αριθμών που ταυτοποιεί τον υπολογιστή σας έτσι ώστε να μπορεί να στείλει και να δεχτεί δεδομένα από άλλους υπολογιστές.</p>
 <p class="p">Προς το παρόν, οι περισσότερες διευθύνσεις IP αποτελούνται από τέσσερα σύνολα αριθμών, που το καθένα χωρίζεται με μια τελεία. <span class="code">192.168.1.42</span> είναι ένα παράδειγμα μιας διεύθυνσης IP.</p>
-<div class="note note-tip" title="Συμβουλή"><div class="inner"><div class="region"><div class="contents"><p class="p">Μια διεύθυνση IP μπορεί είτε να είναι <span class="em">δυναμική</span> ή <span class="em">στατική</span>. Οι δυναμικές διευθύνσεις IP εκχωρούνται προσωρινά κάθε φορά που ο υπολογιστής σας συνδέεται σε ένα δίκτυο. Οι στατικές διευθύνσεις IP είναι σταθερές και δεν αλλάζουν. Οι δυναμικές διευθύνσεις IP είναι πιο συνηθισμένες από τις στατικές - οι στατικές διευθύνσεις χρησιμοποιούνται τυπικά μόνο όταν υπάρχει μια ειδική ανάγκη για αυτές, όπως η διαχείριση ενός διακομιστή.</p></div></div></div></div>
+<div class="note note-tip" title="Συμβουλή"><div class="inner"><div class="region"><div class="contents"><p class="p">An IP address can either be <span class="em">dynamic</span> or <span class="em">static</span>. Dynamic
+    IP addresses are temporarily assigned each time your computer connects to a
+    network. Static IP addresses are fixed, and do not change. Dynamic IP
+    addresses are more common that static addresses — static addresses are
+    typically only used when there is a special need for them, such as in the
+    administration of a server.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

@@ -50,14 +50,14 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-slow.html" title="インターネットが遅い"><span class="title">インターネットが遅い</span><span class="linkdiv-dash"> — </span><span class="desc">Other things might be downloading, you could have a poor connection,
-    or it could be a busy time of day.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html" title="一覧に自分の無線ネットワークが表示されません"><span class="title">一覧に自分の無線ネットワークが表示されません</span><span class="linkdiv-dash"> — </span><span class="desc">The wireless could be turned off or broken, or you may be trying to
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html" title="I can’t see my wireless network in the list"><span class="title">I can’t see my wireless network in the list</span><span class="linkdiv-dash"> — </span><span class="desc">The wireless could be turned off or broken, or you may be trying to
     connect to a hidden network.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-othersconnect.html" title="他のユーザーがインターネットに接続できない"><span class="title">他のユーザーがインターネットに接続できない</span><span class="linkdiv-dash"> — </span><span class="desc">コンピューターを使用する人が誰でもネットワーク接続を行えるよう、ネットワーク接続の設定 (パスワードなど) を保存することができます。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-othersconnect.html" title="Other users can’t connect to the internet"><span class="title">Other users can’t connect to the internet</span><span class="linkdiv-dash"> — </span><span class="desc">コンピューターを使用する人が誰でもネットワーク接続を行えるよう、ネットワーク接続の設定 (パスワードなど) を保存することができます。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-othersedit.html" title="Other users can’t edit the network connections"><span class="title">Other users can’t edit the network connections</span><span class="linkdiv-dash"> — </span><span class="desc">ネットワーク接続の設定内で<span class="gui">他のユーザーにも利用可能にする</span>オプションのチェックを外す必要があります。</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-othersedit.html" title="他のユーザーがネットワーク接続を編集できない"><span class="title">他のユーザーがネットワーク接続を編集できない</span><span class="linkdiv-dash"> — </span><span class="desc">ネットワーク接続の設定内で<span class="gui">他のユーザーにも利用可能にする</span>オプションのチェックを外す必要があります。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-slow.html" title="インターネットが遅い"><span class="title">インターネットが遅い</span><span class="linkdiv-dash"> — </span><span class="desc">Other things might be downloading, you could have a poor connection,
+    or it could be a busy time of day.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-disconnecting.html" title="無線ネットワークが切断されてしまいます、なぜですか?"><span class="title">無線ネットワークが切断されてしまいます、なぜですか?</span><span class="linkdiv-dash"> — </span><span class="desc">信号が弱い、またはネットワークに正しく接続されていない可能性があります。</span></a></div>
 </div>
 </div></div></div></div>

@@ -50,7 +50,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Para cambiar el volumen del sonido, abra el <span class="gui"><a href="shell-introduction.html#yourname" title="Usted y su equipo">menú del sistema</a></span> en el lado derecho de la barra superior y mueva el control deslizante de volumen a la derecha o a la izquierda. Puede desactivar completamente el sonido llevando el deslizador al extremo izquierdo.</p>
-<p class="p">Algunos teclados tienen teclas que le permiten controlar el volumen. Normalmente representan altavoces estilizados emitiendo «ondas» y frecuentemente están cerca de las teclas «F» en la parte superior. En los portátiles, normalmente están en las teclas «F». Para usarles mantenga pulsada la tecla <span class="key"><kbd class="key-Fn">Fn</kbd></span> en us teclado.</p>
+<p class="p">Algunos teclados tienen teclas que le permiten controlar el volumen. Normalmente representan altavoces estilizados emitiendo «ondas» y frecuentemente están cerca de las teclas «F» en la parte superior. En los portátiles, normalmente están en las teclas «F». Para usarles mantenga pulsada la tecla <span class="key"><kbd class="key-Fn">Fn</kbd></span> en su teclado.</p>
 <p class="p">Si tiene altavoces externos, también puede cambiar el volumen con el control de volumen en los propios altavoces. Algunos auriculares tienen también un control de volumen.</p>
 </div>
 <div id="apps" class="sect"><div class="inner">

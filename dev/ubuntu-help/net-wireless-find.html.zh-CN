@@ -2,7 +2,7 @@
 <html lang=zh-CN>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>我在列表中找不到我的无线网络</title>
+<title>I can’t see my wireless network in the list</title>
 <link rel="stylesheet" type="text/css" href="zh-CN.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -50,7 +50,7 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">我在列表中找不到我的无线网络</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">I can’t see my wireless network in the list</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">There are a number of reasons why you might not be able to see your
@@ -76,7 +76,7 @@
     </span>
 </li>
 <li class="links ">
-<a href="net-problem.html" title="网络问题">网络问题</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="无线网络故障排除">解决无线连接问题</a></span>、<span class="link"><a href="net-wireless-find.html" title="我在列表中找不到我的无线网络">查看 wifi 网络</a></span>…</span>
+<a href="net-problem.html" title="网络问题">网络问题</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="无线网络故障排除">解决无线连接问题</a></span>、<span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">查看 wifi 网络</a></span>…</span>
 </li>
 </ul></div>
 </div></div>

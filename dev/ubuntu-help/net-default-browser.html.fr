@@ -58,7 +58,10 @@
 <li class="steps"><p class="p">Choose which web browser you would like to open links by
       changing the <span class="gui">Web</span> option.</p></li>
 </ol></div></div></div>
-<p class="p">Si vous ouvrez un autre navigateur que celui-ci, un message vous informe qu'il n'est plus votre navigateur par défaut. Si cela se produit, cliquez sur le bouton <span class="gui">Annuler</span> (ou quelque chose de similaire) pour qu'il n'essaie pas de se configurer à nouveau comme votre navigateur par défaut.</p>
+<p class="p">When you open up a different web browser, it might tell you that it’s not
+  the default browser any more. If this happens, click the <span class="gui">Cancel</span>
+  button (or similar) so that it does not try to set itself as the default
+  browser again.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

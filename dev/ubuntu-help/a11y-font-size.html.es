@@ -57,7 +57,7 @@
 </ol></div></div></div>
 <p class="p">Alternativamente, puede ajustar rápidamente el tamaño del texto pulsando en el <span class="link"><a href="a11y-icon.html" title="Encontrar el menú de acceso universal">icono de accesibilidad</a></span> en la barra superior y seleccionando <span class="gui">Texto grande</span>.</p>
 <div class="note note-tip" title="Sugerencia"><div class="inner"><div class="region"><div class="contents"><p class="p">En muchas aplicaciones, puede aumentar el tamaño del texto en cualquier momento pulsando <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>+</kbd></span></span>. Para reducir el tamaño, pulse <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>-</kbd></span></span>.</p></div></div></div></div>
-<p class="p">La opción <span class="gui">Texto grande</span> ampliará el texto 1.2 veces. También puede usar la <span class="app">Herramienta de retoques</span> para aumentar o disminuir el tamaño del texto.</p>
+<p class="p">La opción <span class="gui">Texto grande</span> ampliará el texto 1.2 veces. También puede usar <span class="app">Retoques</span> para aumentar o disminuir el tamaño del texto.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

@@ -57,8 +57,7 @@
     connections, including WiFi, 3G and Bluetooth connections.</p></div></div></div></div>
 <p class="p">To turn on airplane mode:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span> overview and
-      start typing <span class="gui">Network</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Jaringan</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Jaringan</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Switch <span class="gui">Airplane Mode</span> to <span class="gui">ON</span>. This will turn off
       your wireless connection until you disable airplane mode again.</p></li>
@@ -72,11 +71,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Jaringan Nirkabel">Jaringan Nirkabel</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html" title="Menyambung ke jaringan nirkabel">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="Menyambung ke suatu jaringan nirkabel tersembunyi">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="Mengapa jaringan nirkabel saya terputus terus?">Disconnecting</a></span>…
-    </span>
+<a href="net-wireless.html" title="Jaringan Nirkabel">Jaringan Nirkabel</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Menyambung ke jaringan nirkabel">Menyambung ke wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Menyambung ke suatu jaringan nirkabel tersembunyi">Jaringan tersembunyi</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Mengapa jaringan nirkabel saya terputus terus?">Memutus</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

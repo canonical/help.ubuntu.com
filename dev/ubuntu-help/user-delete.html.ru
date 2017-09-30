@@ -49,7 +49,9 @@
 <div class="hgroup"><h1 class="title"><span class="title">Удаление учётной записи пользователя</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Можно добавить на компьютер несколько учётных записей пользователей. Если кто-то больше не пользуется вашим компьютером, можно удалить его учётную запись.</p>
+<p class="p">You can <span class="link"><a href="user-add.html" title="Добавление новой учётной записи пользователя">add multiple user accounts to your
+  computer</a></span>. If somebody is no longer using your computer, you can delete
+  that user’s account.</p>
 <p class="p">Для удаления учётных записей пользователей нужны <span class="link"><a href="user-admin-explain.html" title="Как работают административные полномочия?">права администратора</a></span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
@@ -58,7 +60,7 @@
 <li class="steps"><p class="p">Нажмите <span class="gui">Разблокировать</span> в верхнем правом углу и затем по запросу системы введите свой пароль.</p></li>
 <li class="steps"><p class="p">Чтобы удалить учётную запись, выберите имя пользователя и нажмите кнопку <span class="gui">-</span> под списком пользователей слева.</p></li>
 <li class="steps"><p class="p">Each user has their own home folder for their files and settings. You
-      can choose to keep or delete the user's home folder. Click <span class="gui">Delete
+      can choose to keep or delete the user’s home folder. Click <span class="gui">Delete
       Files</span> if you are sure they will not be used anymore and you need to
       free up disk space. These files are permanently deleted. They cannot be
       recovered. You may want to back up the files to an external storage device

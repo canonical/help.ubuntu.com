@@ -69,7 +69,8 @@
 <li class="list"><p class="p">Any version or revision numbers that may be printed on your wireless
       network devices or their packaging. These can be especially helpful, so
       look carefully.</p></li>
-<li class="list"><p class="p">Karkoli na disku z gonilniki, ki določa napravo, njeno različico "strojne programske opreme"  ali sestavne dele, ki jih uporablja.</p></li>
+<li class="list"><p class="p">Anything on the driver disc that identifies either the device itself,
+      its “firmware” version, or the components (chipset) it uses.</p></li>
 </ul></div></div></div>
 <p class="p">Če je mogoče, poskusite dobiti dostop do druge internetne povezave, da lahko prejmete programe in gonilnike, če je to potrebno. (priklop računalnika neposredno v usmerjevalnik z Ethernet omrežnim kablom je eden od načinov za to, vendar ga priklopite le, ko ga potrebujete.)</p>
 <p class="p">Ko imate kolikor je mogoče od teh predmetov, kliknite <span class="gui">Naprej</span>.</p>

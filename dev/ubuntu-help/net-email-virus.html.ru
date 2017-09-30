@@ -54,8 +54,19 @@
 <div class="region">
 <div class="contents">
 <p class="p">Вирусы — это программы, вызывающие проблемы при проникновении на компьютер. Один из типичных способов их попадания на компьютер — через электронную почту.</p>
-<p class="p">Вирусы, вредящие компьютерам с операционной системой Linux, встречаются очень редко, так что <span class="link"><a href="net-antivirus.html" title="Нужна ли мне антивирусная программа?">маловероятно, что ваш компьютер заразится вирусом</a></span> по электронной почте или как-то иначе. Даже если вы получите письмо с вирусом, то этот вирус, скорее всего, не окажет никакого эффекта на ваш компьютер. Поэтому не обязательно проверять электронную почту на наличие вирусов.</p>
-<p class="p">Тем не менее, можно выполнять проверку почты на их наличие, чтобы предотвратить пересылку вирусов от одного человека к другому. Например, если у одного из ваших друзей заражённый компьютер с Windows, и он посылает вам инфицированное письмо, а вы пересылаете это письмо другому другу с компьютером Windows, то ваш второй друг тоже может получить вирус. Чтобы не допустить этого, можно установить антивирусную программу и сканировать свою почту, хотя вряд ли такое случится: ведь у большинства пользователей Windows и Mac OS установлены антивирусные программы.</p>
+<p class="p">Viruses that can affect computers running Linux are quite rare, so you are
+  <span class="link"><a href="net-antivirus.html" title="Нужна ли мне антивирусная программа?">unlikely to get a virus through email or
+  otherwise</a></span>. If you receive an email with a virus hidden in it, it will
+  probably have no effect on your computer. As such, you probably don’t need to
+  scan your email for viruses.</p>
+<p class="p">You may, however, wish to scan your email for viruses in case you happen
+  to forward a virus from one person to another. For example, if one of your
+  friends has a Windows computer with a virus and sends you a virus-infected
+  email, and you then forward that email to another friend with a Windows
+  computer, then the second friend might get the virus too. You could install
+  an anti-virus application to scan your emails to prevent this, but it’s
+  unlikely to happen and most people using Windows and Mac OS have anti-virus
+  software of their own anyway.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -81,7 +92,8 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-antivirus.html" title="Нужна ли мне антивирусная программа?">Нужна ли мне антивирусная программа?</a><span class="desc"> — Вирусов для Linux мало, поэтому антивирусная программа, скорее всего, не нужна.</span>
+<a href="net-antivirus.html" title="Нужна ли мне антивирусная программа?">Нужна ли мне антивирусная программа?</a><span class="desc"> — There are few Linux viruses, so you probably don’t need anti-virus
+    software.</span>
 </li></ul></div>
 </div></div>
 </div>

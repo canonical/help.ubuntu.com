@@ -51,8 +51,11 @@
 <div class="contents">
 <p class="p">Ko nameščate Ubuntu, izbrani jezik ob namestitvi bo nameščen skupaj z angleščino. Dodate lahko tudi druge jezike.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the <span class="em">system menu</span> and select <span class="gui">System Settings</span>.</p></li>
-<li class="steps"><p class="p">V odseku Osebno kliknite <span class="gui">Jezikovna podpora</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+      start typing <span class="gui">Region &amp; Language</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Manage Installed Languages</span> button to open <span class="gui">Language
+      Support</span>.</p></li>
 <li class="steps"><p class="p">Kliknite na <span class="gui">Namesti / Odstrani jezik ...</span>. Okno <span class="gui">Nameščeni jeziki</span> izpiše vse jezike ki so na voljo. Trenutno nameščeni jeziki so označeni.</p></li>
 <li class="steps"><p class="p">Označite jezike, ki želite da se namestijo in odznačite jezik, ki so trenutno nameščeni ampak želite da se odstranijo.</p></li>
 <li class="steps"><p class="p">Kliknite <span class="gui">Uveljavi spremembe</span>.</p></li>
@@ -86,7 +89,7 @@
     </span>
 </li>
 <li class="links ">
-<a href="prefs-language.html" title="Področje in jezik">Področje in jezik</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Izbira jezika, ki ga uporabljate">Jezik</a></span>, <span class="link"><a href="session-formats.html" title="Sprememba datuma in oblik merjenja">regija in oblike</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">razporeditve tipkovnice</a></span> …</span>
+<a href="prefs-language.html" title="Področje in jezik">Področje in jezik</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Izbira jezika, ki ga uporabljate">Jezik</a></span>, <span class="link"><a href="session-formats.html" title="Sprememba datuma in oblik merjenja">regija in oblike</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Uporaba nadomestnih razporeditev tipk">razporeditve tipkovnice</a></span> …</span>
 </li>
 </ul></div>
 </div></div>

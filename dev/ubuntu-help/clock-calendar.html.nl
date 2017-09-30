@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Calendar appointments</title>
+<title>Agenda-afspraken</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,50 +44,43 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Desktop</a> › <a class="trail" href="shell-overview.html#desktop" title="Customize your desktop">Customize your desktop</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="clock.html" title="Datum &amp; tijd">Datum &amp; tijd</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="clock.html" title="Date &amp; time">Date &amp; time</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html#desktop" title="Uw bureaublad aanpassen">Uw bureaublad aanpassen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Calendar appointments</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Agenda-afspraken</span></h1></div>
 <div class="region">
 <div class="contents">
 <div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents">
-<p class="p">This requires you to use your <span class="app">Evolution</span> calendar or for you
-    to have an online account set up which <span class="gui">Calendar</span> supports.</p>
+<p class="p">Hiervoor moet u uw<span class="app">Evolution</span>-agenda gebruiken of een online-account hebben ingesteld met ondersteuning voor <span class="gui">Agenda</span>.</p>
 <p class="p">Most distributions come with <span class="app">Evolution</span> installed by default.
-    If yours does not, you may need to install it using your distribution's
+    If yours does not, you may need to install it using your distribution’s
     package manager.</p>
 </div></div></div></div>
-<p class="p">To view your appointments:</p>
+<p class="p">Om uw afspraken te bekijken:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click on the clock on the top bar.</p></li>
+<li class="steps"><p class="p">Klik op de klok in de bovenste balk.</p></li>
 <li class="steps">
-<p class="p">Click the date for which you want to see your appointments from the
-      calendar.</p>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">A dot is shown under each date that has an appointment.</p></div></div></div></div>
+<p class="p">Klik op de datum waarvoor u uw afspraken in de agenda wilt zien.</p>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Er staat een punt onder elke datum waar een afspraak gepland is.</p></div></div></div></div>
 <p class="p">Existing appointments will be displayed to the left of the calendar.
       As appointments are added to your <span class="app">Evolution</span> calendar, they
-      will appear in the clock's appointment list.</p>
+      will appear in the clock’s appointment list.</p>
 </li>
 </ol></div></div></div>
-<div class="media media-image"><div class="inner"><img src="figures/shell-appts.png" width="500" class="media media-block" alt="Clock, calendar, and appointments"></div></div>
+<div class="media media-image"><div class="inner"><img src="figures/shell-appts.png" width="500" class="media media-block" alt="Klok, agenda en afspraken"></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-overview.html#desktop" title="Customize your desktop">Customize your desktop</a></li>
 <li class="links ">
-<a href="clock.html" title="Date &amp; time">Date &amp; time</a><span class="desc"> — 
-      <span class="link"><a href="clock-set.html" title="Change the date and time">Set date and time</a></span>,
-      <span class="link"><a href="clock-world.html" title="Add a world clock">world clocks</a></span>,
-      <span class="link"><a href="clock-timezone.html" title="Change your timezone">timezone</a></span>,
-      <span class="link"><a href="clock-calendar.html" title="Calendar appointments">calendar and appointments</a></span>…
-    </span>
+<a href="clock.html" title="Datum &amp; tijd">Datum &amp; tijd</a><span class="desc"> — <span class="link"><a href="clock-set.html" title="Datum en tijd wijzigen">Tijd en datum instellen</a></span>, <span class="link"><a href="clock-world.html" title="Een wereldklok toevoegen">wereldklokken</a></span>,<span class="link"><a href="clock-timezone.html" title="Uw tijdzone wijzigen">tijdzone</a></span>, <span class="link"><a href="clock-calendar.html" title="Agenda-afspraken">agenda en afspraken</a></span>...</span>
 </li>
+<li class="links "><a href="shell-overview.html#desktop" title="Uw bureaublad aanpassen">Uw bureaublad aanpassen</a></li>
 </ul></div>
 </div></div></div>
 </div>

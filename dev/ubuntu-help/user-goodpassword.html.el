@@ -55,11 +55,19 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
 <p class="p">Χρησιμοποιήστε ένα συνδυασμό κεφαλαίων και πεζών γραμμάτων, αριθμών, συμβόλων και κενών στον κωδικό πρόσβασης. Αυτό το κάνει πιο δύσκολο να το μαντέψετε· υπάρχουν περισσότερα σύμβολα από τα οποία θα επιλέξετε, που σημαίνει περισσότερους δυνατούς κωδικούς πρόσβασης που πρέπει κάποιος να ελέγξει όταν προσπαθεί να μαντέψει τους δικούς σας.</p>
-<div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">Μια καλή μέθοδος για να επιλέξετε κωδικό πρόσβασης είναι να πάρετε το πρώτο γράμμα κάθε λέξης από μια φράση που θυμάστε. Η φράση μπορεί να είναι το όνομα μιας ταινίας, ενός βιβλίου, ενός τραγουδιού ή ενός δίσκου. Για παράδειγμα, "Αγάπη που έγινες δίκοπο μαχαίρι" μπορεί να γίνει Α:πΕΔΜ ή απεδμ ή α: πεδμ.</p></div></div></div></div>
+<div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">A good method for choosing a password is to take the first letter of
+        each word in a phrase that you can remember. The phrase could be the
+        name of a movie, a book, a song or an album. For example, “Flatland: A
+        Romance of Many Dimensions” would become F:ARoMD or faromd or f:
+        aromd.</p></div></div></div></div>
 </li>
 <li class="list"><p class="p">Κάντε τον κωδικό πρόσβασής σας όσο μεγαλύτερο μπορείτε. Όσους περισσότερους χαρακτήρες περιέχει, τόσο περισσότερο θα πάρει για ένα άτομο ή υπολογιστή να τον μαντέψει.</p></li>
-<li class="list"><p class="p">Μην χρησιμοποιείτε λέξεις που εμφανίζονται σε τυπικά λεξικά σε οποιαδήποτε γλώσσα. Οι αποκωδικοποιητές κωδικών θα προσπαθήσουν αυτά πρώτα. Ο πιο συνηθισμένος κωδικός είναι «password» – έναν τέτοιο κωδικό μπορεί κάποιος να τον βρει πολύ γρήγορα!</p></li>
-<li class="list"><p class="p">Μην χρησιμοποιείτε προσωπικές πληροφορίες όπως ημερομηνίες, αριθμοί κυκλοφορίας, ή το όνομα ενός συγγενικού προσώπου.</p></li>
+<li class="list"><p class="p">Do not use any words that appear in a standard dictionary in any
+      language. Password crackers will try these first. The most common
+      password is “password” — people can guess passwords like this very
+      quickly!</p></li>
+<li class="list"><p class="p">Do not use any personal information such as a date, license plate
+      number, or any family member’s name.</p></li>
 <li class="list"><p class="p">Μην χρησιμοποιείτε ουσιαστικά.</p></li>
 <li class="list">
 <p class="p">Επιλέξτε έναν κωδικό πρόσβασης που να μπορεί να πληκτρολογηθεί γρήγορα, για να μειώσετε τις πιθανότητες σε κάποιον να δει τι πληκτρολογήσατε αν έτυχε να σας παρακολουθεί.</p>

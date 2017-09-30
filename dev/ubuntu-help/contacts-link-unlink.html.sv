@@ -52,7 +52,7 @@
 <div id="link-contacts" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Länka kontakter</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Du kan kombinera duplicerade kontakter från din lokala adressbok och nätkonton till en post i <span class="app">Kontakter</span>. Denna funktionen hjälper dig att hålla din adressbok organiserad, med alla detaljer om en kontakt på ett ställe.</p>
+<p class="p">Du kan kombinera duplicerade kontakter från din lokala adressbok och nätkonton till en post i <span class="app">Kontakter</span>. Denna funktion hjälper dig att hålla din adressbok organiserad, med alla detaljer om en kontakt på ett ställe.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Aktivera <span class="em">markeringsläget</span> genom att trycka på bockknappen ovanför kontaktlistan.</p></li>
 <li class="steps"><p class="p">En kryssruta kommer visas bredvid varje kontakt. Kryssa i rutorna vid de kontakter du vill sammanfoga.</p></li>

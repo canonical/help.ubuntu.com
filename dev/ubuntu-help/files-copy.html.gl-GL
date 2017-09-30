@@ -50,7 +50,10 @@
 <div class="region">
 <div class="contents">
 <p class="p">É posíbel copiar ou mover un ficheiro ou cartafol nunha nova localización arrastrando e soltando co rato, usando as ordes de copiar e pegar, ou mediante combinacións de teclas.</p>
-<p class="p">Por exemplo, é posíbel que queira copiar unha presentación nunha tarxeta de memoria para traballar con ela. Ou ben, podería facer unha copia de seguranza dun documento antes de realizar cambios no mesmo (e logo empregar a copia antiga non lle gustan os cambios).</p>
+<p class="p">For example, you might want to copy a presentation onto a memory stick so
+ you can take it to work with you. Or, you could make a back-up copy of a
+ document before you make changes to it (and then use the old copy if you don’t
+ like your changes).</p>
 <p class="p">Estas instrucións aplícanse tanto aos ficheiros como aos cartafoles. Copia e move ficheiros e cartafoles da mesma forma.</p>
 <div class="steps ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
@@ -91,7 +94,8 @@
 <li class="steps"><p class="p">Prema <span class="gui">Ficheiros</span> na barra superior, seleccione <span class="gui">Nova xanela</span> (ou prema <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>N</kbd></span></span>) para abrir unha xanela secundaria. Na nova xanela, navegue ao cartafol no que quere mover ou copiar o ficheiro.</p></li>
 <li class="steps">
 <p class="p">Prema e arrastre o elemento dunha xanela a outra. Isto <span class="em">moverao</span> se o destino está no <span class="em">mesmo</span> dispositivo, ou <span class="em">copiarao</span> se o destino está nun dispositivo <span class="em">diferente</span>.</p>
-<p class="p">Por exemplo, se arrastra un ficheiro dunha memoria USB ao seu cartafol persoal este copiarase porque esta arrastrándoo desde un dispositivo a outro.</p>
+<p class="p">For example, if you drag a file from a USB memory stick to your Home folder,
+ it will be copied, because you’re dragging from one device to another.</p>
 <p class="p">Para forzar a que se copie o ficheiro mantendo premida a tecla <span class="key"><kbd>Ctrl</kbd></span> mentres arrastra o ficheiro, ou forzar mover o ficheiro mantendo premida a tecla <span class="key"><kbd>Maiús</kbd></span> mentres arrastra o ficheiro.</p>
 </li>
 </ol></div>

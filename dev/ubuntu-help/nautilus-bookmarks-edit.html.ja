@@ -70,7 +70,12 @@
       <span class="gui">Rename…</span>.</p></li>
 <li class="steps">
 <p class="p"><span class="gui">名前</span>欄に、ブックマークの新しい名前を入力します。</p>
-<div class="note" title="注記"><div class="inner"><div class="region"><div class="contents"><p class="p">ブックマークの名前を変更しても、フォルダー名が変更されるわけではありません。2 つの異なるフォルダーがそれぞれ異なる場所にあり、ともに同じフォルダー名だった場合は、ブックマークの名前が同じになってしまい、区別することが難しくなります。このような場合に、フォルダー名とは別の名前をブックマークに付けると便利です。</p></div></div></div></div>
+<div class="note" title="注記"><div class="inner"><div class="region"><div class="contents"><p class="p">Renaming a bookmark does not rename the folder. If you have
+        bookmarks to two different folders in two different locations, but
+        which each have the same name, the bookmarks will have the same name,
+        and you won’t be able to tell them apart. In these cases, it is useful
+        to give a bookmark a name other than the name of the folder it points
+        to.</p></div></div></div></div>
 </li>
 </ol></div>
 </div></div>

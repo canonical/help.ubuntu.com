@@ -50,7 +50,9 @@
 <div class="region">
 <div class="contents">
 <p class="p">Для некоторых типов сообщений и событий компьютер воспроизводит звуковые уведомления. Если вам трудно их услышать, можно сделать так, чтобы при воспроизведении уведомлений мигал либо весь экран, либо текущее окно.</p>
-<p class="p">Это может быть полезно также в местах, где воспроизведение звука нежелательно — например, в библиотеке. Смотрите <span class="link"><a href="sound-alert.html" title="Выбор или отключение звуковых уведомлений">Выбор или отключение звуковых уведомлений</a></span>, чтобы узнать, как отключить звуковые уведомления, а затем включите визуальные уведомления.</p>
+<p class="p">This can also be useful if you’re in an environment where you need your
+  computer to be silent, such as in a library. See <span class="link"><a href="sound-alert.html" title="Выбор или отключение звуковых уведомлений">Выбор или отключение звуковых уведомлений</a></span>
+  to learn how to mute the alert sound, then enable visual alerts.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p></li>

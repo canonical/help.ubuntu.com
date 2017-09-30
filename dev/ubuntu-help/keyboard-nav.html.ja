@@ -69,10 +69,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">矢印キー</p></td>
-<td style="border-top-style: solid;">
-<p class="p">ひとつのコントロール内のアイテム間、あるいは関連するコントロール間でフォーカスを移動します。ツールバーのボタンにフォーカスしたり、リストビューやアイコンビューのアイテムを選択したり、ラジオボタンのグループからどれかを選択したり、などの用途に矢印キーを使用します。</p>
-<p class="p">ツリービューでは、左右の矢印キーで、サブアイテムを持つアイテムの折りたたみや展開を行います。</p>
-</td>
+<td style="border-top-style: solid;"><p class="p">ひとつのコントロール内のアイテム間、あるいは関連するコントロール間でフォーカスを移動します。ツールバーのボタンにフォーカスしたり、リストビューやアイコンビューのアイテムを選択したり、ラジオボタンのグループからどれかを選択したり、などの用途に矢印キーを使用します。</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+矢印キー</span></p></td>
@@ -81,6 +78,10 @@
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+矢印キー</span></p></td>
 <td style="border-top-style: solid;"><p class="p">リストビューあるいはアイコンビューでは、現在選択中のアイテムから新規にフォーカスしたアイテムまで、その範囲に位置するアイテムをすべて選択します。</p></td>
+<td style="border-top-style: solid;"><p class="p">In a tree view, items that have children can be expanded or collapsed,
+    to show or hide their children: expand by pressing
+    <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>→</kbd></span></span>, and collapse by
+    pressing <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>←</kbd></span></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Space</kbd></span></p></td>

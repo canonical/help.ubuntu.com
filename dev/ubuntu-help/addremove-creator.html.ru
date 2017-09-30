@@ -57,7 +57,9 @@
 <p class="p">Подразумевается, что вы уже загрузили ISO-образ Ubuntu.</p>
 <p class="p">Для того, чтобы создать загрузочный диск из ISO-образа Ubuntu:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Откройте <span class="app">Создание загрузочного диска</span> из <span class="gui">главного меню</span>.</p></li>
+<li class="steps"><p class="p">
+        Open <span class="app">Startup Disk Creator</span> via the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">Если образ ISO находится в папке <span class="gui">Загрузки</span> и он там только один, то приложение <span class="app">Создание загрузочного диска</span> выберет его автоматически. В противном случае выберите нужный образ ISO.</p></li>
 <li class="steps"><p class="p">Если к компьютеру подключён только один флеш-носитель USB, то приложение <span class="app">Создание загрузочного диска</span> выберет его. Если нет, выберите нужный носитель.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Создать загрузочный диск</span>.</p></li>

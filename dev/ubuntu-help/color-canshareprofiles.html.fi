@@ -54,8 +54,18 @@
 <div class="region">
 <div class="contents">
 <p class="p">Väriprofiilit jotka olet itse luonut ovat erityisesti laitteistolle ja valaistusolosuhteille, joille kalibroit ne. Näyttö joka on ollut kytkettynä muutaman sadan tunnin ajan omaa hyvin erilaisen väriprofiilin verrattuna samanlaiseen näyttöön, joka on ollut käytössä tuhat tuntia.</p>
-<p class="p">Tämä merkitsee, että väriprofiilisi jakaminen jonkun toisen kanssa voi <span class="em">parantaa</span> hänen kalibraatiotaan, mutta on parhaassakin tapauksessa väärin sanoa, että hänen näyttönsä on kalibroitu.</p>
-<p class="p">Vastaavasti, ellei kaikilla ole samat suositellut valaistusolosuhteet (ei auringonpaistetta ikkunoista, mustat seinät, päivänvalolamput jne) huoneissaan kuvia katsottaessa ja muokattaessa, luodun profiilin jakaminen ei ole järkevää.</p>
+<p class="p">
+    This means if you share your color profile with somebody, you might
+    be getting them <span class="em">closer</span> to calibration, but it’s misleading
+    at best to say that their display is calibrated.
+  </p>
+<p class="p">
+    Similarly, unless everyone has recommended controlled lighting
+    (no sunlight from windows, black walls, daylight bulbs etc.) in a
+    room where viewing and editing images takes place, sharing a profile
+    that you created in your own specific lighting conditions doesn’t make
+    a lot of sense.
+  </p>
 <div class="note note-warning" title="Varoitus"><div class="inner"><div class="region"><div class="contents"><p class="p">Verkosta noudettujen tai sinulle luotujen profiilien edelleenjakoehdot on syytä tarkistaa huolellisesti.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">

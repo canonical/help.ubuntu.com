@@ -55,7 +55,8 @@
 <div id="manage" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Visualisation et gestion des volumes et des partitions en se servant de l'utilitaire de disque.</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Vous pouvez vérifier et modifier les volumes de stockage de l'ordinateur avec l'utilitaire de disque.</p>
+<p class="p">You can check and modify your computer’s storage volumes with the disk
+ utility.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ouvrez la vue d'ensemble des <span class="gui">Activités</span> et démarrez l'application <span class="app">Disques</span>.</p></li>
 <li class="steps"><p class="p">Dans la liste des périphériques de stockage à gauche, il y a les disques durs, les lecteurs/graveurs de CD et DVD et d'autres périphériques physiques. Cliquez sur le périphérique que vous souhaitez inspecter.</p></li>

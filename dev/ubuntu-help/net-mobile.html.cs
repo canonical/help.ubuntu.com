@@ -63,10 +63,7 @@
 <li class="steps"><p class="p">Vyberte plán odpovídající typu zařízení, které připojujete. Tím se určí APN (Acces Point Name – název přístupového bodu). Klikněte na <span class="gui">Další</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na tlačítko <span class="gui">Použít</span> potvrďte nastavení, které jste vybrali. Průvodce se zavře a panel <span class="gui">Síť</span> zobrazí vlastnosti vašeho připojení.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Some phones have a setting called <span class="em">USB tethering</span> that requires
-      no setup on the computer. When the setting is activated on the phone, the
-      connection will show up as <span class="gui">Ethernet Connected</span> in the system
-      menu and <span class="gui">USB ethernet</span> in the network panel.</p></div></div></div></div>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Některé telefony nabízejí sdílené připojení přes USB (<span class="em">USB tethering</span>), které nevyžaduje na počítači žádné nastavení. Když je toto nastavení na telefonu aktivováno, objeví se v systémové nabídce <span class="gui">Ethernet je připojeno</span> a v panelu <span class="gui">Síť</span> ovládacího centra položka <span class="gui">USB Ethernet</span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

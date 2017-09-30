@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Your desktop</title>
+<title>Uw bureaublad</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,25 +46,21 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Your desktop</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Uw bureaublad</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html" title="Introduction to GNOME"><span class="title">Introduction to GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual introduction to your desktop, the top bar, and the
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html" title="Inleiding tot Gnome"><span class="title">Inleiding tot Gnome</span><span class="linkdiv-dash"> — </span><span class="desc">A visual introduction to your desktop, the top bar, and the
     <span class="gui">Activities</span> overview.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Log out, power off or switch users"><span class="title">Log out, power off or switch users</span><span class="linkdiv-dash"> — </span><span class="desc">Leer hoe u uw gebruikersaccount verlaat, door af te melden, van gebruiker te wisselen, enz.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Afmelden, uitschakelen, van gebruiker wisselen"><span class="title">Afmelden, uitschakelen, van gebruiker wisselen</span><span class="linkdiv-dash"> — </span><span class="desc">Leer hoe u uw gebruikersaccount verlaat, door af te melden, van gebruiker te wisselen, enz.</span></a></div>
 </div>
-<div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Start applications"><span class="title">Start applications</span><span class="linkdiv-dash"> — </span><span class="desc">Launch apps from the <span class="gui">Activities</span> overview.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-guest-session.html" title="Een beperkte gastsessie starten"><span class="title">Een beperkte gastsessie starten</span><span class="linkdiv-dash"> — </span><span class="desc">Uw computer uitlenen aan een vriend of collega op een veilige manier.</span></a></div>
-</div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Toepassingen starten"><span class="title">Toepassingen starten</span><span class="linkdiv-dash"> — </span><span class="desc">Launch apps from the <span class="gui">Activities</span> overview.</span></a></div></div>
 </div></div></div></div>
 <div id="desktop" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Customize your desktop</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Uw bureaublad aanpassen</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html" title="Calendar appointments"><span class="title">Calendar appointments</span><span class="linkdiv-dash"> — </span><span class="desc">Display your appointments in the calendar area at the top of the
-    screen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html" title="Agenda-afspraken"><span class="title">Agenda-afspraken</span><span class="linkdiv-dash"> — </span><span class="desc">Uw afspraken weergeven in de agenda aan de bovenkant van het scherm.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-notifications.html" title="Notifications and the message tray"><span class="title">Notifications and the message tray</span><span class="linkdiv-dash"> — </span><span class="desc">Messages drop down from the top of the screen telling you when
     certain events happen.</span></a></div>
 </div>
@@ -75,15 +71,15 @@
 <div class="hgroup"><h2 class="title"><span class="title">Toepassingen en vensters</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="startup-applications.html" title="Opstarttoepassingen"><span class="title">Opstarttoepassingen</span><span class="linkdiv-dash"> — </span><span class="desc">Kies welke toepassingen te starten wanneer u zich aanmeldt.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html" title="Schakelen tussen vensters"><span class="title">Schakelen tussen vensters</span><span class="linkdiv-dash"> — </span><span class="desc">Press <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-lockscreen.html" title="The Lock Screen"><span class="title">The Lock Screen</span><span class="linkdiv-dash"> — </span><span class="desc">The decorative and functional lock screen conveys useful
+<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html" title="Handige sneltoetsen"><span class="title">Handige sneltoetsen</span><span class="linkdiv-dash"> — </span><span class="desc">Door het bureaublad lopen via het toetsenbord.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-lockscreen.html" title="Het vergrendelingsscherm"><span class="title">Het vergrendelingsscherm</span><span class="linkdiv-dash"> — </span><span class="desc">The decorative and functional lock screen conveys useful
     information.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="startup-applications.html" title="Opstarttoepassingen"><span class="title">Opstarttoepassingen</span><span class="linkdiv-dash"> — </span><span class="desc">Kies welke toepassingen te starten wanneer u zich aanmeldt.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html" title="Useful keyboard shortcuts"><span class="title">Useful keyboard shortcuts</span><span class="linkdiv-dash"> — </span><span class="desc">Get around the desktop using the keyboard.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html" title="Schakelen tussen vensters"><span class="title">Schakelen tussen vensters</span><span class="linkdiv-dash"> — </span><span class="desc">Press <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-windows.html" title="Vensters en werkbladen"><span class="title">Vensters en werkbladen</span><span class="linkdiv-dash"> — </span><span class="desc">Uw vensters verplaatsen en organiseren.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="status-icons.html" title="What do the icons in the top bar mean?"><span class="title">What do the icons in the top bar mean?</span><span class="linkdiv-dash"> — </span><span class="desc">Explains the meanings of the icons located on the right of the top bar.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="status-icons.html" title="Wat betekenen de pictogrammen in de bovenste balk?"><span class="title">Wat betekenen de pictogrammen in de bovenste balk?</span><span class="linkdiv-dash"> — </span><span class="desc">Verklaart de betekenis van de pictogrammen aan de rechterkant van de bovenste balk.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>

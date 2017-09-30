@@ -55,17 +55,9 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Red</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Red</span> para abrir el panel.</p></li>
-<li class="steps"><p class="p">In the left pane, select the network connection that you want to have
-      a fixed address. If you plug in to the network with a cable, click
-      <span class="gui">Wired</span>, then click the
-      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span> button in the lower right corner of
-      the panel. For a <span class="gui">Wi-Fi</span> connection, the 
-      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>
-      button will be located next to the active network.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">IPv4</span> or <span class="gui">IPv6</span> in the left pane
-      and change the <span class="gui">Addresses</span> to <span class="em">Manual</span>.</p></li>
-<li class="steps"><p class="p">Type in the <span class="gui"><a href="net-what-is-ip-address.html" title="¿Qué es una dirección IP?">IP Address</a></span> and
-      <span class="gui">Gateway</span>, as well as the appropriate <span class="gui">Netmask</span>.</p></li>
+<li class="steps"><p class="p">En el panel de la izquierda, seleccione la conexión de red a la que quiere asignar una IP fija. Si se conecta a la red por cable, pulse en <span class="gui">Cableada</span>, y luego pulse el botón <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="configuración"></span></span> en la esquina inferior derecha del panel. Para una conexión <span class="gui">Inalámbrica</span>, el botón de <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="configuración"></span></span> se situará junto a la red activa.</p></li>
+<li class="steps"><p class="p">Pulse en la pestaña <span class="gui">IPv4</span> o <span class="gui">IPv6</span> y cambie la opción <span class="gui">Direcciones</span> a <span class="em">Manual</span>.</p></li>
+<li class="steps"><p class="p">Escriba la <span class="gui">Dirección</span> y la <span class="gui">Puerta de enlace</span>, así como la <span class="gui">Máscara de red</span> apropiada.</p></li>
 <li class="steps"><p class="p">En la sección <span class="gui">DNS</span> cambie <span class="gui">Automático</span> a <span class="gui">Apagado</span>. Introduzca la dirección IP de los servidores DNS que quiere usar. Introduzca direcciones de servidores DNS adicionales usando el botón <span class="key"><kbd>+</kbd></span>.</p></li>
 <li class="steps"><p class="p">En la sección <span class="gui">Rutas</span>, cambie la opción la opción <span class="gui">Automático</span> a <span class="gui">Apagado</span> . Introduzca la <span class="gui">Dirección</span>, la <span class="gui">Máscara de red</span>, la <span class="gui">Puerta de enlace</span> y la <span class="gui">Métrica</span> para la ruta que quiera usar. Puede añadir más rutas usando el botón <span class="key"><kbd>+</kbd></span>.</p></li>
 <li class="steps"><p class="p">Pulse <span class="gui">Aplicar</span>. La conexión de red debería tener ahora una dirección IP fija.</p></li>

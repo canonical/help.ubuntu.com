@@ -52,7 +52,8 @@
 <div class="linkdiv "><a class="linkdiv" href="net-firewall-on-off.html" title="Abilitare o bloccare l'accesso al firewall"><span class="title">Abilitare o bloccare l'accesso al firewall</span><span class="linkdiv-dash"> — </span><span class="desc">È possibile controllare quali programmi possono accedere alla rete. Questo aiuta a mantenere il computer sicuro.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-firewall-ports.html" title="Porte di rete comunemente usate"><span class="title">Porte di rete comunemente usate</span><span class="linkdiv-dash"> — </span><span class="desc">È necessario specificare l'esatta porta per abilitare o bloccare l'accesso alla rete di un programma usando il firewall.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-email-virus.html" title="È necessario eseguire un controllo dei virus sulle email?"><span class="title">È necessario eseguire un controllo dei virus sulle email?</span><span class="linkdiv-dash"> — </span><span class="desc">È improbabile che i virus possano infettare il proprio computer, ma potrebbero infettare i computer delle persone alle quali si inviano messaggi di posta elettronica.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-antivirus.html" title="È necessario un software antivirus?"><span class="title">È necessario un software antivirus?</span><span class="linkdiv-dash"> — </span><span class="desc">Ci sono pochi virus per Linux quindi, probabilmente, non è neccesario installare un antivirus.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-antivirus.html" title="È necessario un software antivirus?"><span class="title">È necessario un software antivirus?</span><span class="linkdiv-dash"> — </span><span class="desc">There are few Linux viruses, so you probably don’t need anti-virus
+    software.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

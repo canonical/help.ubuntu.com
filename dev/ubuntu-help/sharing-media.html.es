@@ -64,9 +64,9 @@
 </li>
 <li class="steps"><p class="p">Seleccione <span class="gui">Compartición de medios</span>.</p></li>
 <li class="steps"><p class="p">Active la <span class="gui">Compartición multimedia</span> (<span class="gui">Encendido</span>).</p></li>
-<li class="steps"><p class="p">Las carpetas, <span class="file">Música</span>, <span class="file">Imágenes</span> y <span class="file">Vídeos</span> se comparten de manera predeterminada. PAra eliminar una de ellas, pulse la <span class="gui">X</span> junto al nombre de la carpeta.</p></li>
+<li class="steps"><p class="p">Las carpetas, <span class="file">Música</span>, <span class="file">Imágenes</span> y <span class="file">Vídeos</span> se comparten de manera predeterminada. Para eliminar una de ellas, pulse la <span class="gui">×</span> junto al nombre de la carpeta.</p></li>
 <li class="steps"><p class="p">Para añadir otra carpeta, pulse <span class="gui">+</span> para abrir la ventana <span class="gui">Elegir una carpeta</span>. Navegue <span class="em">dentro</span> de la carpeta que quiera y pulse <span class="gui">Abrir</span>.</p></li>
-<li class="steps"><p class="p">Pulse <span class="gui">X</span>. Ahora podrá explorar o reproducir los archivos de las carpetas que haya seleccionado usando el dispositivo externo.</p></li>
+<li class="steps"><p class="p">Pulse <span class="gui">×</span>. Ahora podrá explorar o reproducir los archivos de las carpetas que haya seleccionado usando el dispositivo externo.</p></li>
 </ol></div></div></div>
 </div>
 <div id="networks" class="sect"><div class="inner">

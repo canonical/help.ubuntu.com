@@ -2,7 +2,7 @@
 <html lang=zh-CN>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>我不能播放从网上音乐商店中购买的音乐</title>
+<title>I can’t play the songs I bought from an online music store</title>
 <link rel="stylesheet" type="text/css" href="zh-CN.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,12 +46,12 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="声音、视频 &amp; 图片">声音、视频 &amp; 图片</a> › <a class="trail" href="media.html#music" title="音乐和便携式音乐播放器">音乐和播放器</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">我不能播放从网上音乐商店中购买的音乐</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">I can’t play the songs I bought from an online music store</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">如果您从网上商店中下载的一些音乐，会发现它们不能在您的计算机上播放，尤其是从 Windows 或 Mac OS 系统上购买，然后复制过来的。</p>
-<p class="p">这是因为这种音乐格式没有被系统识别，要想播放一首歌曲您需要安装正确的音乐支持－例如，要想播放 MP3 格式文件，您需要安装 MP3 支持文件。如果您没有安装已知音乐格式的支持文件，在播放它时会出来一条信息提示，指导您如何安装这种音乐格式的支持文件。</p>
-<p class="p">如果确实已为要播放的歌曲的音频格式安装支持功能，但还是不能播放所要播放的歌曲，则所要播放的歌曲可能<span class="em">受版权保护</span>(也称为<span class="em">有 DRM 限制</span>)。DRM 是一种限制歌曲播放者和设备的方法。这要受控于售出歌曲的公司而不是用户。如果某个音乐文件受到 DRM 限制，则多半不能播放该音乐文件，一般都必须用供应商的专用软件播放有 DRM 限制的文件，但这种软件往往不受 Linux 支持。</p>
+<p class="p">If you downloaded some music from an online store you may find that it won’t play on your computer, especially if you bought it on a Windows or Mac OS computer and then copied it over.</p>
+<p class="p">This could be because the music is in a format that is not recognized by your computer. To be able to play a song you need to have support for the right audio formats installed — for example, if you want to play MP3 files, you need MP3 support installed. If you don’t have support for a given audio format, you should see a message telling you so when you try to play a song. The message should also provide instructions for how to install support for that format so that you can play it.</p>
+<p class="p">If you do have support installed for the song’s audio format but still can’t play it, the song might be <span class="em">copy protected</span> (also known as being <span class="em">DRM restricted</span>). DRM is a way of restricting who can play a song and on what devices they can play it. The company that sold the song to you is in control of this, not you. If a music file has DRM restrictions, you will probably not be able to play it — you generally need special software from the vendor to play DRM restricted files, but this software is often not supported on Linux.</p>
 <p class="p">您可以在这儿了解更多 DRM 的相关信息：<span class="link"><a href="http://www.eff.org/issues/drm" title="http://www.eff.org/issues/drm">Electronic Frontier Foundation</a></span></p>
 </div>
 <div class="sect sect-links" role="navigation">

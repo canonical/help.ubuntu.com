@@ -64,7 +64,10 @@
 <div class="hgroup"><h2 class="title"><span class="title">Ohjelmistojen asentaminen Synapticilla</span></h2></div>
 <div class="region"><div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Avaa Synaptic <span class="gui">Unity-valikosta</span> tai <span class="gui">käynnistimestä</span>. Anna salasanasi <span class="gui">tunnistautumisikkunaan</span>.</p></li>
+<li class="steps"><p class="p">
+          Open <span class="app">Synaptic</span> via the <span class="em">Activities</span> search bar. You 
+          will need to enter your password in the <span class="gui">Authenticate</span> window.
+        </p></li>
 <li class="steps"><p class="p">Voit etsiä ohjelmia napsauttamalla <span class="gui">Etsi</span>-painiketta tai selata niitä <span class="gui">Ryhmät</span>-listauksen alta löytyvistä luokista.</p></li>
 <li class="steps"><p class="p">Napsauta sovellusta, jonka haluat asentaa, hiiren oikealla painikkeella ja valitse <span class="gui">Merkitse asennettavaksi</span>.</p></li>
 <li class="steps"><p class="p">Jos sinua pyydetään merkitsemään lisämuutoksia, napsauta <span class="gui">Merkitse</span>.</p></li>

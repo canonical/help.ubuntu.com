@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Search for a contact</title>
+<title>Zoeken naar een contact</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,26 +43,22 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="contacts.html" title="Contacts">Contacts</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="contacts.html" title="Contacten">Contacten</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Search for a contact</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Zoeken naar een contact</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can search for an online contact in one of two ways:</p>
+<p class="p">U kunt op twee manieren naar een online contactpersoon zoeken:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">In the <span class="gui">Activities</span> overview, start typing the name of the
-      contact.</p></li>
-<li class="steps"><p class="p">Matching contacts will appear in the overview instead of the usual list
-      of applications.</p></li>
-<li class="steps"><p class="p">Press <span class="key"><kbd>Enter</kbd></span> to select the contact at the top of the list or
-      click the contact that you want to select if they are not at the
-      top.</p></li>
+<li class="steps"><p class="p">Typ in het <span class="gui">Activiteiten</span>-overzicht de naam van de contactpersoon.</p></li>
+<li class="steps"><p class="p">In plaats van de gebruikelijke lijst met toepassingen zullen de gevonden contactpersonen in het overzicht worden weergegeven.</p></li>
+<li class="steps"><p class="p">Druk op <span class="key"><kbd>Enter</kbd></span> om de contactpersoon bovenaan de lijst de kiezen, of klik de contactpersoon van uw keuze als deze niet bovenaan staat.</p></li>
 </ol></div></div></div>
-<p class="p">To search from inside <span class="app">Contacts</span>:</p>
+<p class="p">Om vanuit <span class="app">Contactpersonen</span> te zoeken:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click inside the search field.</p></li>
-<li class="steps"><p class="p">Start typing the name of the contact.</p></li>
+<li class="steps"><p class="p">Klik op het zoekveld.</p></li>
+<li class="steps"><p class="p">Begin met het intypen van de naam van het contact.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -70,7 +66,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="contacts.html" title="Contacts">Contacts</a><span class="desc"> — Access your contacts.</span>
+<a href="contacts.html" title="Contacten">Contacten</a><span class="desc"> — Toegang tot uw contacten.</span>
 </li></ul></div>
 </div></div></div>
 </div>

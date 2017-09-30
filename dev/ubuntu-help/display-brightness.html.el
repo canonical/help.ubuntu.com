@@ -92,7 +92,8 @@
 <a href="power-whydim.html" title="Γιατί η οθόνη μου εξασθενεί μετά από λίγο;">Γιατί η οθόνη μου εξασθενεί μετά από λίγο;</a><span class="desc"> — Η οθόνη θα εξασθενίσει όταν ο υπολογιστής είναι αδρανής για να εξοικονομήσει ισχύ.</span>
 </li>
 <li class="links ">
-<a href="a11y-contrast.html" title="Προσαρμογή της αντίθεσης">Προσαρμογή της αντίθεσης</a><span class="desc"> — Κάντε τα παράθυρα και τα κουμπιά στην οθόνη περισσότερο (ή λιγότερο) ζωηρά, ώστε να είναι ευκολότερο να τα δείτε.</span>
+<a href="a11y-contrast.html" title="Προσαρμογή της αντίθεσης">Προσαρμογή της αντίθεσης</a><span class="desc"> — Make windows and buttons on the screen more (or less) vivid, so
+    they’re easier to see.</span>
 </li>
 <li class="links ">
 <a href="power-batterylife.html" title="Χρησιμοποιήστε λιγότερη ισχύ και βελτιώστε τη ζωή της μπαταρίας">Χρησιμοποιήστε λιγότερη ισχύ και βελτιώστε τη ζωή της μπαταρίας</a><span class="desc"> — Συμβουλές για μείωση της κατανάλωσης ισχύος του υπολογιστή σας.</span>

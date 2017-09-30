@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Where can I find the files I want to back up?</title>
+<title>Waar kan ik de bestanden vinden waarvan ik een reservekopie wil maken?</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,49 +43,31 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html#backup" title="Backing up">Backing up</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#backup" title="Reservekopieën maken">Reservekopieën maken</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Where can I find the files I want to back up?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Waar kan ik de bestanden vinden waarvan ik een reservekopie wil maken?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Deciding which files to back up, and locating them, is the most difficult
- step when attempting to perform a backup. Listed below are the most common
- locations of important files and settings that you may want to back up.</p>
+<p class="p">Bepalen van welke bestanden een reservekopie te maken, en deze lokaliseren, is het lastigste wanneer u een reservekopie probeert te maken. Hieronder treft u een lijst met de meest gebruikte locaties van belangrijke bestanden en instellingen waarvan u mogelijk een reservekopie wilt maken.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
-<p class="p">Personal files (documents, music, photos and videos)</p>
-<p class="p">These are usually stored in your home folder (<span class="file">/home/your_name</span>).
- They could be in subfolders such as Desktop, Documents, Pictures, Music and
- Videos.</p>
-<p class="p">If your backup medium has sufficient space (if it is an external hard
-  disk, for example), consider backing up the entire Home folder. You can find
-  out how much disk space your Home folder takes up by using the
-  <span class="app">Disk Usage Analyzer</span>.</p>
+<p class="p">Persoonlijke bestanden (documenten, muziek, foto's en video's)</p>
+<p class="p">Deze zijn meestal opgeslagen in uw persoonlijke map (<span class="file">/home/uw_naam</span>). Ze kunnen zich bevinden in submappen zoals Bureaublad, Documenten, Afbeeldingen, Muziek en Video's.</p>
+<p class="p">Als u voldoende ruimte heeft op uw reservekopiemedium (bijvoorbeeld een externe harde schijf), overweeg dan een reservekopie te maken van de hele persoonlijke map. Om er achter te komen hoeveel schijfruimte uw persoonlijke map gebruikt kunt u <span class="app">Schijfgebruik</span> gebruiken.</p>
 </li>
 <li class="list">
-<p class="p">Hidden files</p>
-<p class="p">Any file or folder name that starts with a period (.) is hidden by
-  default. To view hidden files, click the
-  <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down.png" class="media media-inline" alt="View options"></span></span></span>
-  button in the toolbar, and then choose <span class="gui">Show Hidden Files</span>, or press
-  <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. You can copy these to a
-  backup location like any other file.</p>
+<p class="p">Verborgen bestanden</p>
+<p class="p">Elke bestands- en mapnaam beginnend met een punt (.) is standaard verborgen. Om verborgen bestanden zichtbaar te maken, klikt u op de <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down.png" class="media media-inline" alt="Bekijk opties"></span></span></span>-knop in de werkbalk en dan op <span class="gui">Verborgen bestanden tonen</span>, of druk op <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. U kunt deze bestanden net zoals gewone bestanden naar de reservekopielocatie kopiëren.</p>
 </li>
 <li class="list">
-<p class="p">Personal settings (desktop preferences, themes, and software settings)</p>
-<p class="p">Most applications store their settings in hidden folders inside your Home
- folder (see above for information on hidden files).</p>
-<p class="p">Most of your application settings will be stored in the hidden folders
- <span class="file">.config</span> and <span class="file">.local</span> in your Home folder.</p>
+<p class="p">Persoonlijke instellingen (bureaubladvoorkeuren, thema's en software-instellingen)</p>
+<p class="p">De meeste toepassingen slaan hun instellingen op in verborgen mappen binnen uw persoonlijke map (zie hierboven voor informatie over verborgen bestanden).</p>
+<p class="p">De meeste van uw toepassingsinstellingen zullen opgeslagen worden in de verborgen mappen <span class="file">.config</span> en <span class="file">.local</span> in uw persoonlijke map.</p>
 </li>
 <li class="list">
-<p class="p">System-wide settings</p>
-<p class="p">Settings for important parts of the system are not stored in your Home
-  folder. There are a number of locations that they could be stored, but most
-  are stored in the <span class="file">/etc</span> folder. In general, you will not need to
-  back up these files on a home computer. If you are running a server, however,
-  you should back up the files for the services that it is running.</p>
+<p class="p">Systeeminstellingen</p>
+<p class="p">Instellingen voor belangrijke delen van het systeem worden niet opgeslagen in uw persoonlijke map. Er zijn een paar locaties waar ze opgeslagen kunnen zijn, maar de meeste zijn opgeslagen in de map <span class="file">/etc</span>. Over het algemeen hoeft u op een thuiscomputer geen reservekopie te maken van deze bestanden. Maar als u een server draait, dan moet u wel een reservekopie maken van de bestanden voor de diensten die erop draaien.</p>
 </li>
 </ul></div></div></div>
 </div>
@@ -93,7 +75,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#backup" title="Backing up">Backing up</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html#backup" title="Reservekopieën maken">Reservekopieën maken</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

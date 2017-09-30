@@ -50,8 +50,11 @@
 <div class="region">
 <div class="contents">
 <p class="p">Talvolta le stampanti caricano in maniera non corretta la carta e si inceppano.</p>
-<p class="p">Il manuale della stampante normalmente fornisce dettagliate istruzioni sul modo di rimuovere i fogli inceppati: di solito occorre aprire uno degli sportelli della stampante e tirare con decisione, ma con prudenza, il foglio inceppato dal meccanismo di alimentazione della stampante.</p>
-<p class="p">Once the jam has been cleared you may need to press the printer's
+<p class="p">The manual for your printer will usually provide detailed instructions on
+  how to clear paper jams. Usually, you will need to open one of the printer’s
+  panels to find the jam inside and then firmly (but carefully!) pull the
+  jammed paper out of the printer’s feeding mechanism.</p>
+<p class="p">Once the jam has been cleared you may need to press the printer’s
   <span class="em">resume</span> button to start printing again. With some printers, you may
   even need to turn the printer off and then on again, and then start the print
   job again.</p>

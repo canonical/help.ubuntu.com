@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Safely remove an external drive</title>
+<title>Een externe schijf veilig verwijderen</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,57 +43,43 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html#removable" title="Removable drives and external disks">Removable drives and external disks</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#removable" title="Verwijderbare schijven en externe schijven">Verwijderbare schijven en externe schijven</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Safely remove an external drive</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Een externe schijf veilig verwijderen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">When you use external storage devices like USB flash drives, you
-  should safely remove them before unplugging them. If you just unplug
-  a device, you run the risk of unplugging while an application is still
-  using it. This could result in some of your files being lost or damaged.
-  When you use an optical disc like a CD or DVD, you can use the same steps
-  to eject the disc from your computer.</p>
+<p class="p">Als u externe opslagapparaten gebruikt zoals usb-sticks, dan moet u die op een veilige manier verwijderen voordat u ze ontkoppelt. Als u zomaar een apparaat ontkoppelt, dan loopt u het risico dat u het ontkoppelt terwijl een toepassing er nog gebruik van maakt, hetgeen kan resulteren in het verlies of beschadiging van sommige van uw bestanden. Als u een optische schijf 
+zoals een cd of dvd gebruikt, dan kunt u dezelfde stappen doen om de schijf uit uw computer te werpen.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">To eject a removable device:</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Een verwijderbaar apparaat uitwerpen:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">From the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview,
-      open <span class="app">Files</span>.</p></li>
+<li class="steps"><p class="p">Open <span class="app">Bestanden</span> vanuit het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht.</p></li>
 <li class="steps">
-<p class="p">Locate the device in the sidebar. It should have a small eject icon
-      next to the name. Click the eject icon to safely remove or eject the
-      device.</p>
-<p class="p">Alternately, you can right-click the name of the device in the sidebar
-      and select <span class="gui">Eject</span>.</p>
+<p class="p">Zoek het apparaat in de zijbalk. Het moet een klein uitwerp-pictogram naast de naam hebben staan. Klik op het uitwerp-pictogram om het apparaat veilig te verwijderen of uit te werpen.</p>
+<p class="p">U kunt ook met rechts klikken op de naam van het apparaat in de zijbalk en <span class="gui">Uitwerpen</span> kiezen.</p>
 </li>
 </ol></div>
 </div></div>
 </div>
 <div id="remove-busy-device" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Safely remove a device that is in use</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Een apparaat dat in gebruik is veilig verwijderen</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">If any of the files on the device are open and in use by an application,
-  you will not be able to safely remove the device. You will be prompted with a
-  window telling you <span class="gui">Volume is busy</span>. To safely remove the device:</p>
+<p class="p">Als een toepassing bestanden op het apparaat heeft geopend en gebruikt, dan kunt u het apparaat niet veilig verwijderen. U krijgt een venster te zien met de mededeling <span class="gui">Het volume is bezet</span>. Om het apparaat veilig te verwijderen:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click <span class="gui">Cancel</span>.</p></li>
-<li class="steps"><p class="p">Close all the files on the device.</p></li>
-<li class="steps"><p class="p">Click the eject icon to safely remove or eject the
-    device.</p></li>
-<li class="steps"><p class="p">Alternately, you can right-click the name of the device in the
-    sidebar and select <span class="gui">Eject</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Annuleren</span>.</p></li>
+<li class="steps"><p class="p">Sluit alle bestanden af die op het apparaat staan.</p></li>
+<li class="steps"><p class="p">Klik op het ontkoppelen-pictogram om het apparaat veilig te ontkoppelen of uit te werpen.</p></li>
+<li class="steps"><p class="p">U kunt ook met rechts klikken op de naam van het apparaat in de zijbalk en <span class="gui">Uitwerpen</span> kiezen.</p></li>
 </ol></div></div></div>
-<div class="note note-warning" title="Waarschuwing"><div class="inner"><div class="region"><div class="contents"><p class="p">You can also choose <span class="gui">Eject Anyway</span> to
-  remove the device without closing the files. This may cause errors in
-  applications that have those files open.</p></div></div></div></div>
+<div class="note note-warning" title="Waarschuwing"><div class="inner"><div class="region"><div class="contents"><p class="p">U kunt ook <span class="gui">Toch uitwerpen</span> kiezen om het apparaat te verwijderen zonder de bestanden te sluiten. Dit can fouten veroorzaken in toepassingen waarin de bestanden nog hebben open zijn.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#removable" title="Removable drives and external disks">Removable drives and external disks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html#removable" title="Verwijderbare schijven en externe schijven">Verwijderbare schijven en externe schijven</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

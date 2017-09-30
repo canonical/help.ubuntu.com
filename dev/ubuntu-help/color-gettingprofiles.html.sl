@@ -55,7 +55,13 @@
 <div class="contents">
 <p class="p">Najboljši način za pridobivanje profilov je, da jih ustvarite sami, čeprav to zahteva nekaj predhodnega znanja.</p>
 <p class="p">Večina proizvajalcev poskuša zagotavljati barvne profile za naprave, vendar so včasih oviti v <span class="em">pakete gonilnikov</span>, ki jih morate prejeti, razširiti in nato v njih najti barvne profile.</p>
-<p class="p">Nekateri proizvajalci ne zagotavljajo natančnih profilov za strojno opremo. V primeru da je datum ustvarjanja profila več kot leto pred datumom nakupa naprave, so v njem verjetno preizkusni podatki, ki so neuporabni.</p>
+<p class="p">
+    Some manufacturers do not provide accurate profiles for the hardware
+    and the profiles are best avoided.
+    A good clue is to download the profile, and if the creation date is
+    more than a year before the date you bought the device then it’s
+    likely dummy data generated that is useless.
+  </p>
 <p class="p">Oglejte si <span class="link"><a href="color-why-calibrate.html" title="Zakaj moram sam izvesti umerjanje?">Zakaj moram sam izvesti umerjanje?</a></span> za podrobnosti zakaj so barvni profili proizvajalcev pogosto popolnoma neuporabni.</p>
 </div>
 <div class="sect sect-links" role="navigation">

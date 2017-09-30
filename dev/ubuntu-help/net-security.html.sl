@@ -51,7 +51,8 @@
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="linkdiv "><a class="linkdiv" href="net-firewall-on-off.html" title="Omogočanje in blokiranje dostopa do požarnega zidu"><span class="title">Omogočanje in blokiranje dostopa do požarnega zidu</span><span class="linkdiv-dash"> — </span><span class="desc">Nadzirate lahko do katerih programov je mogoče dostopati preko omrežja. To pomaga obdržati vaš računalnik varen.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-email-virus.html" title="Ali moram svojo e-pošto preiskati za viruse?"><span class="title">Ali moram svojo e-pošto preiskati za viruse?</span><span class="linkdiv-dash"> — </span><span class="desc">Virusi zelo verjetno ne bodo okužili vašega računalnika, vendar lahko okužijo druge ljudi, ki jim pošiljate e-pošto.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-antivirus.html" title="Ali potrebujem protivirusni program?"><span class="title">Ali potrebujem protivirusni program?</span><span class="linkdiv-dash"> — </span><span class="desc">Za Linux obstaja zelo malo virusov, zato verjetno protivirusnega programa ne potrebujete.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-antivirus.html" title="Ali potrebujem protivirusni program?"><span class="title">Ali potrebujem protivirusni program?</span><span class="linkdiv-dash"> — </span><span class="desc">There are few Linux viruses, so you probably don’t need anti-virus
+    software.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-firewall-ports.html" title="Pogosto uporabljena vrata omrežja"><span class="title">Pogosto uporabljena vrata omrežja</span><span class="linkdiv-dash"> — </span><span class="desc">Za omogočitev/onemogočitev dostopa do omrežja za program s požarnim zidom morate navesti prava omrežna vrata.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">

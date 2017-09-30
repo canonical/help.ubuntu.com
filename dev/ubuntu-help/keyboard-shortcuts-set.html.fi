@@ -67,7 +67,7 @@
 </ol></div></div></div>
 </div>
 <div id="defined" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Pre-defined shortcuts</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Ennalta määritetyt pikanäppäimet</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">There are a number of pre-configured shortcuts that can be changed,
   grouped into these categories:</p>
@@ -82,15 +82,15 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Käynnistä laskin</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-calculator.svg" class="media media-inline" alt="Calculator key symbol"></span></span> or <span class="key"><kbd>Calculator</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-calculator.svg" class="media media-inline" alt="Calculator key symbol"></span></span> tai <span class="key"><kbd>Laskin</kbd></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Käynnistä sähköpostiohjelma</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-mail.svg" class="media media-inline" alt="Mail key symbol"></span></span> or <span class="key"><kbd>Mail</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-mail.svg" class="media media-inline" alt="Mail key symbol"></span></span> tai <span class="key"><kbd>Sähköposti</kbd></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Käynnistä www-selain</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-world.svg" class="media media-inline" alt="WWW key symbol"></span></span> or <span class="media"><span class="media media-image"><img src="figures/keyboard-key-home.svg" class="media media-inline" alt="WWW key symbol"></span></span> or <span class="key"><kbd>WWW</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-world.svg" class="media media-inline" alt="WWW key symbol"></span></span> tai <span class="media"><span class="media media-image"><img src="figures/keyboard-key-home.svg" class="media media-inline" alt="WWW key symbol"></span></span> tai <span class="key"><kbd>WWW</kbd></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Kotikansio</p></td>
@@ -98,7 +98,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Etsi</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-search.svg" class="media media-inline" alt="Search key symbol"></span></span> or <span class="key"><kbd>Search</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-search.svg" class="media media-inline" alt="Search key symbol"></span></span> tai <span class="key"><kbd>Haku</kbd></span></p></td>
 </tr>
 </table></div>
 </div>
@@ -106,7 +106,7 @@
 <div class="table ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
 <div class="inner">
-<div class="title title-table"><h3><span class="title">Navigation</span></h3></div>
+<div class="title title-table"><h3><span class="title">Liikkuminen</span></h3></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
 <td><p class="p">Siirrä ikkuna työtilaan 1</p></td>
@@ -142,15 +142,15 @@
   </p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Switch applications</p></td>
+<td style="border-top-style: solid;"><p class="p">Vaihda sovelluksien välillä</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Switch windows</p></td>
+<td style="border-top-style: solid;"><p class="p">Vaihtele ikkunoiden välillä</p></td>
 <td style="border-top-style: solid;"><p class="p">Poissa käytöstä</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Switch windows of an application</p></td>
+<td style="border-top-style: solid;"><p class="p">Vaihda sovelluksen ikkunoiden välillä</p></td>
 <td style="border-top-style: solid;"><p class="p">Poissa käytöstä</p></td>
 </tr>
 <tr>
@@ -214,15 +214,15 @@
 <div class="title title-table"><h3><span class="title">Kuvakaappaukset</span></h3></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
-<td><p class="p">Save a screenshot to file</p></td>
+<td><p class="p">Tallenna kuvakaappaus tiedostoon</p></td>
 <td><p class="p"><span class="key"><kbd>Print</kbd></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Save a screenshot of a window to file</p></td>
+<td style="border-top-style: solid;"><p class="p">Tallenna kuvakaappaus ikkunasta tiedostoon</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Save a screenshot of an area to file</p></td>
+<td style="border-top-style: solid;"><p class="p">Tallenna kuvakaappaus alueesta tiedostoon</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
 </tr>
 <tr>
@@ -234,11 +234,11 @@
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Copy a screenshot of an area to clipboard</p></td>
+<td style="border-top-style: solid;"><p class="p">Kopioi kuvakaappaus alueesta leikepöydälle</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Record a screencast</p></td>
+<td style="border-top-style: solid;"><p class="p">Tallenna työpöytävideo</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>R</kbd></span></span></p></td>
 </tr>
 </table></div>
@@ -247,7 +247,7 @@
 <div class="table ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
 <div class="inner">
-<div class="title title-table"><h3><span class="title">Sound and Media</span></h3></div>
+<div class="title title-table"><h3><span class="title">Ääni ja media</span></h3></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
 <td><p class="p">Volume mute</p></td>
@@ -266,23 +266,23 @@
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-media.svg" class="media media-inline" alt="Media key symbol"></span></span> (Audio media)</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Play (or play/pause)</p></td>
+<td style="border-top-style: solid;"><p class="p">Toista (tai toista/keskeytä)</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-play.svg" class="media media-inline" alt="Play key symbol"></span></span> (Audio play)</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Pause playback</p></td>
+<td style="border-top-style: solid;"><p class="p">Keskeytä toisto</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-pause.svg" class="media media-inline" alt="Pause key symbol"></span></span> (Audio pause)</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Stop playback</p></td>
+<td style="border-top-style: solid;"><p class="p">Pysäytä toisto</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-stop.svg" class="media media-inline" alt="Stop key symbol"></span></span> (Audio stop)</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Previous track</p></td>
+<td style="border-top-style: solid;"><p class="p">Edellinen kappale</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-previous.svg" class="media media-inline" alt="Previous key symbol"></span></span> (Audio previous)</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Next track</p></td>
+<td style="border-top-style: solid;"><p class="p">Seuraava kappale</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-next.svg" class="media media-inline" alt="Next key symbol"></span></span> (Audio next)</p></td>
 </tr>
 <tr>
@@ -338,11 +338,11 @@
 <div class="title title-table"><h3><span class="title">Kirjoittaminen</span></h3></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
-<td><p class="p">Switch to next input source</p></td>
+<td><p class="p">Vaihda seuraavaan syötelähteeseen</p></td>
 <td><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Space</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Switch to previous input source</p></td>
+<td style="border-top-style: solid;"><p class="p">Vaihda edelliseen syötelähteeseen</p></td>
 <td style="border-top-style: solid;"><p class="p">Poissa käytöstä</p></td>
 </tr>
 <tr>
@@ -462,11 +462,11 @@
 <td style="border-top-style: solid;"><p class="p">Poissa käytöstä</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Maximize window vertically</p></td>
+<td style="border-top-style: solid;"><p class="p">Suurenna ikkuna pystysuunnassa</p></td>
 <td style="border-top-style: solid;"><p class="p">Poissa käytöstä</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Maximize window horizontally</p></td>
+<td style="border-top-style: solid;"><p class="p">Suurenna ikkuna vaakasuunnassa</p></td>
 <td style="border-top-style: solid;"><p class="p">Poissa käytöstä</p></td>
 </tr>
 <tr>

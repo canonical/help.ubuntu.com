@@ -64,7 +64,9 @@
 <p class="p">Administrators can do things like add and delete users, install software
       and drivers, and change the date and time.</p>
 </li>
-<li class="steps"><p class="p">Введите полное имя нового пользователя. Имя пользователя будет заполнено автоматически на основе полного имени. При желании его можно изменить.</p></li>
+<li class="steps"><p class="p">Enter the new user’s full name. The username will be filled in
+      automatically based on the full name. If you do not like the proposed
+      username, you can change it.</p></li>
 <li class="steps">
 <p class="p">You can choose to set a password for the new user, or let them set it
       themselves on their first login.</p>
@@ -77,7 +79,10 @@
 <p class="p">If you want to change the password after creating the account, select the
   account, <span class="gui">Unlock</span> the panel and press the current
   password status.</p>
-<div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents"><p class="p">В окне <span class="gui">Пользователи</span> можно нажать на изображение рядом с именем пользователя, чтобы выбрать изображение для учётной записи. Оно будет показано в окне входа в систему. GNOME предоставляет несколько стандартных изображений, но можно также выбрать своё или сделать снимок веб-камерой.</p></div></div></div></div>
+<div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents"><p class="p">In the <span class="gui">Users</span> panel, you can click the image next to the
+    user’s name to the right to set an image for the account. This image will
+    be shown in the login window. GNOME provides some stock photos you can use,
+    or you can select your own or take a picture with your webcam.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

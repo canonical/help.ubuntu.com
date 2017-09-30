@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Wireless network troubleshooter</title>
+<title>Probleemoplosser draadloos netwerk</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,32 +44,25 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="Wireless Networking">Wireless Networking</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Wireless network troubleshooter">Wireless network troubleshooter</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html" title="Draadloos netwerk">Draadloos netwerk</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Common problems">Problems</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Wireless network troubleshooter">Wireless network troubleshooter</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting-initial-check.html" title="Wireless network troubleshooter">Vorige</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-check.html" title="Wireless connection troubleshooter">Volgende</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-initial-check.html" title="Probleemoplosser draadloos netwerk">Vorige</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-check.html" title="Problemen met een draadloos verbinding oplossen">Volgende</a>
 </div>
 <div class="hgroup">
-<h1 class="title"><span class="title">Wireless network troubleshooter</span></h1>
-<h2 class="subtitle"><span class="subtitle">Gather information about your network hardware</span></h2>
+<h1 class="title"><span class="title">Probleemoplosser draadloos netwerk</span></h1>
+<h2 class="subtitle"><span class="subtitle">Informatie verzamelen over uw netwerkhardware</span></h2>
 </div>
 <div class="region">
 <div class="contents">
-<p class="p">In this step, you will collect information about your wireless network
-  device. The way you fix many wireless problems depends on the make and model
-  number of the wireless adapter, so you will need to make a note of these
-  details. It can also be helpful to have some of the items that came with your
-  computer too, like device driver installation discs. Look for the following
-  items, if you still have them:</p>
+<p class="p">In deze stap gaat u informatie verzamelen over uw draadloze netwerkapparaat. De manier waarop vele draadloze problemen opgelost worden hangt af van het merk en modelnummer van de draadloze adapter, daarom dient u een notitie te maken van deze details. Het kan ook helpen om sommige dingen die bij uw computer zaten erbij te zoeken, zoals stuurprogramma-installatieschijven. Zoek naar de volgende items, indien u deze nog heeft:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">The packaging and instructions for your wireless devices (especially
-      the user guide for your router)</p></li>
-<li class="list"><p class="p">The disc containing drivers for your wireless adapter (even if it only
-      contains Windows drivers)</p></li>
+<li class="list"><p class="p">De verpakking en instructies van uw draadloos apparaat (vooral de gebruikershandleiding van uw router)</p></li>
+<li class="list"><p class="p">De schijf met stuurprogramma's voor uw draadloze adapter (zelfs als deze alleen maar Windows-stuurprogramma's bevat)</p></li>
 <li class="list"><p class="p">The manufacturers and model numbers of your computer, wireless adapter
       and router. This information can usually be found on the
       underside or reverse of the device.</p></li>
@@ -77,25 +70,20 @@
       network devices or their packaging. These can be especially helpful, so
       look carefully.</p></li>
 <li class="list"><p class="p">Anything on the driver disc that identifies either the device itself,
-      its "firmware" version, or the components (chipset) it uses.</p></li>
+      its “firmware” version, or the components (chipset) it uses.</p></li>
 </ul></div></div></div>
-<p class="p">If possible, try to get access to an alternative working internet
-  connection so that you can download software and drivers if necessary.
-  (Plugging your computer directly into the router with an Ethernet network
-  cable is one way of providing this, but only plug it in when you need
-  to.)</p>
-<p class="p">Once you have as many of these items as possible, click
-  <span class="gui">Next</span>.</p>
+<p class="p">Indien mogelijk, probeer om toegang te krijgen tot een werkende internetverbinding zodat u software en stuurprogramma's kunt downloaden als dat nodig is. (Uw computer direct met een kabel op de router aansluiten is één van de mogelijkheden, maar doe dit alleen wanneer dit nodig is.)</p>
+<p class="p">Als u zoveel mogelijk informatie verzameld heeft, klikt u op <span class="gui">Volgende</span>.</p>
 </div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting-initial-check.html" title="Wireless network troubleshooter">Vorige</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-check.html" title="Wireless connection troubleshooter">Volgende</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-initial-check.html" title="Probleemoplosser draadloos netwerk">Vorige</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-check.html" title="Problemen met een draadloos verbinding oplossen">Volgende</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Wireless network troubleshooter">Wireless network troubleshooter</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
 </li></ul></div>
 </div></div></div>
 </div>

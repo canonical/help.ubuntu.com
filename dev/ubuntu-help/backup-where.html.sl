@@ -49,7 +49,11 @@
 <div class="hgroup"><h1 class="title"><span class="title">Kam shraniti varnostne kopije</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Varnostne kopije svojih datoteke shranjujte ločeno od računalnika - na primer na zunanjem trdem disku. Na ta način bo varnostna kopija v primeru okvare računalnika ostala nedotaknjena. Za največjo varnost varnostne kopije ne imejte v isti zgradbi kot računalnik. V primeru požara ali kraje sta lahko v primeru, da ju shranjujete na istem mestu, obe kopiji podatkov izgubljeni.</p>
+<p class="p">You should store backup copies of your files somewhere separate from your
+ computer — on an external hard disk, for example. That way, if the computer
+ breaks, the backup will still be intact. For maximum security, you shouldn’t
+ keep the backup in the same building as your computer. If there is a fire or
+ theft, both copies of the data could be lost if they are kept together.</p>
 <p class="p">Pomembno je tudi, da izberete primeren <span class="em">medij varnostne kopije</span>. Varnostne kopije morate shraniti na napravo, ki ima dovolj prostora na disku za varnostno kopijo vseh datotek.</p>
 <div class="list"><div class="inner">
 <div class="title title-list"><h2><span class="title">Možnosti krajevne in oddaljene shrambe</span></h2></div>

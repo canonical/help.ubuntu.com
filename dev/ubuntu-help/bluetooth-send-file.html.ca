@@ -53,7 +53,11 @@
 <div class="hgroup"><h1 class="title"><span class="title">Send files to a Bluetooth device</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Podeu enviar fitxers als dispositius Bluetooth que tingueu connectats, tals com telèfons mòbils o altres ordinadors. Alguns tipus de dispositius no permeten la transferència de fitxers o de tipus de fitxers específics. Teniu tres formes d'enviar fitxers: des de la icona de Bluetooth a la barra superior, des de la finestra de configuració del Bluetooth i des del gestor de fitxers directament.</p>
+<p class="p">You can send files to connected Bluetooth devices, such as some mobile
+    phones or other computers. Some types of devices don’t allow the transfer
+    of files, or specific types of files. You can send files in one of three
+    ways: using the Bluetooth icon in the menu bar, from the Bluetooth settings
+    window, or directly from the file manager.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Bluetooth</span>.</p></li>

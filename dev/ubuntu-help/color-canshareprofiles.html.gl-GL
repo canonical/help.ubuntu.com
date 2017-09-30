@@ -54,8 +54,18 @@
 <div class="region">
 <div class="contents">
 <p class="p">Os perfiles de cor que creou vostede mesmo son específicos do hardware e das condicións de cor moi diferente que un dispositivo similar con un número de serie próximo, se esta última estivo acendida unhas mil horas.</p>
-<p class="p">Isto significa que se comparte o seu perfil de cor con alguén, pode que estea <span class="em">mellorando</span> a súa calibración, pero é incorrecto decir que o seu dispositivo está calibrado.</p>
-<p class="p">De forma similar, a menos que todo o mundo teña o control de luz recomendado (sen luz solar de xanelas, paredes negras, bombillas de día, etc.) nunha habitación onde se editan imaxes, compartir un perfil que creou baixo as súas propias condicións de luz específicas non ten moito sentido.</p>
+<p class="p">
+    This means if you share your color profile with somebody, you might
+    be getting them <span class="em">closer</span> to calibration, but it’s misleading
+    at best to say that their display is calibrated.
+  </p>
+<p class="p">
+    Similarly, unless everyone has recommended controlled lighting
+    (no sunlight from windows, black walls, daylight bulbs etc.) in a
+    room where viewing and editing images takes place, sharing a profile
+    that you created in your own specific lighting conditions doesn’t make
+    a lot of sense.
+  </p>
 <div class="note note-warning" title="Aviso"><div class="inner"><div class="region"><div class="contents"><p class="p">Debería comprobar coidadosamente as condicións de redistribución dos perfiles descargados das páxinas web dos fabricantes ou que se crearon no seu nome.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">

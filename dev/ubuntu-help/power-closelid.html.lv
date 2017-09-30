@@ -53,22 +53,22 @@
 <div class="hgroup"><h1 class="title"><span class="title">Kāpēc dators izslēdzas, aizverot tā vāku?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Aizverot klēpjdatora vāku, tas <span class="link"><a href="power-suspend.html" title="Kas notiek, iesnaudinot datoru?"><span class="em">iesnaudīsies</span></a></span>, lai ietaupītu enerģiju. Tātad dators īstenība nav izslēgts, tikai "iemidzis". Jūs varat to atmodināt, atverot vāku. Dažiem datoriem būs arī jānospiež peles poga vai kāds tastatūras taustiņš. Ja arī tas nelīdz, spiediet ieslēgšanas pogu.</p>
+<p class="p">Aizverot klēpjdatora vāku, tas <span class="link"><a href="power-suspend.html" title="Kas notiek, iesnaudinot datoru?"><span class="em">iesnaudīsies</span></a></span>, lai ietaupītu enerģiju. Tātad dators īstenība nav izslēgts, tikai “iemidzis”. Jūs varat to atmodināt, atverot vāku. Dažiem datoriem būs arī jānospiež peles poga vai kāds tastatūras taustiņš. Ja arī tas nelīdz, spiediet ieslēgšanas pogu.</p>
 <p class="p">Daži datori nespēj pareizi iesnausties, parasti tāpēc, ka to aparatūrai trūkst operētājsistēmas atbalsta (piemēram, tai ir nepilnīgi draiveri). Tad dators var neatmosties, kad atver vāku. Jūs varat mēģināt <span class="link"><a href="power-suspendfail.html" title="Kāpēc mans dators neatmostas pēc iesnaudināšanas?">atrisināt iesnaušanās problēmu</a></span>, vai arī atslēgt automātisko iesnaušanos, kad aizver vāku.</p>
 </div>
 <div id="nosuspend" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Neļaut datoram iesnausties, kad aizver vāku</span></h2></div>
 <div class="region"><div class="contents">
 <div class="note note-important" title="Svarīgi"><div class="inner"><div class="region"><div class="contents"><p class="p">Šīs instrukcijas darbosies tikai tad, ja izmantojat <span class="app">systemd</span>. Sazinieties ar distribūciju, lai uzzinātu vairāk.</p></div></div></div></div>
-<div class="note note-important" title="Svarīgi"><div class="inner"><div class="region"><div class="contents"><p class="p">Jums jābūt uzinstalētam <span class="app">Piedares rīkam</span>, lai mainītu šo iestatījumu.</p></div></div></div></div>
+<div class="note note-important" title="Svarīgi"><div class="inner"><div class="region"><div class="contents"><p class="p">Jābūt uzinstalētai <span class="app">Piedarei</span>, lai mainītu šo iestatījumu.</p></div></div></div></div>
 <p class="p">Ja automātiskā iesnaušanās, aizverot vāku, ir nevēlama, jūs varat izmainīt ar šo uzvedību saistītos iestatījumus. Jums būs jāievada <span class="link"><a href="user-admin-change.html" title="Piešķirt vai noņemt administratīvās tiesības">administratora parole</a></span>, lai mainītu šos iestatījumus.</p>
 <div class="note note-warning" title="Brīdinājums"><div class="inner"><div class="region"><div class="contents"><p class="p">Kad izmainīts šis iestatījums, esiet uzmanīgi. Daži klēpjdatori var pārkarst, ja tos atstāj strādāt ar aizvērtu vāku, it īpaši somā vai līdzīgā noslēgtā telpā.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Piedares rīks</span>.</p></li>
-<li class="steps"><p class="p">Spiediet <span class="gui">Piedares rīks</span>, lai atvērtu lietotni.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Piedare</span>.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="gui">Piedare</span>, lai atvērtu lietotni.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Barošanas</span> cilni.</p></li>
 <li class="steps"><p class="p">Pārslēdziet <span class="gui">Neiesnaudināt, kad tiek aizvērts vāks</span> uz <span class="gui">|</span>.</p></li>
-<li class="steps"><p class="p">Aizveriet <span class="gui">Piedares rīka</span> logu.</p></li>
+<li class="steps"><p class="p">Aizveriet <span class="gui">Piedares</span> logu.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>

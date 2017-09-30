@@ -49,7 +49,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Vanligt förekommande nätverksportar</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Detta är en lista över nätverksportar som ofta används av program som tillhandahåller nätverkstjänster, så som fildelning eller åtkomst till fjärrskrivbord. Du kan ändra ditt systems brandvägg till för att <span class="link"><a href="net-firewall-on-off.html" title="Aktivera eller blockera brandväggsåtkomst">blockera eller tillåta åtkomst</a></span> för dessa program. Det finns tusentals portar som används, så denna tabell är inte fullständig.</p>
+<p class="p">Detta är en lista över nätverksportar som ofta används av program som tillhandahåller nätverkstjänster, så som fildelning eller åtkomst till fjärrskrivbord. Du kan ändra ditt systems brandvägg till att <span class="link"><a href="net-firewall-on-off.html" title="Aktivera eller blockera brandväggsåtkomst">blockera eller tillåta åtkomst</a></span> för dessa program. Det finns tusentals portar som används, så denna tabell är inte fullständig.</p>
 <div class="table"><div class="inner"><div class="region"><table class="table" style="border-top-style: solid;">
 <thead><tr>
 <td><p class="p">Port</p></td>

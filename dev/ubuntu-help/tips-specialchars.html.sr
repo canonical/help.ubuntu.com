@@ -81,14 +81,17 @@
 <div class="region"><div class="contents">
 <p class="p">Саставни тастер је посебан тастер који вам омогућава да притиснете више тастера у низу да бисте добили посебан знак. На пример, да упишете е са нагласком (<span class="em">é</span>), можете да притиснете <span class="key"><kbd>саставни</kbd></span> затим <span class="key"><kbd>'</kbd></span> затим <span class="key"><kbd>e</kbd></span>.</p>
 <p class="p">Тастатуре немају посебне саставне тастере. Уместо тога, можете да одредите један од постојећих тастера на вашој тастатури као саставни тастер.</p>
+<div class="note note-important" title="Важно"><div class="inner"><div class="region"><div class="contents"><p class="p">Треба да сте инсталирали програм <span class="app">Алат за лицкање</span> на вашем рачунару да бисте могли да измените ово подешавање.</p></div></div></div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Одредите саставни тастер</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Тастатура</span>.</p></li>
-<li class="steps"><p class="p">Кликните на <span class="gui">Тастатура</span> да отворите панел.</p></li>
-<li class="steps"><p class="p">Изаберите језичак <span class="gui">Пречице</span> и притисните <span class="gui">Куцање</span>.</p></li>
-<li class="steps"><p class="p">Кликните на <span class="gui">Саставни тастер</span> са десне стране.</p></li>
-<li class="steps"><p class="p">Кликните на <span class="gui">Искључено</span> и изаберите тастер који ће да се понаша као саставни тастер из падајућег изборника. Можете да изаберете један од <span class="key"><kbd>Ктрл</kbd></span> тастера, десни тастер <span class="key"><kbd>Алт</kbd></span>, десни тастер <span class="key"><kbd>прозора</kbd></span> или <span class="key"><a href="keyboard-key-super.html" title="Шта је то тастер Супер?"><kbd>Супер</kbd></a></span> тастер ако имате један, тастер <span class="key"><a href="keyboard-key-menu.html" title="Шта је то тастер Изборник?"><kbd>Изборник</kbd></a></span> или <span class="key"><kbd>Закљ. слова</kbd></span>. Било који тастер који изаберете ће тада радити само као саставни тастер, и неће више радити оно за шта је првобитно предвиђен.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Tweaks</span>.</p></li>
+<li class="steps"><p class="p">Кликните на <span class="gui">Алат за лицкање</span> да га отворите.</p></li>
+<li class="steps"><p class="p">Кликните на језичак <span class="gui">Тастатура и миш</span>.</p></li>
+<li class="steps"><p class="p">Кликните на <span class="gui">Искључено</span> поред подешавања <span class="gui">Саставног тастера</span>.</p></li>
+<li class="steps"><p class="p">Укључите прекидач у прозорчету и изаберите пречицу на тастатури коју желите да користите.</p></li>
+<li class="steps"><p class="p">Означите кућицу тастера који желите да подесите као саставни тастер.</p></li>
+<li class="steps"><p class="p">Затворите прозор <span class="gui">Алата за лицкање</span>.</p></li>
 </ol></div>
 </div></div>
 <p class="p">Можете да откуцате много општих знакова користећи саставни тастер, на пример:</p>

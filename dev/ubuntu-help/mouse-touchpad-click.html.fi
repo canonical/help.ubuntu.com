@@ -70,11 +70,15 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Napsautus onnistuu kosketuslevyä napauttamalla.</p></li>
 <li class="list"><p class="p">Kaksoisnapsautus onnistuu napauttamalla kosketuslevyä kahdesti.</p></li>
-<li class="list"><p class="p">Raahaaminen onnistuu kaksoisnapauttamalla kosketusalustaa siten, ettet nosta sormeasi toisella napsautuksella. Raahaa kohde, minne haluat ja nosta sormi sen pudottamiseksi.</p></li>
+<li class="list"><p class="p">To drag an item, double-tap but don’t lift your finger after the
+      second tap. Drag the item where you want it, then lift your finger to
+      drop.</p></li>
 <li class="list"><p class="p">Jos kosketuslevy tukee usean sormen napautuksia, voit simuloida hiiren oikean painikkeen napsautusta napauttamalla kosketuslevyä kahdella sormella samaan aikaan. Muussa tapauksessa sinun täytyy käyttää fyysisiä painikkeita hiiren oikean näppäimen napsautukseen. Lue toisesta tavasta simuloida hiiren oikeaa napsautusta artikkelista <span class="link"><a href="a11y-right-click.html" title="Simuloi hiiren oikean napin painallusta">Simuloi hiiren oikean napin painallusta</a></span> .</p></li>
 <li class="list"><p class="p">Jos kosketuslevy tukee usean sormen napautuksia, <span class="link"><a href="mouse-middleclick.html" title="Hiiren keskimmäisen painikkeen napsautus">hiiren keskimmäisen painikkeen napsautus</a></span> onnistuu napauttamalla kosketuslevyä kolmella sormella samanaikaisesti.</p></li>
 </ul></div></div></div>
-<div class="note" title="Huomautus"><div class="inner"><div class="region"><div class="contents"><p class="p">Kun napsauttelet ja raahaat kohteita usealla sormella, varmista, että sormesi ovat tarpeeksi kaukana toisistaan. Jos sormesi ovat liian lähekkäin, tietokone voi tulkita sormet yhdeksi sormeksi.</p></div></div></div></div>
+<div class="note" title="Huomautus"><div class="inner"><div class="region"><div class="contents"><p class="p">When tapping or dragging with multiple fingers, make sure your fingers
+    are spread far enough apart. If your fingers are too close, your computer
+    may think they’re a single finger.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="twofingerscroll" class="sect"><div class="inner">

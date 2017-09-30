@@ -62,7 +62,10 @@
 <div class="title title-steps"><h2><span class="title">PPA telepítése</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Nyissa meg a PPA áttekintő oldalát, keresse meg az <span class="gui">Adding this PPA to your system</span> szakaszt. Jegyezze fel a PPA helyét, amelynek ehhez hasonlónak kell lennie: <span class="code">ppa:mozillateam/firefox-next</span>.</p></li>
-<li class="steps"><p class="p">Kattintson az <span class="app">Ubuntu Szoftverek</span> ikonjára az <span class="gui">Indítón</span>, vagy keressen rá a <span class="input">szoftverek</span> szóra a <span class="app">Dash</span> keresősávjában.</p></li>
+<li class="steps"><p class="p">
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">Az <span class="app">Ubuntu Szoftverek</span> elindítása után válassza a <span class="gui">Szoftverek és frissítések</span> menüpontot.</p></li>
 <li class="steps"><p class="p">Váltson az <span class="gui">Egyéb szoftver</span> lapra.</p></li>
 <li class="steps"><p class="p">

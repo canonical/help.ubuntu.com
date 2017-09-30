@@ -62,7 +62,10 @@
   </p>
 <p class="p">To remove an application:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Cliqueu la icona del <span class="app">Programari de l'Ubuntu</span> en el <span class="gui">Llançador</span>, o busqueu <span class="input">Programari</span> a la barra de cerca del <span class="gui">Quadre d'aplicacions</span>.</p></li>
+<li class="steps"><p class="p">
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">Quan el <span class="app">Programari de l'Ubuntu</span> s'iniciï, cliqueu el botó <span class="gui">Instal·lat</span> a dalt.</p></li>
 <li class="steps"><p class="p">Trobeu l'aplicació que voleu suprimir usant el quadre de cerca o mirant a través de la llista d'aplicacions instal·lades.</p></li>
 <li class="steps"><p class="p">Seleccioneu l'aplicació i feu clic a <span class="gui">Suprimeix-lo</span>.</p></li>

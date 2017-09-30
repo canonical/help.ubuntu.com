@@ -58,7 +58,10 @@ one that makes the screen look better.</p>
 <div id="multihead" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Si plusieurs écrans sont connectés</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Si vous avez deux moniteurs connectés à votre ordinateur (par exemple un écran normal et un vidéoprojecteur), les affichages peuvent demander deux résolutions différentes. Cependant, la carte graphique de votre ordinateur ne peut en gérer qu'une seule à la fois et donc un des deux affichages peut se révéler mauvais.</p>
+<p class="p">If you have two displays connected to the computer (for example, a normal
+  monitor and a projector), the displays might have different resolutions.
+  However, the computer’s graphics card can only display the screen in one
+  resolution at a time, so at least one of the displays might look fuzzy.</p>
 <p class="p">Vous pouvez faire en sorte que les deux affichages aient deux résolutions différentes, mais vous ne pourrez pas afficher la même chose sur les deux écrans à la fois. En fait, vous aurez deux écrans indépendants connectés en même temps. Vous pourrez déplacer les fenêtres d'un écran à l'autre, mais vous ne pourrez pas afficher la même fenêtre en même temps sur les deux écrans.</p>
 <p class="p">Pour paramétrer les affichages pour que chacun ait sa propre résolution :</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">

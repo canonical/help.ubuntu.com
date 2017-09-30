@@ -55,7 +55,13 @@
 <div class="contents">
 <p class="p">Ο άριστος τρόπος λήψης προφίλ είναι να τα δημιουργήσετε ο ίδιος, αν και αυτό απαιτεί κάποια αρχική δαπάνη.</p>
 <p class="p">Πολλοί κατασκευαστές προσπαθούν να δώσουν προφίλ χρώματος για συσκευές, αν και μερικές φορές περιπλέκονται σε <span class="em">δέσμες οδηγών</span> που μπορεί να χρειαστεί να κάνετε λήψη, να εξάγετε και έπειτα να αναζητήσετε τα προφίλ χρώματος.</p>
-<p class="p">Μερικοί κατασκευαστές δεν παρέχουν ακριβή προφίλ για το υλικό και τα προφίλ είναι καλύτερα να αποφεύγονται. Μια καλή ένδειξη είναι η λήψη του προφίλ και εάν η ημερομηνία δημιουργίας είναι πάνω από ένα χρόνο πριν την ημερομηνία αγοράς της συσκευής τότε είναι πιθανόν να έχουν δημιουργηθεί εικονικά δεδομένα που είναι άχρηστα.</p>
+<p class="p">
+    Some manufacturers do not provide accurate profiles for the hardware
+    and the profiles are best avoided.
+    A good clue is to download the profile, and if the creation date is
+    more than a year before the date you bought the device then it’s
+    likely dummy data generated that is useless.
+  </p>
 <p class="p">Δείτε <span class="link"><a href="color-why-calibrate.html" title="Γιατί πρέπει να κάνω τη βαθμονόμηση μόνος μου;">Γιατί πρέπει να κάνω τη βαθμονόμηση μόνος μου;</a></span> για πληροφορίες γιατί τα παρεχόμενα προφίλ από τον πωλητή είναι συχνά χειρότερα από άχρηστα.</p>
 </div>
 <div class="sect sect-links" role="navigation">

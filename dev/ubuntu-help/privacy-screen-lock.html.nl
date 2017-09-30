@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Automatically lock your screen</title>
+<title>Het scherm automatisch vergrendelen</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,18 +43,18 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="privacy.html" title="Privacy Settings">Privacy Settings</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="privacy.html" title="Privacy-instellingen">Privacy-instellingen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Automatically lock your screen</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Het scherm automatisch vergrendelen</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">When you leave your computer, you should
   <span class="link"><a href="shell-exit.html#lock-screen" title="Het scherm vergrendelen">lock the screen</a></span> to prevent
   other people from using your desktop and accessing your files. If you
-  sometimes forget to lock your screen, you may wish to have your computerʼs
+  sometimes forget to lock your screen, you may wish to have your computer’s
   screen lock automatically after a set period of time. This will help to
-  secure your computer when you arenʼt using it.</p>
+  secure your computer when you aren’t using it.</p>
 <div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">When your screen is locked, your applications and system processes
   will continue to run, but you will need to enter your password to begin using
   them again.</p></div></div></div></div>
@@ -62,17 +62,17 @@
 <div class="title title-steps"><h2><span class="title">To set the length of time before your screen locks
     automatically:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activities</a></span> overview and
       start typing <span class="gui">Privacy</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Privacy</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Select <span class="gui">Screen Lock</span>.</p></li>
+<li class="steps"><p class="p">Selecteer <span class="gui">Schermvergrendeling</span>.</p></li>
 <li class="steps"><p class="p">Make sure <span class="gui">Automatic Screen Lock</span> is switched <span class="gui">ON</span>,
       then select a length of time from the drop-down list.</p></li>
 </ol></div>
 </div></div>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Applications can present notifications to you that are still displayed
     on your lock screen. This is convenient, for example, to see if you have
-    any email without unlocking your screen. If youʼre concerned about other
+    any email without unlocking your screen. If you’re concerned about other
     people seeing these notifications, switch <span class="gui">Show Notifications</span>
     off.</p></div></div></div></div>
 <p class="p">When your screen is locked, and you want to unlock it, press
@@ -87,21 +87,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="privacy.html" title="Privacy Settings">Privacy Settings</a><span class="desc"> — 
-      <span class="link"><a href="privacy-screen-lock.html" title="Automatically lock your screen">Screen lock</a></span>,
+<a href="privacy.html" title="Privacy-instellingen">Privacy-instellingen</a><span class="desc"> — 
+      <span class="link"><a href="privacy-screen-lock.html" title="Het scherm automatisch vergrendelen">Screen lock</a></span>,
       <span class="link"><a href="privacy-history-recent-off.html" title="Turn off or limit file history tracking">Usage history</a></span>,
-      <span class="link"><a href="privacy-purge.html" title="Purge trash &amp; temporary files">Purge trash &amp; temporary files</a></span>…
+      <span class="link"><a href="privacy-purge.html" title="Prullenbak legen &amp; tijdelijke bestanden definitief verwijderen">Purge trash &amp; temporary files</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-exit.html#lock-screen" title="Het scherm vergrendelen">Het scherm vergrendelen</a></li>
 <li class="links ">
-<a href="session-screenlocks.html" title="The screen locks itself too quickly">The screen locks itself too quickly</a><span class="desc"> — Change how long to wait before locking the screen in the
-    <span class="gui">Privacy</span> settings.</span>
+<a href="session-screenlocks.html" title="Het scherm vergrendeld zichzelf te snel">Het scherm vergrendeld zichzelf te snel</a><span class="desc"> — Wijzigen hoe lang er gewacht moet worden voordat het scherm vergrendeld wordt in de <span class="gui">Privacy</span>-instellingen.</span>
 </li>
+<li class="links "><a href="shell-exit.html#lock-screen" title="Het scherm vergrendelen">Het scherm vergrendelen</a></li>
 </ul></div>
 </div></div>
 </div>

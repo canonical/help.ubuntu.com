@@ -49,7 +49,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Εκτύπωση</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="printing-inklevel.html" title="Πώς μπορώ να ελέγξω τις στάθμες μελανιού/γραφίτη του εκτυπωτή μου;"><span class="title">Πώς μπορώ να ελέγξω τις στάθμες μελανιού/γραφίτη του εκτυπωτή μου;</span><span class="linkdiv-dash"> — </span><span class="desc">Ελέγξτε την ποσότητα του μελανιού ή γραφίτη που υπάρχει στις κεφαλές του εκτυπωτή.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-inklevel.html" title="How can I check my printer’s ink or toner levels?"><span class="title">How can I check my printer’s ink or toner levels?</span><span class="linkdiv-dash"> — </span><span class="desc">Ελέγξτε την ποσότητα του μελανιού ή γραφίτη που υπάρχει στις κεφαλές του εκτυπωτή.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="printing-to-file.html" title="Εκτύπωση σε αρχείο"><span class="title">Εκτύπωση σε αρχείο</span><span class="linkdiv-dash"> — </span><span class="desc">Save a document as a PDF, PostScript or SVG file instead of sending
     it to a printer.</span></a></div>
 </div></div></div></div>

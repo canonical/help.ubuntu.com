@@ -124,7 +124,7 @@
 <div class="title title-links"><h3><span class="title">Používání klávesnice</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard-repeat-keys.html" title="Manage repeated key presses">Manage repeated key presses</a><span class="desc"> — Jak přimět klávesnici, aby neopakovala písmena, když držíte klávesu zmáčknutou, nebo jak změnit prodlevu a rychlost opakování.</span>
+<a href="keyboard-repeat-keys.html" title="Nastavení opakování zmáčknutých kláves">Nastavení opakování zmáčknutých kláves</a><span class="desc"> — Jak přimět klávesnici, aby neopakovala písmena, když držíte klávesu zmáčknutou, nebo jak změnit prodlevu a rychlost opakování.</span>
 </li>
 <li class="links ">
 <a href="keyboard-nav.html" title="Ovládání klávesnicí">Ovládání klávesnicí</a><span class="desc"> — Jak používat aplikace a celé uživatelské prostředí bez myši.</span>

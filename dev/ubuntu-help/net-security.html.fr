@@ -52,7 +52,8 @@
 <div class="linkdiv "><a class="linkdiv" href="net-firewall-on-off.html" title="Autorisation ou blocage de l'accès au pare-feu"><span class="title">Autorisation ou blocage de l'accès au pare-feu</span><span class="linkdiv-dash"> — </span><span class="desc">Vous pouvez contrôler quels programmes ont accès au réseau. Ceci contribue à la sécurité de votre ordinateur.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-email-virus.html" title="Contrôle antivirus de mes courriels"><span class="title">Contrôle antivirus de mes courriels</span><span class="linkdiv-dash"> — </span><span class="desc">Il est peu probable que des virus puissent infecter votre ordinateur, par contre ils peuvent infecter les machines des personnes à qui vous envoyez des courriels.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-firewall-ports.html" title="Les ports réseau les plus courants"><span class="title">Les ports réseau les plus courants</span><span class="linkdiv-dash"> — </span><span class="desc">Vous devez spécifier le port réseau correct du pare-feu pour autoriser/interdire l'accès au réseau d'un programme.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-antivirus.html" title="Utilité d'un logiciel antivirus"><span class="title">Utilité d'un logiciel antivirus</span><span class="linkdiv-dash"> — </span><span class="desc">Étant donné le peu de virus Linux, un logiciel antivirus n'est sans doute pas nécessaire.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-antivirus.html" title="Utilité d'un logiciel antivirus"><span class="title">Utilité d'un logiciel antivirus</span><span class="linkdiv-dash"> — </span><span class="desc">There are few Linux viruses, so you probably don’t need anti-virus
+    software.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

@@ -56,13 +56,17 @@
 <a href="#" class="ui-overlay-close" title="Закрыть">⨯</a><div class="contents"><div class="media media-video"><div class="inner">
 <video src="figures/gnome-windows-and-workspaces.webm" preload="auto" controls="controls" class="media media-block" height="394" width="700" data-play-label="Воспроизвести" data-pause-label="Пауза"></video><div class="media-ttml">
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="1" data-ttml-end="5"><div class="media-ttml-node media-ttml-p" data-ttml-begin="1" data-ttml-end="5">Окна и рабочие столы</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="6" data-ttml-end="10"><div class="media-ttml-node media-ttml-p" data-ttml-begin="6" data-ttml-end="10">Чтобы раскрыть окно на весь экран, перетащите заголовок окна к верхнему краю экрана.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="6" data-ttml-end="10"><div class="media-ttml-node media-ttml-p" data-ttml-begin="6" data-ttml-end="10">To maximize a window, grab the window’s titlebar and drag it to
+            the top of the screen.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="10" data-ttml-end="13"><div class="media-ttml-node media-ttml-p" data-ttml-begin="10" data-ttml-end="13">Когда на экране появится подсветка, отпустите окно.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="14" data-ttml-end="20"><div class="media-ttml-node media-ttml-p" data-ttml-begin="14" data-ttml-end="20">Чтобы вернуть прежний размер окна, перетащите заголовок окна от краёв экрана.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="14" data-ttml-end="20"><div class="media-ttml-node media-ttml-p" data-ttml-begin="14" data-ttml-end="20">To unmaximize a window, grab the window’s titlebar and drag it
+            away from the edges of the screen.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="25" data-ttml-end="29"><div class="media-ttml-node media-ttml-p" data-ttml-begin="25" data-ttml-end="29">Также можно нажать на верхнюю панель, чтобы перетащить окно и вернуть его прежний размер.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="34" data-ttml-end="38"><div class="media-ttml-node media-ttml-p" data-ttml-begin="34" data-ttml-end="38">Чтобы растянуть окно вдоль левой стороны экрана, перетащите заголовок окна влево.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="34" data-ttml-end="38"><div class="media-ttml-node media-ttml-p" data-ttml-begin="34" data-ttml-end="38">To maximize a window along the left side of the screen, grab
+            the window’s titlebar and drag it to the left.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="38" data-ttml-end="40"><div class="media-ttml-node media-ttml-p" data-ttml-begin="38" data-ttml-end="40">Когда в левой половине экрана появится подсветка, отпустите окно.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="41" data-ttml-end="44"><div class="media-ttml-node media-ttml-p" data-ttml-begin="41" data-ttml-end="44">Чтобы растянуть окно вдоль правой стороны экрана, перетащите заголовок окна вправо.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="41" data-ttml-end="44"><div class="media-ttml-node media-ttml-p" data-ttml-begin="41" data-ttml-end="44">To maximize a window along the right side of the screen, grab
+            the window’s titlebar and drag it to the right.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="44" data-ttml-end="48"><div class="media-ttml-node media-ttml-p" data-ttml-begin="44" data-ttml-end="48">Когда в левой половине экрана появится подсветка, отпустите окно.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="54" data-ttml-end="60"><div class="media-ttml-node media-ttml-p" data-ttml-begin="54" data-ttml-end="60">Чтобы развернуть окно на весь экран с помощью клавиатуры, нажмите клавишу <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> и затем <span class="key"><kbd>↑</kbd></span>.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="61" data-ttml-end="66"><div class="media-ttml-node media-ttml-p" data-ttml-begin="61" data-ttml-end="66">Чтобы восстановить прежний размер окна используя клавиатуру, нажмите клавишу <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> и затем <span class="key"><kbd>↓</kbd></span>.</div></div>
@@ -79,9 +83,12 @@
 <div class="region"><div class="contents">
 <p class="p"></p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Чтобы развернуть окно на весь экран, перетащите заголовок окна в верхную часть экрана.</p></li>
+<li class="steps"><p class="p">To maximize a window so that it takes up all of the space on
+       your desktop, grab the window’s titlebar and drag it to the top of the
+       screen.</p></li>
 <li class="steps"><p class="p">Когда на экране появится подсветка, отпустите окно, чтобы его развернуть.</p></li>
-<li class="steps"><p class="p">Чтобы восстановить размеры окна, перетащите его заголовок от края экрана.</p></li>
+<li class="steps"><p class="p">To restore a window to its unmaximized size, grab the window’s
+       titlebar and drag it away from the edges of the screen.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -90,7 +97,8 @@
 <div class="region"><div class="contents">
 <p class="p"></p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Чтобы развернуть окно вдоль правой или левой стороны экрана, перетащите заголовок окна на правую или на левую сторону экрана.</p></li>
+<li class="steps"><p class="p">To maximize a window along a side of the screen, grab the window’s
+       titlebar and drag it to the left or right side of the screen.</p></li>
 <li class="steps"><p class="p">При появлении на экране подсветки отпустите окно, чтобы оно заняло на экране всю выделенную область.</p></li>
 <li class="steps"><p class="p">Чтобы развернуть два окна рядом друг с другом, перетащите заголовок второго окна на противоположную сторону экрана.</p></li>
 <li class="steps"><p class="p">При появлении на экране подсветки отпустите окно, чтобы оно заняло на экране всю противоположную область.</p></li>

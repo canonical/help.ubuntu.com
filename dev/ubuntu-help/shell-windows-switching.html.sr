@@ -61,20 +61,28 @@
 <li class="steps"><p class="p">Иначе, држећи још увек тастер <span class="key"><a href="keyboard-key-super.html" title="Шта је то тастер Супер?"><kbd> Супер</kbd></a></span>, притисните <span class="key"><kbd>Таб</kbd></span> да кружите по списку отворених прозора, или <span class="keyseq"><span class="key"><kbd>Шифт</kbd></span>+<span class="key"><kbd>Таб</kbd></span></span> да кружите уназад.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Савет"><div class="inner"><div class="region"><div class="contents"><p class="p">Прозори у пребацивачу прозора су груписани по програмима. Прегледи програма са више прозора бивају приказани на клик. Држите притиснутим <span class="key"><a href="keyboard-key-super.html" title="Шта је то тастер Супер?"><kbd>Супер</kbd></a></span> и притисните <span class="key"><kbd>`</kbd></span> (или тастер изнад тастера <span class="key"><kbd>Таб</kbd></span>) да се крећете по списку.</p></div></div></div></div>
-<div class="note" title="Белешка"><div class="inner"><div class="region"><div class="contents"><p class="p">У пребацивачу прозора, програми са других радних прозора су одвојени усправним раздвојницима.</p></div></div></div></div>
 <p class="p">Можете такође да се померате између иконица програма у пребацивачу прозора тастерима <span class="key"><kbd>→</kbd></span> или <span class="key"><kbd>←</kbd></span>, или да изаберете један тако што ћете кликнути мишем на њега.</p>
 <p class="p">Прегледи програма са једним прозором могу бити приказани тастером <span class="key"><kbd>↓</kbd></span>.</p>
 <p class="p">Из прегледа <span class="gui">активности</span>, притисните на <span class="link"><a href="shell-windows.html" title="Прозори и радни простори">прозор</a></span> да се пребаците на њега и да напустите преглед. Ако имате отворених више <span class="link"><a href="shell-windows.html#working-with-workspaces" title="Рад са радним просторима">радних простора</a></span>, можете да кликнете на сваки радни простор да видите отворене прозоре на сваком радном простору.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
-<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul>
 <li class="links "><a href="shell-overview.html#apps" title="Програми и прозори">Програми и прозори</a></li>
 <li class="links "><a href="shell-windows.html#working-with-windows" title="Рад са прозорима">Рад са прозорима</a></li>
 </ul></div>
-</div></div></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Погледајте и</span></h2></div>
+<div class="region"><ul>
+<li class="links "><a href="gs-use-windows-workspaces.html" title="Коришћење прозора и радних простора">Упутство за коришћење прозора и радних површина</a></li>
+<li class="links "><a href="gs-switch-tasks.html" title="Пребацивање између задатака">Упутство за пребацивање између више задатака</a></li>
+</ul></div>
+</div></div>
+</div>
 </div>
 </div>
 <div class="clear"></div>

@@ -2,7 +2,7 @@
 <html lang=sr>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Manage repeated key presses</title>
+<title>Управљајте поновљеним притисцима тастера</title>
 <link rel="stylesheet" type="text/css" href="sr.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -52,14 +52,10 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Manage repeated key presses</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Управљајте поновљеним притисцима тастера</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">By default, when you hold down a key on your keyboard, the letter
-  or symbol will be repeated until you release the key. If you have
-  difficulty picking your finger back up quickly enough, you can
-  disable this feature, or change how long it takes before key presses
-  start repeating, or how quickly key presses repeat.</p>
+<p class="p">По основи, када држите притиснут тастер на тастатури, слово или симбол ће бити понављано све док не отпустите тастер. Ако имате потешкоћа да довољно брзо повучете ваш прст назад, можете да искључите ову функцију, или да измените након колико времена ће се поновити притисак на тастер, или колико се брзо понављају притисци тастера.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Универзални приступ</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Универзални приступ</span> да отворите панел.</p></li>

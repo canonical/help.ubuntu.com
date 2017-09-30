@@ -55,7 +55,10 @@
 <div class="hgroup"><h1 class="title"><span class="title">Προσαρμογή ταχύτητας του διπλού κλικ</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Το διπλό κλικ συμβαίνει μόνο όταν πατάτε το πλήκτρο του ποντικιού δυο φορές αρκετά γρήγορα. Εάν το δεύτερο πάτημα είναι υπερβολικά μεγάλο μετά το πρώτο, θα πάρετε απλά δύο ξεχωριστά πατήματα, όχι ένα διπλό κλικ. Εάν δυσκολεύεστε να πατήσετε το πλήκτρο του ποντικιού γρήγορα, θα πρέπει να αυξήσετε το όριο χρόνου.</p>
+<p class="p">Double-clicking only happens when you press the mouse button twice
+quickly enough. If the second press is too long after the first, you’ll
+just get two separate clicks, not a double click. If you have difficulty
+pressing the mouse button quickly, you should increase the timeout.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Γενική πρόσβαση</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Γενική πρόσβαση</span> για να ανοίξετε τον πίνακα.</p></li>

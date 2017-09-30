@@ -49,11 +49,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Ein Persönliches Paketarchiv (PPA) hinzufügen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    <span class="em">Personal Package Archives (PPAs)</span> are software repositories designed 
-    for Ubuntu users and are easier to install than other third-party 
-    repositories. PPAs are often used to distribute pre-release software so that it can be tested.
-  </p>
+<p class="p"><span class="em">Personal Package Archives (PPAs)</span> sind Programmquellen für Ubuntu-Verwender, die leichter zu installieren sind als andere Dritt-Programmquellen. PPAs dienen zumeist der Verteilung von Vorversionen, die damit getestet oder ausprobiert werden können.</p>
 <div class="note note-warning" title="Warnung"><div class="inner"><div class="region"><div class="contents">
 <p class="p">Fügen Sie nur Paketquellen hinzu, wenn Sie deren Quellen vertrauen.</p>
 <p class="p">Paketquellen von Drittanbietern werden von Ubuntu-Mitgliedern nicht auf Vertrauenswürdigkeit geprüft und können Anwendungen enthalten, die schädlich für Ihren Rechner sind.</p>
@@ -62,7 +58,10 @@
 <div class="title title-steps"><h2><span class="title">Ein PPA installieren</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Suchen Sie auf der PPA-Übersichtsseite nach <span class="gui">Hinzufügen dieses PPAs zu Ihrem System</span>. Notieren Sie sich die PPA-Adresse, die ungefähr so aussehen könnte: <span class="code">ppa:mozillateam/firefox-next</span>.</p></li>
-<li class="steps"><p class="p">Klicken Sie auf das <span class="app">Ubuntu Software</span> Symbol im <span class="gui">Launcher</span>, oder tippen Sie <span class="input">Software</span> in das Suchfeld der <span class="gui">Dash</span>.</p></li>
+<li class="steps"><p class="p">
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">Sobald <span class="app">Ubuntu Software</span> gestartet ist, klicken Sie auf <span class="gui">Software &amp; Updates</span></p></li>
 <li class="steps"><p class="p">Wechseln Sie zum Reiter <span class="gui">Andere Software</span>.</p></li>
 <li class="steps"><p class="p">
@@ -80,21 +79,16 @@
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="addremove.html" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html" title="Install additional applications">Install applications</a></span>,
+      <span class="link"><a href="addremove-install.html" title="Zusätzliche Anwendungen installieren">Install applications</a></span>,
       <span class="link"><a href="addremove-remove.html" title="Eine Anwendung entfernen">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html" title="Add software repositories">add repositories</a></span>…
+      <span class="link"><a href="addremove-sources.html" title="Paketquellen hinzufügen">add repositories</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove-sources.html" title="Add software repositories">
-    Add software repositories
-  </a><span class="desc"> — 
-      Add repositories to extend the software sources Ubuntu uses for 
-      installation and upgrades.
-    </span>
+<a href="addremove-sources.html" title="Paketquellen hinzufügen">Paketquellen hinzufügen</a><span class="desc"> — Fügen Sie Paketquellen hinzu, um die von Ubuntu genutzte Softwarebasis für Installationen und Aktualisierungen zu erweitern.</span>
 </li></ul></div>
 </div></div>
 </div>

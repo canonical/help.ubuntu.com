@@ -50,15 +50,8 @@
 <div class="region">
 <div class="contents">
 <p class="p">Pirmo reizi palaižot <span class="app">Kontaktus</span> atveras logs <span class="gui">Izvēlieties adrešu grāmatu</span>.</p>
-<p class="p">If you have <span class="link"><a href="accounts.html" title="Tiešsaistes konti">online accounts</a></span> configured, they
-  are listed with <span class="gui">Local Address Book</span>. Select an item from the
-  list and click <span class="gui">Done</span>. All new contacts you create
-  will be saved to the address book you choose. You are also able to view and
-  edit contacts in other address books.</p>
-<p class="p">If you have no online accounts configured, click
-  <span class="gui">Online Accounts</span> to begin the setup. If you do not
-  wish to set up online accounts at this time, click <span class="gui">Local
-  Address Book</span>.</p>
+<p class="p">Ja ir nokonfigurēti <span class="link"><a href="accounts.html" title="Tiešsaistes konti">tiešsaistes konti</a></span>, tie ir uzskaitīti <span class="gui">Lokālajā adrešu grāmatā</span>. Izvēlieties vienumu no saraksta un spiediet <span class="gui">Darīts</span>. Visi jaunie kontakti, ko izveidosiet, tiks saglabāti jūsu izvēlētajā adrešu grāmatā. Jūs arī varēsiet skatīt un rediģēt kontaktus citās adrešu grāmatās.</p>
+<p class="p">Ja nav nokonfigurēti tiešsaistes konti, spiediet <span class="gui">Tiešsaistes konti</span>, lai sāktu iestatīšanu. Ja šobrīd nevēlaties iestatīt tiešsaistes kontus, spiediet <span class="gui">Lokālo adrešu grāmatu</span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

@@ -67,7 +67,12 @@
 <li class="steps"><p class="p">Κάντε δεξί κλικ στον σελιδοδείκτη στην πλευρική στήλη και επιλέξτε <span class="gui">Μετονομασία…</span>.</p></li>
 <li class="steps">
 <p class="p">Στο πλαίσιο κειμένου <span class="gui">Όνομα</span>, πληκτρολογήστε το νέο όνομα για τον σελιδοδείκτη.</p>
-<div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">Η μετονομασία ενός σελιδοδείκτη δεν μετονομάζει τον φάκελο. Εάν έχετε σελιδοδείκτες σε δύο διαφορετικούς φακέλους σε δύο διαφορετικές θέσεις, αλλά που ο καθένας τους έχει το ίδιο όνομα, οι σελιδοδείκτες θα έχουν το ίδιο όνομα και δεν θα μπορείτε να τους ξεχωρίσετε. Σε αυτές τις περιπτώσεις, είναι χρήσιμο να δώσετε σε έναν σελιδοδείκτη άλλο όνομα από το όνομα του φακέλου στον οποίον κατευθύνεται.</p></div></div></div></div>
+<div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">Renaming a bookmark does not rename the folder. If you have
+        bookmarks to two different folders in two different locations, but
+        which each have the same name, the bookmarks will have the same name,
+        and you won’t be able to tell them apart. In these cases, it is useful
+        to give a bookmark a name other than the name of the folder it points
+        to.</p></div></div></div></div>
 </li>
 </ol></div>
 </div></div>

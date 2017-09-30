@@ -54,7 +54,9 @@
 <li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Wacom Tablet</span>.</p></li>
 <li class="steps">
 <p class="p">Κάντε κλικ στο <span class="gui">Tablet Wacom</span> για να ανοίξετε τον πίνακα.</p>
-<div class="note note-tip" title="Συμβουλή"><div class="inner"><div class="region"><div class="contents"><p class="p">Εάν δεν ανιχνευτεί κανένα tablet, θα σας ζητηθεί <span class="gui">Παρακαλούμε ενεργοποιήστε ή συνδέστε το Wacom tablet</span>. Κάντε κλικ στο σύνδεσμο <span class="gui">Ρυθμίσεις Bluetooth</span> για να συνδέσετε ένα ασύρματο tablet.</p></div></div></div></div>
+<div class="note note-tip" title="Συμβουλή"><div class="inner"><div class="region"><div class="contents"><p class="p">If no tablet is detected, you’ll be asked to
+    <span class="gui">Please plug in or turn on your Wacom tablet</span>. Click the
+    <span class="gui">Bluetooth Settings</span> link to connect a wireless tablet.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Αλλάξτε τον <span class="gui">Προσανατολισμός για αριστερόχειρες</span> σε <span class="gui">Ενεργό</span>.</p></li>
 </ol></div></div></div>

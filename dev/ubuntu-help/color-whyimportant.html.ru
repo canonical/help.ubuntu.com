@@ -68,7 +68,10 @@
 <div class="desc">Так это выглядит на экране типичного ноутбука.</div>
 </div>
 </div></div>
-<p class="p">Обратите внимание, что белый цвет перестал быть белым, а чёрный превратился в грязно-коричневый.</p>
+<p class="p">
+    Notice how the white is not “paper white” and the black of the eye
+    is now a muddy brown.
+  </p>
 <div class="figure"><div class="inner">
 <a href="#" class="zoom" data-zoom-in-title="Обычный размер изображений" data-zoom-out-title="Уменьшить масштаб изображений"></a><div class="region">
 <div class="contents"><div class="media media-image"><div class="inner"><img src="figures/color-printer.png" class="media media-block" alt=""></div></div></div>
@@ -76,11 +79,41 @@
 </div>
 </div></div>
 <p class="p">Основная проблема заключается в том, что каждое устройство передаёт различный диапазон цветов. Даже если вам удастся сфотографировать предмет цвета электрик, большинство принтеров не сможет его воспроизвести.</p>
-<p class="p">Большинство устройств захватывает изображения в RGB (красный, зелёный, синий), которые для печати необходимо преобразовать в CMYK (циановый, пурпурный, жёлтый, чёрный). Кроме того, <span class="em">белых</span> чернил не бывает, поэтому белым цвет будет ровно настолько, насколько белой является бумага.</p>
-<p class="p">Единицы измерения — ещё одна проблема. Не зная шкалу, по которой измерялся цвет, невозможно сказать, является ли 100% красный цветом на границе с инфракрасным диапазоном, или же это просто самый густой красный цвет, который может вывести принтер. На одном мониторе 50% красного будет соответствовать 62% красного на другом. Это всё равно что сказать человеку, что вы проехали семь единиц измерения, не сказав, километры это или метры.</p>
-<p class="p">Когда речь идёт о цвете, единицы измерения определяют через цветовой охват, под которым подразумевается диапазон воспроизводимых цветов. У цифровой зеркальной фотокамеры может быть очень большой цветовой охват, способный воспроизвести все цвета на снимке заката. Но у проектора цветовой охват очень небольшой, из-за чего все цвета будут выглядеть блеклыми.</p>
-<p class="p">В некоторых случаях можно <span class="em">скорректировать</span> отклик устройства, изменив отправляемые ему данные. Но в тех случаях, когда это невозможно (вспомните про непечатаемый цвет «электрик»), необходимо показать пользователю, на что похож результат.</p>
-<p class="p">При работе с фотографиями важно иметь возможность использовать весь диапазон тонов устройства цветной печати, чтобы иметь возможность производить тонкую настройку цвета. При печати других типов графики нужно точное воспроизведение цвета, что важно если вы пытаетесь, например, напечатать на кружке логотип Red Hat, который <span class="em">должен</span> быть именно такого же оттенка красного, как на оригинальном логотипе.</p>
+<p class="p">
+    Most image devices capture in RGB (Red, Green, Blue) and have
+    to convert to CMYK (Cyan, Magenta, Yellow, and Black) to print.
+    Another problem is that you can’t have <span class="em">white</span> ink, and so
+    the whiteness can only be as good as the paper color.
+  </p>
+<p class="p">
+    Another problem is units. Without specifying the scale on which a
+    color is measured, we don’t know if 100% red is near infrared or
+    just the deepest red ink in the printer. What is 50% red on one
+    display is probably something like 62% on another display.
+    It’s like telling a person that you’ve just driven 7 units of
+    distance, without the unit you don’t know if that’s 7 kilometers or
+    7 meters.
+  </p>
+<p class="p">
+    In color, we refer to the units as gamut. Gamut is essentially the
+    range of colors that can be reproduced.
+    A device like a DSLR camera might have a very large gamut, being able
+    to capture all the colors in a sunset, but a projector has a very
+    small gamut and all the colors are going to look “washed out”.
+  </p>
+<p class="p">
+    In some cases we can <span class="em">correct</span> the device output by altering
+    the data we send to it, but in other cases where that’s not
+    possible (you can’t print electric blue) we need to show the user
+    what the result is going to look like.
+  </p>
+<p class="p">
+    For photographs it makes sense to use the full tonal range of a color
+    device, to be able to make smooth changes in color.
+    For other graphics, you might want to match the color exactly, which
+    is important if you’re trying to print a custom mug with the Red Hat
+    logo that <span class="em">has</span> to be the exact Red Hat Red.
+  </p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Share files by email</title>
+<title>Bestanden delen per e-mail</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,35 +44,27 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html" title="Sharing">Sharing</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="sharing.html" title="Delen">Delen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Share files by email</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Bestanden delen per e-mail</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can easily share files with your contacts by email directly from the
-file manager.</p>
-<div class="note note-important" title="Belangrijk"><div class="inner"><div class="region"><div class="contents"><p class="p">Before you begin, make sure <span class="app">Evolution</span> or <span class="app">Geary</span> is
-    installed on your computer, and your email account is configured.</p></div></div></div></div>
+<p class="p">U kunt eenvoudig vanuit bestandsbeheer via e-mail bestanden delen met uw contacten.</p>
+<div class="note note-important" title="Belangrijk"><div class="inner"><div class="region"><div class="contents"><p class="p">Zorg ervoor dat, voordat u begint, <span class="app">Evolution</span> of <span class="app">Geary</span> geïnstalleerd is op uw computer en dat uw e-mailaccount is geconfigureerd.</p></div></div></div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">To share a file by email:</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Bestanden delen per e-mail:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="app">Files</span> application from the
-      <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview.</p></li>
-<li class="steps"><p class="p">Locate the file you want to transfer.</p></li>
-<li class="steps"><p class="p">Right-click the file and select <span class="gui">Send to…</span>. An email compose
-      window will appear with the file attached.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">To</span> to choose a contact, or enter an email address
-  where you want to send the file. Fill in the <span class="gui">Subject</span> and the body
-  of the message as required and click <span class="gui">Send</span>.</p></li>
+<li class="steps"><p class="p">Open <span class="app">Bestanden</span> vanuit het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht.</p></li>
+<li class="steps"><p class="p">Zoek het bestand dat u wilt oversturen.</p></li>
+<li class="steps"><p class="p">Klik met de rechtermuisknop op het bestand en selecteer <span class="gui">Sturen naar…</span>. Er verschijnt een venster om e-mail op te stellen met het bestand als bijlage.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Aan</span> om een contact te kiezen, of voer een e-mailadres in waar u het bestand naartoe wilt sturen. Vul het <span class="gui">Onderwerp</span> in en de tekst van uw bericht en klik op <span class="gui">Versturen</span>.</p></li>
 </ol></div>
 </div></div>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">You can send multiple files at once. Select multiple files by holding
-  down <span class="key"><kbd>Ctrl</kbd></span> while clicking the files, then right-click any selected
-  file.</p></div></div></div></div>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">U kunt meerdere bestanden tegelijk versturen. Selecteer meerdere bestanden door erop te klikken terwijl u de <span class="key"><kbd>Ctrl</kbd></span>-toets vasthoudt en klik dan met rechts op een geselecteerd bestand.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -80,25 +72,20 @@ file manager.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li>
 <li class="links ">
-<a href="sharing.html" title="Sharing">Sharing</a><span class="desc"> — 
-      <span class="link"><a href="sharing-desktop.html" title="Share your desktop">Desktop sharing</a></span>,
-      <span class="link"><a href="files-share.html" title="Share files by email">Share files by email</a></span>,
-      <span class="link"><a href="sharing-media.html" title="Share your music, photos and videos">Media sharing</a></span>…
-    </span>
+<a href="sharing.html" title="Delen">Delen</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Deel uw desktop">Bureaublad delen</a></span>, <span class="link"><a href="files-share.html" title="Bestanden delen per e-mail">Bestanden delen per e-mail</a></span>, <span class="link"><a href="sharing-media.html" title="Uw muziek, foto's en video's delen">Media delen</a></span>…</span>
 </li>
+<li class="links "><a href="files.html#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="nautilus-connect.html" title="Browse files on a server or network share">Browse files on a server or network share</a><span class="desc"> — View and edit files on another computer over FTP, SSH, Windows
-    shares, or WebDAV.</span>
+<a href="bluetooth-send-file.html" title="Bestanden sturen naar een Bluetooth-apparaat">Bestanden sturen naar een Bluetooth-apparaat</a><span class="desc"> — Bestanden delen met Bluetooth-apparaten, zoals uw telefoon.</span>
 </li>
 <li class="links ">
-<a href="bluetooth-send-file.html" title="Send files to a Bluetooth device">Send files to a Bluetooth device</a><span class="desc"> — Share files to Bluetooth devices such as your phone.</span>
+<a href="nautilus-connect.html" title="Door bestanden op een server of netwerk bladeren">Door bestanden op een server of netwerk bladeren</a><span class="desc"> — Bestanden bekijken en bewerken op een andere computer via FTP, SSH, Windows shares, of WebDAV.</span>
 </li>
 </ul></div>
 </div></div>

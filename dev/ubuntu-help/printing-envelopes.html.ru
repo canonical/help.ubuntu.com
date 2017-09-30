@@ -57,14 +57,17 @@
   envelope.</p>
 <p class="p">The first is that your printer knows what size the envelope is. Press
   <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> to open the Print dialog, go to
-  the <span class="gui">Page Setup</span> tab and choose the <span class="gui">Paper type</span> as "Envelope"
+  the <span class="gui">Page Setup</span> tab and choose the <span class="gui">Paper type</span> as “Envelope”
   if you can. If you cannot do this, see if you can change the <span class="gui">Paper
   size</span> to an envelope size (for example, <span class="gui">C5</span>). The pack of
   envelopes will say what size they are; most envelopes come in standard
   sizes.</p>
-<p class="p">Во-вторых, нужно убедиться, что конверты загружены в лоток принтера правильно. Прочтите об этом в руководстве по эксплуатации принтера или попробуйте выполнить печать на одном конверте и проверьте, на той ли стороне конверта распечатан текст.</p>
+<p class="p">Secondly, you need to make sure that the envelopes are loaded with the
+  right side up in the printer’s in-tray. Check the printer’s manual for this,
+  or try to print a single envelope and check which side is printed on to see
+  which way is the right way up.</p>
 <div class="note note-warning" title="Предупреждение"><div class="inner"><div class="region"><div class="contents"><p class="p">Some printers are not designed to be able to print envelopes, especially
-    some laser printers. Check your printer's manual to see if it accepts
+    some laser printers. Check your printer’s manual to see if it accepts
     envelopes. Otherwise, you could damage the printer by feeding an envelope
     in.</p></div></div></div></div>
 </div></div>

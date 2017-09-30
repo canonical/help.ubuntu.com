@@ -63,8 +63,8 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">在 PPA 概述页面，寻找名为<span class="gui">将此 PPA 添加到系统</span>的标题。记下 PPA 的位置，它看起来类似于：<span class="code">ppa:mozillateam/firefox-stable</span>。</p></li>
 <li class="steps"><p class="p">
-        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Launcher</span>, or search
-        for <span class="input">Software</span> in the search bar of the <span class="gui">Dash</span>.
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
       </p></li>
 <li class="steps"><p class="p">
         When <span class="app">Ubuntu Software</span> launches, click <span class="gui">Software &amp; Updates</span>

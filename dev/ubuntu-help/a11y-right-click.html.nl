@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Simulate a right mouse click</title>
+<title>Een rechtermuisklik simuleren</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,58 +44,38 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="mouse.html" title="Mouse">Mouse</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Universele toegang">Universele toegang</a> › <a class="trail" href="a11y.html#mobility" title="Beperkte mobiliteit">Beperkte mobiliteit</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Universal access">Universal access</a> › <a class="trail" href="a11y.html#mobility" title="Mobility impairments">Mobility impairments</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="mouse.html" title="Muis">Muis</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="mouse.html" title="Mouse">Mouse</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="mouse.html" title="Muis">Muis</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Simulate a right mouse click</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Een rechtermuisklik simuleren</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can right-click by holding down the left mouse button. This is useful
-  if you find it difficult to move your fingers individually on one hand, or if
-  your pointing device only has a single button.</p>
+<p class="p">U kunt rechtsklikken door de linkermuisknop ingedrukt te houden. Dit is nuttig wanneer u de vingers van één hand moeilijk afzonderlijk kunt bewegen, of wanneer u een muis met één knop heeft.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Universal Access</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Universal Access</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Click Assist</span> in the <span class="gui">Pointing &amp; Clicking</span>
-      section.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Simulated Secondary Click</span> to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Universele toegang</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Universele toegang</span> om het paneel te openen.</p></li>
+<li class="steps"><p class="p">Druk op <span class="gui">Typ-assistent</span> onder het kopje <span class="gui">Aanwijzen &amp; klikken</span>.</p></li>
+<li class="steps"><p class="p">Zet <span class="gui">Gesimuleerde secundaire klik</span> <span class="gui">AAN</span></p></li>
 </ol></div></div></div>
-<p class="p">You can change how long you must hold down the left mouse button before it
-  is registered as a right click by changing the <span class="gui">Acceptance
-  delay</span>.</p>
-<p class="p">To right-click with simulated secondary click, hold down the left mouse
-  button where you would normally right-click, then release. The pointer fills
-  with a different color as you hold down the left mouse button. Once it will
-  change this color entirely, release the mouse button to right-click.</p>
-<p class="p">Some special pointers, such as the resize pointers, do not change colors.
-  You can still use simulated secondary click as normal, even if you do not get
-  visual feedback from the pointer.</p>
-<p class="p">If you use <span class="link"><a href="mouse-mousekeys.html" title="Click and move mouse pointer using the keypad">Mouse Keys</a></span>, this also
-  allows you to right-click by holding down the <span class="key"><kbd>5</kbd></span> key on your
-  keypad.</p>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">In the <span class="gui">Activities</span> overview, you are always able to long-press
-    to right-click, even with this feature disabled. Long-press works slightly
-    differently in the overview: you do not have to release the button to
-    right-click.</p></div></div></div></div>
+<p class="p">U kunt wijzigen hoe lang u de linkermuisknop in moet drukken voordat het herkend wordt als een rechtsklik, door de <span class="gui">Vertraging voor accepteren</span> te wijzigen.</p>
+<p class="p">Om met rechts te klikken door middel van de gesimuleerde secundaire klik houdt u, waar u normaal gesproken met rechts zou klikken, de linkermuisknop ingedrukt en laat hem vervolgens los. De aanwijzer verandert geleidelijk naar een andere kleur terwijl u de linkermuisknop ingedrukt houdt. Zodra deze helemaal van kleur veranderd is, kunt u de muisknop loslaten om met rechts te klikken.</p>
+<p class="p">Sommige speciale aanwijzers, waaronder de formaataanwijzers, veranderen niet van kleur. U kunt nog altijd de gesimuleerde secundaire klik als normaal gebruiken, ook al krijgt u geen visuele feedback van de aanwijzer.</p>
+<p class="p">Als u <span class="link"><a href="mouse-mousekeys.html" title="De muisaanwijzer met behulp van het numerieke toetsenbord klikken en bewegen.">Muistoetsen</a></span> gebruikt, dan kunt u ook rechtsklikken door de toets <span class="key"><kbd>5</kbd></span> op uw numerieke toetsenbord in te drukken.</p>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">In het <span class="gui">Activiteiten</span>-overzicht kunt u altijd lang indrukken om met rechts te klikken, zelfs wanneer deze functie is uitgeschakeld. Lang indrukken werkt iets anders in het overzicht; u hoeft de knop niet los te laten om met rechts te klikken.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Mobility impairments">Mobility impairments</a></li>
+<li class="links "><a href="a11y.html#mobility" title="Beperkte mobiliteit">Beperkte mobiliteit</a></li>
 <li class="links ">
-<a href="mouse.html" title="Mouse">Mouse</a><span class="desc"> — 
-      <span class="link"><a href="mouse-lefthanded.html" title="Use your mouse left-handed">Left-handed</a></span>,
-      <span class="link"><a href="mouse-sensitivity.html" title="Adjust speed of the mouse and touchpad">speed and sensitivity</a></span>,
-      <span class="link"><a href="mouse-touchpad-click.html" title="Click, drag, or scroll with the touchpad">touchpad clicking and scrolling</a></span>…
-    </span>
+<a href="mouse.html" title="Muis">Muis</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="Gebruik de muis met uw linker hand">Linkshandig</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="De snelheid van de muis en het touchpad aanpassen">snelheid en gevoeligheid</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Klik, sleep, of scroll met het touchpad">touchpad klikken en scrollen</a></span>...</span>
 </li>
 </ul></div>
 </div></div></div>

@@ -2,7 +2,7 @@
 <html lang=ja>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>私が作ったビデオを、他の人が再生できません</title>
+<title>Other people can’t play the videos I made</title>
 <link rel="stylesheet" type="text/css" href="ja.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,7 +46,7 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="サウンド、ビデオ、画像">サウンド、ビデオ、画像</a> › <a class="trail" href="media.html#videos" title="ビデオとビデオカメラ">ビデオ</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">私が作ったビデオを、他の人が再生できません</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Other people can’t play the videos I made</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">もし Linux コンピューターで作成したビデオを Windows や Mac OS のユーザーに送った場合、そのビデオの再生に問題が見つかるかもしれません。</p>
@@ -59,9 +59,26 @@
       which <span class="gui">Codec</span> are listed under <span class="gui">Video</span> and
       <span class="gui">Audio</span> (if the video also has audio).</p></li>
 </ul></div></div></div>
-<p class="p">ビデオの再生に問題を見つけたら、正しいコーデックがインストールされているかどうかを質問してください。インターネットを使い、コーデックの名前とビデオ再生アプリケーションの名前をキーワードに検索してもよいでしょう。たとえば、あなたのビデオが <span class="em">Theora</span> フォーマットを使っており、あなたの友人が Windows Media Player を使ってそのビデオを視聴している場合は、"theora windows media player" と検索します。正しいコーデックがインストールされていなければ、無料のコーデックをダウンロードしてインストールすることもできるでしょう。</p>
-<p class="p">もし正しいコーデックを見つけることができなければ、<span class="link"><a href="http://www.videolan.org/vlc/" title="http://www.videolan.org/vlc/">VLC メディアプレイヤー</a></span>を試します。このプレイヤーは Linux でも、Windows や Mac OS でも動き、たくさんのビデオフォーマットをサポートしています。それでも失敗する場合は、ビデオを異なるフォーマットに変換します。たいていのビデオ編集ソフトウェアでこの作業を行うことができますし、特定のビデオ変換ソフトウェアも利用可能です。ソフトウェアインストールアプリケーションで何か利用可能か確認してください。</p>
-<div class="note" title="注記"><div class="inner"><div class="region"><div class="contents"><p class="p">誰かがあなたのビデオを再生できない原因が他にもあります。ビデオ送信時に損傷した場合です。たとえば、コピーが完全ではなかったことが挙げられます。この場合そのビデオは、ビデオ再生アプリケーションに問題をもたらすか、映像を正しく生成することができないでしょう（ビデオを保存する際にもエラーを起こします）。</p></div></div></div></div>
+<p class="p">Ask the person having problems with playback if they have the right codec
+  installed. They may find it helpful to search the web for the name of the
+  codec plus the name of their video playback application. For example, if your
+  video uses the <span class="em">Theora</span> format and you have a friend using Windows
+  Media Player to try and watch it, search for “theora windows media player”.
+  You will often be able to download the right codec for free if it’s not
+  installed.</p>
+<p class="p">If you can’t find the right codec, try the
+  <span class="link"><a href="http://www.videolan.org/vlc/" title="http://www.videolan.org/vlc/">VLC media player</a></span>. It works
+  on Windows and Mac OS as well as Linux, and supports a lot of different video
+  formats. Failing that, try converting your video into a different format.
+  Most video editors are able to do this, and specific video converter
+  applications are available. Check the software installer application to see
+  what’s available.</p>
+<div class="note" title="注記"><div class="inner"><div class="region"><div class="contents"><p class="p">There are a few other problems which might prevent someone from playing
+    your video. The video could have been damaged when you sent it to them
+    (sometimes big files aren’t copied across perfectly), they could have
+    problems with their video playback application, or the video may not have
+    been created properly (there could have been some errors when you saved the
+    video).</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

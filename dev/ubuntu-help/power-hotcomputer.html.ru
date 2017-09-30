@@ -50,12 +50,18 @@
 <div class="region">
 <div class="contents">
 <p class="p">Многие компьютеры во время работы нагреваются, некоторые даже сильно. Это нормально: таким образом компьютер отводит лишнее тепло от своих внутренних компонентов. Но если компьютер становится слишком горячим, это может быть признаком его перегрева, способного вызвать повреждение.</p>
-<p class="p">Большинство ноутбуков ощутимо нагреваются через некоторое время работы. Как правило, беспокоиться не о чем — компьютеры производят много тепла, а ноутбуки весьма компактны, так что им приходится быстро отводить тепло, и это приводит к нагреву корпуса. Однако некоторые ноутбуки нагреваются так сильно, что это может вызывать дискомфорт. Обычно это результат плохо спроектированной охлаждающей системы. В некоторых случаях можно приобрести дополнительные охлаждающие устройства, которые крепятся к нижней части корпуса и обеспечивают более эффективное охлаждение.</p>
+<p class="p">Most laptops get reasonably warm once you have been using them for a while.
+It is generally nothing to worry about — computers produce a lot of heat and
+laptops are very compact, so they need to remove their heat rapidly and their
+outer casing warms up as a result. Some laptops do get too hot, however, and
+may be uncomfortable to use. This is normally the result of a poorly-designed
+cooling system. You can sometimes get additional cooling accessories which fit
+to the bottom of the laptop and provide more efficient cooling.</p>
 <p class="p">If you have a desktop computer which feels hot to the touch, it may have
 insufficient cooling. If this concerns you, you can buy extra cooling fans or
 check that the cooling fans and vents are free from dust and other blockages.
 You might want to consider putting the computer in a better-ventilated area too
-- if kept in confined spaces (for example, in a cupboard), the cooling system in the
+— if kept in confined spaces (for example, in a cupboard), the cooling system in the
 computer may not be able to remove heat and circulate cool air fast enough.</p>
 <p class="p">Некоторых людей беспокоит возможный вред здоровью от использования сильно нагревающихся ноутбуков. Существует предположение, что длительное воздействие тепла от ноутбука, лежащего на коленях, может привести к мужскому бесплодию. Сообщают также о пострадавших (в исключительных случаях) от небольших ожогов. Если вас беспокоят такие потенциальные проблемы, стоит проконсультироваться с врачом. Ну и, разумеется, можно просто не ставить ноутбук к себе на колени.</p>
 <p class="p">Большинство современных компьютеров при сильном перегреве отключается для предотвращения возможного повреждения. Это может быть причиной самопроизвольного выключения вашего компьютера. Если ваш компьютер перегревается, возможно, стоит отнести его в ремонт.</p>

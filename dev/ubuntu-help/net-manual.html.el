@@ -53,7 +53,11 @@
 <div class="hgroup"><h1 class="title"><span class="title">Χειροκίνητος ορισμός ρυθμίσεων δικτύου</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Εάν το δίκτυο σας δεν εκχωρεί αυτόματα ρυθμίσεις δικτύου στον υπολογιστή σας, μπορεί να πρέπει να εισάγετε χειροκίνητα τις ρυθμίσεις ο ίδιος. Αυτό το θέμα υποθέτει ότι ήδη ξέρετε τις σωστές ρυθμίσεις για χρήση. Εάν όχι, ίσως χρειαστείτε να τις ζητήσετε από τον διαχειριστή του δικτύου ή να κοιτάξετε τις ρυθμίσεις του δρομολογητή ή του διακόπτη δικτύου.</p>
+<p class="p">If your network doesn’t automatically assign network settings to your
+  computer, you may have to manually enter the settings yourself. This topic
+  assumes that you already know the correct settings to use. If not, you may
+  need to ask your network administrator or look at the settings of your router
+  or network switch.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Για να ορίσετε χειροκίνητα τις ρυθμίσεις δικτύου:</span></h2></div>
 <div class="region"><ol class="steps">

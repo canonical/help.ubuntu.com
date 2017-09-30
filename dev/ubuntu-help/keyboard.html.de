@@ -92,9 +92,6 @@
 <a href="keyboard-cursor-blink.html" title="Den Tastaturcursor blinken lassen">Den Tastaturcursor blinken lassen</a><span class="desc"> — Den Tastaturcursor blinken lassen und einstellen, wie schnell er blinkt.</span>
 </li>
 <li class="links ">
-<a href="keyboard-repeat-keys.html" title="Manage repeated key presses">Manage repeated key presses</a><span class="desc"> — Buchstaben von der Tastatur nicht wiederholt auslösen lassen, wenn Sie eine Taste gedrückt halten, oder die Verzögerung und Geschwindigkeit der Wiederholung ändern.</span>
-</li>
-<li class="links ">
 <a href="numeric-keypad.html" title="Nummernfeld">Nummernfeld</a><span class="desc"> — Das Nummernfeld standardmäßig aktivieren.</span>
 </li>
 <li class="links ">
@@ -102,6 +99,9 @@
 </li>
 <li class="links ">
 <a href="keyboard-shortcuts-set.html" title="Tastenkombinationen einrichten">Tastenkombinationen einrichten</a><span class="desc"> — Festlegen und Ändern von Tastenkombination in den <span class="gui">Tastatur</span>-Einstellungen.</span>
+</li>
+<li class="links ">
+<a href="keyboard-repeat-keys.html" title="Wiederholte Tastendrücke verwalten">Wiederholte Tastendrücke verwalten</a><span class="desc"> — Buchstaben von der Tastatur nicht wiederholt auslösen lassen, wenn Sie eine Taste gedrückt halten, oder die Verzögerung und Geschwindigkeit der Wiederholung ändern.</span>
 </li>
 </ul></div>
 </div></div>

@@ -76,7 +76,8 @@
 <a href="keyboard-cursor-blink.html" title="Как сделать клавиатурный курсор мигающим?">Как сделать клавиатурный курсор мигающим?</a><span class="desc"> — Сделайте курсор мигающим и измените скорость его мигания.</span>
 </li>
 <li class="links ">
-<a href="a11y-contrast.html" title="Настройка контрастности">Настройка контрастности</a><span class="desc"> — Сделайте окна и кнопки более (или менее) контрастными, чтобы их было лучше видно.</span>
+<a href="a11y-contrast.html" title="Настройка контрастности">Настройка контрастности</a><span class="desc"> — Make windows and buttons on the screen more (or less) vivid, so
+    they’re easier to see.</span>
 </li>
 <li class="links ">
 <a href="a11y-mag.html" title="Увеличение области экрана">Увеличение области экрана</a><span class="desc"> — Увеличьте область экрана, чтобы было лучше видно мелкие детали.</span>

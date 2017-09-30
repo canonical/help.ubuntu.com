@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Screen problems</title>
+<title>Schermproblemen</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,21 +43,19 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Common problems">Problems</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Veel voorkomende problemen">Problemen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Screen problems</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Schermproblemen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Most problems with the display are caused by issues with graphics drivers or configuration. Which of the topics below best describes the problem you are experiencing?</p>
+<p class="p">De meeste weergaveproblemen worden veroorzaakt door problemen met grafische stuurprogramma's of configuratie. Welk van onderstaande onderwerpen beschrijft het beste uw probleem?</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-brightness.html" title="Set screen brightness"><span class="title">Set screen brightness</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen brightness to make it more readable in bright
-    light.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html" title="The screen locks itself too quickly"><span class="title">The screen locks itself too quickly</span><span class="linkdiv-dash"> — </span><span class="desc">Change how long to wait before locking the screen in the
-    <span class="gui">Privacy</span> settings.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-brightness.html" title="De helderheid van het scherm instellen"><span class="title">De helderheid van het scherm instellen</span><span class="linkdiv-dash"> — </span><span class="desc">De helderheid van het scherm verhogen om het beter leesbaar te maken bij fel licht.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html" title="De tijd voordat het scherm zwart wordt instellen"><span class="title">De tijd voordat het scherm zwart wordt instellen</span><span class="linkdiv-dash"> — </span><span class="desc">De tijd voordat het scherm zwart wordt wijzigen om energie te sparen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html" title="Het scherm vergrendeld zichzelf te snel"><span class="title">Het scherm vergrendeld zichzelf te snel</span><span class="linkdiv-dash"> — </span><span class="desc">Wijzigen hoe lang er gewacht moet worden voordat het scherm vergrendeld wordt in de <span class="gui">Privacy</span>-instellingen.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-whydim.html" title="Waarom wordt mijn scherm na enige tijd zwart?"><span class="title">Waarom wordt mijn scherm na enige tijd zwart?</span><span class="linkdiv-dash"> — </span><span class="desc">The screen will dim when the computer is idle in order to save power.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="look-display-fuzzy.html" title="Why do things look fuzzy/pixelated on my screen?"><span class="title">Why do things look fuzzy/pixelated on my screen?</span><span class="linkdiv-dash"> — </span><span class="desc">The screen resolution may be set incorrectly.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="look-display-fuzzy.html" title="Waarom ziet alles op mijn scherm er wazig/korrelig uit?"><span class="title">Waarom ziet alles op mijn scherm er wazig/korrelig uit?</span><span class="linkdiv-dash"> — </span><span class="desc">De schermresolutie is mogelijk verkeerd ingesteld.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html" title="Why does my computer not turn back on after I suspended it?"><span class="title">Why does my computer not turn back on after I suspended it?</span><span class="linkdiv-dash"> — </span><span class="desc">Some computer hardware causes problems with suspend.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html" title="Ik kan mijn computer niet aanzetten"><span class="title">Ik kan mijn computer niet aanzetten</span><span class="linkdiv-dash"> — </span><span class="desc">Loszittende kabels en hardwareproblemen zijn mogelijke oorzaken.</span></a></div>
 </div></div></div>
@@ -66,7 +64,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="Common problems">Hardware problems</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="Veel voorkomende problemen">Hardwareproblemen</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

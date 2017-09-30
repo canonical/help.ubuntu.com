@@ -66,7 +66,9 @@
 <p class="p">Για να ελέγξετε τον ελεύθερο χώρο και τη χωρητικότητα του δίσκου με την <span class="app">Παρακολούθηση συστήματος</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ανοίξτε την εφαρμογή <span class="app">Παρακολούθηση συστήματος</span> από την επισκόπηση <span class="gui">Δραστηριότητες</span>.</p></li>
-<li class="steps"><p class="p">Επιλέξτε την καρτέλα <span class="gui">Συστήματα αρχείων</span> για να προβάλετε τις κατατμήσεις του συστήματος και τη χρήση του χώρου δίσκου. Οι πληροφορίες εμφανίζονται σύμφωνα με το <span class="gui">Συνολικά</span>, <span class="gui">Ελεύθερα</span>, <span class="gui">Διαθέσιμα</span> και <span class="gui">Χρησιμοποιούμενα</span>.</p></li>
+<li class="steps"><p class="p">Select the <span class="gui">File Systems</span> tab to view the system’s partitions and
+  disk space usage.  The information is displayed according to <span class="gui">Total</span>,
+  <span class="gui">Free</span>, <span class="gui">Available</span> and <span class="gui">Used</span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -75,8 +77,9 @@
 <div class="region"><div class="contents">
 <p class="p">Εάν ο δίσκος είναι υπερβολικά γεμάτος θα πρέπει:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Να διαγράψετε τα αρχεία που δεν είναι σημαντικά ή δεν θα τα χρησιμοποιήσετε πια.</p></li>
-<li class="list"><p class="p">Να κάνετε <span class="link"><a href="backup-why.html" title="Αντίγραφα ασφαλείας των σημαντικών σας αρχείων">αντίγραφα ασφαλείας</a></span> των σημαντικών αρχείων που δεν θα χρειαστείτε για κάμποσο καιρό και να τα διαγράψετε από τον σκληρό δίσκο.</p></li>
+<li class="list"><p class="p">Delete files that aren’t important or that you won’t use anymore.</p></li>
+<li class="list"><p class="p">Make <span class="link"><a href="backup-why.html" title="Αντίγραφα ασφαλείας των σημαντικών σας αρχείων">backups</a></span> of the important files that
+   you won’t need for a while and delete them from the hard drive.</p></li>
 </ul></div></div></div>
 </div></div>
 </div></div>

@@ -49,9 +49,9 @@
 <div class="hgroup"><h1 class="title"><span class="title">Графический планшет Wacom</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
+<div class="linkdiv "><a class="linkdiv" href="wacom-mode.html" title="Set the Wacom tablet’s tracking mode"><span class="title">Set the Wacom tablet’s tracking mode</span><span class="linkdiv-dash"> — </span><span class="desc">Переключение между режимом планшета и режимом мыши.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-multi-monitor.html" title="Выбор монитора"><span class="title">Выбор монитора</span><span class="linkdiv-dash"> — </span><span class="desc">Отображать планшет Wacom на конкретный монитор</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-stylus.html" title="Настройка пера"><span class="title">Настройка пера</span><span class="linkdiv-dash"> — </span><span class="desc">Настройка функций кнопок и чувствительности нажатия для пера Wacom.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="wacom-mode.html" title="Настройка режима слежения для планшета Wacom"><span class="title">Настройка режима слежения для планшета Wacom</span><span class="linkdiv-dash"> — </span><span class="desc">Переключение между режимом планшета и режимом мыши.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html" title="Управление графическим планшетом левой рукой"><span class="title">Управление графическим планшетом левой рукой</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the Wacom tablet to <span class="gui">Left-Handed Orientation</span>.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">

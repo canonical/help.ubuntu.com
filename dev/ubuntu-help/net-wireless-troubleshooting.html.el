@@ -70,7 +70,11 @@
 <p class="p">Some of the instructions in this guide ask you to type commands into the
     <span class="em">command line</span> (Terminal). You can find the <span class="app">Terminal</span> application in
     the <span class="gui">Activities</span> overview.</p>
-<p class="p">Εάν δεν είσαστε εξοικειωμένος με τη χρήση της γραμμής εντολών, μην ανησυχείτε - αυτός ο οδηγός θα σας κατευθύνει σε κάθε βήμα. Αυτό που χρειάζεστε να θυμάστε είναι ότι οι εντολές εξαρτώνται από πεζά/κεφαλαία (έτσι πρέπει να τις πληκτρολογήσετε <span class="em">ακριβώς</span> όπως εμφανίζονται εδώ) και να πατήσετε <span class="key"><kbd>Enter</kbd></span> μετά την πληκτρολόγηση κάθε εντολής για να εκτελεστεί.</p>
+<p class="p">If you are not familiar with using a command line, don’t worry — this
+    guide will direct you at each step. All you need to remember is that
+    commands are case-sensitive (so you must type them <span class="em">exactly</span> as they
+    appear here), and to press <span class="key"><kbd>Enter</kbd></span> after typing each command to
+    run it.</p>
 </div></div>
 </div></div>
 </div>
@@ -90,7 +94,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-connect.html" title="Σύνδεση σε ασύρματο δίκτυο">Σύνδεση σε ασύρματο δίκτυο</a><span class="desc"> — Συνδεθείτε στο διαδίκτυο - ασύρματα.</span>
+<a href="net-wireless-connect.html" title="Σύνδεση σε ασύρματο δίκτυο">Σύνδεση σε ασύρματο δίκτυο</a><span class="desc"> — Get on the internet — wirelessly.</span>
 </li></ul></div>
 </div></div>
 </div>

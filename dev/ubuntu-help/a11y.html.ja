@@ -76,7 +76,8 @@
 <a href="keyboard-cursor-blink.html" title="キーボードのカーソルを点滅させる">キーボードのカーソルを点滅させる</a><span class="desc"> — 挿入位置の点滅や、点滅速度の設定を行います。</span>
 </li>
 <li class="links ">
-<a href="a11y-contrast.html" title="コントラストを調節する">コントラストを調節する</a><span class="desc"> — 画面上のウィンドウやボタンのあざやかさを強めて (または弱めて) 見やすくします。</span>
+<a href="a11y-contrast.html" title="コントラストを調節する">コントラストを調節する</a><span class="desc"> — Make windows and buttons on the screen more (or less) vivid, so
+    they’re easier to see.</span>
 </li>
 <li class="links ">
 <a href="a11y-font-size.html" title="画面の文字の大きさを変更する">画面の文字の大きさを変更する</a><span class="desc"> — より大きなフォントを使い、文字を読みやすくします。</span>

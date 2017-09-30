@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Desktop</a> › <a class="trail" href="shell-overview.html#apps" title="Aplikasi dan jendela">Aplikasi dan jendela</a> » <a class="trail" href="shell-windows.html" title="Jendela dan area kerja">Jendela dan area kerja</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Bekerja dengan jendela">Jendela</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Desktop Anda">Desktop</a> › <a class="trail" href="shell-overview.html#apps" title="Aplikasi dan jendela">Aplikasi dan jendela</a> » <a class="trail" href="shell-windows.html" title="Jendela dan area kerja">Jendela dan area kerja</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Bekerja dengan jendela">Jendela</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Menemukan jendela yang hilang</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">A window on a different workspace, or hidden behind another window, is
-  easily found using the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span>
+  easily found using the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Activities</a></span>
   overview:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Open the <span class="gui">Activities</span> overview. If the missing window is on

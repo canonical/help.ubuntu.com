@@ -2,7 +2,7 @@
 <html lang=es>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Manage repeated key presses</title>
+<title>Gestionar las pulsaciones de teclas repetidas repetición de teclas</title>
 <link rel="stylesheet" type="text/css" href="es.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -52,14 +52,10 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Manage repeated key presses</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Gestionar las pulsaciones de teclas repetidas repetición de teclas</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">By default, when you hold down a key on your keyboard, the letter
-  or symbol will be repeated until you release the key. If you have
-  difficulty picking your finger back up quickly enough, you can
-  disable this feature, or change how long it takes before key presses
-  start repeating, or how quickly key presses repeat.</p>
+<p class="p">De manera predeterminada, si mantiene pulsada una tecla en el teclado, se repetirá su letra o símbolo hasta que suelte la tecla. Si tiene dificultades para retirar su dedo lo bastante rápido, puede desactivar esta característica , cambiar el tiempo que tardan los caracteres en empezar a repetirse o la velocidad a la que se repiten.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Acceso universal</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Acceso universal</span> para abrir el panel.</p></li>
@@ -77,7 +73,7 @@
 <div class="region"><ul>
 <li class="links "><a href="a11y.html#mobility" title="Deficiencias motoras">Deficiencias motoras</a></li>
 <li class="links ">
-<a href="keyboard.html" title="Teclado">Teclado</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">distribuciones de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Hacer que parpadee el cursor del teclado">parpadeo del cursor</a></span>, <span class="link"><a href="a11y.html#mobility" title="Deficiencias motoras">accesibilidad del teclado</a></span>…</span>
+<a href="keyboard.html" title="Teclado">Teclado</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Usar distribuciones de teclado alternativas">distribuciones de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Hacer que parpadee el cursor del teclado">parpadeo del cursor</a></span>, <span class="link"><a href="a11y.html#mobility" title="Deficiencias motoras">accesibilidad del teclado</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

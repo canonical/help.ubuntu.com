@@ -55,7 +55,6 @@
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="user-add.html" title="Lägg till ett nytt användarkonto"><span class="title">Lägg till ett nytt användarkonto</span><span class="linkdiv-dash"> — </span><span class="desc">Lägg till nya användare så att andra personer kan logga in på datorn.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="user-autologin.html" title="Logga in automatiskt"><span class="title">Logga in automatiskt</span><span class="linkdiv-dash"> — </span><span class="desc">Ställ in automatisk inloggning när du startar din dator.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-guest-session.html" title="Starta en begränsad gästsession"><span class="title">Starta en begränsad gästsession</span><span class="linkdiv-dash"> — </span><span class="desc">Låt en vän eller kollega låna din dator på ett säkert sätt.</span></a></div>
 </div>
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="user-delete.html" title="Ta bort ett användarkonto"><span class="title">Ta bort ett användarkonto</span><span class="linkdiv-dash"> — </span><span class="desc">Ta bort användare som inte längre använder din dator.</span></a></div>

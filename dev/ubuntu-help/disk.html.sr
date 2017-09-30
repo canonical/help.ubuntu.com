@@ -49,11 +49,14 @@
 <div class="hgroup"><h1 class="title"><span class="title">Дискови и складишта</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
+<div class="linkdiv "><a class="linkdiv" href="disk-resize.html" title="Adjust the size of a filesystem"><span class="title">Adjust the size of a filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Shrink or grow a filesystem and its partition.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="addremove-creator.html" title="Create a startup disk"><span class="title">
     Create a startup disk
   </span><span class="linkdiv-dash"> — </span><span class="desc"> 
     Convert a USB flash drive into a volume from which you can startup and install Ubuntu.
     </span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-repair.html" title="Repair a damaged filesystem"><span class="title">Repair a damaged filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Check if a filesystem is damaged and bring it back into a usable
+          state.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-benchmark.html" title="Испробајте особине вашег чврстог диска"><span class="title">Испробајте особине вашег чврстог диска</span><span class="linkdiv-dash"> — </span><span class="desc">Извршите пробна испитивања на вашем чврстом диску да проверите колико је брз.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-format.html" title="Обришите све са уклоњивог диска"><span class="title">Обришите све са уклоњивог диска</span><span class="linkdiv-dash"> — </span><span class="desc">Уклоните све датотеке и фасцикле са спољног чврстог диска или УСБ диска њиховим форматирањем.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-check.html" title="Проверите ваш чврсти диск за проблемима"><span class="title">Проверите ваш чврсти диск за проблемима</span><span class="linkdiv-dash"> — </span><span class="desc">Испитајте ваш чврсти диск за проблемима да се уверите да је исправан.</span></a></div>

@@ -53,9 +53,25 @@
 <div class="hgroup"><h1 class="title"><span class="title">Подключение к VPN</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">VPN (<span class="em">Virtual Private Network</span> — виртуальная частная сеть) — это способ подключения к локальной сети через Интернет. Предположим, вы хотите подключиться к локальной сети на своём рабочем месте, когда находитесь в командировке. Вам нужно найти где-нибудь соединение с Интернетом (например, в гостинице), а затем подключиться к своей сети VPN. Вы сможете работать, как будто подключены непосредственно к сети у себя на работе, хотя на самом деле соединение с сетью будет осуществляться через интернет-соединение гостиницы. VPN-соединения обычно <span class="em">шифруются</span>, чтобы предотвратить неавторизованный доступ к вашей локальной сети.</p>
-<p class="p">Существуют различные типы VPN. В зависимости от используемого вами типа VPN может понадобиться установить некоторые дополнительные программы. Узнайте подробности о соединении у ответственного за VPN и посмотрите, какой <span class="em">клиент VPN</span> нужно использовать. Затем зайдите в приложение для установки программного обеспечения, найдите пакет <span class="app">NetworkManager</span>, работающий с вашим VPN (если он есть) и установите его.</p>
-<div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents"><p class="p">Если пакет NetworkManager для вашего типа VPN отсутствует, то вам, возможно, придётся загрузить и установить клиентскую программу с сайта компании, предоставляющей программное обеспечение для VPN. Вероятно, действия по её установке будут отличаться от изложенных здесь.</p></div></div></div></div>
+<p class="p">A VPN (or <span class="em">Virtual Private Network</span>) is a way of connecting to a
+ local network over the internet. For example, say you want to connect to the
+ local network at your workplace while you’re on a business trip. You would
+ find an internet connection somewhere (like at a hotel) and then connect to
+ your workplace’s VPN. It would be as if you were directly connected to the
+ network at work, but the actual network connection would be through the
+ hotel’s internet connection. VPN connections are usually <span class="em">encrypted</span>
+ to prevent people from accessing the local network you’re connecting to
+ without logging in.</p>
+<p class="p">There are a number of different types of VPN. You may have to install some
+ extra software depending on what type of VPN you’re connecting to. Find out
+ the connection details from whoever is in charge of the VPN and see which
+ <span class="em">VPN client</span> you need to use. Then, go to the software installer
+ application and search for the <span class="app">NetworkManager</span> package which works
+ with your VPN (if there is one) and install it.</p>
+<div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents"><p class="p">If there isn’t a NetworkManager package for your type of VPN, you will
+ probably have to download and install some client software from the company
+ that provides the VPN software. You’ll probably have to follow some different
+ instructions to get that working.</p></div></div></div></div>
 <p class="p">To set up the VPN connection:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and

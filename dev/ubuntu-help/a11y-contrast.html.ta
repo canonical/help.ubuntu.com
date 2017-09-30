@@ -49,7 +49,10 @@
 <div class="hgroup"><h1 class="title"><span class="title">நிறமாறுபாட்டை மாற்றுங்கள்</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">திரையில் உள்ள சாளரங்கள் மற்றும் பொத்தான்களைக் காண எளிதாக இருக்கும் வகையில் அவற்றின் தெளிவுத்தன்மையை மாற்ற முடியும். இது திரையின் மொத்த ஒளிர்வை மாற்றுவதைப் போன்றதல்ல; இதில் <span class="em">பயனர் இடைமுகத்தின்</span> ஒரு பகுதி மட்டுமே மாறும்.</p>
+<p class="p">You can adjust the contrast of windows and buttons so that they’re easier
+  to see. This is not the same as 
+  changing the brightness of the whole screen; only parts of the
+  <span class="em">user interface</span> will change.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p></li>

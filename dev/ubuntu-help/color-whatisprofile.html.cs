@@ -56,7 +56,7 @@
 <p class="p">Profil barev je sada dat, která charakterizují buď zařízení, jako je projektor, nebo prostor barev, jako je sRGB.</p>
 <p class="p">Většina profilů barev bývá ve formátu ICC, což je malý soubor s koncovou souboru <span class="input">.icc</span> nebo <span class="input">.icm</span>.</p>
 <p class="p">Profil barev může být vložek do obrázku, aby definoval rozsah gamutu pro data. Tím se zajistí, že uživatelé uvidí stejné barvy na různých zařízeních.</p>
-<p class="p">Každé zařízení, které zpracovává barvy, by mělo mít svůj vlastní profil ICC, a je-li tomu tak, řekne systém, že má <span class="em">správu barev pro zpracování od začátku do konce</span>. Při takovém postupu zpracování máte jistotu, že nikde v jeho průběhu nedojde ke ztrátě nebo změně barev.</p>
+<p class="p">Každé zařízení, které zpracovává barvy, by mělo mít svůj vlastní profil ICC, a je-li tomu tak, řekne systém, že má <span class="em">správu barev při zpracování od začátku do konce</span>. Při takovém postupu zpracování máte jistotu, že nikde v jeho průběhu nedojde ke ztrátě nebo změně barev.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

@@ -72,7 +72,11 @@
 <p class="p">Some of the instructions in this guide ask you to type commands into the
     <span class="em">command line</span> (Terminal). You can find the <span class="app">Terminal</span> application in
     the <span class="gui">Activities</span> overview.</p>
-<p class="p">உங்களுக்கு கட்டளை வரியைப் பயன்படுத்தி பழக்கமில்லையெனில், கவலை வேண்டாம், இந்த வழிகாட்டி உங்களுக்கு ஒவ்வொரு செயல்படிக்கும் வழிமுறை கூறும். கட்டளைகள் பேரெழுத்து சிற்றெழுத்து வித்தியாசம் கொண்டவை என்பதையும் (ஆகவே நீங்கள் கட்டளைகளை <span class="em">சரியாக</span> இங்கே காண்பிக்கப்பட்டுள்ளது போலவே தட்டச்சு செய்ய வேண்டும்) கட்டளையை தட்டச்சு செய்த பிறகு அதை இயக்க <span class="key"><kbd>Enter</kbd></span> ஐ அழுத்த வேண்டும் என்பதையும் மட்டும் நீங்கள் நினைவில் வைத்துக்கொண்டால் போதும்.</p>
+<p class="p">If you are not familiar with using a command line, don’t worry — this
+    guide will direct you at each step. All you need to remember is that
+    commands are case-sensitive (so you must type them <span class="em">exactly</span> as they
+    appear here), and to press <span class="key"><kbd>Enter</kbd></span> after typing each command to
+    run it.</p>
 </div></div>
 </div></div>
 </div>
@@ -96,7 +100,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-connect.html" title="ஒரு வயர்லெஸ் பிணையத்துடன் இணைத்தல்">ஒரு வயர்லெஸ் பிணையத்துடன் இணைத்தல்</a><span class="desc"> — வயர்லெஸ் முறையில் இணையத்துடன் இணைத்தல்.</span>
+<a href="net-wireless-connect.html" title="ஒரு வயர்லெஸ் பிணையத்துடன் இணைத்தல்">ஒரு வயர்லெஸ் பிணையத்துடன் இணைத்தல்</a><span class="desc"> — Get on the internet — wirelessly.</span>
 </li></ul></div>
 </div></div>
 </div>

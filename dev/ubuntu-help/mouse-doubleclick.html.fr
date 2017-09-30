@@ -55,7 +55,10 @@
 <div class="hgroup"><h1 class="title"><span class="title">Ajuster la vitesse du double-clic</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Pour qu'un double-clic soit généré, il faut appuyer assez rapidement deux fois de suite sur le bouton de la souris. Si le second appui intervient trop longtemps après le premier, vous n'obtiendrez que deux clics séparés, pas de double-clic. Si vous avez de la peine à appuyer rapidement et successivement sur le bouton de la souris, vous pouvez augmenter l'intervalle entre les clics.</p>
+<p class="p">Double-clicking only happens when you press the mouse button twice
+quickly enough. If the second press is too long after the first, you’ll
+just get two separate clicks, not a double click. If you have difficulty
+pressing the mouse button quickly, you should increase the timeout.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ouvrez la vue d'ensemble des <span class="link"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Accès universel</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur l'icône <span class="gui">Accès universel</span> pour afficher le panneau.</p></li>

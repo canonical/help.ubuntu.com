@@ -56,7 +56,10 @@
 <div class="hgroup"><h2 class="title"><span class="title">Installera program med Synaptic</span></h2></div>
 <div class="region"><div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna Synaptic från <span class="gui">Dash</span> eller <span class="gui">Programstartaren</span>. Du kommer behöva skriva in ditt lösenord i <span class="gui">behörighetskontroll</span>fönstret.</p></li>
+<li class="steps"><p class="p">
+          Open <span class="app">Synaptic</span> via the <span class="em">Activities</span> search bar. You 
+          will need to enter your password in the <span class="gui">Authenticate</span> window.
+        </p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Sök</span> för att söka efter ett program, eller klicka på <span class="gui">Sektioner</span> och gå igenom de olika kategorierna.</p></li>
 <li class="steps"><p class="p">Högerklicka på programmet du vill installera och välj <span class="gui">Markera för installation</span>.</p></li>
 <li class="steps"><p class="p">Om du ombes markera ytterligare ändringar, klicka på <span class="gui">Markera</span>.</p></li>

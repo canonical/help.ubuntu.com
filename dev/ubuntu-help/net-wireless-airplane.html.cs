@@ -49,20 +49,15 @@
 <div class="hgroup"><h1 class="title"><span class="title">Vypnutí bezdrátových zařízení (režim letadlo)</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you have your computer on an airplane (or some other area where wireless
- connections are not allowed), you should switch off your wireless. You may
- also want to switch off your wireless for other reasons (to save battery power,
- for example).</p>
+<p class="p">Když jste se svým počítačem v letadle (nebo někde jinde, kde není dovoleno používat bezdrátová zařízení), měli byste bezdrátové funkce vypnout. Můžete je chtít vypnout také z jiných důvodů (například kvůli úspoře energie z baterie).</p>
 <div class="note" title="Upozornění"><div class="inner"><div class="region"><div class="contents"><p class="p">Použití <span class="em">režimu letadlo</span> úplně vypne bezdrátová připojení, včetně Wi-Fi, 3G a Bluetooth.</p></div></div></div></div>
-<p class="p">To turn on airplane mode:</p>
+<p class="p">Když chcete zapnout režim letadlo:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Síť</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Síť</span> otevřete příslušný panel.</p></li>
 <li class="steps"><p class="p">Přepněte vypínač <span class="gui">Režim letadlo</span> na <span class="gui">Zapnuto</span>. Tím se vypnou všechna bezdrátová připojení, dokud režim letadlo zase nevypnete.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">You can turn off your WiFi connection from the 
-    <span class="gui"><a href="shell-introduction.html#yourname" title="Vy a váš počítač">system menu</a></span> by clicking on 
-    the connection name and choosing <span class="gui">Turn Off</span>.</p></div></div></div></div>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Své WiFi připojení můžete vypnout přes <span class="gui"><a href="shell-introduction.html#yourname" title="Vy a váš počítač">systémovou nabídku</a></span> kliknutím na název připojení a zvolením <span class="gui">Vypnout</span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

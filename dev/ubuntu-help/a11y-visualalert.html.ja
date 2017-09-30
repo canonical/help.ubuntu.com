@@ -50,7 +50,9 @@
 <div class="region">
 <div class="contents">
 <p class="p">特定のメッセージやイベントにたいして簡潔な警告音が鳴ることがあります。この音が聞き取りづらい場合、警告音を鳴らす代わりに画面あるいは現在開いているウィンドウを視覚的にひらめかせることができます。</p>
-<p class="p">この機能は、図書館などのようにコンピューターを静かに使わなければならない環境でも役に立つでしょう。警告音をミュートする方法については <span class="link"><a href="sound-alert.html" title="警告音を選択する、もしくは無効にする">警告音を選択する、もしくは無効にする</a></span> を参照し、視覚警告を有効にしてください。</p>
+<p class="p">This can also be useful if you’re in an environment where you need your
+  computer to be silent, such as in a library. See <span class="link"><a href="sound-alert.html" title="警告音を選択する、もしくは無効にする">警告音を選択する、もしくは無効にする</a></span>
+  to learn how to mute the alert sound, then enable visual alerts.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="アクティビティ画面">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p></li>

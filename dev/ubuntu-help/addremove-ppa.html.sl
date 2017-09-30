@@ -62,7 +62,10 @@
 <div class="title title-steps"><h2><span class="title">Nameščanje PPA-ja</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Na domači strani PPA najdite naslov <span class="gui">Adding this PPA to your system</span>. Kopirajte naslov PPA, ki je videti podobno kot:  <span class="code">ppa:mozillateam/firefox-next</span>.</p></li>
-<li class="steps"><p class="p">Kliknite na ikono <span class="app">Programi Ubuntu</span> v zaganjalniku ali pa v iskalni vrstici <span class="app">Pregledne plošče</span> poiščite <span class="input">Programi</span>.</p></li>
+<li class="steps"><p class="p">
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">Ko se <span class="app">Programi Ubuntu</span> zažene, kliknite na <span class="gui">Programi in posodobitve</span></p></li>
 <li class="steps"><p class="p">Kliknite na zavihek <span class="gui">Drugi programi</span>.</p></li>
 <li class="steps"><p class="p">

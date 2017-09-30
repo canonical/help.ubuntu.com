@@ -64,8 +64,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Automatically empty your trash and clear temporary files</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span> overview and
-      start typing <span class="gui">Privacy</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Privasi</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Privasi</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">Purge Trash &amp; Temporary Files</span>.</p></li>
 <li class="steps"><p class="p">Set one or both of the <span class="gui">Automatically empty Trash</span> or

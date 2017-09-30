@@ -69,11 +69,15 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Pour cliquer, tapotez sur le pavé tactile.</p></li>
 <li class="list"><p class="p">Pour double-cliquer, tapotez deux fois.</p></li>
-<li class="list"><p class="p">Pour faire glisser un objet, tapotez deux fois sans lever le doigt après le second tapotement. Faites glisser l'objet à l'endroit souhaité, puis levez votre doigt pour le déposer.</p></li>
+<li class="list"><p class="p">To drag an item, double-tap but don’t lift your finger after the
+      second tap. Drag the item where you want it, then lift your finger to
+      drop.</p></li>
 <li class="list"><p class="p">Si le pavé tactile prend en charge les tapotements à plusieurs doigts, vous pouvez faire un clic droit en tapant simultanément à deux doigts. Sinon, il est quand même nécessaire de faire appel à un bouton matériel pour le clic droit. Consultez <span class="link"><a href="a11y-right-click.html" title="Simulation d'un clic droit de la souris">Simulation d'un clic droit de la souris</a></span> pour une méthode de clic droit sans deuxième bouton de souris.</p></li>
 <li class="list"><p class="p">Si le pavé tactile prend en charge les tapotements à plusieurs doigts, on peut faire un <span class="link"><a href="mouse-middleclick.html" title="Clic milieu">clic milieu</a></span> en tapant simultanément avec trois doigts.</p></li>
 </ul></div></div></div>
-<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">Lorsque vous tapotez ou glissez avec plusieurs doigts, prenez soin d'éloigner suffisamment les doigts. S'ils sont trop proches les uns des autres, l'ordinateur ne détecte pas toujours qu'il y a plusieurs doigts.</p></div></div></div></div>
+<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">When tapping or dragging with multiple fingers, make sure your fingers
+    are spread far enough apart. If your fingers are too close, your computer
+    may think they’re a single finger.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="twofingerscroll" class="sect"><div class="inner">

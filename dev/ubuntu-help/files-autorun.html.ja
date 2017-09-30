@@ -94,7 +94,7 @@
 <dd class="terms"><p class="p">Choose your favorite video application to handle video DVDs. Use the
     <span class="gui">Other Media…</span> button to set an application for Blu-ray, HD DVD,
     video CD (VCD), and super video CD (SVCD). If DVDs or other video discs
-    do not work correctly when you insert them, see <span class="link"><a href="video-dvd.html" title="DVD を再生できない">DVD を再生できない</a></span>.
+    do not work correctly when you insert them, see <span class="link"><a href="video-dvd.html" title="Why won’t DVDs play?">Why won’t DVDs play?</a></span>.
     </p></dd>
 <dt class="terms">空のディスク</dt>
 <dd class="terms"><p class="p">Use the <span class="gui">Other Media…</span> button to select a disc-writing
@@ -117,7 +117,7 @@
 <dt class="terms">ソフトウェア</dt>
 <dd class="terms">
 <p class="p">ディスクやリムーバブルメディアによっては、メディア挿入時に自動実行可能なソフトウェアが含まれているものもあります。<span class="gui">ソフトウェア</span>のオプションで、自動実行ソフトウェアが含まれるメディアが挿入された場合にどうするか制御します。ソフトウェアが実行される前に、どう処理するかの確認が必ず行われます。</p>
-<div class="note note-warning" title="警告"><div class="inner"><div class="region"><div class="contents"><p class="p">信頼していないメディアのソフトウェアは、絶対に実行しないでください。</p></div></div></div></div>
+<div class="note note-warning" title="警告"><div class="inner"><div class="region"><div class="contents"><p class="p">Never run software from media you don’t trust.</p></div></div></div></div>
 </dd>
 </dl></div></div></div></div></div>
 </div></div>

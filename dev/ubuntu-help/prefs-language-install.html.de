@@ -51,8 +51,11 @@
 <div class="contents">
 <p class="p">Wenn Sie Ubuntu installieren, wird die von Ihnen ausgewählte Sprache und Englisch installiert. Sie können jederzeit weitere Sprachen installieren.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the <span class="em">system menu</span> and select <span class="gui">System Settings</span>.</p></li>
-<li class="steps"><p class="p">Klicken Sie auf <span class="gui">Sprachen</span> im Abschnitt »Persönlich«.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Activities</a></span> overview and
+      start typing <span class="gui">Region &amp; Language</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Manage Installed Languages</span> button to open <span class="gui">Language
+      Support</span>.</p></li>
 <li class="steps"><p class="p">Klicken Sie <span class="gui">Sprachen hinzufügen/entfernen …</span>. Das Fenster <span class="gui">Installierte Sprachen</span> listet alle verfügbaren Sprachen auf. Die aktuell installierten Sprachen sind dabei ausgewählt.</p></li>
 <li class="steps"><p class="p">Wählen Sie die Sprachen, die Sie installieren wollen, und entfernen Sie bereits installierte Sprachen, indem Sie sie abwählen.</p></li>
 <li class="steps"><p class="p">Klicken Sie <span class="gui">Änderungen anwenden</span>.</p></li>
@@ -68,9 +71,9 @@
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="addremove.html" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html" title="Install additional applications">Install applications</a></span>,
+      <span class="link"><a href="addremove-install.html" title="Zusätzliche Anwendungen installieren">Install applications</a></span>,
       <span class="link"><a href="addremove-remove.html" title="Eine Anwendung entfernen">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html" title="Add software repositories">add repositories</a></span>…
+      <span class="link"><a href="addremove-sources.html" title="Paketquellen hinzufügen">add repositories</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -78,15 +81,10 @@
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install.html" title="Install additional applications">
-    Install additional applications
-  </a><span class="desc"> — 
-      Use <span class="app">Ubuntu Software</span> to install additional applications and make Ubuntu more 
-      useful.
-    </span>
+<a href="prefs-language.html" title="Region und Sprache">Region und Sprache</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Zu verwendende Sprache ändern">Sprache</a></span>, <span class="link"><a href="session-formats.html" title="Datumsformat und Maßeinheiten ändern">Region und Formate</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Tastaturbelegungen</a></span> …</span>
 </li>
 <li class="links ">
-<a href="prefs-language.html" title="Region und Sprache">Region und Sprache</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Zu verwendende Sprache ändern">Sprache</a></span>, <span class="link"><a href="session-formats.html" title="Datumsformat und Maßeinheiten ändern">Region und Formate</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Tastaturbelegungen</a></span> …</span>
+<a href="addremove-install.html" title="Zusätzliche Anwendungen installieren">Zusätzliche Anwendungen installieren</a><span class="desc"> — Verwenden <span class="app">Ubuntu Software</span> um zusätzliche Programme zu installieren und Ubuntu nützlicher zu machen.</span>
 </li>
 </ul></div>
 </div></div>

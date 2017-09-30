@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Common problems">Problems</a> » <a class="trail" href="sound-broken.html" title="Sound problems">Sound problems</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="media.html#sound" title="Basisgeluid">Geluid</a> » <a class="trail" href="sound-broken.html" title="Geluidsproblemen">Geluidsproblemen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="media.html#sound" title="Basic sound">Sound</a> » <a class="trail" href="sound-broken.html" title="Sound problems">Sound problems</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="sound-broken.html" title="Geluidsproblemen">Geluidsproblemen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,7 +57,7 @@
 <div id="mute" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Zorg ervoor dat het geluid niet gedempt is.</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Open the <span class="gui"><a href="shell-introduction.html#yourname" title="You and your computer">system menu</a></span> and make sure that
+<p class="p">Open the <span class="gui"><a href="shell-introduction.html#yourname" title="U en uw computer">system menu</a></span> and make sure that
   the sound is not muted or turned down.</p>
 <p class="p">Some laptops have mute switches or keys on their keyboards — try pressing
   that key to see if it unmutes the sound.</p>
@@ -76,11 +76,11 @@
 </div></div>
 </div></div>
 <div id="speakers" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Check that the speakers are turned on and connected properly</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Controleer of de luidsprekers op de juiste manier verbonden en ingeschakeld zijn.</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">If your computer has external speakers, make sure that they are turned on
   and that the volume is turned up. Make sure that the speaker cable is securely
-  plugged into the "output" audio socket on your computer. This socket
+  plugged into the “output” audio socket on your computer. This socket
   is usually light green in color.</p>
 <p class="p">Some sound cards can switch between the socket they use for output
   (to the speakers) and the socket for input (from a microphone, for instance).
@@ -94,20 +94,19 @@
 <div id="device" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Check that the correct sound device is selected</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Some computers have multiple "sound devices" installed. Some of these are
+<p class="p">Some computers have multiple “sound devices” installed. Some of these are
   capable of outputting sound and some are not, so you should check that you
   have the correct sound device selected. This might involve some
   trial-and-error to choose the right one.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activities</a></span> overview and
       start typing <span class="gui">Sound</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Sound</span> to open the panel.</p></li>
 <li class="steps">
 <p class="p">In the <span class="gui">Output</span> tab, change the <span class="gui">Profile</span>
       settings for the selected device and play a sound to see if it works.
       You might need to go through the list and try each profile.</p>
-<p class="p">If that does not work, you might want to try doing the same for any
-      other devices that are listed.</p>
+<p class="p">Als dat niet werkt, dan kunt u proberen hetzelfde te doen voor elk ander apparaat dat in de lijst staat.</p>
 </li>
 </ol></div></div></div>
 </div></div>
@@ -133,9 +132,7 @@
 <p class="p">You may be able to find and install drivers for your card. It is best to
   ask on support forums (or otherwise) for your Linux distribution for
   instructions.</p>
-<p class="p">If you cannot get drivers for your sound card, you might prefer to buy a
-  new sound card. You can get sound cards that can be installed inside the
-  computer and external USB sound cards.</p>
+<p class="p">Als u geen stuurprogramma's voor uw geluidskaart kunt krijgen, dan kunt u overwegen een nieuwe geluidskaart aan te schaffen. U kunt externe USB-geluidskaarten kopen, of geluidskaarten die in de computer kunnen worden geplaatst.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -143,7 +140,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-broken.html" title="Sound problems">Sound problems</a><span class="desc"> — Problemen zoals het niet hebben van geluid of geluid van slechte kwaliteit oplossen.</span>
+<a href="sound-broken.html" title="Geluidsproblemen">Geluidsproblemen</a><span class="desc"> — Problemen zoals het niet hebben van geluid of geluid van slechte kwaliteit oplossen.</span>
 </li></ul></div>
 </div></div></div>
 </div>

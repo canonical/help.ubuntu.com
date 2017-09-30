@@ -69,7 +69,7 @@
 <p class="p">Some sound cards do not work very well on Linux because they do not have very
   good drivers. This problem is more difficult to identify. Try searching for
   the make and model of your sound card on the internet, plus the search term
-  "Linux", to see if other people are having the same problem.</p>
+  “Linux”, to see if other people are having the same problem.</p>
 <p class="p">Za več podrobnosti o svoji zvočni kartici lahko uporabite ukaz <span class="cmd">lspci</span>.</p>
 </li>
 </ul></div></div></div>

@@ -59,7 +59,7 @@ application from the <span class="gui">Activities</span> overview, and click
 <span class="gui">Other Locations</span> in the sidebar. The file manager
 will find any computers on your local area network that advertize
 their ability to serve files. If you want to connect to a server
-on the internet, or if you do not see the computer you're looking
+on the internet, or if you do not see the computer you’re looking
 for, you can manually connect to a server by typing in its
 internet/network address.</p>
 <div class="steps"><div class="inner">
@@ -105,7 +105,8 @@ internet/network address.</p>
 <p class="p">Если у вас есть учётная запись с доступом по <span class="em">протоколу SSH</span>, то можно использовать этот способ для подключения к серверу. Многие хосты предоставляют пользователям доступ по SSH для надёжной загрузки файлов на сервер. Для доступа на сервер по протоколу SSH всегда нужна авторизация.</p>
 <p class="p">Типичный URL SSH выглядит следующим образом:</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ssh://имя_пользователя@имя_сервера.пример.рф/папка</span></p></div></div></div></div>
-<p class="p">При использовании SSH все отправляемые вами данные (включая пароль) шифруются, чтобы остальные пользователи сети не смогли их увидеть.</p>
+<p class="p">When using SSH, all the data you send (including your password)
+  is encrypted so that other users on your network can’t see it.</p>
 </dd>
 <dt class="terms">FTP (с авторизацией)</dt>
 <dd class="terms">
@@ -128,7 +129,11 @@ internet/network address.</p>
 </dd>
 <dt class="terms">WebDAV и Secure WebDAV</dt>
 <dd class="terms">
-<p class="p">WebDAV, основанный на используемом в Интернете протоколе HTTP, иногда используется для совместного доступа к файлам в локальной сети и для хранения файлов в Интернете. Если сервер, к которому вы подключаетесь, поддерживает безопасные соединения, следует выбрать этот вариант. Secure WebDAV использует надёжное шифрование SSL, чтобы другие пользователи не смогли увидеть ваш пароль.</p>
+<p class="p">Based on the HTTP protocol used on the web, WebDAV is sometimes used to
+  share files on a local network and to store files on the internet. If the
+  server you’re connecting to supports secure connections, you should choose
+  this option. Secure WebDAV uses strong SSL encryption, so that other users
+  can’t see your password.</p>
 <p class="p">A WebDAV URL looks like this:</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">dav://example.hostname.com/path</span></p></div></div></div></div>
 </dd>

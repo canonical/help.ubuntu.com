@@ -55,10 +55,7 @@
 <p class="p">Banyaknya data yang dapat Anda backup dibatasi oleh ukuran media penyimpanan. Bila Anda memiliki ruang pada perangkat backup Anda, hal terbaik adalah untuk membackup seluruh folder Rumah Anda dengan pengecualian berikut:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Berkas yang telah dibackup di tempat lain, seperti ke CD, DVD, atau media lepas pasang lain.</p></li>
-<li class="list"><p class="p">Files that you can recreate easily. For example, if you are a
- programmer, you do not have to back up the files that get produced when you
- compile your programs. Instead, just make sure that you back up the original
- source files.</p></li>
+<li class="list"><p class="p">Berkas yang dapat dengan mudah Anda ciptakan ulang. Misalnya, bila Anda programmer, Anda tak perlu membackup berkas yang dihasilkan ketika Anda mengkompail program Anda. Pastikan saja bahwa Anda membackup berkas sumber aslinya.</p></li>
 <li class="list"><p class="p">Sebarang berkas dalam folder Tong Sampah. Folder Tong Sampah Anda dapat ditemukan di <span class="file">~/.local/share/Trash</span>.</p></li>
 </ul></div></div></div>
 </div>

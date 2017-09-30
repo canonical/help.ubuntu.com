@@ -58,7 +58,10 @@
 </p>
 <p class="p">Для добавления репозитория:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Щёлкните на значке <span class="app">Менеджера приложений Ubuntu</span> в <span class="gui">панели запуска</span> или наберите слово <span class="input">«приложений»</span> в строке поиска <span class="gui">главного меню</span>.</p></li>
+<li class="steps"><p class="p">
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">После запуска <span class="app">Менеджера приложений Ubuntu</span> выберите в меню <span class="gui">Программы и обновления</span></p></li>
 <li class="steps"><p class="p">Система попросит ввести ваш пароль. После ввода пароля перейдите на вкладку <span class="gui">Другое ПО</span>.</p></li>
 <li class="steps">

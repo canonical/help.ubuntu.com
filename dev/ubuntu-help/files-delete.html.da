@@ -62,7 +62,7 @@
 <li class="steps"><p class="p">Tryk på <span class="key"><kbd>Delete</kbd></span> på dit tastatur. Eller: Træk elementet til <span class="gui">Papirkurven</span> i sidepanelet.</p></li>
 </ol></div>
 </div></div>
-<p class="p">The file will be moved to the trash, and you'll be presented with an
+<p class="p">The file will be moved to the trash, and you’ll be presented with an
   option to <span class="gui">Undo</span> the deletion. The <span class="gui">Undo</span> button will appear
   for a few seconds. If you select <span class="gui">Undo</span>, the file will be restored
   to its original location.</p>

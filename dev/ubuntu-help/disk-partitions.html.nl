@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Manage volumes and partitions</title>
+<title>Volumes en partities beheren</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,57 +43,30 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="disk.html" title="Disks &amp; storage">Disks &amp; storage</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="disk.html" title="Schijven &amp; opslag">Schijven &amp; opslag</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Manage volumes and partitions</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Volumes en partities beheren</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">The word <span class="em">volume</span> is used to describe a storage device, like a hard
- disk. It can also refer to a <span class="em">part</span> of the storage on that device,
- because you can split the storage up into chunks. The computer makes this
- storage accessible via your file system in a process referred to as
- <span class="em">mounting</span>. Mounted volumes may be hard drives, USB drives, DVD-RWs, SD
- cards, and other media. If a volume is currently mounted, you can read (and
- possibly write) files on it.</p>
-<p class="p">Often, a mounted volume is called a <span class="em">partition</span>, though they are not
- necessarily the same thing. A “partition” refers to a <span class="em">physical</span> area of
- storage on a single disk drive. Once a partition has been mounted, it can be
- referred to as a volume because you can access the files on it. You can think
- of volumes as the labeled, accessible “storefronts” to the functional “back
- rooms” of partitions and drives.</p>
+<p class="p">Het woord <span class="em">volume</span> wordt gebruikt om een opslagapparaat, zoals een harde schijf, aan te duiden. Het kan ook verwijzen naar een <span class="em">deel</span> van de opslag op dat apparaat, want u kunt de opslag in stukken opsplitsen. De computer maakt deze opslag toegankelijk via het bestandssysteem in een proces dat <span class="em">aankoppelen</span> genoemd wordt. Aangekoppelde volumes kunnen zijn: harde schijven, USB-sticks, dvd-rw's, SD-kaarten en andere media. Als een volume is aangekoppeld, dan kunt u bestanden erop lezen (en mogelijk schrijven).</p>
+<p class="p">Vaak wordt een aangekoppeld volume een <span class="em">partitie</span> genoemd, hoewel het niet hetzelfde hoeft te zijn. een "partitie" verwijst naar een <span class="em">fysiek</span> opslaggebied op een enkele harde schijf. Zodra een partitie is aangekoppeld kan het worden aangeduid als een volume, want u heeft toegang tot de bestanden erop. U kunt volumen zien als de van een label voorziene, toegankelijke "voorkant" van de functionele "achterkamers" van partities en schijven.</p>
 </div>
 <div id="manage" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">View and manage volumes and partitions using the disk utility</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Volumes en partities bekijken en beheren via Schijfgereedschap</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">You can check and modify your computer's storage volumes with the disk
+<p class="p">You can check and modify your computer’s storage volumes with the disk
  utility.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui">Activities</span> overview and start <span class="app">Disks</span>.</p></li>
-<li class="steps"><p class="p">In the list of storage devices on the left, you will find hard disks,
-    CD/DVD drives, and other physical devices. Click the device you want to
-    inspect.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui">Activiteiten</span>-overzicht en start <span class="app">Schijven</span>.</p></li>
+<li class="steps"><p class="p">In de lijst met opslagapparaten aan de linkerkant vindt u harde schijven, cd/dvd-stations en andere fysieke apparaten. Klik op het apparaat dat u wilt onderzoeken.</p></li>
 <li class="steps">
-<p class="p">The right pane provides a visual breakdown of the volumes and
-    partitions present on the selected device. It also contains a variety of
-    tools used to manage these volumes.</p>
-<p class="p">Be careful: it is possible to completely erase the data on your disk with
-    these utilities.</p>
+<p class="p">In het rechterpaneel krijgt u een grafisch overzicht van de volumes en partities die zich op het geselecteerde apparaat bevinden. Het bevat ook een aantal hulpmiddelen die gebruikt worden om deze volumes te beheren.</p>
+<p class="p">Let op: met deze hulpmiddelen is het mogelijk om alle gegevens van uw schijf te verwijderen.</p>
 </li>
 </ol></div></div></div>
-<p class="p">Your computer most likely has at least one <span class="em">primary</span> partition and a
- single <span class="em">swap</span> partition. The swap partition is used by the operating
- system for memory management, and is rarely mounted.  The primary partition
- contains your operating system, applications, settings, and personal files.
- These files can also be distributed among multiple partitions for security or
- convenience.</p>
-<p class="p">One primary partition must contain information that your computer uses to
-  start up, or <span class="em">boot</span>. For this reason it is sometimes called a boot
-  partition, or boot volume. To determine if a volume is bootable, select the
-  partition and click the menu button in the toolbar underneath the partition
-  list. Then, click <span class="gui">Edit Partition…</span> and look at its
-  <span class="gui">Flags</span>. External media such as USB drives and CDs may also contain
-  a bootable volume.</p>
+<p class="p">Hoogstwaarschijnlijk heeft uw computer ten minste één <span class="em">primaire</span> partitie en één <span class="em">wisselgeheugen</span>partitie.De wisselgeheugenpartitie wordt door het besturingssysteem gebruikt voor geheugenbeheer en wordt zelden aangekoppeld. De primaire partitie bevat uw besturingssysteem, toepassingen, instellingen en persoonlijke bestanden. Deze bestanden kunnen zich ook op meerdere partities bevinden omwille van de veiligheid en het gemak.</p>
+<p class="p">Eén primaire partitie moet informatie bevatten die gebruikt wordt door uw computer om op te starten, of <span class="em">booten</span>. Daarom wordt deze soms bootpartitie of bootvolume genoemd. Om te bepalen of een volume opstartbaar is selecteert u de partitie en klikt u op de menuknop in de werkbalk onder de lijst met partities. Klik daarna op <span class="gui">Partitie bewerken…</span> en bekijk de <span class="gui">partitieparameters</span>. Externe media zoals usb-stations en cd's kunnen ook opstartbaar zijn.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -101,12 +74,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html" title="Disks &amp; storage">Disks &amp; storage</a><span class="desc"> — 
-    <span class="link"><a href="disk-capacity.html" title="Check how much disk space is left">Disk space</a></span>,
-    <span class="link"><a href="disk-benchmark.html" title="Test the performance of your hard disk">performance</a></span>,
-    <span class="link"><a href="disk-check.html" title="Check your hard disk for problems">problems</a></span>,
-    <span class="link"><a href="disk-partitions.html" title="Manage volumes and partitions">volumes and partitions</a></span>…
-  </span>
+<a href="disk.html" title="Schijven &amp; opslag">Schijven &amp; opslag</a><span class="desc"> — <span class="link"><a href="disk-capacity.html" title="Controleer hoeveel schijfruimte er nog besschikbaar is">Schijfruimte</a></span>, <span class="link"><a href="disk-benchmark.html" title="De prestaties van u harde schijf testen">presentatie</a></span>, <span class="link"><a href="disk-check.html" title="Controleer of er problemen zijn met u harde schijf">problemen</a></span>, <span class="link"><a href="disk-partitions.html" title="Volumes en partities beheren">volumes en partities</a></span>...</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -51,11 +51,7 @@
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
 <div class="links-grid-link"><a href="accounts.html" title="Akun daring">Akun daring</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="accounts-add.html" title="Tambahkan akun">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html" title="Menghapus sebuah akun">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html" title="Online services and applications">Learn about services</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="accounts-add.html" title="Tambahkan akun">Menambahkan suatu akun daring</a></span>, <span class="link"><a href="accounts-remove.html" title="Menghapus sebuah akun">Menghapus suatu akun</a></span>, <span class="link"><a href="accounts-which-application.html" title="Aplikasi dan layanan daring">Mempelajari tentang layanan</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="user-accounts.html" title="Akun pengguna">Akun pengguna</a></div>
@@ -64,7 +60,7 @@
 <div class="links-grid ">
 <div class="links-grid-link"><a href="power.html" title="Daya &amp; baterai">Daya &amp; baterai</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-status.html" title="Periksa status baterai">Battery status</a></span>,
       <span class="link"><a href="power-suspend.html" title="Apa yang terjadi ketika saya mensuspensi komputer?">suspend</a></span>,
       <span class="link"><a href="power-whydim.html" title="Mengapa layar saya meredup setelah beberapa saat?">screen dimming</a></span>…
     </span></div>
@@ -103,12 +99,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="clock.html" title="Tanggal &amp; waktu">Tanggal &amp; waktu</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="clock-set.html" title="Ubah tanggal dan waktu">Set date and time</a></span>,
-      <span class="link"><a href="clock-world.html" title="Add a world clock">world clocks</a></span>,
-      <span class="link"><a href="clock-timezone.html" title="Ubah zona waktu Anda">timezone</a></span>,
-      <span class="link"><a href="clock-calendar.html" title="Janji kalender">calendar and appointments</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="clock-set.html" title="Ubah tanggal dan waktu">Atur tanggal dan waktu</a></span>, <span class="link"><a href="clock-world.html" title="Tambah jam dunia">jam dunia</a></span>, <span class="link"><a href="clock-timezone.html" title="Ubah zona waktu Anda">zona waktu</a></span>, <span class="link"><a href="clock-calendar.html" title="Janji kalender">kalender dan janji bertemu</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="privacy.html" title="Tatanan Privasi">Tatanan Privasi</a></div>

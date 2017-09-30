@@ -59,7 +59,10 @@
 </div>
 <div class="region">
 <div class="contents">
-<p class="p">На этом этапе вы проверите некоторые основные сведения о своём беспроводном соединении. Это поможет убедиться, что проблемы с сетью не вызваны какой-нибудь относительно простой причиной, например, отключённым беспроводным соединением, а также подготовиться к следующим этапам по устранению неполадок.</p>
+<p class="p">In this step you will check some basic information about your wireless
+  network connection. This is to make sure that your networking problem isn’t
+  caused by a relatively simple issue, like the wireless connection being
+  turned off, and to prepare for the next few troubleshooting steps.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Убедитесь, что ноутбук не подключён к Интернету <span class="em">проводным</span> соединением.</p></li>
 <li class="steps"><p class="p">Если у вас внешний беспроводной адаптер (например, USB-адаптер или карта PCMCIA), проверьте, надёжно ли он вставлен в соответствующий разъём на компьютере.</p></li>

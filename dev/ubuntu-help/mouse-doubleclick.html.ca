@@ -56,7 +56,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Double-clicking only happens when you press the mouse button twice
-quickly enough. If the second press is too long after the first, you'll
+quickly enough. If the second press is too long after the first, you’ll
 just get two separate clicks, not a double click. If you have difficulty
 pressing the mouse button quickly, you should increase the timeout.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">

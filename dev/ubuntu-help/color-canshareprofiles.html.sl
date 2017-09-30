@@ -54,8 +54,18 @@
 <div class="region">
 <div class="contents">
 <p class="p">Barvni profili, ki ste jih sami ustvarili, so določeni za strojno opremo in pogoje osvetlitve, za katero ste jih umerili. Zaslon ki je bil prižgan nekaj sto ur, bo imel zelo drugačen barvni profil kot podoben zaslon, ki je bil prižgan na tisoče ur.</p>
-<p class="p">To pomeni, da boste v primeru da svoj barvni profil delite z nekom, morda spravili <span class="em">bližje</span> umerjanju, vendar je zavajujoče reči, da je njihov zaslon umerjen.</p>
-<p class="p">Podobno deljenje profila, ki ste ga ustvarili za svoje svetlobne pogoje nima smisla, če nimate v prostoru za urejanje slik  vsi popolnoma enake osvetlitve (brez sončne svetlobe z oken, črnih zidov, dnevnih žarnic).</p>
+<p class="p">
+    This means if you share your color profile with somebody, you might
+    be getting them <span class="em">closer</span> to calibration, but it’s misleading
+    at best to say that their display is calibrated.
+  </p>
+<p class="p">
+    Similarly, unless everyone has recommended controlled lighting
+    (no sunlight from windows, black walls, daylight bulbs etc.) in a
+    room where viewing and editing images takes place, sharing a profile
+    that you created in your own specific lighting conditions doesn’t make
+    a lot of sense.
+  </p>
 <div class="note note-warning" title="Opozorilo"><div class="inner"><div class="region"><div class="contents"><p class="p">Previdno preverite pogoje razširjanja za profile, ki ste jih prejeli s spletišč proizvajalca ali pa jih je za vas nekdo ustvaril.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">

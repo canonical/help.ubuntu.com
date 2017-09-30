@@ -71,7 +71,13 @@
 </div></div>
 <div id="beeps" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Tietokone piippaa ja sammuu sen jälkeen</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Jos tietokone piippaa useita kertoja käynnistettäessä ja sammuu tämän jälkeen, se saattaa ilmoittaa ongelmasta. Piippauksia kutsutaan joskus <span class="em">piippauskoodeiksi</span> ja ne kertovat ongelman laadusta. Eri valmistajat käyttävät omia piippauskoodejaan, joten etsi piippauskoodien selityksiä emolevyn ohjekirjasta, verkosta tai vie tietokone huoltoon.</p></div></div>
+<div class="region"><div class="contents"><p class="p">If the computer beeps several times when you turn it on and then turns off
+  (or fails to start), it may be indicating that it has detected a problem.
+  These beeps are sometimes referred to as <span class="em">beep codes</span>, and the pattern
+  of beeps is intended to tell you what the problem with the computer is.
+  Different manufacturers use different beep codes, so you will have to consult
+  the manual for your computer’s motherboard, or take your computer in for
+  repairs.</p></div></div>
 </div></div>
 <div id="fans" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Tietokoneen tuulettimet pyörivät, mutta näytöllä ei näy mitään</span></h2></div>

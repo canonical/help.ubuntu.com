@@ -49,7 +49,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Prilagoditev kontrasta</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can adjust the contrast of windows and buttons so that they're easier
+<p class="p">You can adjust the contrast of windows and buttons so that they’re easier
   to see. This is not the same as 
   changing the brightness of the whole screen; only parts of the
   <span class="em">user interface</span> will change.</p>

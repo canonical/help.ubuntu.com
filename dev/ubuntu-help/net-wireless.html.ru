@@ -50,21 +50,22 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-connect.html" title="Подключение к беспроводной сети"><span class="title">Подключение к беспроводной сети</span><span class="linkdiv-dash"> — </span><span class="desc">Подключение к Интернету — без проводов.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html" title="Моей беспроводной сети нет в списке"><span class="title">Моей беспроводной сети нет в списке</span><span class="linkdiv-dash"> — </span><span class="desc">The wireless could be turned off or broken, or you may be trying to
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-connect.html" title="Подключение к беспроводной сети"><span class="title">Подключение к беспроводной сети</span><span class="linkdiv-dash"> — </span><span class="desc">Get on the internet — wirelessly.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html" title="I can’t see my wireless network in the list"><span class="title">I can’t see my wireless network in the list</span><span class="linkdiv-dash"> — </span><span class="desc">The wireless could be turned off or broken, or you may be trying to
     connect to a hidden network.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-manual.html" title="Настройка параметров соединения вручную"><span class="title">Настройка параметров соединения вручную</span><span class="linkdiv-dash"> — </span><span class="desc">Если настройки сети не назначаются автоматически, придётся задать их вручную.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-noconnection.html" title="I’ve entered the correct password, but I still can’t connect"><span class="title">I’ve entered the correct password, but I still can’t connect</span><span class="linkdiv-dash"> — </span><span class="desc">Внимательно проверьте пароль и другие подобные параметры.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-manual.html" title="Настройка параметров соединения вручную"><span class="title">Настройка параметров соединения вручную</span><span class="linkdiv-dash"> — </span><span class="desc">You may have to enter network settings if they don’t get assigned
+    automatically.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-airplane.html" title="Отключение беспроводной связи (режим для авиаперелётов)"><span class="title">Отключение беспроводной связи (режим для авиаперелётов)</span><span class="linkdiv-dash"> — </span><span class="desc">Откройте настройки сети и включите режим для авиаперелётов.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-vpn-connect.html" title="Подключение к VPN"><span class="title">Подключение к VPN</span><span class="linkdiv-dash"> — </span><span class="desc">Настройка VPN-соединения до локальной сети через интернет.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-mobile.html" title="Подключение к мобильному Интернету"><span class="title">Подключение к мобильному Интернету</span><span class="linkdiv-dash"> — </span><span class="desc">Подключение к Интернету с помощью мобильного телефона или USB-модема.</span></a></div>
 </div>
 <div class="links-twocolumn">
+<div class="linkdiv "><a class="linkdiv" href="net-mobile.html" title="Подключение к мобильному Интернету"><span class="title">Подключение к мобильному Интернету</span><span class="linkdiv-dash"> — </span><span class="desc">Подключение к Интернету с помощью мобильного телефона или USB-модема.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-hidden.html" title="Подключение к скрытой беспроводной сети"><span class="title">Подключение к скрытой беспроводной сети</span><span class="linkdiv-dash"> — </span><span class="desc">Подключение к скрытой беспроводной сети, отсутствующей в списке.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-disconnecting.html" title="Почему беспроводное соединение постоянно прерывается?"><span class="title">Почему беспроводное соединение постоянно прерывается?</span><span class="linkdiv-dash"> — </span><span class="desc">Сигнал может быть слабым, или настройки сети не позволяют установить корректное соединение.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-adhoc.html" title="Создание беспроводной точки доступа"><span class="title">Создание беспроводной точки доступа</span><span class="linkdiv-dash"> — </span><span class="desc">Используйте сеть ad-hoc, чтобы позволить другим устройствам подключаться к вашему компьютеру и его сетевым соединениям.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-troubleshooting.html" title="Устранение неполадок с беспроводной сетью"><span class="title">Устранение неполадок с беспроводной сетью</span><span class="linkdiv-dash"> — </span><span class="desc">Identify and fix problems with wireless connections.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-wepwpa.html" title="Что такое WEP и WPA?"><span class="title">Что такое WEP и WPA?</span><span class="linkdiv-dash"> — </span><span class="desc">WEP и WPA — это способы шифрования данных в беспроводных сетях.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-noconnection.html" title="Я ввёл правильный пароль, но подключиться не удалось"><span class="title">Я ввёл правильный пароль, но подключиться не удалось</span><span class="linkdiv-dash"> — </span><span class="desc">Внимательно проверьте пароль и другие подобные параметры.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -80,7 +81,7 @@
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-problem.html" title="Проблемы с сетью">Проблемы с сетью</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Устранение неполадок с беспроводной сетью">Проблемы с беспроводными соединениями</a></span>, <span class="link"><a href="net-wireless-find.html" title="Моей беспроводной сети нет в списке">поиск сети wifi</a></span>…</span>
+<a href="net-problem.html" title="Проблемы с сетью">Проблемы с сетью</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Устранение неполадок с беспроводной сетью">Проблемы с беспроводными соединениями</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">поиск сети wifi</a></span>…</span>
 </li>
 <li class="links ">
 <a href="net-general.html" title="Сетевые термины и советы">Сетевые термины и советы</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="Определение своего IP-адреса">Определение своего IP-адреса</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Что такое WEP и WPA?">защита WEP и WPA</a></span>, <span class="link"><a href="net-macaddress.html" title="Что такое MAC-адрес?">MAC-адреса</a></span>, <span class="link"><a href="net-proxy.html" title="Настройка прокси-сервера">прокси</a></span>…</span>

@@ -75,7 +75,13 @@
 </li>
 <li class="list">
 <p class="p">制限のある (バイナリ) ドライバーを探す。</p>
-<p class="p">Linux ディストリビューションの多くは、<span class="em">自由</span>で<span class="em">オープンソース</span>のデバイスドライバーしか同梱していません。プロプライエタリやクローズドソースのドライバーは配布できないためです。お使いのワイヤレスアダプター用のドライバーがノンフリーまたは「バイナリのみ」でしか利用できない場合には、デフォルトではインストールされない可能性があります。この場合、アダプター製造元の web サイトで Linux 用のドライバーが提供されていないか確認してみてください。</p>
+<p class="p">Many Linux distributions only come with device drivers which are
+      <span class="em">free</span> and <span class="em">open source</span>. This is because they cannot
+      distribute drivers which are proprietary, or closed-source. If the
+      correct driver for your wireless adapter is only available in a non-free,
+      or “binary-only” version, it may not be installed by default. If this is
+      the case, look on the wireless adapter manufacturer’s website to see if
+      they have any Linux drivers.</p>
 <p class="p">Linux ディストリビューションの中には制限のあるドライバーをダウンロードできるツールを提供しているものがあります。使用しているディストリビューションにこのようなツールがある場合には、そのツールを使ってワイヤレスドライバーを探すことができます。</p>
 </li>
 <li class="list">

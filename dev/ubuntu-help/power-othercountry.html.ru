@@ -51,7 +51,13 @@
 <div class="contents">
 <p class="p">В электросетях разных стран используются различные напряжения (обычно 110В или 220-240В) и частота переменного тока (обычно 50 Гц или 60 Гц). Ваш компьютер должен работать в электросети другой страны при наличии подходящего адаптера питания. Возможно, придётся также изменить положение переключателя.</p>
 <p class="p">Если у вас ноутбук, всё что вам нужно — это найти подходящую вилку для вашего адаптера питания. В комплект некоторых ноутбуков входит несколько вилок, так что, возможно у вас уже имеется нужная. Если её нет, достаточно подключить уже имеющуюся вилку в стандартный переходник.</p>
-<p class="p">Для настольного компьютера можно приобрести кабели с различными вилками или использовать переходник. В этом случае вам, возможно, понадобится также изменить положение переключателя напряжения на блоке питания компьютера. Многие компьютеры не оснащены подобными переключателями и могут работать при любом напряжении в сети. Найдите разъём для подключения кабеля питания с задней стороны компьютера. Где-нибудь рядом с ним может быть маленький переключатель с надписью типа «110V» или «230V». Переключите его, если это необходимо.</p>
+<p class="p">If you have a desktop computer, you can also get a cable with a different
+plug, or use a travel adapter. In this case, however, you may need to change
+the voltage switch on the computer’s power supply, if there is one. Many
+computers do not have a switch like this, and will happily work with either
+voltage. Look at the back of the computer and find the socket that the power
+cable plugs into. Somewhere nearby, there may be a small switch marked “110V”
+or “230V” (for example). Switch it if you need to.</p>
 <div class="note note-warning" title="Предупреждение"><div class="inner"><div class="region"><div class="contents"><p class="p">Будьте осторожны при замене кабеля питания или использовании переходника. Сначала отключите всё от сети, если это возможно.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">

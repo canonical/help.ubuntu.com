@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Can I get notified when my color profile is inaccurate?</title>
+<title>Kan ik gewaarschuwd worden als mijn kleurprofiel inaccuraat is?</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,28 +44,19 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="color.html" title="Color management">Color management</a> › <a class="trail" href="color.html#problems" title="Problemen">Problemen</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html#problems" title="Problemen">Problemen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="color.html" title="Color management">Color management</a> › <a class="trail" href="color.html#problems" title="Problemen">Problemen</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html#problems" title="Problemen">Problemen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Can I get notified when my color profile is inaccurate?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Kan ik gewaarschuwd worden als mijn kleurprofiel inaccuraat is?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can be reminded to recalibrate your devices after a specific period of
-  time. Unfortunately, it is not possible to tell without recalibrating whether
-  a device profile is accurate, so it is best to recalibrate devices
-  regularly.</p>
-<p class="p">Some companies have very specific calibration expiry policies for
-  profiles, as an inaccurate color profile can make a huge difference to an end
-  product.</p>
-<p class="p">If you set the timeout policy and a profile is older than the policy then
-  a red warning triangle will be shown in the <span class="gui">Color</span> panel next to
-  the profile. A warning notification will also be shown every time you log
-  into your computer.</p>
-<p class="p">To set the policy for display and printer devices, you specify the
-  maximum age of the profile in days:</p>
+<p class="p">Na een bepaalde tijd kunt u er aan herinnerd worden dat u uw apparaten opnieuw moet kalibreren. Helaas is het zonder opnieuw kalibreren niet mogelijk te zeggen of een apparaatprofiel nauwkeurig is; daarom is het het beste dat u uw apparaten regelmatig opnieuw kalibreert.</p>
+<p class="p">Sommige bedrijven voeren een streng beleid met betrekking tot de ouderdom van de kleurprofielen, omdat een inaccuraat kleurprofiel voor een eindproduct een groot verschil kan uitmaken.</p>
+<p class="p">Als u een ouderdomsbeleid instelt en een profiel is ouder dan het beleid voorschrijft, dan wordt er in het <span class="gui">Kleur</span>-venster een rood waarschuwingsdriehoekje naast het profiel weergegeven. Er zal ook elke keer een waarschuwingsmelding worden weergegeven wanneer u zich op de computer aanmeldt.</p>
+<p class="p">Om het beleid voor printers en weergaveapparaten in te stellen, kiest u de maximum profielouderdom in dagen:</p>
 <div class="screen"><pre class="contents "><span class="prompt output">$ </span><span class="input">gsettings set org.gnome.settings-daemon.plugins.color recalibrate-printer-threshold 180</span>
 <span class="prompt output">$ </span><span class="input">gsettings set org.gnome.settings-daemon.plugins.color recalibrate-display-threshold 90</span></pre></div>
 </div>
@@ -79,7 +70,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="color-why-calibrate.html" title="Why do I need to do calibration myself?">Why do I need to do calibration myself?</a><span class="desc"> — Calibrating is important if you care about the colors you display or print.</span>
+<a href="color-why-calibrate.html" title="Waarom moet ik zelf kalibreren?">Waarom moet ik zelf kalibreren?</a><span class="desc"> — Kalibreren is belangrijk als u geeft om de weergave of het afdrukken van kleuren.</span>
 </li></ul></div>
 </div></div>
 </div>

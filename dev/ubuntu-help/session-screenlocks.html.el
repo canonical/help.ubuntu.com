@@ -61,7 +61,8 @@
 <li class="steps"><p class="p">Πατήστε στο <span class="gui">Κλείδωμα οθόνης</span>.</p></li>
 <li class="steps"><p class="p">Αν το <span class="gui">Αυτόματο κλείδωμα οθόνης</span> είναι ενεργό, μπορείτε να αλλάξτε την τιμή στην αναπτυσσόμενη λίστα <span class="gui">Κλείδωμα οθόνης μετά από κενό για</span>.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Συμβουλή"><div class="inner"><div class="region"><div class="contents"><p class="p">Αν δεν θέλετε ποτέ η οθόνη να κλειδώνεται αυτόματα, απενεργοποιήστε το <span class="gui">Αυτόματο κλείδωμα οθόνης</span> σε <span class="gui">ΟΧΙ</span>.</p></div></div></div></div>
+<div class="note note-tip" title="Συμβουλή"><div class="inner"><div class="region"><div class="contents"><p class="p">If you don’t ever want the screen to lock itself automatically, switch
+    <span class="gui">Automatic Screen Lock</span> to <span class="gui">OFF</span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

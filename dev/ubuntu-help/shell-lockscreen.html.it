@@ -58,7 +58,7 @@
 <li class="list"><p class="p">the name of the logged-in user</p></li>
 <li class="list"><p class="p">date and time, and certain notifications</p></li>
 <li class="list"><p class="p">battery and network status</p></li>
-<li class="list"><p class="p">the ability to control media playback - change the volume, skip a
+<li class="list"><p class="p">the ability to control media playback — change the volume, skip a
     track or pause your music without having to enter a password</p></li>
 </ul></div></div></div>
 <p class="p">To unlock your computer, raise the lock screen curtain by dragging it

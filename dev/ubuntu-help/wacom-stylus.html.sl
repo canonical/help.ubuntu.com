@@ -54,20 +54,23 @@
     start typing <span class="gui">Wacom Tablet</span>.</p></li>
 <li class="steps">
 <p class="p">Click on <span class="gui">Wacom Tablet</span> to open the panel.</p>
-<div class="note note-tip" title="Namig"><div class="inner"><div class="region"><div class="contents"><p class="p">If no tablet is detected, you'll be asked to
+<div class="note note-tip" title="Namig"><div class="inner"><div class="region"><div class="contents"><p class="p">If no tablet is detected, you’ll be asked to
     <span class="gui">Please plug in or turn on your Wacom tablet</span>. Click the
     <span class="gui">Bluetooth Settings</span> link to connect a wireless tablet.</p></div></div></div></div>
 </li>
 <li class="steps">
 <p class="p">Nižji del pulta vsebuje podrobnosti in nastavitve, določene za vašo zaslonsko pisalo z imenom naprave (razred pisala) in diagramom na levi. Te nastavitve je mogoče prilagoditi.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="gui">Občutek pritiska radirke:</span> uporabite drsnik za prilagoditev "občutka" (kako je fizični pritisk preveden v digitalne vrednosti) med <span class="gui">Mehkim</span> in <span class="gui">Trdim</span>.</p></li>
+<li class="list"><p class="p"><span class="gui">Eraser Pressure Feel:</span> use the slider to adjust the
+       “feel” (how physical pressure is translated to digital values) between
+       <span class="gui">Soft</span> and <span class="gui">Firm</span>.</p></li>
 <li class="list"><p class="p"><span class="gui">Button/Scroll Wheel</span> configuration (these change to
        reflect the stylus). Click the menu next to each label to select one of
        these functions: No Action, Left Mouse Button Click, Middle Mouse Button
        Click, Right Mouse Button Click, Scroll Up, Scroll Down, Scroll Left,
        Scroll Right, Back, or Forward.</p></li>
-<li class="list"><p class="p"><span class="gui">Občutek pritiska konice:</span> uporabite drsnik za prilagoditev "občutka" med <span class="gui">Mehkim</span> in <span class="gui">Trdim</span>.</p></li>
+<li class="list"><p class="p"><span class="gui">Tip Pressure Feel:</span> use the slider to adjust the
+       “feel” between <span class="gui">Soft</span> and <span class="gui">Firm</span>.</p></li>
 </ul></div></div></div>
 </li>
 </ol></div></div></div>

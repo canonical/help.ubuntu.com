@@ -130,13 +130,13 @@
 <a href="keyboard-nav.html" title="Billentyűzetnavigáció">Billentyűzetnavigáció</a><span class="desc"> — Alkalmazások és az asztal használata egér nélkül.</span>
 </li>
 <li class="links ">
+<a href="keyboard-repeat-keys.html" title="Ismételt billentyűlenyomások kezelése">Ismételt billentyűlenyomások kezelése</a><span class="desc"> — A billentyűzet ne ismételje meg a lenyomott billentyűt, vagy az ismétlés késleltetésének és sebességének módosítása.</span>
+</li>
+<li class="links ">
 <a href="keyboard-osk.html" title="Képernyő-billentyűzet használata">Képernyő-billentyűzet használata</a><span class="desc"> — Képernyő-billentyűzet használata szöveg bevitelére az egérrel vagy érintőképernyővel gombokra kattintva.</span>
 </li>
 <li class="links ">
 <a href="a11y-slowkeys.html" title="Lassú billentyűk bekapcsolása">Lassú billentyűk bekapcsolása</a><span class="desc"> — Késleltetés a billentyűlenyomás és a billentyű képernyőn történő megjelenése között.</span>
-</li>
-<li class="links ">
-<a href="keyboard-repeat-keys.html" title="Manage repeated key presses">Manage repeated key presses</a><span class="desc"> — A billentyűzet ne ismételje meg a lenyomott billentyűt, vagy az ismétlés késleltetésének és sebességének módosítása.</span>
 </li>
 <li class="links ">
 <a href="a11y-stickykeys.html" title="Ragadós billentyűk bekapcsolása">Ragadós billentyűk bekapcsolása</a><span class="desc"> — Gyorsbillentyűk bevitele billentyűnként, az összes billentyű egyidejű lenyomása helyett.</span>

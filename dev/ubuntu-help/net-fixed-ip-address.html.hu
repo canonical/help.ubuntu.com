@@ -55,17 +55,9 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Hálózat</span> szót.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Hálózat</span> ikonra a panel megnyitásához.</p></li>
-<li class="steps"><p class="p">In the left pane, select the network connection that you want to have
-      a fixed address. If you plug in to the network with a cable, click
-      <span class="gui">Wired</span>, then click the
-      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span> button in the lower right corner of
-      the panel. For a <span class="gui">Wi-Fi</span> connection, the 
-      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>
-      button will be located next to the active network.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">IPv4</span> or <span class="gui">IPv6</span> in the left pane
-      and change the <span class="gui">Addresses</span> to <span class="em">Manual</span>.</p></li>
-<li class="steps"><p class="p">Type in the <span class="gui"><a href="net-what-is-ip-address.html" title="Mi az az IP-cím?">IP Address</a></span> and
-      <span class="gui">Gateway</span>, as well as the appropriate <span class="gui">Netmask</span>.</p></li>
+<li class="steps"><p class="p">A bal oldali ablaktáblán válassza ki azt a hálózati kapcsolatot, amelynek rögzített címet szeretne beállítani. Ha kábellel csatlakozik a hálózatra, akkor kattintson a <span class="gui">Vezetékes</span> lehetőségre, majd a <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="beállítások"></span></span> gombra a panel jobb alsó sarkában. <span class="gui">Wi-Fi</span> kapcsolat esetén a <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="beállítások"></span></span> gomb az aktív hálózat mellett lesz.</p></li>
+<li class="steps"><p class="p">Kattintson a bal oldali ablaktáblán az <span class="gui">IPv4</span> vagy az <span class="gui">IPv6</span> elemre, és módosítsa a <span class="gui">Címeket</span> a <span class="em">Kézi</span> értékűre.</p></li>
+<li class="steps"><p class="p">Írja be az <span class="gui"><a href="net-what-is-ip-address.html" title="Mi az az IP-cím?">IP-címet</a></span> és az <span class="gui">Átjárót</span>, valamint a megfelelő <span class="gui">Hálózati maszkot</span>.</p></li>
 <li class="steps"><p class="p">A <span class="gui">DNS</span> szakaszban kapcsolja <span class="gui">KI</span> az <span class="gui">Automatikus</span> beállítást. Írja be a használni kívánt DNS-kiszolgáló IP-címét. A <span class="gui">+</span> gomb használatával további DNS-kiszolgálók címeit adhatja meg.</p></li>
 <li class="steps"><p class="p">Az <span class="gui">Útvonalak</span> szakaszban kapcsolja <span class="gui">KI</span> az <span class="gui">Automatikus</span> beállítást. Írja be a használni kívánt útvonal <span class="gui">Címét</span>, <span class="gui">Hálózati maszkját</span>, <span class="gui">Átjáróját</span> és <span class="gui">Metrikáját</span>. A <span class="gui">+</span> gomb használatával további útvonalakat adhat meg.</p></li>
 <li class="steps"><p class="p">Nyomja meg az <span class="gui">Alkalmaz</span> gombot. A hálózati kapcsolat mostantól rögzített IP-címmel rendelkezik.</p></li>

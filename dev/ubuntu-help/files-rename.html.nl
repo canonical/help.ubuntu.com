@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Rename a file or folder</title>
+<title>Een bestand of map hernoemen</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,83 +43,50 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html#common-file-tasks" title="Common tasks">Common tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Rename a file or folder</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Een bestand of map hernoemen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">As with other file managers, you can use <span class="app">Files</span> to change the
-  name of a file or folder.</p>
+<p class="p">Net als in andere bestandbeheerprogramma's kunt u <span class="app">Bestandsbeheer</span> gebruiken om de naam van een bestand of map te wijzigen.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">To rename a file or folder:</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Een bestand of map hernoemen:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Right-click on the item and select <span class="gui">Rename</span>, or select
-    the file and press <span class="key"><kbd>F2</kbd></span>.</p></li>
-<li class="steps"><p class="p">Type the new name and press <span class="key"><kbd>Enter</kbd></span> or click
-    <span class="gui">Rename</span>.</p></li>
+<li class="steps"><p class="p">Klik met rechts op een bestand of map en selecteer <span class="gui">Hernoemen…</span>, of selecteer het bestand en druk op <span class="key"><kbd>F2</kbd></span>.</p></li>
+<li class="steps"><p class="p">Typ de nieuwe naam in en druk op <span class="key"><kbd>Enter</kbd></span>, of klik op <span class="gui">Hernoemen</span>.</p></li>
 </ol></div>
 </div></div>
-<p class="p">You can also rename a file from the
-  <span class="link"><a href="nautilus-file-properties-basic.html" title="File properties">properties</a></span> window.</p>
-<p class="p">When you rename a file, only the first part of the name of the file is
-  selected, not the file extension (the part after the last <span class="file">.</span>).
-  The extension normally denotes what type of file it is (for example,
-  <span class="file">file.pdf</span> is a PDF document), and you usually do not want to
-  change that. If you need to change the extension as well, select the entire
-  file name and change it.</p>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">If you renamed the wrong file, or named your file improperly, you can
-    undo the rename. To revert the action, immediately click the menu button in
-    the toolbar and select <span class="gui">Undo Rename</span>, or press
-    <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Z</kbd></span></span>, to restore the former
-    name.</p></div></div></div></div>
+<p class="p">U kunt een bestand ook hernoemen vanuit het <span class="link"><a href="nautilus-file-properties-basic.html" title="Bestandseigenschappen">Eigenschappen</a></span>-venster.</p>
+<p class="p">Wanneer u een bestand hernoemt, wordt alleen het eerste deel van de bestandsnaam geselecteerd, niet de bestandsextensie (het deel na de laatste <span class="file">.</span>). De extensie geeft normaal gesproken aan wat voor type bestand het is (bijv. <span class="file">bestand.pdf</span> is een PDF-document), en dat wilt u doorgaans niet wijzigen. Als u ook de extensie wilt wijzigen, selecteer dan de volledige naam en wijzig hem.</p>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Als u het verkeerde bestand heeft hernoemd, of uw bestand een verkeerde naam heeft gegeven, kunt u het hernoemen ongedaan maken. Om de handeling terug te draaien en de vorige naam te herstellen dient u onmiddellijk te klikken op <span class="gui">Hernoemen ongedaan maken</span> in de taakbalk, of te drukken op <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Z</kbd></span></span>.</p></div></div></div></div>
 </div>
 <div id="valid-chars" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Valid characters for file names</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Geldige tekens voor bestandsnamen</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">You can use any character except the <span class="file">/</span> (slash) character in
-    file names. Some devices, however, use a <span class="em">file system</span> that has more
-    restrictions on file names. Therefore, it is a best practice to avoid the
-    following characters in your file names: <span class="file">|</span>, <span class="file">\</span>,
-    <span class="file">?</span>, <span class="file">*</span>, <span class="file">&lt;</span>, <span class="file">"</span>,
-    <span class="file">:</span>, <span class="file">&gt;</span>, <span class="file">/</span>.</p>
-<div class="note note-warning" title="Waarschuwing"><div class="inner"><div class="region"><div class="contents"><p class="p">If you name a file with a <span class="file">.</span> as the first character, the
-    file will be <span class="link"><a href="files-hidden.html" title="Hide a file">hidden</a></span> when you attempt to
-    view it in the file manager.</p></div></div></div></div>
+<p class="p">U kunt elk teken behalve de <span class="key"><kbd>/</kbd></span> (slash) gebruiken in bestandsnamen. Sommige apparaten echter gebruiken een <span class="em">bestandssysteem</span> dat meer beperkingen heeft voor bestandsnamen. Daarom is het beter om in bestandsnamen de volgende tekens te vermijden: <span class="file">|</span>, <span class="file">\</span>, <span class="file">?</span>, <span class="file">*</span>, <span class="file">&lt;</span>, <span class="file">"</span>, <span class="file">:</span>, <span class="file">&gt;</span>, <span class="file">/</span>.</p>
+<div class="note note-warning" title="Waarschuwing"><div class="inner"><div class="region"><div class="contents"><p class="p">Als u een bestandsnaam met een <span class="key"><kbd>.</kbd></span> als eerste teken opgeeft, dan zal het bestand <span class="link"><a href="bestanden-verborgen.html" title="bestanden-verborgen">verborgen</a></span> zijn wanneer u probeert het in bestandsbeheer te zien te krijgen.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="common-probs" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Common problems</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Veel voorkomende problemen</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms">The file name is already in use</dt>
+<dt class="terms">De bestandsnaam is al in gebruik</dt>
 <dd class="terms">
-<p class="p">You cannot have two files or folders with the same name in the same
-        folder. If you try to rename a file to a name that already exists in
-        the folder you are working in, the file manager will not allow it.</p>
-<p class="p">File and folder names are case sensitive, so the file name
-        <span class="file">File.txt</span> is not the same as <span class="file">FILE.txt</span>.
-        Using different file names like this is allowed, though it is not
-        recommended.</p>
+<p class="p">U kunt niet twee bestanden of mappen met dezelfde naam in dezelfde map hebben. Als u een bestand probeert te hernoemen naar een naam die al bestaat in de map waarin u werkt, dan zal bestandsbeheer dit niet toestaan.</p>
+<p class="p">Namen van bestanden en mappen zijn hoofdlettergevoelig. Bijvoorbeeld, <span class="file">Bestand.txt</span> is niet hetzelfde als  <span class="file">bestand.txt</span>. Dit is toegestaan, maar het is niet altijd handig.</p>
 </dd>
-<dt class="terms">The file name is too long</dt>
-<dd class="terms"><p class="p">On some file systems, file names can have no more than 255
-        characters in their names.  This 255 character limit includes both the
-        file name and the path to the file (for example,
-        <span class="file">/home/wanda/Documents/work/business-proposals/…</span>), so you
-        should avoid long file and folder names where possible.</p></dd>
-<dt class="terms">The option to rename is grayed out</dt>
-<dd class="terms"><p class="p">If <span class="gui">Rename</span> is grayed out, you do not have permission to
-        rename the file. You should use caution with renaming such files, as
-        renaming some protected files may cause your system to become unstable.
-        See <span class="link"><a href="nautilus-file-properties-permissions.html" title="Set file permissions">Set file permissions</a></span> for more
-        information.</p></dd>
+<dt class="terms">De bestandsnaam is te lang</dt>
+<dd class="terms"><p class="p">Bij sommige bestandssystemen kunnen bestandsnamen niet meer dan 255 tekens bevatten. Deze grens van 255 tekens  houdt zowel de bestandsnaam als het pad naar het bestand in (bijv. <span class="file">/home/jan/Documenten/werk/bedrijfsplannen/... </span>); u dient dus, waar mogelijk, lange namen voor mappen en bestanden te vermijden.</p></dd>
+<dt class="terms">De optie om de naam te wijzigen is niet beschikbaar</dt>
+<dd class="terms"><p class="p">Als <span class="gui">Hernoemen</span> grijs is, dan heeft u geen toestemming om het bestand te hernoemen. U dient voorzichtig te zijn met het hernoemen van dergelijke bestanden, aangezien het hernoemen van bepaalde beveiligde bestanden ervoor kan zorgen dat uw systeem instabiel wordt. Zie <span class="link"><a href="nautilus-file-properties-permissions.html" title="Bestandsrechten instellen">Bestandsrechten instellen</a></span> voor meer informatie hierover.</p></dd>
 </dl></div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Common tasks">Common tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

@@ -75,7 +75,12 @@
 <p class="p">Sur la gauche de la vue d'ensemble, vous trouvez le <span class="em">dash</span>. Le dash affiche vos applications préférées et celles en cours d'exécution. Cliquez sur une icône du dash pour lancer cette application. Si l'application est déjà en cours d'exécution, elle est mise en surbrillance. Un clic sur l'icône fait apparaître la fenêtre la plus récemment utilisée. Vous pouvez aussi faire glisser l'icône dans la vue des activités, ou sur n'importe quel espace de travail à droite.</p>
 <p class="p">Un clic droit sur l'icône affiche un menu qui permet de choisir n'importe-quelle fenêtre d'une application en cours d'exécution, ou d'ouvrir une nouvelle fenêtre. Vous pouvez aussi cliquer sur l'icône en maintenant appuyée la touche <span class="key"><kbd>Ctrl</kbd></span> pour ouvrir une nouvelle fenêtre.</p>
 <p class="p">Lorsque vous arrivez dans la vue d'ensemble, vous êtes au départ dans la vue d'ensemble des fenêtres. Un aperçu dynamique de toutes les fenêtres de l'espace de travail actuel est affiché.</p>
-<p class="p">Cliquez sur le bouton grille en bas du dash pour afficher la vue d'ensemble des applications. Ici sont réunies toutes les applications installées sur votre ordinateur. Cliquez sur n'importe quelle application pour la lancer ou déplacez une application vers la vue d'ensemble ou sur un aperçu d'espace de travail. Vous pouvez aussi déplacer une application sur le dash pour qu'elle devienne une application favorite. Vos applications favorites restent dans le dash même si elles ne sont pas en cours d'exécution, vous pouvez ainsi y accéder rapidement.</p>
+<p class="p">Click the grid button at the bottom of the dash to display the
+  applications overview. This shows you all the applications installed on your
+  computer. Click any application to run it, or drag an application to the
+  overview or onto a workspace thumbnail. You can also drag an application onto
+  the dash to make it a favorite. Your favorite applications stay in the dash
+  even when they’re not running, so you can access them quickly.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
 <li class="list"><p class="p"><span class="link"><a href="shell-apps-open.html" title="Lancement d'applications">Approfondissez vos connaissances sur le lancement d'applications.</a></span></p></li>
 <li class="list"><p class="p"><span class="link"><a href="shell-windows.html" title="Fenêtres et espaces de travail">Approfondissez vos connaissances sur les fenêtres et les espaces de travail.</a></span></p></li>
@@ -119,7 +124,11 @@
 <div class="hgroup"><h2 class="title"><span class="title">Verrouillage de l'écran</span></h2></div>
 <div class="region"><div class="contents">
 <div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-lock.png" width="250" class="media media-block" alt="Verrouillage de l'écran"></div></div>
-<p class="p">Lorsque vous verrouillez l'écran, ou qu'il se verrouille automatiquement, l'affichage se transforme. En plus de la protection de votre bureau pendant que vous êtes absent, il affiche la date et l'heure, l'état de la batterie, le statut du réseau et contrôle la lecture des medias.</p>
+<p class="p">When you lock your screen, or it locks automatically, the lock screen is
+  displayed. In addition to protecting your desktop while you’re away from your
+  computer, the lock screen displays the date and time. It also shows
+  information about your battery and network status, and allows you to control
+  media playback.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-lockscreen.html" title="Verrouillage d'écran">En savoir plus sur le verrouillage de l'écran.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></div>

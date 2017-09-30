@@ -60,7 +60,11 @@
 <dd class="terms"><p class="p">È possibile rinominare il file modificando questo campo o rinominandolo al di fuori della finestra delle proprietà. Consultare <span class="link"><a href="files-rename.html" title="Rinominare un file o una cartella">Rinominare un file o una cartella</a></span>.</p></dd>
 <dt class="terms"><span class="gui">Type</span></dt>
 <dd class="terms">
-<p class="p">Consente di identificare il tipo di file (come documento PDF, OpenDocument, immagine JPEG, ecc.). Il tipo di file determina, tra le altre cose, quali applicazioni possono aprirlo. Per esempio, non è possibile aprire un'immagine con un riproduttore audio. Per maggiori informazioni, consultare <span class="link"><a href="files-open.html" title="Aprire file con altre applicazioni">Aprire file con altre applicazioni</a></span>.</p>
+<p class="p">This helps you identify the type of the file, such as PDF document,
+    OpenDocument Text, or JPEG image. The file type determines which
+    applications can open the file, among other things. For example, you
+    can’t open a picture with a music player. See <span class="link"><a href="files-open.html" title="Aprire file con altre applicazioni">Aprire file con altre applicazioni</a></span>
+    for more information on this.</p>
 <p class="p">Il <span class="em">tipo MIME</span> del file è mostrato tra parentesi. Il tipo MIME è un standard che i computer utilizzando per classificare e fare riferimento a un file.</p>
 </dd>
 <dt class="terms">Contenuto</dt>
@@ -72,7 +76,7 @@
 </dd>
 <dt class="terms">Parent Folder</dt>
 <dd class="terms"><p class="p">The location of each file on your computer is given by its <span class="em">absolute
-    path</span>. This is a unique "address" of the file on your computer, made up
+    path</span>. This is a unique “address” of the file on your computer, made up
     of a list of the folders that you would need to go into to find the file.
     For example, if Jim had a file called <span class="file">Resume.pdf</span> in his Home
     folder, its parent folder would be <span class="file">/home/jim</span> and its location

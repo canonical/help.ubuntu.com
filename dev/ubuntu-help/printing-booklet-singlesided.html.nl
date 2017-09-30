@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Print a booklet on a single-sided printer</title>
+<title>Een boek afdrukken met een enkelzijdige printer.</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,10 +43,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="printing.html" title="Afdrukken">Afdrukken</a> › <a class="trail" href="printing.html#paper" title="Verschillende papierformaten en indelingen">Sizes and layouts</a> » <a class="trail" href="printing-booklet.html" title="Print a booklet">Print a booklet</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="printing.html" title="Afdrukken">Afdrukken</a> › <a class="trail" href="printing.html#paper" title="Verschillende papierformaten en indelingen">Formaten en indeling</a> » <a class="trail" href="printing-booklet.html" title="Print a booklet">Print a booklet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Print a booklet on a single-sided printer</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Een boek afdrukken met een enkelzijdige printer.</span></h1></div>
 <div class="region">
 <div class="contents">
 <div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents">
@@ -57,13 +57,13 @@
     number of pages (4, 8, 12, 16,…). You may need to add up to 3 blank
     pages.</p>
 </div></div></div></div>
-<p class="p">To print:</p>
+<p class="p">Om af te drukken:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the print dialog. This can normally be done through
       <span class="gui">Print</span> in the menu or using the
       <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> keyboard shortcut.</p></li>
 <li class="steps">
-<p class="p">Click the <span class="gui">Properties...</span> button </p>
+<p class="p">Click the <span class="gui">Properties…</span> button </p>
 <p class="p">In the <span class="gui">Orientation</span> drop-down list, make sure that
       <span class="gui">Landscape</span> is selected.</p>
 <p class="p">Click <span class="gui">OK</span> to go back to the print dialog.</p>
@@ -72,16 +72,15 @@
 <p class="p">Under <span class="gui">Range and Copies</span>, choose <span class="gui">Pages</span>.</p>
 <p class="p">Type the numbers of the pages in this order (n is the total number of
       pages, and a multiple of 4):</p>
-<p class="p">n, 1, 2, n-1, n-2, 3, 4, n-3, n-4, 5, 6, n-5, n-6, 7, 8, n-7, n-8, 9,
-      10, n-9, n-10, 11, 12, n-11…</p>
-<p class="p">…until you have typed all of the pages.</p>
+<p class="p">n, 1, 2, n-1, n-2, 3, 4, n-3, n-4, 5, 6, n-5, n-6, 7, 8, n-7, n-8, 9, 10, n-9, n-10, 11, 12, n-11…</p>
+<p class="p">…totdat u alle pagina's heeft getypt.</p>
 <div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents">
-<p class="p">Examples:</p>
-<p class="p">4 page booklet: Type <span class="input">4,1,2,3</span></p>
-<p class="p">8 page booklet: Type <span class="input">8,1,2,7,6,3,4,5</span></p>
-<p class="p">12 page booklet: Type <span class="input">12,1,2,11,10,3,4,9,8,5,6,7</span></p>
-<p class="p">16 page booklet: Type <span class="input">16,1,2,15,14,3,4,13,12,5,6,11,10,7,8,9</span></p>
-<p class="p">20 page booklet: Type <span class="input">20,1,2,19,18,3,4,17,16,5,6,15,14,7,8,13,12,9,10,11</span></p>
+<p class="p">Voorbeelden: </p>
+<p class="p">Boek met 4 pagina's: Typ <span class="input">4,1,2,3</span></p>
+<p class="p">Boek met 8 pagina's: Typ <span class="input">8,1,2,7,6,3,4,5</span></p>
+<p class="p">Boek met 12 pagina's: Typ<span class="input">12,1,2,11,10,3,4,9,8,5,6,7</span></p>
+<p class="p">Boek met 16 pagina's: Typ <span class="input">16,1,2,15,14,3,4,13,12,5,6,11,10,7,8,9</span></p>
+<p class="p">Boek met 20 pagina's: Typ<span class="input">20,1,2,19,18,3,4,17,16,5,6,15,14,7,8,13,12,9,10,11</span></p>
 </div></div></div></div>
 </li>
 <li class="steps">
@@ -90,7 +89,7 @@
 <p class="p">Under <span class="gui">Page Sides</span>, in the <span class="gui">Include</span> drop-down list,
       select <span class="gui">Front sides / right pages</span>.</p>
 </li>
-<li class="steps"><p class="p">Click <span class="gui">Print</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Afdrukken</span>.</p></li>
 <li class="steps"><p class="p">When all the pages have printed, flip the pages over and place them
       back in the printer.</p></li>
 <li class="steps"><p class="p">Open the print dialog. This can normally be done through
@@ -101,7 +100,7 @@
 <p class="p">Under <span class="gui">Page Sides</span>, in the <span class="gui">Include</span> drop-down list,
       select <span class="gui">Back sides / left pages</span>.</p>
 </li>
-<li class="steps"><p class="p">Click <span class="gui">Print</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Afdrukken</span>.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">

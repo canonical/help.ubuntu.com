@@ -66,7 +66,7 @@ open it in a new tab. You can also right-click a folder to open it in a new tab
 or new window.</p>
 <p class="p">Ko iščete datoteke v mapi lahko hitro vidite <span class="link"><a href="files-preview.html" title="Predogled datotek in map">predogled datotek</a></span> s pritiskom na preslednico. Tako se lahko prepričate, da boste odprli, kopirali ali izbrisali pravo datoteko.</p>
 <p class="p">The <span class="em">path bar</span> above the list of files and folders shows you which
-folder you're viewing, including the parent folders of the current folder.
+folder you’re viewing, including the parent folders of the current folder.
 Click a parent folder in the path bar to go to that folder. Right-click any
 folder in the path bar to open it in a new tab or window, or access its
 properties.</p>

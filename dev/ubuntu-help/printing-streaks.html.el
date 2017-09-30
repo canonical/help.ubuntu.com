@@ -54,11 +54,15 @@
 <dt class="terms">Ξεθωριασμένο κείμενο ή εικόνες</dt>
 <dd class="terms"><p class="p">Μπορεί να έχει τελειώσει το μελάνι ή ο γραφίτης. Ελέγξετε την τροφοδοσία μελανιού/γραφίτη και αγοράστε μια νέα κεφαλή εάν είναι απαραίτητο.</p></dd>
 <dt class="terms">Ραβδώσεις και γραμμές</dt>
-<dd class="terms"><p class="p">Εάν έχετε έναν εκτυπωτή ψεκασμού μελάνης (inkjet), η κεφαλή εκτύπωσης μπορεί να είναι βρόμικη ή μερικώς φραγμένη. Δοκιμάστε να την καθαρίσετε κοιτώντας το εγχειρίδιο του εκτυπωτή για περισσότερες οδηγίες.</p></dd>
+<dd class="terms"><p class="p">If you have an inkjet printer, the print head may be dirty or
+       partially blocked. Try cleaning the print head. See the printer’s manual
+       for instructions.</p></dd>
 <dt class="terms">Εσφαλμένα χρώματα</dt>
 <dd class="terms"><p class="p">Μπορεί να έχει τελειώσει το μελάνι ή ο γραφίτης του εκτυπωτή. Ελέγξετε την τροφοδοσία μελανιού/γραφίτη και αγοράστε μια νέα κεφαλή εάν είναι απαραίτητο.</p></dd>
 <dt class="terms">Οδοντωτές γραμμές, ή γραμμές που δεν είναι ευθείες</dt>
-<dd class="terms"><p class="p">Εάν οι γραμμές στα αντίτυπα που πρέπει να είναι ευθείες γίνονται οδοντωτές, μπορεί να χρειαστείτε να στοιχίστε την κεφαλή εκτύπωσης. Δείτε το εγχειρίδιο οδηγιών του εκτυπωτή για λεπτομέρειες πώς να το κάνετε αυτό.</p></dd>
+<dd class="terms"><p class="p">If lines on your print-out that should be straight turn out jagged,
+       you may need to align the print head. See the printer’s instruction
+       manual for details on how to do this.</p></dd>
 </dl></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -73,7 +77,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing-inklevel.html" title="Πώς μπορώ να ελέγξω τις στάθμες μελανιού/γραφίτη του εκτυπωτή μου;">Πώς μπορώ να ελέγξω τις στάθμες μελανιού/γραφίτη του εκτυπωτή μου;</a><span class="desc"> — Ελέγξτε την ποσότητα του μελανιού ή γραφίτη που υπάρχει στις κεφαλές του εκτυπωτή.</span>
+<a href="printing-inklevel.html" title="How can I check my printer’s ink or toner levels?">How can I check my printer’s ink or toner levels?</a><span class="desc"> — Ελέγξτε την ποσότητα του μελανιού ή γραφίτη που υπάρχει στις κεφαλές του εκτυπωτή.</span>
 </li></ul></div>
 </div></div>
 </div>

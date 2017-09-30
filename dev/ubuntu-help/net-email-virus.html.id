@@ -59,14 +59,14 @@
 <p class="p">Viruses that can affect computers running Linux are quite rare, so you are
   <span class="link"><a href="net-antivirus.html" title="Apakah saya perlu perangkat lunak anti virus?">unlikely to get a virus through email or
   otherwise</a></span>. If you receive an email with a virus hidden in it, it will
-  probably have no effect on your computer. As such, you probably don't need to
+  probably have no effect on your computer. As such, you probably don’t need to
   scan your email for viruses.</p>
 <p class="p">You may, however, wish to scan your email for viruses in case you happen
   to forward a virus from one person to another. For example, if one of your
   friends has a Windows computer with a virus and sends you a virus-infected
   email, and you then forward that email to another friend with a Windows
   computer, then the second friend might get the virus too. You could install
-  an anti-virus application to scan your emails to prevent this, but it's
+  an anti-virus application to scan your emails to prevent this, but it’s
   unlikely to happen and most people using Windows and Mac OS have anti-virus
   software of their own anyway.</p>
 </div>
@@ -83,18 +83,14 @@
     </span>
 </li>
 <li class="links ">
-<a href="net-security.html" title="Tetap aman di internet">Tetap aman di internet</a><span class="desc"> — 
-      <span class="link"><a href="net-antivirus.html" title="Apakah saya perlu perangkat lunak anti virus?">Antivirus software</a></span>,
-      <span class="link"><a href="net-firewall-on-off.html" title="Aktifkan atau blok akses firewall">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html" title="Port jaringan yang biasa dipakai">firewall ports</a></span>…
-    </span>
+<a href="net-security.html" title="Tetap aman di internet">Tetap aman di internet</a><span class="desc"> — <span class="link"><a href="net-antivirus.html" title="Apakah saya perlu perangkat lunak anti virus?">Perangkat lunak anti virus</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Aktifkan atau blok akses firewall">firewall dasar</a></span>, <span class="link"><a href="net-firewall-ports.html" title="Port jaringan yang biasa dipakai">port firewall</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-antivirus.html" title="Apakah saya perlu perangkat lunak anti virus?">Apakah saya perlu perangkat lunak anti virus?</a><span class="desc"> — There are few Linux viruses, so you probably don't need anti-virus
+<a href="net-antivirus.html" title="Apakah saya perlu perangkat lunak anti virus?">Apakah saya perlu perangkat lunak anti virus?</a><span class="desc"> — There are few Linux viruses, so you probably don’t need anti-virus
     software.</span>
 </li></ul></div>
 </div></div>

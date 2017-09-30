@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Determine which version of GNOME is running</title>
+<title>Bepaal welke versie van Gnome wordt uitgevoerd</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,18 +46,16 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="Tips &amp; trucs">Tips &amp; trucs</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Determine which version of GNOME is running</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Bepaal welke versie van Gnome wordt uitgevoerd</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can determine the version of GNOME that is running on your system by
-  going to the <span class="gui">Details</span> panel in <span class="gui">Settings</span>.</p>
+<p class="p">U kunt bekijken welke versie van Gnome wordt uitgevoerd op uw systeem door naar het <span class="gui">Details</span>-paneel in <span class="gui">Instellingen</span> te gaan.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Details</span>.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Details</span>.</p></li>
 <li class="steps">
-<p class="p">Click on <span class="gui">Details</span> to open the panel.</p>
+<p class="p">Klik op <span class="gui">Details</span> om het paneel te openen.</p>
 <p class="p">A window appears showing information about your system, including your
-      distribution's name and the GNOME version.</p>
+      distribution’s name and the GNOME version.</p>
 </li>
 </ol></div></div></div>
 </div>
@@ -66,7 +64,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips.html" title="Tips &amp; trucs">Tips &amp; trucs</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Speciale tekens invoeren">Special characters</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Middle-click">middle click shortcuts</a></span>…</span>
+<a href="tips.html" title="Tips &amp; trucs">Tips &amp; trucs</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Speciale tekens invoeren">Speciale tekens</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Middelklik">middelmuisklik-sneltoetsen</a></span>...</span>
 </li></ul></div>
 </div></div></div>
 </div>

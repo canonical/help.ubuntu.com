@@ -49,7 +49,10 @@
 <div class="hgroup"><h1 class="title"><span class="title">Создание беспроводной точки доступа</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Компьютер можно использовать как беспроводную точку доступа. Это позволит другим устройствам подключиться к нему без дополнительной отдельной сети, а также даст вам возможность сделать это интернет-подключение общим для другого интерфейса, например в проводной сети или в мобильной сети.</p>
+<p class="p">You can use your computer as a wireless hotspot. This allows other devices
+  to connect to you without a separate network, and allows you to share an
+  internet connection you’ve made with another interface, such as to a wired
+  network or over the cellular network.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#yourname" title="Вы и ваш компьютер">system menu</a></span> from the right
     side of the top bar.</p></li>
@@ -58,10 +61,12 @@
       Wi-Fi Not Connected</span> or the name of the wireless network to which
     you are already connected. The Wi-Fi section of the menu will expand.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Wi-Fi Settings</span>.</p></li>
-<li class="steps"><p class="p">Нажмите кнопку <span class="gui">Сделать точкой доступа…</span>.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Use as Hotspot…</span> button.</p></li>
 <li class="steps"><p class="p">Если какое-то беспроводное подключение уже существует, то система спросит, нужно ли отключиться от этой сети. Один беспроводной адаптер может подключаться только к одной сети или создавать только одну сеть. Для подтверждения нажмите <span class="gui">Включить</span>.</p></li>
 </ol></div></div></div>
-<p class="p">Сетевое имя (SSID) и ключ защиты создаются автоматически. Сетевое имя будет создано на основе имени вашего компьютера. Другим устройствам эта информация может понадобиться для подключения к только что созданной точке доступа.</p>
+<p class="p">A network name (SSID) and security key are automatically generated.
+The network name will be based on the name of your computer. Other devices
+will need this information to connect to the hotspot you’ve just created.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

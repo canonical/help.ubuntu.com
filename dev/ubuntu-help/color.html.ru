@@ -73,7 +73,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Калибровка и профилирование</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-calibrationcharacterization.html" title="В чём разница между калибровкой и профилированием?"><span class="title">В чём разница между калибровкой и профилированием?</span><span class="linkdiv-dash"> — </span><span class="desc">Калибровка и профилирование являются двумя совершенно разными процессами.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrationcharacterization.html" title="What’s the difference between calibration and characterization?"><span class="title">What’s the difference between calibration and characterization?</span><span class="linkdiv-dash"> — </span><span class="desc">Калибровка и профилирование являются двумя совершенно разными процессами.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-why-calibrate.html" title="Зачем выполнять калибровку самостоятельно?"><span class="title">Зачем выполнять калибровку самостоятельно?</span><span class="linkdiv-dash"> — </span><span class="desc">Калибровка важна, если вы заботитесь о точности передачи цветов на экране или при печати.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-calibrate-camera.html" title="Как откалибровать камеру?"><span class="title">Как откалибровать камеру?</span><span class="linkdiv-dash"> — </span><span class="desc">Калибровка камеры важна для точной передачи цветов на снимке.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-calibrate-screen.html" title="Как откалибровать монитор?"><span class="title">Как откалибровать монитор?</span><span class="linkdiv-dash"> — </span><span class="desc">Калибровка дисплея важна для точного отображения цветов.</span></a></div>
@@ -91,12 +91,12 @@
 <div class="hgroup"><h2 class="title"><span class="title">Неполадки</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
+<div class="linkdiv "><a class="linkdiv" href="color-notspecifiededid.html" title="Why don’t the default monitor profiles have a calibration expiry?"><span class="title">Why don’t the default monitor profiles have a calibration expiry?</span><span class="linkdiv-dash"> — </span><span class="desc">Профили, по умолчанию используемые для мониторов, не содержат даты калибровки.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-testing.html" title="Как проверить, правильно ли работает управление цветом?"><span class="title">Как проверить, правильно ли работает управление цветом?</span><span class="linkdiv-dash"> — </span><span class="desc">Используйте идущие в поставке тестовые профили для проверки корректности применения профилей к вашему монитору.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-notifications.html" title="Могу ли я получить уведомление, если мой цветовой профиль станет неточным?"><span class="title">Могу ли я получить уведомление, если мой цветовой профиль станет неточным?</span><span class="linkdiv-dash"> — </span><span class="desc">Да, вы можете получить уведомление, если ваш цветовой профиль устареет и станет неточным.</span></a></div>
 </div>
 <div class="links-twocolumn">
+<div class="linkdiv "><a class="linkdiv" href="color-notifications.html" title="Могу ли я получить уведомление, если мой цветовой профиль станет неточным?"><span class="title">Могу ли я получить уведомление, если мой цветовой профиль станет неточным?</span><span class="linkdiv-dash"> — </span><span class="desc">Да, вы можете получить уведомление, если ваш цветовой профиль устареет и станет неточным.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-missingvcgt.html" title="Отсутствует информация для полноэкранной цветокоррекции?"><span class="title">Отсутствует информация для полноэкранной цветокоррекции?</span><span class="linkdiv-dash"> — </span><span class="desc">Полноэкранная цветокоррекция изменяет все цвета монитора во всех окнах.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-notspecifiededid.html" title="Почему для профиля, по умолчанию используемого для монитора, не указывается срок его действия?"><span class="title">Почему для профиля, по умолчанию используемого для монитора, не указывается срок его действия?</span><span class="linkdiv-dash"> — </span><span class="desc">Профили, по умолчанию используемые для мониторов, не содержат даты калибровки.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>

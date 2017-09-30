@@ -43,28 +43,24 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="printing.html" title="Afdrukken">Afdrukken</a> › <a class="trail" href="printing.html#paper" title="Verschillende papierformaten en indelingen">Sizes and layouts</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="printing.html" title="Afdrukken">Afdrukken</a> › <a class="trail" href="printing.html#paper" title="Verschillende papierformaten en indelingen">Formaten en indeling</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Tweezijdig afdrukken en multipagina-opmaak</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">To print on both sides of each sheet of paper:</p>
+<p class="p">Om beide kanten van het papier af te drukken:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the print dialog by pressing
       <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
 <li class="steps">
-<p class="p">Go to the <span class="gui">Page Setup</span> tab of the Print window and choose an
-      option from the <span class="gui">Two-sided</span> drop-down list. If the option is
-      disabled, two-sided printing is not available for your printer.</p>
+<p class="p">Ga naar het tabblad <span class="gui">Papierinstellingen</span> in het venster Afdrukken en maak een keuze uit de keuzelijst <span class="gui">Tweezijdig</span>. Als de optie niet beschikbaar is, dan is tweezijdig afdrukken niet mogelijk voor uw printer.</p>
 <p class="p">Printers handle two-sided printing in different ways. It is a good
       idea to experiment with your printer to see how it works.</p>
 </li>
 <li class="steps"><p class="p">U kunt ook meer dan één pagina van het document per <span class="em">bladzijde</span> afdrukken. Gebruik de optie <span class="gui">Pagina's per bladzijde</span>  om dit te doen.</p></li>
 </ol></div></div></div>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">The availability of these options may depend on the type of printer you
-    have, as well as the application you are using. This option may not always
-    be available.</p></div></div></div></div>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">De beschikbaarheid van deze opties hangt af van het type printer dat u heeft en van de toepassing die u gebruikt. Deze optie is mogelijk niet altijd beschikbaar.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

@@ -50,7 +50,10 @@
 <div class="region">
 <div class="contents">
 <p class="p">Файл или папку можно скопировать или переместить в другое место, перетаскивая их мышью, используя команды копирования и вставки, или с помощью комбинаций клавиш.</p>
-<p class="p">Например, можно скопировать презентацию на флэш-носитель, чтобы взять её с собой на работу, или сделать резервную копию документа перед внесением в него изменений (а затем использовать старую копию, если изменения не понравились).</p>
+<p class="p">For example, you might want to copy a presentation onto a memory stick so
+ you can take it to work with you. Or, you could make a back-up copy of a
+ document before you make changes to it (and then use the old copy if you don’t
+ like your changes).</p>
 <p class="p">Эти инструкции применимы как к файлам, так и к папкам. Копирование и перемещение файлов и папок выполняется одинаково.</p>
 <div class="steps ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
@@ -91,7 +94,8 @@
 <li class="steps"><p class="p">Нажмите <span class="gui">Nautilus</span> в верхней панели и выберите <span class="gui">Создать окно</span> (или нажмите <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>N</kbd></span></span>), чтобы открыть новое окно. В новом окне перейдите в папку, в которую нужно переместить или скопировать файл.</p></li>
 <li class="steps">
 <p class="p">Нажмите на файл и перетащите его из одного окна в другое. Файл будет <span class="em">перемещён</span>, если целевая папка находится на <span class="em">том же</span> устройстве, и <span class="em">скопирован</span>, если целевая папка находится на <span class="em">другом</span> устройстве.</p>
-<p class="p">Например, при перетаскивании файла с USB-носителя в домашнюю папку он будет скопирован, так как вы перетаскиваете его с одного устройства на другое.</p>
+<p class="p">For example, if you drag a file from a USB memory stick to your Home folder,
+ it will be copied, because you’re dragging from one device to another.</p>
 <p class="p">Для принудительного копирования файла удерживайте при его перетаскивании нажатой клавишу <span class="key"><kbd>Ctrl</kbd></span>, а для принудительного перемещения — клавишу <span class="key"><kbd>Shift</kbd></span>.</p>
 </li>
 </ol></div>

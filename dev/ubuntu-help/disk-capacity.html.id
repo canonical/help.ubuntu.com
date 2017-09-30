@@ -74,7 +74,9 @@
 <p class="p">Untuk memeriksa ruang disk bebas dan kapasitas disk dengan <span class="app">Pemantau Sistem</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka aplikasi <span class="app">Pantau Sistem</span> dari ringkasan <span class="gui">Aktivitas</span>.</p></li>
-<li class="steps"><p class="p">Pilih tab <span class="gui">Sistem Berkas</span> untuk melihat partisi sistem dan pemakaian ruang disk. Informasi ditampilkan menurut <span class="gui">Total</span>, <span class="gui">Bebas</span>, <span class="gui">Tersedia</span>, dan <span class="gui">Terpakai</span>.</p></li>
+<li class="steps"><p class="p">Select the <span class="gui">File Systems</span> tab to view the system’s partitions and
+  disk space usage.  The information is displayed according to <span class="gui">Total</span>,
+  <span class="gui">Free</span>, <span class="gui">Available</span> and <span class="gui">Used</span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -83,8 +85,9 @@
 <div class="region"><div class="contents">
 <p class="p">Bila disk terlalu penuh Anda mesti:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Hapus berkas yang tak penting atau yang tak akan Anda pakai lagi.</p></li>
-<li class="list"><p class="p">Buat <span class="link"><a href="backup-why.html" title="Backup berkas-berkas penting Anda">cadangan</a></span> dari berkas-berkas penting yang tidak akan Anda perlukan untuk sementara dan hapuslah mereka dari hard drive.</p></li>
+<li class="list"><p class="p">Delete files that aren’t important or that you won’t use anymore.</p></li>
+<li class="list"><p class="p">Make <span class="link"><a href="backup-why.html" title="Backup berkas-berkas penting Anda">backups</a></span> of the important files that
+   you won’t need for a while and delete them from the hard drive.</p></li>
 </ul></div></div></div>
 </div></div>
 </div></div>

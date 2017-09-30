@@ -51,33 +51,21 @@
 <div class="contents">
 <p class="p">Antes de poder usar un dispositivo Bluetooth como un rato ou uns auriculares, primeiro terá que conectalos ao equipo. A isto denomínaselle <span class="em">emparellar</span> dispositivos Bluetooth.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Actividades</a></span> e comece a escribir <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Prema <span class="gui">Bluetooth</span> no lateral dereito.</p></li>
-<li class="steps"><p class="p">Make sure Bluetooth is enabled: the switch at the top should be set to
-      <span class="gui">ON</span>. With the panel open and the switch <span class="gui">ON</span>, your
-      computer will begin searching for devices.</p></li>
-<li class="steps"><p class="p">Make the other Bluetooth device
-      <span class="link"><a href="bluetooth-visibility.html" title="Que é a visibilidade de Bluetooth?">discoverable or visible</a></span> and
-      place it within 5-10 meters (about 16-33 feet) of your computer.</p></li>
-<li class="steps"><p class="p">Click the device in the <span class="gui">Devices</span> list. The panel for the
-      device will open.</p></li>
+<li class="steps"><p class="p">Asegúrese que Bluetooth está activado: o trocador da parte superior debería estar a <span class="gui">I</span>. Co panel aberto e o tracador a <span class="gui">I</span>, o seu computador comezará a buscar dispositivos.</p></li>
+<li class="steps"><p class="p">Faga que o outro dispositivo Bluetooth <span class="link"><a href="bluetooth-visibility.html" title="Que é a visibilidade de Bluetooth?">se poida descubrir ou que sexa visíbel</a></span> e colóqueo a menos de 5-10 metros (menos de 16-33 pes) de seu computador.</p></li>
+<li class="steps"><p class="p">Prema no dispositivo desde a lista de <span class="gui">Dispositivos</span>. O panel para o dispositivo abrirase.</p></li>
 <li class="steps">
-<p class="p">If required, confirm the PIN on your other device. The device should
-      show you the PIN you see on your computer screen. Confirm the PIN on the
-      device (you may need to click <span class="gui">Pair</span> or <span class="gui">Confirm</span>),
-      then click <span class="gui">Confirm</span> on the computer.</p>
+<p class="p">Se é necesario, confirme o PIN no outro dispositivo. Agora, o dispositivo debería mostrarlle o PIN que ve na pantalla do seu equipo Confirme o PIN no dispositivo (pode ter que premer <span class="gui">Emparellar</span> ou <span class="gui">Confirmar</span>), e logo <span class="gui">Confirmar</span> no seu computador.</p>
 <p class="p">Na maioría dos dispositivos, deberá completar a entrada en menos de 20 segundos, ou a conexión non se completará. Se parasa isto, volva á lista de dispositivos e comece de novo.</p>
 </li>
 <li class="steps"><p class="p">A entrada para o dispositivo na lista de <span class="gui">Dispositivos</span> mostrará o estado <span class="gui">Conectado</span>.</p></li>
-<li class="steps"><p class="p">To edit the device, click on it in the <span class="gui">Device</span> list. You
-      will see a panel specific to the device. It may display additional
-      options applicable to the type of device to which you are connecting.</p></li>
+<li class="steps"><p class="p">Para editar o dispitivo, prema sobre el desde a lista de <span class="gui">Dispositivos</span>. Verá un panel específico para o dispositivo. Podería mostrar opcións adicionais aplicábeis ao tipo de dispositivo ao que está conectado.</p></li>
 <li class="steps"><p class="p">Peche o panel en canto cambie as configuracións.</p></li>
 </ol></div></div></div>
 <div class="media media-image floatend"><div class="inner"><img src="figures/bluetooth-menu.png" class="media media-block" alt="A icona de Bluetooth na barra superior"></div></div>
-<p class="p">When one or more Bluetooth devices are connected, the Bluetooth icon
-  appears in the system status area.</p>
+<p class="p">Cando un ou varios dispositivos Bluetooth están conectados, a icona de Bluetooth aparecerá no área de estado do sistema.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

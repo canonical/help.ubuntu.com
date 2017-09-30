@@ -70,7 +70,12 @@
       <span class="gui">Rename…</span>.</p></li>
 <li class="steps">
 <p class="p">V besedilnem polju <span class="gui">Ime</span> vpišite novo ime zaznamka.</p>
-<div class="note" title="Opomba"><div class="inner"><div class="region"><div class="contents"><p class="p">Preimenovanje zaznamka mape ne preimenuje. V primeru da imate zaznamke do dveh različnih map na dveh različnih mestih, ki imata enako ime, bosta zaznamka imela enako ime in ju ne boste mogli ločiti. V tem primeru je zaznamku uporabno dati ime, ki se razlikuje od imena mape do katere kaže.</p></div></div></div></div>
+<div class="note" title="Opomba"><div class="inner"><div class="region"><div class="contents"><p class="p">Renaming a bookmark does not rename the folder. If you have
+        bookmarks to two different folders in two different locations, but
+        which each have the same name, the bookmarks will have the same name,
+        and you won’t be able to tell them apart. In these cases, it is useful
+        to give a bookmark a name other than the name of the folder it points
+        to.</p></div></div></div></div>
 </li>
 </ol></div>
 </div></div>

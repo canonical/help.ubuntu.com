@@ -55,7 +55,13 @@
 <div class="contents">
 <p class="p">Paras tapa hankkia profiileja on luoda ne itse, vaikkakin tämä tarkoittaa aluksi jonkin verran kustannuksia.</p>
 <p class="p">Monet laitevalmistajat yrittävät tarjota väriprofiileja laitteille, vaikkakin jotkin niistä on laitettu <span class="em">ajuripakettien</span> sekaan joista väriprofiilien irrottaminen voi vaatia hieman vaivannäköä.</p>
-<p class="p">Jotkin laitevalmistajat eivät tarjoa tarkkoja profiileja laitteilleen, jolloin profiilit ovat syytä jättää käyttämättä. Hyvä tarkistus on noutaa profiili, ja jos profiilin luontipäivämäärä on yli vuoden aiempi kuin laitteesi ostopäivämäärä, profiili on tällöin luultavasti itsestään luotua, hyödytöntä valedataa.</p>
+<p class="p">
+    Some manufacturers do not provide accurate profiles for the hardware
+    and the profiles are best avoided.
+    A good clue is to download the profile, and if the creation date is
+    more than a year before the date you bought the device then it’s
+    likely dummy data generated that is useless.
+  </p>
 <p class="p">Lue <span class="link"><a href="color-why-calibrate.html" title="Miksi minun pitää tehdä kalibrointi itse?">Miksi minun pitää tehdä kalibrointi itse?</a></span> ymmärtääksesi, minkä vuoksi valmistajien tarjoamat profiilit ovat yleensä täysin hyödyttömiä.</p>
 </div>
 <div class="sect sect-links" role="navigation">

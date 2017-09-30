@@ -50,9 +50,9 @@
 <div class="region">
 <div class="contents">
 <p class="p">GNOME poskytuje čtečku obrazovky <span class="app">Orca</span>, která umí říkat, co je na obrazovce v uživatelském rozhraní. V závislosti na tom, jak máte nainstalováno GNOME, můžete mít čtečku Orca nainstalovanou. Pokud ne, musíte ji nejprve nainstalovat.</p>
-<p class="p">To start <span class="app">Orca</span> using the keyboard:</p>
-<div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps"><p class="p">Press <span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>S</kbd></span>.</p></li></ol></div></div></div>
-<p class="p">Or to start <span class="app">Orca</span> using a mouse and keyboard:</p>
+<p class="p">Pro spuštění čtečky <span class="app">Orca</span> pomocí klávesnice:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps"><p class="p">Zmáčkněte <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>S</kbd></span></span>.</p></li></ol></div></div></div>
+<p class="p">Nebo pro spuštění čtečky <span class="app">Orca</span> pomocí myši a klávesnice:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Univerzální přístup</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Univerzální přístup</span> otevřete příslušný panel.</p></li>

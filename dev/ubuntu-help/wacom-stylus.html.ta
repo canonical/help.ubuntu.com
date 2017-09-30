@@ -54,20 +54,23 @@
     start typing <span class="gui">Wacom Tablet</span>.</p></li>
 <li class="steps">
 <p class="p">Click on <span class="gui">Wacom Tablet</span> to open the panel.</p>
-<div class="note note-tip" title="துணுக்கு"><div class="inner"><div class="region"><div class="contents"><p class="p">If no tablet is detected, you'll be asked to
+<div class="note note-tip" title="துணுக்கு"><div class="inner"><div class="region"><div class="contents"><p class="p">If no tablet is detected, you’ll be asked to
     <span class="gui">Please plug in or turn on your Wacom tablet</span>. Click the
     <span class="gui">Bluetooth Settings</span> link to connect a wireless tablet.</p></div></div></div></div>
 </li>
 <li class="steps">
 <p class="p">பலகத்தின் கீழ்ப் பகுதியில், ஸ்டைலஸ் தொடர்பான விவரங்களும் அமைவுகளும் உள்ளன, அதில் இடப்புறம் சாதனப் பெயரும் (ஸ்டைலஸ் வகை) படமும் இருக்கும். இந்த அமைவுகளையும் மாற்ற முடியும்:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="gui">அழிப்பான் அழுத்த உணர்வு:</span> ஸ்லைடரைப் பயன்படுத்தி "உணர்வு" (அதாவது உண்மையான அழுத்தம் எப்படி டிஜிட்டல் மதிப்புகளாக மாற்றப்படுகிறது) என்பதை <span class="gui">மென்மை</span> மற்றும் <span class="gui">உறுதி</span> என்பவற்றில் ஒன்றுக்கு அமைக்கலாம்.</p></li>
+<li class="list"><p class="p"><span class="gui">Eraser Pressure Feel:</span> use the slider to adjust the
+       “feel” (how physical pressure is translated to digital values) between
+       <span class="gui">Soft</span> and <span class="gui">Firm</span>.</p></li>
 <li class="list"><p class="p"><span class="gui">Button/Scroll Wheel</span> configuration (these change to
        reflect the stylus). Click the menu next to each label to select one of
        these functions: No Action, Left Mouse Button Click, Middle Mouse Button
        Click, Right Mouse Button Click, Scroll Up, Scroll Down, Scroll Left,
        Scroll Right, Back, or Forward.</p></li>
-<li class="list"><p class="p"><span class="gui">முனை அழுத்த உணர்வு:</span> "உணர்வு" என்பதை <span class="gui">மென்மை</span> மற்றும் <span class="gui">உறுதி</span> என்பவற்றில் ஒன்றுக்கு அமைக்க இந்த ஸ்லைடரைப் பயன்படுத்தவும்.</p></li>
+<li class="list"><p class="p"><span class="gui">Tip Pressure Feel:</span> use the slider to adjust the
+       “feel” between <span class="gui">Soft</span> and <span class="gui">Firm</span>.</p></li>
 </ul></div></div></div>
 </li>
 </ol></div></div></div>

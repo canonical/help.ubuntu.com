@@ -52,7 +52,10 @@
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">La souris ne fonctionne qu'après un certain délai</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">Les souris optiques et sans fil, et aussi les pavés tactiles des portables, doivent parfois être « réveillés » avant de pouvoir fonctionner.Ils se mettent automatiquement en veille lorsqu'ils ne sont pas utilisés afin d'économiser la batterie. Pour réveiller une souris ou un pavé tactile, il suffit de cliquer sur un bouton de la souris ou de remuer la souris.</p></div>
+<div class="contents"><p class="p">Wireless and optical mice, as well as touchpads on laptops, may need to
+  “wake up” before they start working. They automatically go to sleep when not in
+  use to save battery power. To wake up your mouse or touchpad, you can click on
+  a mouse button or wiggle the mouse.</p></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">

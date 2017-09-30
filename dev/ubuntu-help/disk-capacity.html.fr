@@ -66,7 +66,9 @@
 <p class="p">Pour vérifier l'espace libre et la capacité du disque avec le <span class="app">moniteur système</span> :</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">ouvrez l'application <span class="app">Moniteur système</span> en utilisant la vue d'ensemble des <span class="gui">Activités</span>,</p></li>
-<li class="steps"><p class="p">cliquez sur l'onglet <span class="gui">Systèmes de fichiers</span> pour afficher les partitions du système et l'utilisation de l'espace disque. Les informations affichées concernent l'espace <span class="gui">Total</span>, <span class="gui">Libre</span>, <span class="gui">Disponible</span> et <span class="gui">Utilisé</span>.</p></li>
+<li class="steps"><p class="p">Select the <span class="gui">File Systems</span> tab to view the system’s partitions and
+  disk space usage.  The information is displayed according to <span class="gui">Total</span>,
+  <span class="gui">Free</span>, <span class="gui">Available</span> and <span class="gui">Used</span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -75,8 +77,9 @@
 <div class="region"><div class="contents">
 <p class="p">Si le disque est trop plein, il faut :</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">effacer les fichiers qui ne sont pas importants ou que vous n'utiliserez plus,</p></li>
-<li class="list"><p class="p">faire une <span class="link"><a href="backup-why.html" title="Sauvegarde de vos fichiers importants">sauvegarde</a></span> des fichiers importants que vous ne prévoyez pas d'utiliser avant un bon moment et les effacer du disque dur.</p></li>
+<li class="list"><p class="p">Delete files that aren’t important or that you won’t use anymore.</p></li>
+<li class="list"><p class="p">Make <span class="link"><a href="backup-why.html" title="Sauvegarde de vos fichiers importants">backups</a></span> of the important files that
+   you won’t need for a while and delete them from the hard drive.</p></li>
 </ul></div></div></div>
 </div></div>
 </div></div>

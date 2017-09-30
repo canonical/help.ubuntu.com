@@ -50,7 +50,9 @@
 <div class="region">
 <div class="contents">
 <p class="p">L'ordinador reproduirà una alerta sonora quan succeeixin certs tipus de missatges i esdeveniments. Si teniu problemes per sentir-los, podeu fer que, o bé tota la pantalla o bé la finestra actual, parpellegi perquè us adoneu visualment de què s'ha reproduït un so.</p>
-<p class="p">Això també pot resultar útil quan esteu en un entorn on l'ordinador ha de ser silenciós, com per exemple una biblioteca. Vegeu les <span class="link"><a href="sound-alert.html" title="Choose or disable the alert sound">Alertes sonores</a></span> per aprendre com silenciar-les i activar els avisos visuals.</p>
+<p class="p">This can also be useful if you’re in an environment where you need your
+  computer to be silent, such as in a library. See <span class="link"><a href="sound-alert.html" title="Choose or disable the alert sound">Choose or disable the alert sound</a></span>
+  to learn how to mute the alert sound, then enable visual alerts.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p></li>

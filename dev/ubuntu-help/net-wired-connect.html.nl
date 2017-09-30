@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Connect to a wired (Ethernet) network</title>
+<title>Verbinden met een bekabeld (Ethernet) netwerk</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,10 +43,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wired.html" title="Wired Networking">Wired Networking</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wired.html" title="Bekabeld netwerk">Bekabeld netwerk</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Connect to a wired (Ethernet) network</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Verbinden met een bekabeld (Ethernet) netwerk</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">To set up most wired network connections, all you need to do is plug in a
@@ -54,29 +54,19 @@
   (<span class="media"><span class="media media-image"><img src="figures/network-wired-symbolic.svg" class="media media-inline" alt="settings"></span></span>) is displayed
   on the top bar with three dots while the connection is being established. The
   dots disappear when you are connected.</p>
-<p class="p">If this does not happen, you should first of all make sure that your
-  network cable is plugged in. One end of the cable should be plugged into the
-  rectangular Ethernet (network) port on your computer, and the other end
-  should be plugged into a switch, router, network wall socket or similar
-  (depending on the network setup you have). Sometimes, a light beside the
-  Ethernet port will indicate that it is plugged in and active.</p>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">You can't plug one computer directly into another one with a network
+<p class="p">Als dit niet gebeurt, dient u eerst te controleren of de netwerkkabel aangesloten is. De ene kant van de kabel moet aangesloten zijn op de rechthoekige Ethernet(netwerk)-poort van uw computer, en de ander kant moet in een switch, router, muurstopcontact of iets dergelijks zitten (afhankelijk van de netwerkconfiguratie die u heeft). Soms zal er een lichtje naast de Ethernet-poort gaan branden om aan te geven dat deze aangesloten en actief is.</p>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">You can’t plug one computer directly into another one with a network
     cable (at least, not without some extra setting-up). To connect two
     computers, you should plug them both into a network hub, router or
     switch.</p></div></div></div></div>
-<p class="p">If you are still not connected, your network may not support automatic
-  setup (DHCP). In this case you will have to <span class="link"><a href="net-manual.html" title="Manually set network settings">configure
-  it manually</a></span>.</p>
+<p class="p">Als u nog geen verbinding heeft, dan kan het zijn dat uw netwerk geen automatische set-up (DHCP) ondersteunt. In dat geval moet u het <span class="link"><a href="net-manual.html" title="Netwerkinstellingen handmatig instellen">handmatig configureren</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wired.html" title="Wired Networking">Wired Networking</a><span class="desc"> — 
-      <span class="link"><a href="net-wired-connect.html" title="Connect to a wired (Ethernet) network">Wired internet connections</a></span>,
-      <span class="link"><a href="net-fixed-ip-address.html" title="Create a connection with a fixed IP address">Fixed IP addresses</a></span>…
-    </span>
+<a href="net-wired.html" title="Bekabeld netwerk">Bekabeld netwerk</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html" title="Verbinden met een bekabeld (Ethernet) netwerk">Bekabelde internetverbindingen</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Een verbinding met een vast IP-adres aanmaken">Vaste IP-adressen</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

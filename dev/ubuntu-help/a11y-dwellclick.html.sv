@@ -55,7 +55,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Simulera klick genom att sväva ovanför</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Du kan klicka eller dra genom att hålla musmarkören stilla över en kontroll eller ett objekt på skärmen. Detta är användbart om du tycker att det är svårt att flytta musen och klicka på samma gång. Denna funktionen heter <span class="gui">Uppehållsklick</span> eller svävningsklick.</p>
+<p class="p">Du kan klicka eller dra genom att hålla musmarkören stilla över en kontroll eller ett objekt på skärmen. Detta är användbart om du tycker att det är svårt att flytta musen och klicka på samma gång. Denna funktion heter <span class="gui">Uppehållsklick</span> eller svävningsklick.</p>
 <p class="p">När <span class="gui">Uppehållsklick</span> är aktiverat så kan du flytta din musmarkör över en kontroll, släppa musen, och sedan vänta en stund innan knappen klickas på åt dig.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öppna <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Hjälpmedel</span>.</p></li>

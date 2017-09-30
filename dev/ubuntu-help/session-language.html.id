@@ -52,20 +52,20 @@
 <p class="p">You can use your desktop and applications in any of dozens of languages,
   provided you have the proper language packs installed on your computer.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Activities</a></span> overview and
       start typing <span class="gui">Region &amp; Language</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Wilayah &amp; Bahasa</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Klik <span class="gui">Bahasa</span>.</p></li>
 <li class="steps"><p class="p">Select your desired region and language. If your region and language
       are not listed, click
-      <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="..."></span></span></span>
+      <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="…"></span></span></span>
       at the bottom of the list to select from all available regions and
       languages.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Done</span> to save.</p></li>
+<li class="steps"><p class="p">Tekan <span class="gui">Selesai</span> untuk menyimpan.</p></li>
 <li class="steps"><p class="p">Respond to the prompt, <span class="gui">Your session needs to be restarted for
       changes to take effect</span> by clicking
       <span class="gui">Restart Now</span>, or click
-      <span class="gui">X</span> to restart later.</p></li>
+      <span class="gui">×</span> to restart later.</p></li>
 </ol></div></div></div>
 <p class="p">Some translations may be incomplete, and certain applications may not
   support your language at all. Any untranslated text will appear in the

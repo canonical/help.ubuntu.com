@@ -2,9 +2,7 @@
 <html lang=es>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>
-    Install additional applications
-  </title>
+<title>Instalar aplicaciones adicionales</title>
 <link rel="stylesheet" type="text/css" href="es.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -45,53 +43,25 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Install &amp; remove software">Añadir/eliminar software</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Instalar y eliminar software">Añadir/eliminar software</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">
-    Install additional applications
-  </span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Instalar aplicaciones adicionales</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    An application is software that has a graphical user interface (GUI).
-    The Ubuntu development team has chosen a default set of applications that we 
-    think makes Ubuntu very useful for most day-to-day tasks. However, you will 
-    certainly want to install more applications to make Ubuntu more useful to you.
-    To install an application, you can use <span class="app">Ubuntu Software</span>.
-   </p>
-<p class="p">
-    Applications are available in two formats: snap packages and Debian packages.
-    An application available as a snap package is from now on referred to as a <span class="em">snap</span>.
-    In order to install (or remove) a snap you have to log on to the Snap Store/Ubuntu One. Some 
-    applications are available in both formats. In such a case in <span class="app">Ubuntu Software</span> the snap will be
-    listed first.
-   </p>
-<p class="p">
-    You may also wish to install software that does not have a GUI. To install
-    such software, you can use <span class="link"><a href="addremove-install-synaptic.html" title="Use Synaptic para una gestión de software más avanzada">Synaptic</a></span>.
-    Note that <span class="app">Synaptic</span> does not list snaps.
-  </p>
-<p class="p">
-    To install an application:
-  </p>
+<p class="p">Una aplicación es un software que dispone de una interfaz gráfica de usuario (IGU). El equipo de desarrollo de ubuntu ha elegido un conjunto de aplicaciones predeterminadas que pensamos que pueden hacer a Ubuntu muy útil para la mayoría de las tareas diarias. Sin embargo, muy probablemente deseará instalar más aplicaciones para hacer a Ubuntu todavía más útil para usted. Para instalar una aplicación, puede usar <span class="app">Ubuntu Software</span>.La</p>
+<p class="p">Las aplicaciones están disponibles en dos formatos: paquetes snap y paquetes Deybina. Nos referiremos a partir de ahora a las aplicaciones disponibles como paquetes snap como <span class="em">snap</span>. Para instalar (o eliminar) un snap tiene que iniciar sesión en el Snap Store/Ubuntu One. Algunas aplicaciones están disponibles en ambos formatos. En tal caso el snap aparecerá primero en <span class="app">Ubuntu Software</span>.</p>
+<p class="p">Es posible que también desee instalar software que no tiene una IGU. Para instalar este tipo de software puede usar <span class="link"><a href="addremove-install-synaptic.html" title="Use Synaptic para una gestión de software más avanzada">Synaptic</a></span>. Tenga en cuenta que <span class="app">Synaptic</span> no muestra snaps.</p>
+<p class="p">Para instalar una aplicación:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Haga clic en el icono de <span class="app">Software de Ubuntu</span> en el <span class="gui">Lanzador</span> o busque <span class="input">Software</span> en la barra de búsqueda del <span class="gui">Tablero</span>.</p></li>
+<li class="steps"><p class="p">
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">Cuando se abra <span class="app">Software de Ubuntu</span> busque una aplicación o seleccione una categoría y elija una aplicación de la lista.</p></li>
-<li class="steps"><p class="p">
-        Select the application that you want to install and click 
-        <span class="gui">Install</span>.
-      </p></li>
-<li class="steps"><p class="p">
-        If you're installing a snap, log on to the Snap Store/Ubuntu One.
-      </p></li>
-<li class="steps"><p class="p">
-        You will be asked to authenticate by entering your password
-        (that is, your user password, not your Snap Store/Ubuntu One password). 
-        Once you have done that the installation will begin. 
-        The installation usually finishes quickly, but could take a while if you 
-        have a slow Internet connection.
-      </p></li>
+<li class="steps"><p class="p">Seleccione la aplicación que desea instalar y pulse <span class="gui">Instalar</span>.</p></li>
+<li class="steps"><p class="p">Si está instalando un snap, inicie sesión en Snap Store/Ubuntu One.</p></li>
+<li class="steps"><p class="p">Se le pedirá que se identifique introduciendo su contraseña (su contraseña de usuario, no su contraseña de Snap Store/Ubuntu One). Una vez que lo haya hecho comenzará la instalación. La instalación normalmente tarda poco en completarse, pero podría tardar cierto tiempo si tiene una conexión a internet lenta.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -100,20 +70,14 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html" title="Desinstalar una aplicación">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html" title="Add software repositories">add repositories</a></span>…
-    </span>
+<a href="addremove.html" title="Instalar y eliminar software">Instalar y eliminar software</a><span class="desc"> — <span class="link"><a href="addremove-install.html" title="Instalar aplicaciones adicionales">Instalar aplicaciones</a></span>, <span class="link"><a href="addremove-remove.html" title="Desinstalar una aplicación">desinstalar aplicaciones</a></span>, <span class="link"><a href="addremove-sources.html" title="Añadir repositorios de software">añadir repositorios</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-remove.html" title="Desinstalar una aplicación">Desinstalar una aplicación</a><span class="desc"> — 
-      Remove applications that you no longer use.
-    </span>
+<a href="addremove-remove.html" title="Desinstalar una aplicación">Desinstalar una aplicación</a><span class="desc"> — Eliminar aplicaciones que ya no usa.</span>
 </li>
 <li class="links ">
 <a href="prefs-language-install.html" title="Instalar idiomas">Instalar idiomas</a><span class="desc"> — Instalar más traducciones y paquetes relacionados con idiomas.</span>

@@ -57,21 +57,14 @@
 <div class="contents">
 <p class="p">Anda dapat mengklik kanan dengan menahan tombol kiri tetikus. Ini berguna bila Anda mengalami kesulitan untuk memindahkan jari-jari Anda secara individual pada satu tangan, atau bila perangkat penunjuk Anda hanya memiliki satu tombol.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span> overview and
-      start typing <span class="gui">Universal Access</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akses Universal</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Akses Universal</span> untuk membuka panel.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Click Assist</span> in the <span class="gui">Pointing &amp; Clicking</span>
-      section.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Simulated Secondary Click</span> to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Tekan <span class="gui">Bantu Klik</span> dalam seksi <span class="gui">Menunjuk &amp; Mengklik</span>.</p></li>
+<li class="steps"><p class="p">Nyalakan <span class="gui">Klik Sekunder Tersimulasi</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Anda dapat mengubah berapa lama Anda mesti menahan tombol kiri tetikus sebelum dianggap sebagai klik kanan dengan mengubah <span class="gui">Tundaan penerimaan</span>.</p>
-<p class="p">To right-click with simulated secondary click, hold down the left mouse
-  button where you would normally right-click, then release. The pointer fills
-  with a different color as you hold down the left mouse button. Once it will
-  change this color entirely, release the mouse button to right-click.</p>
-<p class="p">Some special pointers, such as the resize pointers, do not change colors.
-  You can still use simulated secondary click as normal, even if you do not get
-  visual feedback from the pointer.</p>
+<p class="p">Untuk klik kanan dengan klik sekunder tersimulasi, tahan tombol kiri tetikus dimana Anda biasanya melakukan klik kanan, lalu lepaskan. Penunjuk akan diisi warna berbeda ketika Anda menahan tombol kiri tetikus. Setelah warna sepenuhnya berubah, lepaskan tombol tetikus untuk klik kanan.</p>
+<p class="p">Beberapa penunjuk khusus, seperti penunjuk ubah ukuran, tak berubah warna. Anda masih dapat memakai klik sekunder tersimulasi seperti normal, bahkan ketika Anda tak mendapat umpan balik visual dari penunjuk.</p>
 <p class="p">Bila Anda memakai <span class="link"><a href="mouse-mousekeys.html" title="Klik dan gerakkan penunjuk tetikus memakai keypad">Tombol Tetikus</a></span>, ini juga mengijinkan Anda klik kanan dengan menahan tombol <span class="key"><kbd>5</kbd></span> pada keypad Anda.</p>
 <div class="note" title="Catatan"><div class="inner"><div class="region"><div class="contents"><p class="p">Dalam ringkasan <span class="gui">Aktivitas</span>, Anda selalu dapat melakukan tekanan panjang untuk klik kanan, bahkan bila ketika fitur ini dinonaktifkan. Tekanan panjang bekerja sedikit berbeda dalam ringkasan: Anda tak perlu melepas tombol untuk klik kanan.</p></div></div></div></div>
 </div>

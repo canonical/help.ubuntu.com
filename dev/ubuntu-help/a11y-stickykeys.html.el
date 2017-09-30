@@ -73,7 +73,11 @@
 <p class="p">Εάν πατήσετε δύο πλήκτρα μονομιάς, μπορείτε να έχετε τα κολλώδη πλήκτρα να απενεργοποιούνται από μόνα τους προσωρινά για να σας επιτρέψουν να εισάγετε μια συντόμευση πληκτρολογίου με τον κανονικό τρόπο.</p>
 <p class="p">Για παράδειγμα, εάν έχετε τα κολλώδη πλήκτρα ενεργά αλλά πατήσατε ταυτόχρονα <span class="key"><kbd>Λογότυπο</kbd></span> και <span class="key"><kbd>Tab</kbd></span>, τα κολλώδη πλήκτρα δεν θα περιμένουν να πατήσετε ένα άλλο πλήκτρο αν είχατε αυτήν την επιλογή ενεργή. <span class="em">Μπορεί</span> να περιμένει μόνο εάν πατήσατε ένα πλήκτρο, όμως. Αυτό είναι χρήσιμο εάν μπορείτε να πατήσετε κάποιες συντομεύσεις πληκτρολογίου ταυτόχρονα (για παράδειγμα, πλήκτρα που είναι κοντά μαζί), αλλά όχι άλλα.</p>
 <p class="p">Επιλέξτε <span class="gui">Απενεργοποίηση αν δύο πλήκτρα πατηθούν ταυτόχρονα</span> για την ενεργοποίησή του.</p>
-<p class="p">Μπορείτε να κάνετε τον υπολογιστή να ηχεί ένα «μπιπ» όταν πληκτρολογείτε μια συντόμευση πληκτρολογίου με ενεργά τα κολλώδη πλήκτρα. Αυτό είναι χρήσιμο εάν θέλετε να ξέρετε ότι τα κολλώδη πλήκτρα αναμένουν μια συντόμευση πληκτρολογίου να πληκτρολογηθεί, έτσι το επόμενο πάτημα πλήκτρου θα ερμηνευτεί ως μέρος της συντόμευσης. Επιλέξτε <span class="gui">Ήχος κατά το πάτημα του πλήκτρου τροποποίησης</span> για να ενεργοποιηθεί.</p>
+<p class="p">You can have the computer make a “beep” sound when you start typing a
+  keyboard shortcut with sticky keys turned on. This is useful if you want to
+  know that sticky keys is expecting a keyboard shortcut to be typed, so the
+  next key press will be interpreted as part of a shortcut. Select <span class="gui">Beep
+  when a modifier key is pressed</span> to enable this.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

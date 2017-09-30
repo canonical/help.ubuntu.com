@@ -58,7 +58,10 @@
 <div class="title title-steps"><h2><span class="title">Installera ett PPA</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">På PPA:ets översiktssida, leta efter rubriken <span class="gui">Adding this PPA to your system</span>. Notera PPA:ets plats, som borde se ut som: <span class="code">ppa:mozillateam/firefox-next</span>.</p></li>
-<li class="steps"><p class="p">Klicka på ikonen <span class="app">Programvara för Ubuntu</span> i <span class="gui">Programstartaren</span>, eller sök efter <span class="input">Program</span> i <span class="gui">Snabbstartspanelen</span>.</p></li>
+<li class="steps"><p class="p">
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">När <span class="app">Programvara för Ubuntu</span> startar, klicka på <span class="gui">Program &amp; uppdateringar</span></p></li>
 <li class="steps"><p class="p">Byt till fliken <span class="gui">Övrig programvara</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Lägg till</span> och ange PPAets plats (enligt steg 1).</p></li>

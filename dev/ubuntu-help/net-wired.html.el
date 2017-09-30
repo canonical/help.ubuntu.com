@@ -52,7 +52,8 @@
 <div class="linkdiv "><a class="linkdiv" href="net-wired-connect.html" title="Σύνδεση σε ενσύρματο δίκτυο (Ethernet)"><span class="title">Σύνδεση σε ενσύρματο δίκτυο (Ethernet)</span><span class="linkdiv-dash"> — </span><span class="desc">Για να ρυθμίσετε τις περισσότερες συνδέσεις δικτύου, το μόνο που χρειάζεστε είναι να συνδεθείτε με ένα καλώδιο δικτύου.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-fixed-ip-address.html" title="Δημιουργία σύνδεσης με σταθερή διεύθυνση IP"><span class="title">Δημιουργία σύνδεσης με σταθερή διεύθυνση IP</span><span class="linkdiv-dash"> — </span><span class="desc">Η χρήση στατικής διεύθυνσης IP μπορεί να διευκολύνει την παροχή κάποιων υπηρεσιών δικτύου από τον υπολογιστή σας.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-vpn-connect.html" title="Σύνδεση σε VPN"><span class="title">Σύνδεση σε VPN</span><span class="linkdiv-dash"> — </span><span class="desc">Ρυθμίστε μια σύνδεση VPN σε ένα τοπικό δίκτυο μέσα από το διαδίκτυο.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-manual.html" title="Χειροκίνητος ορισμός ρυθμίσεων δικτύου"><span class="title">Χειροκίνητος ορισμός ρυθμίσεων δικτύου</span><span class="linkdiv-dash"> — </span><span class="desc">Μπορεί να πρέπει να εισάγετε τις ρυθμίσεις δικτύου, αν δεν εκχωρούνται αυτόματα.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-manual.html" title="Χειροκίνητος ορισμός ρυθμίσεων δικτύου"><span class="title">Χειροκίνητος ορισμός ρυθμίσεων δικτύου</span><span class="linkdiv-dash"> — </span><span class="desc">You may have to enter network settings if they don’t get assigned
+    automatically.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

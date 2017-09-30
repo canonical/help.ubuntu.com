@@ -55,9 +55,19 @@
 <div id="files" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">ファイル</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">ファイルの所有者、所有グループ、およびシステム上のその他のユーザーのアクセス権を設定することができます。あなたのファイルについてはあなたが所有者であり、自分にたいして読み込み専用の権限あるいは読み書き権限を設定できます。誤ってファイルを変更したくない場合は、ファイルを読み込み専用にしてください。</p>
-<p class="p">お使いのコンピューターのどのユーザーも何らかのグループに所属しています。家庭用コンピューターでは、各ユーザーが自分自身のグループに所属しているのが一般的であり、グループの権限が使用されることはあまりありません。企業環境では、グループが、部署やプロジェクトにあわせてグループを活用することがときどきあります。各ファイルには、1 つの所有者が設定されているのと同じように、1 つの所有グループが設定されています。ファイルのグループを設定することによって、そのグループに属する全ユーザーの権限を制御できます。ファイルに設定できるグループは、あなたが属しているグループだけです。</p>
-<p class="p">ファイルの所有者でも、所有グループに属するユーザーでも無い、その他のユーザーの権限も設定できます。</p>
+<p class="p">You can set the permissions for the file owner, the group owner,
+    and all other users of the system. For your files, you are the owner,
+    and you can give yourself read-only or read-and-write permission.
+    Set a file to read-only if you don’t want to accidentally change it.</p>
+<p class="p">Every user on your computer belongs to a group. On home computers,
+    it is common for each user to have their own group, and group permissions
+    are not often used. In corporate environments, groups are sometimes used
+    for departments or projects. As well as having an owner, each file belongs
+    to a group. You can set the file’s group and control the permissions for
+    all users in that group. You can only set the file’s group to a group you
+    belong to.</p>
+<p class="p">You can also set the permissions for users other than the owner and
+    those in the file’s group.</p>
 <p class="p">ファイルがスクリプトなどのプログラムである場合、それを実行するには、<span class="gui">プログラムとして実行できる</span>のオプションを選択してください。このオプションが設定されていても、ファイルマネージャーはそのファイルを何らかのアプリケーションで開くこともあれば、どうするか確認することもあります。詳細は <span class="link"><a href="nautilus-behavior.html#executable" title="実行可能なテキストファイル">実行可能なテキストファイル</a></span> を参照してください。</p>
 </div></div>
 </div></div>

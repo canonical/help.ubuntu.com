@@ -73,8 +73,10 @@
     manager.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="nautilus-connect.html" title="Browse files on a server or network share"><span class="title">Browse files on a server or network share</span><span class="linkdiv-dash"> — </span><span class="desc">View and edit files on another computer over FTP, SSH, Windows
     shares, or WebDAV.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-open.html" title="Buka berkas dengan aplikasi lain"><span class="title">Buka berkas dengan aplikasi lain</span><span class="linkdiv-dash"> — </span><span class="desc">Buka berkas menggunakan aplikasi yang bukan bawaan untuk jenis berkas tersebut. Anda dapat mengubah bawaan juga.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-lost.html" title="Cari berkas yang hilang"><span class="title">Cari berkas yang hilang</span><span class="linkdiv-dash"> — </span><span class="desc">Ikuti petunjuk ini bila Anda tak dapat menemukan berkas yang Anda buat atau unduh.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-open.html" title="Buka berkas dengan aplikasi lain"><span class="title">Buka berkas dengan aplikasi lain</span><span class="linkdiv-dash"> — </span><span class="desc">Open files using an application that isn’t the default one for that
+    type of file. You can change the default too.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-lost.html" title="Cari berkas yang hilang"><span class="title">Cari berkas yang hilang</span><span class="linkdiv-dash"> — </span><span class="desc">Follow these tips if you can’t find a file you created or
+    downloaded.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-recover.html" title="Memulihkan berkas dari Tong Sampah"><span class="title">Memulihkan berkas dari Tong Sampah</span><span class="linkdiv-dash"> — </span><span class="desc">Berkas yang dihapus biasanya dikirim ke Tong Sampah, tapi dapat dipulihkan.</span></a></div>
 </div>
 <div class="links-twocolumn">
@@ -102,8 +104,7 @@
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="backup-why.html" title="Backup berkas-berkas penting Anda"><span class="title">Backup berkas-berkas penting Anda</span><span class="linkdiv-dash"> — </span><span class="desc">Mengapa, apa, dimana, dan bagaimana backup.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="backup-thinkabout.html" title="Dimana saya dapat menemukan berkas yang ingin saya back up?"><span class="title">Dimana saya dapat menemukan berkas yang ingin saya back up?</span><span class="linkdiv-dash"> — </span><span class="desc">Daftar folder dimana Anda dapat menemukan dokumen, berkas, dan pengaturan yang mungkin ingin Anda backup.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="backup-frequency.html" title="Frekuensi pembuatan cadangan"><span class="title">Frekuensi pembuatan cadangan</span><span class="linkdiv-dash"> — </span><span class="desc">Learn how often you should backup your important files to make sure
-    that they are safe.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-frequency.html" title="Frekuensi pembuatan cadangan"><span class="title">Frekuensi pembuatan cadangan</span><span class="linkdiv-dash"> — </span><span class="desc">Pelajari seberapa sering Anda mesti membackup berkas penting Anda untuk memastikan agar mereka aman.</span></a></div>
 </div>
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="backup-restore.html" title="Mengembalikan dari cadangan"><span class="title">Mengembalikan dari cadangan</span><span class="linkdiv-dash"> — </span><span class="desc">Mengambil berkas Anda dari backup.</span></a></div>

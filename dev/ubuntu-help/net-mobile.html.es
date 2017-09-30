@@ -63,10 +63,7 @@
 <li class="steps"><p class="p">Seleccione un plan de acuerdo al tipo de dispositivo que está conectando. Esto determinará el nombre del punto de acceso. Pulse en <span class="gui">Siguiente</span>.</p></li>
 <li class="steps"><p class="p">Confirme la configuración que ha elegido pulsando <span class="gui">Aplicar</span>. El asistentese cerrará y el panel de <span class="gui">Red</span> mostrará las propiedades de su conexión.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Sugerencia"><div class="inner"><div class="region"><div class="contents"><p class="p">Some phones have a setting called <span class="em">USB tethering</span> that requires
-      no setup on the computer. When the setting is activated on the phone, the
-      connection will show up as <span class="gui">Ethernet Connected</span> in the system
-      menu and <span class="gui">USB ethernet</span> in the network panel.</p></div></div></div></div>
+<div class="note note-tip" title="Sugerencia"><div class="inner"><div class="region"><div class="contents"><p class="p">Algunos teléfonos tienen una opción llamada <span class="em">compartición por USB</span> que no requiere ningua configuración en el equipo. Cuando esta opción está activada en el teléfono, la conexión se mostrará como <span class="gui">Conectado a Ethernet</span> en el menú del sistema y <span class="gui">Ethernet USB</span> en el panel de red.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

@@ -2,7 +2,7 @@
 <html lang=cs>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Manage repeated key presses</title>
+<title>Nastavení opakování zmáčknutých kláves</title>
 <link rel="stylesheet" type="text/css" href="cs.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -52,14 +52,10 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Manage repeated key presses</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Nastavení opakování zmáčknutých kláves</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">By default, when you hold down a key on your keyboard, the letter
-  or symbol will be repeated until you release the key. If you have
-  difficulty picking your finger back up quickly enough, you can
-  disable this feature, or change how long it takes before key presses
-  start repeating, or how quickly key presses repeat.</p>
+<p class="p">Standardní chování je, že když držíte zmáčknutou klávesu na klávesnici, znak nebo symbol se opakují, dokud klávesu neuvolníte. Pokud máte problémy s dostatečně rychlým uvolněním kláves, můžete tuto funkci úplně vypnout nebo aspoň změnit, jak dlouho má klávesa čekat zmáčknutá, než s opakováním začne a jak rychle má opakovat.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Univerzální přístup</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Univerzální přístup</span> otevřete příslušný panel.</p></li>
@@ -76,7 +72,7 @@
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard.html" title="Klávesnice">Klávesnice</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Rozložení klávesnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Nastavení blikání textového kurzoru">blikání kurzoru</a></span>, <span class="link"><a href="a11y.html#mobility" title="Pohybová postižení">zpřístupnění klávesnice</a></span>…</span>
+<a href="keyboard.html" title="Klávesnice">Klávesnice</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Použití alternativního rozložení klávesnice">Rozložení klávesnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Nastavení blikání textového kurzoru">blikání kurzoru</a></span>, <span class="link"><a href="a11y.html#mobility" title="Pohybová postižení">zpřístupnění klávesnice</a></span>…</span>
 </li>
 <li class="links "><a href="a11y.html#mobility" title="Pohybová postižení">Pohybová postižení</a></li>
 </ul></div>

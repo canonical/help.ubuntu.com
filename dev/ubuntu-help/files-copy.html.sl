@@ -50,7 +50,10 @@
 <div class="region">
 <div class="contents">
 <p class="p">Mapo ali datoteko lahko kopirate ali premaknete na novo mesto z vlečenjem in spuščanjem z miško, z uporabo ukazov kopiraj in prilepi ali z uporabo tipkovnih bližnjic.</p>
-<p class="p">Morda boste na primer želeli predstavitev kopirati na usb ključek zato, da ga lahko vzamete s seboj na delo. Ali pa lahko naredite varnostno kopijo dokumenta preden ga spremenite (in nato uporabite staro kopijo, če vam spremembe niso všeč.)</p>
+<p class="p">For example, you might want to copy a presentation onto a memory stick so
+ you can take it to work with you. Or, you could make a back-up copy of a
+ document before you make changes to it (and then use the old copy if you don’t
+ like your changes).</p>
 <p class="p">Ta navodila veljajo tako za datoteke in mape. Datoteke in mape lahko kopirate na popolnoma enak način.</p>
 <div class="steps ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
@@ -91,7 +94,8 @@
 <li class="steps"><p class="p">Za odprtje novega okna kliknite <span class="gui">Datoteke</span> v zgornji vrstici, izberite <span class="gui">Novo okno</span> (ali pritisnite <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>N</kbd></span></span>). V novem oknu krmarite do mape kamor želite kopirati datoteko.</p></li>
 <li class="steps">
 <p class="p">Kliknite in povlecite datoteko iz enega okna v drugo. Privzeto bo vlečenje predmeta predmet <span class="em">premaknilo</span>, če je cilj na <span class="em">isti</span> napravi in <span class="em">kopiralo</span>, če je cilj na <span class="em">drugi</span> napravi.</p>
-<p class="p">Če na primer datoteko povlečete na USB ključek iz svoje domače mape, bo datoteka kopirana, ker datoteko vlečete z ene naprave na drugo.</p>
+<p class="p">For example, if you drag a file from a USB memory stick to your Home folder,
+ it will be copied, because you’re dragging from one device to another.</p>
 <p class="p">Za prisiljenje kopiranja datoteke med vlečenjem pritisnite in držite tipko <span class="key"><kbd>Ctrl</kbd></span>, za prisiljenje premikanja med vlečenjem pritisnite in držite tipko <span class="key"><kbd>Shift</kbd></span>.</p>
 </li>
 </ol></div>

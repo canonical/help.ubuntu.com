@@ -50,24 +50,22 @@
 <div class="region">
 <div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span> overview and
-    start typing <span class="gui">Wacom Tablet</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Tablet Wacom</span>.</p></li>
 <li class="steps">
 <p class="p">Klik pada <span class="gui">Tablet Wacom</span> untuk membuka panel.</p>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">If no tablet is detected, you'll be asked to
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">If no tablet is detected, you’ll be asked to
     <span class="gui">Please plug in or turn on your Wacom tablet</span>. Click the
     <span class="gui">Bluetooth Settings</span> link to connect a wireless tablet.</p></div></div></div></div>
 </li>
 <li class="steps">
 <p class="p">Bagian bawah panel memuat rincian dan pengaturan spesitik bagi stylus Anda, dengan nama perangkat (kelas stylus) dan diagram di kiri. Pengaturan ini dapat disetel:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="gui">Rasa Tekanan Penghapus:</span> pakai penggeser untuk menyetel "rasa" (bagaimana tekanan fisik diterjemahkan menjadi nilai digital) antara <span class="gui">Lunak</span> dan <span class="gui">Kencang</span>.</p></li>
-<li class="list"><p class="p"><span class="gui">Button/Scroll Wheel</span> configuration (these change to
-       reflect the stylus). Click the menu next to each label to select one of
-       these functions: No Action, Left Mouse Button Click, Middle Mouse Button
-       Click, Right Mouse Button Click, Scroll Up, Scroll Down, Scroll Left,
-       Scroll Right, Back, or Forward.</p></li>
-<li class="list"><p class="p"><span class="gui">Rasa Tekanan Ujung</span> pakai penggeser untuk menyetel "rasa" antara <span class="gui">Lunak</span> dan <span class="gui">Kencang</span>.</p></li>
+<li class="list"><p class="p"><span class="gui">Eraser Pressure Feel:</span> use the slider to adjust the
+       “feel” (how physical pressure is translated to digital values) between
+       <span class="gui">Soft</span> and <span class="gui">Firm</span>.</p></li>
+<li class="list"><p class="p">Konfigurasi <span class="gui">Tombol/Roda Penggulung</span> (perubahan ini untuk mencerminkan stylus). Klik menu di sebelah setiap label untuk memilih satu dari fungsi-fungsi ini: Tanpa Aksi, Klik Tombol Kiri Tetikus, Klik Tombol Tengah Tetikus, Klik Tombol Kanan Tetikus, Gulung Naik, Gulung Turun, Gulung Kiri, Gulung Kanan, Mundur, atau Maju.</p></li>
+<li class="list"><p class="p"><span class="gui">Tip Pressure Feel:</span> use the slider to adjust the
+       “feel” between <span class="gui">Soft</span> and <span class="gui">Firm</span>.</p></li>
 </ul></div></div></div>
 </li>
 </ol></div></div></div>

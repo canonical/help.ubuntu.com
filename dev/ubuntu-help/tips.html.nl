@@ -49,13 +49,12 @@
 <div class="hgroup"><h1 class="title"><span class="title">Tips &amp; trucs</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="gnome-version.html" title="Determine which version of GNOME is running"><span class="title">Determine which version of GNOME is running</span><span class="linkdiv-dash"> — </span><span class="desc">How to determine which version of GNOME is running.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html" title="Middle-click"><span class="title">Middle-click</span><span class="linkdiv-dash"> — </span><span class="desc">Use the middle mouse button to open applications, open tabs and
+<div class="linkdiv "><a class="linkdiv" href="gnome-version.html" title="Bepaal welke versie van Gnome wordt uitgevoerd"><span class="title">Bepaal welke versie van Gnome wordt uitgevoerd</span><span class="linkdiv-dash"> — </span><span class="desc">Hoe u bepaalt welke versie van Gnome wordt uitgevoerd.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html" title="Handige sneltoetsen"><span class="title">Handige sneltoetsen</span><span class="linkdiv-dash"> — </span><span class="desc">Door het bureaublad lopen via het toetsenbord.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html" title="Middelklik"><span class="title">Middelklik</span><span class="linkdiv-dash"> — </span><span class="desc">Use the middle mouse button to open applications, open tabs and
     more.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="screen-shot-record.html" title="Screenshots and screencasts"><span class="title">Screenshots and screencasts</span><span class="linkdiv-dash"> — </span><span class="desc">Take a picture or record a video of what is happening on your
-    screen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="screen-shot-record.html" title="Schermafdrukken en schermfilms"><span class="title">Schermafdrukken en schermfilms</span><span class="linkdiv-dash"> — </span><span class="desc">Een foto of video maken van wat er op uw scherm gebeurt.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="tips-specialchars.html" title="Speciale tekens invoeren"><span class="title">Speciale tekens invoeren</span><span class="linkdiv-dash"> — </span><span class="desc">Tekens typen die niet op uw toetsenbord voorkomen, met inbegrip van vreemde alfabetten, wiskundige symbolen en dingbats.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html" title="Useful keyboard shortcuts"><span class="title">Useful keyboard shortcuts</span><span class="linkdiv-dash"> — </span><span class="desc">Get around the desktop using the keyboard.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

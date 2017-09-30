@@ -65,7 +65,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Universal Access</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Napsauta <span class="gui">Esteettömyys</span> avataksesi paneelin.</p></li>
 <li class="steps"><p class="p">Press <span class="gui">Typing Assist (AccessX)</span> in the <span class="gui">Typing</span>
       section.</p></li>
 <li class="steps"><p class="p">Switch <span class="gui">Sticky Keys</span> to <span class="gui">ON</span>.</p></li>
@@ -93,7 +93,11 @@
   some keyboard shortcuts simultaneously (for example, keys that are close
   together), but not others.</p>
 <p class="p">Valitse <span class="gui">Poista käytöstä, jos kahta näppäintä painetaan samanaikaisesti</span> ottaaksesi tämän ominaisuuden käyttöön.</p>
-<p class="p">Voit antaa tietokoneen pitää "piip"-äänen, kun alat antamaan näppäinoikotietä pohjaan jäävät näppäimet -ominaisuuden ollessa käytössä. Tämä on hyödyllistä, jos haluat tietää, että pohjaan jäävät näppäimet odottavat sinun kirjoittavan näppäinoikotietä, joten seuraava painallus tulkitaan osaksi oikotietä. Valitse <span class="gui">Piippaa, kun määritenäppäintä painetaan</span> ottaaksesi tämän käyttöön.</p>
+<p class="p">You can have the computer make a “beep” sound when you start typing a
+  keyboard shortcut with sticky keys turned on. This is useful if you want to
+  know that sticky keys is expecting a keyboard shortcut to be typed, so the
+  next key press will be interpreted as part of a shortcut. Select <span class="gui">Beep
+  when a modifier key is pressed</span> to enable this.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

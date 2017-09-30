@@ -53,10 +53,7 @@
 <div class="linkdiv "><a class="linkdiv" href="shell-introduction.html" title="Introduktion til GNOME"><span class="title">Introduktion til GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">En visuel introduktion til dit skrivebord, toplinjen og <span class="gui">Aktivitetsoversigten</span>.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Log ud, sluk eller skift bruger"><span class="title">Log ud, sluk eller skift bruger</span><span class="linkdiv-dash"> — </span><span class="desc">Lær at forlade din brugerkonto ved at logge ud, skifte bruger, osv.</span></a></div>
 </div>
-<div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Start programmer"><span class="title">Start programmer</span><span class="linkdiv-dash"> — </span><span class="desc">Start programmer fra <span class="gui">Aktivitetsoversigten</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-guest-session.html" title="Launch a restricted guest session"><span class="title">Launch a restricted guest session</span><span class="linkdiv-dash"> — </span><span class="desc">Let a friend or colleague borrow your computer in a secure manner.</span></a></div>
-</div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Start programmer"><span class="title">Start programmer</span><span class="linkdiv-dash"> — </span><span class="desc">Start programmer fra <span class="gui">Aktivitetsoversigten</span>.</span></a></div></div>
 </div></div></div></div>
 <div id="desktop" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Customize your desktop</span></h2></div>

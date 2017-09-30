@@ -68,7 +68,10 @@
 <div class="desc">இதைத் தான் ஒரு பயனர் வழக்கமான ஒரு தொழில் பயனுக்கான மடிக்கணினியின் திரையில் காண்கிறார்</div>
 </div>
 </div></div>
-<p class="p">இதில் வெண்ணிறம் 'தாளின் வெண்மை' போன்று வெண்மையாக இல்லாமலிருப்பதையும் கண்ணின் கருப்பு நிறம் சற்று மண்ணின் பழுப்பு நிறம் போலக் காட்சியளிப்பதையும் கவனிக்க முடியும்.</p>
+<p class="p">
+    Notice how the white is not “paper white” and the black of the eye
+    is now a muddy brown.
+  </p>
 <div class="figure"><div class="inner">
 <a href="#" class="zoom" data-zoom-in-title="பிம்பங்களை இயல்பான அளவில் காண்" data-zoom-out-title="பிம்பங்களை அளவு சிறிதாக்கு"></a><div class="region">
 <div class="contents"><div class="media media-image"><div class="inner"><img src="figures/color-printer.png" class="media media-block" alt=""></div></div></div>
@@ -76,11 +79,41 @@
 </div>
 </div></div>
 <p class="p">ஒவ்வொரு சாதனமும் கையாள முடிகின்ற நிறங்களின் வரம்பு வெவ்வேறானதாக உள்ளது என்பதே இதில் உள்ள அடிப்படை சிக்கலாகும். ஆகவே எலக்ட்ரிக் நீல நிறமுள்ள ஒரு புகைப்படத்தை நீங்கள் படம்பிடிக்க முடியும், ஆனால் அதை பெரும்பாலான அச்சு சாதனங்கள் துல்லியமாக மறு உருவாக்கம் செய்ய முடியாது.</p>
-<p class="p">பட சாதனங்கள் பெரும்பாலானவை RGB (சிவப்பு, பச்சை, நீலம்) முறையிலேயே படங்களைப் படம்பிடித்து அச்சிடும் போது அவற்றைCMYK (சியான், மெஜந்தா, மஞ்சள் மற்றும் கருப்பு) முறைக்கு மாற்றுகின்றன. வெண்ணிறத்துக்கென நீங்கள் <span class="em">வெள்ளை</span> இங்க்கைப் பயன்படுத்த முடியாது என்பது மற்றொரு சிக்கலாகும், ஆகவே தாளின் வெண்மையே வெளியீட்டில் கிடைக்கும்.</p>
-<p class="p">மற்றொரு சிக்கல் அலகுகளாகும். நிறம் அளக்கப்படுகின்ற அளவுகோலைக் குறிப்பிடாமல் 100% சிவப்பு என்பது அகச்சிவப்புக்கு அருகில் அமைவதா அல்லது அச்சு சாதனத்தில் ஆழமான சிவப்பு இங்க்காக அமைவதா என்று நமக்கு தெரியாது. ஒரு டிஸ்ப்ளே சாதனத்தில் 50% சிவப்பு என்பது மற்றொன்றில் 62% அல்லது வேறொரு விதமாக அமையலாம். இது ஒருவர் மீட்டரா கிலோமீட்டரா எனக் குறிப்பிடாமல் பொதுவாக 7 அலகுகள் பயணம் செய்ததாகக் கூறுவதைப் போன்றது.</p>
-<p class="p">நிறத்தில், அலகுகளை கேமட் எனக் குறிப்பிடுகிறோம். கேமட் என்பது நிறங்களின் மறு உருவாக்க வரம்பு. DSLR கேமராவைப் போன்ற ஒரு சாதனத்தின் கேமட் மிக பெரியதாக இருக்கும், அதனால் அந்த சாதனம் சூரிய அஸ்தமனத்தின் அத்தனை நிறங்களையும் பதிவு செய்ய முடியும், ஆனால் படவீழ்த்தியின் கேமட் சிறியது, ஆகவே பெரும்பாலான நிறங்கள் "மங்கிப் போகும்".</p>
-<p class="p">சில சந்தர்ப்பங்களில், நாம் சாதனத்திற்கு நாம் அனுப்பும் தரவை மாற்றியமைப்பதன் மூலம் அதன் வெளியீட்டைத் <span class="em">திருத்த</span> முடியும், ஆனால் அது சாத்தியமல்லாத மற்ற சந்தர்ப்பங்களில் (எலக்ட்ரிக் நீல நிறத்தை அச்சிட முடியாது போகும் சூழ்நிலையைக் கூறலாம்) இறுதி விளைவு எப்படி காட்சியளிக்கும் என்பதை பயனருக்குக் காண்பிக்க வேண்டும்.</p>
-<p class="p">புகைப்படங்களுக்கு, ஒரு நிற சாதனத்தின் முழு வரம்பையும் பயன்படுத்துவது நியாயமே, அதனால் நிறத்தில் மென்மையான மாற்றங்களை ஏற்படுத்த முடியும். மற்ற வரைகலைப் பொருள்களுக்கு நிறங்களை நீங்கள் துல்லியமாக பொருத்த வேண்டி இருக்கும், கச்சிதமாக Red Hat சிவப்பாகவே காட்சியளிக்க <span class="em">வேண்டிய</span> ஒரு Red Hat சின்னத்தைக் கொண்ட ஒரு மக் - ஐ அச்சிட வேண்டுமானால் இது முக்கியமாகும்.</p>
+<p class="p">
+    Most image devices capture in RGB (Red, Green, Blue) and have
+    to convert to CMYK (Cyan, Magenta, Yellow, and Black) to print.
+    Another problem is that you can’t have <span class="em">white</span> ink, and so
+    the whiteness can only be as good as the paper color.
+  </p>
+<p class="p">
+    Another problem is units. Without specifying the scale on which a
+    color is measured, we don’t know if 100% red is near infrared or
+    just the deepest red ink in the printer. What is 50% red on one
+    display is probably something like 62% on another display.
+    It’s like telling a person that you’ve just driven 7 units of
+    distance, without the unit you don’t know if that’s 7 kilometers or
+    7 meters.
+  </p>
+<p class="p">
+    In color, we refer to the units as gamut. Gamut is essentially the
+    range of colors that can be reproduced.
+    A device like a DSLR camera might have a very large gamut, being able
+    to capture all the colors in a sunset, but a projector has a very
+    small gamut and all the colors are going to look “washed out”.
+  </p>
+<p class="p">
+    In some cases we can <span class="em">correct</span> the device output by altering
+    the data we send to it, but in other cases where that’s not
+    possible (you can’t print electric blue) we need to show the user
+    what the result is going to look like.
+  </p>
+<p class="p">
+    For photographs it makes sense to use the full tonal range of a color
+    device, to be able to make smooth changes in color.
+    For other graphics, you might want to match the color exactly, which
+    is important if you’re trying to print a custom mug with the Red Hat
+    logo that <span class="em">has</span> to be the exact Red Hat Red.
+  </p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

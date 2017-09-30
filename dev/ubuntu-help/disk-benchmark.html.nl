@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Test the performance of your hard disk</title>
+<title>De prestaties van u harde schijf testen</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,54 +43,32 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="disk.html" title="Disks &amp; storage">Disks &amp; storage</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="disk.html" title="Schijven &amp; opslag">Schijven &amp; opslag</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Test the performance of your hard disk</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">De prestaties van u harde schijf testen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">To test the speed of your hard disk:</p>
+<p class="p">Om de snelheid van uw harde schijf te testen:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open <span class="app">Disks</span> from the
-      <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview.</p></li>
-<li class="steps"><p class="p">Choose the disk from the list in the left pane.</p></li>
-<li class="steps"><p class="p">Click the menu button and select <span class="gui">Benchmark disk…</span> from the
-      menu.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Start Benchmark…</span> and adjust the <span class="gui">Transfer
-      Rate</span> and <span class="gui">Access Time</span> parameters as desired.</p></li>
+<li class="steps"><p class="p">Open <span class="app">Schijven</span> vanuit het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht.</p></li>
+<li class="steps"><p class="p">Kies de harde schijf uit de lijst in het linker paneel.</p></li>
+<li class="steps"><p class="p">Klik op de menuknop en selecteer <span class="gui">Schijf benchmarken…</span> uit het menu.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Benchmark uitvoeren…</span> en pas de parameters <span class="gui">Overdrachtsnelheid</span> en <span class="gui">Toegangstijd</span> naar wens aan.</p></li>
 <li class="steps">
-<p class="p">Click <span class="gui">Start Benchmarking</span> to test how fast data can be read
-      from the disk. <span class="link"><a href="user-admin-explain.html" title="Hoe werken beheerdersrechten?">Administrative
-      privileges</a></span> may be required. Enter your password, or the password
-      for the requested administrator account.</p>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">If <span class="gui">Perform write-benchmark</span> is checked, the benchmark
-        will test how fast data can be read from and written to the disk. This
-        will take longer to complete.</p></div></div></div></div>
+<p class="p">Klik op <span class="gui">Benchmark uitvoeren</span> om te testen hoe snel gegevens van de schijf gelezen kunnen worden. Er zijn <span class="link"><a href="user-admin-explain.html" title="Hoe werken beheerdersrechten?">Beheerdersrechten</a></span> voor nodig. Voer uw wachtwoord in, of het wachtwoord voor de beheerdersaccount.</p>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Als <span class="gui">Schrijfbenchmark uitvoeren</span> is aangevinkt, dan zal er getest worden hoe snel gegevens gelezen van en geschreven naar de schijf kunnen worden. Dit zal langer duren.</p></div></div></div></div>
 </li>
 </ol></div></div></div>
-<p class="p">When the test is finished, the results will appear on the graph. The green
-  points and connecting lines indicate the samples taken; these correspond to
-  the right axis, showing access time, plotted against the bottom axis,
-  representing percentage time elapsed during the benchmark. The blue line
-  represents read rates, while the red line represents write rates; these are
-  shown as access data rates on the left axis, plotted against percentage of
-  the disk traveled, from the outside to the spindle, along the bottom
-  axis.</p>
-<p class="p">Below the graph, values are displayed for minimum, maximum and average
-  read and write rates, average access time and time elapsed since the last
-  benchmark test.</p>
+<p class="p">Wanneer de test klaar is zullen de resultaten verschijnen in de grafiek. De groene stippen en lijnen daartussen geven aan welke steekproeven er genomen zijn; ze komen overeen met de rechteras met de toegangstijd uitgezet tegen de onderste lijn, en stelt de tijd in procenten voor die verstreken is tijdens de meting. De blauwe lijn stelt de leessnelheid voor, en de rode lijn de schrijfsnelheid; deze tonen de gegevenstoegangsnelheid op de linkeras, uitgezet tegen de onderste lijn als percentage van de schijfbeweging van de buitenkant naar de as.</p>
+<p class="p">Onderaan de grafiek worden waarden weergegeven voor de minimale, maximale en gemiddelde lees- en schrijfsnelheid en de tijd die verstreken is sinds de laatste meting.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html" title="Disks &amp; storage">Disks &amp; storage</a><span class="desc"> — 
-    <span class="link"><a href="disk-capacity.html" title="Check how much disk space is left">Disk space</a></span>,
-    <span class="link"><a href="disk-benchmark.html" title="Test the performance of your hard disk">performance</a></span>,
-    <span class="link"><a href="disk-check.html" title="Check your hard disk for problems">problems</a></span>,
-    <span class="link"><a href="disk-partitions.html" title="Manage volumes and partitions">volumes and partitions</a></span>…
-  </span>
+<a href="disk.html" title="Schijven &amp; opslag">Schijven &amp; opslag</a><span class="desc"> — <span class="link"><a href="disk-capacity.html" title="Controleer hoeveel schijfruimte er nog besschikbaar is">Schijfruimte</a></span>, <span class="link"><a href="disk-benchmark.html" title="De prestaties van u harde schijf testen">presentatie</a></span>, <span class="link"><a href="disk-check.html" title="Controleer of er problemen zijn met u harde schijf">problemen</a></span>, <span class="link"><a href="disk-partitions.html" title="Volumes en partities beheren">volumes en partities</a></span>...</span>
 </li></ul></div>
 </div></div></div>
 </div>

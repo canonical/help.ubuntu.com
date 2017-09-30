@@ -55,7 +55,13 @@
 <div class="contents">
 <p class="p">Лучший способ получения профилей — создать их самому, хотя это и требует некоторых первоначальных затрат.</p>
 <p class="p">Многие производители предоставляют цветовые профили для своих устройств, хотя иногда они упакованы в <span class="em">наборы драйверов</span>, которые нужно скачать, распаковать и найти в них цветовые профили.</p>
-<p class="p">Некоторые производители не предоставляют корректно созданных профилей для аппаратуры, и хорошим выходом здесь могла бы стать загрузка профиля. Но если дата создания профиля составляет год или более до даты покупки устройства, то скорее всего этот профиль представляет собой бесполезный фиктивный набор данных.</p>
+<p class="p">
+    Some manufacturers do not provide accurate profiles for the hardware
+    and the profiles are best avoided.
+    A good clue is to download the profile, and if the creation date is
+    more than a year before the date you bought the device then it’s
+    likely dummy data generated that is useless.
+  </p>
 <p class="p">Смотрите <span class="link"><a href="color-why-calibrate.html" title="Зачем выполнять калибровку самостоятельно?">Зачем выполнять калибровку самостоятельно?</a></span>, чтобы узнать, почему предоставляемые производителями профили часто бывают абсолютно бесполезными.</p>
 </div>
 <div class="sect sect-links" role="navigation">

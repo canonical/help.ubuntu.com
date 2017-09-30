@@ -43,47 +43,35 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="user-accounts.html" title="User accounts">Users</a> › <a class="trail" href="user-accounts.html#manage" title="Manage user accounts">Accounts</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="user-accounts.html" title="Gebruikersaccounts">Gebruikers</a> › <a class="trail" href="user-accounts.html#manage" title="Gebruikersaccounts beheren">Accounts</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Een nieuwe gebruiker toevoegen</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">U kunt meerdere gebruikersaccounts aan uw computer toevoegen. Geef iedereen thuis of op het bedrijf een eigen account. Elke gebruiker heeft zijn eigen persoonlijke map, documenten en instellingen.</p>
-<p class="p">You need <span class="link"><a href="user-admin-explain.html" title="Hoe werken beheerdersrechten?">administrator privileges</a></span>
-  to add user accounts.</p>
+<p class="p">Om gebruikersaccounts te kunnen toevoegen dient u <span class="link"><a href="user-admin-explain.html" title="Hoe werken beheerdersrechten?">beheerder</a></span> te zijn.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Users</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Users</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Unlock</span> in the top right corner and
-      type in your password when prompted.</p></li>
-<li class="steps"><p class="p">Press the <span class="gui">+</span> button, below the list of
-      accounts on the left, to add a new user account.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Gebruikers</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Gebruikers</span> om het paneel te openen.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Ontgrendelen</span> rechtsboven in de hoek en voer uw wachtwoord in wanneer daar om gevraagd wordt.</p></li>
+<li class="steps"><p class="p">Druk op <span class="gui">+</span>, onder de lijst met accounts links, om een nieuwe gebruikersaccount toe te voegen.</p></li>
 <li class="steps">
-<p class="p">If you want the new user to have
-      <span class="link"><a href="user-admin-explain.html" title="Hoe werken beheerdersrechten?">administrative access</a></span> to the
-      computer, select <span class="gui">Administrator</span> for the account type.</p>
-<p class="p">Administrators can do things like add and delete users, install software
-      and drivers, and change the date and time.</p>
+<p class="p">Als u wilt dat de nieuwe gebruiker toegang tot de computer heeft als <span class="link"><a href="user-admin-explain.html" title="Hoe werken beheerdersrechten?">beheerder</a></span>, kies dan als accounttype <span class="gui">Beheerder</span>.</p>
+<p class="p"> Beheerders kunnen handelingen verrichten zoals het toevoegen en verwijderen van gebruikers, software en stuurprogramma's installeren en de datum en tijd wijzigen.</p>
 </li>
-<li class="steps"><p class="p">Enter the new user's full name. The username will be filled in
+<li class="steps"><p class="p">Enter the new user’s full name. The username will be filled in
       automatically based on the full name. If you do not like the proposed
       username, you can change it.</p></li>
 <li class="steps">
-<p class="p">You can choose to set a password for the new user, or let them set it
-      themselves on their first login.</p>
-<p class="p">If you choose to set the password now,
-      you can press the <span class="gui"><span class="media"><span class="media media-image"><img src="figures/system-run-symbolic.svg" height="16" width="16" class="media media-inline" alt="generate password"></span></span></span> icon to
-      automatically generate a random password.</p>
+<p class="p">U kunt ervoor kiezen een wachtwoord in te stellen voor de nieuwe gebruiker, of dit door hen zelf te laten doen bij de eerste aanmelding.</p>
+<p class="p">Als u het wachtwoord nu wilt instellen, dan kunt u op het <span class="gui"><span class="media"><span class="media media-image"><img src="figures/system-run-symbolic.svg" height="16" width="16" class="media media-inline" alt="wachtwoord genereren"></span></span></span>-pictogram klikken om automatisch een willekeurig wachtwoord te genereren.</p>
 </li>
-<li class="steps"><p class="p">Click <span class="gui">Add</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Toevoegen</span>.</p></li>
 </ol></div></div></div>
-<p class="p">If you want to change the password after creating the account, select the
-  account, <span class="gui">Unlock</span> the panel and press the current
-  password status.</p>
+<p class="p">Als u het wachtwoord wilt wijzigen nadat u het account heeft aangemaakt, selecteer dan het account, <span class="gui">ontgrendel</span> het venster en klik op het invoerveld Wachtwoord.</p>
 <div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">In the <span class="gui">Users</span> panel, you can click the image next to the
-    user's name to the right to set an image for the account. This image will
+    user’s name to the right to set an image for the account. This image will
     be shown in the login window. GNOME provides some stock photos you can use,
     or you can select your own or take a picture with your webcam.</p></div></div></div></div>
 </div>
@@ -92,7 +80,7 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#manage" title="Manage user accounts">Manage user accounts</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html#manage" title="Gebruikersaccounts beheren">Gebruikersaccounts beheren</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>

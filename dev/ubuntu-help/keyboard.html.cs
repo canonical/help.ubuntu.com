@@ -56,7 +56,7 @@
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Region a jazyk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
+<a href="keyboard-layouts.html" title="Použití alternativního rozložení klávesnice">Použití alternativního rozložení klávesnice</a><span class="desc"> — Přidání rozložení klávesnice a přepnutí mezi nimi.</span>
 </li></ul></div>
 </div></div>
 <div class="links topiclinks"><div class="inner">
@@ -89,13 +89,13 @@
 <div class="title title-links"><h2><span class="title">Další témata</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard-repeat-keys.html" title="Manage repeated key presses">Manage repeated key presses</a><span class="desc"> — Jak přimět klávesnici, aby neopakovala písmena, když držíte klávesu zmáčknutou, nebo jak změnit prodlevu a rychlost opakování.</span>
-</li>
-<li class="links ">
 <a href="keyboard-cursor-blink.html" title="Nastavení blikání textového kurzoru">Nastavení blikání textového kurzoru</a><span class="desc"> — Jak přimět pozici pro vkládání textu blikat a jak ovládat rychlost blikání.</span>
 </li>
 <li class="links ">
 <a href="keyboard-shortcuts-set.html" title="Nastavení klávesových zkratek">Nastavení klávesových zkratek</a><span class="desc"> — Jak definovat nebo změnit klávesové zkratky v nastavení <span class="gui">Klávesnice</span>.</span>
+</li>
+<li class="links ">
+<a href="keyboard-repeat-keys.html" title="Nastavení opakování zmáčknutých kláves">Nastavení opakování zmáčknutých kláves</a><span class="desc"> — Jak přimět klávesnici, aby neopakovala písmena, když držíte klávesu zmáčknutou, nebo jak změnit prodlevu a rychlost opakování.</span>
 </li>
 <li class="links ">
 <a href="numeric-keypad.html" title="Numeric keypad">Numeric keypad</a><span class="desc"> — Enable the numeric keypad by default.</span>

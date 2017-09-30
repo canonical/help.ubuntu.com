@@ -49,6 +49,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Diski in shramba</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
+<div class="linkdiv "><a class="linkdiv" href="disk-resize.html" title="Adjust the size of a filesystem"><span class="title">Adjust the size of a filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Shrink or grow a filesystem and its partition.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="addremove-creator.html" title="Create a startup disk"><span class="title">
     Create a startup disk
   </span><span class="linkdiv-dash"> — </span><span class="desc"> 
@@ -57,7 +58,9 @@
 <div class="linkdiv "><a class="linkdiv" href="disk-benchmark.html" title="Izberite hitrost delovanja svojega trdega diska"><span class="title">Izberite hitrost delovanja svojega trdega diska</span><span class="linkdiv-dash"> — </span><span class="desc">Poženete lahko preizkuse trdega diska in preverite kako hiter je.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-format.html" title="Odstranitev vsega z odstranljivega diska"><span class="title">Odstranitev vsega z odstranljivega diska</span><span class="linkdiv-dash"> — </span><span class="desc">Odstranite vse datoteke in mape iz zunanjega trdega diska ali USB ključka s formatiranjem.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-capacity.html" title="Preverjanje koliko prostora na disku je ostalo"><span class="title">Preverjanje koliko prostora na disku je ostalo</span><span class="linkdiv-dash"> — </span><span class="desc">S <span class="gui">Preučevalnikom porabe diska</span> ali <span class="gui">Nadzornikom sistema</span> lahko preverite razpoložljiv prostor in zmogljivost.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-check.html" title="Preverjanje trdega diska za težave."><span class="title">Preverjanje trdega diska za težave.</span><span class="linkdiv-dash"> — </span><span class="desc">Svoj disk lahko preizkusite za težave in se prepričate, da je zdrav.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-check.html" title="Preverjanje trdega diska za težave."><span class="title">Preverjanje trdega diska za težave.</span><span class="linkdiv-dash"> — </span><span class="desc">Test your hard disk for problems to make sure that it’s healthy.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-repair.html" title="Repair a damaged filesystem"><span class="title">Repair a damaged filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Check if a filesystem is damaged and bring it back into a usable
+          state.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-partitions.html" title="Upravljanje nosilcev in razdelkov"><span class="title">Upravljanje nosilcev in razdelkov</span><span class="linkdiv-dash"> — </span><span class="desc">Naučite se kaj so nosilci in diski in uporabiti diskovna orodja za njihovo upravljanje.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">

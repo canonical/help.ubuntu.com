@@ -62,7 +62,8 @@
 <li class="steps"><p class="p">Sélectionnez <span class="gui">Verrouiller l'écran</span>.</p></li>
 <li class="steps"><p class="p">Si le <span class="gui">Verrouillage automatique de l'écran</span> est activé, vous pouvez modifier la valeur dans la liste déroulante <span class="gui">Verrouiller l'écran inactif après</span>.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Astuce"><div class="inner"><div class="region"><div class="contents"><p class="p">Pour que l'écran ne se verrouille pas automatiquement, basculez le <span class="gui">Verrouillage automatique de l'écran</span> sur <span class="gui">Désactivé</span>.</p></div></div></div></div>
+<div class="note note-tip" title="Astuce"><div class="inner"><div class="region"><div class="contents"><p class="p">If you don’t ever want the screen to lock itself automatically, switch
+    <span class="gui">Automatic Screen Lock</span> to <span class="gui">OFF</span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

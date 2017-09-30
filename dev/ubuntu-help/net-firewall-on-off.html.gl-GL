@@ -51,9 +51,14 @@
 <div class="contents">
 <p class="p">O seu sistema debería estar equipado con un <span class="em">firewall</span> que lle permita bloquear os programas aos que están sendo accedidos por outras persoas en internet ou na rede local. Isto axúdalle a manter o seu computador seguro.</p>
 <p class="p">Algúns aplicativos poden usar a súa conexión de rede. Por exemplo, pode compartir ficheiros ou deixarlle a outras persoas ver o seu escritorio de forma remota ao conectarse a unha rede. Dependendo de como estea configurado o seu computador, podería necesitar axustar o firewall para permitir a ditos servizos funcionar como deben.</p>
-<p class="p">Cada programa que fornece servizos de rede usa un <span class="em">porto de rede</span> específico. Para permitirlle a outro computador na rede acceder a un servizo, debe «abrir» o seu porto asignado na devasa:</p>
+<p class="p">Each program that provides network services uses a specific <span class="em">network
+  port</span>. To enable other computers on the network to access a service, you
+  may need to “open” its assigned port on the firewall:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Vaia a <span class="gui">Actividades</span> na esquina superior esquerda da pantalal e inicie o aplicativo da devasa. Debe instalar un xestor de devasa por si mesmo se non atopa un (por exemplo, Firestarter ou GUFW).</p></li>
+<li class="steps"><p class="p">Go to <span class="gui">Activities</span> in the top left corner of the screen and
+      start your firewall application. You may need to install a firewall
+      manager yourself if you can’t find one (for example, Firestarter or
+      GUFW).</p></li>
 <li class="steps"><p class="p">Abra ou desactive un porto para un servizo de rede, dependendo de se quere que as persoas poidan acceder a el ou non. O porto que debe cambiar <span class="link"><a href="net-firewall-ports.html" title="Portos de rede usados frecuentemente">dependerá do servizo</a></span>.</p></li>
 <li class="steps"><p class="p">Garde ou aplique os cambios, seguindo as instrucións adicionais fornecidas pola ferramenta da devasa.</p></li>
 </ol></div></div></div>

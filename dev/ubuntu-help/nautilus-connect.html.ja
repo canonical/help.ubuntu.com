@@ -59,7 +59,7 @@ application from the <span class="gui">Activities</span> overview, and click
 <span class="gui">Other Locations</span> in the sidebar. The file manager
 will find any computers on your local area network that advertize
 their ability to serve files. If you want to connect to a server
-on the internet, or if you do not see the computer you're looking
+on the internet, or if you do not see the computer you’re looking
 for, you can manually connect to a server by typing in its
 internet/network address.</p>
 <div class="steps"><div class="inner">
@@ -105,7 +105,8 @@ internet/network address.</p>
 <p class="p">サーバーに <span class="em">Secure Shell</span> アカウントがあれば、この方法で接続できます。多くの web ホストは、メンバー向けの SSH アカウントを提供しており、安全にファイルのアップロードができます。SSH サーバーを利用するには、サーバーにログインする必要があります。</p>
 <p class="p">典型的な SSH の URL は次のような書式になります。</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ssh://username@servername.example.com/folder</span></p></div></div></div></div>
-<p class="p">SSH を使用する場合、すべての送信データ (パスワードを含む) は暗号化されるので、ネットワークの他のユーザーがその内容を盗聴することはできません。</p>
+<p class="p">When using SSH, all the data you send (including your password)
+  is encrypted so that other users on your network can’t see it.</p>
 </dd>
 <dt class="terms">FTP (要ログイン)</dt>
 <dd class="terms">
@@ -128,7 +129,11 @@ internet/network address.</p>
 </dd>
 <dt class="terms">WebDAV および Secure WebDAV</dt>
 <dd class="terms">
-<p class="p">Web で使われる HTTP プロトコルをベースにして、ローカルネットワーク上でファイルを共有したり、インターネット上にファイルを保存したりするのに、WebDAV がときどき使用されます。サーバーがセキュアな接続をサポートする場合は、それを利用した方がよいでしょう。Secure WebDAV は強力な SSL 暗号を使用しており、他のユーザーがあなたのパスワードを覗き見ることはできません。</p>
+<p class="p">Based on the HTTP protocol used on the web, WebDAV is sometimes used to
+  share files on a local network and to store files on the internet. If the
+  server you’re connecting to supports secure connections, you should choose
+  this option. Secure WebDAV uses strong SSL encryption, so that other users
+  can’t see your password.</p>
 <p class="p">A WebDAV URL looks like this:</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">dav://example.hostname.com/path</span></p></div></div></div></div>
 </dd>

@@ -55,7 +55,8 @@
       start typing <span class="gui">Details</span>.</p></li>
 <li class="steps">
 <p class="p">Нажмите <span class="gui">Подробности</span>, чтобы открыть этот раздел настроек.</p>
-<p class="p">В появившемся окне будет выведена информация о вашей системе, в том числе название дистрибутива и версия GNOME.</p>
+<p class="p">A window appears showing information about your system, including your
+      distribution’s name and the GNOME version.</p>
 </li>
 </ol></div></div></div>
 </div>

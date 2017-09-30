@@ -186,7 +186,7 @@
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard.html" title="Клавиатура">Клавиатура</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Раскладки клавиатуры</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Как сделать клавиатурный курсор мигающим?">мигание курсора</a></span>, <span class="link"><a href="a11y.html#mobility" title="Ограничения подвижности">специальные возможности клавиатуры</a></span>…</span>
+<a href="keyboard.html" title="Клавиатура">Клавиатура</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Использование альтернативных раскладок клавиатуры">Раскладки клавиатуры</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Как сделать клавиатурный курсор мигающим?">мигание курсора</a></span>, <span class="link"><a href="a11y.html#mobility" title="Ограничения подвижности">специальные возможности клавиатуры</a></span>…</span>
 </li>
 <li class="links ">
 <a href="tips.html" title="Полезные советы">Полезные советы</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Ввод специальных символов">Специальные символы</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Нажатие средней кнопки мыши">использование средней кнопки мыши</a></span>…</span>

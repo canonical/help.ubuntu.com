@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Networking, web &amp; email</title>
+<title>Netwerk, web &amp; </title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,16 +46,20 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Networking, web &amp; email</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Netwerk, web &amp; </span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wireless.html" title="Wireless Networking">Wireless Networking</a></div>
+<div class="links-grid-link"><a href="net-wireless.html" title="Draadloos netwerk">Draadloos netwerk</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-wireless-connect.html" title="Connect to a wireless network">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="Connect to a hidden wireless network">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="Why does my wireless network keep disconnecting?">Disconnecting</a></span>…
+      <span class="link"><a href="net-wireless-connect.html" title="Verbinding maken met een draadloos netwerk">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html" title="Met een verborgen draadloos netwerk verbinden">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Disconnecting</a></span>…
     </span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="net-wired.html" title="Bekabeld netwerk">Bekabeld netwerk</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html" title="Verbinden met een bekabeld (Ethernet) netwerk">Bekabelde internetverbindingen</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Een verbinding met een vast IP-adres aanmaken">Vaste IP-adressen</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-chat.html" title="Chatten &amp; sociaal netwerken">Chatten &amp; sociaal netwerken</a></div>
@@ -66,61 +70,32 @@
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="contacts.html" title="Contacts">Contacts</a></div>
-<div class="desc"><span class="desc">Access your contacts.</span></div>
+<div class="links-grid-link"><a href="contacts.html" title="Contacten">Contacten</a></div>
+<div class="desc"><span class="desc">Toegang tot uw contacten.</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-email.html" title="Email &amp; email software">Email &amp; email software</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="net-default-email.html" title="Change which mail application is used to write emails">Default email apps</a></span>,
-      <span class="link"><a href="net-email-virus.html" title="Do I need to scan my emails for viruses?">Should I scan for viruses?</a></span>…
-    </span></div>
+<div class="links-grid-link"><a href="sharing.html" title="Delen">Delen</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="sharing-desktop.html" title="Deel uw desktop">Bureaublad delen</a></span>, <span class="link"><a href="files-share.html" title="Bestanden delen per e-mail">Bestanden delen per e-mail</a></span>, <span class="link"><a href="sharing-media.html" title="Uw muziek, foto's en video's delen">Media delen</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-security.html" title="Keeping safe on the internet">Keeping safe on the internet</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="net-antivirus.html" title="Do I need anti-virus software?">Antivirus software</a></span>,
-      <span class="link"><a href="net-firewall-on-off.html" title="Enable or block firewall access">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html" title="Commonly-used network ports">firewall ports</a></span>…
-    </span></div>
+<div class="links-grid-link"><a href="net-email.html" title="E mail &amp; e-mailsoftware">E mail &amp; e-mailsoftware</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-default-email.html" title="Wijzigen welk e-mailprogramma gebruikt wordt om e-mails te schrijven">Standaard e-mailtoepassingen</a></span>, <span class="link"><a href="net-email-virus.html" title="Moet ik mijn e-mails controleren op virussen?">Moet ik op virussen scannen?</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-problem.html" title="Network problems">Network problems</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="net-wireless-troubleshooting.html" title="Wireless network troubleshooter">Troubleshooting wireless connections</a></span>,
-      <span class="link"><a href="net-wireless-find.html" title="I can't see my wireless network in the list">finding your wifi network</a></span>…
-    </span></div>
+<div class="links-grid-link"><a href="net-problem.html" title="Netwerkproblemen">Netwerkproblemen</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html" title="Probleemoplosser draadloos netwerk">Problemen met draadloze verbindingen oplossen</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">Uw wifi-netwerk vinden</a></span>...</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-general.html" title="Networking terms &amp; tips">Networking terms &amp; tips</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="net-findip.html" title="Find your IP address">Find your IP address</a></span>,
-      <span class="link"><a href="net-wireless-wepwpa.html" title="What do WEP and WPA mean?">WEP &amp; WPA security</a></span>,
-      <span class="link"><a href="net-macaddress.html" title="What is a MAC address?">MAC addresses</a></span>,
-      <span class="link"><a href="net-proxy.html" title="Define proxy settings">proxies</a></span>…
-    </span></div>
+<div class="links-grid-link"><a href="net-general.html" title="Netwerktermen &amp; -tips">Netwerktermen &amp; -tips</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-findip.html" title="Uw IP-adres achterhalen">Uw IP-adres vinden</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Wat betekenen WEP en WPA?">WEP- &amp; WPA-beveiliging</a></span>, <span class="link"><a href="net-macaddress.html" title="Wat is een MAC-adres?">MAC-adressen</a></span>, <span class="link"><a href="net-proxy.html" title="Proxy-instellingen definiëren">proxy's</a></span>...</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="sharing.html" title="Sharing">Sharing</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="sharing-desktop.html" title="Share your desktop">Desktop sharing</a></span>,
-      <span class="link"><a href="files-share.html" title="Share files by email">Share files by email</a></span>,
-      <span class="link"><a href="sharing-media.html" title="Share your music, photos and videos">Media sharing</a></span>…
-    </span></div>
+<div class="links-grid-link"><a href="net-security.html" title="Veiligheid op het internet">Veiligheid op het internet</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-antivirus.html" title="Heb ik anti-virussoftware nodig?">Antivirussoftware</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Firewalltoegang inschakelen of blokkeren.">basis-firewalls</a></span>, <span class="link"><a href="net-firewall-ports.html" title="Veelgebruikte netwerkpoorten">firewall-poorten</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-browser.html" title="Web Browsers">Web Browsers</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="net-default-browser.html" title="Change which web browser opens websites by default">Change the default browser</a></span>,
-      <span class="link"><a href="net-install-flash.html" title="De Flash plug-in installeren">install Flash</a></span>…
-    </span></div>
-</div>
-<div class="links-grid ">
-<div class="links-grid-link"><a href="net-wired.html" title="Wired Networking">Wired Networking</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="net-wired-connect.html" title="Connect to a wired (Ethernet) network">Wired internet connections</a></span>,
-      <span class="link"><a href="net-fixed-ip-address.html" title="Create a connection with a fixed IP address">Fixed IP addresses</a></span>…
-    </span></div>
+<div class="links-grid-link"><a href="net-browser.html" title="Webbrowsers">Webbrowsers</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-default-browser.html" title="Wijzigen in welke webbrowser websites geopend moeten worden">De standaard webbrowser wijzigen</a></span>, <span class="link"><a href="net-install-flash.html" title="De Flash plug-in installeren">Flash installeren</a></span>…</span></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">

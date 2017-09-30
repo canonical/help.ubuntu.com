@@ -58,7 +58,7 @@
 <li class="steps"><p class="p">Cliquez sur le bouton <span class="gui">Déverrouiller</span> en haut à droite et saisissez votre mot de passe.</p></li>
 <li class="steps"><p class="p">Sélectionnez l'utilisateur dont vous souhaitez modifier les privilèges.</p></li>
 <li class="steps"><p class="p">Cliquez sur l'étiquette <span class="gui">Normal</span> située à côté de <span class="gui">Type de compte</span> et sélectionnez<span class="gui">Administrateur</span>.</p></li>
-<li class="steps"><p class="p">Les privilèges de l'utilisateur seront modifiés lors de sa prochaine connexion.</p></li>
+<li class="steps"><p class="p">The user’s privileges will be changed when they next log in.</p></li>
 </ol></div></div></div>
 <div class="note" title="Note"><div class="inner"><div class="region"><div class="contents">
 <p class="p">Le premier compte utilisateur créé sur le système possède généralement les privilèges administrateur. Il s'agit du premier compte utilisateur créé après l'installation du système.</p>

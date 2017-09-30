@@ -49,23 +49,18 @@
 <div class="hgroup"><h1 class="title"><span class="title">Ler a pantalla</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">GNOME provides the <span class="app">Orca</span> screen reader to speak the user
-  interface. Depending on how you installed GNOME, you might not have
-  Orca installed. If not, install Orca first.</p>
-<p class="p">To start <span class="app">Orca</span> using the keyboard:</p>
-<div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps"><p class="p">Press <span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>S</kbd></span>.</p></li></ol></div></div></div>
-<p class="p">Or to start <span class="app">Orca</span> using a mouse and keyboard:</p>
+<p class="p">GNOME fornece o lector de pantalla <span class="app">Orca</span> para ler a interface de usuario. Dependendo de como instalara GNOME, pode non ter Orca instalado. Se non é así, instale Orca primeiro.</p>
+<p class="p">Para iniciar <span class="app">Orca</span> use o teclado:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps"><p class="p">Prema <span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>S</kbd></span>.</p></li></ol></div></div></div>
+<p class="p">Ou inicie <span class="app">Orca</span> usando un rato e teclado:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Actividades</a></span> e comece a escribir <span class="gui">Acceso universal</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Universal Access</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Screen Reader</span> in the <span class="gui">Seeing</span> section, then
-      switch <span class="gui">Screen Reader</span> on in the dialog.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Acceso universal</span> para abrir o panel.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Lector de pantalla</span> na sección <span class="gui">Visión</span> e logo active o <span class="gui">Lector de pantalla</span> no diálogo.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Suxestión"><div class="inner">
-<div class="title title-note"><h2><span class="title">Quickly turn Screen Reader on and off</span></h2></div>
-<div class="region"><div class="contents"><p class="p">You can turn Screen Reader on and off by clicking the
-    <span class="link"><a href="a11y-icon.html" title="Atopar o menú de acceso universal">accessibility icon</a></span> in the top bar and
-    selecting <span class="gui">Screen Reader</span>.</p></div></div>
+<div class="title title-note"><h2><span class="title">Activar e desactivar rapidamente o Lector de pantalla.</span></h2></div>
+<div class="region"><div class="contents"><p class="p">Pode activar e desactivar de forma rápida o Lector de Pantalla desde a <span class="link"><a href="a11y-icon.html" title="Atopar o menú de acceso universal">icona de accesibilidade</a></span> na barra superior e seleccoine <span class="gui">Lector de pantalla</span>.</p></div></div>
 </div></div>
 <p class="p">Visite a <span class="link"><a href="help:orca" title="help:orca">axuda de Orca</a></span> para obter máis información.</p>
 </div>

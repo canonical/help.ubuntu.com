@@ -54,7 +54,7 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
 <p class="p"><span class="em-bold em">En hektisk tid på dagen</span></p>
-<p class="p">Internetleverantörer tillhandahåller ställer ofta inte internetanslutningar så att de delas mellan flera hushåll. Även om ni ansluter separat via era egna telefonlinjer eller kabelanslutningar, så är anslutningen till resten av internet vid telestationen antagligen delad. Om detta är fallet och många av dina grannar använder internet samtidigt som du kan du uppleva att det går långsamt. Du kommer troligtvis att uppleva detta vid tidpunkter när dina grannar antagligen använder internet (exempelvis på kvällar).</p>
+<p class="p">Internetleverantörer tillhandahåller ställer ofta in internetanslutningar så att de delas mellan flera hushåll. Även om ni ansluter separat via era egna telefonlinjer eller kabelanslutningar, så är anslutningen till resten av internet vid telestationen antagligen delad. Om detta är fallet och många av dina grannar använder internet samtidigt som du kan du uppleva att det går långsamt. Du löper störst risk att uppleva detta vid tidpunkter när dina grannar antagligen använder internet (exempelvis på kvällar).</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Hämta många saker samtidigt</span></p>
@@ -66,15 +66,15 @@
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Låg signalstyrka för trådlösa anslutningar</span></p>
-<p class="p">Om du är trådlöst ansluten (wifi) till internet, kontrollera nätverksikonen i systemraden för att se om du har bra trådlös signalmottagning. Om inte kan internet upplevas långsamt för att du inte har en särskilt stark signal.</p>
+<p class="p">Om du är trådlöst ansluten till internet (wifi), kontrollera nätverksikonen i systemraden för att se om du har bra trådlös signalmottagning. Om inte kan internet upplevas långsamt för att du inte har en särskilt stark signal.</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Att använda en långsammare, mobil internetanslutning</span></p>
-<p class="p">Om du har en mobil internetanslutning och märker att den är långsam kan du har förflyttat dig in i ett område där signalmottagningen är dålig. När detta händer kommer internetanslutningen automatiskt att växla från en snabb ”mobilt bredbands”-anslutning som 3G till en mer tillförlitlig, men långsammare, anslutning som GPRS.</p>
+<p class="p">Om du har en mobil internetanslutning och märker att den är långsam kan du ha förflyttat dig in i ett område där signalmottagningen är dålig. När detta händer kommer internetanslutningen automatiskt att växla från en snabb ”mobilt bredbands”-anslutning som 3G till en mer tillförlitlig, men långsammare, anslutning som GPRS.</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Webbläsaren har problem</span></p>
-<p class="p">Ibland inträffar problem som gör webbläsare långsamma. Detta hända på grund av ett antal olika skäl - du kan ha besökt en webbplats som webbläsaren kämpade med att ladda, eller så kan du till exempel ha haft webbläsaren öppen länge. Prova att stänga alla webbläsarens fönster och sedan öppna webbläsaren igen för att se om detta göra någon skillnad.</p>
+<p class="p">Ibland inträffar problem som gör webbläsare långsamma. Detta hända på grund av ett antal olika skäl — du kan ha besökt en webbplats som webbläsaren kämpade med att ladda, eller så kan du till exempel ha haft webbläsaren öppen länge. Prova att stänga alla webbläsarens fönster och sedan öppna webbläsaren igen för att se om detta gör någon skillnad.</p>
 </li>
 </ul></div></div></div>
 </div>

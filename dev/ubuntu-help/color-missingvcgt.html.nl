@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Missing information for whole-screen color correction?</title>
+<title>Mist u informatie voor kleurcorrectie voor volledig scherm?</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,26 +44,17 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="color.html" title="Color management">Color management</a> › <a class="trail" href="color.html#problems" title="Problemen">Problemen</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html#problems" title="Problemen">Problemen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="color.html" title="Color management">Color management</a> › <a class="trail" href="color.html#problems" title="Problemen">Problemen</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html#problems" title="Problemen">Problemen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Missing information for whole-screen color correction?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Mist u informatie voor kleurcorrectie voor volledig scherm?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    Unfortunately, many vendor-supplied ICC profiles do not include the
-    information required for whole-screen color correction.
-    These profiles can still be useful for applications that can do color
-    compensation, but you will not see all the colors of your screen change.
-  </p>
-<p class="p">
-    In order to create a display profile, which includes both calibration and
-    characterization data, you will need to use a special color measuring
-    instruments called a colorimeter or a spectrometer.
-  </p>
+<p class="p">Helaas missen veel door verkopers geleverde ICC-profielen informatie die nodig is voor kleurcorrectie van een volledig scherm. Deze profielen kunnen nog steeds nuttig zijn voor toepassingen die aan kleurcompensatie doen, maar u zult niet alle kleuren van uw scherm zien veranderen.</p>
+<p class="p">Om een beeldschermprofiel te creëren dat gegevens bevat voor zowel kalibratie als karakterisering, heeft u een speciaal meetinstrument nodig genaamd een colorimeter of een spectrometer.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -75,7 +66,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="color-gettingprofiles.html" title="Where do I get color profiles?">Where do I get color profiles?</a><span class="desc"> — Color profiles are provided by vendors and can be generated yourself.</span>
+<a href="color-gettingprofiles.html" title="Waar kan ik een kleurprofiel verkrijgen?">Waar kan ik een kleurprofiel verkrijgen?</a><span class="desc"> — Kleurprofielen worden geleverd door leveranciers en kunnen door u zelf gegenereerd worden.</span>
 </li></ul></div>
 </div></div>
 </div>

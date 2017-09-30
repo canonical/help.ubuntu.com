@@ -78,12 +78,12 @@
 <div class="hgroup"><h2 class="title"><span class="title">Музыка и портативные аудиоплееры</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="music-player-newipod.html" title="Мой новый iPod не работает"><span class="title">Мой новый iPod не работает</span><span class="linkdiv-dash"> — </span><span class="desc">Современные устройства iPod нужно настроить с помощью программы iTunes перед использованием.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="music-player-ipodtransfer.html" title="Музыкальные композиции не появляются на моём iPod, когда я копирую их туда"><span class="title">Музыкальные композиции не появляются на моём iPod, когда я копирую их туда</span><span class="linkdiv-dash"> — </span><span class="desc">Используйте медиапроигрыватель для копирования музыкальных композиций, а затем безопасно извлеките iPod.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-cantplay-drm.html" title="I can’t play the songs I bought from an online music store"><span class="title">I can’t play the songs I bought from an online music store</span><span class="linkdiv-dash"> — </span><span class="desc">Support for that file format might not be installed or the songs could be “copy protected”.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-player-newipod.html" title="My new iPod won’t work"><span class="title">My new iPod won’t work</span><span class="linkdiv-dash"> — </span><span class="desc">Современные устройства iPod нужно настроить с помощью программы iTunes перед использованием.</span></a></div>
 </div>
 <div class="links-twocolumn">
+<div class="linkdiv "><a class="linkdiv" href="music-player-ipodtransfer.html" title="Songs don’t appear on my iPod when I copy them onto it"><span class="title">Songs don’t appear on my iPod when I copy them onto it</span><span class="linkdiv-dash"> — </span><span class="desc">Используйте медиапроигрыватель для копирования музыкальных композиций, а затем безопасно извлеките iPod.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="Открытие приложений для устройств и дисков"><span class="title">Открытие приложений для устройств и дисков</span><span class="linkdiv-dash"> — </span><span class="desc">Автоматический запуск приложений для CD и DVD, камер, аудиопроигрывателей и других устройств и носителей информации.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="music-cantplay-drm.html" title="Я не могу воспроизвести музыку, приобретённую в музыкальном Интернет-магазине"><span class="title">Я не могу воспроизвести музыку, приобретённую в музыкальном Интернет-магазине</span><span class="linkdiv-dash"> — </span><span class="desc">Возможно, не установлена поддержка этого формата файлов или музыкальные композиции «защищены от копирования».</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -98,9 +98,9 @@
 <div class="hgroup"><h2 class="title"><span class="title">Видеозаписи и видеокамеры</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="video-sending.html" title="Другие люди не могут воспроизвести созданные мной видеофайлы"><span class="title">Другие люди не могут воспроизвести созданные мной видеофайлы</span><span class="linkdiv-dash"> — </span><span class="desc">Проверьте, установлены ли нужные видеокодеки.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-sending.html" title="Other people can’t play the videos I made"><span class="title">Other people can’t play the videos I made</span><span class="linkdiv-dash"> — </span><span class="desc">Проверьте, установлены ли нужные видеокодеки.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-dvd.html" title="Why won’t DVDs play?"><span class="title">Why won’t DVDs play?</span><span class="linkdiv-dash"> — </span><span class="desc">Вероятно, не установлены необходимые кодеки, или DVD не из того региона.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="Открытие приложений для устройств и дисков"><span class="title">Открытие приложений для устройств и дисков</span><span class="linkdiv-dash"> — </span><span class="desc">Автоматический запуск приложений для CD и DVD, камер, аудиопроигрывателей и других устройств и носителей информации.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="video-dvd.html" title="Почему не воспроизводятся DVD?"><span class="title">Почему не воспроизводятся DVD?</span><span class="linkdiv-dash"> — </span><span class="desc">Вероятно, не установлены необходимые кодеки, или DVD не из того региона.</span></a></div>
 </div>
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="app-cheese.html" title="Создайте забавные фото и видео с помощью веб-камеры"><span class="title">Создайте забавные фото и видео с помощью веб-камеры</span><span class="linkdiv-dash"> — </span><span class="desc">Ваша собственная фотобудка.</span></a></div>

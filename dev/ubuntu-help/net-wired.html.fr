@@ -50,7 +50,8 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="linkdiv "><a class="linkdiv" href="net-wired-connect.html" title="Connexion à un réseau filaire (Ethernet)"><span class="title">Connexion à un réseau filaire (Ethernet)</span><span class="linkdiv-dash"> — </span><span class="desc">Pour configurer la plupart des connexions câblées, il suffit de brancher un câble réseau.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-manual.html" title="Configuration manuelle des paramètres réseau"><span class="title">Configuration manuelle des paramètres réseau</span><span class="linkdiv-dash"> — </span><span class="desc">Si les paramètres réseau ne sont pas définis automatiquement, vous pourriez avoir à les saisir vous-même.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-manual.html" title="Configuration manuelle des paramètres réseau"><span class="title">Configuration manuelle des paramètres réseau</span><span class="linkdiv-dash"> — </span><span class="desc">You may have to enter network settings if they don’t get assigned
+    automatically.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-vpn-connect.html" title="Connexion à un VPN"><span class="title">Connexion à un VPN</span><span class="linkdiv-dash"> — </span><span class="desc">Configurer une connexion VPN à un réseau local via Internet.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-fixed-ip-address.html" title="Création d'une connexion avec une adresse IP fixe"><span class="title">Création d'une connexion avec une adresse IP fixe</span><span class="linkdiv-dash"> — </span><span class="desc">Utiliser une adresse IP statique peut simplifier la gestion de certains services réseau à partir de votre ordinateur.</span></a></div>
 </div></div></div></div>

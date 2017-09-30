@@ -51,9 +51,14 @@
 <div class="contents">
 <p class="p">Το σύστημά σας πρέπει να είναι εφοδιασμένο με ένα <span class="em">τείχος προστασίας</span> που του επιτρέπει να φράσσει την πρόσβαση προγραμμάτων από άλλα άτομα στο διαδίκτυο ή στο δίκτυο σας. Αυτό βοηθά να κρατήσετε τον υπολογιστή σας ασφαλή.</p>
 <p class="p">Πολλές εφαρμογές μπορούν να χρησιμοποιήσουν την δικτυακή σύνδεσή σας. Για παράδειγμα, μπορείτε να μοιραστείτε αρχεία ή να αφήσετε κάποιον να προβάλει την επιφάνεια εργασίας σας απομακρυσμένα όταν συνδέεται με ένα δίκτυο. Ανάλογα με πώς ο υπολογιστής σας ορίστηκε, μπορεί να χρειαστείτε να ρυθμίσετε το τείχος προστασίας για να επιτρέψετε αυτές τις υπηρεσίες να δουλέψουν όπως προβλέπεται.</p>
-<p class="p">Κάθε πρόγραμμα που παρέχει υπηρεσίες δικτύου χρησιμοποιεί μια ειδική <span class="em">δικτυακή θύρα</span>. Για να ενεργοποιήσετε άλλους υπολογιστές στο δίκτυο να προσπελάσουν μια υπηρεσία, μπορεί να χρειαστείτε να "ανοίξετε" την εκχωρημένη του θύρα στο τείχος προστασίας:</p>
+<p class="p">Each program that provides network services uses a specific <span class="em">network
+  port</span>. To enable other computers on the network to access a service, you
+  may need to “open” its assigned port on the firewall:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Πηγαίνετε στις <span class="gui">Δραστηριότητες</span> στην πάνω αριστερή γωνία της οθόνης και αρχίστε την εφαρμογή τείχους προστασίας. Μπορεί να χρειαστεί να εγκαταστήσετε έναν διαχειριστή τείχους προστασίας ο ίδιος εάν δεν μπορείτε να βρείτε έναν (για παράδειγμα, Firestarter ή GUFW).</p></li>
+<li class="steps"><p class="p">Go to <span class="gui">Activities</span> in the top left corner of the screen and
+      start your firewall application. You may need to install a firewall
+      manager yourself if you can’t find one (for example, Firestarter or
+      GUFW).</p></li>
 <li class="steps"><p class="p">Ανοίξτε ή απενεργοποιήστε τη θύρα για την δικτυακή υπηρεσία, ανάλογα με το εάν θέλετε τα άτομα να μπορούν να το προσπελάσουν ή όχι. Ποια θύρα χρειάζεται να αλλάξετε θα <span class="link"><a href="net-firewall-ports.html" title="Κοινές χρησιμοποιούμενες θύρες δικτύου">εξαρτηθεί από την υπηρεσία</a></span>.</p></li>
 <li class="steps"><p class="p">Αποθηκεύστε ή εφαρμόστε τις αλλαγές, ακολουθώντας οποιεσδήποτε πρόσθετες οδηγίες που δίνονται από το εργαλείο του τείχους προστασίας.</p></li>
 </ol></div></div></div>

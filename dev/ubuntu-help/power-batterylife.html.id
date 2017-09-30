@@ -107,7 +107,7 @@
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="power.html" title="Daya &amp; baterai">Daya &amp; baterai</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-status.html" title="Periksa status baterai">Battery status</a></span>,
       <span class="link"><a href="power-suspend.html" title="Apa yang terjadi ketika saya mensuspensi komputer?">suspend</a></span>,
       <span class="link"><a href="power-whydim.html" title="Mengapa layar saya meredup setelah beberapa saat?">screen dimming</a></span>…
     </span>
@@ -119,9 +119,6 @@
 <li class="links ">
 <a href="power-suspend.html" title="Apa yang terjadi ketika saya mensuspensi komputer?">Apa yang terjadi ketika saya mensuspensi komputer?</a><span class="desc"> — Suspensi mengatur komputer Anda agar tidur sehingga memakai lebih sedikit daya.</span>
 </li>
-<li class="links ">
-<a href="power-status.html" title="Check the battery status">Check the battery status</a><span class="desc"> — Display the status of the battery and connected devices.</span>
-</li>
 <li class="links "><a href="shell-exit.html#shutdown" title="Matikan atau start ulang">Matikan atau start ulang</a></li>
 <li class="links ">
 <a href="power-whydim.html" title="Mengapa layar saya meredup setelah beberapa saat?">Mengapa layar saya meredup setelah beberapa saat?</a><span class="desc"> — The screen will dim when the computer is idle in order to save power.</span>
@@ -129,6 +126,9 @@
 <li class="links ">
 <a href="power-batterywindows.html" title="Mengapa usia baterai saya kurang daripada di Windows/Mac OS?">Mengapa usia baterai saya kurang daripada di Windows/Mac OS?</a><span class="desc"> — Tweaks from the manufacturer and differing battery life estimates may
     be the cause of this problem.</span>
+</li>
+<li class="links ">
+<a href="power-status.html" title="Periksa status baterai">Periksa status baterai</a><span class="desc"> — Display the status of the battery and connected devices.</span>
 </li>
 <li class="links ">
 <a href="display-brightness.html" title="Set screen brightness">Set screen brightness</a><span class="desc"> — Change the screen brightness to make it more readable in bright

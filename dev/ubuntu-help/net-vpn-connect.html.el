@@ -53,9 +53,25 @@
 <div class="hgroup"><h1 class="title"><span class="title">Σύνδεση σε VPN</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Ένα VPN (ή <span class="em">Εικονικό ιδιωτικό δίκτυο</span>) είναι ένας τρόπος σύνδεσης σε τοπικό δίκτυο μέσω διαδικτύου. Για παράδειγμα, ας πούμε ότι θέλετε να συνδεθείτε σε ένα τοπικό δίκτυο στον χώρο εργασίας, ενώ είσαστε σε ένα επαγγελματικό ταξίδι. Μπορεί να βρείτε μια σύνδεση διαδικτύου κάπου (όπως σε ένα ξενοδοχείο) και έπειτα να συνδεθείτε με το VPN του χώρου εργασίας σας. Θα είναι σαν να ήσασταν άμεσα συνδεμένοι στο δίκτυο στη δουλειά, αλλά η ενεργή σύνδεση διαδικτύου μπορεί να είναι μέσα από τη σύνδεση διαδικτύου του ξενοδοχείου. Οι συνδέσεις VPN είναι συνήθως <span class="em">κρυπτογραφημένες</span> για να αποτρέψουν τα άτομα από την πρόσβαση του τοπικού δικτύου που συνδέεστε χωρίς σύνδεση.</p>
-<p class="p">Υπάρχουν πολλοί διαφορετικοί τύποι VPN. Μπορεί να πρέπει να εγκαταστήσετε κάποιο πρόσθετο λογισμικό ανάλογα με τον τύπο του VPN που συνδέεστε. Βρείτε τις λεπτομέρειες σύνδεσης από οποιονδήποτε είναι επιφορτισμένος με το VPN και δείτε ποιον <span class="em">πελάτη VPN</span> χρειάζεστε να χρησιμοποιήσετε. Έπειτα, πηγαίνετε στην εφαρμογή εγκαταστάτη λογισμικού και αναζητήστε το πακέτο <span class="app">NetworkManager</span> που δουλεύει με το VPN σας (εάν υπάρχει τέτοιο) και εγκαταστήστε το.</p>
-<div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">Εάν δεν υπάρχει ένα πακέτο NetworkManager για τον τύπο σας του VPN, θα πρέπει προφανώς να κάνετε λήψη και να εγκαταστήσετε κάποιο λογισμικό πελάτη από την εταιρεία που παρέχει το λογισμικό VPN. Θα πρέπει προφανώς να ακολουθήσετε κάποιες διαφορετικές οδηγίες για να το κάνετε να δουλέψει.</p></div></div></div></div>
+<p class="p">A VPN (or <span class="em">Virtual Private Network</span>) is a way of connecting to a
+ local network over the internet. For example, say you want to connect to the
+ local network at your workplace while you’re on a business trip. You would
+ find an internet connection somewhere (like at a hotel) and then connect to
+ your workplace’s VPN. It would be as if you were directly connected to the
+ network at work, but the actual network connection would be through the
+ hotel’s internet connection. VPN connections are usually <span class="em">encrypted</span>
+ to prevent people from accessing the local network you’re connecting to
+ without logging in.</p>
+<p class="p">There are a number of different types of VPN. You may have to install some
+ extra software depending on what type of VPN you’re connecting to. Find out
+ the connection details from whoever is in charge of the VPN and see which
+ <span class="em">VPN client</span> you need to use. Then, go to the software installer
+ application and search for the <span class="app">NetworkManager</span> package which works
+ with your VPN (if there is one) and install it.</p>
+<div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">If there isn’t a NetworkManager package for your type of VPN, you will
+ probably have to download and install some client software from the company
+ that provides the VPN software. You’ll probably have to follow some different
+ instructions to get that working.</p></div></div></div></div>
 <p class="p">Για να ρυθμίσετε τη σύνδεση VPN:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Δίκτυο</span>.</p></li>

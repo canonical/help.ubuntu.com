@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Read screen in Braille</title>
+<title>Het scherm in braille lezen</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,30 +43,26 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Universal access">Universal access</a> › <a class="trail" href="a11y.html#vision" title="Visual impairments">Visual impairments</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Universele toegang">Universele toegang</a> › <a class="trail" href="a11y.html#vision" title="Visuele beperkingen">Visuele beperkingen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Read screen in Braille</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Het scherm in braille lezen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">GNOME provides the <span class="app">Orca</span> screen reader to display the user
-  interface on a refreshable Braille display. Depending on how you installed
-  GNOME, you might not have Orca installed. If not, install Orca first.</p>
-<p class="p">Refer to the <span class="link"><a href="help:orca" title="help:orca">Orca Help</a></span> for
-  more information.</p>
+<p class="p">Gnome levert de <span class="app">Orca</span>-schermlezer waarmee de gebruikersinterface wordt weergegeven op een verversbaar Braille-scherm. Afhankelijk van hoe u Gnome geïnstalleerd heeft kan het zijn dat Orca bij u niet geïnstalleerd is. Als dat het geval is, installeer Orca dan eerst.</p>
+<p class="p">Kijk in de <span class="link"><a href="help:orca" title="help:orca">Hulp voor Orca</a></span> voor meer informatie.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#vision" title="Visual impairments">Visual impairments</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html#vision" title="Visuele beperkingen">Visuele beperkingen</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="a11y-screen-reader.html" title="Read screen aloud">Read screen aloud</a><span class="desc"> — Use the <span class="app">Orca</span> screen reader to speak the user
-    interface.</span>
+<a href="a11y-screen-reader.html" title="Scherm hardop lezen">Scherm hardop lezen</a><span class="desc"> — Gebruik de <span class="app">Orca</span> schermlezer om de gebruikersinterface uit te spreken.</span>
 </li></ul></div>
 </div></div>
 </div>

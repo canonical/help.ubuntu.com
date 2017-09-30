@@ -62,7 +62,8 @@
 <li class="steps"><p class="p">Нажмите <span class="gui">Блокировка экрана</span>.</p></li>
 <li class="steps"><p class="p">Если выключатель <span class="gui">Автоматическая блокировка экрана</span> включён, то значение можно изменить в выпадающем списке <span class="gui">Блокировка экрана</span>.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Подсказка"><div class="inner"><div class="region"><div class="contents"><p class="p">Если вы не хотите, чтобы экран блокировался автоматически, передвиньте переключатель <span class="gui">Автоматическая блокировка экрана</span> в положение <span class="gui">○</span>.</p></div></div></div></div>
+<div class="note note-tip" title="Подсказка"><div class="inner"><div class="region"><div class="contents"><p class="p">If you don’t ever want the screen to lock itself automatically, switch
+    <span class="gui">Automatic Screen Lock</span> to <span class="gui">OFF</span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

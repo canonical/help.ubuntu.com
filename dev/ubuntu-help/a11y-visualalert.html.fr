@@ -50,7 +50,9 @@
 <div class="region">
 <div class="contents">
 <p class="p">L'ordinateur émet des sons simples d'alerte pour certains types de messages et d'événements. Si vous avez des difficultés à entendre ces sons, vous pouvez faire clignoter l'écran complet ou la fenêtre actuelle chaque fois qu'une alerte sonore est émise.</p>
-<p class="p">Cela peut également être utile si vous vous trouvez dans un environnement où votre ordinateur doit être silencieux, comme dans une bibliothèque. Reportez-vous à <span class="link"><a href="sound-alert.html" title="Choix ou désactivation du son d'alerte">Choix ou désactivation du son d'alerte</a></span> pour apprendre à mettre en sourdine les alertes sonores puis activer les alertes visuelles.</p>
+<p class="p">This can also be useful if you’re in an environment where you need your
+  computer to be silent, such as in a library. See <span class="link"><a href="sound-alert.html" title="Choix ou désactivation du son d'alerte">Choix ou désactivation du son d'alerte</a></span>
+  to learn how to mute the alert sound, then enable visual alerts.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ouvrez la vue d'ensemble des <span class="link"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Accès universel</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur l'icône <span class="gui">Accès universel</span> pour afficher le panneau.</p></li>

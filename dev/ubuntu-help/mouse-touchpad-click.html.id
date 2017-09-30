@@ -59,7 +59,7 @@
 <div class="region"><div class="contents">
 <p class="p">You can tap your touchpad to click instead of using a button.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Activities</a></span> overview and
       start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Tetikus &amp; Touchpad</span> untuk membuka panel.</p></li>
 <li class="steps">
@@ -71,7 +71,7 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Untuk mengklik, ketuk pada touchpad.</p></li>
 <li class="list"><p class="p">Untuk klik ganda, ketuk dua kali.</p></li>
-<li class="list"><p class="p">To drag an item, double-tap but don't lift your finger after the
+<li class="list"><p class="p">To drag an item, double-tap but don’t lift your finger after the
       second tap. Drag the item where you want it, then lift your finger to
       drop.</p></li>
 <li class="list"><p class="p">If your touchpad supports multi-finger taps, right-click by tapping
@@ -82,7 +82,9 @@
       <span class="link"><a href="mouse-middleclick.html" title="Klik tengah">middle-click</a></span> by tapping with three
       fingers at once.</p></li>
 </ul></div></div></div>
-<div class="note" title="Catatan"><div class="inner"><div class="region"><div class="contents"><p class="p">Ketika mengetuk atau menyeret dengan multi jari, pastikan bahwa jari-jari Anda terpisah cukup jauh. Bila jari-jari Anda terlalu dekat, komputer Anda mungkin mengira bahwa mereka adalah suatu jari tunggal.</p></div></div></div></div>
+<div class="note" title="Catatan"><div class="inner"><div class="region"><div class="contents"><p class="p">When tapping or dragging with multiple fingers, make sure your fingers
+    are spread far enough apart. If your fingers are too close, your computer
+    may think they’re a single finger.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="twofingerscroll" class="sect"><div class="inner">
@@ -90,7 +92,7 @@
 <div class="region"><div class="contents">
 <p class="p">You can scroll using your touchpad using two fingers.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Activities</a></span> overview and
       start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Tetikus &amp; Touchpad</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">Touchpad</span> section, check <span class="gui">Two finger
@@ -111,7 +113,7 @@
 <p class="p">You can drag content as if sliding a physical piece of paper using the
   touchpad.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Activities</a></span> overview and
       start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Tetikus &amp; Touchpad</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">Touchpad</span> section, check <span class="gui">Natural

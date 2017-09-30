@@ -50,7 +50,10 @@
 <div class="region">
 <div class="contents">
 <p class="p">Un fichier ou un dossier peut être copié ou déplacé vers une autre destination par un simple glisser-déposer à l'aide de la souris, ou avec les commandes copier et coller, ou en utilisant des raccourcis clavier.</p>
-<p class="p">Par exemple, vous pouvez copier une présentation sur une clé USB pour l'emmener avec vous au bureau, ou encore faire une copie de sauvegarde d'un document avant de le modifier (et ainsi pouvoir restaurer la copie si vous n'aimez pas vos modifications).</p>
+<p class="p">For example, you might want to copy a presentation onto a memory stick so
+ you can take it to work with you. Or, you could make a back-up copy of a
+ document before you make changes to it (and then use the old copy if you don’t
+ like your changes).</p>
 <p class="p">Les procédures suivantes s'appliquent aussi bien aux fichiers qu'aux dossiers. Ils sont copiés et déplacés les uns et les autres exactement de la même façon.</p>
 <div class="steps ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
@@ -85,7 +88,8 @@
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Fichier</span> dans la barre supérieure et choisissez <span class="gui">Nouvelle fenêtre</span> (ou pressez <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>N</kbd></span></span>) pour ouvrir une deuxième fenêtre. Dans cette nouvelle fenêtre, ouvrez le dossier dans lequel vous voulez copier ou déplacer le fichier.</p></li>
 <li class="steps">
 <p class="p">Cliquez sur le fichier et faites-le glisser d'une fenêtre à l'autre. Cette action <span class="em">le déplace</span> si sa destination est sur le même périphérique, ou <span class="em">le copie</span> si sa destination se trouve sur un périphérique différent.</p>
-<p class="p">Par exemple, en glissant un fichier de votre clé USB vers votre dossier personnel, il est copié car vous le déplacez d'un périphérique à un autre.</p>
+<p class="p">For example, if you drag a file from a USB memory stick to your Home folder,
+ it will be copied, because you’re dragging from one device to another.</p>
 <p class="p">Vous pouvez forcer la copie d'un fichier en maintenant la touche <span class="key"><kbd>Ctrl</kbd></span> enfoncée pendant le déplacement ou forcer le déplacement en maintenant la touche <span class="key"><kbd>Maj</kbd></span> enfoncée.</p>
 </li>
 </ol></div>

@@ -51,15 +51,14 @@
 <div class="contents">
 <p class="p">Bila Anda mengalami kesulitan membaca teks pada layar Anda, Anda dapat mengubah ukuran fonta.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span> overview and
-      start typing <span class="gui">Universal Access</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akses Universal</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Akses Universal</span> untuk membuka panel.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Large Text</span> to <span class="gui">ON</span> in the <span class="gui">Seeing</span>
-      section.</p></li>
+<li class="steps"><p class="p">Nyalakan <span class="gui">Teks Besar</span> dalam seksi <span class="gui">Penglihatan</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Sebagai alternatif, Anda dapat mengubah dengan cepat ukuran teks dengan mengklik <span class="link"><a href="a11y-icon.html" title="Temukan menu akses universal">ikon aksesibilitas</a></span> pada bilah puncak dan memilih <span class="gui">Teks Besar</span>.</p>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Dalam banyak aplikasi, Anda dapat memperbesar ukuran teks kapanpun dengan menekan <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>+</kbd></span></span>. Untuk memperkecil ukuran teks, tekan <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>-</kbd></span></span>.</p></div></div></div></div>
-<p class="p"><span class="gui">Teks besar</span> akan memperbesar skala teks 1,2 kali. Anda dapat memakai <span class="app">Alat Oprek</span> untuk membuat ukuran teks lebih besar atau kecil.</p>
+<p class="p"><span class="gui">Large Text</span> will scale the text by 1.2 times. You can use
+  <span class="app">Tweaks</span> to make text size bigger or smaller.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

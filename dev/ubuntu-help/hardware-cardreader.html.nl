@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Media card reader problems</title>
+<title>Problemen met geheugenkaartlezers</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,53 +44,35 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Sound, video &amp; pictures">Sound, video &amp; pictures</a> › <a class="trail" href="media.html#photos" title="Photos and digital cameras">Photos</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Geluid, video &amp; foto's">Geluid, video &amp; foto's</a> › <a class="trail" href="media.html#photos" title="Foto's en digitale camera's">Foto's</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Common problems">Problems</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Veel voorkomende problemen">Problemen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Media card reader problems</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Problemen met geheugenkaartlezers</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Many computers contain readers for SD, MMC, SM, MS, CF, and other storage media
-cards. These should be automatically detected and <span class="link"><a href="disk-partitions.html" title="Manage volumes and partitions">mounted</a></span>. Here are some
-troubleshooting steps if they are not:</p>
+<p class="p">Veel computers hebben lezers voor SD (Secure Digital), MMC (MultiMediaCard), SmartMedia, geheugenstick, CompactFlash en andere opslagmediakaarten. Deze zouden automatisch gedetecteerd en <span class="link"><a href="disk-partitions.html" title="Volumes en partities beheren">aangekoppeld</a></span> moeten worden. Hier volgen een paar stappen voor het oplossen van het probleem als dat niet het geval is:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p"> Make sure that the card is put in correctly. Many cards look as though they are
-upside down when correctly inserted. Also make sure that the card is firmly seated
-in the slot; some cards, especially CF, require a small amount of force to insert
-correctly. (Be careful not to push too hard! If you come up against something solid,
-do not force it.)</p></li>
-<li class="steps"><p class="p">Open <span class="app">Files</span> from the
-  <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview. Does the inserted
-  card appear in the <span class="gui">Devices</span> list in the left sidebar? Sometimes the
-  card appears in this list but is not mounted; click it once to mount. (If the
-  sidebar is not visible, press <span class="key"><kbd>F9</kbd></span> or click <span class="gui">Files</span> in
-  the top bar and select the <span class="gui">Sidebar</span>.)</p></li>
+<li class="steps"><p class="p">Zorg ervoor dat de kaart op de juiste manier is ingebracht. Veel kaarten lijken "ondersteboven" te zitten wanneer ze op de juiste manier zijn ingebracht. Zorg er ook voor dat de kaart goed in de sleuf zit; vooral CompactFlash moet met enige kracht ingebracht worden. (Pas op dat u niet te hard drukt! Als u ergens tegenaan komt, forceer dan niet.)</p></li>
+<li class="steps"><p class="p">Open <span class="app">Bestanden</span> via het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht. Verschijnt de ingebrachte kaart in de lijst met <span class="gui">Apparaten</span> in de linker zijbalk? Soms staat de kaart wel in de lijst, maar is hij niet aangekoppeld; klik er één keer op om hem aan te koppelen. (Als de zijbalk niet zichtbaar is, druk dan op <span class="key"><kbd>F9</kbd></span> of klik op <span class="gui">Bestanden</span> in de menubalk en kies de <span class="gui"> Zijbalk</span>.)</p></li>
 <li class="steps"><p class="p">If your card does not show up in the sidebar, press
   <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>L</kbd></span></span>, then type
   <span class="input">computer:///</span> and press <span class="key"><kbd>Enter</kbd></span>. If your card reader
   is correctly configured, the reader should come up as a drive when no card is
   present, and the card itself when the card has been mounted.</p></li>
-<li class="steps"><p class="p">If you see the card reader but not the card, the problem may be with the card itself.
-Try a different card or check the card on a different reader if possible.</p></li>
+<li class="steps"><p class="p">Als u wel de kaartlezer ziet, maar niet de kaart, dan ligt het probleem mogelijk bij de kaart zelf. Probeer het met een andere kaart of controleer de kaart in een andere lezer, indien mogelijk.</p></li>
 </ol></div></div></div>
-<p class="p">If no cards or drives are shown when browsing the <span class="gui">Computer</span>
-location, it is possible that your card reader does not work with Linux due to
-driver issues. If your card reader is internal (inside the computer instead of
-sitting outside) this is more likely. The best solution is to directly connect
-your device (camera, cell phone, etc.) to a USB port on the computer. USB
-external card readers are also available, and are far better supported by
-Linux.</p>
+<p class="p">Als er geen kaarten of schijven beschikbaar zijn in de map <span class="gui">Computer</span>, dan is het mogelijk dat uw kaartlezer niet werkt met Linux omdat er geen stuurprogramma voor is. Dit is het meer waarschijnlijk wanneer u een ingebouwde kaartlezer heeft (in de computer in plaats van daar buiten). De beste oplossing is om uw apparaat (camera, mobiele telefoon, enz.) direct op een usb-poort van de computer aan te sluiten. Externe usb-kaartlezers zijn ook te krijgen en worden veel beter ondersteund door Linux.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="hardware.html#problems" title="Common problems">Hardware problems</a></li>
-<li class="links "><a href="media.html#photos" title="Photos and digital cameras">Photos</a></li>
+<li class="links "><a href="media.html#photos" title="Foto's en digitale camera's">Foto's</a></li>
+<li class="links "><a href="hardware.html#problems" title="Veel voorkomende problemen">Hardwareproblemen</a></li>
 </ul></div>
 </div></div></div>
 </div>

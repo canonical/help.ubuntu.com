@@ -49,7 +49,11 @@
 <div class="hgroup"><h1 class="title"><span class="title">Πού να αποθηκεύσετε τα αντίγραφα σας</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Θα πρέπει να αποθηκεύετε τα αντίγραφα των αρχείων σας κάπου ξέχωρα από τον υπολογιστή σας - σε έναν εξωτερικό σκληρό δίσκο, για παράδειγμα. Με αυτό τον τρόπο, εάν ο υπολογιστής καταρρεύσει, το αντίγραφο ασφαλείας θα είναι ακόμα ανέπαφο. Για μέγιστη ασφάλεια, δεν πρέπει να κρατάτε το εφεδρικό στην ίδια κατασκευή όπως στον υπολογιστή σας. Εάν υπάρξει φωτιά ή κλοπή, και τα δύο αντίγραφα των δεδομένων μπορούν να χαθούν εάν κρατιούνται μαζί.</p>
+<p class="p">You should store backup copies of your files somewhere separate from your
+ computer — on an external hard disk, for example. That way, if the computer
+ breaks, the backup will still be intact. For maximum security, you shouldn’t
+ keep the backup in the same building as your computer. If there is a fire or
+ theft, both copies of the data could be lost if they are kept together.</p>
 <p class="p">Επίσης είναι σημαντικό να διαλέξετε ένα κατάλληλο <span class="em">μέσο εφεδρείας</span>. Χρειάζετε να αποθηκεύσετε τα αντίγραφα σας σε μια συσκευή που έχει αρκετή χωρητικότητα δίσκου για όλα τα αντίγραφα ασφαλείας.</p>
 <div class="list"><div class="inner">
 <div class="title title-list"><h2><span class="title">Τοπικές και απομακρυσμένες επιλογές αποθήκευσης</span></h2></div>

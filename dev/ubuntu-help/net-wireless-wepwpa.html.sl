@@ -49,7 +49,12 @@
 <div class="hgroup"><h1 class="title"><span class="title">Kaj WEP in WPA pomenita?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">WEP in WPA (skupaj z WPA2) sta imeni za različna orodja šifriranja, ki se uporabijo za zavarovanje vaše brezžične povezave. Šifriranje omrežno povezavo "premeša" tako, da ji ne more nihče "prisluškovati" in videti katere spletne strani si ogledujete. WEP pomeni <span class="em">zasebnost enaka žični povezavi</span> in WPA pomeni <span class="em">zaščiten brezžični dostop</span>. WPA2 je druga različica standarda WPA.</p>
+<p class="p">WEP and WPA (along with WPA2) are names for different encryption tools
+  used to secure your wireless connection. Encryption scrambles the network
+  connection so that no one can “listen in” to it and look at which web pages
+  you are viewing, for example. WEP stands for <span class="em">Wired Equivalent
+  Privacy</span>, and WPA stands for <span class="em">Wireless Protected Access</span>. WPA2 is
+  the second version of the WPA standard.</p>
 <p class="p">Uporaba <span class="em">nekaj</span> šifriranja je vedno boljša kot nič šifriranja, vendar je WEP najmanj varen od teh standardov, zato se ga izognite, če se ga lahko. WPA2 je najbolj varen od teh treh. V primeru da tako vaša brezžična kartica in usmerjevalnik podpirata WPA2, ga uporabite pri nastavljanju svojega brezžičnega omrežja.</p>
 </div>
 <div class="sect sect-links" role="navigation">

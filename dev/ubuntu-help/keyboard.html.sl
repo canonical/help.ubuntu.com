@@ -56,7 +56,7 @@
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Področje in jezik</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
+<a href="keyboard-layouts.html" title="Uporaba nadomestnih razporeditev tipk">Uporaba nadomestnih razporeditev tipk</a><span class="desc"> — Dodajte razporeditev tipk in preklapljajte med njimi.</span>
 </li></ul></div>
 </div></div>
 <div class="links topiclinks"><div class="inner">

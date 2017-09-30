@@ -51,8 +51,11 @@
 <div class="contents">
 <p class="p">Instalējot Ubuntu, valoda, ko izvēlaties instalēšanas laikā, tiks instalēta kopā ar angļu valodu, bet jūs varat pievienot papildu valodas.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the <span class="em">system menu</span> and select <span class="gui">System Settings</span>.</p></li>
-<li class="steps"><p class="p">"Personīgi" sadaļā spiediet <span class="gui">Valodu atbalsts</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Activities</a></span> overview and
+      start typing <span class="gui">Region &amp; Language</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Manage Installed Languages</span> button to open <span class="gui">Language
+      Support</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Instalēt / izņemt valodas...</span>. Logā <span class="gui">Instalētās valodas</span> ir redzamas visas pieejamās valodas un ieķeksētas pašlaik instalētās valodas.</p></li>
 <li class="steps"><p class="p">Atzīmējiet valodu, kuru vēlaties instalēt, un noņemiet atzīmi tām valodām, kuras vēlaties izņemt.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Pielietot izmaiņas</span>.</p></li>

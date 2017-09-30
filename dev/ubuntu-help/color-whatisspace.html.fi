@@ -72,7 +72,12 @@
 <p class="p">Tarkastellaan ensimmäisenä sRGB:tä, joka on suppein avaruus ja kykenee tuottamaan vähiten eri värejä. Se on likiarvo 10-vuotiaasta putkinäytöstä, joten useimmat uudet näytöt voivat näyttää sitä enemmän värejä. sRGB on standardina <span class="em">pienin yhteinen nimittäjä</span>, ja sitä käytetään useissa eri käyttökohteissa (mukaan lukien internet).</p>
 <p class="p">AdobeRGB on yleisesti käytetty <span class="em">editointiavaruus</span>. Se kykenee käsittelemään enemmän värejä kuin sRGB, eli valokuvissa olevia värejä voi vaihtaa melko huolettomasti ilman pelkoa, että kaikkein elävimmät värit leikkautuvat pois tai mustan sävyt sekoittuvat.</p>
 <p class="p">ProPhoto on suurin saatavilla oleva väriavaruus, ja sitä käytetään usein asiakirjojen arkistointiin. Sillä voidaan koodata lähes koko ihmissilmän havaitsema värimaailma, ja myös joitain värejä joita silmä ei voi havaita.</p>
-<p class="p">Jos ProPhoto on selvästi paras vaihtoehto, miksi sitä ei sitten käytetä kaikkialla? Vastaus kiteytyy termiin <span class="em">kvantisointi</span>. Jos kanavaa kohden on käytettävissä vain kahdeksan bittiä (256 tasoa), suurempi vaihteluväli sisältää eri arvojen välillä suuremmat askeleet.</p>
+<p class="p">
+    Now, if ProPhoto is clearly better, why don’t we use it for everything?
+    The answer is to do with <span class="em">quantization</span>.
+    If you only have 8 bits (256 levels) to encode each channel, then a
+    larger range is going to have bigger steps between each value.
+  </p>
 <p class="p">Isommat askeleet tarkoittavat suurempia virheitä kuvauksessa kaapatun värin ja tallennetun värin välillä, ja joillain väreillä tämä on iso ongelma. Jotkin värit, kuten ihon sävyt, ovat hyvin tärkeitä. Näissä tavalliset kuvien katselijat huomaavat pienetkin virheitä, ikään kuin valokuvassa olisi jotain vialla.</p>
 <p class="p">16-bittisten kuvien käyttö antaa käytettäväksi huomattavasti useampia askeleita ja paljon pienemmän kvantisointivirheen, mutta samalla kuvan koko kaksinkertaistuu. Suurin osa nykyisestä sisällöstä sisältää kahdeksan bittiä kuvapisteen väriä kohden.</p>
 <p class="p">Värinhallinta on prosessi, jossa värit muutetaan yhdestä väriavaruudesta toiseen. Väriavaruus voi olla hyvin tunnettu määritelty väriavaruus, kuten sRGB, tai oman monitorisi tai tulostimesi muokattu väriavaruus.</p>

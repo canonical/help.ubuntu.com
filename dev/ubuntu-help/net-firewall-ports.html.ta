@@ -49,7 +49,11 @@
 <div class="hgroup"><h1 class="title"><span class="title">பொதுவாக பயன்படுத்தப்படும் பிணைய போர்ட்கள்</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">கோப்புப் பகிர்தல் அல்லது தொலைநிலை பணிமேசை காணுதல் போன்ற பிணைய சேவைகளை வழங்கும் பயன்பாடுகள் பயன்படுத்தும் பொதுவான போர்ட்டுகளின் பட்டியல் இது. இந்த பயன்பாடுகளுக்கான <span class="link"><a href="net-firewall-on-off.html" title="ஃபயர்வால் அணுகலை இயக்குதல் அல்லது தடுத்தல்">அணுகலை தடுக்க அல்லது அனுமதிக்க</a></span> கணினியின் ஃபயர்வாலை அமைக்கலாம். ஆயிரக்கணக்கான போர்ட்டுகள் பயன்படுத்தப்படுவதால் இந்த அட்டவணை நிறைவுறாதது.</p>
+<p class="p">This is a list of network ports commonly used by applications that provide
+  network services, like file sharing or remote desktop viewing. You can change
+  your system’s firewall to <span class="link"><a href="net-firewall-on-off.html" title="ஃபயர்வால் அணுகலை இயக்குதல் அல்லது தடுத்தல்">block or allow
+  access</a></span> to these applications. There are thousands of ports in use, so
+  this table isn’t complete.</p>
 <div class="table"><div class="inner"><div class="region"><table class="table" style="border-top-style: solid;">
 <thead><tr>
 <td><p class="p">போர்ட்</p></td>
@@ -75,7 +79,8 @@
 <tr>
 <td><p class="p">5298/tcp</p></td>
 <td><p class="p">இருப்பு</p></td>
-<td><p class="p">பிணையத்தில் உள்ள மற்றவர்க்கு "ஆன்லைன்" அல்லது "வேலையில்" என்பது போன்ற உங்கள் உடனடி செய்திப் பயன்பாட்டுக்கான நிலைகளை மற்றவர்க்கு தெரியப்படுத்த அனுமதிக்கிறது.</p></td>
+<td><p class="p">Allows you to advertise your instant messaging status to other
+          people on the network, such as “online” or “busy”.</p></td>
 </tr>
 <tr class="shade">
 <td><p class="p">5900/tcp</p></td>

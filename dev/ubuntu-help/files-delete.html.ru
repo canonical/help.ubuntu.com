@@ -61,7 +61,10 @@
 <li class="steps"><p class="p">Нажмите клавишу <span class="key"><kbd>Delete</kbd></span>. Вы также можете перетащить объект в <span class="gui">Корзину</span> в боковой панели.</p></li>
 </ol></div>
 </div></div>
-<p class="p">Файл будет перемещён в корзину. После этого на несколько секунд появится кнопка <span class="gui">Отменить</span>. Если вы нажмёте на эту кнопку, то файл будет восстановлен и перемещён в исходное местоположение.</p>
+<p class="p">The file will be moved to the trash, and you’ll be presented with an
+  option to <span class="gui">Undo</span> the deletion. The <span class="gui">Undo</span> button will appear
+  for a few seconds. If you select <span class="gui">Undo</span>, the file will be restored
+  to its original location.</p>
 <p class="p">Чтобы окончательно удалить файлы и освободить место, занимаемое ими на компьютере, нужно очистить корзину. Для этого нажмите правой кнопкой на значок <span class="gui">Корзина</span> в боковой панели и выберите <span class="gui">Очистить корзину</span>.</p>
 </div>
 <div id="permanent" class="sect"><div class="inner">

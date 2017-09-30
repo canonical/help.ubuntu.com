@@ -59,7 +59,10 @@
 </div>
 <div class="region">
 <div class="contents">
-<p class="p">このステップでは、無線ネットワーク接続に関する基本的な情報をチェックします。無線接続がオフになっていたなど、問題が単純な原因で発生しているのではないことを確認し、次の問題解決ステップへの準備を整えるために行います。</p>
+<p class="p">In this step you will check some basic information about your wireless
+  network connection. This is to make sure that your networking problem isn’t
+  caused by a relatively simple issue, like the wireless connection being
+  turned off, and to prepare for the next few troubleshooting steps.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">ラップトップを<span class="em">有線</span>でインターネット接続させていないか確認します。</p></li>
 <li class="steps"><p class="p">外付けワイヤレスアダプター (ラップトップに差し込める PCMCIA カードや USB アダプターなど) がある場合、しっかりとコンピューターに差し込まれているか確認します。</p></li>

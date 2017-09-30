@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Templates for commonly-used document types</title>
+<title>Sjablonen voor veelgebruikte documenttypes.</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,38 +43,27 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html#faq" title="Tips and questions">Tips and questions</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#faq" title="Tips en vragen">Tips en vragen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Templates for commonly-used document types</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Sjablonen voor veelgebruikte documenttypes.</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you often create documents based on the same content, you might
-  benefit from using file templates. A file template can be a document
-  of any type with the formatting or content you would like to reuse.
-  For example, you could create a template document with your letterhead.</p>
+<p class="p">Als u vaak documenten aanmaakt gebaseerd op dezelfde inhoud, dan kunt u baat hebben bij het gebruiken van bestandssjablonen. Een bestandssjabloon kan een document zijn van welk type dan ook met de opmaak of inhoud die u opnieuw wilt gebruiken. U kunt bijvoorbeeld een documentsjabloon maken met uw briefhoofd.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Make a new template</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Een nieuw sjabloon aanmaken</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Create a document that you are going to use as a template. For
-      example, you could make your letterhead in a word processing
-      application.</p></li>
-<li class="steps"><p class="p">Save the file with the template content in the <span class="file">Templates</span>
-      folder in your <span class="file">Home</span> folder. If the <span class="file">Templates</span>
-      folder does not exist, you will need to create it first.</p></li>
+<li class="steps"><p class="p">Een document aanmaken dat u als sjabloon wilt gebruiken. U kunt bijvoorbeeld uw briefhoofd maken in een tekstverwerker.</p></li>
+<li class="steps"><p class="p">Sla het bestand met de sjablooninhoud op in de map <span class="file">Sjablonen</span> in uw <span class="file">Persoonlijke map</span>. Als de map <span class="file">Sjablonen</span> niet bestaat, dan dient u deze eerst te maken.</p></li>
 </ol></div>
 </div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Use a template to create a document</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Gebruik een sjabloon om een document aan te maken</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the folder where you want to place the new document.</p></li>
-<li class="steps"><p class="p">Right-click anywhere in the empty space in the folder, then choose
-      <span class="gui">New Document</span>. The names of available
-      templates will be listed in the submenu.</p></li>
-<li class="steps"><p class="p">Choose your desired template from the list.</p></li>
-<li class="steps"><p class="p">Double-click the file to open it and start editing. You may wish to
-      <span class="link"><a href="files-rename.html" title="Rename a file or folder">rename the file</a></span> when you are
-      finished.</p></li>
+<li class="steps"><p class="p">Open de map waar u het nieuwe document wilt plaatsen.</p></li>
+<li class="steps"><p class="p">Rechtsklik in de folder op een lege plek en kies <span class="gui">Nieuw document</span>. De namen van de beschikbare sjablonen zullen in een submenu worden weergegeven.</p></li>
+<li class="steps"><p class="p">Kies uit de lijst het gewenste sjabloon.</p></li>
+<li class="steps"><p class="p">Dubbelklik op het bestand om het te openen en begin met het te bewerken. Als u klaar bent, wilt u mogelijk <span class="link"><a href="files-rename.html" title="Een bestand of map hernoemen">het bestand hernoemen</a></span>.</p></li>
 </ol></div>
 </div></div>
 </div>
@@ -82,7 +71,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Tips and questions">Tips and questions</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html#faq" title="Tips en vragen">Tips en vragen</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

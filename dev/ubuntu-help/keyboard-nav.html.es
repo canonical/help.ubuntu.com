@@ -69,10 +69,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Teclas de flechas</p></td>
-<td style="border-top-style: solid;">
-<p class="p">Mover la selección entre elementos de un único control, o entre un conjunto de controles relacionados. Use las teclas de flechas para dar el foco a los botones, seleccionar elementos en una vista de lista o de iconos o para seleccionar un botón de radio en un grupo.</p>
-<p class="p">En la vista de árbol, use las teclas de flechas derecha e izquierda para contraer y expandir los elementos con hijos.</p>
-</td>
+<td style="border-top-style: solid;"><p class="p">Mover la selección entre elementos de un único control, o entre un conjunto de controles relacionados. Use las teclas de flechas para dar el foco a los botones, seleccionar elementos en una vista de lista o de iconos o para seleccionar un botón de radio en un grupo.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+Teclas de flechas</span></p></td>
@@ -81,6 +78,10 @@
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Mayús</kbd></span>+Teclas de flechas</span></p></td>
 <td style="border-top-style: solid;"><p class="p">En la vista de lista o de iconos, seleccionar todos los elementos desde el elemento seleccionado actualmente hasta el nuevo elemento con el foco.</p></td>
+<td style="border-top-style: solid;"><p class="p">In a tree view, items that have children can be expanded or collapsed,
+    to show or hide their children: expand by pressing
+    <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>→</kbd></span></span>, and collapse by
+    pressing <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>←</kbd></span></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Espacio</kbd></span></p></td>
@@ -222,7 +223,7 @@
 <div class="region"><ul>
 <li class="links "><a href="a11y.html#mobility" title="Deficiencias motoras">Deficiencias motoras</a></li>
 <li class="links ">
-<a href="keyboard.html" title="Teclado">Teclado</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">distribuciones de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Hacer que parpadee el cursor del teclado">parpadeo del cursor</a></span>, <span class="link"><a href="a11y.html#mobility" title="Deficiencias motoras">accesibilidad del teclado</a></span>…</span>
+<a href="keyboard.html" title="Teclado">Teclado</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Usar distribuciones de teclado alternativas">distribuciones de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Hacer que parpadee el cursor del teclado">parpadeo del cursor</a></span>, <span class="link"><a href="a11y.html#mobility" title="Deficiencias motoras">accesibilidad del teclado</a></span>…</span>
 </li>
 </ul></div>
 </div></div>

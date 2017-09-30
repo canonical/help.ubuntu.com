@@ -2,9 +2,7 @@
 <html lang=es>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>
-    Add software repositories
-  </title>
+<title>Añadir repositorios de software</title>
 <link rel="stylesheet" type="text/css" href="es.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -45,12 +43,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Install &amp; remove software">Añadir/eliminar software</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Instalar y eliminar software">Añadir/eliminar software</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">
-    Add software repositories
-  </span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Añadir repositorios de software</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Además de los repositorios de software predeterminados de Ubuntu, también hay programas disponibles en orígenes de terceros. Si quiere instalar programas desde un repositorio de terceros, deberá añadirlo en la lista de repositorios disponibles de Ubuntu.</p>
@@ -60,11 +56,12 @@
 </div></div></div></div>
 <p class="p">
 </p>
-<p class="p">
-   To add a repository:
-   </p>
+<p class="p">Para añadir un repositorio:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Haga clic en el icono de <span class="app">Software de Ubuntu</span> en el <span class="gui">Lanzador</span> o busque <span class="input">Software</span> en la barra de búsqueda del <span class="gui">Tablero</span>.</p></li>
+<li class="steps"><p class="p">
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">Cuando se abra <span class="app">Software de Ubuntu</span> haga clic en <span class="gui">Orígenes y actualizaciones</span></p></li>
 <li class="steps"><p class="p">Se le solicitará que introduzca su contraseña. Cuando lo haya hecho, vaya a la pestaña <span class="gui">Otro software</span>.</p></li>
 <li class="steps">
@@ -73,11 +70,7 @@
         <span class="code">deb http://archive.ubuntu.com/ubuntu/ artful main</span>
       </p>
 </li>
-<li class="steps"><p class="p">
-        Click <span class="gui">Add Source</span> then close the <span class="app">Software &amp; Updates</span> window. 
-        <span class="app">Ubuntu Software</span> will then check your software sources for new 
-        updates.
-      </p></li>
+<li class="steps"><p class="p">Pulse en <span class="gui">Añadir origen</span> y cierre la ventana <span class="app">Software y actualizaciones</span>. Acto seguido, <span class="app">Ubuntu Software</span> comprobará sus orígenes de software en busca de actualizaciones nuevas.</p></li>
 <li class="steps"><p class="p">La mayoría de los repositorios proporcionan una clave de firma para poder comprobar los paquetes descargados. Así que además de los pasos anteriores debería seguir las posibles instrucciones sobre cómo descargar e instalar la clave de firma (clave GPG).</p></li>
 </ol></div></div></div>
 </div>
@@ -95,10 +88,7 @@
 <p class="p">
       <span class="code">deb http://archive.canonical.com/ubuntu artful partner</span>
     </p>
-<p class="p">
-      Click <span class="gui">Add Source</span> then close the <span class="app">Software &amp; Updates</span> window. Wait a 
-      moment for <span class="app">Ubuntu Software</span> to download the repository information.
-    </p>
+<p class="p">Pulse en <span class="gui">Añadir origen</span> y cierre después la ventana <span class="app">Software y actualizaciones</span>. Espere un momento a que <span class="app">Ubuntu Software</span> para descargue la información del repositorio.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -107,20 +97,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html" title="Desinstalar una aplicación">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html" title="Add software repositories">add repositories</a></span>…
-    </span>
+<a href="addremove.html" title="Instalar y eliminar software">Instalar y eliminar software</a><span class="desc"> — <span class="link"><a href="addremove-install.html" title="Instalar aplicaciones adicionales">Instalar aplicaciones</a></span>, <span class="link"><a href="addremove-remove.html" title="Desinstalar una aplicación">desinstalar aplicaciones</a></span>, <span class="link"><a href="addremove-sources.html" title="Añadir repositorios de software">añadir repositorios</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove-ppa.html" title="Añadir un repositorio de paquetes personal (PPA)">Añadir un repositorio de paquetes personal (PPA)</a><span class="desc"> — 
-        Add PPAs to extend the software sources Ubuntu uses for
-        installation and upgrades.
-    </span>
+<a href="addremove-ppa.html" title="Añadir un repositorio de paquetes personal (PPA)">Añadir un repositorio de paquetes personal (PPA)</a><span class="desc"> — Añadir PPAs para ampliar los origenes de software que Ubuntu usa para instalaciones y actualizaciones.</span>
 </li></ul></div>
 </div></div>
 </div>

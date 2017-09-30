@@ -56,11 +56,11 @@
   firewall to allow these services to work as intended.</p>
 <p class="p">Each program that provides network services uses a specific <span class="em">network
   port</span>. To enable other computers on the network to access a service, you
-  may need to "open" its assigned port on the firewall:</p>
+  may need to “open” its assigned port on the firewall:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Go to <span class="gui">Activities</span> in the top left corner of the screen and
       start your firewall application. You may need to install a firewall
-      manager yourself if you can't find one (for example, Firestarter or
+      manager yourself if you can’t find one (for example, Firestarter or
       GUFW).</p></li>
 <li class="steps"><p class="p">Open or disable the port for your network service, depending on
       whether you want people to be able to access it or not. Which port you
@@ -76,11 +76,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-security.html" title="Tetap aman di internet">Tetap aman di internet</a><span class="desc"> — 
-      <span class="link"><a href="net-antivirus.html" title="Apakah saya perlu perangkat lunak anti virus?">Antivirus software</a></span>,
-      <span class="link"><a href="net-firewall-on-off.html" title="Aktifkan atau blok akses firewall">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html" title="Port jaringan yang biasa dipakai">firewall ports</a></span>…
-    </span>
+<a href="net-security.html" title="Tetap aman di internet">Tetap aman di internet</a><span class="desc"> — <span class="link"><a href="net-antivirus.html" title="Apakah saya perlu perangkat lunak anti virus?">Perangkat lunak anti virus</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Aktifkan atau blok akses firewall">firewall dasar</a></span>, <span class="link"><a href="net-firewall-ports.html" title="Port jaringan yang biasa dipakai">port firewall</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

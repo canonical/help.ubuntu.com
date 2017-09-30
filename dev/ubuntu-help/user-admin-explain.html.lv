@@ -55,8 +55,8 @@
 <p class="p">Administratora tiesības ir piesaistītas lietotāja kontam. <span class="gui">Administratora</span> lietotājiem šīs tiesības ir dotas, bet <span class="gui">Standarta</span> lietotājiem — ne. Bez administratora tiesībām nav iespējams instalēt programmatūru. Dažiem lietotāja kontiem (piemēram, kontam “root”) ir pastāvīgas administratīvās tiesības. Nav ieteicams ikdienā strādāt ar aktīvām administratīvajām tiesībām, jo var gadīties nejauši veikt nevēlamas izmaiņas (piemēram, dzēst vajadzīgu sistēmas datni).</p>
 <p class="p">Īsāk sakot, administratīvās tiesības ļauj veikt izmaiņas svarīgās sistēmas sastāvdaļās, kad tas nepieciešams, bet novērš netīšu izmaiņu veikšanu.</p>
 <div class="note" title="Piezīmes"><div class="inner">
-<div class="title title-note"><h2><span class="title">Ko nozīmē "super user"?</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Lietotāju ar administratīvajām tiesībām dažkārt sauc par superlietotāju jeb <span class="em">super user</span>. Tas tāpēc, ka šim lietotājam sistēmā ir vairāk tiesību nekā parasti. Iespējams, internetā redzēsiet sarunas par <span class="cmd">su</span> un <span class="cmd">sudo</span>; tās ir programmas, kas uz laiku piešķir jums "super user" (administratora) tiesības.</p></div></div>
+<div class="title title-note"><h2><span class="title">Ko nozīmē “super user”?</span></h2></div>
+<div class="region"><div class="contents"><p class="p">Lietotāju ar administratīvajām tiesībām dažkārt sauc par superlietotāju jeb <span class="em">super user</span>. Tas tāpēc, ka šim lietotājam sistēmā ir vairāk tiesību nekā parasti. Iespējams, internetā redzēsiet sarunas par <span class="cmd">su</span> un <span class="cmd">sudo</span>; tās ir programmas, kas uz laiku piešķir jums “super user” (administratora) tiesības.</p></div></div>
 </div></div>
 </div>
 <div id="advantages" class="sect"><div class="inner">

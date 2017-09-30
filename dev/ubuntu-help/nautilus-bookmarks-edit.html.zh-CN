@@ -70,7 +70,12 @@
       <span class="gui">Rename…</span>.</p></li>
 <li class="steps">
 <p class="p">在<span class="gui">名称</span>文本框中，输入一个新的名称。</p>
-<div class="note" title="备注"><div class="inner"><div class="region"><div class="contents"><p class="p">重命名书签不会重命名对应的文件夹，如果您要添加两个不同位置，但是名称相同的文件夹，书签将会显示相同的名称，您将不能区分它们，在这种情况下，用书签名比文件名更容易查找。</p></div></div></div></div>
+<div class="note" title="备注"><div class="inner"><div class="region"><div class="contents"><p class="p">Renaming a bookmark does not rename the folder. If you have
+        bookmarks to two different folders in two different locations, but
+        which each have the same name, the bookmarks will have the same name,
+        and you won’t be able to tell them apart. In these cases, it is useful
+        to give a bookmark a name other than the name of the folder it points
+        to.</p></div></div></div></div>
 </li>
 </ol></div>
 </div></div>

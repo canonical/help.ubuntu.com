@@ -53,10 +53,7 @@
 <div class="linkdiv "><a class="linkdiv" href="shell-introduction.html" title="Introduktion till GNOME"><span class="title">Introduktion till GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">En visuell introduktion till ditt skrivbord, systemraden, och översiktsvyn <span class="gui">Aktiviteter</span>.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Logga ut, stäng av eller växla användare"><span class="title">Logga ut, stäng av eller växla användare</span><span class="linkdiv-dash"> — </span><span class="desc">Lär dig hur du lämnar ditt användarkonto genom att logga ut, växla användare, och så vidare.</span></a></div>
 </div>
-<div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Starta program"><span class="title">Starta program</span><span class="linkdiv-dash"> — </span><span class="desc">Starta program från översiktsvyn <span class="gui">Aktiviteter</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-guest-session.html" title="Starta en begränsad gästsession"><span class="title">Starta en begränsad gästsession</span><span class="linkdiv-dash"> — </span><span class="desc">Låt en vän eller kollega låna din dator på ett säkert sätt.</span></a></div>
-</div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Starta program"><span class="title">Starta program</span><span class="linkdiv-dash"> — </span><span class="desc">Starta program från översiktsvyn <span class="gui">Aktiviteter</span>.</span></a></div></div>
 </div></div></div></div>
 <div id="desktop" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Anpassa ditt skrivbord</span></h2></div>

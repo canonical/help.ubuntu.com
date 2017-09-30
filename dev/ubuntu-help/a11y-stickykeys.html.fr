@@ -73,7 +73,11 @@
 <p class="p">Les touches rémanentes se désactivent d'elles-mêmes temporairement si vous appuyez sur deux touches à la fois, pour vous laisser saisir un raccourci clavier de façon normale.</p>
 <p class="p">Par exemple, si les touches rémanentes sont activées et que vous appuyez <span class="em">en même temps</span> sur <span class="key"><kbd>Logo</kbd></span> et <span class="key"><kbd>Tab</kbd></span>, la fonctionnalité se désactive et il n'est pas tenu compte d'une pression éventuelle sur une troisième touche. Cette fonctionnalité est utile si vous êtes capable de saisir certains raccourcis clavier (parce que les touches ne sont pas trop éloignées), mais d'autres pas.</p>
 <p class="p">Cochez <span class="gui">Désactiver si deux touches sont enfoncées simultanément</span> pour activer cette fonctionnalité.</p>
-<p class="p">Vous pouvez demander à votre ordinateur d'émettre un « bip » quand vous commencez à saisir un raccourci clavier avec les touches rémanentes activées. C'est utile si vous souhaitez savoir que la fonction touches rémanentes attend de vous la saisie d'un raccourci clavier et qu'ainsi la touche suivante fait partie d'un raccourci. Cochez <span class="gui">Émettre un bip lorsqu'une touche modificatrice est enfoncée</span> pour activer cela.</p>
+<p class="p">You can have the computer make a “beep” sound when you start typing a
+  keyboard shortcut with sticky keys turned on. This is useful if you want to
+  know that sticky keys is expecting a keyboard shortcut to be typed, so the
+  next key press will be interpreted as part of a shortcut. Select <span class="gui">Beep
+  when a modifier key is pressed</span> to enable this.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -81,7 +85,7 @@
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard.html" title="Clavier">Clavier</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Agencement du clavier</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Clignotement du curseur">clignotement du curseur</a></span>, <span class="link"><a href="a11y.html#mobility" title="Mobilité défaillante">accessibilité du clavier</a></span>…</span>
+<a href="keyboard.html" title="Clavier">Clavier</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Utiliser des configurations de clavier alternatives">Agencement du clavier</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Clignotement du curseur">clignotement du curseur</a></span>, <span class="link"><a href="a11y.html#mobility" title="Mobilité défaillante">accessibilité du clavier</a></span>…</span>
 </li>
 <li class="links "><a href="a11y.html#mobility" title="Mobilité défaillante">Mobilité défaillante</a></li>
 </ul></div>

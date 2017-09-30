@@ -58,7 +58,10 @@
 </p>
 <p class="p">För att lägga till ett förråd:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Klicka på ikonen <span class="app">Programvara för Ubuntu</span> i <span class="gui">Programstartaren</span>, eller sök efter <span class="input">Program</span> i <span class="gui">Snabbstartspanelen</span>.</p></li>
+<li class="steps"><p class="p">
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">När <span class="app">Programvara för Ubuntu</span> startar, klicka på <span class="gui">Program &amp; uppdateringar</span></p></li>
 <li class="steps"><p class="p">Du kommer få skriva in ditt lösenord. När du har gjort det, byt till fliken <span class="gui">Övriga program</span>.</p></li>
 <li class="steps">

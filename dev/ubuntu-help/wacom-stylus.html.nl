@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Configure the stylus</title>
+<title>De pen configureren</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,53 +43,40 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="wacom.html" title="Wacom Graphics Tablet">Wacom Graphics Tablet</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="wacom.html" title="Wacom-tekentablet">Wacom-tekentablet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Configure the stylus</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">De pen configureren</span></h1></div>
 <div class="region">
 <div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-    start typing <span class="gui">Wacom Tablet</span>.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Wacom-tablet</span>.</p></li>
 <li class="steps">
-<p class="p">Click on <span class="gui">Wacom Tablet</span> to open the panel.</p>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">If no tablet is detected, you'll be asked to
+<p class="p">Klik op <span class="gui">Wacom-tablet</span> om het paneel te openen.</p>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">If no tablet is detected, you’ll be asked to
     <span class="gui">Please plug in or turn on your Wacom tablet</span>. Click the
     <span class="gui">Bluetooth Settings</span> link to connect a wireless tablet.</p></div></div></div></div>
 </li>
 <li class="steps">
-<p class="p">The lower part of the panel contains details and settings specific
-   to your stylus, with the device name (the stylus class) and diagram to the
-   left. These settings can be adjusted:</p>
+<p class="p">Het onderste deel van het paneel bevat details en instellingen specifiek voor uw pen, met links de apparaatnaam (de penklasse) en het diagram. Deze instellingen kunnen worden aangepast:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p"><span class="gui">Eraser Pressure Feel:</span> use the slider to adjust the
-       "feel" (how physical pressure is translated to digital values) between
+       “feel” (how physical pressure is translated to digital values) between
        <span class="gui">Soft</span> and <span class="gui">Firm</span>.</p></li>
-<li class="list"><p class="p"><span class="gui">Button/Scroll Wheel</span> configuration (these change to
-       reflect the stylus). Click the menu next to each label to select one of
-       these functions: No Action, Left Mouse Button Click, Middle Mouse Button
-       Click, Right Mouse Button Click, Scroll Up, Scroll Down, Scroll Left,
-       Scroll Right, Back, or Forward.</p></li>
+<li class="list"><p class="p"><span class="gui">Knop/scrollwiel</span>-configuratie (deze wijzigingen betreffen de pen). Klik op het menu bij elk label om één van deze functies te selecteren: Geen actie, Linkermuisknopklik, Middelmuisknopklik, Rechtermuisknopklik, Omhoog scrollen, Omlaag scrollen, Naar links scrollen, Naar rechts scrollen, Terug, of Volgende.</p></li>
 <li class="list"><p class="p"><span class="gui">Tip Pressure Feel:</span> use the slider to adjust the
-       "feel" between <span class="gui">Soft</span> and <span class="gui">Firm</span>.</p></li>
+       “feel” between <span class="gui">Soft</span> and <span class="gui">Firm</span>.</p></li>
 </ul></div></div></div>
 </li>
 </ol></div></div></div>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">If you have more than one stylus, when the additional
- stylus gets close to the tablet, a pager will be displayed next to the stylus
- device name. Use the pager to choose which stylus to configure.</p></div></div></div></div>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Wanneer u meer dan één pen heeft zal er, wanneer u de extra pen dicht bij het tablet houdt, een pager verschijnen naast de apparaatnaam van de pen. Gebruik de pager om te kiezen welke pen geconfigureerd moet worden.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="wacom.html" title="Wacom Graphics Tablet">Wacom Graphics Tablet</a><span class="desc"> — 
-      <span class="link"><a href="wacom-multi-monitor.html" title="Choose a monitor">Map a monitor</a></span>,
-      <span class="link"><a href="wacom-stylus.html" title="Configure the stylus">configure the stylus</a></span>,
-      <span class="link"><a href="wacom-left-handed.html" title="Use the tablet left-handed">use the tablet left handed</a></span>…
-  </span>
+<a href="wacom.html" title="Wacom-tekentablet">Wacom-tekentablet</a><span class="desc"> — <span class="link"><a href="wacom-multi-monitor.html" title="Een monitor kiezen">Een monitor koppelen</a></span>, <span class="link"><a href="wacom-stylus.html" title="De pen configureren">de pen configureren</a></span>, <span class="link"><a href="wacom-left-handed.html" title="Het tablet gebruiken met uw linkerhand">de tablet linkshandig gebruiken</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

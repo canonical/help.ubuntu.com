@@ -63,7 +63,12 @@
 <div class="hgroup"><h2 class="title"><span class="title">Блокирование экрана</span></h2></div>
 <div class="region">
 <div class="contents">
-<p class="p">Если вы ненадолго отходите от компьютера, нужно заблокировать экран, чтобы другие люди не могли получить доступ к вашим файлам и работающим приложениям. Когда вы вернётесь, поднимите занавес <span class="link"><a href="shell-lockscreen.html" title="Экран блокировки">экрана блокировки</a></span> и введите свой пароль, чтобы снова войти в систему. Если вы не заблокируете экран, через некоторое время он заблокируется автоматически.</p>
+<p class="p">If you’re leaving your computer for a short time, you should lock your
+  screen to prevent other people from accessing your files or running
+  applications. When you return, raise the
+  <span class="link"><a href="shell-lockscreen.html" title="Экран блокировки">lock screen</a></span> curtain and enter your
+  password to log back in. If you don’t lock your screen, it will lock
+  automatically after a certain amount of time.</p>
 <p class="p">Чтобы заблокировать экран, нажмите на системное меню справа в верхней панели, затем нажмите на кнопку блокировки (значок в виде замка) в нижней части меню.</p>
 <p class="p">При заблокированном экране другие пользователи могут входить в систему под своими учётными записями, нажав на экране ввода пароля пункт <span class="gui">Сменить пользователя</span>. Когда они завершат работу, вы сможете вернуться к своему рабочему столу.</p>
 </div>
@@ -90,10 +95,12 @@
 <p class="p">To save power, suspend your computer when you are not using it. If you use
   a laptop, GNOME, by default, suspends your computer automatically when you
   close the lid.
-  This saves your state to your computer's memory and powers off most of the
-  computer's functions. A very small amount of power is still used during
+  This saves your state to your computer’s memory and powers off most of the
+  computer’s functions. A very small amount of power is still used during
   suspend.</p>
-<p class="p">Чтобы перевести компьютер в ждущий режим вручную, нажмите на системное меню справа в верхней панели, затем нажмите и удерживайте нажатой клавишу <span class="key"><kbd>Alt</kbd></span>, кнопка выключения должна смениться кнопкой ждущего режима. Нажмите на эту кнопку.</p>
+<p class="p">To suspend your computer manually, click the system menu on the right side
+  of the top bar. From there you may either hold down the <span class="key"><kbd>Alt</kbd></span> key and 
+  click the power off button, or simply long-click the power off button.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

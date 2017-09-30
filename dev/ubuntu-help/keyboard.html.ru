@@ -56,7 +56,7 @@
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Язык и регион</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
+<a href="keyboard-layouts.html" title="Использование альтернативных раскладок клавиатуры">Использование альтернативных раскладок клавиатуры</a><span class="desc"> — Добавьте раскладки клавиатуры и переключайтесь между ними.</span>
 </li></ul></div>
 </div></div>
 <div class="links topiclinks"><div class="inner">

@@ -59,7 +59,10 @@
 </div>
 <div class="region">
 <div class="contents">
-<p class="p">In questo passaggio vengono controllate alcune informazioni elementari relative alla connessione di rete senza fili. Ciò è necessario per assicurarsi che il problema con la rete non sia causato da motivi relativamente semplici come una connessione WiFi spenta e per prepararsi ai successivi pochi passaggi per la risoluzione dei problemi.</p>
+<p class="p">In this step you will check some basic information about your wireless
+  network connection. This is to make sure that your networking problem isn’t
+  caused by a relatively simple issue, like the wireless connection being
+  turned off, and to prepare for the next few troubleshooting steps.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Assicurarsi che il computer portatile non sia collegato a Internet tramite una connessione <span class="em">via cavo</span>.</p></li>
 <li class="steps"><p class="p">Se si dispone di un adattatore WiFi esterno (come un adattatore USB o una scheda PCMCIA collegata al computer), assicurarsi che sia saldamente inserito nel connettore adatto.</p></li>

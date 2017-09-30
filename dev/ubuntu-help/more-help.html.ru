@@ -54,13 +54,10 @@
   </p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="translate.html" title="Participate to improve translations"><span class="title">Participate to improve translations</span><span class="linkdiv-dash"> — </span><span class="desc">How and where to help translate these topics.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="about-this-guide.html" title="Об этом руководстве"><span class="title">Об этом руководстве</span><span class="linkdiv-dash"> — </span><span class="desc">Несколько советов по использованию руководства пользователя Ubuntu.</span></a></div>
-</div>
-<div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="report-ubuntu-bug.html" title="Сообщите о неисправности в Ubuntu"><span class="title">Сообщите о неисправности в Ubuntu</span><span class="linkdiv-dash"> — </span><span class="desc">Как и куда сообщить о проблемах с Ubuntu.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="get-involved.html" title="Участвуйте в улучшении этого руководства"><span class="title">Участвуйте в улучшении этого руководства</span><span class="linkdiv-dash"> — </span><span class="desc">Как и куда сообщать об ошибках в этом руководстве.</span></a></div>
 </div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="get-involved.html" title="Участвуйте в улучшении этого руководства"><span class="title">Участвуйте в улучшении этого руководства</span><span class="linkdiv-dash"> — </span><span class="desc">Как и куда сообщать об ошибках в этом руководстве.</span></a></div></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">

@@ -55,7 +55,10 @@
   on the top bar with three dots while the connection is being established. The
   dots disappear when you are connected.</p>
 <p class="p">இப்படி நடக்காவிட்டால், முதலில் பிணைய கேபிள் செருகப்பட்டுள்ளதா எனப் பார்க்கவும். பிணைய கேபிளின் ஒரு முனை உங்கள் கணினியின் ஈத்தர்நெட் (பிணையம்) போர்ட்டில் செருகப்பட்டிருக்க வேண்டும், மற்றொரு முனை (உங்கள் பிணைய அமைவைப் பொறுத்து) ஸ்விட்ச்சு, ரௌட்டர், பிணைய வால் சாக்கெட் அல்லது அது போன்ற சாதனத்தில் செருகப்பட்டிருக்க வேண்டும். சில சமயம் ஈத்தர்நெட் போர்ட்டில் ஒரு விளக்கு இருக்கும், போர்ட்டில் கேபிள் இணைந்து அது செயல்படுகிறது எனக் காட்ட அவ்விளக்கு ஒளிரும்.</p>
-<div class="note" title="குறிப்பு"><div class="inner"><div class="region"><div class="contents"><p class="p">வெறும் பிணைய கேபிளைக் கொண்டு நீங்கள் ஒரு கணினியை மற்றொன்றுடன் இணைக்க முடியாது (குறைந்தது ஒரு கூடுதல் அமைவும் இல்லாமல்). இரு கணினிகளை இணைக்க அவை இரண்டையும் ஒரு பிணைய ஹப், ரௌட்டர் அல்லது ஸ்விட்ச்சுடன் இணைக்க வேண்டும்.</p></div></div></div></div>
+<div class="note" title="குறிப்பு"><div class="inner"><div class="region"><div class="contents"><p class="p">You can’t plug one computer directly into another one with a network
+    cable (at least, not without some extra setting-up). To connect two
+    computers, you should plug them both into a network hub, router or
+    switch.</p></div></div></div></div>
 <p class="p">அப்போதும் இணைப்பு கிடைக்காவிட்டால், உங்கள் பிணையம் தானியங்கு அமைவை (DHCP) ஆதரிக்காமல் இருக்கலாம். அப்படியானால் நீங்கள் <span class="link"><a href="net-manual.html" title="பிணைய அமைவுகளை கைமுறையாக அமைத்தல்">அதை கைமுறையாக அமைவாக்கம் செய்ய</a></span> வேண்டும்.</p>
 </div>
 <div class="sect sect-links" role="navigation">

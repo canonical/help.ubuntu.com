@@ -63,14 +63,14 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Universal Access</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Napsauta <span class="gui">Esteettömyys</span> avataksesi paneelin.</p></li>
 <li class="steps"><p class="p">Switch <span class="gui">Always Show Universal Access Menu</span> to
       <span class="gui">ON</span>.</p></li>
 </ol></div></div></div>
 <p class="p">To access this menu using the keyboard rather than the mouse, press
   <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> to move the
   keyboard focus to the top bar. A white line will appear underneath the
-  <span class="gui">Activities</span> button - this tells you which item on the top bar is
+  <span class="gui">Activities</span> button — this tells you which item on the top bar is
   selected. Use the arrow keys on the keyboard to move the white line under the
   universal access menu icon and then press <span class="key"><kbd>Enter</kbd></span> to open it. You
   can use the up and down arrow keys to select items in the menu. Press

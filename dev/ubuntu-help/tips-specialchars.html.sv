@@ -81,14 +81,17 @@
 <div class="region"><div class="contents">
 <p class="p">En Compose-tangent är en speciell tangent som låter dig trycka ner flera tangenter i rad för att få ett specialtecken. För att till exempel skriva det apostroferade tecknet <span class="em">é</span> kan du trycka på <span class="key"><kbd>compose</kbd></span> och sedan <span class="key"><kbd>'</kbd></span> och sedan <span class="key"><kbd>e</kbd></span>.</p>
 <p class="p">Tangentbord har inte specifika compose-tangenter. Istället kan du definiera en av de existerande tangenterna på ditt tangentbord som en compose-tangent.</p>
+<div class="note note-important" title="Viktigt"><div class="inner"><div class="region"><div class="contents"><p class="p">Du måste ha <span class="app">Justering</span> installerat på din dator för att ändra denna inställning.</p></div></div></div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Definiera en compose-tangent</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Tangentbord</span>.</p></li>
-<li class="steps"><p class="p">Klicka på <span class="gui">Tangentbord</span> för att öppna panelen.</p></li>
-<li class="steps"><p class="p">Välj fliken <span class="gui">Genvägar</span> och klicka på <span class="gui">Skriva</span>.</p></li>
-<li class="steps"><p class="p">Klicka på <span class="gui">Compose-tangenten</span> i den högra panelen.</p></li>
-<li class="steps"><p class="p">Klicka på <span class="gui">Inaktiverad</span> och välj tangenten som du vill ska bete sig som en compose-tangent från rullgardinsmenyn. Du kan välja endera av <span class="key"><kbd>Ctrl</kbd></span>-tangenterna, den högra <span class="key"><kbd>Alt</kbd></span>-tangenten, den högra <span class="key"><kbd>Win</kbd></span>-tangenten eller <span class="key"><a href="keyboard-key-super.html" title="Vad är Super-knappen?"><kbd>Super</kbd></a></span>-tangenten om du har en, <span class="key"><a href="keyboard-key-menu.html" title="Vad är Windows-tangenten?"><kbd>Meny</kbd></a></span>-tangenten eller <span class="key"><kbd>Caps Lock</kbd></span>. Tangenten du väljer kommer därefter att fungera som en compose-tangent och inte längre för sitt tidigare ändamål.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Justering</span>.</p></li>
+<li class="steps"><p class="p">Klicka på <span class="gui">Justering</span> för att öppna programmet.</p></li>
+<li class="steps"><p class="p">Klicka på <span class="gui">Tangentbord &amp; mus</span>-fliken.</p></li>
+<li class="steps"><p class="p">Tryck på <span class="gui">Inaktiverad</span> intill inställningen <span class="gui">Compose-tangent</span>.</p></li>
+<li class="steps"><p class="p">Slå på växeln i dialogen och välj tangentbordsgenvägen du vill använda.</p></li>
+<li class="steps"><p class="p">Kryssa i kryssrutan för den knapp du vill använda som Compose-tangent.</p></li>
+<li class="steps"><p class="p">Stäng fönstret <span class="gui">Justering</span>.</p></li>
 </ol></div>
 </div></div>
 <p class="p">Du kan mata in många vanliga tecken genom att använda compose-tangenten, till exempel:</p>

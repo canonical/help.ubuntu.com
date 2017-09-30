@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Email &amp; email software</title>
+<title>E mail &amp; e-mailsoftware</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,27 +43,26 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Email &amp; email software</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">E mail &amp; e-mailsoftware</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-default-email.html" title="Change which mail application is used to write emails"><span class="title">Change which mail application is used to write emails</span><span class="linkdiv-dash"> — </span><span class="desc">Change the default email client by going to <span class="gui">Details</span> in <span class="gui">Settings</span>.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-email-virus.html" title="Do I need to scan my emails for viruses?"><span class="title">Do I need to scan my emails for viruses?</span><span class="linkdiv-dash"> — </span><span class="desc">Viruses are unlikely to infect your computer, but could infect the
-    computers of people you email.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-email-virus.html" title="Moet ik mijn e-mails controleren op virussen?"><span class="title">Moet ik mijn e-mails controleren op virussen?</span><span class="linkdiv-dash"> — </span><span class="desc">Het is niet waarschijnlijk dat virussen uw computer infecteren, maar wel de computers van andere mensen aan wie u e-mail stuurt.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-default-email.html" title="Wijzigen welk e-mailprogramma gebruikt wordt om e-mails te schrijven"><span class="title">Wijzigen welk e-mailprogramma gebruikt wordt om e-mails te schrijven</span><span class="linkdiv-dash"> — </span><span class="desc">Change the default email client by going to <span class="gui">Details</span> in <span class="gui">Settings</span>.</span></a></div></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless.html" title="Wireless Networking">Wireless</a></span>,
-      <span class="link"><a href="net-wired.html" title="Wired Networking">wired</a></span>,
-      <span class="link"><a href="net-problem.html" title="Network problems">connection problems</a></span>,
-      <span class="link"><a href="net-browser.html" title="Web Browsers">web browsing</a></span>,
-      <span class="link"><a href="net-email.html" title="Email &amp; email software">email accounts</a></span>…
+<a href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a><span class="desc"> — 
+      <span class="link"><a href="net-wireless.html" title="Draadloos netwerk">Wireless</a></span>,
+      <span class="link"><a href="net-wired.html" title="Bekabeld netwerk">wired</a></span>,
+      <span class="link"><a href="net-problem.html" title="Netwerkproblemen">connection problems</a></span>,
+      <span class="link"><a href="net-browser.html" title="Webbrowsers">web browsing</a></span>,
+      <span class="link"><a href="net-email.html" title="E mail &amp; e-mailsoftware">email accounts</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

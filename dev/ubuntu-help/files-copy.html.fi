@@ -50,7 +50,10 @@
 <div class="region">
 <div class="contents">
 <p class="p">Tiedosto tai kansio on kopioitavissa tai siirrettävissä uuteen sijaintiin hiirellä vetäen, tiedostonhallinnan valikon kautta tai käyttäen pikanäppäimiä.</p>
-<p class="p">Saatat esimerkiksi haluta kopioida jonkin tiedoston USB-muistitikulle, jotta voit ottaa sen mukaasi töihin. Kopioimalla voi tehdä myös varmuuskopion ennen tiedoston muokkausta. Näin alkuperäisen tiedoston palauttaminen on helppoa, jos muokattu tiedosto ei jostain syystä miellytä.</p>
+<p class="p">For example, you might want to copy a presentation onto a memory stick so
+ you can take it to work with you. Or, you could make a back-up copy of a
+ document before you make changes to it (and then use the old copy if you don’t
+ like your changes).</p>
 <p class="p">Nämä ohjeet pätevät sekä tiedostoihin että kansioihin. Tiedostoja ja kansioita on mahdollista siirtää täsmälleen samalla tavalla.</p>
 <div class="steps ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
@@ -96,7 +99,8 @@
  </p></li>
 <li class="steps">
 <p class="p">Paina ja raahaa kohde ikkunasta toiseen. Oletuksena raahaaminen <span class="em">siirtää sen</span>, jos kohde on <span class="em">samalla</span> laitteella (esim. jos molemmat kansiot ovat koneesi samalla kiintolevyllä), tai <span class="em">kopioi</span> jos kohde on <span class="em">eri</span> laitteella.</p>
-<p class="p">Esimerkiksi USB-muistitikulta Kotikansioon raahattu tiedosto kopioidaan, sillä se siirretään laitteelta toiselle.</p>
+<p class="p">For example, if you drag a file from a USB memory stick to your Home folder,
+ it will be copied, because you’re dragging from one device to another.</p>
 <p class="p">Tiedoston kopioinnin voi pakottaa pitämällä pohjassa <span class="key"><kbd>Ctrl</kbd></span>-näppäintä vedettäessä, tai tiedoston siirtyminen voidaan pakottaa pitämällä pohjassa <span class="key"><kbd>Shift</kbd></span>-näppäintä vedettäessä.</p>
 </li>
 </ol></div>

@@ -50,15 +50,8 @@
 <div class="region">
 <div class="contents">
 <p class="p">Cuando ejecute <span class="app">Contactos</span> pro primera vez, se abrirá la ventana <span class="gui">Selecciona libreta de contactos</span>.</p>
-<p class="p">If you have <span class="link"><a href="accounts.html" title="Cuentas en línea">online accounts</a></span> configured, they
-  are listed with <span class="gui">Local Address Book</span>. Select an item from the
-  list and click <span class="gui">Done</span>. All new contacts you create
-  will be saved to the address book you choose. You are also able to view and
-  edit contacts in other address books.</p>
-<p class="p">If you have no online accounts configured, click
-  <span class="gui">Online Accounts</span> to begin the setup. If you do not
-  wish to set up online accounts at this time, click <span class="gui">Local
-  Address Book</span>.</p>
+<p class="p">Si tiene configuradas las <span class="link"><a href="accounts.html" title="Cuentas en línea">cuentas en línea</a></span>, se listarán en la <span class="gui">Libreta local de direcciones</span>. Elija un elemento de la lista y pulse <span class="gui">Hecho</span>. Todos los contactos nuevos que cree se guardará en la libreta de contactos que elija. También puede ver y editar los contactos de otras libretas de direcciones.</p>
+<p class="p">Si no tiene ninguna cuenta en línea configurada, pulse en <span class="gui">Cuentas en línea</span> para iniciar la configuración. Si no quiere configurar una cuenta en línea en este momento, pulse <span class="gui">Libreta de direcciones local</span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

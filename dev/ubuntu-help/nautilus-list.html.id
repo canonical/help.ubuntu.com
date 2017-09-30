@@ -93,20 +93,17 @@
 </ul></div></div></div>
 <p class="p">Each permission has the following meanings:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="gui">r</span>: readable, meaning that you can open the file or
-          folder</p></li>
-<li class="list"><p class="p"><span class="gui">w</span>: writable, meaning that you can save changes to it</p></li>
-<li class="list"><p class="p"><span class="gui">x</span>: executable, meaning that you can run it if it is a
-          program or script file, or you can access subfolders and files if it
-          is a folder</p></li>
-<li class="list"><p class="p"><span class="gui">-</span>: permission not set</p></li>
+<li class="list"><p class="p"><span class="gui">r</span>: dapat dibaca, berarti bahwa Anda dapat membuka berkas atau folder</p></li>
+<li class="list"><p class="p"><span class="gui">w</span>: dapat ditulisi, berarti bahwa Anda dapat menyimpan perubahan padanya</p></li>
+<li class="list"><p class="p"><span class="gui">x</span>: dapat dieksekusi, berarti bahwa Anda dapat menjalankannya bila itu adalah sebuah berkas skrip atau program, atau Anda dapat mengakses subfolder dan berkas-berkas bila itu adalah sebuah folder</p></li>
+<li class="list"><p class="p"><span class="gui">-</span>: izin tidak ditata</p></li>
 </ul></div></div></div>
 </dd>
 <dt class="terms"><span class="gui">Jenis MIME</span></dt>
 <dd class="terms"><p class="p">Tampilkan tipe MIME dari butir tersebut.</p></dd>
 <dt class="terms"><span class="gui">Lokasi</span></dt>
 <dd class="terms"><p class="p">Path ke lokasi berkas.</p></dd>
-<dt class="terms"><span class="gui">Modified – Time</span></dt>
+<dt class="terms"><span class="gui">Modified — Time</span></dt>
 <dd class="terms"><p class="p">Memberi tanggal dan waktu kapan berkas terakhir diubah.</p></dd>
 <dt class="terms"><span class="gui">Diakses</span></dt>
 <dd class="terms"><p class="p">Gives the date or time of the last time the file was modified.</p></dd>

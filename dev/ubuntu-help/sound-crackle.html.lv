@@ -65,7 +65,7 @@
 </li>
 <li class="list">
 <p class="p">Pārbaudiet, vai skaņas draiveri nav ļoti labi.</p>
-<p class="p">Dažas skaņu kartes var nestrādāt pārāk labi Linux, jo tām var nebūt labi skaņu draiveri. Šo problēmu ir grūtāk identificēt. Pamēģiniet meklēt savas skaņu kartes ražotāju un modeli internetā, pievienojot terminu "Linux", lai redzētu, vai citi cilvēki arī sastopas ar šādu problēmu.</p>
+<p class="p">Dažas skaņu kartes var nestrādāt pārāk labi Linux, jo tām var nebūt labi skaņu draiveri. Šo problēmu ir grūtāk identificēt. Pamēģiniet meklēt savas skaņu kartes ražotāju un modeli internetā, pievienojot terminu “Linux”, lai redzētu, vai citi cilvēki arī sastopas ar šādu problēmu.</p>
 <p class="p">Varat izmantot <span class="cmd">lspci</span> komandu, lai iegūtu vairāk informācijas par savu skaņu karti.</p>
 </li>
 </ul></div></div></div>

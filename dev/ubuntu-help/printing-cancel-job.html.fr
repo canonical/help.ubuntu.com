@@ -64,8 +64,12 @@
 </ol></div>
 </div></div>
 <p class="p">Si cette action n'arrête pas l'impression, maintenez enfoncé le bouton <span class="em">annuler</span> de votre imprimante.</p>
-<p class="p">En dernier ressort, et surtout si vous avez lancé l'impression d'un gros document avec beaucoup de pages et qui ne veut pas s'annuler, retirez le papier vierge du bac de l'imprimante. Celle-ci va s'arrêter faute de papier et vous pouvez ensuite soit essayer d'annuler à nouveau l'impression, soit carrément éteindre et rallumer l'imprimante.</p>
-<div class="note note-warning" title="Avertissement"><div class="inner"><div class="region"><div class="contents"><p class="p">Be careful that you don't damage the printer when removing the paper,
+<p class="p">As a last resort, especially if you have a big print job with a lot of
+  pages that will not cancel, remove the paper from the printer’s paper input
+  tray. The printer should realize that there is no paper and will stop
+  printing. You can then try canceling the print job again, or try turning the
+  printer off and then on again.</p>
+<div class="note note-warning" title="Avertissement"><div class="inner"><div class="region"><div class="contents"><p class="p">Be careful that you don’t damage the printer when removing the paper,
     though. If you would have to pull hard on the paper to remove it, you
     should probably just leave it where it is.</p></div></div></div></div>
 </div></div>

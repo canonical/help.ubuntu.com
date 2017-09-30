@@ -68,7 +68,10 @@
 <div class="desc">To uporabnik vidi na zaslonu običajnega poslovnega prenosnika.</div>
 </div>
 </div></div>
-<p class="p">Opazite kako bela ni popolnoma bela in da je črno oko sedaj blatno rjavo.</p>
+<p class="p">
+    Notice how the white is not “paper white” and the black of the eye
+    is now a muddy brown.
+  </p>
 <div class="figure"><div class="inner">
 <a href="#" class="zoom" data-zoom-in-title="Pogled slik v običajni velikosti" data-zoom-out-title="Pomanjšaj velikost slik"></a><div class="region">
 <div class="contents"><div class="media media-image"><div class="inner"><img src="figures/color-printer.png" class="media media-block" alt=""></div></div></div>
@@ -76,11 +79,41 @@
 </div>
 </div></div>
 <p class="p">Osnovna težava je, da vsaka naprava lahko upravlja različen obseg barv. Zato boste morda lahko zajeli fotografijo električno modre barve, vendar je večina tiskalnikov ne bo mogla natisniti.</p>
-<p class="p">Večina slikovnih naprav zajema v RGB (rdeča, zelena, modra) in morajo za tiskanje pretvoriti v CMYK (sinja, magenta, rumena in črna). Druga težava je, da ne morate imeti <span class="em">bele</span> barve, zato je lahko belina le tako dobra kot papir.</p>
-<p class="p">Druga težava so enote. Brez merila barv ni mogoče vedeti, če je 100% rdeča blizu infrardeče barve ali najtemnejša rdeča barva na tiskalniku. 50% rdeča na enem zaslonu je verjetno 62% rdeča na drugem zaslonu. To je enako kot da bi nekomu povedali, da ste prevozili 7 enot, ne bi pa povedali, ali je to 7 metrov ali kilometrov.</p>
-<p class="p">V barvah so enote gamut. Gamut je obseg barv, ki jih je mogoče prikazati. Naprava kot je DSLR fotoaparat ima lahko zelo velik gamut in lahko zajame vse barve v sončnem zahodu, projektor pa ima majhen gamut, zato bodo vse barve videti "izprano".</p>
-<p class="p">V nekaterih primerih je mogoče izhod naprave <span class="em">popraviti</span> s spreminjanjem poslanih podatkov, v primerih, ko to ni mogoče (električno modre ni mogoče natisniti), pa je treba uporabniku pokazati, kakšen bi bil rezultat.</p>
-<p class="p">Za fotografe je smiselno uporabiti polen tonski obseg barvne naprave, ki lahko naredi spremembe barve gladkejše. Za drugo grafiko boste morda želeli barvo ujemati natančno, kar je pomembno, če želite natisniti kozarec z logotipom Red Hat, ki <span class="em">mora</span> biti natanko Red Hat rdeča.</p>
+<p class="p">
+    Most image devices capture in RGB (Red, Green, Blue) and have
+    to convert to CMYK (Cyan, Magenta, Yellow, and Black) to print.
+    Another problem is that you can’t have <span class="em">white</span> ink, and so
+    the whiteness can only be as good as the paper color.
+  </p>
+<p class="p">
+    Another problem is units. Without specifying the scale on which a
+    color is measured, we don’t know if 100% red is near infrared or
+    just the deepest red ink in the printer. What is 50% red on one
+    display is probably something like 62% on another display.
+    It’s like telling a person that you’ve just driven 7 units of
+    distance, without the unit you don’t know if that’s 7 kilometers or
+    7 meters.
+  </p>
+<p class="p">
+    In color, we refer to the units as gamut. Gamut is essentially the
+    range of colors that can be reproduced.
+    A device like a DSLR camera might have a very large gamut, being able
+    to capture all the colors in a sunset, but a projector has a very
+    small gamut and all the colors are going to look “washed out”.
+  </p>
+<p class="p">
+    In some cases we can <span class="em">correct</span> the device output by altering
+    the data we send to it, but in other cases where that’s not
+    possible (you can’t print electric blue) we need to show the user
+    what the result is going to look like.
+  </p>
+<p class="p">
+    For photographs it makes sense to use the full tonal range of a color
+    device, to be able to make smooth changes in color.
+    For other graphics, you might want to match the color exactly, which
+    is important if you’re trying to print a custom mug with the Red Hat
+    logo that <span class="em">has</span> to be the exact Red Hat Red.
+  </p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

@@ -56,7 +56,9 @@
 <dt class="terms">Le matériel Bluetooth n'est pas reconnu</dt>
 <dd class="terms"><p class="p">Si votre adaptateur ou dongle Bluetooth n'est pas reconnu par l'ordinateur, cela peut être dû au fait que les <span class="link"><a href="hardware-driver.html" title="Qu'est-ce qu'un pilote ?">pilotes</a></span> pour cet adaptateur ne sont pas installés. Certains adaptateurs Bluetooth ne sont pas pris en charge par Linux et vous ne pouvez pas trouver de pilote qui convienne. Dans ce cas, il faudra vous procurer un autre adaptateur Bluetooth.</p></dd>
 <dt class="terms">L'adaptateur est éteint</dt>
-<dd class="terms"><p class="p">Assurez-vous que votre adaptateur Bluetooth est bien allumé. Cliquez sur l'icône Bluetooth dans la <span class="gui">barre de menu</span> et vérifiez qu'il n'est pas <span class="link"><a href="bluetooth-turn-on-off.html" title="Activation ou désactivation du Bluetooth">Désactivé</a></span>.</p></dd>
+<dd class="terms"><p class="p">Make sure that your Bluetooth adapter is switched on. Click the
+          Bluetooth icon in the <span class="gui">menu bar</span> and check that it’s not
+          <span class="link"><a href="bluetooth-turn-on-off.html" title="Activation ou désactivation du Bluetooth">disabled</a></span>.</p></dd>
 <dt class="terms">La connexion du périphérique Bluetooth est coupée</dt>
 <dd class="terms"><p class="p">Vérifiez que le Bluetooth est activé sur le périphérique que vous essayez de connecter et qu'il est bien <span class="link"><a href="bluetooth-visibility.html" title="Qu'est-ce que la visibilité Bluetooth ?">détectable ou visible</a></span>. Par exemple, si vous êtes en train de connecter un téléphone, assurez-vous qu'il n'est pas en mode avion.</p></dd>
 <dt class="terms">Il n'y a pas d'adaptateur Bluetooth sur votre ordinateur</dt>

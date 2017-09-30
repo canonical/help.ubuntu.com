@@ -50,13 +50,14 @@
 <div class="region">
 <div class="contents">
 <p class="p">Komputer Anda akan memainkan suara peringatan sederhana untuk tipe pesan dan peristiwa tertentu. Bila Anda mengalami kesulitan mendengar suara tersebut, Anda dapat membuat agar seluruh layar atau jendela Anda kini mengedip secara visual ketika suara peringatan dimainkan.</p>
-<p class="p">Ini juga bisa berguna bila Anda berada dalam lingkungan dimana Anda perlu agar komputer Anda tak bersuara seperti di perpustakaan. Lihat <span class="link"><a href="sound-alert.html" title="Pilih atau matikan suara waspada">Pilih atau matikan suara waspada</a></span> untuk belajar bagaimana membisukan suara peringatan, lalu mengaktifkan peringatan visual.</p>
+<p class="p">This can also be useful if you’re in an environment where you need your
+  computer to be silent, such as in a library. See <span class="link"><a href="sound-alert.html" title="Pilih atau matikan suara waspada">Pilih atau matikan suara waspada</a></span>
+  to learn how to mute the alert sound, then enable visual alerts.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span> overview and
-      start typing <span class="gui">Universal Access</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akses Universal</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Akses Universal</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Tekan <span class="gui">Peringatan Visual</span> dalam <span class="gui">Pendengaran</span>.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Visual Alerts</span> to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Nyalakan <span class="gui">Peringatan Visual</span>.</p></li>
 <li class="steps"><p class="p">Pilih apakah Anda ingin seluruh layar atau hanya jendela kini saja yang mengedip.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Anda juga dapat menyalakan dan mematikan peringatan visual dengan mengklik <span class="link"><a href="a11y-icon.html" title="Temukan menu akses universal">ikon aksesibilitas</a></span> pada bilah puncak dan memilih <span class="gui">Peringatan Visual</span>.</p></div></div></div></div>

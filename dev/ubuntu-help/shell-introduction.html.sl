@@ -87,7 +87,7 @@
   computer. Click any application to run it, or drag an application to the
   overview or onto a workspace thumbnail. You can also drag an application onto
   the dash to make it a favorite. Your favorite applications stay in the dash
-  even when they're not running, so you can access them quickly.</p>
+  even when they’re not running, so you can access them quickly.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
 <li class="list"><p class="p"><span class="link"><a href="shell-apps-open.html" title="Zaganjanje programov">Naučite se več o zaganjanju programov.</a></span></p></li>
 <li class="list"><p class="p"><span class="link"><a href="shell-windows.html" title="Okna in delovne površine">Naučite se več o oknih in delovnih prostorih.</a></span></p></li>
@@ -142,7 +142,7 @@
 <div class="region"><div class="contents">
 <div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-lock.png" width="250" class="media media-block" alt="Zakleni zaslon"></div></div>
 <p class="p">When you lock your screen, or it locks automatically, the lock screen is
-  displayed. In addition to protecting your desktop while you're away from your
+  displayed. In addition to protecting your desktop while you’re away from your
   computer, the lock screen displays the date and time. It also shows
   information about your battery and network status, and allows you to control
   media playback.</p>

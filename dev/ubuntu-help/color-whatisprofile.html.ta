@@ -56,7 +56,13 @@
 <p class="p">நிற தனியமைப்பு என்பது படவீழ்த்தி போன்ற ஒரு சாதனம் அல்லது sRGB போன்ற ஒரு நிற வெளியின் பண்புகளை விளக்கும் தரவுகளின் தொகுப்பாகும்.</p>
 <p class="p">பெரும்பாலான நிற தனியமைப்புகள் ICC தனியமைப்பின் வடிவத்திலேயே இருக்கும், அது <span class="input">.ICC</span> அல்லது <span class="input">.ICM</span> என்ற கோப்பு நீட்சி கொண்ட ஒரு சிறு கோப்பாகும்.</p>
 <p class="p">நிற தனியமைப்புகளை படங்களில் உட்பொதிக்க முடியும், இதன் மூலம் தரவின் முழு வரம்பைக் குறிப்பிட முடிகிறது. இதனால் பயனர்கள் வெவ்வேறு சாதனங்களிலும் நிறங்களை ஒரே மாதிரியாகக் காண முடிகிறது.</p>
-<p class="p">நிறத்தைச் செயலாக்கம் செய்யும் எல்லா சாதனத்திற்கும் அதற்கென்று ஒரு ICC தனியமைப்பு உள்ளது. ஒரு சாதனத்தில் இது இருந்தால், அந்த சாதனம் <span class="em">இரு தரப்புக்கு இடையிலான நிறம் நிர்வகிக்கப்பட்ட பணி ஒழுக்கு</span> கொண்டது எனக் கூறப்படுகிறது. இத்தகைய பணி ஒழுக்கு இருக்கும்பட்சத்தில் நிறங்கள் இழக்கப்படுவதோ அல்லது மாறுவதோ இல்லை என உறுதிப்படுத்திக் கொள்ளலாம்.</p>
+<p class="p">
+    Every device that is processing color should have its own ICC
+    profile and when this is achieved the system is said to have an
+    <span class="em">end-to-end color-managed workflow</span>.
+    With this kind of workflow you can be sure that colors are not being
+    lost or modified.
+  </p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

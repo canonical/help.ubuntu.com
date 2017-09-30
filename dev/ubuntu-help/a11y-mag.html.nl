@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Magnify a screen area</title>
+<title>Een schermgebied vergroten</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,48 +43,34 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Universal access">Universal access</a> › <a class="trail" href="a11y.html#vision" title="Visual impairments">Visual impairments</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Universele toegang">Universele toegang</a> › <a class="trail" href="a11y.html#vision" title="Visuele beperkingen">Visuele beperkingen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Magnify a screen area</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Een schermgebied vergroten</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Magnifying the screen is different than just enlarging the
-  <span class="link"><a href="a11y-font-size.html" title="Change text size on the screen">text size</a></span>. This feature is like having a
-  magnifying glass, allowing you to move around by zooming in on parts of the
-  screen.</p>
+<p class="p">Het scherm vergroten is iets anders dan alleen de <span class="link"><a href="a11y-font-size.html" title="De tekstgrootte op het scherm wijzigen">tekstgrootte</a></span> vergroten. Deze functie lijkt op een vergrootglas, waarmee u kunt bewegen door op gedeeltes van het scherm in te zoomen.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Universal Access</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Universal Access</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Press on <span class="gui">Zoom</span> in the <span class="gui">Seeing</span> section.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Zoom</span> to <span class="gui">ON</span> in the top-right corner of the
-      <span class="gui">Zoom Options</span> window.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Universele toegang</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Universele toegang</span> om het paneel te openen.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Zoomen</span> vanuit de <span class="gui">Zicht</span>-sectie.</p></li>
+<li class="steps"><p class="p">Zet <span class="gui">Zoom</span> <span class="gui">AAN</span> in de rechter-bovenhoek van het <span class="gui">Zoomopties</span>-dialoogvenster.</p></li>
 </ol></div></div></div>
-<p class="p">You can now move around the screen area. By moving your mouse to the edges
-  of the screen, you will move the magnified area in different directions,
-  allowing you to view your area of choice.</p>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">You can quickly turn zoom on and off by clicking the
-    <span class="link"><a href="a11y-icon.html" title="Find the universal access menu">accessibility icon</a></span> on the top bar and
-    selecting <span class="gui">Zoom</span>.</p></div></div></div></div>
+<p class="p">U kunt nu in het schermgebied bewegen. Door uw muis naar de rand van het scherm te bewegen, beweegt u het vergrote gebied in verschillende richtingen, waarmee u het gebied van uw keuze kunt zien.</p>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">U kunt zoomen ook snel in- en uitschakelen door te klikken op het <span class="link"><a href="a11y-icon.html" title="Het menu Universele toegang vinden">toegankelijkheidspictogram</a></span> in de bovenste balk en <span class="gui">Zoomen</span> te selecteren. </p></div></div></div></div>
 <p class="p">You can change the magnification factor, the mouse tracking, and the
   position of the magnified view on the screen. Adjust these in the
   <span class="gui">Magnifier</span> tab of the <span class="gui">Zoom Options</span> window.</p>
 <p class="p">You can activate crosshairs to help you find the mouse or touchpad
   pointer. Switch them on and adjust their length, color, and thickness in the
   <span class="gui">Crosshairs</span> tab of the <span class="gui">Zoom</span> settings window.</p>
-<p class="p">You can switch to inverse video or <span class="gui">White on black</span>, and adjust
-  brightness, contrast and greyscale options for the magnifier. The combination
-  of these options is useful for people with low-vision, any degree of
-  photophobia, or just for using the computer under adverse lighting
-  conditions. Select the <span class="gui">Color Effects</span> tab in the <span class="gui">Zoom</span>
-  settings window to enable and change these options.</p>
+<p class="p">U kunt overschakelen naar inverse video of <span class="gui">Wit op zwart</span>, en de helderheid, contrast en kleur van het vergrootglas aanpassen. De combinatie van deze opties is nuttig voor mensen met beperkt zicht, lichtschuwheid, of gewoon om de computer te gebruiken met tegenlicht. Selecteer het <span class="gui">Kleureffecten</span>-tabblad in het <span class="gui">Zoom</span>-instellingenvenster om deze opties te kunnen inschakelen en wijzigen.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#vision" title="Visual impairments">Visual impairments</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html#vision" title="Visuele beperkingen">Visuele beperkingen</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

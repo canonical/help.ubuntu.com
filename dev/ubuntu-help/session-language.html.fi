@@ -54,17 +54,17 @@
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
       start typing <span class="gui">Region &amp; Language</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Language</span>.</p></li>
+<li class="steps"><p class="p">Napsauta <span class="gui">Kieli</span>.</p></li>
 <li class="steps"><p class="p">Select your desired region and language. If your region and language
       are not listed, click
-      <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="..."></span></span></span>
+      <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="…"></span></span></span>
       at the bottom of the list to select from all available regions and
       languages.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Done</span> to save.</p></li>
 <li class="steps"><p class="p">Respond to the prompt, <span class="gui">Your session needs to be restarted for
       changes to take effect</span> by clicking
       <span class="gui">Restart Now</span>, or click
-      <span class="gui">X</span> to restart later.</p></li>
+      <span class="gui">×</span> to restart later.</p></li>
 </ol></div></div></div>
 <p class="p">Some translations may be incomplete, and certain applications may not
   support your language at all. Any untranslated text will appear in the

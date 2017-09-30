@@ -82,7 +82,12 @@
 <p class="p">When you enter the overview, you will initially be in the windows
   overview. This shows you live thumbnails of all the windows on the current
   workspace.</p>
-<p class="p">Prema no botón da grella na parte inferior do panel para mostrar a vista xeral de aplicativos. Isto móstralle os aplicativos instalados no seu computador. Prema en calquera aplicativo para executala, ou arrastre un aplicativo ou sobre a miniatura do ambiente de traballo. Tamén pode arrastrar un aplicativo ao taboleiro para que sexa un dos favoritos. Os seus aplicativos permanecerán no taboleiro, incluso cando non estean en funcionamento, para que poida acceder a elas rapidamente.</p>
+<p class="p">Click the grid button at the bottom of the dash to display the
+  applications overview. This shows you all the applications installed on your
+  computer. Click any application to run it, or drag an application to the
+  overview or onto a workspace thumbnail. You can also drag an application onto
+  the dash to make it a favorite. Your favorite applications stay in the dash
+  even when they’re not running, so you can access them quickly.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
 <li class="list"><p class="p"><span class="link"><a href="shell-apps-open.html" title="Iniciar aplicativos">Learn more about starting
       applications.</a></span></p></li>
@@ -139,7 +144,7 @@
 <div class="region"><div class="contents">
 <div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-lock.png" width="250" class="media media-block" alt="Bloquear pantalla"></div></div>
 <p class="p">When you lock your screen, or it locks automatically, the lock screen is
-  displayed. In addition to protecting your desktop while you're away from your
+  displayed. In addition to protecting your desktop while you’re away from your
   computer, the lock screen displays the date and time. It also shows
   information about your battery and network status, and allows you to control
   media playback.</p>

@@ -60,15 +60,15 @@
 <div class="hgroup"><h2 class="title"><span class="title">Zabránění počítači v uspání při zavření víka</span></h2></div>
 <div class="region"><div class="contents">
 <div class="note note-important" title="Důležité"><div class="inner"><div class="region"><div class="contents"><p class="p">Tyto rady jsou platné, jen když používáte <span class="app">systemd</span>. Více informací získáte u autorů své distribuce.</p></div></div></div></div>
-<div class="note note-important" title="Důležité"><div class="inner"><div class="region"><div class="contents"><p class="p">Abyste mohli změnit tato nastavení, musíte mít v počítači nainstalován <span class="app">Vylaďovací nástroj</span>.</p></div></div></div></div>
+<div class="note note-important" title="Důležité"><div class="inner"><div class="region"><div class="contents"><p class="p">Abyste mohli změnit tato nastavení, musíte mít v počítači nainstalován <span class="app">Vyladění</span>.</p></div></div></div></div>
 <p class="p">Jestliže nechcete, aby se váš počítač uspával při zavření víka, můžete změnit nastavení pro toto chování.</p>
 <div class="note note-warning" title="Varování"><div class="inner"><div class="region"><div class="contents"><p class="p">Při změně tohoto nastavení buďte obezřetní. Některé notebooky se mohou přehřívat, když zůstanou běžet se zavřeným víkem, hlavně když jsou v uzavřeném prostoru, třeba v batohu.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Vylaďovací nástroj</span>.</p></li>
-<li class="steps"><p class="p">Kliknutím na <span class="gui">Vylaďovací nástroj</span> otevřete aplikaci.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Vyladění</span>.</p></li>
+<li class="steps"><p class="p">Kliknutím na <span class="gui">Vyladění</span> otevřete aplikaci.</p></li>
 <li class="steps"><p class="p">Klikněte na kartu <span class="gui">Napájení</span>.</p></li>
 <li class="steps"><p class="p">Přepněte vypínač <span class="gui">Neuspávat při zavření víka</span> na <span class="gui">❙</span> (zapnuto).</p></li>
-<li class="steps"><p class="p">Zavřete okno <span class="gui">Vylaďovací nástroj</span>.</p></li>
+<li class="steps"><p class="p">Zavřete okno <span class="gui">Vyladění</span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>

@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Change which language you use</title>
+<title>Een andere taal kiezen voor uzelf</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,28 +43,25 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="prefs-language.html" title="Region &amp; Language">Region &amp; Language</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="prefs-language.html" title="Regio &amp; taal">Regio &amp; taal</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Change which language you use</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Een andere taal kiezen voor uzelf</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">U kunt uw bureaublad en toepassingen in tientallen talen gebruiken, mits u de juiste taalpakketten op uw computer heeft geïnstalleerd.</p>
+<p class="p">You can use your desktop and applications in any of dozens of languages,
+  provided you have the proper language packs installed on your computer.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activities</a></span> overview and
       start typing <span class="gui">Region &amp; Language</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Language</span>.</p></li>
-<li class="steps"><p class="p">Select your desired region and language. If your region and language
-      are not listed, click
-      <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="..."></span></span></span>
-      at the bottom of the list to select from all available regions and
-      languages.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Done</span> to save.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Regio &amp; taal</span> om het paneel te openen.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Taal</span>.</p></li>
+<li class="steps"><p class="p">Selecteer uw gewenste regio en taal. Als uw regio en taal er niet bij staan, klik dan op <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="…"></span></span></span> aan de onderkant van de lijst om een keuze te maken uit alle beschikbare regio's en talen.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Klaar</span> om op te slaan.</p></li>
 <li class="steps"><p class="p">Respond to the prompt, <span class="gui">Your session needs to be restarted for
       changes to take effect</span> by clicking
       <span class="gui">Restart Now</span>, or click
-      <span class="gui">X</span> to restart later.</p></li>
+      <span class="gui">×</span> to restart later.</p></li>
 </ol></div></div></div>
 <p class="p">Some translations may be incomplete, and certain applications may not
   support your language at all. Any untranslated text will appear in the
@@ -78,18 +75,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html" title="Region &amp; Language">Region &amp; Language</a><span class="desc"> — 
-      <span class="link"><a href="session-language.html" title="Change which language you use">Language</a></span>,
-      <span class="link"><a href="session-formats.html" title="Change date and measurement formats">region and formats</a></span>,
-      <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">keyboard layouts</a></span>…
+<a href="prefs-language.html" title="Regio &amp; taal">Regio &amp; taal</a><span class="desc"> — 
+      <span class="link"><a href="session-language.html" title="Een andere taal kiezen voor uzelf">Language</a></span>,
+      <span class="link"><a href="session-formats.html" title="Formaat voor datum en maten wijzigen">region and formats</a></span>,
+      <span class="link"><a href="keyboard-layouts.html" title="Alternatieve toetsenbordindelingen gebruiken">keyboard layouts</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="session-formats.html" title="Change date and measurement formats">Change date and measurement formats</a><span class="desc"> — Choose a region used for date and time, numbers, currency,
-    and measurement.</span>
+<a href="session-formats.html" title="Formaat voor datum en maten wijzigen">Formaat voor datum en maten wijzigen</a><span class="desc"> — Selecteer een regio voor datum en tijd, getallen, valuta en maten.</span>
 </li></ul></div>
 </div></div>
 </div>

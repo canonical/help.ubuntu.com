@@ -68,7 +68,7 @@
 <div class="title title-note"><h2><span class="title">Usar la línea de comandos</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Algunas de las instrucciones de esta guía le piden teclear comandos en la <span class="em">línea de comandos</span> (terminal). Puede encontrar la aplicación <span class="app">Terminal</span> en la vista <span class="gui">Actividades</span>.</p>
-<p class="p">Si no está familiarizado con el uso de la línea de comandos, no se preocupe, esta guía le ayudará en cada paso. Todo lo que necesita es recordar que los comandos distinguen entre mayúsculas o minúsculas (de manera que debe teclealos <span class="em">exactamente</span> como aparecen aquí), y pulsar <span class="key"><kbd>Intro</kbd></span> después de teclear cada comando para ejecutarlo.</p>
+<p class="p">Si no está familiarizado con el uso de la línea de comandos, no se preocupe, esta guía le ayudará en cada paso. Todo lo que necesita es recordar que los comandos distinguen entre mayúsculas o minúsculas (de manera que debe teclearlos <span class="em">exactamente</span> como aparecen aquí), y pulsar <span class="key"><kbd>Intro</kbd></span> después de teclear cada comando para ejecutarlo.</p>
 </div></div>
 </div></div>
 </div>

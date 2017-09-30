@@ -55,14 +55,19 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
 <p class="p">Используйте в пароле смесь заглавных и строчных букв, цифр, символов и пробелов. Тогда их будет сложнее угадать: чем больше разнообразие символов, тем больше возможных паролей придётся проверить взломщику.</p>
-<div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents"><p class="p">Хороший способ выбора пароля — взять первые буквы каждого слова из фразы, которую вы можете запомнить. Это может быть название фильма, книги, песни или музыкального альбома. Например, «Flatland: A Romance of Many Dimensions» превратится в F:ARoMD, или faromd, или f: aromd.</p></div></div></div></div>
+<div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents"><p class="p">A good method for choosing a password is to take the first letter of
+        each word in a phrase that you can remember. The phrase could be the
+        name of a movie, a book, a song or an album. For example, “Flatland: A
+        Romance of Many Dimensions” would become F:ARoMD or faromd or f:
+        aromd.</p></div></div></div></div>
 </li>
 <li class="list"><p class="p">Сделайте пароль настолько длинным, насколько это возможно. Чем больше символов он содержит, тем больше времени уйдёт у взломщика на перебор возможных паролей.</p></li>
 <li class="list"><p class="p">Do not use any words that appear in a standard dictionary in any
       language. Password crackers will try these first. The most common
-      password is "password" – people can guess passwords like this very
+      password is “password” — people can guess passwords like this very
       quickly!</p></li>
-<li class="list"><p class="p">Не используйте личную информацию, такую как дата, номерной знак автомобиля или имя члена семьи.</p></li>
+<li class="list"><p class="p">Do not use any personal information such as a date, license plate
+      number, or any family member’s name.</p></li>
 <li class="list"><p class="p">Не используйте имена существительные.</p></li>
 <li class="list">
 <p class="p">Выбирайте пароли, которые можно набрать быстро, чтобы уменьшить вероятность, что кто-то подсмотрит пароль во время набора.</p>

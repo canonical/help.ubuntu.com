@@ -53,15 +53,16 @@
 <div class="hgroup"><h2 class="title"><span class="title">Comprobar o disco duro</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Os discos duros dispoñen dun verificador interno de saúde denominado <span class="app">SMART</span> (Tecnoloxía de automonitorización, análise e informe, «Self-Monitoring, Analysis, and Reporting Technology»), o cal está continuamente buscando posíbeis problemas e pode avisarlle cando o disco estea a punto de fallar. Isto resulta útil para evitar futuras perdas de datos importantes.</p>
-<p class="p">Aínda que SMART execútase automaticamente, tamén pode comprobar a saúde do seu disco executando o aplicativo <span class="app">Utilidade de discos</span>:</p>
+<p class="p">Although SMART runs automatically, you can also check your disk’s
+ health by running the <span class="app">Disks</span> application:</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">Comprobe a saúde do seu disco usando o aplicativo «Discos»</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Check your disk’s health using the Disks application</span></h3></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open <span class="app">Disks</span> from the <span class="gui">Activities</span> overview.</p></li>
 <li class="steps"><p class="p">Select the disk you want to check from the list of storage devices on
     the left. Information and status of the disk will be shown.</p></li>
 <li class="steps"><p class="p">Click the menu button and select <span class="gui">SMART Data &amp; Self-Tests…</span>.
-    The <span class="gui">Overall Assessment</span> should say "Disk is OK".</p></li>
+    The <span class="gui">Overall Assessment</span> should say “Disk is OK”.</p></li>
 <li class="steps"><p class="p">See more information under <span class="gui">SMART Attributes</span>, or click the
     <span class="gui">Start Self-test</span> button to run a self-test.</p></li>
 </ol></div>
@@ -69,13 +70,18 @@
 </div></div>
 </div></div>
 <div id="disk-not-healthy" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Que pasa se o disco non está san?</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">What if the disk isn’t healthy?</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Even if the <span class="gui">Overall Assessment</span> indicates that the disk
-  <span class="em">isn't</span> healthy, there may be no cause for alarm. However, it's better
+  <span class="em">isn’t</span> healthy, there may be no cause for alarm. However, it’s better
   to be prepared with a <span class="link"><a href="backup-why.html" title="Facer unha copia de seguranza dos seus ficheiros importantes">backup</a></span> to prevent data
   loss.</p>
-<p class="p">Se o estado dí «Pre-fail», o disco está razoabelmente san pero detectáronse signos de desgaste, o que significa que podería fallar nun futuro cercano. Se o seu disco duro (ou computador) ten uns cantos anos de antigüidade, é probábel que vexa esta mensaxe nalgunhas das comprobacións de saúde. Debería <span class="link"><a href="backup-how.html" title="Como facer copias de respaldo">facer unha copia de respaldo dos seus ficheiros importantes con regularidade</a></span> e comprobar periodicamente o estado do disco para ver se empeora.</p>
+<p class="p">If the status says “Pre-fail”, the disk is still reasonably healthy but
+ signs of wear have been detected which mean it might fail in the near future.
+ If your hard disk (or computer) is a few years old, you are likely to see
+ this message on at least some of the health checks. You should
+ <span class="link"><a href="backup-how.html" title="Como facer copias de respaldo">backup your important files regularly</a></span> and check
+ the disk status periodically to see if it gets worse.</p>
 <p class="p">Se empeora, pode querer levar o computador ou o disco duro a un profesional para un mellor análise ou reparación.</p>
 </div></div>
 </div></div>

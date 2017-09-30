@@ -57,11 +57,10 @@
 <div class="contents">
 <p class="p">Hidupkan <span class="em">tombol lambat</span> jika Anda ingin ada penundaan antara menekan tombol dan huruf ditampilkan di layar. Ini berarti bahwa Anda harus menahan setiap tombol yang ingin Anda ketik untuk beberapa saat sebelum muncul. Gunakan tombol lambat jika Anda secara tidak sengaja menekan beberapa tombol pada satu saat ketika Anda mengetik, atau jika Anda merasa sulit untuk langsung menekan tombol yang benar pada papan tik.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span> overview and
-      start typing <span class="gui">Universal Access</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akses Universal</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Akses Universal</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Tekan <span class="gui">Bantuan Mengetik (AccessX)</span> dalam bagian <span class="gui">Pengetikan</span>.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Slow Keys</span> to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Nyalakan <span class="gui">Klik Lambat</span>.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Tip"><div class="inner">
 <div class="title title-note"><h2><span class="title">Nyalakan dan matikan tombol lambat secara cepat</span></h2></div>
@@ -71,7 +70,9 @@
 </div></div>
 </div></div>
 <p class="p">Gunakan penggeser <span class="gui">Tundaan penerimaan</span> untuk mengendalikan berapa lama Anda mesti menahan menekan tombol sampai terdeteksi.</p>
-<p class="p">Anda dapat membuat komputer Anda bersuara ketika Anda menekan suatu tombol, ketika penekanan tombol diterima, atau ketika penekanan tombol ditolak karena Anda tidak menekan tombol cukup lama.</p>
+<p class="p">You can have your computer make a sound when you press a key, when a key
+  press is accepted, or when a key press is rejected because you didn’t hold
+  the key down long enough.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

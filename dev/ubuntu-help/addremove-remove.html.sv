@@ -54,7 +54,10 @@
 <p class="p">Du kan även vilja ta bort mjukvara som inte har ett grafiskt gränssnitt. För att ta bort sådan mjukvara kan du använda <span class="link"><a href="addremove-install-synaptic.html" title="Använd Synaptic för en mer avancerad programhantering">Synaptic</a></span>. Märk att <span class="app">Synaptic</span> inte listar snap-paket.</p>
 <p class="p">För att ta bort ett program:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Klicka på ikonen <span class="app">Programvara för Ubuntu</span> i <span class="gui">Programstartaren</span>, eller sök efter <span class="input">Program</span> i <span class="gui">Snabbstartspanelen</span>.</p></li>
+<li class="steps"><p class="p">
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">När <span class="app">Programvara för Ubuntu</span> öppnas, klicka på knappen <span class="gui">Installerat</span> längst upp.</p></li>
 <li class="steps"><p class="p">Hitta programmet du vill ta bort genom att använda sökrutan, eller leta igenom listan över installerade program.</p></li>
 <li class="steps"><p class="p">Välj programmet och klicka på <span class="gui">Ta bort</span>.</p></li>

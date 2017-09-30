@@ -49,7 +49,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Förstora en del av skärmen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Att förstora skärmen är inte detsamma som att bara förstora <span class="link"><a href="a11y-font-size.html" title="Ändra textstorlek på skärmen">textstorleken</a></span>. Denna funktionen är som att ha ett förstoringsglas, som låter dig flytta runt genom att zooma in på delar av skärmen.</p>
+<p class="p">Att förstora skärmen är inte detsamma som att bara förstora <span class="link"><a href="a11y-font-size.html" title="Ändra textstorlek på skärmen">textstorleken</a></span>. Denna funktion är som att ha ett förstoringsglas, som låter dig flytta runt genom att zooma in på delar av skärmen.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öppna <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Hjälpmedel</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Hjälpmedel</span> för att öppna panelen.</p></li>

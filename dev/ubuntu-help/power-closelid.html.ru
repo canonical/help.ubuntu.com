@@ -53,25 +53,30 @@
 <div class="hgroup"><h1 class="title"><span class="title">Почему мой компьютер отключается, когда я закрываю его крышку?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Когда вы закрываете крышку ноутбука, он переходит в <span class="link"><a href="power-suspend.html" title="Что происходит при переходе компьютера в ждущий режим?"><span class="em">ждущий режим</span></a></span> для сохранения электроэнергии. Это означает, что компьютер не выключается — он просто «засыпает». Можно вернуть его в рабочий режим, открыв крышку. Если компьютер не «просыпается», попробуйте нажать клавишу мышки или клавиатуры. Если это тоже не помогает, нажмите кнопку питания.</p>
+<p class="p">When you close the lid of your laptop, your computer will
+  <span class="link"><a href="power-suspend.html" title="Что происходит при переходе компьютера в ждущий режим?"><span class="em">suspend</span></a></span> in order to save power.
+  This means that the computer is not actually turned off — it has just gone to
+  sleep. You can resume it by opening the lid. If it does not resume, try
+  clicking the mouse or pressing a key. If that still does not work, press the
+  power button.</p>
 <p class="p">Некоторые компьютеры не способны правильно переходить в ждущий режим, обычно из-за того, что их компоненты не полностью поддерживаются операционной системой (например, вследствие несовершенства драйверов для Linux). В таком случае вы можете обнаружить, что компьютер не возвращается в рабочий режим после закрытия крышки. Можно попробовать <span class="link"><a href="power-suspendfail.html" title="Почему мой компьютер не выходит из ждущего режима?">устранить эту проблему</a></span> или предотвратить переход компьютера в ждущий режим при закрытии крышки.</p>
 </div>
 <div id="nosuspend" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Запрет перевода компьютера в ждущий режим при закрытии крышки</span></h2></div>
 <div class="region"><div class="contents">
 <div class="note note-important" title="Важно"><div class="inner"><div class="region"><div class="contents"><p class="p">Эти инструкции сработают только если в системе используется <span class="app">systemd</span>. Свяжитесь с разработчиками вашего дистрибутива для получения дополнительной информации.</p></div></div></div></div>
-<div class="note note-important" title="Важно"><div class="inner"><div class="region"><div class="contents"><p class="p">You need to have the <span class="app">Tweak Tool</span> installed on your computer to
+<div class="note note-important" title="Важно"><div class="inner"><div class="region"><div class="contents"><p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
     change this setting.</p></div></div></div></div>
 <p class="p">If you do not want the computer to suspend when you close the lid, you can
   change the setting for that behavior.</p>
 <div class="note note-warning" title="Предупреждение"><div class="inner"><div class="region"><div class="contents"><p class="p">Будьте осторожны при изменении этого параметра. Некоторые ноутбуки могут перегреваться, если оставить их включёнными с закрытой крышкой, особенно если они находятся в замкнутом пространстве, например, в рюкзаке.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
-      start typing <span class="gui">Tweak Tool</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Tweak Tool</span> to open the application.</p></li>
+      start typing <span class="gui">Tweaks</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Tweaks</span> to open the application.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Power</span> tab.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Don't suspend on lid close</span> to <span class="gui">ON</span>.</p></li>
-<li class="steps"><p class="p">Close the <span class="gui">Tweak Tool</span> window.</p></li>
+<li class="steps"><p class="p">Switch <span class="gui">Don’t suspend on lid close</span> to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Close the <span class="gui">Tweaks</span> window.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>

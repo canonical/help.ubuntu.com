@@ -55,7 +55,7 @@
 <div class="contents">
 <p class="p">Los perfiles de color que ha creado usted mismo son específicos del hardware y de las condiciones de luz para las que lo ha calibrado. Una pantalla que ha estado encendida unos pocos cientos de horas va a tener un perfil de color muy diferente que un dispositivo similar con un número de serie próximo, si ésta última ha estado encendida unas mil horas.</p>
 <p class="p">Esto significa que si comparte su perfil de color con alguien, puede que esté <span class="em">mejorando</span> su calibración, pero es incorrecto decir que su dispositivo está calibrado.</p>
-<p class="p">De forma similar, a menos que todo el mundo tenga el control de luz recomendado (sin luz solar de ventanas, paredes negras, bombillas de día, eetc.= en una habitación donde se editan imágenes, compartir un perfil que ha creado bajo sus propias condiciones de luz específicas no tiene mucho sentido.</p>
+<p class="p">De forma similar, a menos que todo el mundo tenga el control de luz recomendado (sin luz solar de ventanas, paredes negras, bombillas de día, etc.= en una habitación donde se editan imágenes, compartir un perfil que ha creado bajo sus propias condiciones de luz específicas no tiene mucho sentido.</p>
 <div class="note note-warning" title="Advertencia"><div class="inner"><div class="region"><div class="contents"><p class="p">Debería comprobar cuidadosamente las condiciones de redistribución de los perfiles descargados de las páginas web de los fabricantes o que se crearon en su nombre.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">

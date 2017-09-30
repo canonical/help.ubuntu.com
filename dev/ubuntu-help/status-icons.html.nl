@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>What do the icons in the top bar mean?</title>
+<title>Wat betekenen de pictogrammen in de bovenste balk?</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,262 +43,262 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Desktop</a> › <a class="trail" href="shell-overview.html#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">What do the icons in the top bar mean?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Wat betekenen de pictogrammen in de bovenste balk?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">This section explains the meaning of icons located on the top right corner of the screen. More specifically, the different variations of the icons provided by the GNOME interface are described.</p>
-<div class="media media-image floatend"><div class="inner"><img src="figures/top-bar-icons.png" class="media media-block" alt="GNOME Shell top bar"></div></div>
+<p class="p">Deze paragraaf verklaart de betekenis van de pictogrammen aan de rechter-bovenkant van het scherm. Beter gezegd, de verschillende varianten van de pictogrammen van de Gnome-interface worden beschreven.</p>
+<div class="media media-image floatend"><div class="inner"><img src="figures/top-bar-icons.png" class="media media-block" alt="Bovenste balk in Gnome Shell"></div></div>
 <div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="status-icons.html#universalicons" title="Universal Access Menu Icons">Universal Access Menu Icons</a></li>
-<li class="links "><a href="status-icons.html#audioicons" title="Volume Control Icons">Volume Control Icons</a></li>
-<li class="links "><a href="status-icons.html#bluetoothicons" title="Bluetooth Manager Icons">Bluetooth Manager Icons</a></li>
-<li class="links "><a href="status-icons.html#networkicons" title="Network Manager Icons">Network Manager Icons</a></li>
-<li class="links "><a href="status-icons.html#batteryicons" title="Power Manager Icons">Power Manager Icons</a></li>
+<li class="links "><a href="status-icons.html#universalicons" title="Menupictogrammen voor Universele toegang">Menupictogrammen voor Universele toegang</a></li>
+<li class="links "><a href="status-icons.html#audioicons" title="Volumebeheer-pictogrammen">Volumebeheer-pictogrammen</a></li>
+<li class="links "><a href="status-icons.html#bluetoothicons" title="Bluetooth-beheerder-pictogrammen">Bluetooth-beheerder-pictogrammen</a></li>
+<li class="links "><a href="status-icons.html#networkicons" title="Netwerkmanager-pictogrammen">Netwerkmanager-pictogrammen</a></li>
+<li class="links "><a href="status-icons.html#batteryicons" title="Energiebeheer-pictogrammen">Energiebeheer-pictogrammen</a></li>
 </ul></div></div></div>
 </div>
 <div id="universalicons" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Universal Access Menu Icons</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Menupictogrammen voor Universele toegang</span></h2></div>
 <div class="region"><div class="contents"><div class="table"><div class="inner"><div class="region"><table class="table"><tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/preferences-desktop-accessibility-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Leads to a menu that turns on accessibility settings.</p></td>
+<td><p class="p">Leidt naar een menu waarmee toegankelijkheidsinstellingen kunnen worden ingeschakeld.</p></td>
 </tr></table></div></div></div></div></div>
 </div></div>
 <div id="audioicons" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Volume Control Icons</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Volumebeheer-pictogrammen</span></h2></div>
 <div class="region"><div class="contents"><div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/audio-volume-high-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The volume is set to high.</p></td>
+<td><p class="p">Het volume is op hoog gezet.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/audio-volume-medium-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The volume is set to medium.</p></td>
+<td><p class="p">Het volume is op gemiddeld gezet.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/audio-volume-low-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The volume is set to low.</p></td>
+<td><p class="p">Het volume is op laag gezet.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/audio-volume-muted-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The volume is muted.</p></td>
+<td><p class="p">Het geluid is gedempt.</p></td>
 </tr>
 </table></div></div></div></div></div>
 </div></div>
 <div id="bluetoothicons" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Bluetooth Manager Icons</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Bluetooth-beheerder-pictogrammen</span></h2></div>
 <div class="region"><div class="contents"><div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/bluetooth-active-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Bluetooth has been activated.</p></td>
+<td><p class="p">Bluetooth is ingeschakeld.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/bluetooth-disabled-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Bluetooth has been disabled.</p></td>
+<td><p class="p">Bluetooth is uitgeschakeld.</p></td>
 </tr>
 </table></div></div></div></div></div>
 </div></div>
 <div id="networkicons" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Network Manager Icons</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Netwerkmanager-pictogrammen</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p"></p>
-<p class="p"><span class="app">Cellular Connection</span></p>
+<p class="p"><span class="app">Mobiele verbinding</span></p>
 <div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-cellular-3g-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Connected to a 3G network.</p></td>
+<td><p class="p">Verbonden met een 3G-netwerk.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-cellular-4g-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Connected to a 4G network.</p></td>
+<td><p class="p">Verbonden met een 4G-netwerk.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-cellular-edge-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Connected to an EDGE network.</p></td>
+<td><p class="p">Verbonden met een EDGE-netwerk.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-cellular-gprs-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Connected to a GPRS network.</p></td>
+<td><p class="p">Verbonden met een GPRS-netwerk.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-cellular-umts-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Connected to a UMTS network.</p></td>
+<td><p class="p">Verbonden met een UMTS-netwerk.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-cellular-connected-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Connected to a cellular network.</p></td>
+<td><p class="p">Verbonden met een mobiel netwerk.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-cellular-acquiring-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Acquiring a cellular network connection.</p></td>
+<td><p class="p">Een mobiele netwerkverbinding toevoegen.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-cellular-signal-excellent-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Very high signal strength.</p></td>
+<td><p class="p">Zeer hoge signaalsterkte.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-cellular-signal-good-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">High signal strength.</p></td>
+<td><p class="p">Hoge signaalsterkte.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-cellular-signal-ok-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Medium signal strength.</p></td>
+<td><p class="p">Gemiddelde signaalsterkte.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-cellular-signal-weak-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Low signal strength.</p></td>
+<td><p class="p">Lage signaalsterkte.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-cellular-signal-none-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Extremely low signal strength.</p></td>
+<td><p class="p">Zeer lage signaalsterkte.</p></td>
 </tr>
 </table></div></div></div>
-<p class="p"><span class="app">Local Area Network (LAN) Connection</span></p>
+<p class="p"><span class="app">Local Area Network (LAN)-verbinding</span></p>
 <div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-error-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">There has been an error in finding the network.</p></td>
+<td><p class="p">Een fout is opgetreden bij het zoeken naar het netwerk.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-idle-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The network is inactive.</p></td>
+<td><p class="p">Het netwerk is inactief.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-no-route-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">There is no route found for the network.</p></td>
+<td><p class="p">Er is geen route gevonden voor het netwerk.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-offline-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The network is offline.</p></td>
+<td><p class="p">Het netwerk is offline.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-receive-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The network is receiving data.</p></td>
+<td><p class="p">Het netwerk ontvangt gegevens.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-transmit-receive-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The network is transmitting and receiving data.</p></td>
+<td><p class="p">Het netwerk verstuurt en ontvangt gegevens.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-transmit-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The network is transmitting data.</p></td>
+<td><p class="p">Het netwerk verstuurt gegevens.</p></td>
 </tr>
 </table></div></div></div>
-<p class="p"><span class="app">Virtual Private Network (VPN) Connection</span></p>
+<p class="p"><span class="app">Virtual Private Network (VPN)-verbinding</span></p>
 <div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-vpn-acquiring-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Acquiring a network connection.</p></td>
+<td><p class="p">Verbinden met een netwerkverbinding.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-vpn-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Connected to a VPN network.</p></td>
+<td><p class="p">Verbonden met een VPN-netwerk.</p></td>
 </tr>
 </table></div></div></div>
-<p class="p"><span class="app">Wired Connection</span></p>
+<p class="p"><span class="app">Bekabelde verbinding</span></p>
 <div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-wired-acquiring-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Acquiring a network connection.</p></td>
+<td><p class="p">Verbinden met een netwerkverbinding.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-wired-disconnected-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Disconnected from the network.</p></td>
+<td><p class="p">Niet verbonden met het netwerk.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-wired-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Connected to a wired network.</p></td>
+<td><p class="p">Verbonden met een bekabeld netwerk.</p></td>
 </tr>
 </table></div></div></div>
-<p class="p"><span class="app">Wireless Connection</span></p>
+<p class="p"><span class="app">Draadloze verbinding</span></p>
 <div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-wireless-acquiring-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Acquiring a wireless connection.</p></td>
+<td><p class="p">Verbinden met draadloze verbinding.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-wireless-encrypted-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The wireless network is encrypted.</p></td>
+<td><p class="p">Het draadloze netwerk is versleuteld.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-wireless-connected-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Connected to a wireless network.</p></td>
+<td><p class="p">Verbonden met een draadloos netwerk.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-wireless-signal-excellent-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Very high signal strength.</p></td>
+<td><p class="p">Zeer hoge signaalsterkte.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-wireless-signal-good-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">High signal strength.</p></td>
+<td><p class="p">Hoge signaalsterkte.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-wireless-signal-ok-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Medium signal strength.</p></td>
+<td><p class="p">Gemiddelde signaalsterkte.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-wireless-signal-weak-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Low signal strength.</p></td>
+<td><p class="p">Lage signaalsterkte.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-wireless-signal-none-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Very low signal strength.</p></td>
+<td><p class="p">Zeer lage signaalsterkte.</p></td>
 </tr>
 </table></div></div></div>
 </div></div>
 </div></div>
 <div id="batteryicons" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Power Manager Icons</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Energiebeheer-pictogrammen</span></h2></div>
 <div class="region"><div class="contents"><div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/battery-full-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The battery is full.</p></td>
+<td><p class="p">De accu is vol.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/battery-good-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The battery is partially drained.</p></td>
+<td><p class="p">De accu is gedeeltelijk leeg.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/battery-low-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The battery is low.</p></td>
+<td><p class="p">De acculading is laag.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/battery-caution-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Caution: The battery is very low.</p></td>
+<td><p class="p">Waarschuwing: de acculading is zeer laag.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/battery-empty-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The battery is extremely low.</p></td>
+<td><p class="p">De acculading is zeer laag.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/battery-missing-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The battery has been unplugged.</p></td>
+<td><p class="p">De accu is niet aangesloten.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/battery-full-charged-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The battery is fully charged.</p></td>
+<td><p class="p">De accu is volledig opgeladen.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/battery-full-charging-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The battery is full and charging.</p></td>
+<td><p class="p">De accu is vol en wordt opgeladen.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/battery-good-charging-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The battery is partially full and charging.</p></td>
+<td><p class="p">De accu is gedeeltelijk vol en wordt opgeladen.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/battery-low-charging-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The battery is low and charging.</p></td>
+<td><p class="p">De acculading is laag en de accu wordt opgeladen.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/battery-caution-charging-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The battery is very low and charging.</p></td>
+<td><p class="p">De acculading is zeer laag en de accu wordt opgeladen.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/battery-empty-charging-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The battery is empty and charging.</p></td>
+<td><p class="p">De accu is leeg en wordt opgeladen.</p></td>
 </tr>
 </table></div></div></div></div></div>
 </div></div>

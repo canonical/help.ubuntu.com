@@ -79,7 +79,8 @@
 <a href="a11y-mag.html" title="Magnify a screen area">Magnify a screen area</a><span class="desc"> — Zoom in on your screen so that it is easier to see things.</span>
 </li>
 <li class="links ">
-<a href="a11y-contrast.html" title="Prilagoditev kontrasta">Prilagoditev kontrasta</a><span class="desc"> — Naredi okna in gumbe na zaslonu bolj (ali manj) živa, da jih je lažje videti.</span>
+<a href="a11y-contrast.html" title="Prilagoditev kontrasta">Prilagoditev kontrasta</a><span class="desc"> — Make windows and buttons on the screen more (or less) vivid, so
+    they’re easier to see.</span>
 </li>
 <li class="links ">
 <a href="a11y-font-size.html" title="Sprememba velikosti besedila na zaslonu">Sprememba velikosti besedila na zaslonu</a><span class="desc"> — Uporaba večjih pisav, da je besedilo mogoče lažje brati.</span>

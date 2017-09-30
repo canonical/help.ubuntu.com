@@ -88,7 +88,7 @@
 <dd class="terms"><p class="p">Visar objektets MIME-typ.</p></dd>
 <dt class="terms"><span class="gui">Plats</span></dt>
 <dd class="terms"><p class="p">Sökvägen till platsen för filen.</p></dd>
-<dt class="terms"><span class="gui">Ändrad – Tid</span></dt>
+<dt class="terms"><span class="gui">Ändrad — Tid</span></dt>
 <dd class="terms"><p class="p">Visar tid och datum då filen senast ändrades.</p></dd>
 <dt class="terms"><span class="gui">Åtkommen</span></dt>
 <dd class="terms"><p class="p">Visar tid eller datum då filen senast ändrades.</p></dd>

@@ -54,7 +54,14 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
 <p class="p"><span class="em-bold em">Занятое время дня</span></p>
-<p class="p">Интернет-провайдеры обычно настраивают соединения так, что один канал совместно используется несколькими клиентами. Даже если вы подключены отдельно, через собственную телефонную линию или кабель, то разделяемым может быть следующий сегмент линии — на телефонной станции. Если это так, и если многие ваши соседи пользуются Интернетом одновременно с вами, то можно заметить замедление соединения. Обычно оно ощутимо, когда большинство из них выходит в Интернет (например, по вечерам).</p>
+<p class="p">Internet service providers commonly setup internet connections so that
+      they are shared between several households. Even though you connect
+      separately, through your own phone line or cable connection, the
+      connection to the rest of the internet at the telephone exchange might
+      actually be shared. If this is the case and lots of your neighbors are
+      using the internet at the same time as you, you might notice a slow-down.
+      You’re most likely to experience this at times when your neighbors are
+      probably on the internet (in the evenings, for example).</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Загрузка нескольких вещей одновременно</span></p>
@@ -66,15 +73,27 @@
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Слабый сигнал беспроводной сети</span></p>
-<p class="p">Если вы используете беспроводное (wifi) соединение, проверьте уровень сигнала беспроводной сети, который отображается на значке сети в верхней панели. Если сигнал слабый, скорость соединения с Интернетом может уменьшиться.</p>
+<p class="p">If you’re connected to the internet by wireless (wifi), check the
+      network icon on the top bar to see if you have good wireless signal. If
+      not, the internet may be slow because you don’t have a very strong
+      signal.</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Используется более медленное мобильное соединение</span></p>
-<p class="p">Если вы заметили снижение скорости при использовании мобильного соединения с Интернетом, причина может быть в том, что вы переместились в зону с плохими условиями приёма сигнала. При этом соединение автоматически переключается с быстрого мобильного широкополосного соединения, такого как 3G, на более устойчивое, но медленное соединение типа GPRS.</p>
+<p class="p">If you have a mobile internet connection and notice that it is slow,
+      you may have moved into an area where signal reception is poor. When this
+      happens, the internet connection will automatically switch from a fast
+      “mobile broadband” connection like 3G to a more reliable, but slower,
+      connection like GPRS.</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Проблема в веб-браузере</span></p>
-<p class="p">Иногда у веб-браузеров возникают проблемы, из за которых они работают медленно. Причины могут быть разными — например, вы зашли на сайт, который браузеру трудно загрузить, или браузер работает уже в течение долгого времени. Попробуйте закрыть все окна браузера, а затем запустите браузер снова и посмотрите, изменилась ли скорость.</p>
+<p class="p">Sometimes web browsers encounter a problem that makes them run slow.
+      This could be for any number of reasons — you could have visited a
+      website that the browser struggled to load, or you might have had the
+      browser open for a long time, for example. Try closing all of the
+      browser’s windows and then opening the browser again to see if this makes
+      a difference.</p>
 </li>
 </ul></div></div></div>
 </div>
@@ -83,7 +102,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html" title="Проблемы с сетью">Проблемы с сетью</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Устранение неполадок с беспроводной сетью">Проблемы с беспроводными соединениями</a></span>, <span class="link"><a href="net-wireless-find.html" title="Моей беспроводной сети нет в списке">поиск сети wifi</a></span>…</span>
+<a href="net-problem.html" title="Проблемы с сетью">Проблемы с сетью</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Устранение неполадок с беспроводной сетью">Проблемы с беспроводными соединениями</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">поиск сети wifi</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

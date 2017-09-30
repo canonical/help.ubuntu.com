@@ -2,7 +2,7 @@
 <html lang=ja>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>一覧に自分の無線ネットワークが表示されません</title>
+<title>I can’t see my wireless network in the list</title>
 <link rel="stylesheet" type="text/css" href="ja.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -50,7 +50,7 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">一覧に自分の無線ネットワークが表示されません</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">I can’t see my wireless network in the list</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">There are a number of reasons why you might not be able to see your
@@ -69,7 +69,7 @@
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-problem.html" title="ネットワーク関連の問題">ネットワーク関連の問題</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="無線ネットワークトラブルシューティング">無線接続トラブルシューティング</a></span>、<span class="link"><a href="net-wireless-find.html" title="一覧に自分の無線ネットワークが表示されません">wifi ネットワーク検索</a></span>…</span>
+<a href="net-problem.html" title="ネットワーク関連の問題">ネットワーク関連の問題</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="無線ネットワークトラブルシューティング">無線接続トラブルシューティング</a></span>、<span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">wifi ネットワーク検索</a></span>…</span>
 </li>
 <li class="links ">
 <a href="net-wireless.html" title="無線ネットワーク">無線ネットワーク</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="無線ネットワークに接続する">無線接続</a></span>、<span class="link"><a href="net-wireless-hidden.html" title="非表示設定の無線ネットワークに接続">非表示設定のネットワーク</a></span>、<span class="link"><a href="net-wireless-disconnecting.html" title="無線ネットワークが切断されてしまいます、なぜですか?">切断する</a></span>…</span>

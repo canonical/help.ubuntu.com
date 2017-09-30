@@ -55,17 +55,9 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Síť</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Síť</span> otevřete příslušný panel.</p></li>
-<li class="steps"><p class="p">In the left pane, select the network connection that you want to have
-      a fixed address. If you plug in to the network with a cable, click
-      <span class="gui">Wired</span>, then click the
-      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span> button in the lower right corner of
-      the panel. For a <span class="gui">Wi-Fi</span> connection, the 
-      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>
-      button will be located next to the active network.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">IPv4</span> or <span class="gui">IPv6</span> in the left pane
-      and change the <span class="gui">Addresses</span> to <span class="em">Manual</span>.</p></li>
-<li class="steps"><p class="p">Type in the <span class="gui"><a href="net-what-is-ip-address.html" title="Co je to IP adresa?">IP Address</a></span> and
-      <span class="gui">Gateway</span>, as well as the appropriate <span class="gui">Netmask</span>.</p></li>
+<li class="steps"><p class="p">V levém panelu vyberte síťové připojení, u kterého chcete mít pevnou adresu.Pokud jste k síti připojeni kabelem, klikněte na <span class="gui">Drátové</span> a pak klikněte na tlačítko <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="nastavení"></span></span> v pravém dolním rohu panelu. U připojení <span class="gui">Wi-Fi</span> je tlačítko <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="nastavení"></span></span> umístěno vedle aktivní sítě.</p></li>
+<li class="steps"><p class="p">Klikněte na <span class="gui">IPv4</span> nebo <span class="gui">IPv6</span> v levém panelu a změňte <span class="gui">Adresy</span> na <span class="em">Ruční</span>.</p></li>
+<li class="steps"><p class="p">Zadejte <span class="gui"><a href="net-what-is-ip-address.html" title="Co je to IP adresa?">Adresu IP</a></span> a <span class="gui">Bránu</span>, včetně příslušné <span class="gui">Masky sítě</span>.</p></li>
 <li class="steps"><p class="p">V části <span class="gui">DNS</span> přepněte <span class="gui">Automatické</span> na <span class="gui">○</span> (vypnuto). Zadejte adresu IP serveru DNS, který chcete používat. Pomocí tlačítka <span class="gui">+</span> můžete přidat další servery DNS.</p></li>
 <li class="steps"><p class="p">V části <span class="gui">Směrování</span> přepněte <span class="gui">Automatické</span> na <span class="gui">○</span> (vypnuto). Zadejte <span class="gui">Adresu</span>, <span class="gui">Masku sítě</span>, <span class="gui">Bránu</span> a <span class="gui">Metriku</span> pro cestu, kterou chcete používat. Další cesty můžete přidat tlačítkem <span class="gui">+</span>.</p></li>
 <li class="steps"><p class="p">Klikněte na <span class="gui">Použít</span>. Síťové připojení by nyní mělo mít pevnou adresu IP.</p></li>

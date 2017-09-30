@@ -50,9 +50,9 @@
 <div class="region">
 <div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span>      
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Activities</a></span>      
       overview and start typing <span class="gui">Date &amp; Time</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Date &amp; Time</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Tanggal &amp; Waktu</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">If you have <span class="gui">Automatic Time Zone</span> set to <span class="gui">ON</span>, your
       time zone should update automatically if you have an internet
       connection. To update your time zone manually, set this to
@@ -66,12 +66,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="clock.html" title="Tanggal &amp; waktu">Tanggal &amp; waktu</a><span class="desc"> — 
-      <span class="link"><a href="clock-set.html" title="Ubah tanggal dan waktu">Set date and time</a></span>,
-      <span class="link"><a href="clock-world.html" title="Add a world clock">world clocks</a></span>,
-      <span class="link"><a href="clock-timezone.html" title="Ubah zona waktu Anda">timezone</a></span>,
-      <span class="link"><a href="clock-calendar.html" title="Janji kalender">calendar and appointments</a></span>…
-    </span>
+<a href="clock.html" title="Tanggal &amp; waktu">Tanggal &amp; waktu</a><span class="desc"> — <span class="link"><a href="clock-set.html" title="Ubah tanggal dan waktu">Atur tanggal dan waktu</a></span>, <span class="link"><a href="clock-world.html" title="Tambah jam dunia">jam dunia</a></span>, <span class="link"><a href="clock-timezone.html" title="Ubah zona waktu Anda">zona waktu</a></span>, <span class="link"><a href="clock-calendar.html" title="Janji kalender">kalender dan janji bertemu</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

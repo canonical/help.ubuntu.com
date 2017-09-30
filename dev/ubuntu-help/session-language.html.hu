@@ -54,9 +54,9 @@
 <li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Terület és nyelv</span> kifejezést.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Terület és nyelv</span> ikonra a panel megnyitásához.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Nyelv</span> gombra.</p></li>
-<li class="steps"><p class="p">Válassza ki a kívánt régiót és nyelvet. Ha a régió és nyelv nincs a listában, akkor nyomja meg a <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="..."></span></span></span> gombot az összes elérhető régióból és nyelvből való választáshoz.</p></li>
+<li class="steps"><p class="p">Válassza ki a kívánt régiót és nyelvet. Ha a régió és nyelv nincs a listában, akkor nyomja meg a <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="…"></span></span></span> gombot az összes elérhető régióból és nyelvből való választáshoz.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Kész</span> gombra a mentéshez.</p></li>
-<li class="steps"><p class="p">Válaszoljon az <span class="gui">A változtatások életbe léptetéséhez lépjen ki, majd újra be</span> felszólításra az <span class="gui">Újraindítás most</span> vagy a <span class="gui">X</span> gombra kattintással.</p></li>
+<li class="steps"><p class="p">Válaszoljon az <span class="gui">A változtatások életbe léptetéséhez lépjen ki, majd újra be</span> felszólításra az <span class="gui">Újraindítás most</span> vagy a <span class="gui">×</span> gombra kattintással.</p></li>
 </ol></div></div></div>
 <p class="p">Egyes fordítások hiányosak lehetnek, és bizonyos alkalmazások egyáltalán nincsenek lefordítva. A lefordítatlan szövegek a szoftver fejlesztéséhez eredetileg használt nyelven jelennek meg, általában amerikai angolul.</p>
 <p class="p">Saját mappája tartalmaz néhány speciális mappát, amelyekben az alkalmazások zenéket, képeket, dokumentumokat stb. tárolhatnak. Ezek a mappák szabványos és lefordított neveket használnak. A következő bejelentkezéskor egy program megkérdezi, hogy át szeretné-e nevezni ezeket a mappákat a kiválasztott nyelvnek megfelelő szabványos nevekre. Ha a jövőben mindig a kiválasztott nevet szeretné használni, akkor frissítse a mappaneveket.</p>
@@ -67,7 +67,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html" title="Terület és nyelv">Terület és nyelv</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Nyelv megváltoztatása">Nyelv</a></span>, <span class="link"><a href="session-formats.html" title="Dátum és mértékegység-formátumok módosítása">terület és formátumok</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">billentyűzetkiosztások</a></span>…</span>
+<a href="prefs-language.html" title="Terület és nyelv">Terület és nyelv</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Nyelv megváltoztatása">Nyelv</a></span>, <span class="link"><a href="session-formats.html" title="Dátum és mértékegység-formátumok módosítása">terület és formátumok</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Alternatív billentyűzetkiosztások használata">billentyűzetkiosztások</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

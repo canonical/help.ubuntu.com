@@ -78,7 +78,12 @@
     indicate a stronger connection to the network. Fewer bars mean the
     connection is weaker and might not be very reliable.</p></li>
 </ol></div></div></div>
-<p class="p">Si la connexion échoue, il vous est soit redemandé votre mot de passe, soit notifié que la connexion est interrompue. Il y a plusieurs raisons à cela : la saisie d'un mot de passe incorrect, la faiblesse du signal ou un problème dû à votre carte réseau sans fil, par exemple. Consultez <span class="link"><a href="net-wireless-troubleshooting.html" title="Dépannage du réseau sans fil">Dépannage du réseau sans fil</a></span> pour obtenir de l'aide.</p>
+<p class="p">If the connection is not successful, you may be asked for your password
+  again or it might just tell you that the connection has been disconnected.
+  There are a number of things that could have caused this to happen. You could
+  have entered the wrong password, the wireless signal could be too weak, or
+  your computer’s wireless card might have a problem, for example. See
+  <span class="link"><a href="net-wireless-troubleshooting.html" title="Dépannage du réseau sans fil">Dépannage du réseau sans fil</a></span> for more help.</p>
 <p class="p">Un signal puissant sur un réseau sans fil ne signifie pas nécessairement une connexion internet ou des possibilités de téléchargement plus rapides. La connexion sans fil relie votre ordinateur à un <span class="em">périphérique qui fournit une connexion internet</span> (comme un routeur ou un modem), mais ces deux connexions sont différentes et vont chacune à leur propre vitesse.</p>
 </div>
 <div class="sect sect-links" role="navigation">

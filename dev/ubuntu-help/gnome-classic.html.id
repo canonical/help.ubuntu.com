@@ -47,14 +47,9 @@
 <div class="hgroup"><h1 class="title"><span class="title">Apa itu GNOME Klasik?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p"><span class="em">GNOME Classic</span> is a feature for users who prefer a more traditional
-  desktop experience. While <span class="em">GNOME Classic</span> is based on <span class="em">GNOME 3</span>
-  technologies, it provides a number of changes to the user interface, such as
-  the <span class="gui">Applications</span> and
-  <span class="gui">Places</span> menus on the top bar, and a window
-  list at the bottom of the screen.</p>
+<p class="p"><span class="em">GNOME Klasik</span> adalah fitur bagi pengguna yang lebih suka pengalaman desktop yang lebih tradisional. Walaupun <span class="em">GNOME Klasik</span> berbasis pada teknologi <span class="em">GNOME 3</span>, itu menawarkan sejumlah perubahan ke antar muka pengguna, seperti misalnya menu <span class="gui">Aplikasi</span> dan <span class="gui">Tempat</span> pada bilah puncak, dan daftar jendela di dasar layar.</p>
 <p class="p">You can use the <span class="gui">Applications</span> menu on the top bar to launch
- applications. The <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span>
+ applications. The <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Activities</a></span>
  overview is available by selecting the <span class="gui">Activities
  Overview</span> item from the menu.</p>
 <p class="p">To access the <span class="em"><span class="gui">Activities</span> overview</span>,

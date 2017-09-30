@@ -76,7 +76,7 @@
 <p class="p">To check the free disk space and disk capacity with <span class="app">System Monitor</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Åbn programmet <span class="app">Systemovervågning</span> fra <span class="gui">Aktivitetsoversigten</span>.</p></li>
-<li class="steps"><p class="p">Select the <span class="gui">File Systems</span> tab to view the system's partitions and
+<li class="steps"><p class="p">Select the <span class="gui">File Systems</span> tab to view the system’s partitions and
   disk space usage.  The information is displayed according to <span class="gui">Total</span>,
   <span class="gui">Free</span>, <span class="gui">Available</span> and <span class="gui">Used</span>.</p></li>
 </ol></div></div></div>
@@ -87,9 +87,9 @@
 <div class="region"><div class="contents">
 <p class="p">If the disk is too full you should:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Delete files that aren't important or that you won't use anymore.</p></li>
+<li class="list"><p class="p">Delete files that aren’t important or that you won’t use anymore.</p></li>
 <li class="list"><p class="p">Make <span class="link"><a href="backup-why.html" title="Back up your important files">backups</a></span> of the important files that
-   you won't need for a while and delete them from the hard drive.</p></li>
+   you won’t need for a while and delete them from the hard drive.</p></li>
 </ul></div></div></div>
 </div></div>
 </div></div>

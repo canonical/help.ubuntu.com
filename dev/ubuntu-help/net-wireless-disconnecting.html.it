@@ -68,7 +68,12 @@
 <div id="network" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">La connessione di rete non viene stabilita correttamente</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Talvolta, collegandosi a una rete senza fili, può sembrare in un primo momento che la connessione sia stata stabilita con successo, ma subito dopo si verifica una disconnessione. Ciò accade normalmente perché il computer ha effettuato solo una connessione parziale alla rete: è riuscito a stabilire una connessione, ma non è riuscito a completarla per qualche ragione e si è disconnesso.</p>
+<p class="p">Sometimes, when you connect to a wireless network, it may appear that you
+ have successfully connected at first, but then you will be disconnected soon
+ after. This normally happens because your computer was only partially
+ successful in connecting to the network — it managed to establish a connection,
+ but was unable to finalize the connection for some reason and so was
+ disconnected.</p>
 <p class="p">Ciò può accadere perché si è inserita la password errata di accesso alla rete o perché non è consentito l'accesso del computer alla rete (la rete potrebbe richiedere un nome utente per accedervi).</p>
 </div></div>
 </div></div>
@@ -89,7 +94,7 @@
 <li class="links ">
 <a href="net-problem.html" title="Problemi di rete">Problemi di rete</a><span class="desc"> — 
       <span class="link"><a href="net-wireless-troubleshooting.html" title="Risoluzione dei problemi relativi alle reti senza fili">Troubleshooting wireless connections</a></span>,
-      <span class="link"><a href="net-wireless-find.html" title="Non è possibile visualizzare la propria rete senza fili nell'elenco">finding your wifi network</a></span>…
+      <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">finding your wifi network</a></span>…
     </span>
 </li>
 <li class="links ">
@@ -104,7 +109,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Confronta anche</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-connect.html" title="Connettersi a una rete WiFi">Connettersi a una rete WiFi</a><span class="desc"> — Connessione a Internet senza fili.</span>
+<a href="net-wireless-connect.html" title="Connettersi a una rete WiFi">Connettersi a una rete WiFi</a><span class="desc"> — Get on the internet — wirelessly.</span>
 </li></ul></div>
 </div></div>
 </div>

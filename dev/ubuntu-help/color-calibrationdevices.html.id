@@ -68,9 +68,13 @@
 <li class="list"><p class="p">Colorimètre HCFR (colorimeter)</p></li>
 </ul></div></div></div>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Pantone Huey kini adalah perangkat keras yang paling murah dan paling baik didukung di Linux.</p></div></div></div></div>
-<p class="p">Terima kasih kepada Argyll ada juga sejumlah spektrometer reflektif pembaca spot dan strip untuk membantu Anda mengkalibrasi dan mengkarakterisasi pencetak Anda:</p>
+<p class="p">
+    Thanks to Argyll there’s also a number of spot and strip reading
+    reflective spectrometers supported to help you calibrating and
+    characterizing your printers:
+  </p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">X-Rite DTP20 "Pulse" (spektrometer reflektif tipe "gesek")</p></li>
+<li class="list"><p class="p">X-Rite DTP20 “Pulse” (“swipe” type reflective spectrometer)</p></li>
 <li class="list"><p class="p">X-Rite DTP22 Digital Swatchbook (spektrometer reflektif tipe spot)</p></li>
 <li class="list"><p class="p">X-Rite DTP41 (spektrometer reflektif pembacaan strip dan spot)</p></li>
 <li class="list"><p class="p">X-Rite DTP41T (spektrometer reflektif pembacaan strip dan spot)</p></li>

@@ -67,7 +67,7 @@
 <div id="change-wallpaper-overview" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">De achtergrond wijzigen</span></h2></div>
 <div class="region"><div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Klik op het <span class="gui"><a href="shell-introduction.html#yourname" title="You and your computer">systeemmenu</a></span> aan de rechterkant van de bovenste balk.</p></li>
+<li class="steps"><p class="p">Klik op het <span class="gui"><a href="shell-introduction.html#yourname" title="U en uw computer">systeemmenu</a></span> aan de rechterkant van de bovenste balk.</p></li>
 <li class="steps"><p class="p">Klik op de knop Instellingen linksonder in het menu.</p></li>
 <li class="steps"><p class="p">Klik op het <span class="gui">Achtergrond</span>paneel.</p></li>
 <li class="steps"><p class="p">Klik op de huidige achtergrondafbeelding aan de linkerkant van het <span class="gui">Achtergrond</span>venster.</p></li>

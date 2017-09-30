@@ -57,10 +57,7 @@
 <div class="linkdiv "><a class="linkdiv" href="get-involved.html" title="Medverka till att förbättra den här handboken"><span class="title">Medverka till att förbättra den här handboken</span><span class="linkdiv-dash"> — </span><span class="desc">Hur och var du ska rapportera problem med dessa hjälptexter.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="about-this-guide.html" title="Om denna handbok"><span class="title">Om denna handbok</span><span class="linkdiv-dash"> — </span><span class="desc">Några tips om hur du använder Ubuntu Skrivbordsguide.</span></a></div>
 </div>
-<div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="translate.html" title="Participate to improve translations"><span class="title">Participate to improve translations</span><span class="linkdiv-dash"> — </span><span class="desc">How and where to help translate these topics.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="report-ubuntu-bug.html" title="Rapportera ett problem i Ubuntu"><span class="title">Rapportera ett problem i Ubuntu</span><span class="linkdiv-dash"> — </span><span class="desc">Hur och var kan man rapportera problem med Ubuntu.</span></a></div>
-</div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="report-ubuntu-bug.html" title="Rapportera ett problem i Ubuntu"><span class="title">Rapportera ett problem i Ubuntu</span><span class="linkdiv-dash"> — </span><span class="desc">Hur och var kan man rapportera problem med Ubuntu.</span></a></div></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">

@@ -69,10 +69,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Πλήκτρα βελών</p></td>
-<td style="border-top-style: solid;">
-<p class="p">Μετακινήστε την επιλογή μεταξύ στοιχείων σε έναν μόνο έλεγχο, ή μεταξύ ενός συνόλου σχετικών ελέγχων. Χρησιμοποιήστε τα πλήκτρα των βελών για να εστιάσετε τα κουμπιά σε μια εργαλειοθήκη, επιλέξτε στοιχεία σε μια λίστα προβολής εικονιδίων, ή επιλέξτε ένα ραδιοπλήκτρο από μια ομάδα.</p>
-<p class="p">Σε μια προβολή δένδρου, χρησιμοποιήστε το αριστερό και το δεξιό πλήκτρο βέλους για να συμπτύξετε και να επεκτείνετε τα στοιχεία με τα θυγατρικά.</p>
-</td>
+<td style="border-top-style: solid;"><p class="p">Μετακινήστε την επιλογή μεταξύ στοιχείων σε έναν μόνο έλεγχο, ή μεταξύ ενός συνόλου σχετικών ελέγχων. Χρησιμοποιήστε τα πλήκτρα των βελών για να εστιάσετε τα κουμπιά σε μια εργαλειοθήκη, επιλέξτε στοιχεία σε μια λίστα προβολής εικονιδίων, ή επιλέξτε ένα ραδιοπλήκτρο από μια ομάδα.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+Πλήκτρα βελών</span></p></td>
@@ -81,6 +78,10 @@
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+Πλήκτρα βελών</span></p></td>
 <td style="border-top-style: solid;"><p class="p">Σε μια λίστα ή προβολή εικονιδίων, επιλέξτε όλα τα στοιχεία από το τρέχον επιλεγμένο στοιχείο σε ένα πρόσφατα εστιασμένο στοιχείο.</p></td>
+<td style="border-top-style: solid;"><p class="p">In a tree view, items that have children can be expanded or collapsed,
+    to show or hide their children: expand by pressing
+    <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>→</kbd></span></span>, and collapse by
+    pressing <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>←</kbd></span></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Διάστημα</kbd></span></p></td>

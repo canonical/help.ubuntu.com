@@ -2,7 +2,7 @@
 <html lang=el>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Ορίστε την λειτουργία ανίχνευσης του tablet Wacom</title>
+<title>Set the Wacom tablet’s tracking mode</title>
 <link rel="stylesheet" type="text/css" href="el.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,7 +46,7 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="wacom.html" title="Tablet γραφικών Wacom">Tablet γραφικών Wacom</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Ορίστε την λειτουργία ανίχνευσης του tablet Wacom</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Set the Wacom tablet’s tracking mode</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Η <span class="gui">Λειτουργία παρακολούθησης</span> καθορίζει πώς ο δείκτης απεικονίζεται στην οθόνη.</p>
@@ -54,13 +54,17 @@
 <li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Wacom Tablet</span>.</p></li>
 <li class="steps">
 <p class="p">Κάντε κλικ στο <span class="gui">Tablet Wacom</span> για να ανοίξετε τον πίνακα.</p>
-<div class="note note-tip" title="Συμβουλή"><div class="inner"><div class="region"><div class="contents"><p class="p">Εάν δεν ανιχνευτεί κανένα tablet, θα σας ζητηθεί <span class="gui">Παρακαλούμε ενεργοποιήστε ή συνδέστε το Wacom tablet</span>. Κάντε κλικ στο σύνδεσμο <span class="gui">Ρυθμίσεις Bluetooth</span> για να συνδέσετε ένα ασύρματο tablet.</p></div></div></div></div>
+<div class="note note-tip" title="Συμβουλή"><div class="inner"><div class="region"><div class="contents"><p class="p">If no tablet is detected, you’ll be asked to
+    <span class="gui">Please plug in or turn on your Wacom tablet</span>. Click the
+    <span class="gui">Bluetooth Settings</span> link to connect a wireless tablet.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Δίπλα στην <span class="gui">Λειτουργία παρακολούθησης</span>, επιλέξτε <span class="gui">Tablet (απόλυτο)</span> ή <span class="gui">Πινακίδα αφής (σχετική)</span>.</p></li>
 </ol></div></div></div>
 <div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents">
 <p class="p">Στην <span class="em">απόλυτη</span> λειτουργία, κάθε σημείο στο tablet απεικονίζει ένα σημείο στην οθόνη. Η πάνω αριστερή γωνία της οθόνης, για παράδειγμα, αντιστοιχεί πάντα στο ίδιο σημείο στο tablet.</p>
-<p class="p">Στην <span class="em">σχετική</span> λειτουργία, αν σηκώσετε τον δείκτη από το tablet και τον τοποθετήσετε σε άλλη θέση, ο δρομέας δεν θα μετακινηθεί στην οθόνη. Με τον ίδιο τρόπο λειτουργεί και το ποντίκι.</p>
+<p class="p">In <span class="em">relative</span> mode, if you lift the pointer off the tablet and put it
+ down in a different position, the cursor on the screen doesn’t move. This is
+    the way a mouse operates.</p>
 </div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">

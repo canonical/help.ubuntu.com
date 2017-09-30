@@ -49,7 +49,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Mihin tallentaa varmuuskopiot</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Sinun kannattaa säilyttää varmuuskopioita erossa tietokoneestasi - esimerkiksi ulkoiselle kiintolevyllä. Tässä tapauksessa, jos tietokoneesi menee rikki, varmuuskopio on silti kunnossa. Erityisen turvallista on, jos et pidä varmuuskopioita samassa rakennuksessa kuin tietokoneesi. Jos syttyy tulipalo tai tapahtuu varkaus, molemmat kopiot ovat vaarassa, jos ne ovat lähellä toisiaan.</p>
+<p class="p">Sinun kannattaa säilyttää varmuuskopioita erossa tietokoneestasi — esimerkiksi ulkoiselle kiintolevyllä. Tässä tapauksessa, jos tietokoneesi menee rikki, varmuuskopio on silti kunnossa. Erityisen turvallista on, jos et pidä varmuuskopioita samassa rakennuksessa kuin tietokoneesi. Jos syttyy tulipalo tai tapahtuu varkaus, molemmat kopiot ovat vaarassa, jos ne ovat lähellä toisiaan.</p>
 <p class="p">On myös tärkeää valita sopiva <span class="em">tallennuslaite</span>. Sinun täytyy säilyttää varmuuskopioita laitteessa, jossa on tarpeeksi tallennuskapasiteettia kaikille varmuuskopioitaville tiedostoille.</p>
 <div class="list"><div class="inner">
 <div class="title title-list"><h2><span class="title">Paikalliset ja etätallennusvalinnat</span></h2></div>
@@ -60,9 +60,7 @@
 <li class="list"><p class="p">Verkkokytkentäinen kiintolevy (suuri kapasiteetti)</p></li>
 <li class="list"><p class="p">Tiedosto-/varmuuskopiopalvelin (suuri kapasiteetti)</p></li>
 <li class="list"><p class="p">Tyhjä CD- tai DVD-levy (alhainen tai keskinkertainen kapasiteetti)</p></li>
-<li class="list"><p class="p">Online backup service
-     (<span class="link"><a href="http://aws.amazon.com/s3/" title="http://aws.amazon.com/s3/">Amazon S3</a></span>, for example;
-     capacity depends on price)</p></li>
+<li class="list"><p class="p">Verkossa toimiva tallennuspalvelu (esimerkiksi <span class="link"><a href="http://aws.amazon.com/s3/" title="http://aws.amazon.com/s3/">Amazon S3</a></span>, kapasiteetti riippuu hinnasta)</p></li>
 </ul></div>
 </div></div>
 <p class="p">Joillain näillä vaihtoehdoilla on tarpeeksi kapasiteettia varmuuskopioida kaikki järjestelmäsi tiedostot (tunnetaan myös nimellä <span class="em">täydellinen järjestelmän varmuuskopiointi</span>)</p>

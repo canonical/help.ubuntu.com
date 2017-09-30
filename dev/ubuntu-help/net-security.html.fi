@@ -51,7 +51,8 @@
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="linkdiv "><a class="linkdiv" href="net-firewall-on-off.html" title="Salli ja estä ohjelmien yhteydet palomuurin läpi"><span class="title">Salli ja estä ohjelmien yhteydet palomuurin läpi</span><span class="linkdiv-dash"> — </span><span class="desc">Hallitse mitkä ohjelmat saavat käyttää Internet-yhteyttä.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-email-virus.html" title="Pitääkö minun skannata sähköpostit virusten varalta?"><span class="title">Pitääkö minun skannata sähköpostit virusten varalta?</span><span class="linkdiv-dash"> — </span><span class="desc">On epätodennäköistä, että virukset voisivat saastuttaa Linux-tietokoneesi, mutta ne voivat kuitenkin levitä koneeltasi sähköpostin kautta muiden ihmisten tietokoneille.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-antivirus.html" title="Tarvitsenko virustentorjuntaohjelman?"><span class="title">Tarvitsenko virustentorjuntaohjelman?</span><span class="linkdiv-dash"> — </span><span class="desc">Linux-koneille on olemassa vain muutamia viruksia, joten et todennäköisesti tarvitse virustorjuntaohjelmistoa.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-antivirus.html" title="Tarvitsenko virustentorjuntaohjelman?"><span class="title">Tarvitsenko virustentorjuntaohjelman?</span><span class="linkdiv-dash"> — </span><span class="desc">There are few Linux viruses, so you probably don’t need anti-virus
+    software.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-firewall-ports.html" title="Yleisesti käytetyt verkkoportit"><span class="title">Yleisesti käytetyt verkkoportit</span><span class="linkdiv-dash"> — </span><span class="desc">Määritä oikea tietoliikenneportti palomuuriin käyttämiäsi sovelluksia varten.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">

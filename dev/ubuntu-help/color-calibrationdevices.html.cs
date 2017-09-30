@@ -70,7 +70,7 @@
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Pantone Huey je v současnosti nejlevnější a nejlépe podporované zařízení v Linuxu.</p></div></div></div></div>
 <p class="p">Díky Argyllu je podporováno také několik bodový a proužkových reflexních spektrometrů, které vám pomohou kalibrovat a charakterizovat vaši tiskárnu:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">X-Rite DTP20 "Pulse" („protahovací“ reflexní spektrometr)</p></li>
+<li class="list"><p class="p">X-Rite DTP20 „Pulse“ („protahovací“ reflexní spektrometr)</p></li>
 <li class="list"><p class="p">X-Rite DTP22 Digital Swatchbook (proužkový reflexní spektrometr)</p></li>
 <li class="list"><p class="p">X-Rite DTP41 (bodový a proužkový čtecí reflexní spektrometr)</p></li>
 <li class="list"><p class="p">X-Rite DTP41T (bodový a proužkový čtecí reflexní spektrometr)</p></li>

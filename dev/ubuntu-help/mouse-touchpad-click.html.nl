@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Click, drag, or scroll with the touchpad</title>
+<title>Klik, sleep, of scroll met het touchpad</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,59 +44,51 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="mouse.html" title="Mouse">Mouse</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="mouse.html" title="Muis">Muis</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="mouse.html" title="Mouse">Mouse</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="mouse.html" title="Muis">Muis</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Click, drag, or scroll with the touchpad</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Klik, sleep, of scroll met het touchpad</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">You can click, double-click, drag, and scroll using only your touchpad,
-  without separate hardware buttons.</p></div>
+<div class="contents"><p class="p">U kunt klikken, dubbelklikken, slepen en scrollen met alleen uw touchpad, zonder fysieke knoppen.</p></div>
 <div id="tap" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Tap to click</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Tikken om te klikken</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">You can tap your touchpad to click instead of using a button.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activities</a></span> overview and
       start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Mouse &amp; Touchpad</span> to open the panel.</p></li>
 <li class="steps">
-<p class="p">In the <span class="gui">Touchpad</span> section, check <span class="gui">Tap to click</span>.</p>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">The <span class="gui">Touchpad</span> section only appears if your system has a
-        touchpad.</p></div></div></div></div>
+<p class="p">Plaats in de <span class="gui">Touchpad</span>-sectie een vinkje bij <span class="gui">Tikken om te klikken</span>.</p>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">De <span class="gui">Touchpad</span>-sectie verschijnt alleen als uw systeem een touchpad heeft.</p></div></div></div></div>
 </li>
 </ol></div></div></div>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">To click, tap on the touchpad.</p></li>
-<li class="list"><p class="p">To double-click, tap twice.</p></li>
-<li class="list"><p class="p">To drag an item, double-tap but don't lift your finger after the
+<li class="list"><p class="p">Tik op het touchpad om te klikken.</p></li>
+<li class="list"><p class="p">Tik twee maal om te dubbelklikken.</p></li>
+<li class="list"><p class="p">To drag an item, double-tap but don’t lift your finger after the
       second tap. Drag the item where you want it, then lift your finger to
       drop.</p></li>
-<li class="list"><p class="p">If your touchpad supports multi-finger taps, right-click by tapping
-      with two fingers at once. Otherwise, you still need to use hardware
-      buttons to right-click. See <span class="link"><a href="a11y-right-click.html" title="Simulate a right mouse click">Simulate a right mouse click</a></span> for a method
-      of right-clicking without a second mouse button.</p></li>
-<li class="list"><p class="p">If your touchpad supports multi-finger taps,
-      <span class="link"><a href="mouse-middleclick.html" title="Middle-click">middle-click</a></span> by tapping with three
-      fingers at once.</p></li>
+<li class="list"><p class="p">Als uw touchpad tikken met meerdere vingers ondersteunt, dan kunt u rechtsklikken door met twee vingers tegelijk te tikken. Zo niet, dan moet u nog steeds fysieke knoppen gebruiken om met rechts te klikken. Zie <span class="link"><a href="a11y-right-click.html" title="Een rechtermuisklik simuleren">Een rechtermuisklik simuleren</a></span> voor een manier om met rechts te klikken zonder een tweede muisknop.</p></li>
+<li class="list"><p class="p">Als uw touchpad tikken met meerdere vingers ondersteunt, dan kunt u <span class="link"><a href="mouse-middleclick.html" title="Middelklik">middelklikken</a></span> door met drie vingers tegelijk te tikken.</p></li>
 </ul></div></div></div>
 <div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">When tapping or dragging with multiple fingers, make sure your fingers
     are spread far enough apart. If your fingers are too close, your computer
-    may think they're a single finger.</p></div></div></div></div>
+    may think they’re a single finger.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="twofingerscroll" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Two finger scroll</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Scrollen met twee vingers</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">You can scroll using your touchpad using two fingers.</p>
+<p class="p">U kunt met uw touchpad scrollen met twee vingers.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activities</a></span> overview and
       start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Mouse &amp; Touchpad</span> to open the panel.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">Touchpad</span> section, check <span class="gui">Two finger
-      scroll</span>.</p></li>
+<li class="steps"><p class="p">Plaats in de <span class="gui">Touchpad</span>-sectie een vinkje bij <span class="gui">Scrollen met twee vingers</span>.</p></li>
 </ol></div></div></div>
 <p class="p">When this is selected, tapping and dragging with one finger will work as
   normal, but if you drag two fingers across any part of the touchpad, it will
@@ -104,16 +96,15 @@
   to scroll up and down, or move your fingers across the touchpad to scroll
   sideways. Be careful to space your fingers a bit apart. If your fingers are
   too close together, they just look like one big finger to your touchpad.</p>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Two-finger scrolling may not work on all touchpads.</p></div></div></div></div>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Het scrollen met twee vingers werkt mogelijk niet op alle touchpads.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="contentsticks" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Natural scrolling</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Natuurlijk scrollen</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">You can drag content as if sliding a physical piece of paper using the
-  touchpad.</p>
+<p class="p">Via het touchpad kunt u inhoud slepen alsof er fysiek een stuk papier wordt versleept.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activities</a></span> overview and
       start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Mouse &amp; Touchpad</span> to open the panel.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">Touchpad</span> section, check <span class="gui">Natural
@@ -127,11 +118,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="mouse.html" title="Mouse">Mouse</a><span class="desc"> — 
-      <span class="link"><a href="mouse-lefthanded.html" title="Use your mouse left-handed">Left-handed</a></span>,
-      <span class="link"><a href="mouse-sensitivity.html" title="Adjust speed of the mouse and touchpad">speed and sensitivity</a></span>,
-      <span class="link"><a href="mouse-touchpad-click.html" title="Click, drag, or scroll with the touchpad">touchpad clicking and scrolling</a></span>…
-    </span>
+<a href="mouse.html" title="Muis">Muis</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="Gebruik de muis met uw linker hand">Linkshandig</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="De snelheid van de muis en het touchpad aanpassen">snelheid en gevoeligheid</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Klik, sleep, of scroll met het touchpad">touchpad klikken en scrollen</a></span>...</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -78,7 +78,10 @@
 <div id="speakers" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Vérifiez que les haut-parleurs sont allumés et correctement branchés</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Si votre ordinateur dispose de haut-parleurs externes, assurez-vous qu'ils sont allumés et que le volume sonore est suffisant. Assurez-vous aussi que le câble de haut-parleur est bien enfoncé dans la prise audio « Sortie » de l'ordinateur. Elle est en général de couleur vert clair.</p>
+<p class="p">If your computer has external speakers, make sure that they are turned on
+  and that the volume is turned up. Make sure that the speaker cable is securely
+  plugged into the “output” audio socket on your computer. This socket
+  is usually light green in color.</p>
 <p class="p">Some sound cards can switch between the socket they use for output
   (to the speakers) and the socket for input (from a microphone, for instance).
   The output socket may be different when running Linux, Windows or Mac OS.
@@ -91,7 +94,7 @@
 <div id="device" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Check that the correct sound device is selected</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Some computers have multiple "sound devices" installed. Some of these are
+<p class="p">Some computers have multiple “sound devices” installed. Some of these are
   capable of outputting sound and some are not, so you should check that you
   have the correct sound device selected. This might involve some
   trial-and-error to choose the right one.</p>

@@ -54,7 +54,10 @@
 <p class="p">Het kan ook zijn dat u software wilt installeren die niet over een GUI beschikt. Om dergelijke software te installeren kunt u <span class="link"><a href="addremove-install-synaptic.html" title="Gebruik Synaptic voor geavanceerder softwarebeheer">Synaptic</a></span> gebruiken. Merk op dat <span class="app">Synaptic</span> geen snaps opneemt in de lijst.</p>
 <p class="p">Om een toepassing te installeren:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Klik op het <span class="app">Ubuntu Software</span>-pictogram in de <span class="gui">Starter</span>, of zoek naar <span class="input">Software</span> in de zoekbalk van de <span class="gui">Snelzoeker</span>.</p></li>
+<li class="steps"><p class="p">
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">Nadat <span class="app">Ubuntu Software</span> geopend is, kunt u zoeken naar een toepassing of een categorie kiezen en uit de lijst een toepassing selecteren.</p></li>
 <li class="steps"><p class="p">Kies de toepassing waarin u geïnteresseerd bent en klik op <span class="gui">Installeren</span>.</p></li>
 <li class="steps"><p class="p">Als u een snap installeert, dient u zich aan te melden bij de snap-winkel/Ubuntu One.</p></li>

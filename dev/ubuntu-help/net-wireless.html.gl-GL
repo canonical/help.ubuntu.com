@@ -50,7 +50,7 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-connect.html" title="Conectar cunha rede sen fíos"><span class="title">Conectar cunha rede sen fíos</span><span class="linkdiv-dash"> — </span><span class="desc">Conectarse a Internet sen fíos.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-connect.html" title="Conectar cunha rede sen fíos"><span class="title">Conectar cunha rede sen fíos</span><span class="linkdiv-dash"> — </span><span class="desc">Get on the internet — wirelessly.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-airplane.html" title="Apagar o modo sen fíos (modo avión)"><span class="title">Apagar o modo sen fíos (modo avión)</span><span class="linkdiv-dash"> — </span><span class="desc">Abra a configuración de rede e cambie o modo avión a ACENDIDO.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-vpn-connect.html" title="Conectar a unha VPN"><span class="title">Conectar a unha VPN</span><span class="linkdiv-dash"> — </span><span class="desc">Set up a VPN connection to a local network over the internet.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-hidden.html" title="Conectar a unha rede sen fíos oculta"><span class="title">Conectar a unha rede sen fíos oculta</span><span class="linkdiv-dash"> — </span><span class="desc">Connect to a wireless network that is not displayed in the network
@@ -60,11 +60,11 @@
     network.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-noconnection.html" title="Escribín o contrasinal correcto, pero sigo sen poder conectarme."><span class="title">Escribín o contrasinal correcto, pero sigo sen poder conectarme.</span><span class="linkdiv-dash"> — </span><span class="desc">Double-check the password, and other things to try.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-manual.html" title="Estabelecer a configuración da rede manualmente"><span class="title">Estabelecer a configuración da rede manualmente</span><span class="linkdiv-dash"> — </span><span class="desc">You may have to enter network settings if they don't get assigned
+<div class="linkdiv "><a class="linkdiv" href="net-manual.html" title="Estabelecer a configuración da rede manualmente"><span class="title">Estabelecer a configuración da rede manualmente</span><span class="linkdiv-dash"> — </span><span class="desc">You may have to enter network settings if they don’t get assigned
     automatically.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html" title="Non podo ver a miña rede sen fíos na lista"><span class="title">Non podo ver a miña rede sen fíos na lista</span><span class="linkdiv-dash"> — </span><span class="desc">The wireless could be turned off or broken, or you may be trying to
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html" title="I can’t see my wireless network in the list"><span class="title">I can’t see my wireless network in the list</span><span class="linkdiv-dash"> — </span><span class="desc">The wireless could be turned off or broken, or you may be trying to
     connect to a hidden network.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-noconnection.html" title="I’ve entered the correct password, but I still can’t connect"><span class="title">I’ve entered the correct password, but I still can’t connect</span><span class="linkdiv-dash"> — </span><span class="desc">Double-check the password, and other things to try.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-disconnecting.html" title="Porque a miña rede sen fíos permanece desconectada?"><span class="title">Porque a miña rede sen fíos permanece desconectada?</span><span class="linkdiv-dash"> — </span><span class="desc">É posíbel que teña baixo sinal, ou a rede podería ser a que non lle permite conectar correctamente.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-wepwpa.html" title="Que significa WEP e WPA?"><span class="title">Que significa WEP e WPA?</span><span class="linkdiv-dash"> — </span><span class="desc">WEP e WPA son maneiras de cifrar datos en redes sen fíos</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-troubleshooting.html" title="Resolución de problemas en redes sen fíos"><span class="title">Resolución de problemas en redes sen fíos</span><span class="linkdiv-dash"> — </span><span class="desc">Identify and fix problems with wireless connections.</span></a></div>
@@ -83,7 +83,7 @@
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-problem.html" title="Problemas de rede">Problemas de rede</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Resolución de problemas en redes sen fíos">Resolución de erros en redes sen fíos</a></span>, <span class="link"><a href="net-wireless-find.html" title="Non podo ver a miña rede sen fíos na lista">atopar a súa rede sen fíos</a></span>…</span>
+<a href="net-problem.html" title="Problemas de rede">Problemas de rede</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Resolución de problemas en redes sen fíos">Resolución de erros en redes sen fíos</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">atopar a súa rede sen fíos</a></span>…</span>
 </li>
 <li class="links ">
 <a href="net-general.html" title="Termos e consellos sobre redes">Termos e consellos sobre redes</a><span class="desc"> — <span class="link"><a href="web.html#connections" title="web#connections">Conexións de rede</a></span>, <span class="link"><a href="web.html#chat" title="web#chat">iniciar conversas</a></span>, <span class="link"><a href="web.html#email" title="web#email">contas de correo electrónico</a></span>, <span class="link"><a href="web.html#browser" title="web#browser">engadidos</a></span>…</span>

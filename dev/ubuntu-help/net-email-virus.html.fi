@@ -54,8 +54,19 @@
 <div class="region">
 <div class="contents">
 <p class="p">Virukset ovat ohjelmia, jotka aiheuttavat ongelmia tietokoneelle päästessään. Virukset leviävät yleisesti esimerkiksi sähköpostin kautta.</p>
-<p class="p">Linux-tietokoneisiin vaikuttavat virukset ovat niin harvinaisia, <span class="link"><a href="net-antivirus.html" title="Tarvitsenko virustentorjuntaohjelman?">ettet mitä luultavimmin joudu tekemisiin niiden kanssa sähköpostitse tai mitään muutakaan kautta</a></span>. Jos vastaanotat sähköpostin, jossa on virus liitteenä, se ei todennäköisesti vaikuta millään tavalla Linux-tietokoneeseesi. Näin ollen sähköpostia ei ole välttämätöntä tarkistaa virusten varalta.</p>
-<p class="p">Saatat kaikesta huolimatta haluta tarkistaa vastaanottamasi sähköpostit virusten varalta, varsinkin jos tapanasi on välittää vastaanottamiasi viestejä. Jos esimerkiksi Windowsia käyttävä ystäväsi lähettää sinulle viruksella varustetun sähköpostin, ja välität sen toiselle Windowsia käyttävälle ystävällesi, saatat olla välikätenä viruksen leviämisessä. Voit siis halutessasi asentaa virustorjuntaohjelmiston, mutta se saattaa olla ylireagointia, sillä muita käyttöjärjestelmiä käyttävät ihmiset ovat yleensä varustautuneet virustorjuntaohjelmistolla.</p>
+<p class="p">Viruses that can affect computers running Linux are quite rare, so you are
+  <span class="link"><a href="net-antivirus.html" title="Tarvitsenko virustentorjuntaohjelman?">unlikely to get a virus through email or
+  otherwise</a></span>. If you receive an email with a virus hidden in it, it will
+  probably have no effect on your computer. As such, you probably don’t need to
+  scan your email for viruses.</p>
+<p class="p">You may, however, wish to scan your email for viruses in case you happen
+  to forward a virus from one person to another. For example, if one of your
+  friends has a Windows computer with a virus and sends you a virus-infected
+  email, and you then forward that email to another friend with a Windows
+  computer, then the second friend might get the virus too. You could install
+  an anti-virus application to scan your emails to prevent this, but it’s
+  unlikely to happen and most people using Windows and Mac OS have anti-virus
+  software of their own anyway.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -70,18 +81,15 @@
     </span>
 </li>
 <li class="links ">
-<a href="net-security.html" title="Tietoturva">Tietoturva</a><span class="desc"> — 
-      <span class="link"><a href="net-antivirus.html" title="Tarvitsenko virustentorjuntaohjelman?">Antivirus software</a></span>,
-      <span class="link"><a href="net-firewall-on-off.html" title="Salli ja estä ohjelmien yhteydet palomuurin läpi">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html" title="Yleisesti käytetyt verkkoportit">firewall ports</a></span>…
-    </span>
+<a href="net-security.html" title="Tietoturva">Tietoturva</a><span class="desc"> — <span class="link"><a href="net-antivirus.html" title="Tarvitsenko virustentorjuntaohjelman?">Virustorjuntaohjelmisto</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Salli ja estä ohjelmien yhteydet palomuurin läpi">palomuurit</a></span>, <span class="link"><a href="net-firewall-ports.html" title="Yleisesti käytetyt verkkoportit">palomuurien portit</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-antivirus.html" title="Tarvitsenko virustentorjuntaohjelman?">Tarvitsenko virustentorjuntaohjelman?</a><span class="desc"> — Linux-koneille on olemassa vain muutamia viruksia, joten et todennäköisesti tarvitse virustorjuntaohjelmistoa.</span>
+<a href="net-antivirus.html" title="Tarvitsenko virustentorjuntaohjelman?">Tarvitsenko virustentorjuntaohjelman?</a><span class="desc"> — There are few Linux viruses, so you probably don’t need anti-virus
+    software.</span>
 </li></ul></div>
 </div></div>
 </div>

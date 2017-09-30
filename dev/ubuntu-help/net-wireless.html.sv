@@ -50,7 +50,7 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-connect.html" title="Anslut till ett trådlöst nätverk"><span class="title">Anslut till ett trådlöst nätverk</span><span class="linkdiv-dash"> — </span><span class="desc">Nå internet - trådlöst.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-connect.html" title="Anslut till ett trådlöst nätverk"><span class="title">Anslut till ett trådlöst nätverk</span><span class="linkdiv-dash"> — </span><span class="desc">Nå internet — trådlöst.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-manual.html" title="Ange nätverksinställningar manuellt"><span class="title">Ange nätverksinställningar manuellt</span><span class="linkdiv-dash"> — </span><span class="desc">Du kan behöva mata in nätverksinställningar om de inte tilldelas automatiskt.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-vpn-connect.html" title="Anslut till ett VPN"><span class="title">Anslut till ett VPN</span><span class="linkdiv-dash"> — </span><span class="desc">Ställ in en VPN-anslutning till ett lokalt nätverk över internet.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-hidden.html" title="Anslut till ett dolt, trådlöst nätverk"><span class="title">Anslut till ett dolt, trådlöst nätverk</span><span class="linkdiv-dash"> — </span><span class="desc">Anslut till ett trådlöst nätverk som inte visas i nätverkslistan.</span></a></div>

@@ -72,7 +72,11 @@
 <p class="p">Some of the instructions in this guide ask you to type commands into the
     <span class="em">command line</span> (Terminal). You can find the <span class="app">Terminal</span> application in
     the <span class="gui">Activities</span> overview.</p>
-<p class="p">如果您不熟悉使用命令行，请不要担心，这个指南将在每一步给出详细的指导。您只需记住，所有命令都是区分大小写的，所以输入的命令必须和这个指南中显示的<span class="em">完全</span>一样，最后要在输入命令的最后按下<span class="key"><kbd>回车键</kbd></span>执行。</p>
+<p class="p">If you are not familiar with using a command line, don’t worry — this
+    guide will direct you at each step. All you need to remember is that
+    commands are case-sensitive (so you must type them <span class="em">exactly</span> as they
+    appear here), and to press <span class="key"><kbd>Enter</kbd></span> after typing each command to
+    run it.</p>
 </div></div>
 </div></div>
 </div>
@@ -96,7 +100,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">亦见</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-connect.html" title="连接到一个无线网络">连接到一个无线网络</a><span class="desc"> — 连接互联网－无线连接</span>
+<a href="net-wireless-connect.html" title="连接到一个无线网络">连接到一个无线网络</a><span class="desc"> — Get on the internet — wirelessly.</span>
 </li></ul></div>
 </div></div>
 </div>

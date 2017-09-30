@@ -49,7 +49,12 @@
 <div class="hgroup"><h1 class="title"><span class="title">Mitä WEP ja WPA tarkoittavat?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">WEP ja WPA (nykyisin käytössä on myös WPA2) ovat langattoman verkon salaustekniikoita. Salaaminen estää verkon luvattoman käytön, jotta kukaan ei voisi "salakuunnella" yhteyttä ja/tai tarkastella, millä sivuilla olet vieraillut. WEP on lyhenne sanoista <span class="em">Wired Equivalent Privacy</span> ja WPA taas sanoista <span class="em">Wireless Protected Access</span>. WPA2 on WPA:n kehittyneempi ja uudempi versio.</p>
+<p class="p">WEP and WPA (along with WPA2) are names for different encryption tools
+  used to secure your wireless connection. Encryption scrambles the network
+  connection so that no one can “listen in” to it and look at which web pages
+  you are viewing, for example. WEP stands for <span class="em">Wired Equivalent
+  Privacy</span>, and WPA stands for <span class="em">Wireless Protected Access</span>. WPA2 is
+  the second version of the WPA standard.</p>
 <p class="p">Näistä suojauksista edes <span class="em">jonkun</span> käyttäminen on parempi kuin ei mitään, mutta näistä standardeista vähiten suositeltavin on WEP heikomman turvallisuutensa takia, joten sitä kannattaa mahdollisuuksien mukaan välttää. Näistä kolmesta turvallisin on WPA2. Jos tietokoneesi langaton verkkolaite ja langaton tukiasema tukevat tätä standardia, sitä kannattaa ehdottomasti käyttää piilotettuun verkkoon yhdistämisessä.</p>
 </div>
 <div class="sect sect-links" role="navigation">

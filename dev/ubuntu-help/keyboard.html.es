@@ -56,7 +56,7 @@
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Región e idioma</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
+<a href="keyboard-layouts.html" title="Usar distribuciones de teclado alternativas">Usar distribuciones de teclado alternativas</a><span class="desc"> — Añadir distribuciones de teclado y cambiar entre ellas.</span>
 </li></ul></div>
 </div></div>
 <div class="links topiclinks"><div class="inner">
@@ -95,10 +95,10 @@
 <a href="keyboard-shortcuts-set.html" title="Establecer atajos de teclado">Establecer atajos de teclado</a><span class="desc"> — Definir o cambiar atajos de teclado en la configuración del <span class="gui">Teclado</span>.</span>
 </li>
 <li class="links ">
-<a href="keyboard-cursor-blink.html" title="Hacer que parpadee el cursor del teclado">Hacer que parpadee el cursor del teclado</a><span class="desc"> — Hacer que el punto de inserción parpadee y controlar la velocidad del parpadeo.</span>
+<a href="keyboard-repeat-keys.html" title="Gestionar las pulsaciones de teclas repetidas repetición de teclas">Gestionar las pulsaciones de teclas repetidas repetición de teclas</a><span class="desc"> — Hacer que el teclado no repita las letras cuando se mantenga una tecla pulsada, o cambiar el retardo y la velocidad de repetición de las teclas.</span>
 </li>
 <li class="links ">
-<a href="keyboard-repeat-keys.html" title="Manage repeated key presses">Manage repeated key presses</a><span class="desc"> — Hacer que el teclado no repita las letras cuando se mantenga una tecla pulsada, o cambiar el retardo y la velocidad de repetición de las teclas.</span>
+<a href="keyboard-cursor-blink.html" title="Hacer que parpadee el cursor del teclado">Hacer que parpadee el cursor del teclado</a><span class="desc"> — Hacer que el punto de inserción parpadee y controlar la velocidad del parpadeo.</span>
 </li>
 <li class="links ">
 <a href="numeric-keypad.html" title="Teclado númerico">Teclado númerico</a><span class="desc"> — Habilitar el teclado numérico predeterminado.</span>

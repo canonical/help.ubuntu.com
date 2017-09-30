@@ -2,7 +2,7 @@
 <html lang=sl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Drugi uporabniki se ne morejo povezati z internetom</title>
+<title>Other users can’t connect to the internet</title>
 <link rel="stylesheet" type="text/css" href="sl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,7 +46,7 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html" title="Težave z omrežjem">Težave z omrežjem</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Drugi uporabniki se ne morejo povezati z internetom</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Other users can’t connect to the internet</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">When you set up a network connection, all other users on your computer
@@ -75,13 +75,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html" title="Težave z omrežjem">Težave z omrežjem</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Odpravljanje težav z brezžičnimi omrežji">Odpravljanje težav z brezžičnimi povezavami</a></span>, <span class="link"><a href="net-wireless-find.html" title="Svojega brezžičnega omrežja ne morem videti na seznamu">iskanje brezžične povezave</a></span> …</span>
+<a href="net-problem.html" title="Težave z omrežjem">Težave z omrežjem</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Odpravljanje težav z brezžičnimi omrežji">Odpravljanje težav z brezžičnimi povezavami</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">iskanje brezžične povezave</a></span> …</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-othersedit.html" title="Drugi uporabniki ne morejo urejati omrežnih povezav">Drugi uporabniki ne morejo urejati omrežnih povezav</a><span class="desc"> — V možnostih omrežne povezave morate odstraniti oznako <span class="gui">Na voljo vsem uporabnikom</span>.</span>
+<a href="net-othersedit.html" title="Other users can’t edit the network connections">Other users can’t edit the network connections</a><span class="desc"> — V možnostih omrežne povezave morate odstraniti oznako <span class="gui">Na voljo vsem uporabnikom</span>.</span>
 </li></ul></div>
 </div></div>
 </div>

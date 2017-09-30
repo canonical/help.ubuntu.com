@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Färgprofiler som du har skapat själv är specifika för hårdvaran och de ljusförhållanden som du kalibrerade för. En skärm som har används ett par hundra timmar kommer att ha en väldigt annorlunda färgprofil i jämförelse med en skärm med det efterföljande serienumret som har används i tusentals timmar.</p>
-<p class="p">Detta innebär att om du delar din färgprofil med någon så kanske du hjälper dem att komma <span class="em">närmre</span> kalibrering men det är i bästa fall vilseledande att påstå att deras skärm är kalibrerad.</p>
+<p class="p">Detta innebär att om du delar din färgprofil med någon så kanske du hjälper dem att komma <span class="em">närmare</span> kalibrering men det är i bästa fall vilseledande att påstå att deras skärm är kalibrerad.</p>
 <p class="p">Om inte alla har de rekommenderade styrda ljusförhållandena (inget solljus från fönster, svarta väggar, dagsljusglödlampor o.s.v.) i ett rum där de visar och redigerar av bild så kommer på samma sätt inte att dela en profil som du skapat under dina specifika ljusförhållanden att vara särskilt vettigt.</p>
 <div class="note note-warning" title="Varning"><div class="inner"><div class="region"><div class="contents"><p class="p">Du bör noggrant kontrollera villkoren för distribution av profiler som du hämtat från tillverkarwebbplatser eller som de skapat för din räkning.</p></div></div></div></div>
 </div>

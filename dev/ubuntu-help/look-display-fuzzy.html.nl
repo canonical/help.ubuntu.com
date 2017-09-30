@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Why do things look fuzzy/pixelated on my screen?</title>
+<title>Waarom ziet alles op mijn scherm er wazig/korrelig uit?</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,43 +43,39 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Common problems">Problems</a> » <a class="trail" href="hardware-problems-graphics.html" title="Screen problems">Screen problems</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="hardware-problems-graphics.html" title="Schermproblemen">Schermproblemen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Why do things look fuzzy/pixelated on my screen?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Waarom ziet alles op mijn scherm er wazig/korrelig uit?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">This can happen because the display resolution that you have set it is not
-the right one for your screen.</p>
-<p class="p">To solve this, open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span>
+<p class="p">Dit kan gebeuren omdat de schermresolutie die u heeft ingesteld niet geschikt is voor uw scherm.</p>
+<p class="p">To solve this, open the <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activities</a></span>
 overview and start typing <span class="gui">Displays</span>. Click on <span class="gui">Displays</span>
 to open the panel. Try some of the <span class="gui">Resolution</span> options and set the
 one that makes the screen look better.</p>
 </div>
 <div id="multihead" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">When multiple displays are connected</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Wanneer er meerdere schermen aangesloten zijn</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">If you have two displays connected to the computer (for example, a normal
   monitor and a projector), the displays might have different resolutions.
-  However, the computer's graphics card can only display the screen in one
+  However, the computer’s graphics card can only display the screen in one
   resolution at a time, so at least one of the displays might look fuzzy.</p>
 <p class="p">You can set it so that the two displays have different resolutions, but
   you will not be able to display the same thing on both screens
   simultaneously. In effect, you will have two independent screens connected at
   the same time. You can move windows from one screen to another, but you
   cannot show the same window on both screens at once.</p>
-<p class="p">To set up the displays so that they each have their own resolution:</p>
+<p class="p">Om de schermen zo in te stellen dat ze zij elk een eigen resolutie hebben:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Displays</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Displays</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Schermen</span>.</p></li>
+<li class="steps"><p class="p">Klik op het <span class="gui">Schermen</span> om het paneel te openen.</p></li>
 <li class="steps"><p class="p">The displays should be listed as <span class="gui">Mirrored</span>. Select your main
       display.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">Primary</span> in the list of display configurations, and
       then click <span class="gui">Apply</span> to save.</p></li>
-<li class="steps"><p class="p">Select each display in turn from the gray box at the top of the
-      <span class="gui">Displays</span> window. Change the <span class="gui">Resolution</span> until that
-      display looks right.</p></li>
+<li class="steps"><p class="p">Selecteer elk scherm apart in het grijze vak bovenaan het venster <span class="gui">Schermen</span>. Wijzig de <span class="gui">resolutie</span> tot dat scherm er goed uitziet.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -89,16 +85,13 @@ one that makes the screen look better.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-problems-graphics.html" title="Screen problems">Screen problems</a><span class="desc"> — 
-      Troubleshoot screen and graphics problems.
-    </span>
+<a href="hardware-problems-graphics.html" title="Schermproblemen">Schermproblemen</a><span class="desc"> — Grafische problemen en problemen met het scherm oplossen.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-resolution.html" title="Change the resolution or rotation of the screen">Change the resolution or rotation of the screen</a><span class="desc"> — Change the resolution of the screen and its orientation
-    (rotation).</span>
+<a href="look-resolution.html" title="Change the resolution or rotation of the screen">Change the resolution or rotation of the screen</a><span class="desc"> — De resolutie en de oriëntatie (rotatie) van het scherm wijzigen.</span>
 </li></ul></div>
 </div></div>
 </div>

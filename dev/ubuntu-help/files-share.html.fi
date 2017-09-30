@@ -44,7 +44,7 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Tiedostot, kansiot ja etsiminen">Tiedostot</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Tiedostot, kansiot ja etsiminen">Tiedostot</a> › <a class="trail" href="files.html#more-file-tasks" title="Lisää tiedostoihin liittyviä tehtäviä">Lisää tiedostoihin liittyviä tehtäviä</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » <a class="trail" href="sharing.html" title="Jakaminen">Jakaminen</a> » </div>
 </div>
@@ -83,17 +83,17 @@ file manager.</p>
 <li class="links ">
 <a href="sharing.html" title="Jakaminen">Jakaminen</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Jaa työpöytäsi">Työpöydän jakaminen</a></span>, <span class="link"><a href="files-share.html" title="Jaa tiedostoja sähköpostitse">jaa tiedostoja sähköpostitse</a></span>, <span class="link"><a href="sharing-media.html" title="Jaa musiikkia, kuvia ja videoita">median jakaminen</a></span>…</span>
 </li>
-<li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li>
+<li class="links "><a href="files.html#more-file-tasks" title="Lisää tiedostoihin liittyviä tehtäviä">Lisää tiedostoihin liittyviä tehtäviä</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="nautilus-connect.html" title="Selaa palvelimen verkkojaon tiedostoja">Selaa palvelimen verkkojaon tiedostoja</a><span class="desc"> — Katsele ja muokkaa toisella tietokoneella olevia tiedostoja FTP:n, SSH:n, Windows-levyjaon tai WebDAVin kautta.</span>
+<a href="bluetooth-send-file.html" title="Lähetä tiedostoja Bluetooth-laitteeseen">Lähetä tiedostoja Bluetooth-laitteeseen</a><span class="desc"> — Jaa tiedostoja Bluetooth-laitteille, kuten puhelimiin</span>
 </li>
 <li class="links ">
-<a href="bluetooth-send-file.html" title="Send files to a Bluetooth device">Send files to a Bluetooth device</a><span class="desc"> — Jaa tiedostoja Bluetooth-laitteille, kuten puhelimiin</span>
+<a href="nautilus-connect.html" title="Selaa palvelimen verkkojaon tiedostoja">Selaa palvelimen verkkojaon tiedostoja</a><span class="desc"> — Katsele ja muokkaa toisella tietokoneella olevia tiedostoja FTP:n, SSH:n, Windows-levyjaon tai WebDAVin kautta.</span>
 </li>
 </ul></div>
 </div></div>

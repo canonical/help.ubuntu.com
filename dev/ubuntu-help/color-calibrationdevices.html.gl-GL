@@ -68,9 +68,13 @@
 <li class="list"><p class="p">Colorimètre HCFR (colorímetro)</p></li>
 </ul></div></div></div>
 <div class="note note-tip" title="Suxestión"><div class="inner"><div class="region"><div class="contents"><p class="p">Actualmente o Pantone Huey é o hardware máis barato e máis compatíbel en GNU/Linux.</p></div></div></div></div>
-<p class="p">Grazas a Argull existe certo número de espectrómetros reflectantes lectores de puntos e liñas admitidos para ayudarlle a calibrar e caracterizar as súas impresoras:</p>
+<p class="p">
+    Thanks to Argyll there’s also a number of spot and strip reading
+    reflective spectrometers supported to help you calibrating and
+    characterizing your printers:
+  </p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">X-Rite DTP20 "Pulse" (espectrómetro reflectante de tipo «deslizante»)</p></li>
+<li class="list"><p class="p">X-Rite DTP20 “Pulse” (“swipe” type reflective spectrometer)</p></li>
 <li class="list"><p class="p">X-Rite DTP22 Digital Swatchbook (espectrómetro reflectante de tipo punto)</p></li>
 <li class="list"><p class="p">X-Rite DTP41 (espectrómetro reflectante lector de puntos e liñas)</p></li>
 <li class="list"><p class="p">X-Rite DTP41T (espectrómetro reflectante lector de puntos e liñas)</p></li>

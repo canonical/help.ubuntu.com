@@ -54,10 +54,10 @@
 <li class="steps"><p class="p">Öppna <span class="gui"><a href="shell-introduction.html#yourname" title="Du och din dator">systemmenyn</a></span> på högersidan av systemraden.</p></li>
 <li class="steps"><p class="p">Välj <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span> Trådlöst nätverk inte anslutet</span> eller namnet på det trådlösa nätverket till vilket du redan är ansluten. Den trådlösa nätverks-delen av menyn kommer att expandera.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Inställningar för trådlösa nätverk</span>.</p></li>
-<li class="steps"><p class="p">Klicka på knappen <span class="gui">Använd som accesspunkt…</span>.</p></li>
+<li class="steps"><p class="p">Klicka på knappen <span class="gui">Använd som surfzon…</span>.</p></li>
 <li class="steps"><p class="p">Om du redan är ansluten till ett trådlöst nätverk, kommer du att bli tillfrågad om du vill koppla från det nätverket. En enda trådlös adapter kan ansluta till eller endast skapa ett nätverk åt gången. Klicka på <span class="gui">Slå på</span> för att bekräfta.</p></li>
 </ol></div></div></div>
-<p class="p">Ett nätverksnamn (SSID) och säkerhetsnyckel genereras automatiskt. Nätverksnamnet kommer att baseras på namnet på din dator. Andra enheter kommer att behöva denna informationen för att ansluta till accesspunkten du nyss skapat.</p>
+<p class="p">Ett nätverksnamn (SSID) och en säkerhetsnyckel genereras automatiskt. Nätverksnamnet kommer att baseras på namnet på din dator. Andra enheter kommer att behöva denna information för att ansluta till surfzonen du nyss skapat.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

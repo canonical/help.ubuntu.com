@@ -54,19 +54,16 @@
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-goa1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the <span class="gui"><a href="shell-introduction.html#yourname" title="Sinä ja tietokoneesi">system menu</a></span>
-      on the right side of the top bar.</p></li>
+<li class="steps"><p class="p">Napsauta <span class="gui"><a href="shell-introduction.html#yourname" title="Sinä ja tietokoneesi">järjestelmävalikkoa</a></span> yläpalkin oikeasta laidasta.</p></li>
 <li class="steps"><p class="p">Click the settings button at the bottom left of the menu.</p></li>
 </ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-goa2.svg" width="100%" class="media media-block" alt=""></div></div>
-<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3"><li class="steps"><p class="p">Click the <span class="gui">Online Accounts</span> panel, then
-      click the <span class="gui">Add an online account</span> button.</p></li></ol></div></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3"><li class="steps"><p class="p">Valitse <span class="gui">Verkkotilit</span> ja napsauta <span class="gui">Lisää verkkotili</span>.</p></li></ol></div></div></div>
 <div class="note" title="Huomautus"><div class="inner"><div class="region"><div class="contents"><p class="p">If you have set up an online account before, you can add another
      online account by clicking the <span class="gui">+</span> button at the bottom left
      corner of the window.</p></div></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-goa3.svg" width="100%" class="media media-block" alt=""></div></div>
-<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="4"><li class="steps"><p class="p">Click the online account you want to use. This will open a new
-       window where you can sign in to your online account.</p></li></ol></div></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="4"><li class="steps"><p class="p">Napsauta verkkotiliä, jota haluat käyttää. Tämän jälkeen avautuu ikkuna, jonka kautta voit kirjautua verkkotilillesi.</p></li></ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-goa4.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="5">
 <li class="steps"><p class="p">In most cases, you will have to grant access to the online
@@ -95,11 +92,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Verkkotilit">Verkkotilit</a><span class="desc"> — 
-      <span class="link"><a href="accounts-add.html" title="Lisää tili">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html" title="Poista tili">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html" title="Verkkopalvelut ja sovellukset">Learn about services</a></span>…
-    </span>
+<a href="accounts.html" title="Verkkotilit">Verkkotilit</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Lisää tili">Lisää verkkotili</a></span>, <span class="link"><a href="accounts-remove.html" title="Poista tili">Poista tili</a></span>, <span class="link"><a href="accounts-which-application.html" title="Verkkopalvelut ja sovellukset">Lisätietoja palveluista</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Open files with other applications</title>
+<title>Bestanden openen met andere toepassingen</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,59 +43,37 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Open files with other applications</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Bestanden openen met andere toepassingen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">When you double-click (or middle-click) a file in the file manager, it
-  will be opened with the default application for that file type. You can open
-  it in a different application, search online for applications, or set the
-  default application for all files of the same type.</p>
-<p class="p">To open a file with an application other than the default, right-click
-  the file and select the application you want from the top of the menu. If
-  you do not see the application you want, select <span class="gui">Open With Other
-  Application</span>. By default, the file manager only shows applications that
-  are known to handle the file. To look through all the applications on your
-  computer, click <span class="gui">View All Applications</span>.</p>
-<p class="p">If you still cannot find the application you want, you can search for
-more applications by clicking <span class="gui">Find New Applications</span>. The
-file manager will search online for packages containing applications
-that are known to handle files of that type.</p>
+<p class="p">Wanneer u in <span class="app">Bestandsbeheer</span> dubbelklikt (of middelklikt) op een bestand, dan wordt dit geopend met de standaardtoepassing voor dat type bestand. U kunt het openen in een andere toepassing, online zoeken naar toepassingen, of de standaardtoepassing instellen voor alle bestanden van hetzelfde type.</p>
+<p class="p">Om een bestand te openen met een andere dan de standaardtoepassing klikt u met rechts op het bestand en kiest u boven in het menu de gewenste toepassing. Als u de gewenste toepassing niet ziet staan, klik dan op <span class="gui">Met andere toepassing openen</span>. Standaard toont Bestandsbeheer alleen toepassingen waarvan het weet dat die het bestand aankunnen. Klik op <span class="gui">Alle toepassingen tonen</span> om alle toepassingen op uw computer te zien.</p>
+<p class="p">Als u nog steeds niet de gewenste toepassing kunt vinden, dan kunt u naar meer toepassingen zoeken door te klikken op  <span class="gui">Nieuwe toepassingen zoeken</span>. Bestandsbeheer zal online zoeken naar pakketten met toepassingen die om kunnen gaan met bestanden van dat type.</p>
 </div>
 <div id="default" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Change the default application</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">De standaardtoepassing wijzigen</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">You can change the default application that is used to open files of a
-  given type. This will allow you to open your preferred application when you
-  double-click to open a file. For example, you might want your favorite music
-  player to open when you double-click an MP3 file.</p>
+<p class="p">U kunt de standaardtoepassing die gebruikt wordt om bestanden van een bepaald type te openen wijzigen. Hierdoor kunt u uw voorkeurstoepassing openen wanneer u dubbelklikt om een bestand te openen. Zo zou u misschien willen dat uw favoriete muziekspeler opent wanneer u dubbelklikt op een MP3-bestand.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Select a file of the type whose default application you want to
-    change. For example, to change which application is used to open MP3 files,
-    select a <span class="file">.mp3</span> file.</p></li>
-<li class="steps"><p class="p">Right-click the file and select <span class="gui">Properties</span>.</p></li>
-<li class="steps"><p class="p">Select the <span class="gui">Open With</span> tab.</p></li>
+<li class="steps"><p class="p">Selecteer een bestand van het type waarvoor u de standaardtoepassing wilt wijzigen. Om bijvoorbeeld te wijzigen welke toepassing gebruikt wordt om MP3-bestanden te openen kiest u een <span class="file">.mp3</span>-bestand.</p></li>
+<li class="steps"><p class="p">Klik met de rechtermuisknop op een bestand en selecteer <span class="gui">Eigenschappen</span>.</p></li>
+<li class="steps"><p class="p">Ga naar het <span class="gui">Openen met</span>-tabblad.</p></li>
 <li class="steps">
-<p class="p">Select the application you want and click
-    <span class="gui">Set as default</span>.</p>
-<p class="p">If <span class="gui">Other Applications</span> contains an application you sometimes
-    want to use, but do not want to make the default, select that application
-    and click <span class="gui">Add</span>. This will add it to <span class="gui">Recommended
-    Applications</span>. You will then be able to use this application by
-    right-clicking the file and selecting it from the list.</p>
+<p class="p">Selecteer de gewenste toepassing en klik op <span class="gui">Instellen als standaard</span>.</p>
+<p class="p">Als <span class="gui">Andere toepassingen</span> een toepassing bevat die u soms wilt gebruiken, maar u wilt er geen standaardtoepassing van maken, selecteer dan die toepassing en klik op <span class="gui">Toevoegen</span>. Hierdoor zal deze toegevoegd worden aan <span class="gui">Aanbevolen toepassingen</span>. Daarna kunt u deze toepassing gebruiken door met rechts op het bestand te klikken en de toepassing uit de lijst te kiezen.</p>
 </li>
 </ol></div></div></div>
-<p class="p">This changes the default application not just for the selected file,
-  but for all files with the same type.</p>
+<p class="p">Dit verandert de standaardtoepassing niet alleen voor het geselecteerde bestand, maar voor alle bestanden met  hetzelfde type.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

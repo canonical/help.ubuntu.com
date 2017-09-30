@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Common problems">Problems</a> » <a class="trail" href="power.html#problems" title="Problemen">Power problems</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="hardware-problems-graphics.html" title="Schermproblemen">Schermproblemen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Common problems">Problems</a> » <a class="trail" href="hardware-problems-graphics.html" title="Screen problems">Screen problems</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="power.html#problems" title="Problemen">Stroomproblemen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -71,7 +71,13 @@
 </div></div>
 <div id="beeps" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">De computer geeft een pieptoon en wordt dan uitgeschakeld</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Als de computer meerdere pieptonen geeft wanneer hij, direct nadat u hem heeft aangezet uitgeschakeld wordt (of helemaal niet wil starten), dan kan dit erop wijzen dat er een probleem is aangetroffen. Deze pieptonen worden soms <span class="em">beep codes</span> genoemd en het pieptonenpatroon is bedoeld om u te vertellen om welk probleem met de computer het gaat. Verschillende fabrikanten gebruiken verschillende "beep codes", dus u zult de handleiding van het moederbord moeten raadplegen of uw computer ter reparatie aanbieden.</p></div></div>
+<div class="region"><div class="contents"><p class="p">If the computer beeps several times when you turn it on and then turns off
+  (or fails to start), it may be indicating that it has detected a problem.
+  These beeps are sometimes referred to as <span class="em">beep codes</span>, and the pattern
+  of beeps is intended to tell you what the problem with the computer is.
+  Different manufacturers use different beep codes, so you will have to consult
+  the manual for your computer’s motherboard, or take your computer in for
+  repairs.</p></div></div>
 </div></div>
 <div id="fans" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">De ventilator van de computer draait, maar er is niets te zien op het scherm</span></h2></div>
@@ -86,12 +92,10 @@
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power.html#problems" title="Problemen">Power problems</a><span class="desc"> — Troubleshoot problems with power and batteries.</span>
+<a href="hardware-problems-graphics.html" title="Schermproblemen">Schermproblemen</a><span class="desc"> — Grafische problemen en problemen met het scherm oplossen.</span>
 </li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Screen problems">Screen problems</a><span class="desc"> — 
-      Troubleshoot screen and graphics problems.
-    </span>
+<a href="power.html#problems" title="Problemen">Stroomproblemen</a><span class="desc"> — Problemen met stroom en accu's oplossen.</span>
 </li>
 </ul></div>
 </div></div></div>

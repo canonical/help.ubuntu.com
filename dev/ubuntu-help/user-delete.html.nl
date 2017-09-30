@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="user-accounts.html" title="User accounts">Users</a> › <a class="trail" href="user-accounts.html#manage" title="Manage user accounts">Accounts</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="user-accounts.html" title="Gebruikersaccounts">Gebruikers</a> › <a class="trail" href="user-accounts.html#manage" title="Gebruikersaccounts beheren">Accounts</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Een gebruikersaccount verwijderen</span></h1></div>
@@ -51,20 +51,15 @@
 <div class="contents">
 <p class="p">You can <span class="link"><a href="user-add.html" title="Een nieuwe gebruiker toevoegen">add multiple user accounts to your
   computer</a></span>. If somebody is no longer using your computer, you can delete
-  that user's account.</p>
-<p class="p">You need <span class="link"><a href="user-admin-explain.html" title="Hoe werken beheerdersrechten?">administrator privileges</a></span>
-  to delete user accounts.</p>
+  that user’s account.</p>
+<p class="p">Om gebruikersaccounts te kunnen verwijderen dient u <span class="link"><a href="user-admin-explain.html" title="Hoe werken beheerdersrechten?">beheerder</a></span> te zijn.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Users</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Users</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Unlock</span> in the top right corner and
-      type in your password when prompted.</p></li>
-<li class="steps"><p class="p">Select the user that you want to delete and press the
-      <span class="gui">-</span> button, below the list of accounts on the
-      left, to delete that user account.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Gebruikers</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Gebruikersaccounts</span> om het venster te openen.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Ontgrendelen</span> rechtsboven in de hoek en voer uw wachtwoord in wanneer daar om gevraagd wordt.</p></li>
+<li class="steps"><p class="p">Selecteer de gebruiker die u wilt verwijderen en druk op de knop <span class="gui">-</span>, onder de lijst met accounts links, om die gebruikersaccount te verwijderen.</p></li>
 <li class="steps"><p class="p">Each user has their own home folder for their files and settings. You
-      can choose to keep or delete the user's home folder. Click <span class="gui">Delete
+      can choose to keep or delete the user’s home folder. Click <span class="gui">Delete
       Files</span> if you are sure they will not be used anymore and you need to
       free up disk space. These files are permanently deleted. They cannot be
       recovered. You may want to back up the files to an external storage device
@@ -76,7 +71,7 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#manage" title="Manage user accounts">Manage user accounts</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html#manage" title="Gebruikersaccounts beheren">Gebruikersaccounts beheren</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
@@ -85,8 +80,7 @@
 <a href="user-add.html" title="Een nieuwe gebruiker toevoegen">Een nieuwe gebruiker toevoegen</a><span class="desc"> — Nieuwe gebruikers toevoegen zodat anderen zich op de computer kunnen aanmelden.</span>
 </li>
 <li class="links ">
-<a href="user-admin-explain.html" title="Hoe werken beheerdersrechten?">Hoe werken beheerdersrechten?</a><span class="desc"> — You need administrative privileges to change important parts of your
-    system.</span>
+<a href="user-admin-explain.html" title="Hoe werken beheerdersrechten?">Hoe werken beheerdersrechten?</a><span class="desc"> — U heeft beheerdersrechten nodig om belangrijke delen van uw systeem te wijzigen.</span>
 </li>
 </ul></div>
 </div></div>

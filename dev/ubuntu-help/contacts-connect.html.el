@@ -53,7 +53,8 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Επιλέξτε την επαφή από τη λίστα επαφών.</p></li>
 <li class="steps"><p class="p">Πατήστε στις <span class="em">λεπτομέρειες</span> που θέλετε να χρησιμοποιήσετε. Για παράδειγμα, για να αλληλογραφήσετε με την επαφή σας, πατήστε τη διεύθυνση ηλεκτρονικής αλληλογραφίας.</p></li>
-<li class="steps"><p class="p">Η αντίστοιχη εφαρμογή θα ξεκινήσει χρησιμοποιώντας τις λεπτομέρειες της επαφής.</p></li>
+<li class="steps"><p class="p">The corresponding application will be launched using the contact’s
+      details.</p></li>
 </ol></div></div></div>
 <div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">Αν δεν υπάρχει διαθέσιμη εφαρμογή για τη λεπτομέρεια που θέλετε να χρησιμοποιήσετε, δεν θα μπορέσετε να την επιλέξετε.</p></div></div></div></div>
 </div>

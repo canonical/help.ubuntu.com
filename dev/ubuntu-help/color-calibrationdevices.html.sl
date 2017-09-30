@@ -68,9 +68,13 @@
 <li class="list"><p class="p">Colorimètre HCFR (kolorimeter)</p></li>
 </ul></div></div></div>
 <div class="note note-tip" title="Namig"><div class="inner"><div class="region"><div class="contents"><p class="p">Pantone Huey je trenutno najcenejša in najbolje podprta strojna oprema v Linuxu.</p></div></div></div></div>
-<p class="p">Po zaslugi Argyll so na podprti tudi številni odbojni spektrometri, ki vam pomagajo pri umerjanju in karakterizaciji vaših tiskalnikov:</p>
+<p class="p">
+    Thanks to Argyll there’s also a number of spot and strip reading
+    reflective spectrometers supported to help you calibrating and
+    characterizing your printers:
+  </p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">X-Rite DTP20 "Pulse" ("swipe" vrsta odbojnega spektrometra)</p></li>
+<li class="list"><p class="p">X-Rite DTP20 “Pulse” (“swipe” type reflective spectrometer)</p></li>
 <li class="list"><p class="p">X-Rite DTP22 Digital Swatchbook (točkovni odbojni spektrometer)</p></li>
 <li class="list"><p class="p">X-Rite DTP41 (točkovni in pasovni odbojni sprektometer)</p></li>
 <li class="list"><p class="p">X-Rite DTP41T (točkovni in pasovni odbojni sprektometer)</p></li>

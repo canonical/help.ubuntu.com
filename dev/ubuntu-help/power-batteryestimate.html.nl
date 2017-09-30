@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>The estimated battery life is wrong</title>
+<title>De geschatte levensduur van de accu is fout</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,38 +44,27 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="power.html" title="Power &amp; battery">Power &amp; battery</a> › <a class="trail" href="power.html#faq" title="Questions">Questions</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="power.html" title="Voeding &amp; accu">Voeding &amp; accu</a> › <a class="trail" href="power.html#faq" title="Vragen">Vragen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="power.html" title="Power &amp; battery">Power &amp; battery</a> › <a class="trail" href="power.html#faq" title="Questions">Questions</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="power.html" title="Voeding &amp; accu">Voeding &amp; accu</a> › <a class="trail" href="power.html#faq" title="Vragen">Vragen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">The estimated battery life is wrong</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">De geschatte levensduur van de accu is fout</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">When you check the remaining battery life, you may find that the time
-remaining that it reports is different to how long the battery actually lasts.
-This is because the amount of remaining battery life can only be estimated.
-Normally, the estimates improve over time.</p>
+<p class="p">Wanneer u de levensduur van de accu controleert, kan het zijn dat de gemelde resterende tijd verschilt van de tijd die er werkelijk nog resteert. Dit komt doordat de resterende tijd van de accu alleen maar geschat kan worden. De schattingen zullen echter wel steeds nauwkeuriger worden.</p>
 <p class="p">In order to estimate the remaining battery life, a number of factors must be
 taken into account. One is the amount of power currently being used by the
 computer: power consumption varies depending on how many programs you have
 open, which devices are plugged in, and whether you are running any intensive
 tasks (like watching high-definition video or converting music files, for
 example). This changes from moment to moment, and is difficult to predict.</p>
-<p class="p">Another factor is how the battery discharges. Some batteries lose charge
-faster the emptier they get. Without precise knowledge of how the battery
-discharges, only a rough estimate of remaining battery life can be made.</p>
-<p class="p">As the battery discharges, the power manager will figure out its discharge
-properties and will learn how to make better estimates of battery life. They
-will never be completely accurate, though.</p>
+<p class="p">Een andere factor is hoe de accu ontlaadt. Sommige accu's ontladen sneller naarmate ze leger raken. Zonder precies te weten hoe de accu ontlaadt, kan er slechts een ruwe schatting worden gemaakt van de resterende accuduur.</p>
+<p class="p">Terwijl de accu ontlaadt zal Energiebeheer achter de ontlaadeigenschappen komen en leren hoe het de levensduur van de accu beter kan inschatten. De schattingen zullen echter nooit helemaal nauwkeurig zijn.</p>
 <div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents">
-<p class="p">If you get a completely ridiculous battery life estimate (say, hundreds of
-  days), the power manager is probably missing some of the data it needs to
-  make a sensible estimate.</p>
-<p class="p">If you unplug the power and run the laptop on battery for a while, then
-  plug it in and let it recharge again, the power manager should be able to get
-  the data it needs.</p>
+<p class="p">Als u een totaal onwaarschijnlijke schatting van de acculevensduur krijgt (laten we zeggen honderden dagen!), dan mist Energiebeheer waarschijnlijk enkele gegevens die nodig zijn om een goede schatting te maken.</p>
+<p class="p">Als u een poosje op accustroom draait, en daarna weer op netstroom overgaat en weer gaat opladen, dan zou energiebeheer de benodigde gegevens moeten verkrijgen.</p>
 </div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -83,12 +72,12 @@ will never be completely accurate, though.</p>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="power.html#faq" title="Questions">Questions</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="power.html#faq" title="Vragen">Vragen</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power-batterywindows.html" title="Hoe komt het dat de levensduur van de accu lager is dan onder Windows/Mac OS?">Hoe komt het dat de levensduur van de accu lager is dan onder Windows/Mac OS?</a><span class="desc"> — Tweaks van de fabrikant en verschillende schattingen van de levensduur van de accu kunnen de oorzaak zijn van dit probleem.</span>
+<a href="power-batterywindows.html" title="Hoe komt het dat de accuduur lager is dan onder Windows/Mac OS?">Hoe komt het dat de accuduur lager is dan onder Windows/Mac OS?</a><span class="desc"> — Tweaks van de fabrikant en verschillende schattingen van de accuduur kunnen de oorzaak zijn van dit probleem.</span>
 </li></ul></div>
 </div></div>
 </div>

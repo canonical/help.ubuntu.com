@@ -72,9 +72,11 @@
 </ol></div></div></div>
 </div>
 <div id="problem" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Εάν ο δίσκος δεν εγγράφθηκε κατάλληλα</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">If the disc wasn’t burned properly</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Μερικές φορές ο υπολογιστής δεν γράφει τα δεδομένα σωστά και δεν θα μπορείτε να δείτε τα αρχεία που βάλατε στον δίσκο όταν τον εισάγετε σε έναν υπολογιστή.</p>
+<p class="p">Sometimes the computer doesn’t record the data correctly, and you won’t be
+  able to see the files you put onto the disc when you insert it into a
+  computer.</p>
 <p class="p">Σε αυτήν την περίπτωση, δοκιμάστε την εγγραφή του δίσκου ξανά αλλά χρησιμοποιήστε χαμηλότερη ταχύτητα εγγραφής, π.χ. 12x αντί για 48x. Η εγγραφή σε πιο αργές ταχύτητες είναι πιο αξιόπιστη. Μπορείτε να επιλέξετε την ταχύτητα κάνοντας κλικ στο κουμπί <span class="gui">Ιδιότητες</span> στο παράθυρο <span class="gui">Δημιουργός CD/DVD</span>.</p>
 </div></div>
 </div></div>

@@ -67,7 +67,11 @@
       <span class="gui">Hardware Address</span> in the <span class="gui">Details</span> panel.</p>
 </li>
 </ol></div></div></div>
-<p class="p">நடைமுறையில், நீங்கள் ஒரு MAC முகவரியை மாற்ற அல்லது "ஸ்பூஃப்" செய்ய வேண்டி இருக்கலாம். உதாரணமாக, சில இணைய சேவை வழங்குநர்களுக்கு, அவர்களின் சேவையை அணுக ஒரு குறிப்பிட்ட MAC முகவரி பயன்படுத்தப்பட வேண்டும் என்ற கட்டுப்பாட்டைக் கொண்டிருக்கலாம். நெட்வொர்க் கார்டு வேலை செய்வதை நிறுத்திவிட்டால், நீங்கள் வேறு புதிய கார்டை பொருத்த வேண்டுமானால், அதன் பின் இந்த சேவை வேலை செய்யாமல் போகும். இது போன்ற சந்தர்ப்பங்களில் நீங்கள் MAC முகவரியை மாற்றிட வேண்டும்.</p>
+<p class="p">In practice, you may need to modify or “spoof” a MAC address. For example,
+  some internet service providers may require that a specific MAC address be
+  used to access their service. If the network card stops working, and you need
+  to swap a new card in, the service won’t work anymore. In such cases, you
+  would need to spoof the MAC address.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

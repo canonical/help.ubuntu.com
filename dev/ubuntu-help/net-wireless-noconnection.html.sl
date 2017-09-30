@@ -2,7 +2,7 @@
 <html lang=sl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Vnes-el/la sem pravilno geslo, vendar se še vedno ne morem povezati</title>
+<title>I’ve entered the correct password, but I still can’t connect</title>
 <link rel="stylesheet" type="text/css" href="sl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,30 +46,30 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="Brezžične povezave">Brezžične povezave</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Vnes-el/la sem pravilno geslo, vendar se še vedno ne morem povezati</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">I’ve entered the correct password, but I still can’t connect</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">V primeru da ste prepričani, da ste vnesli pravilno <span class="link"><a href="net-wireless-wepwpa.html" title="Kaj WEP in WPA pomenita?">brezžično geslo</a></span>, a se še vedno ne morete uspešno povezati z brezžičnim omrežje, poskusite nekaj od naslednjega:</p>
+<p class="p">If you’re sure that you entered the correct <span class="link"><a href="net-wireless-wepwpa.html" title="Kaj WEP in WPA pomenita?">wireless password</a></span> but you still can’t successfully connect to a wireless network, try some of the following:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
 <p class="p">Double-check that you have the correct password</p>
-<p class="p">Gesla so občutljiva na velikost črk (pomembno je če so črke velike ali majhne). Zato preverite, da niste napisali znakov napačne velikosti</p>
+<p class="p">Passwords are case-sensitive (it matters whether they have capital or lower-case letters), so check that you didn’t get the case of one of the letters wrong.</p>
 </li>
 <li class="list">
 <p class="p">Poskusite šestnajstiški ali ASCII ključ</p>
-<p class="p">Geslo je lahko predstavljeno tudi na drugačen način - kot niz znakov v šestnajstiškem sistemu (števila od 0-9 in črke od a-f), ki se imenuje šifrirni ključ. V primeru da imate geslo do šifrirnega ključa in geslo/šifrirno frazo, poskusite s tipkanjem šifrirnega ključa. Prepričajte se, da izberete pravilno možnost <span class="gui">brezžična varnost</span> (če na primer vnašate 40 znakovni šifrirni ključ za z WEP šifrirano povezavo, izberite <span class="gui">WEP 40/128-biten ključ</span>).</p>
+<p class="p">The password you enter can also be represented in a different way — as a string of characters in hexadecimal (numbers 0-9 and letters a-f) called a pass key. Each password has an equivalent pass key. If you have access to the pass key as well as the password/passphrase, try typing the pass key instead. Make sure you select the correct <span class="gui">wireless security</span> option when asked for your password (for example, select <span class="gui">WEP 40/128-bit Key</span> if you’re typing the 40-character pass key for a WEP-encrypted connection).</p>
 </li>
 <li class="list">
 <p class="p">Izklopite in znova vklopite brezžično kartico</p>
-<p class="p">Včasih brezžične kartice obtičijo ali imajo manjšo težavo, ki pomeni, da se ne bodo povezale. Kartico poskusite izklopiti in ponovno vklopiti za njeno ponastavitev. Za več podrobnosti si oglejte <span class="link"><a href="net-wireless-troubleshooting.html" title="Odpravljanje težav z brezžičnimi omrežji">Odpravljanje težav z brezžičnimi omrežji</a></span>.</p>
+<p class="p">Sometimes wireless cards get stuck or experience a minor problem that means they won’t connect. Try turning the card off and then on again to reset it — see <span class="link"><a href="net-wireless-troubleshooting.html" title="Odpravljanje težav z brezžičnimi omrežji">Odpravljanje težav z brezžičnimi omrežji</a></span> for more information.</p>
 </li>
 <li class="list">
-<p class="p">Check that you're using the correct type of wireless security</p>
-<p class="p">Ko ste pozvani za geslo svoje brezžične varnosti, lahko izberete katero vrsto brezžične varnosti želite uporabiti. Prepričajte se, da ste izbrali tiso, ki jo uporablja usmerjevalnik ali brezžična postaja. Privzeto bi morala biti izbrana prava možnost, vendar včasih ni. Če ne veste katera možnost je prava, poskusite vse.</p>
+<p class="p">Check that you’re using the correct type of wireless security</p>
+<p class="p">When prompted for your wireless security password, you can choose which type of wireless security to use. Make sure you choose the one that is used by the router or wireless base station. This should be selected by default, but sometimes it will not be for some reason. If you don’t know which one it is, use trial and error to go through the different options.</p>
 </li>
 <li class="list">
 <p class="p">Preverite, če je vaša brezžična kartica pravilno podprta</p>
-<p class="p">Nekatere brezžične kartice niso zelo dobro podprte. Pokažejo brezžična povezava, vendar se z njimi ne morejo povezati, ker gonilnikom manjka ta zmožnost. Oglejte si, če lahko dobite drug brezžični gonilnik ali če morate izvesti nekaj dodatne nastavitve (kot je namestitev drugačne <span class="em">strojne programske opreme</span>). Za več podrobnosti si oglejte <span class="link"><a href="net-wireless-troubleshooting.html" title="Odpravljanje težav z brezžičnimi omrežji">Odpravljanje težav z brezžičnimi omrežji</a></span>.</p>
+<p class="p">Some wireless cards aren’t supported very well. They show up as a wireless connection, but they can’t connect to a network because their drivers lack the ability to do this. See if you can get an alternative wireless driver, or if you need to perform some extra set-up (like installing a different <span class="em">firmware</span>). See <span class="link"><a href="net-wireless-troubleshooting.html" title="Odpravljanje težav z brezžičnimi omrežji">Odpravljanje težav z brezžičnimi omrežji</a></span> for more information.</p>
 </li>
 </ul></div></div></div>
 </div>

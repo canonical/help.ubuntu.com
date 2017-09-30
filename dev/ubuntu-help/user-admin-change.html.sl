@@ -64,7 +64,7 @@
 <li class="steps"><p class="p">Izberite uporabnika katerega dovoljenja želite spremeniti.</p></li>
 <li class="steps"><p class="p">Click the label <span class="gui">Standard</span> next to <span class="gui">Account Type</span>
       and select <span class="gui">Administrator</span>.</p></li>
-<li class="steps"><p class="p">The user's privileges will be changed when they next log in.</p></li>
+<li class="steps"><p class="p">The user’s privileges will be changed when they next log in.</p></li>
 </ol></div></div></div>
 <div class="note" title="Opomba"><div class="inner"><div class="region"><div class="contents">
 <p class="p">The first user account on the system is usually the one that has

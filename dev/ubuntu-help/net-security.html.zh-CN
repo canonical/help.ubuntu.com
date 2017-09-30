@@ -51,7 +51,8 @@
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="linkdiv "><a class="linkdiv" href="net-firewall-on-off.html" title="启用和阻止防火墙访问"><span class="title">启用和阻止防火墙访问</span><span class="linkdiv-dash"> — </span><span class="desc">您可以控制哪些程序可以访问网络，这有助于保持您的计算机安全。</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-firewall-ports.html" title="常用网络端口"><span class="title">常用网络端口</span><span class="linkdiv-dash"> — </span><span class="desc">您需要在防火墙中，为一个程序指定正确的网络端口来启用/禁用网络访问。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-antivirus.html" title="我需要安装反病毒软件吗？"><span class="title">我需要安装反病毒软件吗？</span><span class="linkdiv-dash"> — </span><span class="desc">Linux 下病毒很少，因此您不大可能需要反病毒软件。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-antivirus.html" title="我需要安装反病毒软件吗？"><span class="title">我需要安装反病毒软件吗？</span><span class="linkdiv-dash"> — </span><span class="desc">There are few Linux viruses, so you probably don’t need anti-virus
+    software.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-email-virus.html" title="要为电子邮件扫描病毒吗？"><span class="title">要为电子邮件扫描病毒吗？</span><span class="linkdiv-dash"> — </span><span class="desc">病毒一般无法感染您的 Linux 计算机，但会感染您的电子邮件收件人。</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">

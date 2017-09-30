@@ -67,7 +67,10 @@
 <p class="p">要远离恶意入侵，请牢记以下提示：</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">不要打开未知人员发送的电子邮件、附件或链接。</p></li>
-<li class="list"><p class="p">如果网站的优惠让人难以置信，或者询问一些敏感信息，请再三考虑您提交的内容，以及如果该信息被黑客或其他犯罪分子利用可能产生的后果。</p></li>
+<li class="list"><p class="p">If a website’s offer is too good to be true, or asks for sensitive
+      information that seems unnecessary, then think twice about what
+      information you are submitting and the potential consequences if that
+      information is compromised by identity thieves or other criminals.</p></li>
 <li class="list"><p class="p">Be careful in providing
       <span class="link"><a href="user-admin-explain.html" title="管理员权限是如何工作的呢？">root level permissions</a></span> to any
       application, especially ones that you have not used before or which are

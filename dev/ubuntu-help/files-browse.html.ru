@@ -66,7 +66,7 @@ open it in a new tab. You can also right-click a folder to open it in a new tab
 or new window.</p>
 <p class="p">При навигации по файлам в папке можно быстро выполнить <span class="link"><a href="files-preview.html" title="Предварительный просмотр файлов и папок">предварительный просмотр</a></span> каждого файла, нажимая пробел, чтобы убедиться в правильности выбора файла перед его открытием, копированием или удалением.</p>
 <p class="p">The <span class="em">path bar</span> above the list of files and folders shows you which
-folder you're viewing, including the parent folders of the current folder.
+folder you’re viewing, including the parent folders of the current folder.
 Click a parent folder in the path bar to go to that folder. Right-click any
 folder in the path bar to open it in a new tab or window, or access its
 properties.</p>

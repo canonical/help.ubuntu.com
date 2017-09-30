@@ -88,7 +88,7 @@
 <dd class="terms"><p class="p">Εμφανίζει τον τύπο MIME του αντικειμένου.</p></dd>
 <dt class="terms"><span class="gui">Θέση</span></dt>
 <dd class="terms"><p class="p">Η διαδρομή στη θέση του αρχείου.</p></dd>
-<dt class="terms"><span class="gui">Τροποποιήθηκε - Ώρα</span></dt>
+<dt class="terms"><span class="gui">Modified — Time</span></dt>
 <dd class="terms"><p class="p">Δίνει την ημερομηνία και ώρα της τελευταίας φοράς που το αρχείο τροποποιήθηκε.</p></dd>
 <dt class="terms"><span class="gui">Προσπελάστηκε</span></dt>
 <dd class="terms"><p class="p">Δίνει την ημερομηνία ή ώρα της τελευταίας φοράς που το αρχείο τροποποιήθηκε.</p></dd>

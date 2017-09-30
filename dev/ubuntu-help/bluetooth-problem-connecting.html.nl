@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>I cannot connect my Bluetooth device</title>
+<title>Ik kan mijn Bluetooth-apparaat niet aansluiten</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,38 +43,26 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Common problems">Problems</a> » <a class="trail" href="bluetooth.html#problems" title="Problemen">Bluetooth problems</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="bluetooth.html#problems" title="Problemen">Problemen met Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">I cannot connect my Bluetooth device</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Ik kan mijn Bluetooth-apparaat niet aansluiten</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">There are a number of reasons why you may not be able to connect to a
-  Bluetooth device, such as a phone or headset.</p>
+<p class="p">Er zijn meerdere redenen waarom u een Bluetooth-apparaat (zoals een telefoon of koptelefoon) niet kunt aansluiten:</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms">Connection blocked or untrusted</dt>
-<dd class="terms"><p class="p">Some Bluetooth devices block connections by default, or require you to
-      change a setting to allow connections to be made. Make sure that your
-      device is set up to allow connections.</p></dd>
-<dt class="terms">Bluetooth hardware not recognized</dt>
-<dd class="terms"><p class="p">Your Bluetooth adapter or dongle may not have been recognized by the
-      computer. This could be because
-      <span class="link"><a href="hardware-driver.html" title="What is a driver?">drivers</a></span> for the adapter are not
-      installed. Some Bluetooth adapters are not supported on Linux, so you may
-      not be able to get the right drivers for them. In this case, you will
-      probably have to get a different Bluetooth adapter.</p></dd>
-<dt class="terms">Adapter is not switched on</dt>
+<dt class="terms">Verbinding geblokkeerd of niet te vertrouwen</dt>
+<dd class="terms"><p class="p">Sommige Bluetooth-apparaten blokkeren standaard alle verbindingen, of vereisen dat u de instellingen verandert om verbindingen toe te staan. Zorg ervoor dat uw apparaat zo is ingesteld dat verbindingen zijn toegestaan.</p></dd>
+<dt class="terms">Bluetooth-hardware niet herkend</dt>
+<dd class="terms"><p class="p">Het kan zijn dat uw Bluetooth-adapter of -dongel niet herkend werd door de computer. Dit kan komen doordat de <span class="link"><a href="hardware-driver.html" title="Wat is een stuurprogramma?">stuurprogramma's</a></span> voor de adapter niet zijn geïnstalleerd. Sommige Bluetooth-adapters worden niet ondersteund door Linux waardoor u mogelijk niet aan de juiste stuurprogramma's ervoor kunt komen. In dit geval dient u waarschijnlijk een andere Bluetooth-adapter aan te schaffen.</p></dd>
+<dt class="terms">Adapter niet ingeschakeld</dt>
 <dd class="terms"><p class="p">Make sure that your Bluetooth adapter is switched on. Click the
-          Bluetooth icon in the <span class="gui">menu bar</span> and check that it's not
-          <span class="link"><a href="bluetooth-turn-on-off.html" title="Turn Bluetooth on or off">disabled</a></span>.</p></dd>
-<dt class="terms">Device Bluetooth connection switched off</dt>
-<dd class="terms"><p class="p">Check that Bluetooth is turned on on the device you are trying to
-      connect to, and that it is <span class="link"><a href="bluetooth-visibility.html" title="What is Bluetooth visibility?">discoverable
-      or visible</a></span>. For example, if you are trying to connect to a phone,
-      make sure that it is not in airplane mode.</p></dd>
-<dt class="terms">No Bluetooth adapter in your computer</dt>
-<dd class="terms"><p class="p">Many computers do not have Bluetooth adapters. You can buy an adapter
-      if you want to use Bluetooth.</p></dd>
+          Bluetooth icon in the <span class="gui">menu bar</span> and check that it’s not
+          <span class="link"><a href="bluetooth-turn-on-off.html" title="Bluetooth in- of uitschakelen">disabled</a></span>.</p></dd>
+<dt class="terms">Bluetooth is op het externe apparaat uitgeschakeld</dt>
+<dd class="terms"><p class="p">Controleer of Bluetooth is ingeschakeld op het apparaat waarmee u probeert te verbinden, en dat het <span class="link"><a href="bluetooth-visibility.html" title="Wat is Bluetooth-zichtbaarheid?">gevonden kan worden of zichtbaar is</a></span>. Bijvoorbeeld, als u probeert te verbinden met een telefoon, zorg er dan voor dat die niet in vliegtuigmodus staat.</p></dd>
+<dt class="terms">Geen Bluetooth-adapter op uw computer</dt>
+<dd class="terms"><p class="p">Veel computers hebben geen Bluetooth-adapters. U kunt een adapter kopen als u Bluetooth wilt gebruiken.</p></dd>
 </dl></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -82,13 +70,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="bluetooth.html#problems" title="Problemen">Bluetooth problems</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="bluetooth.html#problems" title="Problemen">Problemen met Bluetooth</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-driver.html" title="What is a driver?">What is a driver?</a><span class="desc"> — A hardware/device driver allows your computer to use devices that are
-    attached to it.</span>
+<a href="hardware-driver.html" title="Wat is een stuurprogramma?">Wat is een stuurprogramma?</a><span class="desc"> — Een hardware/apparaatstuurprogramma stelt uw computer in staat aangesloten apparaten te gebruiken.</span>
 </li></ul></div>
 </div></div>
 </div>

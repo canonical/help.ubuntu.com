@@ -57,7 +57,9 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Baterije ne izpraznite popolnoma. Vedno znova napolnite baterijo <span class="em">preden</span> postane skoraj prazna, čeprav ima večina baterij varovala, ki preprečijo prenizko napolnjenost baterije. Polnjenje delno izpraznjene baterije je učinkovitejše, polnjenje skoraj polne baterije pa je za baterijo slabše.</p></li>
 <li class="list"><p class="p">Toplota ima škodljiv učinek na učinkovitost polnjenja. Ne pustite, da se baterija segreje bolj kot bi bilo treba.</p></li>
-<li class="list"><p class="p">Baterije se starajo tudi, če jih pustite v shrambi. Kupovanje nadomestne baterije ob nakupu nove ni smiselno. Baterije vedno kupite, ko jih potrebujete.</p></li>
+<li class="list"><p class="p">Batteries age even if you leave them in storage. There is little
+    advantage in buying a replacement battery at the same time as you get the
+    original battery — always buy replacements when you need them.</p></li>
 </ul></div></div></div>
 <div class="note" title="Opomba"><div class="inner"><div class="region"><div class="contents"><p class="p">Ta nasvet velja za Litij ionske (Li-ion) baterije, ki so najpogostejša vrsta baterij. Druge vrste baterij se morda obnašajo drugače.</p></div></div></div></div>
 </div>

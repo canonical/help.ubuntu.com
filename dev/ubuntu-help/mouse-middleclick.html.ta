@@ -55,19 +55,25 @@
 <div class="hgroup"><h1 class="title"><span class="title">நடு சொடுக்கம்</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">பல சொடுக்கிகளிலும் தொடுதிட்டுகளிலும் நடு பொத்தான் இருக்கும். ஒரு சுருள் சக்கரம் உள்ள ஒரு சொடுக்கியில், நீங்கள் நடு சொடுக்கம் செய்ய நேரடியாக உருள் சக்கரத்தையே அழுத்தலாம். உங்கள் சொடுக்கியில் நடு பொத்தான் இல்லாவிட்டால், நடு சொடுக்கம் செய்ய ஒரே நேரத்தில் இடது மற்றும் வலது சொடுக்கி பொத்தான்களை அழுத்த வேண்டும்.</p>
+<p class="p">Many mice and some touchpads have a middle mouse button. On a mouse
+with a scroll wheel, you can usually press directly down on the scroll
+wheel to middle-click. If you don’t have a middle mouse button, you
+can press the left and right mouse buttons at the same time to
+middle-click.</p>
 <p class="p">பல விரல் தட்டல்களை ஆதரிக்கும் தொடுதிட்டுகளில், நீங்கள் நடு சொடுக்கம் செய்ய ஒரே நேரத்தில் மூன்று விரல்களால் தட்டலாம். இது வேலை செய்ய நீங்கள் தொடுதிட்டு அமைவுகளில் <span class="link"><a href="mouse-touchpad-click.html" title="தொடுதிட்டைப் பயன்படுத்தி சொடுக்குதல், இழுத்தல் அல்லது உருட்டுதல்">தட்டு சொடுக்கத்தை செயல்படுத்த</a></span> வேண்டும்.</p>
 <p class="p">பல பயன்பாடுகள் மேம்பட்ட சொடுக்க குறுக்குவழிகளுக்கு நடு சொடுக்கத்தைப் பயன்படுத்துகின்றன.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">In the <span class="gui">Activities</span> overview, you can quickly open a new
   window for an application in its own new workspace with middle-click. Simply
-  middle-click on the application's icon, either in the dash on the left, or in
+  middle-click on the application’s icon, either in the dash on the left, or in
   the applications overview. The applications overview is displayed using the
   grid button in the dash.</p></li>
 <li class="list"><p class="p">பெரும்பாலான வலை உலாவிகளில் நீங்கள் நடு சொடுக்கி பொத்தானைக் கொண்டு தாவல்களில் உள்ள இணைப்புகளை விரைவாக திறக்க முடியும். உங்கள் சொடுக்கி நடு பொத்தானைக் கொண்டு ஒரு இணைப்பை சொடுக்கவும், உடனே அது ஒரு புதிய தாவலில் திறக்கும். எனினும், <span class="app">Firefox</span> வலை உலாவியில் இணைப்பை சொடுக்கும் போது கவனமாக இருக்க வேண்டும். <span class="app">Firefox</span> இல், நீங்கள் ஒரு இணைப்பை தவிர வேறு எங்கும் நடு சொடுக்கம் செய்தால், தேர்ந்தெடுக்கப்பட்ட உரையை ஒரு URL ஆக ஏற்ற முயற்சிக்கும், அதாவது நீங்கள் அந்த உரையைத் தேர்ந்தெடுத்து முகவரிப் பட்டியில் அதை ஒட்டுவதற்கு நடு சொடுக்கத்தைப் பயன்படுத்தி <span class="key"><kbd>Enter</kbd></span> ஐ அழுத்தியது போல நடக்கும்.</p></li>
 <li class="list"><p class="p">கோப்பு மேலாளரில், நடு சொடுக்கம் இரு செயல்களைச் செய்கிறது. நீங்கள் ஒரு கோப்புறையை நடு சொடுக்கம் செய்தால் அது ஒரு புதிய தாவலில் திறக்கும். இது பிரபல வலை உலாவிகளின் நடத்தையைப் போன்றதே. ஒரு கோப்பை நடு சொடுக்கம் செய்தால், அதை நீங்கள் இரு சொடுக்கம் செய்ததைப் போல அது திறக்கும்.</p></li>
 </ul></div></div></div>
-<p class="p">சில சிறப்பு பயன்பாடுகளில் நீங்கள் மற்ற செயல்பாடுகளுக்கு நடு சொடுக்கத்தைப்  பயன்படுத்த முடியும். உங்கள் பயன்பாட்டின் உதவியில் <span class="em">middle-click</span> அல்லது<span class="em">middle mouse button</span> எனத் தேடிப் பார்க்கவும்.</p>
+<p class="p">Some specialized applications allow you to use the middle mouse
+button for other functions. Search your application’s help for
+<span class="em">middle-click</span> or <span class="em">middle mouse button</span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

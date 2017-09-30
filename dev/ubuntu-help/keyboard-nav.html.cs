@@ -69,10 +69,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">kurzorové šipky</p></td>
-<td style="border-top-style: solid;">
-<p class="p">Přesunout výběr mezi položkami v rámci jednoho ovládacího prvku nebo mezi ovládacími prvky jedné skupiny. Použijte je například k zaměření tlačítek v nástrojové liště, výběru položek v seznamovém nebo ikonovém zobrazení nebo výběru skupinového přepínače ve skupině.</p>
-<p class="p">Ve stromovém zobrazení používejte levou a pravou kurzorovou šipku ke sbalení a rozbalení položky s potomky.</p>
-</td>
+<td style="border-top-style: solid;"><p class="p">Přesunout výběr mezi položkami v rámci jednoho ovládacího prvku nebo mezi ovládacími prvky jedné skupiny. Použijte je například k zaměření tlačítek v nástrojové liště, výběru položek v seznamovém nebo ikonovém zobrazení nebo výběru skupinového přepínače ve skupině.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+kurzorové šipky</span></p></td>
@@ -81,6 +78,7 @@
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+kurzorové šipky</span></p></td>
 <td style="border-top-style: solid;"><p class="p">V seznamovém nebo ikonovém zobrazení vybrat všechny položky počínaje právě vybranou až po nově změřenou.</p></td>
+<td style="border-top-style: solid;"><p class="p">Položky ve stromovém zobrazení, které mají potomky, mohou být rozbalené nebo sbalené, takže své potomky zobrazují nebo skrývají: rozbalení provedete zmáčknutím <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>→</kbd></span></span> a sbalení zmáčknutím <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>←</kbd></span></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>mezerník</kbd></span></p></td>
@@ -221,7 +219,7 @@
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard.html" title="Klávesnice">Klávesnice</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Rozložení klávesnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Nastavení blikání textového kurzoru">blikání kurzoru</a></span>, <span class="link"><a href="a11y.html#mobility" title="Pohybová postižení">zpřístupnění klávesnice</a></span>…</span>
+<a href="keyboard.html" title="Klávesnice">Klávesnice</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Použití alternativního rozložení klávesnice">Rozložení klávesnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Nastavení blikání textového kurzoru">blikání kurzoru</a></span>, <span class="link"><a href="a11y.html#mobility" title="Pohybová postižení">zpřístupnění klávesnice</a></span>…</span>
 </li>
 <li class="links "><a href="a11y.html#mobility" title="Pohybová postižení">Pohybová postižení</a></li>
 </ul></div>

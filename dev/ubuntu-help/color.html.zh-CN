@@ -73,17 +73,17 @@
 <div class="hgroup"><h2 class="title"><span class="title">校准</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
+<div class="linkdiv "><a class="linkdiv" href="color-calibrationcharacterization.html" title="What’s the difference between calibration and characterization?"><span class="title">What’s the difference between calibration and characterization?</span><span class="linkdiv-dash"> — </span><span class="desc">校准和特征分析是完全不同的两件事。</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-why-calibrate.html" title="为何需要自己进行校准？"><span class="title">为何需要自己进行校准？</span><span class="linkdiv-dash"> — </span><span class="desc">如果您在意您显示或打印的颜色，校准将非常重要。</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-calibrate-screen.html" title="如何校准我的屏幕？"><span class="title">如何校准我的屏幕？</span><span class="linkdiv-dash"> — </span><span class="desc">校准屏幕对显示颜色的准确性非常重要。</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-calibrate-printer.html" title="如何校准我的打印机？"><span class="title">如何校准我的打印机？</span><span class="linkdiv-dash"> — </span><span class="desc">校准打印机对打印颜色的准确性非常重要。</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-calibrate-scanner.html" title="如何校准我的扫描仪？"><span class="title">如何校准我的扫描仪？</span><span class="linkdiv-dash"> — </span><span class="desc">校准扫描仪对捕获颜色的准确性非常重要。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrate-camera.html" title="如何校准我的摄像机？"><span class="title">如何校准我的摄像机？</span><span class="linkdiv-dash"> — </span><span class="desc">校准对让摄像机捕获准确的颜色非常重要。</span></a></div>
 </div>
 <div class="links-twocolumn">
+<div class="linkdiv "><a class="linkdiv" href="color-calibrate-camera.html" title="如何校准我的摄像机？"><span class="title">如何校准我的摄像机？</span><span class="linkdiv-dash"> — </span><span class="desc">校准对让摄像机捕获准确的颜色非常重要。</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-canshareprofiles.html" title="我可以共享我的色彩配置文件吗？"><span class="title">我可以共享我的色彩配置文件吗？</span><span class="linkdiv-dash"> — </span><span class="desc">共享色彩配置文件绝不是个好主意，因为硬件在随时间不断变化。</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-calibrationtargets.html" title="支持哪些比色卡类型？"><span class="title">支持哪些比色卡类型？</span><span class="linkdiv-dash"> — </span><span class="desc">进行扫描仪和摄像机定型需要校准比色卡。</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-calibrationdevices.html" title="支持哪些颜色测量仪器？"><span class="title">支持哪些颜色测量仪器？</span><span class="linkdiv-dash"> — </span><span class="desc">我们支持大量的校准设备。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrationcharacterization.html" title="校准和特征分析有何不同？"><span class="title">校准和特征分析有何不同？</span><span class="linkdiv-dash"> — </span><span class="desc">校准和特征分析是完全不同的两件事。</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -91,7 +91,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">问题</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-notspecifiededid.html" title="为什么默认的监视文件会发生校准过满而停止？"><span class="title">为什么默认的监视文件会发生校准过满而停止？</span><span class="linkdiv-dash"> — </span><span class="desc">默认的监视配置文件，没有校准日期。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-notspecifiededid.html" title="Why don’t the default monitor profiles have a calibration expiry?"><span class="title">Why don’t the default monitor profiles have a calibration expiry?</span><span class="linkdiv-dash"> — </span><span class="desc">默认的监视配置文件，没有校准日期。</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-testing.html" title="如果颜色管理器正确，我应该如何测试？"><span class="title">如果颜色管理器正确，我应该如何测试？</span><span class="linkdiv-dash"> — </span><span class="desc">Use the supplied test profiles to check that your profiles are being
     applied correctly to your screen.</span></a></div>
 </div>

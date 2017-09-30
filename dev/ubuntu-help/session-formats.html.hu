@@ -54,9 +54,9 @@
 <li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Terület és nyelv</span> kifejezést.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Terület és nyelv</span> ikonra a panel megnyitásához.</p></li>
 <li class="steps"><p class="p">Nyomja meg a <span class="gui">Formátumok</span> gombot.</p></li>
-<li class="steps"><p class="p">Válassza ki azt a régiót és nyelvet, amely a használni kívánt formátumoknak a leginkább megfelel. Ha a régió és nyelv nincs a listában, akkor nyomja meg a <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="..."></span></span></span> gombot az összes elérhető régióból és nyelvből való választáshoz.</p></li>
+<li class="steps"><p class="p">Válassza ki azt a régiót és nyelvet, amely a használni kívánt formátumoknak a leginkább megfelel. Ha a régió és nyelv nincs a listában, akkor nyomja meg a <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="…"></span></span></span> gombot az összes elérhető régióból és nyelvből való választáshoz.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Kész</span> gombra a mentéshez.</p></li>
-<li class="steps"><p class="p">Válaszoljon az <span class="gui">A változtatások életbe léptetéséhez lépjen ki, majd újra be</span> felszólításra az <span class="gui">Újraindítás most</span> vagy a <span class="gui">X</span> gombra kattintással.</p></li>
+<li class="steps"><p class="p">Válaszoljon az <span class="gui">A változtatások életbe léptetéséhez lépjen ki, majd újra be</span> felszólításra az <span class="gui">Újraindítás most</span> vagy a <span class="gui">×</span> gombra kattintással.</p></li>
 </ol></div></div></div>
 <p class="p">Miután kiválasztott egy régiót, a lista jobb oldalán lévő terület megjelenít néhány példát a dátumok és egyéb értékek megjelenítési módjaival. Noha a példák közt nem szerepel, a régióbeállítás a hét kezdőnapját is vezérli a naptárakban.</p>
 </div>
@@ -66,7 +66,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html" title="Terület és nyelv">Terület és nyelv</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Nyelv megváltoztatása">Nyelv</a></span>, <span class="link"><a href="session-formats.html" title="Dátum és mértékegység-formátumok módosítása">terület és formátumok</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">billentyűzetkiosztások</a></span>…</span>
+<a href="prefs-language.html" title="Terület és nyelv">Terület és nyelv</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Nyelv megváltoztatása">Nyelv</a></span>, <span class="link"><a href="session-formats.html" title="Dátum és mértékegység-formátumok módosítása">terület és formátumok</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Alternatív billentyűzetkiosztások használata">billentyűzetkiosztások</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

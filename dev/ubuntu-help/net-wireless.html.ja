@@ -50,19 +50,19 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-connect.html" title="無線ネットワークに接続する"><span class="title">無線ネットワークに接続する</span><span class="linkdiv-dash"> — </span><span class="desc">インターネットに接続する - 無線</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-connect.html" title="無線ネットワークに接続する"><span class="title">無線ネットワークに接続する</span><span class="linkdiv-dash"> — </span><span class="desc">Get on the internet — wirelessly.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-mobile.html" title="Connect to mobile broadband"><span class="title">Connect to mobile broadband</span><span class="linkdiv-dash"> — </span><span class="desc">Use your phone or Internet stick to connect to the mobile broadband
     network.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html" title="I can’t see my wireless network in the list"><span class="title">I can’t see my wireless network in the list</span><span class="linkdiv-dash"> — </span><span class="desc">The wireless could be turned off or broken, or you may be trying to
+    connect to a hidden network.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-noconnection.html" title="I’ve entered the correct password, but I still can’t connect"><span class="title">I’ve entered the correct password, but I still can’t connect</span><span class="linkdiv-dash"> — </span><span class="desc">Double-check the password, and other things to try.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-vpn-connect.html" title="VPN へ接続する"><span class="title">VPN へ接続する</span><span class="linkdiv-dash"> — </span><span class="desc">Set up a VPN connection to a local network over the internet.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-wepwpa.html" title="WEP と WPA とは?"><span class="title">WEP と WPA とは?</span><span class="linkdiv-dash"> — </span><span class="desc">WEP と WPA は無線ネットワーク上のデータを暗号化する手段になります。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-manual.html" title="ネットワーク設定を手動で行う"><span class="title">ネットワーク設定を手動で行う</span><span class="linkdiv-dash"> — </span><span class="desc">You may have to enter network settings if they don't get assigned
-    automatically.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-adhoc.html" title="ワイヤレスアクセスポイントを作成する"><span class="title">ワイヤレスアクセスポイントを作成する</span><span class="linkdiv-dash"> — </span><span class="desc">特殊なネットワークを使用し、他のデバイスをコンピューターおよびそのネットワーク接続につなげることができるようにします。</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html" title="一覧に自分の無線ネットワークが表示されません"><span class="title">一覧に自分の無線ネットワークが表示されません</span><span class="linkdiv-dash"> — </span><span class="desc">The wireless could be turned off or broken, or you may be trying to
-    connect to a hidden network.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-noconnection.html" title="正しいパスワードを入力したのに接続できません"><span class="title">正しいパスワードを入力したのに接続できません</span><span class="linkdiv-dash"> — </span><span class="desc">Double-check the password, and other things to try.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-manual.html" title="ネットワーク設定を手動で行う"><span class="title">ネットワーク設定を手動で行う</span><span class="linkdiv-dash"> — </span><span class="desc">You may have to enter network settings if they don’t get assigned
+    automatically.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-adhoc.html" title="ワイヤレスアクセスポイントを作成する"><span class="title">ワイヤレスアクセスポイントを作成する</span><span class="linkdiv-dash"> — </span><span class="desc">特殊なネットワークを使用し、他のデバイスをコンピューターおよびそのネットワーク接続につなげることができるようにします。</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-disconnecting.html" title="無線ネットワークが切断されてしまいます、なぜですか?"><span class="title">無線ネットワークが切断されてしまいます、なぜですか?</span><span class="linkdiv-dash"> — </span><span class="desc">信号が弱い、またはネットワークに正しく接続されていない可能性があります。</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-troubleshooting.html" title="無線ネットワークトラブルシューティング"><span class="title">無線ネットワークトラブルシューティング</span><span class="linkdiv-dash"> — </span><span class="desc">Identify and fix problems with wireless connections.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-airplane.html" title="無線機能をオフにする (機内モード)"><span class="title">無線機能をオフにする (機内モード)</span><span class="linkdiv-dash"> — </span><span class="desc">ネットワークの設定を開き、機内モードをオンにします。</span></a></div>
@@ -86,7 +86,7 @@
 <a href="net-general.html" title="ネットワーク用語とヒント">ネットワーク用語とヒント</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="IP アドレスを確認する">IP アドレスの確認</a></span>、<span class="link"><a href="net-wireless-wepwpa.html" title="WEP と WPA とは?">WEP &amp; WPA セキュリティ</a></span>、<span class="link"><a href="net-macaddress.html" title="MAC アドレスとは">MAC アドレス</a></span>、<span class="link"><a href="net-proxy.html" title="プロキシ設定の定義">プロキシ</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-problem.html" title="ネットワーク関連の問題">ネットワーク関連の問題</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="無線ネットワークトラブルシューティング">無線接続トラブルシューティング</a></span>、<span class="link"><a href="net-wireless-find.html" title="一覧に自分の無線ネットワークが表示されません">wifi ネットワーク検索</a></span>…</span>
+<a href="net-problem.html" title="ネットワーク関連の問題">ネットワーク関連の問題</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="無線ネットワークトラブルシューティング">無線接続トラブルシューティング</a></span>、<span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">wifi ネットワーク検索</a></span>…</span>
 </li>
 </ul></div>
 </div></div>

@@ -61,7 +61,7 @@
 <p class="p">Klicken Sie auf den <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="Einstellungen"></span></span>-Knopf, um die MAC-Adresse für das Funknetzwerkgerät, die als <span class="gui">Hardware-Adresse</span> im <span class="gui">Details</span>-Panel angezeigt wird.</p>
 </li>
 </ol></div></div></div>
-<p class="p">In der Praxis kann es vorkommen, dass Sie die MAC-Adresse ändern müssen (sogenanntes MAC-Spoofing). Manche Internet-Dienstanbieter verlangen zum Beispiel, dass ihr Service nur von einer bestimmten MAC-Adresse aus genutzt wird. Wenn diese Netzwerkkarte kaputtgeht und Sie Ihre Netzwerkkarte austauschen müssen, wird der Service nicht mehr funktionieren. In solchen Fällen müssten Sie eine andere MAC-Adresse vortäuschen.</p>
+<p class="p">In der Praxis kann es vorkommen, dass Sie die MAC-Adresse ändern müssen (sogenanntes MAC-Spoofing). Manche Internet-Dienstanbieter verlangen zum Beispiel, dass ihr Service nur von einer bestimmten MAC-Adresse aus genutzt wird. Wenn diese Netzwerkkarte kaputtgeht und Sie sie Netzwerkkarte ersetzen müssen, wird der Service nicht mehr funktionieren. In solchen Fällen müssten Sie eine andere MAC-Adresse vortäuschen.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

@@ -70,7 +70,10 @@
 <div id="speakers" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Ελέγξετε ότι τα ηχεία είναι ανοικτά και συνδεμένα σωστά</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Αν ο υπολογιστής σας έχει εξωτερικά ηχεία, βεβαιωθείτε ότι είναι ανοικτά και ότι η ένταση είναι ανοικτή. Βεβαιωθείτε ότι το καλώδιο του ηχείου είναι συνδεμένο με ασφάλεια στην "έξοδο" υποδοχής ήχου στον υπολογιστή σας. Αυτή η υποδοχή έχει συνήθως ανοικτό πράσινο χρώμα.</p>
+<p class="p">If your computer has external speakers, make sure that they are turned on
+  and that the volume is turned up. Make sure that the speaker cable is securely
+  plugged into the “output” audio socket on your computer. This socket
+  is usually light green in color.</p>
 <p class="p">Ορισμένες κάρτες ήχου μπορούν να αλλαχθούν μεταξύ της υποδοχής που χρησιμοποιούν για έξοδος (στα ηχεία) και της υποδοχής για είσοδο (για παράδειγμα ένα μικρόφωνο). Η υπόδοχη εξόδου μπορεί να είναι διαφορετική όταν τρέχετε Linux, Windows ή Mac OS. Δοκιμάστε να συνδέσετε το καλώδιο του ηχείου σας σε μια διαφορετική υποδοχή ήχου του υπολογιστή σας.</p>
 <p class="p">Ένα τελευταίο πράγμα για να ελέγξετε είναι το καλώδιο ήχου να είναι συνδεμένο με ασφάλεια στο πίσω μέρος των ηχείων. Επίσης, μερικά ηχεία έχουν περισσότερες από μία εισόδους.</p>
 </div></div>
@@ -78,7 +81,10 @@
 <div id="device" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Ελέγξτε ότι έχει επιλεγεί η σωστή συσκευή ήχου</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Μερικοί υπολογιστές έχουν εγκατεστημένες πολλαπλές «συσκευές ήχου». Μερικές από αυτές μπορούν να εξάγουν ήχο και μερικές όχι, έτσι θα πρέπει να ελέγξετε ότι έχετε επιλέξει τη σωστή. Αυτό μπορεί να περιλαμβάνει μερικές δοκιμές για να επιλέξτε τη σωστή.</p>
+<p class="p">Some computers have multiple “sound devices” installed. Some of these are
+  capable of outputting sound and some are not, so you should check that you
+  have the correct sound device selected. This might involve some
+  trial-and-error to choose the right one.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Ήχος</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Ήχος</span> για να ανοίξετε τον πίνακα.</p></li>

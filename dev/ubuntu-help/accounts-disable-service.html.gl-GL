@@ -49,25 +49,16 @@
 <div class="hgroup"><h1 class="title"><span class="title">Controle que servizos en liña dunha conta poden usarse para acceder</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Some types of online account providers allow you to access several services
-  with the same user account. For example, Google accounts provide access to
-  calendar, email, contacts and chat. You may want to use your account for some
-  services, but not others. For example, you may want to use your Google account
-  for email but not chat if you have a different online account that you use
-  for chat.</p>
+<p class="p">Algúns tipos de conta en liña permítenlle acceder a varios servizos coa mesma conta de usuario. Por exemplo, as contas de Google fornecen acceso ao calendario, correo-e, contactos e chat. Pode querer usar a súa conta para algúns servizos e para outros non. Por exemplo, pode querer usar a súa conta de Google para correo-e pero non para chat, xa que ten unha conta en liña distinta para usala para chatear.</p>
 <p class="p">Pode desactivar algúns servizos fornecidos por cada servizo en liña:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Actividades</a></span> e comece a escribir <span class="gui">Contas en liña</span>.</p></li>
 <li class="steps"><p class="p">Prema <span class="gui">Contas en liñla</span> para abrir o panel.</p></li>
 <li class="steps"><p class="p">Seleccione a conta que quere cambiar da lista da esquerda.</p></li>
-<li class="steps"><p class="p">A list of services that are available with this account will be
-      shown under <span class="gui">Use for</span>. See <span class="link"><a href="accounts-which-application.html" title="Servizos en liña e aplicativos">Servizos en liña e aplicativos</a></span>
-      to see which applications access which services.</p></li>
-<li class="steps"><p class="p">Switch off any of the services that you do not want to use.</p></li>
+<li class="steps"><p class="p">A lista dos servizos servizos dispoñíbeis con esta conta mostraranse baixo <span class="gui">Usar esta conta para</span>. Vexa <span class="link"><a href="accounts-which-application.html" title="Servizos en liña e aplicativos">Servizos en liña e aplicativos</a></span> para ver que aplicativos acceden a estos servizos.</p></li>
+<li class="steps"><p class="p">Desactive calquera dos servizos que non quere que sexan usados.</p></li>
 </ol></div></div></div>
-<p class="p">Once a service has been disabled for an account, applications on your
-  computer will not be able to use the account to connect to that service any
-  more.</p>
+<p class="p">Unha vez que teña desactivado un servizo para unha conta, os aplicativos do seu computador non poderán usar a conta para volver a conectarse a este servizo.</p>
 <p class="p">Para activar un servizo para teña desactivado, volva á xanela <span class="gui">Contas en liña</span> e actíveo.</p>
 </div>
 <div class="sect sect-links" role="navigation">

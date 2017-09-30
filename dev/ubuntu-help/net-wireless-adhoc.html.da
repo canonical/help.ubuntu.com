@@ -49,7 +49,10 @@
 <div class="hgroup"><h1 class="title"><span class="title">Create a wireless hotspot</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Du kan bruge din computer som et trådløst hotspot. Så kan andre enheder forbinde til dig uden et separat netværk, og du kan dele en internetforbindelse, du har lavet, med en anden grænseflade, såsom med en kabelforbindelse eller over det mobile netværk.</p>
+<p class="p">You can use your computer as a wireless hotspot. This allows other devices
+  to connect to you without a separate network, and allows you to share an
+  internet connection you’ve made with another interface, such as to a wired
+  network or over the cellular network.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html#yourname" title="Dig og din computer">systemmenuen</a></span> fra højre side af toplinjen.</p></li>
 <li class="steps"><p class="p">Select
@@ -57,7 +60,7 @@
       Wi-Fi Not Connected</span> or the name of the wireless network to which
     you are already connected. The Wi-Fi section of the menu will expand.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Wi-Fi Settings</span>.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Use as Hotspot...</span> button.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Use as Hotspot…</span> button.</p></li>
 <li class="steps"><p class="p">If you are already connected to a wireless network, you will be
   asked if you want to disconnect from that network. A single wireless adapter
   can connect to or create only one network at a time. Click <span class="gui">Turn On</span>
@@ -65,7 +68,7 @@
 </ol></div></div></div>
 <p class="p">A network name (SSID) and security key are automatically generated.
 The network name will be based on the name of your computer. Other devices
-will need this information to connect to the hotspot you've just created.</p>
+will need this information to connect to the hotspot you’ve just created.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

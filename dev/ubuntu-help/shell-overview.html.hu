@@ -53,10 +53,7 @@
 <div class="linkdiv "><a class="linkdiv" href="shell-introduction.html" title="A GNOME bemutatása"><span class="title">A GNOME bemutatása</span><span class="linkdiv-dash"> — </span><span class="desc">Az asztali környezet, a felső sáv és a <span class="gui">Tevékenységek</span> áttekintés vizuális bemutatása.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Alkalmazások indítása"><span class="title">Alkalmazások indítása</span><span class="linkdiv-dash"> — </span><span class="desc">Alkalmazások indítása a <span class="gui">Tevékenységek</span> áttekintésből.</span></a></div>
 </div>
-<div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Kijelentkezés, kikapcsolás vagy felhasználóváltás"><span class="title">Kijelentkezés, kikapcsolás vagy felhasználóváltás</span><span class="linkdiv-dash"> — </span><span class="desc">A felhasználói fiók elhagyása kijelentkezéssel, felhasználóváltással stb.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-guest-session.html" title="Korlátozott vendégmunkamenet indítása"><span class="title">Korlátozott vendégmunkamenet indítása</span><span class="linkdiv-dash"> — </span><span class="desc">Adja kölcsön számítógépét egy barátjának vagy kollégájának biztonságos módon.</span></a></div>
-</div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Kijelentkezés, kikapcsolás vagy felhasználóváltás"><span class="title">Kijelentkezés, kikapcsolás vagy felhasználóváltás</span><span class="linkdiv-dash"> — </span><span class="desc">A felhasználói fiók elhagyása kijelentkezéssel, felhasználóváltással stb.</span></a></div></div>
 </div></div></div></div>
 <div id="desktop" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Az asztali környezet személyre szabása</span></h2></div>

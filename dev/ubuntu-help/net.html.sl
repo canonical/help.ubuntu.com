@@ -97,7 +97,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-problem.html" title="Težave z omrežjem">Težave z omrežjem</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html" title="Odpravljanje težav z brezžičnimi omrežji">Odpravljanje težav z brezžičnimi povezavami</a></span>, <span class="link"><a href="net-wireless-find.html" title="Svojega brezžičnega omrežja ne morem videti na seznamu">iskanje brezžične povezave</a></span> …</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html" title="Odpravljanje težav z brezžičnimi omrežji">Odpravljanje težav z brezžičnimi povezavami</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">iskanje brezžične povezave</a></span> …</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-security.html" title="Varnost na internetu">Varnost na internetu</a></div>

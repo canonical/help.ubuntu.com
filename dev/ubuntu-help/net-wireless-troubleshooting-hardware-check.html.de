@@ -112,7 +112,7 @@
 <li class="steps">
 <p class="p">Öffnen Sie ein Terminal, geben Sie Folgendes ein und drücken Sie die <span class="key"><kbd>Eingabetaste</kbd></span>:</p>
 <div class="code"><pre class="contents ">tail -f /var/log/messages</pre></div>
-<p class="p">Dadurch wird eine Liste von Benachrichtigungen angezeigt, die die Hardware Ihres Rechners betreffen; die Liste wird automatisch aktualisiert, sobald sich etwas, das Ihre Hardware betrifft, ändert.</p>
+<p class="p">Dadurch wird eine Liste von Benachrichtigungen angezeigt, die die Hardware Ihres Rechners betreffen; die Liste wird automatisch aktualisiert, sobald sich etwas ändert, das Ihre Hardware betrifft.</p>
 </li>
 <li class="steps"><p class="p">Stecken Sie Ihren Funknetzwerkadapter in den PCMCIA-Steckplatz und sehen Sie nach, was sich im Terminalfenster ändert. Die Änderungen sollten auch Informationen über Ihren Funknetzwerkadapter beinhalten. Durchsuchen Sie sie und versuchen Sie, ihn zu identifizieren.</p></li>
 <li class="steps"><p class="p">Um die Ausführung des im Terminal laufenden Befehls abzubrechen, drücken Sie <span class="keyseq"><span class="key"><kbd>Strg</kbd></span>+<span class="key"><kbd>C</kbd></span></span>. Nachdem Sie dies getan haben, können Sie das Terminal schließen.</p></li>

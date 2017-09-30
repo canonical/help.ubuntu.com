@@ -52,11 +52,22 @@
 <p class="p">Πέρα από τα αρχεία που <span class="em">δημιουργείτε</span>, ο υπολογιστής σας έχει πολλά αρχεία που απαιτούνται από το σύστημα για να δουλέψει σωστά. Εάν αυτά τα σημαντικά <span class="em">αρχεία του συστήματος</span> αλλάξουν λαθεμένα, μπορεί να προκαλέσουν ποικίλα προβλήματα, έτσι προστατεύονται από αλλαγές από προεπιλογή. Συγκεκριμένες εφαρμογές επίσης τροποποιούν σημαντικά μέρη του συστήματος και έτσι είναι επίσης προστατευμένες.</p>
 <p class="p">Ο τρόπος που προστατεύονται είναι επιτρέποντας μόνο χρήστες με <span class="em">δικαιώματα διαχειριστή</span> να αλλάξουν τα αρχεία ή να χρησιμοποιήσουν τις εφαρμογές. Στην καθημερινή χρήση, δεν θα χρειαστείτε να αλλάξετε αρχεία συστήματος ή να χρησιμοποιήσετε αυτές τις εφαρμογές, έτσι από προεπιλογή δεν έχετε δικαιώματα διαχειριστή.</p>
 <p class="p">Μερικές φορές χρειάζεστε να χρησιμοποιήσετε αυτές τις εφαρμογές, έτσι μπορεί να πάρετε προσωρινά δικαιώματα διαχειριστή για να σας επιτραπεί η εκτέλεση των αλλαγών. Αν μια εφαρμογή χρειάζεται δικαιώματα διαχειριστή, θα ζητήσει τον κωδικό πρόσβασής σας. Για παράδειγμα, αν θέλετε να εγκαταστήσετε κάποιο νέο λογισμικό, ο εγκαταστάτης λογισμικού (διαχειριστής πακέτου) θα ζητήσει τον κωδικό πρόσβασης διαχειριστή, έτσι ώστε να μπορέσει να προσθέσει την νέα εφαρμογή στο σύστημα. Μόλις έχει τελειώσει, τα δικαιώματα διαχειριστή θα αφαιρεθούν πάλι.</p>
-<p class="p">Τα δικαιώματα διαχειριστή συσχετίζονται με τον λογαριασμό χρήστη σας. Οι <span class="gui">διαχειριστές</span> επιτρέπεται να έχουν αυτά τα δικαιώματα, ενώ οι <span class="gui">τυπικοί</span> χρήστες όχι. Χωρίς διαχειριστικά δικαιώματα, δεν θα μπορέσετε να εγκαταστήσετε λογισμικό. Μερικοί λογαριασμοί χρήστη (για παράδειγμα, ο λογαριασμός "υπερχρήστη") έχει μόνιμα δικαιώματα διαχειριστή. Δεν πρέπει να χρησιμοποιείτε δικαιώματα διαχειριστή συνέχεια, επειδή μπορεί τυχαία να αλλάξετε κάτι που δεν σκοπεύατε (όπως να διαγράψετε ένα απαιτούμενο αρχείο συστήματος, για παράδειγμα).</p>
+<p class="p">Administrative privileges are associated with your user account.
+  <span class="gui">Administrator</span> users are allowed to have these privileges while
+  <span class="gui">Standard</span> users are not. Without administrative privileges you will
+  not be able to install software. Some user accounts (for example, the “root”
+  account) have permanent administrative privileges. You should not use
+  administrative privileges all of the time, because you might accidentally
+  change something you did not intend to (like delete a needed system file, for
+  example).</p>
 <p class="p">Περιληπτικά, τα δικαιώματα διαχειριστή σας επιτρέπουν να αλλάξετε σημαντικά μέρη του συστήματός σας όταν απαιτείται, αλλά αποτρέπουν την τυχαία εκτέλεση τους.</p>
 <div class="note" title="Σημείωση"><div class="inner">
-<div class="title title-note"><h2><span class="title">Τι σημαίνει «υπερχρήστης»</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Ένας χρήστης με δικαιώματα διαχειριστή λέγεται μερικές φορές <span class="em">υπερχρήστης</span>. Αυτό συμβαίνει απλά επειδή αυτός ο χρήστης έχει περισσότερα δικαιώματα από τους κανονικούς χρήστες. Μπορεί να δείτε άτομα να συζητούν πράγματα όπως <span class="cmd">su</span> και <span class="cmd">sudo</span>· αυτά είναι προγράμματα που σας δίνουν προσωρινά δικαιώματα «υπερχρήστη» (διαχειριστή).</p></div></div>
+<div class="title title-note"><h2><span class="title">What does “super user” mean?</span></h2></div>
+<div class="region"><div class="contents"><p class="p">A user with administrative privileges is sometimes called a <span class="em">super
+    user</span>. This is simply because that user has more privileges than normal
+    users. You might see people discussing things like <span class="cmd">su</span> and
+    <span class="cmd">sudo</span>; these are programs for temporarily giving you “super user”
+    (administrative) privileges.</p></div></div>
 </div></div>
 </div>
 <div id="advantages" class="sect"><div class="inner">
@@ -64,7 +75,11 @@
 <div class="region"><div class="contents">
 <p class="p">Η απαίτηση να έχουν οι χρήστες δικαιώματα διαχειριστή πριν να γίνουν σημαντικές αλλαγές στο σύστημα είναι χρήσιμη, επειδή βοηθά την αποφυγή κατάρρευσης του συστήματός σας, ηθελημένα ή αθέλητα.</p>
 <p class="p">Εάν έχετε δικαιώματα διαχειριστή συνέχεια, μπορεί τυχαία να αλλάξετε ένα σημαντικό αρχείο, ή να εκτελέσετε κατά λάθος μια εφαρμογή που αλλάζει κάτι σημαντικό. Εάν έχετε δικαιώματα διαχειριστή μόνο προσωρινά, όταν τα χρειάζεστε, μειώνεται ο κίνδυνος να συμβούν αυτά τα λάθη.</p>
-<p class="p">Μόνο συγκεκριμένοι έμπιστοι χρήστες πρέπει να επιτρέπεται να έχουν δικαιώματα διαχειριστή. Αυτό αποτρέπει άλλους χρήστες από την ανάμειξη με τον υπολογιστή και την εκτέλεση πραγμάτων όπως απεγκατάσταση εφαρμογών που χρειάζεστε, εγκατάσταση εφαρμογών που δεν θέλετε, ή αλλαγή σημαντικών αρχείων. Αυτό είναι χρήσιμο από άποψη ασφάλειας.</p>
+<p class="p">Only certain trusted users should be allowed to have administrative
+  privileges. This prevents other users from messing with the computer and
+  doing things like uninstalling applications that you need, installing
+  applications that you don’t want, or changing important files. This is useful
+  from a security standpoint.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -78,7 +93,7 @@
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-othersedit.html" title="Άλλοι χρήστες δε μπορούν να επεξεργαστούν τις συνδέσεις δικτύου">Άλλοι χρήστες δε μπορούν να επεξεργαστούν τις συνδέσεις δικτύου</a><span class="desc"> — Χρειάζεται να αποεπιλέξετε την επιλογή <span class="gui">Διαθέσιμο για όλους τους χρήστες</span> στις ρυθμίσεις σύνδεσης δικτύου.</span>
+<a href="net-othersedit.html" title="Other users can’t edit the network connections">Other users can’t edit the network connections</a><span class="desc"> — Χρειάζεται να αποεπιλέξετε την επιλογή <span class="gui">Διαθέσιμο για όλους τους χρήστες</span> στις ρυθμίσεις σύνδεσης δικτύου.</span>
 </li>
 <li class="links ">
 <a href="user-admin-change.html" title="Αλλάξτε ποιοι έχουν δικαιώματα διαχειριστή">Αλλάξτε ποιοι έχουν δικαιώματα διαχειριστή</a><span class="desc"> — Μπορείτε να επιτρέψετε τους χρήστες να κάνουν αλλαγές στο σύστημα δίνοντας τους δικαιώματα διαχειριστή.</span>

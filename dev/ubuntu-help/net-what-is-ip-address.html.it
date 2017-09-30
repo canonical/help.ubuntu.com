@@ -49,13 +49,14 @@
 <div class="hgroup"><h1 class="title"><span class="title">Cos'è un indirizzo IP?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Indirizzo IP indica, letteralmente, <span class="em">indirizzo del protocollo Internet</span> (dall'inglese <span class="em">Internet Protocol</span>) e a ogni dispositivo che si connette a una rete (come Internet) ne viene associato uno.</p>
+<p class="p">“IP address” stands for <span class="em">Internet Protocol address</span>, and each
+  device that is connected to a network (like the internet) has one.</p>
 <p class="p">Un indirizzo IP è simile a un numero di telefono. Il numero di telefono è un gruppo di cifre che identifica univocamente il telefono in maniera tale da consentire ad altri di chiamarlo. Analogamente, un indirizzo IP è un gruppo univoco di numeri che identifica il computer, rendendo così possibile lo scambio di dati con altri computer.</p>
 <p class="p">Attualmente, la maggior parte degli indirizzi IP consiste di quattro gruppi di numeri, ciascuno separato da un punto: <span class="code">192.168.1.42</span> è un esempio di indirizzo IP.</p>
 <div class="note note-tip" title="Suggerimento"><div class="inner"><div class="region"><div class="contents"><p class="p">An IP address can either be <span class="em">dynamic</span> or <span class="em">static</span>. Dynamic
     IP addresses are temporarily assigned each time your computer connects to a
     network. Static IP addresses are fixed, and do not change. Dynamic IP
-    addresses are more common that static addresses - static addresses are
+    addresses are more common that static addresses — static addresses are
     typically only used when there is a special need for them, such as in the
     administration of a server.</p></div></div></div></div>
 </div>

@@ -63,8 +63,7 @@
   off, so that nothing happens when you plug something in.</p>
 <p class="p">Untuk memutuskan aplikasi mana yang mesti mulai berjalan ketika Anda menancapkan berbagai perangkat:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span> overview and
-    start typing <span class="gui">Details</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Rincian</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Rincian</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Klik <span class="gui">Media Lepas Pasang</span>.</p></li>
 <li class="steps">
@@ -97,7 +96,7 @@
 <dd class="terms"><p class="p">Choose your favorite video application to handle video DVDs. Use the
     <span class="gui">Other Media…</span> button to set an application for Blu-ray, HD DVD,
     video CD (VCD), and super video CD (SVCD). If DVDs or other video discs
-    do not work correctly when you insert them, see <span class="link"><a href="video-dvd.html" title="Mengapa DVD tak bisa diputar?">Mengapa DVD tak bisa diputar?</a></span>.
+    do not work correctly when you insert them, see <span class="link"><a href="video-dvd.html" title="Why won’t DVDs play?">Why won’t DVDs play?</a></span>.
     </p></dd>
 <dt class="terms">Cakram kosong</dt>
 <dd class="terms"><p class="p">Use the <span class="gui">Other Media…</span> button to select a disc-writing
@@ -127,7 +126,7 @@
       option to control what to do when media with autorun software is
       inserted. You will always be prompted for a confirmation before software
       is run.</p>
-<div class="note note-warning" title="Peringatan"><div class="inner"><div class="region"><div class="contents"><p class="p">Jangan pernah jalankan perangkat lunak dari media yang tak Anda percayai.</p></div></div></div></div>
+<div class="note note-warning" title="Peringatan"><div class="inner"><div class="region"><div class="contents"><p class="p">Never run software from media you don’t trust.</p></div></div></div></div>
 </dd>
 </dl></div></div></div></div></div>
 </div></div>

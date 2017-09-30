@@ -55,7 +55,6 @@
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="user-add.html" title="Добавление новой учётной записи пользователя"><span class="title">Добавление новой учётной записи пользователя</span><span class="linkdiv-dash"> — </span><span class="desc">Добавьте новых пользователей, чтобы другие люди могли воспользоваться компьютером.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="user-autologin.html" title="Автоматический вход"><span class="title">Автоматический вход</span><span class="linkdiv-dash"> — </span><span class="desc">Настройка автоматического входа при запуске компьютера.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-guest-session.html" title="Запуск ограниченного гостевого сеанса"><span class="title">Запуск ограниченного гостевого сеанса</span><span class="linkdiv-dash"> — </span><span class="desc">Позвольте друзьям или коллегам воспользоваться вашим компьютером, не подвергая риску безопасность системы.</span></a></div>
 </div>
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="user-changepicture.html" title="Смена изображения пользователя на экране входа в систему"><span class="title">Смена изображения пользователя на экране входа в систему</span><span class="linkdiv-dash"> — </span><span class="desc">Добавление своей фотографии на экраны входа в систему и выбора пользователя.</span></a></div>

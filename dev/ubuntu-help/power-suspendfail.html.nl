@@ -44,47 +44,32 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Common problems">Problems</a> » <a class="trail" href="power.html#problems" title="Problemen">Power problems</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="hardware-problems-graphics.html" title="Schermproblemen">Schermproblemen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Common problems">Problems</a> » <a class="trail" href="hardware-problems-graphics.html" title="Screen problems">Screen problems</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="power.html#problems" title="Problemen">Stroomproblemen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Why does my computer not turn back on after I suspended it?</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">If you <span class="link"><a href="power-suspend.html" title="What happens when I suspend my computer?">suspend</a></span> your computer, then try to
-resume it, you may find that it does not work as you expected. This could be
-because suspend is not supported properly by your hardware.</p></div>
+<div class="contents"><p class="p">Wanneer u uw computer in de <span class="link"><a href="power-suspend.html" title="Wat gebeurt er wanneer ik mijn computer in de pauzestand zet?">pauzestand</a></span> zet, en daarna weer activeert, kan de computer mogelijk niet werken zoals verwacht. Dit kan mogelijk veroorzaakt worden doordat uw hardware de pauzestand niet goed ondersteunt.</p></div>
 <div id="resume" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">My computer is suspended and is not resuming</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Mijn computer is in de pauzestand gezet en wordt niet meer actief</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">If you suspend your computer and then press a key or click the mouse, it
-  should wake up and display a screen asking for your password. If this does
-  not happen, try pressing the power button (do not hold it in, just press it
-  once).</p>
-<p class="p">If this still does not help, make sure that your computer's monitor is
+<p class="p">Wanneer u uw computer in de pauzestand heeft gezet en daarna op een toets of met uw muis klikt, zou de computer weer actief moeten worden en een scherm tonen waarin om uw wachtwoord gevraagd wordt. Als dit niet het geval is, probeer dan op de aan/uit-knop te drukken (u hoeft er alleen maar op te drukken en niet ingedrukt te houden).</p>
+<p class="p">If this still does not help, make sure that your computer’s monitor is
   switched on and try pressing a key on the keyboard again.</p>
-<p class="p">As a last resort, turn off the computer by holding in the power button for
-  5-10 seconds, although you will lose any unsaved work by doing this. You
-  should then be able to turn on the computer again.</p>
-<p class="p">If this happens every time you suspend your computer, the suspend
-  feature may not work with your hardware.</p>
-<div class="note note-warning" title="Waarschuwing"><div class="inner"><div class="region"><div class="contents"><p class="p">If your computer loses power and does not have an alternative power
-    supply (such as a working battery), it will switch off.</p></div></div></div></div>
+<p class="p">Als laatste redmiddel kunt u de computer uitzetten door de aan/uit-knop 5-10 seconden ingedrukt te houden. Hierdoor zal wel al het niet opgeslagen werk verloren gaan. Maar daarna zou u de computer weer gewoon moeten kunnen aanzetten.</p>
+<p class="p">Als dit telkens wanneer u de computer in de pauzestand zet gebeurt, dan kan het zijn dat de pauzestandfunctie niet werkt met uw hardware.</p>
+<div class="note note-warning" title="Waarschuwing"><div class="inner"><div class="region"><div class="contents"><p class="p">Als uw computer stroom verliest en geen alternatieve stroombron heeft (zoals een werkende accu), dan zal deze uitgeschakeld worden.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="hardware" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">My wireless connection (or other hardware) does not work when I wake
-  up my computer</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Mijn draadloze verbinding (of andere hardware) werkt niet wanneer ik de computer weer activeer</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">If you suspend your computer and then resume it again, you
-  may find that your internet connection, mouse, or some other device does not
-  work properly. This could be because the driver for the device does not
-  properly support suspend. This is a <span class="link"><a href="hardware-driver.html" title="What is a driver?">problem with the driver</a></span> and not the device
-  itself.</p>
+<p class="p">Als u uw computer in pauzestand zet en het weer hervat, dan kan het zijn dat uw internetverbinding, muis, of een ander apparaat niet meer correct werkt. Dit kan komen doordat het stuurprogramma van het apparaat de pauze- of slaapstand niet goed ondersteunt. Dit is een <span class="link"><a href="hardware-driver.html" title="Wat is een stuurprogramma?">probleem met het stuurprogramma</a></span> en niet met het apparaat zelf.</p>
 <p class="p">Als het apparaat een aan/uit-knop heeft, probeer het dan uit en weer aan te zetten. In de meeste gevallen zal het apparaat weer werken. Als het aangesloten is via een USB-kabel kunt u het apparaat afkoppelen en weer aansluiten en kijken of het dan werkt.</p>
-<p class="p">If you cannot turn off or unplug the device, or if this does not work, you
-  may need to restart your computer for the device to start working again.</p>
+<p class="p">Als u het apparaat niet uit kunt zetten of af kunt koppelen, of als dit niet werkt, dan kan het nodig zijn om de computer opnieuw op te starten om te zorgen dat het apparaat weer werkt.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -94,12 +79,10 @@ because suspend is not supported properly by your hardware.</p></div>
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power.html#problems" title="Problemen">Power problems</a><span class="desc"> — Troubleshoot problems with power and batteries.</span>
+<a href="hardware-problems-graphics.html" title="Schermproblemen">Schermproblemen</a><span class="desc"> — Grafische problemen en problemen met het scherm oplossen.</span>
 </li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Screen problems">Screen problems</a><span class="desc"> — 
-      Troubleshoot screen and graphics problems.
-    </span>
+<a href="power.html#problems" title="Problemen">Stroomproblemen</a><span class="desc"> — Problemen met stroom en accu's oplossen.</span>
 </li>
 </ul></div>
 </div></div>
@@ -110,18 +93,17 @@ because suspend is not supported properly by your hardware.</p></div>
 <a href="power-hibernate.html" title="Hoe zet ik mijn computer in de slaapstand?">Hoe zet ik mijn computer in de slaapstand?</a><span class="desc"> — De slaapstand is standaard uitgeschakeld omdat deze niet goed ondersteund wordt.</span>
 </li>
 <li class="links ">
-<a href="power-nowireless.html" title="Ik heb geen draadloos netwerk na ontwaken van mijn computer">Ik heb geen draadloos netwerk na ontwaken van mijn computer</a><span class="desc"> — Some wireless devices have problems handling when your computer is
+<a href="power-nowireless.html" title="Ik heb geen draadloos netwerk na het weer actief worden van mijn computer">Ik heb geen draadloos netwerk na het weer actief worden van mijn computer</a><span class="desc"> — Some wireless devices have problems handling when your computer is
     suspended and does not resume properly.</span>
 </li>
 <li class="links ">
-<a href="power-closelid.html" title="Waarom wordt mijn computer uitgeschakeld wanneer ik hem dicht doe?">Waarom wordt mijn computer uitgeschakeld wanneer ik hem dicht doe?</a><span class="desc"> — Laptops worden in de pauzestand gezet wanneer ze dicht gedaan worden, om energie te sparen.</span>
+<a href="power-closelid.html" title="Waarom wordt mijn computer uitgeschakeld wanneer ik hem dichtdoe?">Waarom wordt mijn computer uitgeschakeld wanneer ik hem dichtdoe?</a><span class="desc"> — Laptops worden in de pauzestand gezet wanneer ze dicht gedaan worden, om energie te sparen.</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html" title="What happens when I suspend my computer?">What happens when I suspend my computer?</a><span class="desc"> — Suspend sends your computer to sleep so it uses less power.</span>
+<a href="power-suspend.html" title="Wat gebeurt er wanneer ik mijn computer in de pauzestand zet?">Wat gebeurt er wanneer ik mijn computer in de pauzestand zet?</a><span class="desc"> — Dit betekent dat uw computer in pauzestand wordt gezet zodat deze minder stroom verbruikt.</span>
 </li>
 <li class="links ">
-<a href="hardware-driver.html" title="What is a driver?">What is a driver?</a><span class="desc"> — A hardware/device driver allows your computer to use devices that are
-    attached to it.</span>
+<a href="hardware-driver.html" title="Wat is een stuurprogramma?">Wat is een stuurprogramma?</a><span class="desc"> — Een hardware/apparaatstuurprogramma stelt uw computer in staat aangesloten apparaten te gebruiken.</span>
 </li>
 </ul></div>
 </div></div>

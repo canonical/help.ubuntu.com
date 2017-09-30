@@ -49,7 +49,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Poista tili</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can remove an online account which you no longer wish to use.</p>
+<p class="p">Voit poistaa verkkotilin, jota et enää halua käyttää.</p>
 <div class="note note-tip" title="Vinkki"><div class="inner"><div class="region"><div class="contents">
 <p class="p">Many online services provide an authorization token which GNOME stores
     instead of your password. If you remove an account, you should also revoke
@@ -57,16 +57,14 @@
     application or website can connect to that service using the authorization
     for GNOME.</p>
 <p class="p">How to revoke the authorization depends on the service provider. Check
-    your settings on the provider's website for authorized or connected apps
-    or sites. Look for an app called "GNOME" and remove it.</p>
+    your settings on the provider’s website for authorized or connected apps
+    or sites. Look for an app called “GNOME” and remove it.</p>
 </div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
-      start typing <span class="gui">Online Accounts</span>.</p></li>
+<li class="steps"><p class="p">Avaa <span class="gui"><a href="shell-introduction.html#activities" title="Toiminnot-yleisnäkymä">Toiminnot</a></span>-yleisnäkymä ja kirjoita <span class="gui">Verkkotilit</span>.</p></li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Verkkotilit</span>.</p></li>
-<li class="steps"><p class="p">Select the account which you wish to remove.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">-</span> button in the lower-left corner of the
-      window.</p></li>
+<li class="steps"><p class="p">Valitse tili, jonka haluat poistaa.</p></li>
+<li class="steps"><p class="p">Napsauta <span class="gui">-</span> ikkunan vasemmasta alareunasta.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Remove</span> in the confirmation dialog.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Vinkki"><div class="inner"><div class="region"><div class="contents"><p class="p">Instead of deleting the account completely, it is possible to
@@ -79,11 +77,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Verkkotilit">Verkkotilit</a><span class="desc"> — 
-      <span class="link"><a href="accounts-add.html" title="Lisää tili">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html" title="Poista tili">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html" title="Verkkopalvelut ja sovellukset">Learn about services</a></span>…
-    </span>
+<a href="accounts.html" title="Verkkotilit">Verkkotilit</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Lisää tili">Lisää verkkotili</a></span>, <span class="link"><a href="accounts-remove.html" title="Poista tili">Poista tili</a></span>, <span class="link"><a href="accounts-which-application.html" title="Verkkopalvelut ja sovellukset">Lisätietoja palveluista</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

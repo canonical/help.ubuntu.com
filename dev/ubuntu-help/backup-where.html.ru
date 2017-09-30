@@ -49,7 +49,11 @@
 <div class="hgroup"><h1 class="title"><span class="title">Где хранить резервную копию</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Хранить резервные копии нужно отдельно от компьютера, например, на внешнем жёстком диске. Тогда резервная копия останется в сохранности, даже если компьютер выйдет из строя. В целях максимальной безопасности, не стоит хранить резервную копию в том же здании, где находится компьютер, иначе в случае пожара или кражи могут быть утеряны и исходные данные, и их копия.</p>
+<p class="p">You should store backup copies of your files somewhere separate from your
+ computer — on an external hard disk, for example. That way, if the computer
+ breaks, the backup will still be intact. For maximum security, you shouldn’t
+ keep the backup in the same building as your computer. If there is a fire or
+ theft, both copies of the data could be lost if they are kept together.</p>
 <p class="p">Не менее важно выбрать подходящий <span class="em">резервный носитель информации</span>. Он должен обладать достаточной вместимостью, чтобы разместить на нём все скопированные файлы.</p>
 <div class="list"><div class="inner">
 <div class="title title-list"><h2><span class="title">Локальные и удалённые места хранения информации</span></h2></div>

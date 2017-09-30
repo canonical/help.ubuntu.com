@@ -57,10 +57,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Parādīt visas slēptās datnes</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Ja vēlaties redzēt visas slēptās datnes mapē, dodieties uz šo mapi un vai nu spiediet skata opciju pogu rīkjoslā un izvēlieties <span class="gui">Rādīt slēptās datnes</span>, vai nospiediet <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Jūs redzēsiet visas slēptās datnes līdzās parastajām datnēm.</p>
-<p class="p">To hide these files again, either click the
-  
-  view options button in the toolbar and pick <span class="gui">Show Hidden Files</span>, or press
-  <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span> again.</p>
+<p class="p">Lai slēptās datnes atkal padarītu neredzamus, vai nu izvēlieties skata opciju pogu rīkjoslā un izvēlieties <span class="gui">Rādīt slēptās datnes</span>, vai atkal piespiediet <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>.</p>
 </div></div>
 </div></div>
 <div id="unhide" class="sect"><div class="inner">

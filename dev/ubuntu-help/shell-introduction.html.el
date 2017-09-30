@@ -70,7 +70,12 @@
 <p class="p">Στα αριστερά της επισκόπησης, θα βρείτε το <span class="em">ταμπλό</span>. Το ταμπλό σας εμφανίζει τις αγαπημένες και εκτελούμενες εφαρμογές. Κάντε κλικ σε οποιοδήποτε εικονίδιο στο ταμπλό για να ανοίξετε την αντίστοιχη εφαρμογή· εάν η εφαρμογή εκτελείται ήδη, θα επισημανθεί. Πατώντας το εικονίδιο της θα εμφανίσει το πιο πρόσφατα χρησιμοποιούμενο παράθυρο. Μπορείτε επίσης να σύρετε το εικονίδιο στην επισκόπηση, ή σε οποιονδήποτε χώρο εργασίας στα δεξιά.</p>
 <p class="p">Κάνοντας δεξί κλικ στο εικονίδιο εμφανίζεται ένα μενού που επιτρέπει να επιλέξετε οποιοδήποτε παράθυρο σε μια εκτελούμενη εφαρμογή, ή να ανοίξετε ένα νέο παράθυρο. Μπορείτε επίσης να κάντε κλικ στο εικονίδιο ενώ κρατάτε πατημένο το <span class="key"><kbd>Ctrl</kbd></span> για να ανοίξετε ένα νέο παράθυρο.</p>
 <p class="p">Όταν μπαίνετε στην επισκόπηση, αρχικά είσαστε στην επισκόπηση παραθύρων. Εκεί εμφανίζονται ζωντανά όλες οι μικρογραφίες των παραθύρων στον τρέχοντα χώρο εργασίας.</p>
-<p class="p">Κάντε κλικ στο κουμπί πλέγματος στο κάτω μέρος του ταμπλό για να εμφανίσετε την επισκόπηση εφαρμογών. Αυτό εμφανίζει όλες τις εγκατεστημένες εφαρμογές στον υπολογιστή σας. Πατήστε οποιαδήποτε εφαρμογή για να την εκτελέσετε, ή σύρετε μια εφαρμογή στην επισκόπηση ή σε μια μικρογραφία ενός χώρου εργασίας. Μπορείτε επίσης να σύρετε μια εφαρμογή στο ταμπλό για να το κάνετε αγαπημένο. Οι αγαπημένες σας εφαρμογές μένουν στο ταμπλό ακόμα κι όταν δεν εκτελούνται, έτσι μπορείτε να τις προσπελάσετε γρήγορα.</p>
+<p class="p">Click the grid button at the bottom of the dash to display the
+  applications overview. This shows you all the applications installed on your
+  computer. Click any application to run it, or drag an application to the
+  overview or onto a workspace thumbnail. You can also drag an application onto
+  the dash to make it a favorite. Your favorite applications stay in the dash
+  even when they’re not running, so you can access them quickly.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
 <li class="list"><p class="p"><span class="link"><a href="shell-apps-open.html" title="Εκκίνηση εφαρμογών">Μάθετε περισσότερα για την εκκίνηση εφαρμογών.</a></span></p></li>
 <li class="list"><p class="p"><span class="link"><a href="shell-windows.html" title="Παράθυρα και χώροι εργασίας">Μάθετε περισσότερα για τα παράθυρα και τους χώρους εργασίας.</a></span></p></li>
@@ -114,7 +119,11 @@
 <div class="hgroup"><h2 class="title"><span class="title">Κλείδωμα οθόνης</span></h2></div>
 <div class="region"><div class="contents">
 <div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-lock.png" width="250" class="media media-block" alt="Κλείδωμα οθόνης"></div></div>
-<p class="p">Όταν κλειδώσετε την οθόνη σας, ή κλειδώσει αυτόματα, εμφανίζεται η οθόνη κλειδώματος. Πέρα από την προστασία της επιφάνειας εργασίας σας ενώ είσαστε μακριά από τον υπολογιστή σας, η οθόνη κλειδώματος εμφανίζει την ημερομηνία και την ώρα. Επίσης εμφανίζει πληροφορίες για τη μπαταρία και την κατάσταση του δικτύου και σας επιτρέπει να ελέγξετε την αναπαραγωγή πολυμέσων.</p>
+<p class="p">When you lock your screen, or it locks automatically, the lock screen is
+  displayed. In addition to protecting your desktop while you’re away from your
+  computer, the lock screen displays the date and time. It also shows
+  information about your battery and network status, and allows you to control
+  media playback.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-lockscreen.html" title="Κλείδωμα της οθόνης">Μάθετε περισσότερα για το κλείδωμα της οθόνης.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></div>

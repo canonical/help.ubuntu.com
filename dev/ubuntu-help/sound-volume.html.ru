@@ -53,9 +53,12 @@
   menu</a></span> from the right side of the top bar and move the volume slider left
   or right. You can completely turn off sound by dragging the slider to the
   left.</p>
-<p class="p">На некоторых клавиатурах есть клавиши для управления громкостью. Обычно на них изображены стилизованные динамики с исходящими из них «волнами». Часто эти клавиши находятся вверху рядом с функциональными клавишами, а на клавиатурах ноутбуков эту функцию обычно выполняют сами функциональные клавиши. Нажмите и удерживайте <span class="key"><kbd class="key-Fn">Fn</kbd></span> на клавиатуре для их использования.</p>
+<p class="p">Some keyboards have keys that let you control the volume. They normally
+  look like stylized speakers with waves coming out of them. They are often
+  near the “F” keys at the top. On laptop keyboards, they are usually on the
+  “F” keys.  Hold down the <span class="key"><kbd class="key-Fn">Fn</kbd></span> key on your keyboard to use them.</p>
 <p class="p">If you have external speakers, you can also change the volume
-  using the speakers' volume control. Some headphones have a
+  using the speakers’ volume control. Some headphones have a
   volume control too.</p>
 </div>
 <div id="apps" class="sect"><div class="inner">

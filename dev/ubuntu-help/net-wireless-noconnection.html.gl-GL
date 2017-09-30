@@ -2,7 +2,7 @@
 <html lang=gl-GL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Escribín o contrasinal correcto, pero sigo sen poder conectarme.</title>
+<title>I’ve entered the correct password, but I still can’t connect</title>
 <link rel="stylesheet" type="text/css" href="gl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,30 +46,30 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="Redes sen fíos">Redes sen fíos</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Escribín o contrasinal correcto, pero sigo sen poder conectarme.</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">I’ve entered the correct password, but I still can’t connect</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Se está seguro que escribiu correctamente o <span class="link"><a href="net-wireless-wepwpa.html" title="Que significa WEP e WPA?">contrasinal da rede sen fíos</a></span> pero aínda así non pode conectarse con éxito á rede sen fíos, tente o seguinte:</p>
+<p class="p">If you’re sure that you entered the correct <span class="link"><a href="net-wireless-wepwpa.html" title="Que significa WEP e WPA?">wireless password</a></span> but you still can’t successfully connect to a wireless network, try some of the following:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
 <p class="p">Double-check that you have the correct password</p>
-<p class="p">Os contrasinais son sensíbeis a capitalización (quere dicir que distinguen entre maiúsculas e minúsculas), de tal forma que se non usou unha maiúscula onde debería facelo, unha das letras é incorrecta.</p>
+<p class="p">Passwords are case-sensitive (it matters whether they have capital or lower-case letters), so check that you didn’t get the case of one of the letters wrong.</p>
 </li>
 <li class="list">
 <p class="p">Tente a chave hexadecimal ou ASCII.</p>
-<p class="p">O contrasinal que escribiu tamén pode representarse dunha forma distinta - como unha cadea de caracteres en hexadecimal (números 0-9 e letras a-f) chamado a chave de paso. Cada contrasinal ten unha frase de paso equivalente. Se ten acceso á súa frase de paso así como do contrasinal, tente escribir a frase de paso no lugar. Asegúrese de que selecciona a correcta <span class="gui">seguranza sen fíos</span> cando se lle pregunte polo seu contrasinal (por exemplo, seleccione <span class="gui">chave WEP 40/128-bit</span> se está escribindo unha chave de paso de 40 caracteres para unha conexión cifrada por WEP).</p>
+<p class="p">The password you enter can also be represented in a different way — as a string of characters in hexadecimal (numbers 0-9 and letters a-f) called a pass key. Each password has an equivalent pass key. If you have access to the pass key as well as the password/passphrase, try typing the pass key instead. Make sure you select the correct <span class="gui">wireless security</span> option when asked for your password (for example, select <span class="gui">WEP 40/128-bit Key</span> if you’re typing the 40-character pass key for a WEP-encrypted connection).</p>
 </li>
 <li class="list">
 <p class="p">Tente apagar a súa tarxeta sen fíos e volvela a acender</p>
-<p class="p">Algunhas tarxetas de rede bloquéanse ou experimentan un problema menor o que significa que non se conectan. Tente apagar a tarxeta e logo acéndaa de novo para reiniciala - vexa <span class="link"><a href="net-wireless-troubleshooting.html" title="Resolución de problemas en redes sen fíos">Resolución de problemas en redes sen fíos</a></span> para obter máis información.</p>
+<p class="p">Sometimes wireless cards get stuck or experience a minor problem that means they won’t connect. Try turning the card off and then on again to reset it — see <span class="link"><a href="net-wireless-troubleshooting.html" title="Resolución de problemas en redes sen fíos">Resolución de problemas en redes sen fíos</a></span> for more information.</p>
 </li>
 <li class="list">
-<p class="p">Check that you're using the correct type of wireless security</p>
-<p class="p">Cando se lle pregunte polo contrasinal de seguranza da rede, pode escoller o tipo de seguranza sen fíos a usar. Asegúrese que seleccionou o que usar o enrutador ou a estación base sen fíos. Isto debería seleccionarse por omisión, pero a veces poida que non sexa así por calquera razón. Se non sabe cal escoller, use a proba e erro con todas as opcións.</p>
+<p class="p">Check that you’re using the correct type of wireless security</p>
+<p class="p">When prompted for your wireless security password, you can choose which type of wireless security to use. Make sure you choose the one that is used by the router or wireless base station. This should be selected by default, but sometimes it will not be for some reason. If you don’t know which one it is, use trial and error to go through the different options.</p>
 </li>
 <li class="list">
 <p class="p">Comprobe que a súa tarxeta sen fíos é completamente compatíbel</p>
-<p class="p">Algunhas tarxetas de rede sen fíos non son compatíbeis de todo. Mostran unha conexión sen fíos, pero non poden conectarse á rede porque os seus controladores non poden facelo. Vexa se pode obter un controlador sen fíos alternativo, ou se precisa levar a cabo algunha configuración adicional (como instalar un <span class="em">firmware</span> diferente). Vexa <span class="link"><a href="net-wireless-troubleshooting.html" title="Resolución de problemas en redes sen fíos">Resolución de problemas en redes sen fíos</a></span> para obter máis información.</p>
+<p class="p">Some wireless cards aren’t supported very well. They show up as a wireless connection, but they can’t connect to a network because their drivers lack the ability to do this. See if you can get an alternative wireless driver, or if you need to perform some extra set-up (like installing a different <span class="em">firmware</span>). See <span class="link"><a href="net-wireless-troubleshooting.html" title="Resolución de problemas en redes sen fíos">Resolución de problemas en redes sen fíos</a></span> for more information.</p>
 </li>
 </ul></div></div></div>
 </div>

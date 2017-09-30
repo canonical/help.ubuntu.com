@@ -55,10 +55,10 @@
   left.</p>
 <p class="p">Some keyboards have keys that let you control the volume. They normally
   look like stylized speakers with waves coming out of them. They are often
-  near the "F" keys at the top. On laptop keyboards, they are usually on the
-  "F" keys.  Hold down the <span class="key"><kbd class="key-Fn">Fn</kbd></span> key on your keyboard to use them.</p>
+  near the “F” keys at the top. On laptop keyboards, they are usually on the
+  “F” keys.  Hold down the <span class="key"><kbd class="key-Fn">Fn</kbd></span> key on your keyboard to use them.</p>
 <p class="p">If you have external speakers, you can also change the volume
-  using the speakers' volume control. Some headphones have a
+  using the speakers’ volume control. Some headphones have a
   volume control too.</p>
 </div>
 <div id="apps" class="sect"><div class="inner">
@@ -71,8 +71,7 @@
 <p class="p">Some applications have volume controls in their main windows. If your
   application has its volume control, use that to change the volume. If not:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span>
-      overview and start typing <span class="gui">Sound</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Suara</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Suara</span> untuk membuka panel.</p></li>
 <li class="steps">
 <p class="p">Go to the <span class="gui">Applications</span> tab and change the volume of the

@@ -82,7 +82,7 @@
 <div id="types" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Servertypen</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Sie können sich mit verschiedenen Arten von Servern verbinden. Manche Server sind öffentlich und erlauben es jedem, sich zu verbinden. Bei anderen Servern müssen Sie sich mit Namen und Passwort anmelden. </p>
+<p class="p">Sie können sich mit verschiedenen Arten von Servern verbinden. Manche Server sind öffentlich und erlauben es jedem, sich zu verbinden. Bei anderen Servern müssen Sie sich mit Namen und Passwort anmelden.</p>
 <p class="p">Sie haben möglicherweise nicht die erforderlichen Rechte, um alles mit den Dateien auf einem Server tun zu dürfen. Zum Beispiel werden Sie auf öffentlichen FTP-Servern wahrscheinlich keine Dateien löschen können.</p>
 <p class="p">Die Adresse, welche Sie eingeben, hängt von dem Protokoll ab, welches der Server zum Exportieren seiner Dateifreigaben verwendet.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">

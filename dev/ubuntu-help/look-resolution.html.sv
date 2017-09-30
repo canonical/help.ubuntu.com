@@ -55,7 +55,7 @@
 <li class="steps"><p class="p">Klicka på <span class="gui">Skärmar</span> för att öppna panelen.</p></li>
 <li class="steps"><p class="p">Om du har flera skärmar och de inte är speglade kan du ha olika inställningar på varje skärm. Välj en skärm i förhandsvisningsområdet.</p></li>
 <li class="steps"><p class="p">Välj upplösning och rotation.</p></li>
-<li class="steps"><p class="p">Klicka på <span class="gui">Verkställ</span>. De nya inställningarna kommer att användas i 20 sekunder innan de återgår. På detta sättet kommer dina gamla inställningar att återställas om du inte ser något med de nya inställningarna. Om du är nöjd med de nya inställningarna klicka på <span class="gui">Behåll ändringar</span>.</p></li>
+<li class="steps"><p class="p">Klicka på <span class="gui">Verkställ</span>. De nya inställningarna kommer att användas i 20 sekunder innan de återgår. På detta sätt kommer dina gamla inställningar att återställas om du inte ser något med de nya inställningarna. Om du är nöjd med de nya inställningarna klicka på <span class="gui">Behåll ändringar</span>.</p></li>
 </ol></div></div></div>
 </div>
 <div id="resolution" class="sect"><div class="inner">

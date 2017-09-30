@@ -66,7 +66,13 @@
 </div></div>
 <div id="beeps" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">计算机报警然后关闭</span></h2></div>
-<div class="region"><div class="contents"><p class="p">如果在开机的时候多次报警，然后自动关闭(或启动失败)，可能是检测到了一个错误。这些报警响铃次数有一个<span class="em">报警声代码</span>，不同的次数代表不同的错误。不同的主板有各自的响铃代码，因此，您得查询自己机子主板的代码，或者送去维修。</p></div></div>
+<div class="region"><div class="contents"><p class="p">If the computer beeps several times when you turn it on and then turns off
+  (or fails to start), it may be indicating that it has detected a problem.
+  These beeps are sometimes referred to as <span class="em">beep codes</span>, and the pattern
+  of beeps is intended to tell you what the problem with the computer is.
+  Different manufacturers use different beep codes, so you will have to consult
+  the manual for your computer’s motherboard, or take your computer in for
+  repairs.</p></div></div>
 </div></div>
 <div id="fans" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">计算机风扇在转，但是屏幕上无显示</span></h2></div>

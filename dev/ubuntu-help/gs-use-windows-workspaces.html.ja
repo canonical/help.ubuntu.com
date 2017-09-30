@@ -56,13 +56,17 @@
 <a href="#" class="ui-overlay-close" title="閉じる">⨯</a><div class="contents"><div class="media media-video"><div class="inner">
 <video src="figures/gnome-windows-and-workspaces.webm" preload="auto" controls="controls" class="media media-block" height="394" width="700" data-play-label="再生" data-pause-label="一時停止"></video><div class="media-ttml">
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="1" data-ttml-end="5"><div class="media-ttml-node media-ttml-p" data-ttml-begin="1" data-ttml-end="5">ウィンドウとワークスペース</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="6" data-ttml-end="10"><div class="media-ttml-node media-ttml-p" data-ttml-begin="6" data-ttml-end="10">ウィンドウを最大化するには、ウィンドウのタイトルバーをつかんで画面の上端までドラッグします。</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="6" data-ttml-end="10"><div class="media-ttml-node media-ttml-p" data-ttml-begin="6" data-ttml-end="10">To maximize a window, grab the window’s titlebar and drag it to
+            the top of the screen.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="10" data-ttml-end="13"><div class="media-ttml-node media-ttml-p" data-ttml-begin="10" data-ttml-end="13">画面がハイライト表示されたら、ウィンドウを離します。</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="14" data-ttml-end="20"><div class="media-ttml-node media-ttml-p" data-ttml-begin="14" data-ttml-end="20">ウィンドウを元のサイズに戻すには、ウィンドウのタイトルバーをつかみ、ドラッグして画面の上端から引き離します。</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="14" data-ttml-end="20"><div class="media-ttml-node media-ttml-p" data-ttml-begin="14" data-ttml-end="20">To unmaximize a window, grab the window’s titlebar and drag it
+            away from the edges of the screen.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="25" data-ttml-end="29"><div class="media-ttml-node media-ttml-p" data-ttml-begin="25" data-ttml-end="29">トップバーをつかみ、ウィンドウを引き離して元のサイズに戻すこともできます。</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="34" data-ttml-end="38"><div class="media-ttml-node media-ttml-p" data-ttml-begin="34" data-ttml-end="38">ウィンドウを画面左半分に最大化するには、ウィンドウのタイトルバーをつかんで左端までドラッグします。</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="34" data-ttml-end="38"><div class="media-ttml-node media-ttml-p" data-ttml-begin="34" data-ttml-end="38">To maximize a window along the left side of the screen, grab
+            the window’s titlebar and drag it to the left.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="38" data-ttml-end="40"><div class="media-ttml-node media-ttml-p" data-ttml-begin="38" data-ttml-end="40">画面半分がハイライト表示されたら、ウィンドウを離します。</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="41" data-ttml-end="44"><div class="media-ttml-node media-ttml-p" data-ttml-begin="41" data-ttml-end="44">ウィンドウを画面右半分に最大化するには、ウィンドウのタイトルバーをつかんで右端までドラッグします。</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="41" data-ttml-end="44"><div class="media-ttml-node media-ttml-p" data-ttml-begin="41" data-ttml-end="44">To maximize a window along the right side of the screen, grab
+            the window’s titlebar and drag it to the right.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="44" data-ttml-end="48"><div class="media-ttml-node media-ttml-p" data-ttml-begin="44" data-ttml-end="48">画面半分がハイライト表示されたら、ウィンドウを離します。</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="54" data-ttml-end="60"><div class="media-ttml-node media-ttml-p" data-ttml-begin="54" data-ttml-end="60">キーボードを使ってウィンドウを最大化するには、<span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> キーを押しながら、<span class="key"><kbd>↑</kbd></span> キーを押します。</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="61" data-ttml-end="66"><div class="media-ttml-node media-ttml-p" data-ttml-begin="61" data-ttml-end="66">キーボードを使ってウィンドウを元のサイズに戻すには、<span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> キーを押しながら、<span class="key"><kbd>↓</kbd></span> キーを押します。</div></div>
@@ -79,9 +83,12 @@
 <div class="region"><div class="contents">
 <p class="p"></p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">ウィンドウを最大化してデスクトップ全体に表示するには、ウィンドウのタイトルバーをつかんで画面の上端までドラッグします。</p></li>
+<li class="steps"><p class="p">To maximize a window so that it takes up all of the space on
+       your desktop, grab the window’s titlebar and drag it to the top of the
+       screen.</p></li>
 <li class="steps"><p class="p">画面がハイライト表示されたら、ウィンドウを離すと最大化します。</p></li>
-<li class="steps"><p class="p">ウィンドウを元のサイズに戻すには、ウィンドウのタイトルバーをつかみ、ドラッグして画面の上端から引き離します。</p></li>
+<li class="steps"><p class="p">To restore a window to its unmaximized size, grab the window’s
+       titlebar and drag it away from the edges of the screen.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -90,7 +97,8 @@
 <div class="region"><div class="contents">
 <p class="p"></p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">ウィンドウを画面の片側半分に最大化するには、ウィンドウのタイトルバーをつかんで画面の左右どちらかの端までドラッグします。</p></li>
+<li class="steps"><p class="p">To maximize a window along a side of the screen, grab the window’s
+       titlebar and drag it to the left or right side of the screen.</p></li>
 <li class="steps"><p class="p">画面半分がハイライト表示されたら、ウィンドウを離すと、ドラッグした側半分に最大化します。</p></li>
 <li class="steps"><p class="p">ふたつのウィンドウを左右片側ずつに最大化するには、ふたつ目のウィンドウのタイトルバーをつかんで反対側の端までドラッグします。</p></li>
 <li class="steps"><p class="p">画面半分がハイライト表示されたら、ウィンドウを離すと、ドラッグした側半分に最大化します。</p></li>

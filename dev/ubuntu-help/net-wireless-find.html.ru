@@ -2,7 +2,7 @@
 <html lang=ru>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Моей беспроводной сети нет в списке</title>
+<title>I can’t see my wireless network in the list</title>
 <link rel="stylesheet" type="text/css" href="ru.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -50,7 +50,7 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Моей беспроводной сети нет в списке</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">I can’t see my wireless network in the list</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">There are a number of reasons why you might not be able to see your
@@ -76,7 +76,7 @@
     </span>
 </li>
 <li class="links ">
-<a href="net-problem.html" title="Проблемы с сетью">Проблемы с сетью</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Устранение неполадок с беспроводной сетью">Проблемы с беспроводными соединениями</a></span>, <span class="link"><a href="net-wireless-find.html" title="Моей беспроводной сети нет в списке">поиск сети wifi</a></span>…</span>
+<a href="net-problem.html" title="Проблемы с сетью">Проблемы с сетью</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Устранение неполадок с беспроводной сетью">Проблемы с беспроводными соединениями</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">поиск сети wifi</a></span>…</span>
 </li>
 </ul></div>
 </div></div>

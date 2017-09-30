@@ -50,8 +50,11 @@
 <div class="region">
 <div class="contents">
 <p class="p">Včasih tiskalnik nepravilno poda liste papirja, ki se zato zataknejo.</p>
-<p class="p">Priročnik za vaš tiskalnik bo ponavadi zagotovil podrobna navodila kako odpraviti zastoje papirja. Običajno morate odpreti eno od tiskalnikovih stranic, kar vam omogoča dostop do zastoja znotraj in nato trdno (a previdno!) potegniti zataknjen papir ven iz tiskalnikovega mehanizma podajanja.</p>
-<p class="p">Once the jam has been cleared you may need to press the printer's
+<p class="p">The manual for your printer will usually provide detailed instructions on
+  how to clear paper jams. Usually, you will need to open one of the printer’s
+  panels to find the jam inside and then firmly (but carefully!) pull the
+  jammed paper out of the printer’s feeding mechanism.</p>
+<p class="p">Once the jam has been cleared you may need to press the printer’s
   <span class="em">resume</span> button to start printing again. With some printers, you may
   even need to turn the printer off and then on again, and then start the print
   job again.</p>

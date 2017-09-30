@@ -54,7 +54,7 @@
 <li class="list"><p class="p">namnet på den inloggade användaren</p></li>
 <li class="list"><p class="p">datum och tid, och vissa aviseringar</p></li>
 <li class="list"><p class="p">batteri- och nätverksstatus</p></li>
-<li class="list"><p class="p">möjligheten att kontrollera media uppspelning - ändra volymen, hoppa över ett spår eller pausa din musik utan att behöva skriva ett lösenord</p></li>
+<li class="list"><p class="p">möjligheten att kontrollera mediauppspelning — ändra volymen, hoppa över ett spår eller pausa din musik utan att behöva skriva ett lösenord</p></li>
 </ul></div></div></div>
 <p class="p">För att låsa upp din dator, höj låsskärmsgardinen genom att dra den uppåt med markören eller genom att trycka på <span class="key"><kbd>Esc</kbd></span> eller <span class="key"><kbd>Retur</kbd></span>. Detta kommer att visa inloggningsskärmen där du kan mata in ditt lösenord för att låsa upp. Alternativt kan du bara börja skriva ditt lösenord så kommer gardinen automatiskt att höja medan du skriver. Du kan också växla användare om din dator är konfigurerad för mer än en.</p>
 </div>

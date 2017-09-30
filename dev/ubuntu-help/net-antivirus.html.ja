@@ -50,13 +50,14 @@
 <div class="region">
 <div class="contents">
 <p class="p">Windows や Mac OS を使用していたユーザーの場合、ウイルス除去ソフトウェアを常に実行していたと思います。ウイルス除去ソフトウェアはバックグラウンドで動作し、ユーザーのコンピューターで問題を引き起こすウイルスがいないかどうかを定期的にチェックします。</p>
-<p class="p">Anti-virus software does exist for Linux, but you probably don't need to
+<p class="p">Anti-virus software does exist for Linux, but you probably don’t need to
   use it. Viruses that affect Linux are still very rare. Some argue that this
   is because Linux is not as widely used as other operating systems, so no one
   writes viruses for it. Others argue that Linux is intrinsically more secure,
   and security problems that viruses could make use of are fixed very
   quickly.</p>
-<p class="p">いずれにしても、 Linux に影響を及ぼすウイルスは非常にまれなため、現時点では心配する必要はありません。</p>
+<p class="p">Whatever the reason, Linux viruses are so rare that you don’t really need
+  to worry about them at the moment.</p>
 <p class="p">確実に防御したい、Windows や Mac OS ユーザーとの間でやりとりするファイルのウイルスをチェックしたいなどの場合には、ウイルス除去ソフトウェアをインストールすることができます。ソフトウェアインストーラーをチェックインするか、利用できるアプリケーションがいくつかあるのでオンラインで検索してください。</p>
 </div>
 <div class="sect sect-links" role="navigation">

@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>The laptop fan is always running</title>
+<title>De ventilator van de laptop staat altijd aan</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,17 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Common problems">Problems</a> » <a class="trail" href="power.html#problems" title="Problemen">Power problems</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="power.html#problems" title="Problemen">Stroomproblemen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">The laptop fan is always running</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">De ventilator van de laptop staat altijd aan</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If cooling fan in your laptop is always running, it could be that the
-hardware that controls the cooling system in the laptop is not very well
-supported in Linux. Some laptops need extra software to control their cooling
-fans efficiently, but this software may not be installed (or available for
-Linux at all) and so the fans just run at full speed all of the time.</p>
+<p class="p">Als de ventilator van uw laptop blijft draaien, kan het zijn dat de hardware die het koelsysteem van de laptop regelt niet goed wordt ondersteund in Linux. Sommige laptops hebben extra software nodig om op een efficiënte manier de koelventilatoren te besturen, maar misschien is deze software niet geïnstalleerd (of helemaal niet beschikbaar voor Linux) waardoor de ventilator continu op volle snelheid draait.</p>
 <p class="p">Als dit het geval is, kunt u mogelijk enkele instellingen wijzigen of extra software installeren waarmee de ventilator volledig aangestuurd wordt. U kunt bijvoorbeeld <span class="link"><a href="http://vaio-utils.org/fan/" title="http://vaio-utils.org/fan/">vaiofand</a></span> installeren om de ventilator van bepaalde Sony VAIO laptops aan te sturen. Het installeren van deze software is een vrij technisch proces dat sterk afhankelijk is van het merk en model van uw laptop, dus zult u misschien op zoek willen gaan naar gericht advies over hoe dit voor uw computer te doen.</p>
 <p class="p">Het is ook mogelijk dat uw laptop gewoon veel warmte produceert. Dit hoeft niet te betekenen dat hij oververhit is; het kan zijn dat de ventilator continue op volle snelheid moet draaien om koel genoeg te blijven. Als dit het geval is, kunt u niets anders doen dan de ventilator continue op volle snelheid te laten draaien. Soms kunt u aanvullende koelaccessoires kopen voor uw laptop die hulp kunnen bieden.</p>
 </div>
@@ -62,7 +58,7 @@ Linux at all) and so the fans just run at full speed all of the time.</p>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html#problems" title="Problemen">Power problems</a><span class="desc"> — Troubleshoot problems with power and batteries.</span>
+<a href="power.html#problems" title="Problemen">Stroomproblemen</a><span class="desc"> — Problemen met stroom en accu's oplossen.</span>
 </li></ul></div>
 </div></div></div>
 </div>

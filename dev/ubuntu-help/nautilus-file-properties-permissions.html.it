@@ -55,9 +55,19 @@
 <div id="files" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">File</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">I permessi sui file possono essere impostati per il proprietario del file, il gruppo e per tutti gli altri utenti del sistema. Per i file nella propria cartella personale, di cui si è i proprietari, è possibile impostare permessi di sola lettura o di lettura e scrittura. Impostare un file in sola lettura per non correre il rischio di modificarlo per sbaglio.</p>
-<p class="p">Ogni utente all'interno del computer appartiene a un gruppo. Su computer domestici solitamente ogni utente dispone di un proprio gruppo e questo tipo di permesso non viene molto usato. In ambienti aziendali, invece, i gruppi possono essere usati per distinguere dipartimenti o progetti. Oltre ad avere un proprietario, ogni file appartiene anche a un gruppo, in moda da poter associare un file a un gruppo e controllare i permessi per tutti gli utenti che ne fanno parte. Per associare un gruppo a un file, è necessario far parte del gruppo.</p>
-<p class="p">I permessi possono essere impostati anche per gli utenti diversi dal proprietario e per quelli appartenenti al gruppo del file.</p>
+<p class="p">You can set the permissions for the file owner, the group owner,
+    and all other users of the system. For your files, you are the owner,
+    and you can give yourself read-only or read-and-write permission.
+    Set a file to read-only if you don’t want to accidentally change it.</p>
+<p class="p">Every user on your computer belongs to a group. On home computers,
+    it is common for each user to have their own group, and group permissions
+    are not often used. In corporate environments, groups are sometimes used
+    for departments or projects. As well as having an owner, each file belongs
+    to a group. You can set the file’s group and control the permissions for
+    all users in that group. You can only set the file’s group to a group you
+    belong to.</p>
+<p class="p">You can also set the permissions for users other than the owner and
+    those in the file’s group.</p>
 <p class="p">Se un file è un programma, come per esempio uno script, è necessario selezionare <span class="gui">Consentire l'esecuzione del file come programma</span> per poterlo eseguire. Anche con quest'opzione selezionata, il gestore di file potrebbe comunque aprire il file usando un'altra applicazione oppure chiedere cosa fare. Per maggiori informazioni, consultare <span class="link"><a href="nautilus-behavior.html#executable" title="File di testo eseguibili">File di testo eseguibili</a></span>.</p>
 </div></div>
 </div></div>

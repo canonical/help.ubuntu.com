@@ -71,7 +71,9 @@
 </div></div>
 </div></div>
 <p class="p">Используйте ползунок <span class="gui">Задержка принятия</span> для настройки времени, в течение которого нужно удерживать клавишу для регистрации её нажатия.</p>
-<p class="p">Можно сделать так, чтобы компьютер подавал звуковой сигнал при нажатии клавиши, когда нажатие принято, или если нажатие проигнорировано из за того, что клавиша удерживалась нажатой недостаточно долго.</p>
+<p class="p">You can have your computer make a sound when you press a key, when a key
+  press is accepted, or when a key press is rejected because you didn’t hold
+  the key down long enough.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -79,7 +81,7 @@
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard.html" title="Клавиатура">Клавиатура</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Раскладки клавиатуры</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Как сделать клавиатурный курсор мигающим?">мигание курсора</a></span>, <span class="link"><a href="a11y.html#mobility" title="Ограничения подвижности">специальные возможности клавиатуры</a></span>…</span>
+<a href="keyboard.html" title="Клавиатура">Клавиатура</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Использование альтернативных раскладок клавиатуры">Раскладки клавиатуры</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Как сделать клавиатурный курсор мигающим?">мигание курсора</a></span>, <span class="link"><a href="a11y.html#mobility" title="Ограничения подвижности">специальные возможности клавиатуры</a></span>…</span>
 </li>
 <li class="links "><a href="a11y.html#mobility" title="Ограничения подвижности">Ограничения подвижности</a></li>
 </ul></div>

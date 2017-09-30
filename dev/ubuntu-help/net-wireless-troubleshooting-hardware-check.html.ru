@@ -85,7 +85,11 @@
 <p class="p">Взгляните, содержатся ли в отображённом списке устройства, помеченные как <span class="code">Network controller</span> или <span class="code">Ethernet controller</span>. Эти надписи могут соответствовать нескольким типам устройств; те, которые соответствуют беспроводным адаптерам, могут содержать слова типа <span class="code">wireless</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> или <span class="code">802.11</span>. Вот пример подобной строки:</p>
 <div class="code"><pre class="contents ">Network controller: Intel Corporation PRO/Wireless 3945ABG [Golan] Network Connection</pre></div>
 </li>
-<li class="steps"><p class="p">Если ваш беспроводной адаптер присутствует в списке, переходите к шагу <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Устранение неполадок с беспроводной сетью">Драйверы устройства</a></span>. Если информация о беспроводном адаптере отсутствует, см. <span class="link"><a href="#not-recognized" title="Беспроводной адаптер не распознан">инструкции ниже</a></span>.</p></li>
+<li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
+      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Устранение неполадок с беспроводной сетью">Device Drivers
+      step</a></span>. If you didn’t find anything related to your wireless
+      adapter, see
+      <span class="link"><a href="#not-recognized" title="Беспроводной адаптер не распознан">the instructions below</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -99,7 +103,11 @@
 <p class="p">Просмотрите показанный список устройств и найдите информацию, которая может относиться к беспроводным или сетевым устройствам. Информация о беспроводном адаптере может содержать слова типа <span class="code">wireless</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> или <span class="code">802.11</span>. Вот пример подобной записи:</p>
 <div class="code"><pre class="contents ">Bus 005 Device 009: ID 12d1:140b Huawei Technologies Co., Ltd. EC1260 Wireless Data Modem HSD USB Card</pre></div>
 </li>
-<li class="steps"><p class="p">Если ваш беспроводной адаптер присутствует в списке, переходите к шагу <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Устранение неполадок с беспроводной сетью">Драйверы устройства</a></span>. Если информация о беспроводном адаптере отсутствует, см. <span class="link"><a href="#not-recognized" title="Беспроводной адаптер не распознан">инструкции ниже</a></span>.</p></li>
+<li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
+      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Устранение неполадок с беспроводной сетью">Device Drivers
+      step</a></span>. If you didn’t find anything related to your wireless
+      adapter, see
+      <span class="link"><a href="#not-recognized" title="Беспроводной адаптер не распознан">the instructions below</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -112,11 +120,17 @@
 <li class="steps">
 <p class="p">Откройте Терминал и введите следующее, затем нажмите <span class="key"><kbd>Enter</kbd></span>:</p>
 <div class="code"><pre class="contents ">tail -f /var/log/messages</pre></div>
-<p class="p">Эта команда выведет список сообщений, связанных с аппаратным обеспечением вашего компьютера, и будет автоматически обновлять его при каких-либо изменениях устройств.</p>
+<p class="p">This will display a list of messages related to your computer’s
+      hardware, and will automatically update if anything to do with your
+      hardware changes.</p>
 </li>
 <li class="steps"><p class="p">Вставьте беспроводной адаптер в гнездо PCMCIA и посмотрите, что изменилось в окне терминала. Изменения должны включать в себя некоторые сведения о вашем беспроводном адаптере. Посмотрите, сможете ли вы его идентифицировать.</p></li>
 <li class="steps"><p class="p">Чтобы остановить команду, запущенную из терминала, нажмите <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span>. После этого можно закрыть терминал.</p></li>
-<li class="steps"><p class="p">Если вы обнаружили информацию о своём беспроводном адаптере, переходите к шагу <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Устранение неполадок с беспроводной сетью">Драйверы устройства</a></span>. В противном случае см. <span class="link"><a href="#not-recognized" title="Беспроводной адаптер не распознан">инструкции ниже</a></span>.</p></li>
+<li class="steps"><p class="p">If you found any information about your wireless adapter, proceed to
+      the <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Устранение неполадок с беспроводной сетью">Device
+      Drivers step</a></span>. If you didn’t find anything related to your wireless
+      adapter, see <span class="link"><a href="#not-recognized" title="Беспроводной адаптер не распознан">the instructions
+      below</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -127,7 +141,9 @@
   properly or the correct drivers may not be installed for it. How you check to
   see if there are any drivers you can install will depend on which Linux
   distribution you are using (like Ubuntu, Arch, Fedora or openSUSE).</p>
-<p class="p">Чтобы получить помощь, посмотрите, какие варианты поддержки доступны на веб-сайте вашего дистрибутива. Это могут быть, например, почтовые рассылки или веб-чаты, в которых вы можете задать вопрос о своём беспроводном адаптере.</p>
+<p class="p">To get specific help, look at the support options on your distribution’s
+  website. These might include mailing lists and web chats where you can ask
+  about your wireless adapter, for example.</p>
 </div></div>
 </div></div>
 <div class="links nextlinks">

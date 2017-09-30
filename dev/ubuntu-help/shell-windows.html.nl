@@ -43,33 +43,27 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Desktop</a> › <a class="trail" href="shell-overview.html#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Vensters en werkbladen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Like other desktops, GNOME uses windows to display your running
-  applications. Using both the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span>
-  overview and the <span class="em">dash</span>, you can launch new applications and control
-  active windows.</p>
-<p class="p">You can also group your applications together within workspaces. Visit the
-  window and workspace help topics below to better learn how to use these
-  features.</p>
+<p class="p">Net als bij andere bureaubladen gebruikt Gnome vensters om uw geopende toepassingen weer te geven. U kunt zowel via het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht als de <span class="em">starter</span> nieuwe toepassingen starten en actieve vensters beheren.</p>
+<p class="p">U kunt ook uw toepassingen groeperen binnen werkbladen. Bekijk de venster- en werkblad-documentatie hieronder om te leren hoe u deze functies kunt gebruiken.</p>
 </div>
 <div id="working-with-windows" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Werken met vensters</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-lost.html" title="Find a lost window"><span class="title">Find a lost window</span><span class="linkdiv-dash"> — </span><span class="desc">Check the <span class="gui">Activities</span> overview or other workspaces.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-maximize.html" title="Maximize and unmaximize a window"><span class="title">Maximize and unmaximize a window</span><span class="linkdiv-dash"> — </span><span class="desc">Double-click or drag a titlebar to maximize or restore a
-    window.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-states.html" title="Move and resize windows"><span class="title">Move and resize windows</span><span class="linkdiv-dash"> — </span><span class="desc">Arrange windows in a workspace to help you work more
-    efficiently.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-maximize.html" title="Een venster maximaliseren en weer herstellen"><span class="title">Een venster maximaliseren en weer herstellen</span><span class="linkdiv-dash"> — </span><span class="desc">Dubbelklik op de titelbalk of versleep deze om een venster te maximaliseren of te herstellen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html" title="Schakelen tussen vensters"><span class="title">Schakelen tussen vensters</span><span class="linkdiv-dash"> — </span><span class="desc">Press <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-tiled.html" title="Vensters tegelen"><span class="title">Vensters tegelen</span><span class="linkdiv-dash"> — </span><span class="desc">Twee vensters naast elkaar maximaliseren.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html" title="Schakelen tussen vensters"><span class="title">Schakelen tussen vensters</span><span class="linkdiv-dash"> — </span><span class="desc">Press <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-tiled.html" title="Tile windows"><span class="title">Tile windows</span><span class="linkdiv-dash"> — </span><span class="desc">Maximize two windows side-by-side.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-states.html" title="Vensters verplaatsen en van grootte veranderen"><span class="title">Vensters verplaatsen en van grootte veranderen</span><span class="linkdiv-dash"> — </span><span class="desc">Arrange windows in a workspace to help you work more
+    efficiently.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-lost.html" title="Zoeken naar een verloren venster"><span class="title">Zoeken naar een verloren venster</span><span class="linkdiv-dash"> — </span><span class="desc">Check the <span class="gui">Activities</span> overview or other workspaces.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -78,10 +72,9 @@
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="shell-workspaces.html" title="Wat is een werkblad en hoe kan ik het gebruiken?"><span class="title">Wat is een werkblad en hoe kan ik het gebruiken?</span><span class="linkdiv-dash"> — </span><span class="desc">Werkbladen zijn een manier om vensters te groeperen op uw bureaublad.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-workspaces-movewindow.html" title="Move a window to a different workspace"><span class="title">Move a window to a different workspace</span><span class="linkdiv-dash"> — </span><span class="desc">Go to the <span class="gui">Activities</span> overview and drag the window to a
-    different workspace.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-workspaces-movewindow.html" title="Een venster verplaatsen naar een ander werkblad"><span class="title">Een venster verplaatsen naar een ander werkblad</span><span class="linkdiv-dash"> — </span><span class="desc">Ga naar het <span class="gui">Activiteiten</span>-overzicht en sleep het venster naar een ander werkblad.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-workspaces-switch.html" title="Wisselen tussen werkbladen"><span class="title">Wisselen tussen werkbladen</span><span class="linkdiv-dash"> — </span><span class="desc">Use the workspace selector.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-workspaces-switch.html" title="Wisselen tussen werkbladen"><span class="title">Wisselen tussen werkbladen</span><span class="linkdiv-dash"> — </span><span class="desc">De werkbladwisselaar gebruiken.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">

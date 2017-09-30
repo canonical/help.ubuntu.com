@@ -62,7 +62,10 @@
   </p>
 <p class="p">To remove an application:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Кликните на иконицу <span class="app">Убунтуов софтвер</span> на <span class="gui">Покретачу</span>, или потражите <span class="input">Софтвер</span> у траци претраге у <span class="gui">Полетнику</span>.</p></li>
+<li class="steps"><p class="p">
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">Када се отвори <span class="app">Убунтуов софтвер</span>, кликните на дугме <span class="gui">Инсталиран</span> на врху.</p></li>
 <li class="steps"><p class="p">Нађите програми који желите да уклоните користећи поље за претраживање или гледајући кроз списак инсталираних програма.</p></li>
 <li class="steps"><p class="p">Изаберите програм и кликните <span class="gui">Уклони</span>.</p></li>

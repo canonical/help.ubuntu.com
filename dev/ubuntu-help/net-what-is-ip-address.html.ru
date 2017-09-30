@@ -49,13 +49,14 @@
 <div class="hgroup"><h1 class="title"><span class="title">Что такое IP-адрес?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">«Адрес IP» расшифровывается как <span class="em">адрес межсетевого протокола</span> (<span class="em">Internet Protocol address</span>). У каждого устройства, подключённого к сети (например, к сети Интернет), есть свой адрес IP.</p>
+<p class="p">“IP address” stands for <span class="em">Internet Protocol address</span>, and each
+  device that is connected to a network (like the internet) has one.</p>
 <p class="p">IP-адрес похож на телефонный номер. Телефонный номер — это уникальный набор цифр, который идентифицирует ваш телефон, чтобы другие люди могли вам позвонить. IP-адрес — это тоже уникальный набор цифр, идентифицирующий ваш компьютер, чтобы он мог обмениваться данными с другими компьютерами.</p>
 <p class="p">В настоящее время большинство IP-адресов представляют собой четыре группы цифр, разделённые точкой, например: <span class="code">192.168.1.42</span>.</p>
 <div class="note note-tip" title="Подсказка"><div class="inner"><div class="region"><div class="contents"><p class="p">An IP address can either be <span class="em">dynamic</span> or <span class="em">static</span>. Dynamic
     IP addresses are temporarily assigned each time your computer connects to a
     network. Static IP addresses are fixed, and do not change. Dynamic IP
-    addresses are more common that static addresses - static addresses are
+    addresses are more common that static addresses — static addresses are
     typically only used when there is a special need for them, such as in the
     administration of a server.</p></div></div></div></div>
 </div>

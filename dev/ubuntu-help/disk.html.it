@@ -49,7 +49,8 @@
 <div class="hgroup"><h1 class="title"><span class="title">Dischi e archiviazione</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="disk-check.html" title="Controllare la presenza di problemi sul disco fisso"><span class="title">Controllare la presenza di problemi sul disco fisso</span><span class="linkdiv-dash"> — </span><span class="desc">Verificare la presenza di problemi sul disco fisso per assicurarsi che sia in buono stato.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-resize.html" title="Adjust the size of a filesystem"><span class="title">Adjust the size of a filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Shrink or grow a filesystem and its partition.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-check.html" title="Controllare la presenza di problemi sul disco fisso"><span class="title">Controllare la presenza di problemi sul disco fisso</span><span class="linkdiv-dash"> — </span><span class="desc">Test your hard disk for problems to make sure that it’s healthy.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="addremove-creator.html" title="Create a startup disk"><span class="title">
     Create a startup disk
   </span><span class="linkdiv-dash"> — </span><span class="desc"> 
@@ -57,6 +58,8 @@
     </span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-format.html" title="Eliminare tutto da un'unità rimovibile"><span class="title">Eliminare tutto da un'unità rimovibile</span><span class="linkdiv-dash"> — </span><span class="desc">Eliminare file e cartelle formattando un disco esterno oppure un'unità USB.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-partitions.html" title="Gestire volumi e partizioni"><span class="title">Gestire volumi e partizioni</span><span class="linkdiv-dash"> — </span><span class="desc">Comprendere cosa sono i volumi e le partizioni e usare il gestore di dischi per gestirli.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-repair.html" title="Repair a damaged filesystem"><span class="title">Repair a damaged filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Check if a filesystem is damaged and bring it back into a usable
+          state.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-benchmark.html" title="Test the performance of your hard disk"><span class="title">Test the performance of your hard disk</span><span class="linkdiv-dash"> — </span><span class="desc">Run benchmarks on your hard disk to check how fast it is.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-capacity.html" title="Verificare lo spazio libero sul disco"><span class="title">Verificare lo spazio libero sul disco</span><span class="linkdiv-dash"> — </span><span class="desc">Use <span class="gui">Disk Usage Analyzer</span> or <span class="gui">System Monitor</span> to
     check space and capacity.</span></a></div>

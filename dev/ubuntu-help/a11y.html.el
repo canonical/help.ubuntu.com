@@ -79,7 +79,8 @@
 <a href="a11y-mag.html" title="Μεγέθυνση της περιοχής οθόνης">Μεγέθυνση της περιοχής οθόνης</a><span class="desc"> — Μεγεθύνετε την οθόνη σας ώστε να διευκολυνθείτε να δείτε πράγματα.</span>
 </li>
 <li class="links ">
-<a href="a11y-contrast.html" title="Προσαρμογή της αντίθεσης">Προσαρμογή της αντίθεσης</a><span class="desc"> — Κάντε τα παράθυρα και τα κουμπιά στην οθόνη περισσότερο (ή λιγότερο) ζωηρά, ώστε να είναι ευκολότερο να τα δείτε.</span>
+<a href="a11y-contrast.html" title="Προσαρμογή της αντίθεσης">Προσαρμογή της αντίθεσης</a><span class="desc"> — Make windows and buttons on the screen more (or less) vivid, so
+    they’re easier to see.</span>
 </li>
 </ul></div>
 </div></div>

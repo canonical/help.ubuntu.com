@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Waarom kunnen dvd's niet worden afgespeeld?</title>
+<title>Why won’t DVDs play?</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,12 +43,12 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Sound, video &amp; pictures">Sound, video &amp; pictures</a> › <a class="trail" href="media.html#videos" title="Videos and video cameras">Videos</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Geluid, video &amp; foto's">Geluid, video &amp; foto's</a> › <a class="trail" href="media.html#videos" title="Video's en videocamera's">Video's</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Waarom kunnen dvd's niet worden afgespeeld?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Why won’t DVDs play?</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">If you insert a DVD into your computer and it doesn't play, you may not
+<div class="contents"><p class="p">If you insert a DVD into your computer and it doesn’t play, you may not
   have the right DVD <span class="em">codecs</span> installed, or the DVD might be from a
   different <span class="em">region</span>.</p></div>
 <div id="codecs" class="sect"><div class="inner">
@@ -56,34 +56,25 @@
 <div class="region"><div class="contents">
 <p class="p">In order to play DVDs, you need to have the right <span class="em">codecs</span>
   installed.  A codec is a piece of software that allows applications to read a
-  video or audio format. If your movie player software doesn't find the right
-  codecs, it may offer to install them for you. If not, you'll have to install
-  the codecs manually - ask for help on how to do this, for example on your
-  Linux distribution's support forums.</p>
-<p class="p">DVDs are also <span class="em">copy-protected</span> using a system called CSS. This
-  prevents you from copying DVDs, but it also prevents you from playing them
-  unless you have extra software to handle the copy protection. This software
-  is available from a number of Linux distributions, but cannot be legally used
-  in all countries. You can buy a commercial DVD decoder that can handle copy
-  protection from
-  <span class="link"><a href="http://fluendo.com/shop/product/oneplay-dvd-player/" title="http://fluendo.com/shop/product/oneplay-dvd-player/">Fluendo</a></span>.
-  It works with Linux and should be legal to use in all countries.</p>
+  video or audio format. If your movie player software doesn’t find the right
+  codecs, it may offer to install them for you. If not, you’ll have to install
+  the codecs manually — ask for help on how to do this, for example on your
+  Linux distribution’s support forums.</p>
+<p class="p">Dvd's zijn ook <span class="em">beveiligd tegen kopiëren</span> via een systeem dat CSS heet. Dit voorkomt dat u dvd's kopieert, maar het voorkomt ook dat u ze afspeelt, tenzij u over extra software beschikt om met de kopieerbeveiliging om te gaan. Deze software is te vinden bij diverse Linux-distributies, maar mag niet in alle landen legaal gebruikt worden. U kunt een commerciële dvd-decoder kopen die om kan gaan met kopieerbeveiliging bij <span class="link"><a href="http://fluendo.com/shop/product/oneplay-dvd-player/" title="http://fluendo.com/shop/product/oneplay-dvd-player/">Fluendo</a></span>. Deze werkt met Linux en moet legaal te gebruiken zijn in alle landen.</p>
 </div></div>
 </div></div>
 <div id="region" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Het dvd-gebied controleren</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">DVDs have a <span class="em">region code</span>, which tells you in which region of the
-  world they are allowed to be played. If the region of your computer's DVD
-  player does not match the region of the DVD you are trying to play, you won't
+  world they are allowed to be played. If the region of your computer’s DVD
+  player does not match the region of the DVD you are trying to play, you won’t
   be able to play the DVD. For example, if you have a Region 1 DVD player, you
   will only be allowed to play DVDs from North America.</p>
 <p class="p">It is often possible to change the region used by your DVD player, but it
   can only be done a few times before it locks into one region permanently. To
-  change the DVD region of your computer's DVD player, use <span class="link"><a href="http://linvdr.org/projects/regionset/" title="http://linvdr.org/projects/regionset/">regionset</a></span>.</p>
-<p class="p">You can find
-  <span class="link"><a href="https://en.wikipedia.org/wiki/DVD_region_code" title="https://en.wikipedia.org/wiki/DVD_region_code">more information
-  about DVD region codes on Wikipedia</a></span>.</p>
+  change the DVD region of your computer’s DVD player, use <span class="link"><a href="http://linvdr.org/projects/regionset/" title="http://linvdr.org/projects/regionset/">regionset</a></span>.</p>
+<p class="p">U kunt <span class="link"><a href="https://en.wikipedia.org/wiki/DVD_region_code" title="https://en.wikipedia.org/wiki/DVD_region_code">meer informatie over dvd-regiocodes op Wikipedia</a></span> vinden.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -91,7 +82,7 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="media.html#videos" title="Videos and video cameras">Videos</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="media.html#videos" title="Video's en videocamera's">Video's</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>

@@ -54,7 +54,14 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
 <p class="p"><span class="em-bold em">Απασχολημένη ώρα της ημέρας</span></p>
-<p class="p">Οι πάροχοι υπηρεσίας διαδικτύου συνήθως ρυθμίζουν συνδέσεις διαδικτύου έτσι ώστε να μοιράζονται μεταξύ πολλών νοικοκυριών. Ακόμα κι αν συνδέεστε ξέχωρα, μέσα από την τηλεφωνική σας γραμμή ή με καλωδιακή σύνδεση, η σύνδεση με το υπόλοιπο διαδίκτυο στην ανταλλαγή τηλεφώνου μπορεί στην πραγματικότητα να μοιράζεται. Εάν συμβαίνει αυτό και πολλοί γείτονες χρησιμοποιούν το διαδίκτυο ταυτόχρονα όπως εσείς, μπορεί να σημειώσετε μια επιβράδυνση. Είναι πολύ πιθανό να το δοκιμάσετε τις φορές που οι γείτονες σας είναι προφανώς στο διαδίκτυο (τα απογεύματα, για παράδειγμα).</p>
+<p class="p">Internet service providers commonly setup internet connections so that
+      they are shared between several households. Even though you connect
+      separately, through your own phone line or cable connection, the
+      connection to the rest of the internet at the telephone exchange might
+      actually be shared. If this is the case and lots of your neighbors are
+      using the internet at the same time as you, you might notice a slow-down.
+      You’re most likely to experience this at times when your neighbors are
+      probably on the internet (in the evenings, for example).</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Λήψη πολλών πραγμάτων ταυτόχρονα</span></p>
@@ -66,15 +73,27 @@
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Χαμηλό ασύρματο σήμα σύνδεσης</span></p>
-<p class="p">Εάν είσαστε συνδεμένοι στο διαδίκτυο με ασύρματο δίκτυο (wifi), ελέγξετε το εικονίδιο δικτύου στην πάνω γραμμή για να δείτε εάν έχετε καλό ασύρματο σήμα. Εάν όχι, το διαδίκτυο μπορεί να είναι αργό επειδή δεν έχετε ένα πολύ ισχυρό σήμα.</p>
+<p class="p">If you’re connected to the internet by wireless (wifi), check the
+      network icon on the top bar to see if you have good wireless signal. If
+      not, the internet may be slow because you don’t have a very strong
+      signal.</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Χρησιμοποιώντας μια πιο αργή κινητή σύνδεση διαδικτύου</span></p>
-<p class="p">Εάν έχετε μια κινητή σύνδεση διαδικτύου και σημειώσετε ότι είναι αργή, μπορεί να την έχετε μεταφέρει σε μια περιοχή όπου η λήψη σήματος είναι ασθενής. Όταν συμβαίνει αυτό, η σύνδεση διαδικτύου θα μετατραπεί αυτόματα από μια γρήγορη "κινητή ευρυζωνική" σύνδεση όπως 3G σε μια πιο αξιόπιστη, αλλά πιο αργή σύνδεση όπως GPRS.</p>
+<p class="p">If you have a mobile internet connection and notice that it is slow,
+      you may have moved into an area where signal reception is poor. When this
+      happens, the internet connection will automatically switch from a fast
+      “mobile broadband” connection like 3G to a more reliable, but slower,
+      connection like GPRS.</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Ο περιηγητής ιστού έχει πρόβλημα</span></p>
-<p class="p">Μερικές φορές οι περιηγητές ιστού αντιμετωπίζουν ένα πρόβλημα που τους κάνει να εκτελούνται αργά. Αυτό μπορεί να οφείλεται σε οποιαδήποτε αιτία - ίσως να έχετε επισκεφτεί έναν ιστότοπο που ο περιηγητής προσπαθεί να φορτώσει, ή μπορεί να έχετε τον περιηγητή ανοικτό για πολλή ώρα, για παράδειγμα. Δοκιμάστε να κλείσετε όλα τα παράθυρα του περιηγητή και έπειτα ανοίξτε τον περιηγητή ξανά για να δείτε εάν αυτός διαφέρει.</p>
+<p class="p">Sometimes web browsers encounter a problem that makes them run slow.
+      This could be for any number of reasons — you could have visited a
+      website that the browser struggled to load, or you might have had the
+      browser open for a long time, for example. Try closing all of the
+      browser’s windows and then opening the browser again to see if this makes
+      a difference.</p>
 </li>
 </ul></div></div></div>
 </div>
@@ -83,7 +102,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html" title="Προβλήματα δικτύου">Προβλήματα δικτύου</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Αντιμετώπιση προβλημάτων ασύρματων συνδέσεων</a></span>, <span class="link"><a href="net-wireless-find.html" title="Δεν μπορώ να δω το ασύρματο δίκτυό μου στη λίστα">Εύρεση του δικτύου wifi</a></span>…</span>
+<a href="net-problem.html" title="Προβλήματα δικτύου">Προβλήματα δικτύου</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Αντιμετώπιση προβλημάτων ασύρματων συνδέσεων</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">Εύρεση του δικτύου wifi</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

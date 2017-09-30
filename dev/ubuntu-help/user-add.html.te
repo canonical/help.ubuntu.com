@@ -69,7 +69,7 @@
 <p class="p">Administrators can do things like add and delete users, install software
       and drivers, and change the date and time.</p>
 </li>
-<li class="steps"><p class="p">Enter the new user's full name. The username will be filled in
+<li class="steps"><p class="p">Enter the new user’s full name. The username will be filled in
       automatically based on the full name. If you do not like the proposed
       username, you can change it.</p></li>
 <li class="steps">
@@ -85,7 +85,7 @@
   account, <span class="gui">Unlock</span> the panel and press the current
   password status.</p>
 <div class="note" title="చీటి"><div class="inner"><div class="region"><div class="contents"><p class="p">In the <span class="gui">Users</span> panel, you can click the image next to the
-    user's name to the right to set an image for the account. This image will
+    user’s name to the right to set an image for the account. This image will
     be shown in the login window. GNOME provides some stock photos you can use,
     or you can select your own or take a picture with your webcam.</p></div></div></div></div>
 </div>

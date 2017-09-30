@@ -49,7 +49,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Var kan du lagra din säkerhetskopia</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Du bör spara säkerhetskopiera av dina filer någonstans separat från din dator - till exempel på en extern hårddisk. På så sätt kan säkerhetskopia fortfarande finnas intakt om datorn går sönder. För maximal säkerhet bör du inte ha säkerhetskopia i samma byggnad som din dator. Om en brand eller inbrott inträffar så kan båda kopiorna av data gå förlorade om de lagras på samma plats.</p>
+<p class="p">Du bör spara säkerhetskopiera av dina filer någonstans separat från din dator — till exempel på en extern hårddisk. På så sätt kan säkerhetskopia fortfarande finnas intakt om datorn går sönder. För maximal säkerhet bör du inte ha säkerhetskopia i samma byggnad som din dator. Om en brand eller inbrott inträffar så kan båda kopiorna av data gå förlorade om de lagras på samma plats.</p>
 <p class="p">Det är också viktigt att välja ett lämpligt <span class="em">medium för säkerhetskopiering</span>. Du måste lagra dina säkerhetskopior på en enhet som har tillräckligt med lagringsutrymme för alla säkerhetskopierade filer.</p>
 <div class="list"><div class="inner">
 <div class="title title-list"><h2><span class="title">Alternativ för lokal- och fjärrlagring</span></h2></div>

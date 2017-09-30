@@ -51,9 +51,14 @@
 <div class="contents">
 <p class="p">இணையத்தில் உள்ள அல்லது உங்கள் பிணையத்தில் உள்ள மற்ற நபர்கள் உங்கள் கணினியில் உள்ள நிரல்களை அணுக விடாமல் தடுக்க உதவுகின்ற <span class="em">ஃபயர்வால்</span> உங்கள் கணினியில் இருக்கும். இது உங்கள் கணினியைப் பாதுகாப்பான வைக்க உதவுகிறது.</p>
 <p class="p">உங்கள் பிணைய இணைப்பை பல பயன்பாடுகள் பயன்படுத்த முடியும். உதாரணமாக, நீங்கள் கோப்புகளை பகிர்ந்து கொள்ளலாம் அல்லது ஒரு பிணையத்தில் இணைந்திருக்கும் ஒருவர் தொலைநிலையில் உங்கள் பணிமேசையைப் பார்வையிட அனுமதிக்கலாம். உங்கள் கணினி எப்படி அமைக்கப்பட்டுள்ளது என்பதைப் பொறுத்து, இந்த சேவைகள் சரியாக இயங்க அதற்கேற்ப நீங்கள் ஃபயர்வாலை அனுமதிக்க சரி செய்ய வேண்டும்.</p>
-<p class="p">பிணைய சேவைகளை வழங்கும் ஒவ்வொரு நிரலும் ஒரு குறிப்பிட்ட <span class="em">பிணைய போர்ட்டைப்</span> பயன்படுத்துகிறது. ஒரு பிணையத்தில் உள்ள மற்ற கணினிகள் ஒரு சேவையை அணுக அனுமதிக்க, ஃபயர்வாலில் அதற்கென ஒதுக்கப்பட்ட போர்ட்டை நீங்கள் "திறக்க" வேண்டி இருக்கலாம்:</p>
+<p class="p">Each program that provides network services uses a specific <span class="em">network
+  port</span>. To enable other computers on the network to access a service, you
+  may need to “open” its assigned port on the firewall:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">திரையின் மேல் இடது மூலையில் உள்ள <span class="gui">செயல்பாடுகள்</span> க்குச் சென்று, உங்கள் ஃபயர்வால் பயன்பாட்டைத் தொடங்கவும். அப்படி ஒன்று இல்லாவிட்டால், நீங்களே ஒரு ஃபயர்வால் மேலாளரை நிறுவ வேண்டும் (உதாரணமாக, Firestarter அல்லது GUFW).</p></li>
+<li class="steps"><p class="p">Go to <span class="gui">Activities</span> in the top left corner of the screen and
+      start your firewall application. You may need to install a firewall
+      manager yourself if you can’t find one (for example, Firestarter or
+      GUFW).</p></li>
 <li class="steps"><p class="p">மற்றவர்கள் உங்கள் பிணைய சேவையை அணுக வேண்டுமா இல்லையா என்ற உங்கள் விருப்பத்தைப் பொறுத்து, அதை திறக்கலாம் அல்லது முடக்கலாம். நீங்கள் எந்த போர்ட்டை மாற்ற வேண்டும் என்பது<span class="link"><a href="net-firewall-ports.html" title="பொதுவாக பயன்படுத்தப்படும் பிணைய போர்ட்கள்">சேவையைப் பொறுத்தது</a></span>.</p></li>
 <li class="steps"><p class="p">ஃபயர்வால் கருவி ஏதேனும் கூடுதல் அறிவுறுத்தல்களை வழங்கினால், அவற்றைப் பின்பற்றி மாற்றங்களை சேமிக்கவும் அல்லது பயன்படுத்தவும்.</p></li>
 </ol></div></div></div>

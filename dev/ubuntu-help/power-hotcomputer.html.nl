@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Common problems">Problems</a> » <a class="trail" href="power.html#problems" title="Problemen">Power problems</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="power.html#problems" title="Problemen">Stroomproblemen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Mijn computer wordt erg warm</span></h1></div>
@@ -54,7 +54,7 @@ normal: it is simply part of the way that the computer cools itself. However,
 if your computer gets very warm it could be a sign that it is overheating,
 which can potentially cause damage.</p>
 <p class="p">Most laptops get reasonably warm once you have been using them for a while.
-It is generally nothing to worry about - computers produce a lot of heat and
+It is generally nothing to worry about — computers produce a lot of heat and
 laptops are very compact, so they need to remove their heat rapidly and their
 outer casing warms up as a result. Some laptops do get too hot, however, and
 may be uncomfortable to use. This is normally the result of a poorly-designed
@@ -64,20 +64,17 @@ to the bottom of the laptop and provide more efficient cooling.</p>
 insufficient cooling. If this concerns you, you can buy extra cooling fans or
 check that the cooling fans and vents are free from dust and other blockages.
 You might want to consider putting the computer in a better-ventilated area too
-- if kept in confined spaces (for example, in a cupboard), the cooling system in the
+— if kept in confined spaces (for example, in a cupboard), the cooling system in the
 computer may not be able to remove heat and circulate cool air fast enough.</p>
 <p class="p">Sommige mensen maken zich zorgen over hun gezondheid als ze een warme laptop gebruiken. Er wordt gesuggereerd dat bij langdurig gebruik van een warme laptop op schoot de (mannelijke) vruchtbaarheid kan aantasten. Ook zijn er meldingen van kleine brandwondjes (in extreme gevallen). Als u zich zorgen maakt over deze mogelijke problemen, dan kunt u een arts om advies vragen. Natuurlijk kunt u er ook voor kiezen de laptop niet op schoot te nemen.</p>
-<p class="p">Most modern computers will shut themselves down if they get too hot, to
-prevent themselves from becoming damaged. If your computer keeps shutting down,
-this might be the reason. If your computer is overheating, you will probably
-need to get it repaired.</p>
+<p class="p">De meeste moderne computers zullen vanzelf uitschakelen wanneer ze te warm worden om schade te voorkomen. Als uw computer bij herhaling uitschakelt kan dit de reden zijn. Als uw computer oververhit raakt, dan is het waarschijnlijk nodig hem te laten repareren.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html#problems" title="Problemen">Power problems</a><span class="desc"> — Troubleshoot problems with power and batteries.</span>
+<a href="power.html#problems" title="Problemen">Stroomproblemen</a><span class="desc"> — Problemen met stroom en accu's oplossen.</span>
 </li></ul></div>
 </div></div></div>
 </div>

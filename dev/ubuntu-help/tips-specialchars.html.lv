@@ -81,14 +81,17 @@
 <div class="region"><div class="contents">
 <p class="p">Kompozīcijas taustiņš ir īpašs taustiņš, kas ļauj spiest vairākus taustiņus pēc kārtas, lai iegūtu īpašu rakstzīmi. Piemēram, iegūtu burtu ar akcentu <span class="em">é</span>, jāspiež <span class="key"><kbd>kompozīcija</kbd></span> tad <span class="key"><kbd>'</kbd></span> tad <span class="key"><kbd>e</kbd></span>.</p>
 <p class="p">Tastatūrām nav īpašo kompozīcijas taustiņu. Tā vietā, jūs varat definēt vienu no esošajiem tastatūras taustiņiem, kā kompozīcijas taustiņu.</p>
+<div class="note note-important" title="Svarīgi"><div class="inner"><div class="region"><div class="contents"><p class="p">Jābūt uzinstalētai <span class="app">Piedarei</span>, lai mainītu šo iestatījumu.</p></div></div></div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Definēt kompozīcijas taustiņu</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Tastatūra</span>.</p></li>
-<li class="steps"><p class="p">Spiediet <span class="gui">Tastatūra</span>, lai atvērtu paneli.</p></li>
-<li class="steps"><p class="p">Izvēlieties cilni <span class="gui">Saīsnes</span> un spiediet <span class="gui">Raksta</span>.</p></li>
-<li class="steps"><p class="p">Spiediet <span class="gui">Kompozīcijas taustiņu</span> labajā rūtī.</p></li>
-<li class="steps"><p class="p">Spiediet uz <span class="gui">Deaktivēts</span> un izvēlieties no izkrītošās izvēlnes taustiņu, kurus vēlētos izmantot kā kompozīcijas taustiņus. Jūs varat izvēlēties tādus taustiņus, kā <span class="key"><kbd>Ctrl</kbd></span>, labo <span class="key"><kbd>Alt</kbd></span> taustiņu, labo <span class="key"><kbd>Win</kbd></span> vai <span class="key"><a href="keyboard-key-super.html" title="Kas ir Super taustiņš?"><kbd>Super</kbd></a></span> taustiņu (ja tāds ir), <span class="key"><a href="keyboard-key-menu.html" title="Kas ir Izvēlne taustiņš?"><kbd>izvēlnes</kbd></a></span> taustiņu vai <span class="key"><kbd>Caps Lock</kbd></span>. Jebkurš taustiņš, kuru jūs izvēlēsities, pēc tam strādās tikai kā kompozīcijas taustiņš, un vairāk nepildīs savu sākotnējo lomu.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Piedare</span>.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="gui">Piedare</span>, lai atvērtu lietotni.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="gui">Tastatūra un pele</span> cilni.</p></li>
+<li class="steps"><p class="p">Spiediet uz <span class="gui">Izslēgts</span> pie iestatījuma <span class="gui">Kompozīcijas taustiņš</span>.</p></li>
+<li class="steps"><p class="p">Dialoglodziņā ieslēdziet slēdzi un izvēlieties tastatūras saīsni, ko vēlaties izmantot.</p></li>
+<li class="steps"><p class="p">Atzīmējiet atzīmes rūtiņā taustiņu, kuru vēlaties iestatīt kā komponēšanas taustiņu.</p></li>
+<li class="steps"><p class="p">Aizveriet <span class="gui">Piedares</span> logu.</p></li>
 </ol></div>
 </div></div>
 <p class="p">Jūs varat ievadīt daudzas bieži izmantotas rakstzīmes, izmantojot kompozīcijas taustiņu, piemēram:</p>

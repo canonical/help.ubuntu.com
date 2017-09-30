@@ -55,9 +55,19 @@
 <div id="files" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Ficheiros</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Pode estabelecer os permisos para o propietario do ficheiro, o grupo do propietario e calquera outro usuario do sistema. Para os seus ficheiros, vostede é o propietario e pode darlle a vostede mesmo permisos de só lectura ou lectura e escritura. Estabeleza un ficheiro a só lectura se non quere que se cambie de forma accidental.</p>
-<p class="p">Cada usuario no seu computador pertence a un grupo. Nos computadores persoais, o máis común é que cada usurio teña o seu propio grupo, e os permisos do grupo non son usados con frecuencia. Pola contra en contornas corporativas, os grupos úsanse moi a miúdo nos departamentos ou en proxectos. Así como teñen un propietario, os ficheiros pertencen a un grupo. Pode estabelecer o grupo do ficheiro e os permisos para o grupo e controlar os permisos para todos os usuarios en dito grupo. Só pode estabelecer o grupo dun ficheiro a un grupo ao que pertenza.</p>
-<p class="p">Tamén pode estabelecer os permisos para outros usuarios distintos ao propietario e aqueles no grupo do ficheiro.</p>
+<p class="p">You can set the permissions for the file owner, the group owner,
+    and all other users of the system. For your files, you are the owner,
+    and you can give yourself read-only or read-and-write permission.
+    Set a file to read-only if you don’t want to accidentally change it.</p>
+<p class="p">Every user on your computer belongs to a group. On home computers,
+    it is common for each user to have their own group, and group permissions
+    are not often used. In corporate environments, groups are sometimes used
+    for departments or projects. As well as having an owner, each file belongs
+    to a group. You can set the file’s group and control the permissions for
+    all users in that group. You can only set the file’s group to a group you
+    belong to.</p>
+<p class="p">You can also set the permissions for users other than the owner and
+    those in the file’s group.</p>
 <p class="p">Se o ficheiro é un programa, como un script, pode estabelecer <span class="gui">Permitir a execución do ficheiro como un programa</span> para executalo. Incluso se esta opción está seleccionada, o xestor de ficheiros pode continuar abrindo o ficheiro nun aplicativo ou preguntarlle que facer. Vexa <span class="link"><a href="nautilus-behavior.html#executable" title="Ficheiros de texto executábeis">Ficheiros de texto executábeis</a></span> para obter máis información.</p>
 </div></div>
 </div></div>

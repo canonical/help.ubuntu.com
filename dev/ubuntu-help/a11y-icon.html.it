@@ -67,7 +67,14 @@
 <li class="steps"><p class="p">Switch <span class="gui">Always Show Universal Access Menu</span> to
       <span class="gui">ON</span>.</p></li>
 </ol></div></div></div>
-<p class="p">Per accedere a questo menù usando la tastiera invece del mouse, premere <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> per spostare il focus da tastiera alla barra superiore. Sotto il pulsante <span class="gui">Attività</span> compare una linea bianca, tale linea indica quale elemento della barra superiore risulta selezionato. Usare i tasti freccia sulla tastiera per spostare la linea bianca sotto l'icona del menù accesso universale, quindi premere <span class="key"><kbd>Invio</kbd></span> per aprirlo. È possibile usare i tasti freccia su e freccia giù per selezionare le voci del menù. Premere <span class="key"><kbd>Invio</kbd></span> per commutare la voce selezionata.</p>
+<p class="p">To access this menu using the keyboard rather than the mouse, press
+  <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> to move the
+  keyboard focus to the top bar. A white line will appear underneath the
+  <span class="gui">Activities</span> button — this tells you which item on the top bar is
+  selected. Use the arrow keys on the keyboard to move the white line under the
+  universal access menu icon and then press <span class="key"><kbd>Enter</kbd></span> to open it. You
+  can use the up and down arrow keys to select items in the menu. Press
+  <span class="key"><kbd>Enter</kbd></span> to toggle the selected item.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

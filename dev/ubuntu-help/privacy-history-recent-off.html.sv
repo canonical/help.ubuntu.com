@@ -67,7 +67,7 @@
 <li class="steps"><p class="p">Använd knappen <span class="gui">Töm senaste historik</span> för att rensa historiken omedelbart.</p></li>
 </ol></div>
 </div></div>
-<div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">Denna inställningar kommer inte att påverka hur din webbläsare sparar information om webbplatser du besöker.</p></div></div></div></div>
+<div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">Denna inställning kommer inte att påverka hur din webbläsare sparar information om webbplatser du besöker.</p></div></div></div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Begränsa hur länge din filhistorik spåras</span></h2></div>
 <div class="region"><ol class="steps">

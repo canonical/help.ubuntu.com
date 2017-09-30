@@ -53,8 +53,7 @@
 <p class="p">Suatu alamat MAC terdiri dari enam set dua karakter, masing-masing dipisahkan oleh titik dua. <span class="code">00:1B:44:11:3A:B7</span> adalah suatu contoh dari alamat MAC.</p>
 <p class="p">Untuk mengidentifikasi alamat MAC dari perangkat keras jaringan Anda sendiri:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span> overview and
-      start typing <span class="gui">Network</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Jaringan</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Jaringan</span> untuk membuka panel.</p></li>
 <li class="steps">
 <p class="p">Choose which device, <span class="gui">Wi-Fi</span> or <span class="gui">Wired</span>, from
@@ -67,10 +66,10 @@
       <span class="gui">Hardware Address</span> in the <span class="gui">Details</span> panel.</p>
 </li>
 </ol></div></div></div>
-<p class="p">In practice, you may need to modify or "spoof" a MAC address. For example,
+<p class="p">In practice, you may need to modify or “spoof” a MAC address. For example,
   some internet service providers may require that a specific MAC address be
   used to access their service. If the network card stops working, and you need
-  to swap a new card in, the service won't work anymore. In such cases, you
+  to swap a new card in, the service won’t work anymore. In such cases, you
   would need to spoof the MAC address.</p>
 </div>
 <div class="sect sect-links" role="navigation">

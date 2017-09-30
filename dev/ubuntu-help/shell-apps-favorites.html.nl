@@ -43,17 +43,17 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Desktop</a> › <a class="trail" href="shell-overview.html#desktop" title="Customize your desktop">Customize your desktop</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html#desktop" title="Uw bureaublad aanpassen">Uw bureaublad aanpassen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Pin your favorite apps to the dash</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">To add an application to the <span class="link"><a href="shell-introduction.html#activities" title="Activities overview">dash</a></span>
+<p class="p">To add an application to the <span class="link"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">dash</a></span>
   for easy access:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the
-      <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview by
+      <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activities</a></span> overview by
       clicking <span class="gui">Activities</span> at the top left of the screen</p></li>
 <li class="steps"><p class="p">Click the grid button in the dash and find the application you want to
       add.</p></li>
@@ -63,20 +63,19 @@
 <p class="p">Alternatively, you can click-and-drag the icon into the dash.</p>
 </li>
 </ol></div></div></div>
-<p class="p">To remove an application icon from the dash, right-click the application
-  icon and select <span class="gui">Remove from Favorites</span>.</p>
+<p class="p">Om een toepassingspictogram uit de Starter te verwijderen, klik met rechts op het toepassingspictogram en selecteer <span class="gui">Uit favorieten verwijderen</span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html#desktop" title="Customize your desktop">Customize your desktop</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html#desktop" title="Uw bureaublad aanpassen">Uw bureaublad aanpassen</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-apps-open.html" title="Start applications">Start applications</a><span class="desc"> — Launch apps from the <span class="gui">Activities</span> overview.</span>
+<a href="shell-apps-open.html" title="Toepassingen starten">Toepassingen starten</a><span class="desc"> — Launch apps from the <span class="gui">Activities</span> overview.</span>
 </li></ul></div>
 </div></div>
 </div>

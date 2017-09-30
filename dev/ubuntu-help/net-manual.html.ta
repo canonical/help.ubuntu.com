@@ -53,7 +53,11 @@
 <div class="hgroup"><h1 class="title"><span class="title">பிணைய அமைவுகளை கைமுறையாக அமைத்தல்</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">உங்கள் பிணையம் உங்கள் கணினிக்கு பிணைய அமைவுகளை தானாகவே அமைக்காவிட்டால், நீங்கள் அமைவுகளை கைமுறையாக உள்ளிட வேண்டி இருக்கும். உங்களுக்கு பயன்படுத்த வேண்டிய சரியான அமைவுகள் முன்பே தெரியும் என்று கருத்தில் கொண்டு இந்த தலைப்பு பின்வரும் விஷயங்களை விவரிக்கிறது. இல்லை என்றால், நீங்கள் உங்கள் பிணைய நிர்வாகியைக் கேட்கவும் அல்லது உங்கள் ரௌட்டர் அல்லது பிணைய சுவிட்ச் அமைவுகளைப் பார்க்கவும்.</p>
+<p class="p">If your network doesn’t automatically assign network settings to your
+  computer, you may have to manually enter the settings yourself. This topic
+  assumes that you already know the correct settings to use. If not, you may
+  need to ask your network administrator or look at the settings of your router
+  or network switch.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">உங்கள் பிணைய அமைவுகளை கைமுறையாக அமைக்க:</span></h2></div>
 <div class="region"><ol class="steps">

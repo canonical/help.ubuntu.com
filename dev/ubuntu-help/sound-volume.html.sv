@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">För att ändra ljudvolymen, öppna <span class="gui"><a href="shell-introduction.html#yourname" title="Du och din dator">systemmenyn</a></span> från högersidan på systemraden och flytta skjutreglaget för volym till vänster eller höger. Du kan stänga av ljudet helt genom att dra reglaget hela vägen till vänster.</p>
 <p class="p">Vissa tangentbord har tangenter som låter dig kontrollera volymen. De ser normalt ut som stiliserade högtalare med vågor som kommer ur dem. De finns ofta nära ”F”-tangenterna längst upp. På tangentbord på bärbara datorer finns de ofta på ”F”-tangenterna. Håll ner <span class="key"><kbd class="key-Fn">Fn</kbd></span>-tangenten på ditt tangentbord för att använda dem.</p>
-<p class="p">Självklart kan du också, om du har externa högtalare, ändra volym genom att ändra volymkontroller på högtalarna. Vissa hörlurar har också en volymkontroll.</p>
+<p class="p">Du kan även, om du har externa högtalare, ändra volym med volymkontrollerna på högtalarna. Vissa hörlurar har också en volymkontroll.</p>
 </div>
 <div id="apps" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Ändra volymen för individuella program</span></h2></div>

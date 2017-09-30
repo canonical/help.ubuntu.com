@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Share your personal files</title>
+<title>Uw persoonlijke bestanden delen</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,30 +44,27 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html" title="Sharing">Sharing</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="prefs-sharing.html" title="Instellingen voor delen">Instellingen voor delen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="prefs-sharing.html" title="Sharing Settings">Sharing Settings</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="sharing.html" title="Delen">Delen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Share your personal files</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Uw persoonlijke bestanden delen</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">You can allow access to the <span class="file">Public</span> folder in your
   <span class="file">Home</span> folder from another computer on the network. Configure
   <span class="gui">Personal File Sharing</span> to allow others to access the contents of
   the folder.</p>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">You must have the <span class="app">gnome-user-share</span> package installed for
-     <span class="gui">Personal File Sharing</span> to be visible.</p></div></div></div></div>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Het <span class="app">gnome-user-share</span>-pakket moet geïnstalleerd zijn voordat <span class="gui">Persoonlijke bestanden delen</span> zichtbaar is.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Sharing</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Sharing</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Delen</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Delen</span> om het paneel te openen.</p></li>
 <li class="steps">
-<p class="p">If <span class="gui">Sharing</span> is <span class="gui">OFF</span>, switch it to
-      <span class="gui">ON</span>.</p>
+<p class="p">Als <span class="gui">Delen</span> <span class="gui">UIT</span> staat, zet het dan <span class="gui">AAN</span>.</p>
 <div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">If the text below <span class="gui">Computer Name</span> allows
-      you to edit it, you can <span class="link"><a href="sharing-displayname.html" title="Set the display name for your computer">change</a></span>
+      you to edit it, you can <span class="link"><a href="sharing-displayname.html" title="De weergavenaam van uw computer instellen">change</a></span>
       the name your computer displays on the network.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Select <span class="gui">Personal File Sharing</span>.</p></li>
@@ -82,21 +79,20 @@
 </ol></div></div></div>
 </div>
 <div id="security" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Security</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Beveiliging</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms">Require Password</dt>
+<dt class="terms">Wachtwoord vereisen</dt>
 <dd class="terms">
 <p class="p">To require other people to use a password when accessing your
       <span class="file">Public</span> folder, switch <span class="gui">Require Password</span> to
       <span class="gui">ON</span>. If you do not use this option, anyone can attempt to view
       your <span class="file">Public</span> folder.</p>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">This option is disabled by default, but you should enable it and set
-        a secure password.</p></div></div></div></div>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Deze optie is standaard uitgeschakeld, maar u kunt hem inschakelen en een veilig wachtwoord instellen.</p></div></div></div></div>
 </dd>
 </dl></div></div></div></div></div>
 </div></div>
 <div id="networks" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Networks</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Netwerken</span></h2></div>
 <div class="region"><div class="contents"><p class="p">The <span class="gui">Networks</span> section lists the networks to which you are
   currently connected. Use the <span class="gui">ON | OFF</span> switch next to each to
   choose where your personal files can be shared.</p></div></div>
@@ -107,18 +103,14 @@
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="sharing.html" title="Sharing">Sharing</a><span class="desc"> — 
-      <span class="link"><a href="sharing-desktop.html" title="Share your desktop">Desktop sharing</a></span>,
-      <span class="link"><a href="files-share.html" title="Share files by email">Share files by email</a></span>,
-      <span class="link"><a href="sharing-media.html" title="Share your music, photos and videos">Media sharing</a></span>…
-    </span>
+<a href="sharing.html" title="Delen">Delen</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Deel uw desktop">Bureaublad delen</a></span>, <span class="link"><a href="files-share.html" title="Bestanden delen per e-mail">Bestanden delen per e-mail</a></span>, <span class="link"><a href="sharing-media.html" title="Uw muziek, foto's en video's delen">Media delen</a></span>…</span>
 </li>
 <li class="links ">
-<a href="prefs-sharing.html" title="Sharing Settings">Sharing Settings</a><span class="desc"> — 
-      <span class="link"><a href="sharing-bluetooth.html" title="Control sharing over Bluetooth">Bluetooth sharing</a></span>,
-      <span class="link"><a href="sharing-personal.html" title="Share your personal files">Personal file sharing</a></span>,
-      <span class="link"><a href="sharing-desktop.html" title="Share your desktop">Screen sharing</a></span>,
-      <span class="link"><a href="sharing-media.html" title="Share your music, photos and videos">Media sharing</a></span>…
+<a href="prefs-sharing.html" title="Instellingen voor delen">Instellingen voor delen</a><span class="desc"> — 
+      <span class="link"><a href="sharing-bluetooth.html" title="Delen van besturing via Bluetooth">Bluetooth sharing</a></span>,
+      <span class="link"><a href="sharing-personal.html" title="Uw persoonlijke bestanden delen">Personal file sharing</a></span>,
+      <span class="link"><a href="sharing-desktop.html" title="Deel uw desktop">Screen sharing</a></span>,
+      <span class="link"><a href="sharing-media.html" title="Uw muziek, foto's en video's delen">Media sharing</a></span>…
     </span>
 </li>
 </ul></div>

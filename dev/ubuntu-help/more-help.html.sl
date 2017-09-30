@@ -55,12 +55,9 @@
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="about-this-guide.html" title="O tem vodniku"><span class="title">O tem vodniku</span><span class="linkdiv-dash"> — </span><span class="desc">Nekaj nasvetov o uporabi Namiznega vodnika Ubuntu.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="translate.html" title="Participate to improve translations"><span class="title">Participate to improve translations</span><span class="linkdiv-dash"> — </span><span class="desc">How and where to help translate these topics.</span></a></div>
-</div>
-<div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="report-ubuntu-bug.html" title="Poročanje težave v Ubuntuju"><span class="title">Poročanje težave v Ubuntuju</span><span class="linkdiv-dash"> — </span><span class="desc">Kako in kje poročati težave z Ubuntujem.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="get-involved.html" title="Sodelujte pri izboljšavi tega vodnika"><span class="title">Sodelujte pri izboljšavi tega vodnika</span><span class="linkdiv-dash"> — </span><span class="desc">Kako in kje poročati težave s temi temami pomoči.</span></a></div>
 </div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="get-involved.html" title="Sodelujte pri izboljšavi tega vodnika"><span class="title">Sodelujte pri izboljšavi tega vodnika</span><span class="linkdiv-dash"> — </span><span class="desc">Kako in kje poročati težave s temi temami pomoči.</span></a></div></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">

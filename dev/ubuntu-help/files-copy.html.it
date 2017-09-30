@@ -50,7 +50,10 @@
 <div class="region">
 <div class="contents">
 <p class="p">È possibile copiare o spostare file o cartelle in una nuova posizione trascinandoli con il mouse, usando i comandi copia e incolla oppure utilizzando le scorciatoie da tastiera.</p>
-<p class="p">Per esempio, è possibile copiare una presentazione su un dispositivo rimovibile da portare al lavoro. È anche possibile effettuare una copia di backup di un documento prima di modificarlo (e quindi usare la copia se le modifiche non risultano soddisfacenti).</p>
+<p class="p">For example, you might want to copy a presentation onto a memory stick so
+ you can take it to work with you. Or, you could make a back-up copy of a
+ document before you make changes to it (and then use the old copy if you don’t
+ like your changes).</p>
 <p class="p">Queste istruzioni si applicano sia ai file che alle cartelle: le stesse azioni possono essere usate per entrambi.</p>
 <div class="steps ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
@@ -96,7 +99,8 @@
  </p></li>
 <li class="steps">
 <p class="p">Fare clic e trascinare il file da una finestra all'altra. Questa operazione <span class="em">sposterà</span> il file se la destinazione sarà sullo <span class="em">stesso</span> dispositivo, o lo <span class="em">copierà</span> se la destinazione sarà su un <span class="em">diverso</span> dispositivo.</p>
-<p class="p">Per esempio, se si trascina un file da un supporto USB nella cartella Home, questo verrà copiato, in quanto viene trascinato da un dispositivo a un altro.</p>
+<p class="p">For example, if you drag a file from a USB memory stick to your Home folder,
+ it will be copied, because you’re dragging from one device to another.</p>
 <p class="p">Si può forzare la copia del file trascinandolo e tenendo premuto il tasto <span class="key"><kbd>Ctrl</kbd></span>, o forzarne lo spostamento trascinandolo e tenendo premuto il tasto <span class="key"><kbd>Maiusc</kbd></span>.</p>
 </li>
 </ol></div>

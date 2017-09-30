@@ -58,7 +58,8 @@
 <li class="steps"><p class="p">Наберите в текстовом поле номера страниц, которые хотите распечатать, разделяя их запятыми. Для указания диапазона страниц используйте дефис.</p></li>
 </ol></div></div></div>
 <div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents">
-<p class="p">Например, если указать «1,3,5-7,9» в поле <span class="gui">Страницы</span>, то будут распечатаны страницы 1, 3, 5, 6, 7 и 9.</p>
+<p class="p">For example, if you enter “1,3,5-7,9” in the <span class="gui">Pages</span> text box,
+    pages 1,3,5,6,7 and 9 will be printed.</p>
 <div class="media media-image"><div class="inner"><img src="figures/printing-select.png" class="media media-block" alt=""></div></div>
 </div></div></div></div>
 </div>

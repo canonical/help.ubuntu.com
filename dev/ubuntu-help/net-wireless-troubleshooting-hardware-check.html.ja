@@ -85,7 +85,11 @@
 <p class="p">表示されるデバイス一覧で、<span class="code">ネットワークコントローラー</span>または <span class="code">Ethernet コントローラー</span>の印がついたデバイスを探します。ワイヤレスアダプターに該当するデバイスの場合、<span class="code">wireless</span>、<span class="code">WLAN</span>、<span class="code">wifi</span>、<span class="code">802.11</span> などの単語が含まれている場合があります。出力例を以下に示します。</p>
 <div class="code"><pre class="contents ">Network controller: Intel Corporation PRO/Wireless 3945ABG [Golan] Network Connection</pre></div>
 </li>
-<li class="steps"><p class="p">一覧にワイヤレスアダプターがあった場合は、<span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="無線ネットワークトラブルシューティング">デバイスドライバーのステップ</a></span>に進んでください。使用しているワイヤレスアダプターに関連しているデバイスがなにも見つからない場合は、<span class="link"><a href="#not-recognized" title="ワイヤレスアダプターが認識されませんでした">以下の手順</a></span>を参照してください。</p></li>
+<li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
+      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="無線ネットワークトラブルシューティング">Device Drivers
+      step</a></span>. If you didn’t find anything related to your wireless
+      adapter, see
+      <span class="link"><a href="#not-recognized" title="ワイヤレスアダプターが認識されませんでした">the instructions below</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -99,7 +103,11 @@
 <p class="p">表示されるデバイス一覧で、ワイヤレスデバイスまたはネットワークデバイスを指していると思われるものを探します。ワイヤレスアダプターに該当するデバイスの場合、<span class="code">wireless</span>、<span class="code">WLAN</span>、<span class="code">wifi</span>、<span class="code">802.11</span> などの単語が含まれている場合があります。出力例を以下に示します。</p>
 <div class="code"><pre class="contents ">Bus 005 Device 009: ID 12d1:140b Huawei Technologies Co., Ltd. EC1260 Wireless Data Modem HSD USB Card</pre></div>
 </li>
-<li class="steps"><p class="p">一覧にワイヤレスアダプターがあった場合は、<span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="無線ネットワークトラブルシューティング">デバイスドライバーのステップ</a></span>に進んでください。使用しているワイヤレスアダプターに関連しているデバイスがなにも見つからない場合は、<span class="link"><a href="#not-recognized" title="ワイヤレスアダプターが認識されませんでした">以下の手順</a></span>を参照してください。</p></li>
+<li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
+      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="無線ネットワークトラブルシューティング">Device Drivers
+      step</a></span>. If you didn’t find anything related to your wireless
+      adapter, see
+      <span class="link"><a href="#not-recognized" title="ワイヤレスアダプターが認識されませんでした">the instructions below</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -112,11 +120,17 @@
 <li class="steps">
 <p class="p">端末を開き、次を入力して <span class="key"><kbd>Enter</kbd></span> を押します。</p>
 <div class="code"><pre class="contents ">tail -f /var/log/messages</pre></div>
-<p class="p">コンピューターのハードウェアに関するメッセージ一覧が表示され、ハードウェアの変更に関して行うべきことがある場合は自動的に更新が行われます。</p>
+<p class="p">This will display a list of messages related to your computer’s
+      hardware, and will automatically update if anything to do with your
+      hardware changes.</p>
 </li>
 <li class="steps"><p class="p">PCMCIA スロットにワイヤレスアダプターを差し込み、端末ウィンドウに表示される変更を確認します。ワイヤレスアダプターに関する詳細などが表示されるはずです。ワイヤレスアダプターであると確認できる出力があるか表示内容を確認します。</p></li>
 <li class="steps"><p class="p">端末で実行中のコマンドを停止する場合は、<span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span> を押します。コマンドを停止させたら端末を閉じても構いません。</p></li>
-<li class="steps"><p class="p">ワイヤレスアダプターに関する詳細が見つかった場合は、<span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="無線ネットワークトラブルシューティング">デバイスドライバーのステップ</a></span>に進んでください。ワイヤレスアダプターに関するものが何も見つからない場合は、<span class="link"><a href="#not-recognized" title="ワイヤレスアダプターが認識されませんでした">以下の手順</a></span>を参照してください。</p></li>
+<li class="steps"><p class="p">If you found any information about your wireless adapter, proceed to
+      the <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="無線ネットワークトラブルシューティング">Device
+      Drivers step</a></span>. If you didn’t find anything related to your wireless
+      adapter, see <span class="link"><a href="#not-recognized" title="ワイヤレスアダプターが認識されませんでした">the instructions
+      below</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -127,7 +141,9 @@
   properly or the correct drivers may not be installed for it. How you check to
   see if there are any drivers you can install will depend on which Linux
   distribution you are using (like Ubuntu, Arch, Fedora or openSUSE).</p>
-<p class="p">具体的なヘルプ得るには、使用しているディストリビューションの web サイトでサポートに関するオプションをご覧ください。メーリングリストや web チャットなど、ワイヤレスアダプターに関する質問を問い合わせができる場所なども記載されている可能性があります。</p>
+<p class="p">To get specific help, look at the support options on your distribution’s
+  website. These might include mailing lists and web chats where you can ask
+  about your wireless adapter, for example.</p>
 </div></div>
 </div></div>
 <div class="links nextlinks">

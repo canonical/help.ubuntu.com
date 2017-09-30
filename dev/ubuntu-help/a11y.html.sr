@@ -124,9 +124,6 @@
 <div class="title title-links"><h3><span class="title">Употреба тастатуре</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard-repeat-keys.html" title="Manage repeated key presses">Manage repeated key presses</a><span class="desc"> — Учините да тастатура не понавља слова када држите притиснутим тастер, или измените застој и брзину понављања тастера.</span>
-</li>
-<li class="links ">
 <a href="keyboard-osk.html" title="Користите тастатуру на екрану">Користите тастатуру на екрану</a><span class="desc"> — Користите тастатуру на екрану да унесете текст притисцима на дугмад мишем или додирним екраном.</span>
 </li>
 <li class="links ">
@@ -140,6 +137,9 @@
 </li>
 <li class="links ">
 <a href="a11y-slowkeys.html" title="Укључите споре тастере">Укључите споре тастере</a><span class="desc"> — Нека постоји застој између притиска тастера и приказивања слова на екрану.</span>
+</li>
+<li class="links ">
+<a href="keyboard-repeat-keys.html" title="Управљајте поновљеним притисцима тастера">Управљајте поновљеним притисцима тастера</a><span class="desc"> — Учините да тастатура не понавља слова када држите притиснутим тастер, или измените застој и брзину понављања тастера.</span>
 </li>
 </ul></div>
 </div></div>

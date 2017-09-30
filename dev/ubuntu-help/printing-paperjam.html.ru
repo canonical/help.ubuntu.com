@@ -50,8 +50,11 @@
 <div class="region">
 <div class="contents">
 <p class="p">Иногда бумага подаётся в принтер неправильно и заминается.</p>
-<p class="p">В руководстве принтера обычно имеются подробные инструкции по устранению замятия бумаги. Как правило, нужно открыть одну из панелей принтера, чтобы найти место замятия, а затем осторожно вытянуть замятый лист из механизма подачи бумаги принтера.</p>
-<p class="p">Once the jam has been cleared you may need to press the printer's
+<p class="p">The manual for your printer will usually provide detailed instructions on
+  how to clear paper jams. Usually, you will need to open one of the printer’s
+  panels to find the jam inside and then firmly (but carefully!) pull the
+  jammed paper out of the printer’s feeding mechanism.</p>
+<p class="p">Once the jam has been cleared you may need to press the printer’s
   <span class="em">resume</span> button to start printing again. With some printers, you may
   even need to turn the printer off and then on again, and then start the print
   job again.</p>

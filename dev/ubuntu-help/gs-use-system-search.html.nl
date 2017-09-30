@@ -87,7 +87,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Om aan te passen wat er in de zoekresultaten getoond wordt:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Klik op het <span class="gui"><a href="shell-introduction.html#yourname" title="You and your computer">systeemmenu</a></span> aan de rechterkant van de bovenste balk.</p></li>
+<li class="steps"><p class="p">Klik op het <span class="gui"><a href="shell-introduction.html#yourname" title="U en uw computer">systeemmenu</a></span> aan de rechterkant van de bovenste balk.</p></li>
 <li class="steps"><p class="p">Klik op de knop Instellingen linksonder in het menu.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Search</span> panel.</p></li>
 <li class="steps"><p class="p">Klik in de lijst met zoeklocaties op de <span class="gui">AAN/UIT</span>-schakelaar naast de zoeklocatie die u wilt in- of uitschakelen.</p></li>
@@ -110,7 +110,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-apps-open.html" title="Start applications">Start applications</a><span class="desc"> — Launch apps from the <span class="gui">Activities</span> overview.</span>
+<a href="shell-apps-open.html" title="Toepassingen starten">Toepassingen starten</a><span class="desc"> — Launch apps from the <span class="gui">Activities</span> overview.</span>
 </li></ul></div>
 </div></div>
 </div>

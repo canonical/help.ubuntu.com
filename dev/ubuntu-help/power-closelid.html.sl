@@ -53,7 +53,12 @@
 <div class="hgroup"><h1 class="title"><span class="title">Zakaj se moj računalnik ob zaprtju pokrova izklopi?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Ko pokrov svojega prenosnika zaprete, bo vaš računalnik prešel <span class="link"><a href="power-suspend.html" title="Kaj se zgodi, ko pošljem računalnik v pripravljenost?"><span class="em">v pripravljenost</span></a></span> za varčevanje z energijo. To pomeni, da vaš računalnik ni izklopljen, je le prešel v stanje pripravljenosti. Iz stanja pripravljenosti ga lahko povrnete z odprtjem pokrova. V primeru da se računalnik ne povrne, poskusite s klikom na miško ali s pritiskom na tipko. Če to še vedno ne deluje, pritisnite na gumb za vklop.</p>
+<p class="p">When you close the lid of your laptop, your computer will
+  <span class="link"><a href="power-suspend.html" title="Kaj se zgodi, ko pošljem računalnik v pripravljenost?"><span class="em">suspend</span></a></span> in order to save power.
+  This means that the computer is not actually turned off — it has just gone to
+  sleep. You can resume it by opening the lid. If it does not resume, try
+  clicking the mouse or pressing a key. If that still does not work, press the
+  power button.</p>
 <p class="p">Nekateri računalniki ne morejo preiti v stanje pripravljenosti. Običajno se to zgodi, ker njihove strojne opreme operacijski sistem ne podpira popolnoma (na primer gonilniki Linux so nepopolni). V tem primeru boste morda ugotovili, da svojega računalnika po zaprtju pokrova ne morete povrniti iz stanja pripravljenosti. Poskusite lahko <span class="link"><a href="power-suspendfail.html" title="Zakaj se moj računalnik ne vklopi nazaj potem ko ga pošljem v stanje pripravljenosti?">popraviti težavo s stanjem pripravljenosti</a></span> ali pa računalniku preprečite poizkus prehoda v stanje pripravljenosti ob zaprtju pokrova.</p>
 </div>
 <div id="nosuspend" class="sect"><div class="inner">
@@ -61,18 +66,18 @@
 <div class="region"><div class="contents">
 <div class="note note-important" title="Pomembno"><div class="inner"><div class="region"><div class="contents"><p class="p">These instructions will only work if you are using <span class="app">systemd</span>.
     Contact your distribution for more information.</p></div></div></div></div>
-<div class="note note-important" title="Pomembno"><div class="inner"><div class="region"><div class="contents"><p class="p">You need to have the <span class="app">Tweak Tool</span> installed on your computer to
+<div class="note note-important" title="Pomembno"><div class="inner"><div class="region"><div class="contents"><p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
     change this setting.</p></div></div></div></div>
 <p class="p">If you do not want the computer to suspend when you close the lid, you can
   change the setting for that behavior.</p>
 <div class="note note-warning" title="Opozorilo"><div class="inner"><div class="region"><div class="contents"><p class="p">Pri spreminjanju te nastavitve bodite previdni. Nekateri prenosniki se lahko pregrejejo, če delujejo z zaprtim pokrovom, še posebno, če so v omejenem prostoru kot je nahrbtnik.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Tweak Tool</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Tweak Tool</span> to open the application.</p></li>
+      start typing <span class="gui">Tweaks</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Tweaks</span> to open the application.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Power</span> tab.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Don't suspend on lid close</span> to <span class="gui">ON</span>.</p></li>
-<li class="steps"><p class="p">Close the <span class="gui">Tweak Tool</span> window.</p></li>
+<li class="steps"><p class="p">Switch <span class="gui">Don’t suspend on lid close</span> to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Close the <span class="gui">Tweaks</span> window.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>

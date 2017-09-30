@@ -70,7 +70,9 @@
 </div></div>
 </div></div>
 <p class="p">Faites glisser le curseur <span class="gui">Délai d'acceptation</span> pour ajuster la durée d'appui sur une touche avant qu'il ne soit accepté.</p>
-<p class="p">Vous pouvez demander à votre ordinateur d'émettre un son quand une touche est enfoncée, acceptée ou quand elle est refusée parce que vous n'avez pas maintenu la pression suffisamment longtemps.</p>
+<p class="p">You can have your computer make a sound when you press a key, when a key
+  press is accepted, or when a key press is rejected because you didn’t hold
+  the key down long enough.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -78,7 +80,7 @@
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard.html" title="Clavier">Clavier</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Agencement du clavier</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Clignotement du curseur">clignotement du curseur</a></span>, <span class="link"><a href="a11y.html#mobility" title="Mobilité défaillante">accessibilité du clavier</a></span>…</span>
+<a href="keyboard.html" title="Clavier">Clavier</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Utiliser des configurations de clavier alternatives">Agencement du clavier</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Clignotement du curseur">clignotement du curseur</a></span>, <span class="link"><a href="a11y.html#mobility" title="Mobilité défaillante">accessibilité du clavier</a></span>…</span>
 </li>
 <li class="links "><a href="a11y.html#mobility" title="Mobilité défaillante">Mobilité défaillante</a></li>
 </ul></div>

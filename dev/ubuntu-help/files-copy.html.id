@@ -52,7 +52,7 @@
 <p class="p">Berkas atau folder dapat disalin atau dipindah ke lokasi baru dengan menyeret dan jatuhkan  memakai tetikus, memakai perintah salin dan tempel, atau memakai pintasan papan tik.</p>
 <p class="p">For example, you might want to copy a presentation onto a memory stick so
  you can take it to work with you. Or, you could make a back-up copy of a
- document before you make changes to it (and then use the old copy if you don't
+ document before you make changes to it (and then use the old copy if you don’t
  like your changes).</p>
 <p class="p">Instruksi ini berlaku bagi berkas dan folder. Anda menyalin dan memindah berkas dan folder dengan cara yang sama persis.</p>
 <div class="steps ui-expander">
@@ -101,7 +101,8 @@
 <p class="p">Click and drag the file from one window to another. This will
  <span class="em">move it</span> if the destination is on the <span class="em">same</span> device, or
  <span class="em">copy it</span> if the destination is on a <span class="em">different</span> device.</p>
-<p class="p">Sebagai contoh, bila Anda menyeret suatu berkas dari stik memori USB ke folder Rumah Anda, itu akan disalin, karena Anda menyeret dari satu perangkat ke yang lainnya.</p>
+<p class="p">For example, if you drag a file from a USB memory stick to your Home folder,
+ it will be copied, because you’re dragging from one device to another.</p>
 <p class="p">Anda dapat memaksa berkas disalin dengan menahan tombol <span class="key"><kbd>Ctrl</kbd></span> ketika menyeret, atau memaksanya dipindah dengan menahan tombol <span class="key"><kbd>Shift</kbd></span> ketika menyeret.</p>
 </li>
 </ol></div>

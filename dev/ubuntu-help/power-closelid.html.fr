@@ -53,25 +53,30 @@
 <div class="hgroup"><h1 class="title"><span class="title">Mise en veille de l'ordinateur quand l'écran est rabattu</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Si vous rabattez l'écran de votre ordinateur portable, il se met en <span class="link"><a href="power-suspend.html" title="Que se passe-t-il lorsque je mets en veille mon ordinateur ?"><span class="em">veille</span></a></span> pour économiser l'énergie. Cela ne signifie pas qu'il s'éteint - il s'est juste mis en veille. Relevez l'écran et il se réveille. Si ce n'est pas le cas, essayez de cliquer avec la souris ou d'appuyer sur une touche. Si ça ne marche toujours pas, appuyez sur le bouton de mise en marche.</p>
+<p class="p">When you close the lid of your laptop, your computer will
+  <span class="link"><a href="power-suspend.html" title="Que se passe-t-il lorsque je mets en veille mon ordinateur ?"><span class="em">suspend</span></a></span> in order to save power.
+  This means that the computer is not actually turned off — it has just gone to
+  sleep. You can resume it by opening the lid. If it does not resume, try
+  clicking the mouse or pressing a key. If that still does not work, press the
+  power button.</p>
 <p class="p">Certains ordinateurs n'arrivent pas à se mettre en veille convenablement, souvent parce que leur matériel n'est pas complètement pris en charge par le système d'exploitation (par ex. il manque des pilotes Linux). Le résultat est que vous ne pouvez pas réveiller l'ordinateur après avoir abaissé le couvercle. Essayez soit de <span class="link"><a href="power-suspendfail.html" title="Pourquoi mon ordinateur ne sort-il pas de veille après une suspension ?">résoudre le problème de la mise en veille</a></span>, soit d'empêcher la mise en veille quand vous rabattez l'écran.</p>
 </div>
 <div id="nosuspend" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Désactivation de la mise en veille à la fermeture de l'écran</span></h2></div>
 <div class="region"><div class="contents">
 <div class="note note-important" title="Important"><div class="inner"><div class="region"><div class="contents"><p class="p">Ces instructions ne sont valables que si vous utilisez <span class="app">systemd</span>. Consultez votre distribution pour de plus amples informations.</p></div></div></div></div>
-<div class="note note-important" title="Important"><div class="inner"><div class="region"><div class="contents"><p class="p">You need to have the <span class="app">Tweak Tool</span> installed on your computer to
+<div class="note note-important" title="Important"><div class="inner"><div class="region"><div class="contents"><p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
     change this setting.</p></div></div></div></div>
 <p class="p">If you do not want the computer to suspend when you close the lid, you can
   change the setting for that behavior.</p>
 <div class="note note-warning" title="Avertissement"><div class="inner"><div class="region"><div class="contents"><p class="p">Faites très attention si vous modifiez ce paramètre. Certains ordinateurs portables peuvent surchauffer s'ils restent allumés avec le couvercle rabattu, notamment s'ils sont dans un espace confiné comme un sac à dos.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
-      start typing <span class="gui">Tweak Tool</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Tweak Tool</span> to open the application.</p></li>
+      start typing <span class="gui">Tweaks</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Tweaks</span> to open the application.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Power</span> tab.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Don't suspend on lid close</span> to <span class="gui">ON</span>.</p></li>
-<li class="steps"><p class="p">Close the <span class="gui">Tweak Tool</span> window.</p></li>
+<li class="steps"><p class="p">Switch <span class="gui">Don’t suspend on lid close</span> to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Close the <span class="gui">Tweaks</span> window.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>

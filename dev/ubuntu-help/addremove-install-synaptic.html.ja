@@ -64,7 +64,10 @@
 <div class="hgroup"><h2 class="title"><span class="title">Synapticでソフトウェアをインストールする</span></h2></div>
 <div class="region"><div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p"><span class="gui">Dash</span>または<span class="gui">Launcher</span>からSynapticを開きます。<span class="gui">認証</span>ウィンドウにパスワードを入力する必要があるでしょう。</p></li>
+<li class="steps"><p class="p">
+          Open <span class="app">Synaptic</span> via the <span class="em">Activities</span> search bar. You 
+          will need to enter your password in the <span class="gui">Authenticate</span> window.
+        </p></li>
 <li class="steps"><p class="p"><span class="gui">検索</span>をクリックしてアプリケーションを検索するか、<span class="gui">セクション</span>をクリックしてカテゴリーからアプリケーションを探します。</p></li>
 <li class="steps"><p class="p">インストールしたいアプリケーションを右クリックし、<span class="gui">インストール指定</span>を選択します。</p></li>
 <li class="steps"><p class="p">追加の変更点をマークするよう尋ねられた場合は、<span class="gui">マーク</span>をクリックしてください。</p></li>

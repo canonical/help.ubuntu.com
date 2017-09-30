@@ -54,8 +54,19 @@
 <div class="region">
 <div class="contents">
 <p class="p">ウイルスとは、コンピューターに侵入して問題を引き起こすプログラムです。コンピューターへの感染経路として多く見られるものは、メールを経由するものです。</p>
-<p class="p">Linux が動作しているコンピューターに感染するウイルスはめったにありません。そのため、あなたが、<span class="link"><a href="net-antivirus.html" title="ウイルス除去ソフトウェアは必要ですか?">メールやその他の媒体を通じてウイルスに感染する可能性は大きくありません</a></span>。ウイルスがひそんだメールを受信しても、おそらくお使いのコンピューターには何も影響しないでしょう。そういう意味では、メールのウイルススキャンをする必要はないと言えます。</p>
-<p class="p">しかしながら、ある人から送られてきたウイルスメールをうっかり別の人に転送してしまう場合があるので、メールスキャンはしておいた方がよいでしょう。たとえば、ウイルスに感染した Windows 機を使う友達が、あなたにウイルスメールを送信してしまい、さらにあなたがそのメールを、Windows 機を使う別の友達宛に転送したとしましょう。この場合、2 番目の友達もウイルスに感染してしまう恐れがあります。メールスキャンを行うアンチウイルスソフトをインストールしてこうした問題を避けられますが、よく起きることではありませんし、いずれにせよ Windows や Mac OS を使用する人のほとんどは自分でアンチウイルスソフトを導入しています。</p>
+<p class="p">Viruses that can affect computers running Linux are quite rare, so you are
+  <span class="link"><a href="net-antivirus.html" title="ウイルス除去ソフトウェアは必要ですか?">unlikely to get a virus through email or
+  otherwise</a></span>. If you receive an email with a virus hidden in it, it will
+  probably have no effect on your computer. As such, you probably don’t need to
+  scan your email for viruses.</p>
+<p class="p">You may, however, wish to scan your email for viruses in case you happen
+  to forward a virus from one person to another. For example, if one of your
+  friends has a Windows computer with a virus and sends you a virus-infected
+  email, and you then forward that email to another friend with a Windows
+  computer, then the second friend might get the virus too. You could install
+  an anti-virus application to scan your emails to prevent this, but it’s
+  unlikely to happen and most people using Windows and Mac OS have anti-virus
+  software of their own anyway.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -81,7 +92,8 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-antivirus.html" title="ウイルス除去ソフトウェアは必要ですか?">ウイルス除去ソフトウェアは必要ですか?</a><span class="desc"> — Linux にはウイルスはほとんど見られないため、ウイルス除去ソフトウェアは必要ないでしょう。</span>
+<a href="net-antivirus.html" title="ウイルス除去ソフトウェアは必要ですか?">ウイルス除去ソフトウェアは必要ですか?</a><span class="desc"> — There are few Linux viruses, so you probably don’t need anti-virus
+    software.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -49,11 +49,8 @@
 <div class="hgroup"><h1 class="title"><span class="title">Baca layar dalam Braille</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">GNOME provides the <span class="app">Orca</span> screen reader to display the user
-  interface on a refreshable Braille display. Depending on how you installed
-  GNOME, you might not have Orca installed. If not, install Orca first.</p>
-<p class="p">Refer to the <span class="link"><a href="help:orca" title="help:orca">Orca Help</a></span> for
-  more information.</p>
+<p class="p">GNOME menyediakan pembaca layar <span class="app">Orca</span> untuk menampilkan antar muka pengguna pada suatu tampilan Braille yang dapat disegarkan. Bergantung kepada bagaimana Anda memasang GNOME, mungkin Anda belum memasang Orca. Bila tidak, pasang Orca terlebih dahulu.</p>
+<p class="p">Lihat <span class="link"><a href="help:orca" title="help:orca">Bantuan Orca</a></span> untuk informasi lebih lanjut.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

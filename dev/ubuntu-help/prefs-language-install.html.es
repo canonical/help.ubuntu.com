@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Install &amp; remove software">Añadir/eliminar software</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Instalar y eliminar software">Añadir/eliminar software</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Instalar idiomas</span></h1></div>
@@ -51,8 +51,11 @@
 <div class="contents">
 <p class="p">Cuando instale Ubuntu, el idioma que selecciona en la instalación se instala junto con el inglés, pero puede añadir más idiomas posteriormente.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the <span class="em">system menu</span> and select <span class="gui">System Settings</span>.</p></li>
-<li class="steps"><p class="p">En la sección Personal pulse <span class="gui">Soporte de idiomas</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Activities</a></span> overview and
+      start typing <span class="gui">Region &amp; Language</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Manage Installed Languages</span> button to open <span class="gui">Language
+      Support</span>.</p></li>
 <li class="steps"><p class="p">Haga clic en <span class="gui">Instalar o eliminar idiomas...</span>. La ventana <span class="gui">Idiomas instalados</span> muestra todos los idiomas disponibles, con los idiomas actualmente instalados marcados.</p></li>
 <li class="steps"><p class="p">Marque los idiomas que desea instalar, y quite la marca de aquellos que están actualmente instalados y quiere eliminar.</p></li>
 <li class="steps"><p class="p">Pulse <span class="gui">Aplicar cambios</span>.</p></li>
@@ -67,26 +70,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html" title="Desinstalar una aplicación">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html" title="Add software repositories">add repositories</a></span>…
-    </span>
+<a href="addremove.html" title="Instalar y eliminar software">Instalar y eliminar software</a><span class="desc"> — <span class="link"><a href="addremove-install.html" title="Instalar aplicaciones adicionales">Instalar aplicaciones</a></span>, <span class="link"><a href="addremove-remove.html" title="Desinstalar una aplicación">desinstalar aplicaciones</a></span>, <span class="link"><a href="addremove-sources.html" title="Añadir repositorios de software">añadir repositorios</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install.html" title="Install additional applications">
-    Install additional applications
-  </a><span class="desc"> — 
-      Use <span class="app">Ubuntu Software</span> to install additional applications and make Ubuntu more 
-      useful.
-    </span>
+<a href="addremove-install.html" title="Instalar aplicaciones adicionales">Instalar aplicaciones adicionales</a><span class="desc"> — Use <span class="app">Ubuntu Software</span> para instalar aplicaciones adiciones y hacer a Ubuntu más útil.</span>
 </li>
 <li class="links ">
-<a href="prefs-language.html" title="Región e idioma">Región e idioma</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Cambiar el idioma que usa">Idioma</a></span>, <span class="link"><a href="session-formats.html" title="Cambiar la fecha y los formatos de medida">región y formatos</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">distribuciones de teclado</a></span>…</span>
+<a href="prefs-language.html" title="Región e idioma">Región e idioma</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Cambiar el idioma que usa">Idioma</a></span>, <span class="link"><a href="session-formats.html" title="Cambiar la fecha y los formatos de medida">región y formatos</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Usar distribuciones de teclado alternativas">distribuciones de teclado</a></span>…</span>
 </li>
 </ul></div>
 </div></div>

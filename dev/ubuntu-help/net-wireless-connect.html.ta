@@ -78,7 +78,12 @@
     indicate a stronger connection to the network. Fewer bars mean the
     connection is weaker and might not be very reliable.</p></li>
 </ol></div></div></div>
-<p class="p">இணைப்பு வெற்றிகரமாக உருவாக்கப்படாவிட்டால், மீண்டும் கடவுச்சொல் கேட்கப்படலாம் அல்லது இணைப்பு துண்டிக்கப்பட்டது என கூறப்படலாம். இதற்கு பல காரணங்கள் இருக்கலாம். உதாரணமாக கடவுச்சொல் தவறாக இருக்கலாம், வயர்லெஸ் சிக்னல் மிக பலவீனமாக இருக்கலாம் அல்லது கணினியின் வயர்லெஸ் கார்டில் சிக்கல் இருக்கலாம். மேலும் உதவிக்கு <span class="link"><a href="net-wireless-troubleshooting.html" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">வயர்லெஸ் பிணைய சிக்கல்தீர்வி</a></span> ஐப் பார்க்கவும்.</p>
+<p class="p">If the connection is not successful, you may be asked for your password
+  again or it might just tell you that the connection has been disconnected.
+  There are a number of things that could have caused this to happen. You could
+  have entered the wrong password, the wireless signal could be too weak, or
+  your computer’s wireless card might have a problem, for example. See
+  <span class="link"><a href="net-wireless-troubleshooting.html" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">வயர்லெஸ் பிணைய சிக்கல்தீர்வி</a></span> for more help.</p>
 <p class="p">வயர்லெஸ் இணைப்பு வலிமையாக இருந்தால் உங்கள் இணைய இணைப்பு வேகமாக இருக்கும் என்றோ அல்லது பதிவிறக்க வேகம் அதிகமாக இருக்கும் என்றோ கூற முடியாது. வயர்லெஸ் இணைப்பானது உங்கள் கணினியை <span class="em">இணைய இணைப்பை வழங்கும் சாதனத்துடன்</span> (ரௌட்டர் அல்லது மோடம் போன்று) இணைக்கிறது, ஆனால் இரண்டு இணைப்புகளும் வெவ்வேறு, அவை வெவ்வேறு வேகங்களைக் கொண்டிருக்கலாம்.</p>
 </div>
 <div class="sect sect-links" role="navigation">

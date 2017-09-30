@@ -53,13 +53,14 @@
   anti-virus software running all of the time. Anti-virus software runs in the
   background, constantly checking for computer viruses that might find their
   way onto your computer and cause problems.</p>
-<p class="p">Anti-virus software does exist for Linux, but you probably don't need to
+<p class="p">Anti-virus software does exist for Linux, but you probably don’t need to
   use it. Viruses that affect Linux are still very rare. Some argue that this
   is because Linux is not as widely used as other operating systems, so no one
   writes viruses for it. Others argue that Linux is intrinsically more secure,
   and security problems that viruses could make use of are fixed very
   quickly.</p>
-<p class="p">Apapun alasannya, virus Linux begitu jarang sehingga Anda tak perlu mengkhawatirkan mereka saat ini.</p>
+<p class="p">Whatever the reason, Linux viruses are so rare that you don’t really need
+  to worry about them at the moment.</p>
 <p class="p">If you want to be extra-safe, or if you want to check for viruses in files
   that you are passing between yourself and people using Windows and Mac OS,
   you can still install anti-virus software. Check in the software installer or
@@ -71,11 +72,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-security.html" title="Tetap aman di internet">Tetap aman di internet</a><span class="desc"> — 
-      <span class="link"><a href="net-antivirus.html" title="Apakah saya perlu perangkat lunak anti virus?">Antivirus software</a></span>,
-      <span class="link"><a href="net-firewall-on-off.html" title="Aktifkan atau blok akses firewall">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html" title="Port jaringan yang biasa dipakai">firewall ports</a></span>…
-    </span>
+<a href="net-security.html" title="Tetap aman di internet">Tetap aman di internet</a><span class="desc"> — <span class="link"><a href="net-antivirus.html" title="Apakah saya perlu perangkat lunak anti virus?">Perangkat lunak anti virus</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Aktifkan atau blok akses firewall">firewall dasar</a></span>, <span class="link"><a href="net-firewall-ports.html" title="Port jaringan yang biasa dipakai">port firewall</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

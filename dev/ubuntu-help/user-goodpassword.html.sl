@@ -55,14 +55,19 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
 <p class="p">V geslu uporabite mešanico velikih in malih črk, števil, simbolov in presledkov. To naredi ugibanje težavnejše. Na voljo za izbiranje je več simbolov, zato mora napadalec pri ugibanju vašega gesla preveriti več možnih gesel.</p>
-<div class="note" title="Opomba"><div class="inner"><div class="region"><div class="contents"><p class="p">Dober način za izbiro gesla je ta, da vzamete prvo črko vsake besede v frazi, ki si jo lahko zapomnite. Fraza je lahko ime filma, knjige, pesmi ali albuma. Na primer "Flatland: A Romance of Many Dimensions" bi postal F:ARoMD ali faromd ali f: aromd.</p></div></div></div></div>
+<div class="note" title="Opomba"><div class="inner"><div class="region"><div class="contents"><p class="p">A good method for choosing a password is to take the first letter of
+        each word in a phrase that you can remember. The phrase could be the
+        name of a movie, a book, a song or an album. For example, “Flatland: A
+        Romance of Many Dimensions” would become F:ARoMD or faromd or f:
+        aromd.</p></div></div></div></div>
 </li>
 <li class="list"><p class="p">Naredite svoja gesla kolikor je mogoče dolga. Več črk kot vsebujejo, dlje časa bo oseba ali računalnik porabila za njihovo ugibanje.</p></li>
 <li class="list"><p class="p">Do not use any words that appear in a standard dictionary in any
       language. Password crackers will try these first. The most common
-      password is "password" – people can guess passwords like this very
+      password is “password” — people can guess passwords like this very
       quickly!</p></li>
-<li class="list"><p class="p">Ne uporabljajte osebnih podatkov kot so datum, število na registrski tablici ali ime družinskega člana.</p></li>
+<li class="list"><p class="p">Do not use any personal information such as a date, license plate
+      number, or any family member’s name.</p></li>
 <li class="list"><p class="p">Ne uporabljajte samostalnikov.</p></li>
 <li class="list">
 <p class="p">Izberite geslo, ki ga je mogoče hitro vtipkati in s tem zmanjšajte možnost, da lahko nekdo, ki stoji za vami in vas gleda, ugotovi kaj ste vtipkali.</p>

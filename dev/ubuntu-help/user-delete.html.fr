@@ -49,7 +49,9 @@
 <div class="hgroup"><h1 class="title"><span class="title">Suppression d'un compte utilisateur</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Vous pouvez <span class="link"><a href="user-add.html" title="Ajout d'un nouveau compte utilisateur">ajoutez plusieurs comptes d'utilisateurs à votre ordinateur</a></span>. Si un utilisateur ne se sert plus de votre ordinateur, vous pouvez supprimer son compte.</p>
+<p class="p">You can <span class="link"><a href="user-add.html" title="Ajout d'un nouveau compte utilisateur">add multiple user accounts to your
+  computer</a></span>. If somebody is no longer using your computer, you can delete
+  that user’s account.</p>
 <p class="p">Il vous faut les <span class="link"><a href="user-admin-explain.html" title="Comment les privilèges administrateur fonctionnent-ils ?">privilèges administrateur</a></span> pour supprimer des comptes utilisateur.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
@@ -58,7 +60,7 @@
 <li class="steps"><p class="p">Cliquez sur le bouton <span class="gui">Déverrouiller</span> en haut à droite et saisissez votre mot de passe.</p></li>
 <li class="steps"><p class="p">Dans la liste des comptes à gauche, sélectionnez le compte utilisateur que vous voulez supprimer et cliquez sur <span class="gui">-</span>.</p></li>
 <li class="steps"><p class="p">Each user has their own home folder for their files and settings. You
-      can choose to keep or delete the user's home folder. Click <span class="gui">Delete
+      can choose to keep or delete the user’s home folder. Click <span class="gui">Delete
       Files</span> if you are sure they will not be used anymore and you need to
       free up disk space. These files are permanently deleted. They cannot be
       recovered. You may want to back up the files to an external storage device

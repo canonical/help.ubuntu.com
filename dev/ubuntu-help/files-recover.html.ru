@@ -61,8 +61,15 @@
 <li class="steps"><p class="p">Если удалённый файл находится там, нажмите на него и выберите <span class="gui">Восстановить</span>. Он будет восстановлен в ту папку, из которой был удалён.</p></li>
 </ol></div>
 </div></div>
-<p class="p">Если вы удалили файл нажатием <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Delete </kbd></span></span> или из командной строки, то файл был удалён безвозвратно. Безвозвратно удалённые файлы невозможно восстановить из <span class="gui">корзины</span>.</p>
-<p class="p">Существуют утилиты для восстановления информации, с помощью которых иногда удаётся восстановить безвозвратно удалённые файлы. Как правило, они не очень просты в использовании. Если вы случайно безвозвратно удалили файл, возможно, лучше попросить совета о том, как его восстановить, на форуме поддержки.</p>
+<p class="p">If you deleted the file by pressing <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Delete
+  </kbd></span></span>, or by using the command line, the file has been permanently
+  deleted. Files that have been permanently deleted can’t be recovered from the
+  <span class="gui">Trash</span>.</p>
+<p class="p">There are a number of recovery tools available that are sometimes able to
+  recover files that were permanently deleted. These tools are generally not
+  very easy to use, however. If you accidentally permanently deleted a file,
+  it’s probably best to ask for advice on a support forum to see if you can
+  recover it.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -75,7 +82,8 @@
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="files-lost.html" title="Поиск потерянного файла">Поиск потерянного файла</a><span class="desc"> — Воспользуйтесь этими советами, если не можете найти созданный или загруженный вами файл.</span>
+<a href="files-lost.html" title="Поиск потерянного файла">Поиск потерянного файла</a><span class="desc"> — Follow these tips if you can’t find a file you created or
+    downloaded.</span>
 </li>
 <li class="links ">
 <a href="files-delete.html" title="Удаление файлов и папок">Удаление файлов и папок</a><span class="desc"> — Удалите файлы или папки, которые больше не нужны.</span>

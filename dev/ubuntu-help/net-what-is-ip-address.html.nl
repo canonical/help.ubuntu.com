@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>What is an IP address?</title>
+<title>Wat is een IP-adres?</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,25 +43,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html" title="Networking terms &amp; tips">Networking terms &amp; tips</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-general.html" title="Netwerktermen &amp; -tips">Netwerktermen &amp; -tips</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">What is an IP address?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Wat is een IP-adres?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">"IP address" stands for <span class="em">Internet Protocol address</span>, and each
+<p class="p">“IP address” stands for <span class="em">Internet Protocol address</span>, and each
   device that is connected to a network (like the internet) has one.</p>
-<p class="p">An IP address is similar to your phone number. Your phone number is a
-  unique set of numbers that identifies your phone so that other people can
-  call you. Similarly, an IP address is a unique set of numbers that identifies
-  your computer so that it can send and receive data with other computers.</p>
-<p class="p">Currently, most IP addresses consist of four sets of numbers, each
-  separated by a period. <span class="code">192.168.1.42</span> is an example of an IP
-  address.</p>
+<p class="p">Een IP-adres is net als uw telefoonnummer. Uw telefoonnummer is een unieke reeks cijfers waarmee uw telefoon wordt geïdentificeerd zodat anderen u kunnen bellen. Zo ook is een IP-adres een reeks cijfers waarmee uw computer geïdentificeerd wordt, zodat die data kan versturen naar en ontvangen van andere computers.</p>
+<p class="p">Op dit moment bestaan de meeste IP-adressen uit vier sets getallen, elk gescheiden door een punt. <span class="code">192.168.1.42</span> is een voorbeeld van een IP-adres.</p>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">An IP address can either be <span class="em">dynamic</span> or <span class="em">static</span>. Dynamic
     IP addresses are temporarily assigned each time your computer connects to a
     network. Static IP addresses are fixed, and do not change. Dynamic IP
-    addresses are more common that static addresses - static addresses are
+    addresses are more common that static addresses — static addresses are
     typically only used when there is a special need for them, such as in the
     administration of a server.</p></div></div></div></div>
 </div>
@@ -71,18 +66,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="Networking terms &amp; tips">Networking terms &amp; tips</a><span class="desc"> — 
-      <span class="link"><a href="net-findip.html" title="Find your IP address">Find your IP address</a></span>,
-      <span class="link"><a href="net-wireless-wepwpa.html" title="What do WEP and WPA mean?">WEP &amp; WPA security</a></span>,
-      <span class="link"><a href="net-macaddress.html" title="What is a MAC address?">MAC addresses</a></span>,
-      <span class="link"><a href="net-proxy.html" title="Define proxy settings">proxies</a></span>…
-    </span>
+<a href="net-general.html" title="Netwerktermen &amp; -tips">Netwerktermen &amp; -tips</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="Uw IP-adres achterhalen">Uw IP-adres vinden</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Wat betekenen WEP en WPA?">WEP- &amp; WPA-beveiliging</a></span>, <span class="link"><a href="net-macaddress.html" title="Wat is een MAC-adres?">MAC-adressen</a></span>, <span class="link"><a href="net-proxy.html" title="Proxy-instellingen definiëren">proxy's</a></span>...</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-findip.html" title="Find your IP address">Find your IP address</a><span class="desc"> — Knowing your IP address can help you troubleshoot network problems.</span>
+<a href="net-findip.html" title="Uw IP-adres achterhalen">Uw IP-adres achterhalen</a><span class="desc"> — Weten wat uw IP-adres is kan helpen bij het oplossen van netwerkproblemen.</span>
 </li></ul></div>
 </div></div>
 </div>

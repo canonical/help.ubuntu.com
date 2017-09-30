@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Check your backup</title>
+<title>Uw reservekopie controleren</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,34 +43,24 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html#backup" title="Backing up">Backing up</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#backup" title="Reservekopieën maken">Reservekopieën maken</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Check your backup</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Uw reservekopie controleren</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">After you have backed up your files, you should make sure that the
- backup was successful. If it didn't work properly, you could lose important
+ backup was successful. If it didn’t work properly, you could lose important
  data since some files could be missing from the backup.</p>
-<p class="p">When you use <span class="app">Files</span> to copy or move files, the computer checks
-   to make sure that all of the data transferred correctly. However, if you are
-   transferring data that is very important to you, you may want to perform
-   additional checks to confirm that your data has been transferred
-   properly.</p>
-<p class="p">You can do an extra check by looking through the copied files
- and folders on the destination media. By checking to make sure that the files
- and folders you transferred are actually there in the backup, you can have
- extra confidence that the process was successful.</p>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">If you find that you do regular backups of large amounts
- of data, you may find it easier to use a dedicated backup program, such as
- <span class="app">Déjà Dup</span>. Such a program is more powerful and more reliable than
- just copying and pasting files.</p></div></div></div></div>
+<p class="p">Wanneer u <span class="app">Bestanden</span> gebruikt om bestanden te kopiëren of te verplaatsen controleert de computer of alle gegevens op de juiste wijze zijn overgebracht. Maar als u gegevens overbrengt die zeer belangrijk voor u zijn, dan wilt u misschien extra controles uitvoeren om te bevestigen dat uw gegevens op de juiste wijze zijn overgebracht.</p>
+<p class="p">U kunt een extra controle uitvoeren door de gekopieerde bestanden en mappen op het doelmedium na te lopen. Door te controleren of de door u overgebrachte bestanden en mappen zich ook werkelijk in de reservekopie bevinden, kunt u erop vertrouwen dat het proces geslaagd is.</p>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Als u regelmatig reservekopieën maakt van grote hoeveelheden gegevens, dan is het misschien eenvoudiger om een speciaal voor dit doel gemaakt toepassing zoals <span class="app">Déjà Dup</span> te gebruiken. Een dergelijk programma is krachtiger en betrouwbaarder dan het eenvoudigweg kopiëren en plakken van bestanden.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#backup" title="Backing up">Backing up</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html#backup" title="Reservekopieën maken">Reservekopieën maken</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

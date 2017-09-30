@@ -70,11 +70,15 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">クリックするにはタッチパッドをタップします。</p></li>
 <li class="list"><p class="p">ダブルクリックするには2回タップします。</p></li>
-<li class="list"><p class="p">アイテムをドラッグするには、ダブルタップを行いますが2回目のタップの後、指を上げません。移動したいところにアイテムをドラッグし、指をはなしてドロップします。</p></li>
+<li class="list"><p class="p">To drag an item, double-tap but don’t lift your finger after the
+      second tap. Drag the item where you want it, then lift your finger to
+      drop.</p></li>
 <li class="list"><p class="p">タッチパッドがマルチタップをサポートしているなら、いちどに2つの指でタップすることで右クリックすることができます。サポートしていない場合は右クリックボタンが必要です。マウスの副ボタンを使わず右クリックする方法については<span class="link"><a href="a11y-right-click.html" title="右クリックを代替する">右クリックを代替する</a></span>を参照してください。</p></li>
 <li class="list"><p class="p">タッチパッドがマルチタップをサポートしているなら、 3つの指を同時にタップして<span class="link"><a href="mouse-middleclick.html" title="中クリック">中クリック</a></span>ができます。</p></li>
 </ul></div></div></div>
-<div class="note" title="注記"><div class="inner"><div class="region"><div class="contents"><p class="p">複数の指でタップかドラッグをしている時、指が十分に離れているか確認してください。もし指が近くにある場合、コンピューターは1つの指と識認する可能性があります。</p></div></div></div></div>
+<div class="note" title="注記"><div class="inner"><div class="region"><div class="contents"><p class="p">When tapping or dragging with multiple fingers, make sure your fingers
+    are spread far enough apart. If your fingers are too close, your computer
+    may think they’re a single finger.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="twofingerscroll" class="sect"><div class="inner">

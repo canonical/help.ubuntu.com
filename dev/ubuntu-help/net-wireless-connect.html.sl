@@ -82,7 +82,7 @@
   again or it might just tell you that the connection has been disconnected.
   There are a number of things that could have caused this to happen. You could
   have entered the wrong password, the wireless signal could be too weak, or
-  your computer's wireless card might have a problem, for example. See
+  your computer’s wireless card might have a problem, for example. See
   <span class="link"><a href="net-wireless-troubleshooting.html" title="Odpravljanje težav z brezžičnimi omrežji">Odpravljanje težav z brezžičnimi omrežji</a></span> for more help.</p>
 <p class="p">Močnejša povezava z brezžičnim omrežjem ne pomeni nujno hitrejše internetne povezave ali višjih hitrosti prejemanja. Brezžična povezava vaš računalnik poveže z <span class="em">napravo, ki zagotavlja brezžično povezavo</span> (kot je usmernik ali modem), vendar sta dve povezavi dejansko različni in bosta delovali pri različnih hitrostih.</p>
 </div>

@@ -63,7 +63,12 @@
 <div class="hgroup"><h2 class="title"><span class="title">Näytön lukitseminen</span></h2></div>
 <div class="region">
 <div class="contents">
-<p class="p">Jos poistut tietokoneelta hetkeksi, lukitse näyttö estääksesi muita ihmisiä käyttämästä tiedostojasi ja sovelluksiasi. Kun palaat, avaa <span class="link"><a href="shell-lockscreen.html" title="Lukitusnäyttö">lukitusnäytön näkymä</a></span> ja kirjaudu takaisin sisään antamalla salasanasi. Jos et lukitse näyttöä itse, se lukitaan automaattisesti tietyn ajan kuluttua.</p>
+<p class="p">If you’re leaving your computer for a short time, you should lock your
+  screen to prevent other people from accessing your files or running
+  applications. When you return, raise the
+  <span class="link"><a href="shell-lockscreen.html" title="Lukitusnäyttö">lock screen</a></span> curtain and enter your
+  password to log back in. If you don’t lock your screen, it will lock
+  automatically after a certain amount of time.</p>
 <p class="p">To lock your screen, click the system menu on the right side of the top
   bar and press the lock screen button at the bottom of the menu.</p>
 <p class="p">Kun näyttö on lukittu, muut käyttäjät voivat kirjautua omilla tunnuksillaan sisään napsauttamalla <span class="gui">Vaihda käyttäjää</span>. Voit taas jatkaa työskentelyä, kun he ovat lopettaneet omansa.</p>
@@ -92,12 +97,12 @@
 <p class="p">To save power, suspend your computer when you are not using it. If you use
   a laptop, GNOME, by default, suspends your computer automatically when you
   close the lid.
-  This saves your state to your computer's memory and powers off most of the
-  computer's functions. A very small amount of power is still used during
+  This saves your state to your computer’s memory and powers off most of the
+  computer’s functions. A very small amount of power is still used during
   suspend.</p>
 <p class="p">To suspend your computer manually, click the system menu on the right side
-  of the top bar and hold down the <span class="key"><kbd>Alt</kbd></span> key. The power off button
-  will change to suspend. Press the button.</p>
+  of the top bar. From there you may either hold down the <span class="key"><kbd>Alt</kbd></span> key and 
+  click the power off button, or simply long-click the power off button.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -153,11 +158,7 @@
 </li>
 <li class="links "><a href="index.html" title="Ubuntun työpöytäopas">Ubuntun työpöytäopas</a></li>
 <li class="links ">
-<a href="power.html" title="Virransäästö ja akku">Virransäästö ja akku</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="Mitä tapahtuu, kun asetan tietokoneeni valmius- tai lepotilaan?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="Miksi näyttö himmenee itsestään?">screen dimming</a></span>…
-    </span>
+<a href="power.html" title="Virransäästö ja akku">Virransäästö ja akku</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Tarkista akun tila">Akun tila</a></span>, <span class="link"><a href="power-suspend.html" title="Mitä tapahtuu, kun asetan tietokoneeni valmius- tai lepotilaan?">valmiustila</a></span>, <span class="link"><a href="power-whydim.html" title="Miksi näyttö himmenee itsestään?">näytön himmentäminen</a></span>…</span>
 </li>
 </ul></div>
 </div></div>

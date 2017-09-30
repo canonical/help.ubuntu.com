@@ -74,7 +74,9 @@
 <p class="p">Чтобы проверить объём диска и оставшееся на нём свободное место с помощью <span class="app">Системного монитора</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Откройте приложение <span class="app">Системный монитор</span> из <span class="gui">Обзора</span>.</p></li>
-<li class="steps"><p class="p">Выберите вкладку <span class="gui">Файловые системы</span>, чтобы увидеть информацию о разделах системы и использовании дискового пространства. Эти данные отображаются в столбцах <span class="gui">Всего</span>, <span class="gui">Свободно</span>, <span class="gui">Доступно</span> и <span class="gui">Использовано</span>.</p></li>
+<li class="steps"><p class="p">Select the <span class="gui">File Systems</span> tab to view the system’s partitions and
+  disk space usage.  The information is displayed according to <span class="gui">Total</span>,
+  <span class="gui">Free</span>, <span class="gui">Available</span> and <span class="gui">Used</span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -83,8 +85,9 @@
 <div class="region"><div class="contents">
 <p class="p">Если на диске осталось слишком мало места, нужно:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Удалить не очень важные и ненужные файлы.</p></li>
-<li class="list"><p class="p">Сделать <span class="link"><a href="backup-why.html" title="Резервное копирование важных данных">резервную копию</a></span> важных файлов, которые в ближайшее время не понадобятся, и удалить их с жёсткого диска.</p></li>
+<li class="list"><p class="p">Delete files that aren’t important or that you won’t use anymore.</p></li>
+<li class="list"><p class="p">Make <span class="link"><a href="backup-why.html" title="Резервное копирование важных данных">backups</a></span> of the important files that
+   you won’t need for a while and delete them from the hard drive.</p></li>
 </ul></div></div></div>
 </div></div>
 </div></div>

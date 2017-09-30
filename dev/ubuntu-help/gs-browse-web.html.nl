@@ -75,10 +75,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html" title="Web Browsers">Web Browsers</a><span class="desc"> — 
-      <span class="link"><a href="net-default-browser.html" title="Change which web browser opens websites by default">Change the default browser</a></span>,
-      <span class="link"><a href="net-install-flash.html" title="De Flash plug-in installeren">install Flash</a></span>…
-    </span>
+<a href="net-browser.html" title="Webbrowsers">Webbrowsers</a><span class="desc"> — <span class="link"><a href="net-default-browser.html" title="Wijzigen in welke webbrowser websites geopend moeten worden">De standaard webbrowser wijzigen</a></span>, <span class="link"><a href="net-install-flash.html" title="De Flash plug-in installeren">Flash installeren</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

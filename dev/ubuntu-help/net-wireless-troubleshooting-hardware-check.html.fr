@@ -85,7 +85,11 @@
 <p class="p">Regardez dans la liste des périphériques affichés et recherchez ceux qui sont appelés <span class="code">Network controller</span> ou <span class="code">Ethernet controller</span>. Plusieurs périphériques peuvent être qualifiés de cette façon ; celui qui correspond à votre adaptateur sans fil doit inclure des termes comme <span class="code">wireless</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> ou <span class="code">802.11</span>. Voici un exemple du retour de la commande :</p>
 <div class="code"><pre class="contents ">Network controller: Intel Corporation PRO/Wireless 3945ABG [Golan] Network Connection</pre></div>
 </li>
-<li class="steps"><p class="p">Si vous avez trouvé votre adaptateur sans fil dans la liste, allez à l'<span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Dépannage du réseau sans fil">étape sur les pilotes de périphérique</a></span>. Si vous n'avez rien trouvé qui ressemble à votre adaptateur sans fil, consultez <span class="link"><a href="#not-recognized" title="Adaptateur sans fil non reconnu">les instructions ci-dessous</a></span>.</p></li>
+<li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
+      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Dépannage du réseau sans fil">Device Drivers
+      step</a></span>. If you didn’t find anything related to your wireless
+      adapter, see
+      <span class="link"><a href="#not-recognized" title="Adaptateur sans fil non reconnu">the instructions below</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -99,7 +103,11 @@
 <p class="p">Regardez dans la liste des périphériques qui s'affiche et recherchez-en un qui semble se référer à un périphérique ou un réseau sans fil. Celui qui correspond à votre adaptateur devrait contenir des termes comme <span class="code">wireless</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> ou <span class="code">802.11</span>. Voici un exemple du retour de cette commande :</p>
 <div class="code"><pre class="contents ">Bus 005 Device 009: ID 12d1:140b Huawei Technologies Co., Ltd. EC1260 Wireless Data Modem HSD USB Card</pre></div>
 </li>
-<li class="steps"><p class="p">Si vous avez trouvé votre adaptateur sans fil dans la liste, allez à l'<span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Dépannage du réseau sans fil">étape sur les pilotes de périphérique</a></span>. Si vous n'avez rien trouvé qui ressemble à votre adaptateur sans fil, consultez <span class="link"><a href="#not-recognized" title="Adaptateur sans fil non reconnu">les instructions ci-dessous</a></span>.</p></li>
+<li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
+      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Dépannage du réseau sans fil">Device Drivers
+      step</a></span>. If you didn’t find anything related to your wireless
+      adapter, see
+      <span class="link"><a href="#not-recognized" title="Adaptateur sans fil non reconnu">the instructions below</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -112,11 +120,17 @@
 <li class="steps">
 <p class="p">ouvrez un terminal et saisissez ce qui suit, puis appuyez sur <span class="key"><kbd>Entrée</kbd></span> :</p>
 <div class="code"><pre class="contents ">tail -f /var/log/messages</pre></div>
-<p class="p">Cette commande affiche une liste de messages concernant le matériel composant votre ordinateur et se met à jour automatiquement dès que quelque chose change dans la composition.</p>
+<p class="p">This will display a list of messages related to your computer’s
+      hardware, and will automatically update if anything to do with your
+      hardware changes.</p>
 </li>
 <li class="steps"><p class="p">Introduisez votre adaptateur sans fil dans le logement PCMCIA et regardez ce qui change dans la fenêtre du terminal. Les changements doivent inclure des informations concernant votre adaptateur sans fil. Recherchez-les pour les identifier.</p></li>
 <li class="steps"><p class="p">Pour arrêter ce processus dans le terminal, appuyez sur <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span>. Fermez ensuite le terminal.</p></li>
-<li class="steps"><p class="p">Si vous avez trouvé des informations sur votre adaptateur sans fil, allez à l'<span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Dépannage du réseau sans fil">étape pilotes de périphériques</a></span>. Si vous n'avez rien trouvé, consultez les <span class="link"><a href="#not-recognized" title="Adaptateur sans fil non reconnu">instructions ci-dessous</a></span>.</p></li>
+<li class="steps"><p class="p">If you found any information about your wireless adapter, proceed to
+      the <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Dépannage du réseau sans fil">Device
+      Drivers step</a></span>. If you didn’t find anything related to your wireless
+      adapter, see <span class="link"><a href="#not-recognized" title="Adaptateur sans fil non reconnu">the instructions
+      below</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -127,7 +141,9 @@
   properly or the correct drivers may not be installed for it. How you check to
   see if there are any drivers you can install will depend on which Linux
   distribution you are using (like Ubuntu, Arch, Fedora or openSUSE).</p>
-<p class="p">Pour obtenir une aide plus spécifique, consultez le site Web de votre distribution. Pensez aussi aux listes de diffusion et aux forums d'aide pour poser des questions sur votre adaptateur sans fil.</p>
+<p class="p">To get specific help, look at the support options on your distribution’s
+  website. These might include mailing lists and web chats where you can ask
+  about your wireless adapter, for example.</p>
 </div></div>
 </div></div>
 <div class="links nextlinks">

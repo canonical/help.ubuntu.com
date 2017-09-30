@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Turn on bounce keys</title>
+<title>Springende toetsen inschakelen</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,56 +44,43 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="keyboard.html" title="Keyboard">Keyboard</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Universele toegang">Universele toegang</a> › <a class="trail" href="a11y.html#mobility" title="Beperkte mobiliteit">Beperkte mobiliteit</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Universal access">Universal access</a> › <a class="trail" href="a11y.html#mobility" title="Mobility impairments">Mobility impairments</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="keyboard.html" title="Toetsenbord">Toetsenbord</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="keyboard.html" title="Keyboard">Keyboard</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="keyboard.html" title="Toetsenbord">Toetsenbord</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Turn on bounce keys</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Springende toetsen inschakelen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Turn on <span class="em">bounce keys</span> to ignore key presses that are rapidly
-  repeated. For example, if you have hand tremors which cause you to press a
-  key multiple times when you only want to press it once, you should turn on
-  bounce keys.</p>
+<p class="p"><span class="em">Springende toetsen</span> inschakelen om toetsaanslagen die snel herhaald worden te negeren. Als u bijvoorbeeld door bevende handen onbedoeld meerdere malen op een toets drukt kunt u springende toetsen inschakelen.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Universal Access</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Universal Access</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Typing Assist (AccessX)</span> in the <span class="gui">Typing</span>
-      section.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Bounce Keys</span> to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Universele toegang</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Universele toegang</span> om het paneel te openen.</p></li>
+<li class="steps"><p class="p">Druk op <span class="gui">Typ-assistent (AccessX)</span> onder het kopje <span class="gui">Typen</span>.</p></li>
+<li class="steps"><p class="p">Zet <span class="gui">Springende toetsen</span> <span class="gui">AAN</span>.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Tip"><div class="inner">
-<div class="title title-note"><h2><span class="title">Quickly turn bounce keys on and off</span></h2></div>
-<div class="region"><div class="contents"><p class="p">You can turn bounce keys on and off by clicking the
-    <span class="link"><a href="a11y-icon.html" title="Find the universal access menu">accessibility icon</a></span> on the top bar and
-    selecting <span class="gui">Bounce Keys</span>. The accessibility icon is visible when
-    one or more settings have been enabled from the <span class="gui">Universal Access</span>
-    panel.</p></div></div>
+<div class="title title-note"><h2><span class="title">Springende toetsen snel aan- en uitzetten</span></h2></div>
+<div class="region"><div class="contents"><p class="p">U kunt springende toetsen aan- en uitzetten door te klikken op het <span class="link"><a href="a11y-icon.html" title="Het menu Universele toegang vinden">toegankelijkheidspictogram</a></span> in de bovenste balk en <span class="gui">Springende toetsen</span> te selecteren. Het toegankelijkheidspictogram is zichtbaar als één of meer instellingen in <span class="gui">Universele toegang</span> ingeschakeld zijn.</p></div></div>
 </div></div>
-<p class="p">Use the <span class="gui">Acceptance delay</span> slider to change how long bounce keys
-  waits before it registers another key press after you pressed the key for the
-  first time. Select <span class="gui">Beep when a key is rejected</span> if you want the
-  computer to make a sound each time it ignores a key press because it happened
-  too soon after the previous key press.</p>
+<p class="p">Gebruik de <span class="gui">Vertraging</span>-schuifregelaar om te wijzigen hoe lang de vertraging moet duren voordat de computer een tweede toetsaanslag herkent, nadat er een toets is ingedrukt. Selecteer <span class="gui">Piepen wanneer een toets is geweigerd</span> als u wilt dat de computer een geluid maakt wanneer een toetsaanslag wordt genegeerd omdat deze te snel volgt op de vorige toetsaanslag.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul>
+<li class="links "><a href="a11y.html#mobility" title="Beperkte mobiliteit">Beperkte mobiliteit</a></li>
 <li class="links ">
-<a href="keyboard.html" title="Keyboard">Keyboard</a><span class="desc"> — 
-      <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Keyboard layouts</a></span>,
-      <span class="link"><a href="keyboard-cursor-blink.html" title="Make the keyboard cursor blink">cursor blinking</a></span>,
-      <span class="link"><a href="a11y.html#mobility" title="Mobility impairments">keyboard accessibility</a></span>…
+<a href="keyboard.html" title="Toetsenbord">Toetsenbord</a><span class="desc"> — 
+      <span class="link"><a href="keyboard-layouts.html" title="Alternatieve toetsenbordindelingen gebruiken">Keyboard layouts</a></span>,
+      <span class="link"><a href="keyboard-cursor-blink.html" title="De toetsenbordcursor laten knipperen">cursor blinking</a></span>,
+      <span class="link"><a href="a11y.html#mobility" title="Beperkte mobiliteit">keyboard accessibility</a></span>…
     </span>
 </li>
-<li class="links "><a href="a11y.html#mobility" title="Mobility impairments">Mobility impairments</a></li>
 </ul></div>
 </div></div></div>
 </div>

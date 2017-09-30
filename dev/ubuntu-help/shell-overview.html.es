@@ -53,10 +53,7 @@
 <div class="linkdiv "><a class="linkdiv" href="shell-introduction.html" title="Introducción a GNOME"><span class="title">Introducción a GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Una introducción visual a su escritorio, la barra superior y la vista de <span class="gui">Actividades</span>.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Cerrar la sesión, apagar o cambiar de usuario"><span class="title">Cerrar la sesión, apagar o cambiar de usuario</span><span class="linkdiv-dash"> — </span><span class="desc">Aprender cómo salir de su cuenta de usuario, cerrando la sesión, cambiando de usuario, etc.</span></a></div>
 </div>
-<div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Iniciar aplicaciones"><span class="title">Iniciar aplicaciones</span><span class="linkdiv-dash"> — </span><span class="desc">Lanzar aplicaciones desde la vista de <span class="gui">Actividades</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-guest-session.html" title="Lanzar una sesión de invitado restringida"><span class="title">Lanzar una sesión de invitado restringida</span><span class="linkdiv-dash"> — </span><span class="desc">Permite a un amigo o colega compartir su equipo de una manera segura.</span></a></div>
-</div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Iniciar aplicaciones"><span class="title">Iniciar aplicaciones</span><span class="linkdiv-dash"> — </span><span class="desc">Lanzar aplicaciones desde la vista de <span class="gui">Actividades</span>.</span></a></div></div>
 </div></div></div></div>
 <div id="desktop" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Personalizar su escritorio</span></h2></div>

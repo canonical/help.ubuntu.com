@@ -55,7 +55,9 @@
 <div class="contents">
 <div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents">
 <p class="p">Απαιτείται από σας να χρησιμοποιήσετε το ημερολόγιο <span class="app">Evolution</span>, ή να έχετε έναν διαδικτυακό λογαριασμό εγκατεστημένο που να υποστηρίζει το <span class="gui">ημερολόγιο</span>.</p>
-<p class="p">Οι περισσότερες διανομές έχουν από προεπιλογή εγκατεστημένο το <span class="app">Evolution</span>. Εάν δεν συμβαίνει αυτό, ίσως χρειαστεί να το εγκαταστήσετε χρησιμοποιώντας τον διαχειριστή πακέτων της διανομής σας.</p>
+<p class="p">Most distributions come with <span class="app">Evolution</span> installed by default.
+    If yours does not, you may need to install it using your distribution’s
+    package manager.</p>
 </div></div></div></div>
 <p class="p">Για να δείτε τις συναντήσεις σας:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
@@ -63,7 +65,9 @@
 <li class="steps">
 <p class="p">Κάντε κλικ στην ημερομηνία για την οποία θέλετε να δείτε τις συναντήσεις σας από το ημερολόγιο.</p>
 <div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">Σε κάθε ημερομηνία που υπάρχει μια συνάντηση εμφανίζεται μια τελεία.</p></div></div></div></div>
-<p class="p">Οι υπάρχουσες συναντήσεις θα εμφανιστούν στο αριστερό μέρος του ημερολογίου. Οι συναντήσεις εμφανίζονται στη λίστα του ρολογιού, καθώς προσθέτονται στο ημερολόγιο του <span class="app">Evolution</span>.</p>
+<p class="p">Existing appointments will be displayed to the left of the calendar.
+      As appointments are added to your <span class="app">Evolution</span> calendar, they
+      will appear in the clock’s appointment list.</p>
 </li>
 </ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="figures/shell-appts.png" width="500" class="media media-block" alt="Ρολόι,ημερολόγιο και συναντήσεις"></div></div>

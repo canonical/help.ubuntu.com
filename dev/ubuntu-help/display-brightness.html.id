@@ -66,9 +66,8 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">To set the screen brightness using the Power panel:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span>
-      overview and start typing <span class="gui">Power</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Power</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Daya</span>.</p></li>
+<li class="steps"><p class="p">Klik pada <span class="gui">Daya</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Adjust the <span class="gui">Screen brightness</span> slider to the value you want to
       use. The change should take effect immediately.</p></li>
 </ol></div>
@@ -98,7 +97,8 @@
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="a11y-contrast.html" title="Atur kontras">Atur kontras</a><span class="desc"> — Membuat jendela dan tombol pada layar lebih (atau kurang) tajam, sehingga lebih mudah dilihat.</span>
+<a href="a11y-contrast.html" title="Atur kontras">Atur kontras</a><span class="desc"> — Make windows and buttons on the screen more (or less) vivid, so
+    they’re easier to see.</span>
 </li>
 <li class="links ">
 <a href="power-autobrightness.html" title="Enable automatic brightness">Enable automatic brightness</a><span class="desc"> — Automatically control screen brightness to reduce battery use.</span>

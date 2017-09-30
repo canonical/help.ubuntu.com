@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>How to back up</title>
+<title>Hoe een reservekopie te maken</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,33 +43,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html#backup" title="Backing up">Backing up</a> » <a class="trail" href="backup-why.html" title="Back up your important files">Backups</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#backup" title="Reservekopieën maken">Reservekopieën maken</a> » <a class="trail" href="backup-why.html" title="Reservekopieën maken van uw belangrijke bestanden">Reservekopieën</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">How to back up</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Hoe een reservekopie te maken</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">The easiest way of backing up your files and settings is to let a backup
- application manage the backup process for you. A number of different backup
- applications are available, for example <span class="app">Déjà Dup</span>.</p>
-<p class="p">The help for your chosen backup application will walk you through setting
- your preferences for the backup, as well as how to restore your data.</p>
-<p class="p">An alternative option is to <span class="link"><a href="files-copy.html" title="Copy or move files and folders">copy your files</a></span>
- to a safe location, such as an external hard drive, another computer on the
- network, or a USB drive. Your <span class="link"><a href="backup-thinkabout.html" title="Where can I find the files I want to back up?">personal files</a></span>
- and settings are usually in your Home folder, so you can copy them from there.</p>
-<p class="p">The amount of data you can back up is limited by the size of the storage
- device. If you have the room on your backup device, it is best to back up the
- entire Home folder with the following exceptions:</p>
+<p class="p">De aanbevolen manier om reservekopieën te maken van uw bestanden en instellingen is om dit over te laten aan een reservekopietoepassing. Er zijn meerdere reservekopietoepassingen beschikbaar, waaronder <span class="app">Déjà Dup</span>.</p>
+<p class="p">In de hulpdocumentatie van de door u gekozen reservekopietoepassing vindt u hoe u de voorkeuren voor het maken van reservekopieën moet instellen, evenals de manier waarop u uw gegevens kunt terugzetten als er iets is misgegaan.</p>
+<p class="p">U kunt er ook voor kiezen alleen maar <span class="link"><a href="files-copy.html" title="Bestanden en mappen kopiëren of verplaatsen">uw bestanden te kopiëren</a></span> naar een veilige locatie, zoals een externe harde schijf, een andere computer in het netwerk, of een USB-stick. Uw <span class="link"><a href="backup-thinkabout.html" title="Waar kan ik de bestanden vinden waarvan ik een reservekopie wil maken?">persoonlijke bestanden</a></span> en instellingen bevinden zich doorgaans in uw Persoonlijke map; u kunt ze dus daarvandaan kopiëren.</p>
+<p class="p">De hoeveelheid gegevens waarvan u een reservekopie kunt maken is beperkt tot de opslagcapaciteit van het opslagapparaat. Als u de ruimte heeft op uw opslagapparaat, dan kunt u het beste een reservekopie maken van uw hele persoonlijke map met uitzondering van:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Files that are already backed up somewhere else, such as to a CD, DVD,
- or other removable media.</p></li>
-<li class="list"><p class="p">Files that you can recreate easily. For example, if you are a
- programmer, you do not have to back up the files that get produced when you
- compile your programs. Instead, just make sure that you back up the original
- source files.</p></li>
-<li class="list"><p class="p">Any files in the Trash folder. Your Trash folder can be found in
- <span class="file">~/.local/share/Trash</span>.</p></li>
+<li class="list"><p class="p">Bestanden waarvan elders al een reservekopie van bestaat, zoals op een cd, dvd of ander verwijderbaar medium.</p></li>
+<li class="list"><p class="p">Bestanden die u eenvoudig opnieuw kunt aanmaken. Als u bijvoorbeeld programmeur bent, dan hoeft u geen reservekopie te maken van bestanden die gemaakt worden bij het compileren van uw programma's. Zorg er alleen voor dat u een reservekopie maakt van de originele bronbestanden.</p></li>
+<li class="list"><p class="p">Uw weggegooide bestanden. Deze bevinden zich in <span class="file">~/.local/share/Trash</span>.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -77,7 +64,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="backup-why.html" title="Back up your important files">Back up your important files</a><span class="desc"> — Why, what, where and how of backups.</span>
+<a href="backup-why.html" title="Reservekopieën maken van uw belangrijke bestanden">Reservekopieën maken van uw belangrijke bestanden</a><span class="desc"> — Het waarom, wat, waar en hoe van reservekopieën maken.</span>
 </li></ul></div>
 </div></div></div>
 </div>

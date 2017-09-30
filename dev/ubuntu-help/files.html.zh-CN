@@ -80,9 +80,11 @@
 </div>
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="nautilus-prefs.html" title="文件管理器首选项"><span class="title">文件管理器首选项</span><span class="linkdiv-dash"> — </span><span class="desc">View and set preferences for the file browser.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-lost.html" title="查找丢失的文件"><span class="title">查找丢失的文件</span><span class="linkdiv-dash"> — </span><span class="desc">如果您找不到创建或下载的文件，请按下列提示操作。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-lost.html" title="查找丢失的文件"><span class="title">查找丢失的文件</span><span class="linkdiv-dash"> — </span><span class="desc">Follow these tips if you can’t find a file you created or
+    downloaded.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="nautilus-connect.html" title="浏览服务器或网络共享中的文件"><span class="title">浏览服务器或网络共享中的文件</span><span class="linkdiv-dash"> — </span><span class="desc">通过 FTP、SSH、Windows 共享或 WebDAV，查看和编辑另一台计算机上的文件。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-open.html" title="用其他程序打开文件"><span class="title">用其他程序打开文件</span><span class="linkdiv-dash"> — </span><span class="desc">不用默认的应用程序打开文件，您也可以更改默认打开程序。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-open.html" title="用其他程序打开文件"><span class="title">用其他程序打开文件</span><span class="linkdiv-dash"> — </span><span class="desc">Open files using an application that isn’t the default one for that
+    type of file. You can change the default too.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-recover.html" title="还原您删除的文件"><span class="title">还原您删除的文件</span><span class="linkdiv-dash"> — </span><span class="desc">当您删除文件时，它们一般会被移动到回收站。您可以将它们从回收站取回。</span></a></div>
 </div>
 </div></div></div></div></div>

@@ -83,7 +83,7 @@
 </div>
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="music-player-newipod.html" title="Mi iPod nuevo no funciona"><span class="title">Mi iPod nuevo no funciona</span><span class="linkdiv-dash"> — </span><span class="desc">Los iPods recién adquiridos deberán configurarse usando el programa iTunes antes de poder usarlos.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="music-cantplay-drm.html" title="No puedo reproducir las canciones que he comprado en una tienda de música en linea"><span class="title">No puedo reproducir las canciones que he comprado en una tienda de música en linea</span><span class="linkdiv-dash"> — </span><span class="desc">Puede que no esté instalado el soporte para ese formato de archivo o que las canciones estén «protegidas contra copia».</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-cantplay-drm.html" title="No puedo reproducir las canciones que he comprado en una tienda de música en línea"><span class="title">No puedo reproducir las canciones que he comprado en una tienda de música en línea</span><span class="linkdiv-dash"> — </span><span class="desc">Puede que no esté instalado el soporte para ese formato de archivo o que las canciones estén «protegidas contra copia».</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>

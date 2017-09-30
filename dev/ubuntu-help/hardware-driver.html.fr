@@ -49,7 +49,9 @@
 <div class="hgroup"><h1 class="title"><span class="title">Qu'est-ce qu'un pilote ?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Les périphériques sont des « parties » matérielles de votre ordinateur. Ils peuvent être soit <span class="em">externes</span>, comme les imprimantes et les écrans, soit <span class="em">internes</span> comme les cartes graphiques ou audio.</p>
+<p class="p">Devices are the physical “parts” of your computer. They may be
+<span class="em">external</span> like printers and monitor or <span class="em">internal</span> like graphics
+and audio cards.</p>
 <p class="p">Votre ordinateur doit savoir comment communiquer avec ces périphériques pour pouvoir les utiliser. La communication se fait grâce à un petit programme appelé <span class="em">pilote de périphérique</span>.</p>
 <p class="p">Quand vous connectez un périphérique à votre ordinateur, vous avez besoin d'avoir le bon pilote installé pour le faire fonctionner. Par exemple, si vous connectez une imprimante mais que le pilote correspondant n'est pas disponible, vous ne pourrez pas l'utiliser. Généralement, chaque modèle de périphérique utilise un pilote qui n'est pas compatible avec les autres modèles.</p>
 <p class="p">Avec Linux, la plupart des pilotes pour la plupart des périphériques sont installés par défaut et donc tout devrait fonctionner quand vous les branchez. Cependant, certains pilotes doivent être installés manuellement ou ne sont pas du tout disponibles.</p>

@@ -55,9 +55,19 @@
 <div id="files" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">கோப்புகள்</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">நீங்கள் கோப்பு உரிமையாளர், குழு உரிமையாளர் மற்றும் கணினியின் பிற அனைத்து பயனர்கள் ஆகியோருக்கான அனுமதிகளை அமைக்க முடியும். உங்கள் கோப்புகளுக்கு நீங்களே உரிமையாளர், இதில் நீங்கள் உங்களுக்கே படிக்க மட்டுமே அனுமதி அல்லது படிக்க மற்றும் எழுத அனுமதி கொடுத்துக்கொள்ள முடியும். நீங்கள் தற்செயலாக கோப்புகளில் மாற்றம் செய்யாமல் தடுக்க வேண்டும் என்றால் அவற்றுக்கு வாசிக்க மட்டும் அனுமதியை அமைக்கவும்.</p>
-<p class="p">உங்கள் கணினியில் உள்ள ஒவ்வொரு பயனரும் ஒரு குழுவைச் சேர்ந்தவராக இருப்பார். விட்டு கணினிகளில், ஒவ்வொரு பயனருக்கும் ஒரு தனி குழு இருப்பது வழக்கம், குழு அனுமதிகள் பெரும்பாலும் பயன்படுத்தப்படுவதில்லை. நிறுவன சூழல்களில், துறைகள் அல்லது திட்டப்பணிகளுக்காக குழுக்கள் பயன்படுத்தப்படுகின்றன. ஒவ்வொரு கோப்புக்கும் ஒரு உரிமையாளர் இருப்பது போல் ஒவ்வொரு குழுவும் இருக்கும். நீங்கள் கோப்பின் குழுவை அமைத்து, குழுவில் உள்ள அனைத்து பயனர்களுக்குமான அனுமதிகளைக் கட்டுப்படுத்த முடியும். நீங்கள் சார்ந்துள்ள குழுவை மட்டுமே நீங்கள் ஒரு கோப்பின் குழுவாக அமைக்க முடியும்.</p>
-<p class="p">நீங்கள் கோப்பின் குழுவில் உள்ள உரிமையாளரல்லாத மற்ற பயனர்களுக்கும் அனுமதிகளை அமைக்க முடியும்.</p>
+<p class="p">You can set the permissions for the file owner, the group owner,
+    and all other users of the system. For your files, you are the owner,
+    and you can give yourself read-only or read-and-write permission.
+    Set a file to read-only if you don’t want to accidentally change it.</p>
+<p class="p">Every user on your computer belongs to a group. On home computers,
+    it is common for each user to have their own group, and group permissions
+    are not often used. In corporate environments, groups are sometimes used
+    for departments or projects. As well as having an owner, each file belongs
+    to a group. You can set the file’s group and control the permissions for
+    all users in that group. You can only set the file’s group to a group you
+    belong to.</p>
+<p class="p">You can also set the permissions for users other than the owner and
+    those in the file’s group.</p>
 <p class="p">கோப்பு ஸ்கிரிப்ட் போன்ற என ஒரு நிரலாக இருந்தால், அதை இயக்க நீங்கள் <span class="gui">கோப்பை நிரலாக இயக்க அனுமதி</span> என்பதைத் தேர்வு செய்ய வேண்டும். இந்த விருப்பத்தை தேர்வு செய்திருந்தாலும், கோப்பு மேலாளர் கோப்பை ஒரு பயன்பாட்டில் திறக்கலாம் அல்லது என்ன செய்ய வேண்டும் என உங்களிடம் கேட்கலாம். மேலும் தகவலுக்கு <span class="link"><a href="nautilus-behavior.html#executable" title="செயல்படுத்தக்கூடிய உரை கோப்புகள்">செயல்படுத்தக்கூடிய உரை கோப்புகள்</a></span> ஐப் பார்க்கவும்.</p>
 </div></div>
 </div></div>

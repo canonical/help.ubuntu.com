@@ -51,7 +51,7 @@
 <div class="contents"><p class="p">If your system has a supported fingerprint scanner, you can record your
   fingerprint and use it to log in.</p></div>
 <div id="record" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Record a fingerprint</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Tallenna sormenjälki</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Before you can log in with your fingerprint, you need to record it so that
   the system can use it to identify you.</p>
@@ -81,7 +81,7 @@
 </div></div>
 </div></div>
 <div id="verify" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Check that your fingerprint works</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Varmista että sormenjälki toimii</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Now check that your new fingerprint login works. If you register a
   fingerprint, you still have the option to log in with your password.</p>

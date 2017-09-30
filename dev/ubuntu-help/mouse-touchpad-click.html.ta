@@ -69,11 +69,15 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">சொடுக்க, தொடுதிட்டைத் தட்டவும்.</p></li>
 <li class="list"><p class="p">இரு சொடுக்க, தொடுதிட்டை இரு முறை தட்டவும்.</p></li>
-<li class="list"><p class="p">ஒரு உருப்படியை இழுக்க, தொடுதிட்டில் இரு முறை தட்டி, இரண்டாவது தட்டலுக்குப் பிறகு உங்கள் விரலை எடுக்காமல் வைத்திருந்து நீங்கள் விரும்பும் இடத்திற்கு உருப்படியை இழுத்துச் சென்று, அங்கே விட விரலை விடுவிக்கவும்.</p></li>
+<li class="list"><p class="p">To drag an item, double-tap but don’t lift your finger after the
+      second tap. Drag the item where you want it, then lift your finger to
+      drop.</p></li>
 <li class="list"><p class="p">உங்கள் தொடுதிட்டு பல விரல் தட்டல்களை ஆதரித்தால், ஒரே நேரத்தில் இரண்டு விரல்களால் தட்டுவதன் மூலம் வலது சொடுக்கம் செய்யலாம். இல்லையெனில், நீங்கள் வலது சொடுக்கத்திற்கு வன்பொருள் பொத்தான்களைப் பயன்படுத்த வேண்டும். இரண்டாவது சொடுக்கி பொத்தான் இல்லாமல் வலது சொடுக்கம் செய்யும் ஒரு முறை பற்றி அறிய <span class="link"><a href="a11y-right-click.html" title="சொடுக்கி வலது சொடுக்க ஏற்பாடு">சொடுக்கி வலது சொடுக்க ஏற்பாடு</a></span> ஐப் பார்க்கவும்.</p></li>
 <li class="list"><p class="p">உங்கள் தொடுதிட்டு பல விரல் தட்டல்களை ஆதரித்தால், ஒரே நேரத்தில் மூன்று விரல்களால் தட்டுவதன் மூலம் <span class="link"><a href="mouse-middleclick.html" title="நடு சொடுக்கம்">நடு சொடுக்கம்</a></span> செய்யலாம்.</p></li>
 </ul></div></div></div>
-<div class="note" title="குறிப்பு"><div class="inner"><div class="region"><div class="contents"><p class="p">பல விரல்களால் தட்டும் போது அல்லது இழுக்கும் போது, உங்கள் விரல்கள் போதிய அளவு விலகி இருக்க வேண்டும். விரல்கள் மிகவும் நெருக்கமாக இருந்தால், உங்கள் கணினி அவற்றை ஒரே விரல் எனக் கருதலாம்.</p></div></div></div></div>
+<div class="note" title="குறிப்பு"><div class="inner"><div class="region"><div class="contents"><p class="p">When tapping or dragging with multiple fingers, make sure your fingers
+    are spread far enough apart. If your fingers are too close, your computer
+    may think they’re a single finger.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="twofingerscroll" class="sect"><div class="inner">

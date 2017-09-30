@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>I can't play the songs I bought from an online music store</title>
+<title>I can’t play the songs I bought from an online music store</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,22 +43,22 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Sound, video &amp; pictures">Sound, video &amp; pictures</a> › <a class="trail" href="media.html#music" title="Music and portable audio players">Music and players</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Geluid, video &amp; foto's">Geluid, video &amp; foto's</a> › <a class="trail" href="media.html#music" title="Muziek en draagbare geluidsspelers">Muziek en audiospelers</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">I can't play the songs I bought from an online music store</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">I can’t play the songs I bought from an online music store</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you downloaded some music from an online store you may find that it won't play on your computer, especially if you bought it on a Windows or Mac OS computer and then copied it over.</p>
-<p class="p">This could be because the music is in a format that is not recognized by your computer. To be able to play a song you need to have support for the right audio formats installed - for example, if you want to play MP3 files, you need MP3 support installed. If you don't have support for a given audio format, you should see a message telling you so when you try to play a song. The message should also provide instructions for how to install support for that format so that you can play it.</p>
-<p class="p">If you do have support installed for the song's audio format but still can't play it, the song might be <span class="em">copy protected</span> (also known as being <span class="em">DRM restricted</span>). DRM is a way of restricting who can play a song and on what devices they can play it. The company that sold the song to you is in control of this, not you. If a music file has DRM restrictions, you will probably not be able to play it - you generally need special software from the vendor to play DRM restricted files, but this software is often not supported on Linux.</p>
-<p class="p">You can learn more about DRM from the <span class="link"><a href="http://www.eff.org/issues/drm" title="http://www.eff.org/issues/drm">Electronic Frontier Foundation</a></span>.</p>
+<p class="p">If you downloaded some music from an online store you may find that it won’t play on your computer, especially if you bought it on a Windows or Mac OS computer and then copied it over.</p>
+<p class="p">This could be because the music is in a format that is not recognized by your computer. To be able to play a song you need to have support for the right audio formats installed — for example, if you want to play MP3 files, you need MP3 support installed. If you don’t have support for a given audio format, you should see a message telling you so when you try to play a song. The message should also provide instructions for how to install support for that format so that you can play it.</p>
+<p class="p">If you do have support installed for the song’s audio format but still can’t play it, the song might be <span class="em">copy protected</span> (also known as being <span class="em">DRM restricted</span>). DRM is a way of restricting who can play a song and on what devices they can play it. The company that sold the song to you is in control of this, not you. If a music file has DRM restrictions, you will probably not be able to play it — you generally need special software from the vendor to play DRM restricted files, but this software is often not supported on Linux.</p>
+<p class="p">U kunt meer te weten komen over DRM bij de <span class="link"><a href="http://www.eff.org/issues/drm" title="http://www.eff.org/issues/drm">Electronic Frontier Foundation</a></span> (Engelstalig).</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="media.html#music" title="Music and portable audio players">Music and players</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="media.html#music" title="Muziek en draagbare geluidsspelers">Muziek en audiospelers</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

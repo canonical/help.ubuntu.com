@@ -69,10 +69,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">அம்புக்குறி விசைகள்</p></td>
-<td style="border-top-style: solid;">
-<p class="p">ஒரு ஒற்றை கட்டுப்பாட்டில் உருப்படிகளுக்கு இடையே தேர்வை நகர்த்துதல் அல்லது தொடர்புடைய கட்டுப்பாடுகளின் ஒரு தொகுப்பில் நகர்த்துதல். ஒரு கருவிப் பட்டியில் உள்ள பொத்தான்களில் கவனப் பகுதியை வைக்க அல்லது பட்டியல் அல்லது சின்னக் காட்சியில் உருப்படிகளைத் தேர்வு செய்ய அல்லது ஒரு குழுவிலிருந்து ஒரு ரேடியோ பொத்தானைத் தேர்ந்தெடுக்க அம்புக்குறி விசைகளைப் பயன்படுத்தவும்.</p>
-<p class="p">ஒரு கிளையமைப்புக் காட்சியில், சேய் உருப்படிகளை விரிவாக்கவும் சுருக்கவும் இடது மற்றும் வலது அம்புக்குறி விசைகளைப் பயன்படுத்தவும்.</p>
-</td>
+<td style="border-top-style: solid;"><p class="p">ஒரு ஒற்றை கட்டுப்பாட்டில் உருப்படிகளுக்கு இடையே தேர்வை நகர்த்துதல் அல்லது தொடர்புடைய கட்டுப்பாடுகளின் ஒரு தொகுப்பில் நகர்த்துதல். ஒரு கருவிப் பட்டியில் உள்ள பொத்தான்களில் கவனப் பகுதியை வைக்க அல்லது பட்டியல் அல்லது சின்னக் காட்சியில் உருப்படிகளைத் தேர்வு செய்ய அல்லது ஒரு குழுவிலிருந்து ஒரு ரேடியோ பொத்தானைத் தேர்ந்தெடுக்க அம்புக்குறி விசைகளைப் பயன்படுத்தவும்.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+அம்புக்குறி விசைகள்</span></p></td>
@@ -81,6 +78,10 @@
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+அம்புக்குறி விசைகள்</span></p></td>
 <td style="border-top-style: solid;"><p class="p">பட்டியல் அல்லது சின்னக் காட்சியில், தற்போது தேர்ந்தெடுக்கப்பட்ட உருப்படியிலிருந்து கவனப் பகுதி புதிதாக வைக்கப்பட்ட உருப்படி வரையுள்ள அனைத்து உருப்படிகளையும் தேர்ந்தெடுத்தல்.</p></td>
+<td style="border-top-style: solid;"><p class="p">In a tree view, items that have children can be expanded or collapsed,
+    to show or hide their children: expand by pressing
+    <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>→</kbd></span></span>, and collapse by
+    pressing <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>←</kbd></span></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Space</kbd></span></p></td>

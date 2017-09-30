@@ -57,7 +57,9 @@
 <p class="p">Du förutsätts ha laddat ned en Ubuntu ISO-fil.</p>
 <p class="p">För att skapa en startdisk utifrån en Ubuntu ISO-fil:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna programmet <span class="app">Skapa startdisk</span> från <span class="gui">Dash</span>.</p></li>
+<li class="steps"><p class="p">
+        Open <span class="app">Startup Disk Creator</span> via the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">Om ISO-filen finns i mappen <span class="gui">Hämtningar</span> och där bara finns en ISO-fil, väljer <span class="app">Skapa startdisk</span> den filen; annars behöver du välja korrekt ISO-fil.</p></li>
 <li class="steps"><p class="p">Om din dator bara har ett anslutet USB-minne, väljer <span class="app">Skapa startdisk</span> det minnet; annars behöver du välja korrekt enhet.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Skapa startdisk</span>.</p></li>

@@ -70,11 +70,15 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Za klik udarite po drsni ploščici</p></li>
 <li class="list"><p class="p">Za dvoklik udarite dvakrat</p></li>
-<li class="list"><p class="p">Za vlečenje predmeta dvakrat udarite, vendar po drugem udarcu svojega prsta na dvignite. Povlecite predmet, kamor ga žalite in nato dvignite svoj prst za spust.</p></li>
+<li class="list"><p class="p">To drag an item, double-tap but don’t lift your finger after the
+      second tap. Drag the item where you want it, then lift your finger to
+      drop.</p></li>
 <li class="list"><p class="p">V primeru da vaša drsna ploščica podpira udarce z več prsti, desno kliknite z udarjanjem z dvema prstoma hkrati. Sicer boste morali za desni klik uporabiti strojne gumbe. Oglejte si <span class="link"><a href="a11y-right-click.html" title="Simulacija desnega klika miške">Simulacija desnega klika miške</a></span> za način desnega klika brez desnega miškinega gumba.</p></li>
 <li class="list"><p class="p">V primeru da vaša drsna ploščica podpira udarce z več prsti, <span class="link"><a href="mouse-middleclick.html" title="Srednji klik">srednje kliknite</a></span> z udarjanjem s tremi prsti hkrati.</p></li>
 </ul></div></div></div>
-<div class="note" title="Opomba"><div class="inner"><div class="region"><div class="contents"><p class="p">Ko udarjate ali vlečete z več prsti, se prepričajte, da so prsti dovolj narazen. Če so prsti preveč blizu, bo vaš računalnik morda mislil, da je en prst.</p></div></div></div></div>
+<div class="note" title="Opomba"><div class="inner"><div class="region"><div class="contents"><p class="p">When tapping or dragging with multiple fingers, make sure your fingers
+    are spread far enough apart. If your fingers are too close, your computer
+    may think they’re a single finger.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="twofingerscroll" class="sect"><div class="inner">

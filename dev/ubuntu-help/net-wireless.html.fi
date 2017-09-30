@@ -50,22 +50,22 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-connect.html" title="Langattomaan verkkoon yhdistäminen"><span class="title">Langattomaan verkkoon yhdistäminen</span><span class="linkdiv-dash"> — </span><span class="desc">Pääsysi internetiin - langattomasti.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-connect.html" title="Langattomaan verkkoon yhdistäminen"><span class="title">Langattomaan verkkoon yhdistäminen</span><span class="linkdiv-dash"> — </span><span class="desc">Yhdistä internetiin — langattomasti.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-mobile.html" title="Connect to mobile broadband"><span class="title">Connect to mobile broadband</span><span class="linkdiv-dash"> — </span><span class="desc">Use your phone or Internet stick to connect to the mobile broadband
     network.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html" title="En näe langatonta verkkoani listalla"><span class="title">En näe langatonta verkkoani listalla</span><span class="linkdiv-dash"> — </span><span class="desc">The wireless could be turned off or broken, or you may be trying to
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html" title="I can’t see my wireless network in the list"><span class="title">I can’t see my wireless network in the list</span><span class="linkdiv-dash"> — </span><span class="desc">The wireless could be turned off or broken, or you may be trying to
     connect to a hidden network.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-noconnection.html" title="I’ve entered the correct password, but I still can’t connect"><span class="title">I’ve entered the correct password, but I still can’t connect</span><span class="linkdiv-dash"> — </span><span class="desc">Double-check the password, and other things to try.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-airplane.html" title="Katkaise langaton yhteys (lentokonetila)"><span class="title">Katkaise langaton yhteys (lentokonetila)</span><span class="linkdiv-dash"> — </span><span class="desc">Open Network Settings and switch Airplane Mode to ON.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-troubleshooting.html" title="Langattoman verkon vianselvitys"><span class="title">Langattoman verkon vianselvitys</span><span class="linkdiv-dash"> — </span><span class="desc">Identify and fix problems with wireless connections.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-adhoc.html" title="Langattoman yhteyspisteen luominen"><span class="title">Langattoman yhteyspisteen luominen</span><span class="linkdiv-dash"> — </span><span class="desc">Ad-hoc-verkko mahdollistaa Internet-yhteyden jakamisen muille laitteille.</span></a></div>
 </div>
 <div class="links-twocolumn">
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-adhoc.html" title="Langattoman yhteyspisteen luominen"><span class="title">Langattoman yhteyspisteen luominen</span><span class="linkdiv-dash"> — </span><span class="desc">Ad-hoc-verkko mahdollistaa Internet-yhteyden jakamisen muille laitteille.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-disconnecting.html" title="Miksi langaton yhteys katkeaa?"><span class="title">Miksi langaton yhteys katkeaa?</span><span class="linkdiv-dash"> — </span><span class="desc">Signaali saattaa olla heikko tai verkkoa ei ole ehkä yhdistetty oikein.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-wepwpa.html" title="Mitä WEP ja WPA tarkoittavat?"><span class="title">Mitä WEP ja WPA tarkoittavat?</span><span class="linkdiv-dash"> — </span><span class="desc">WEP ja WPA ovat tapoja salata langatonta verkkoliikennettä.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-vpn-connect.html" title="Muodosta VPN-yhteys"><span class="title">Muodosta VPN-yhteys</span><span class="linkdiv-dash"> — </span><span class="desc">Set up a VPN connection to a local network over the internet.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-manual.html" title="Määritä verkon asetukset manuaalisesti"><span class="title">Määritä verkon asetukset manuaalisesti</span><span class="linkdiv-dash"> — </span><span class="desc">You may have to enter network settings if they don't get assigned
+<div class="linkdiv "><a class="linkdiv" href="net-manual.html" title="Määritä verkon asetukset manuaalisesti"><span class="title">Määritä verkon asetukset manuaalisesti</span><span class="linkdiv-dash"> — </span><span class="desc">You may have to enter network settings if they don’t get assigned
     automatically.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-noconnection.html" title="Olen kirjoittanut salasanan oikein, mutta yhteydenmuodostus ei onnistu"><span class="title">Olen kirjoittanut salasanan oikein, mutta yhteydenmuodostus ei onnistu</span><span class="linkdiv-dash"> — </span><span class="desc">Double-check the password, and other things to try.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-hidden.html" title="Yhdistä piilotettuun verkkoon"><span class="title">Yhdistä piilotettuun verkkoon</span><span class="linkdiv-dash"> — </span><span class="desc">Connect to a wireless network that is not displayed in the network
     list.</span></a></div>
 </div>
@@ -86,7 +86,7 @@
 <a href="net-general.html" title="Verkkojen nimikkeet ja vinkit">Verkkojen nimikkeet ja vinkit</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="IP-osoitteen selvittäminen">IP-osoitteen selvittäminen</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Mitä WEP ja WPA tarkoittavat?">WEP- ja WPA-turvallisuus</a></span>, <span class="link"><a href="net-macaddress.html" title="Mikä MAC-osoite on?">MAC-osoitteet</a></span>, <span class="link"><a href="net-proxy.html" title="Määritä välityspalvelimen asetukset">välityspalvelimet</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-problem.html" title="Yhteysongelmat">Yhteysongelmat</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Langattoman verkon vianselvitys">Langattoman yhteyden ongelmanratkaisu</a></span>, <span class="link"><a href="net-wireless-find.html" title="En näe langatonta verkkoani listalla">langattoman verkon löytäminen</a></span>…</span>
+<a href="net-problem.html" title="Yhteysongelmat">Yhteysongelmat</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Langattoman verkon vianselvitys">Langattoman yhteyden ongelmanratkaisu</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">langattoman verkon löytäminen</a></span>…</span>
 </li>
 </ul></div>
 </div></div>

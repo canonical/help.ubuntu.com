@@ -57,10 +57,7 @@
 <div class="linkdiv "><a class="linkdiv" href="report-ubuntu-bug.html" title="Nahlášení problému v Ubuntu"><span class="title">Nahlášení problému v Ubuntu</span><span class="linkdiv-dash"> — </span><span class="desc">Jak a kde nahlásit problémy s Ubuntu.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="about-this-guide.html" title="O tomto průvodci"><span class="title">O tomto průvodci</span><span class="linkdiv-dash"> — </span><span class="desc">Několik tipů pro používání průvodce prostředím Ubuntu.</span></a></div>
 </div>
-<div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="translate.html" title="Participate to improve translations"><span class="title">Participate to improve translations</span><span class="linkdiv-dash"> — </span><span class="desc">How and where to help translate these topics.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="get-involved.html" title="Pomozte vylepšit tohoto průvodce"><span class="title">Pomozte vylepšit tohoto průvodce</span><span class="linkdiv-dash"> — </span><span class="desc">Jak a kde nahlásit problém s touto dokumentací.</span></a></div>
-</div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="get-involved.html" title="Pomozte vylepšit překlady"><span class="title">Pomozte vylepšit překlady</span><span class="linkdiv-dash"> — </span><span class="desc">Jak a kde nahlásit problém s touto dokumentací.</span></a></div></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">

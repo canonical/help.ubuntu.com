@@ -62,7 +62,7 @@ because suspend is not supported properly by your hardware.</p></div>
   should wake up and display a screen asking for your password. If this does
   not happen, try pressing the power button (do not hold it in, just press it
   once).</p>
-<p class="p">If this still does not help, make sure that your computer's monitor is
+<p class="p">If this still does not help, make sure that your computer’s monitor is
   switched on and try pressing a key on the keyboard again.</p>
 <p class="p">Come ultima risorsa, spegnere il computer tenendo premuto il tasto di accensione per 5-10 secondi, anche se così si perderà tutto il lavoro non salvato. Eseguita questa azione, dovrebbe essere possibile riaccendere normalmente il computer.</p>
 <p class="p">Se questo accade ogni volta che il computer entra in sospensione, significa che tale caratteristica non funziona con le componenti hardware presenti.</p>

@@ -87,7 +87,11 @@
 <p class="p">Tutki tulostettua laitelistaa ja etsi laitteet, jotka on merkitty tekstillä <span class="code">Network controller</span> tai <span class="code">Ethernet controller</span>. Useampi laite voi olla merkitty verkkolaitteiksi, mutta langatonta verkkosovitinta voidaan kuvailla sanoilla <span class="code">wireless</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> tai <span class="code">802.11</span>. Laitteen rivi voi näyttää esimerkiksi tältä:</p>
 <div class="code"><pre class="contents ">Network controller: Intel Corporation PRO/Wireless 3945ABG [Golan] Network Connection</pre></div>
 </li>
-<li class="steps"><p class="p">Jos langaton verkkosovitin löytyi listasta, jatka <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Langattoman verkon vianselvitys">laitteistoajurien tarkistamiseen</a></span>. Jos tulosteesta ei löytynyt mitään viittausta langattomaan verkkosovittimeen, lue <span class="link"><a href="#not-recognized" title="Langatonta sovitinta ei tunnistettu">ohjeita sivun lopusta</a></span>.</p></li>
+<li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
+      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Langattoman verkon vianselvitys">Device Drivers
+      step</a></span>. If you didn’t find anything related to your wireless
+      adapter, see
+      <span class="link"><a href="#not-recognized" title="Langatonta sovitinta ei tunnistettu">the instructions below</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -101,7 +105,11 @@
 <p class="p">Tutki tulostettua laitelistaa ja etsi laitteita, jotka vaikuttavat verkkolaitteilta. Langatonta verkkosovitinta voidaan kuvailla sanoilla <span class="code">wireless</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> tai <span class="code">802.11</span>. Laitteen rivi voi näyttää esimerkiksi tältä:</p>
 <div class="code"><pre class="contents ">Bus 005 Device 009: ID 12d1:140b Huawei Technologies Co., Ltd. EC1260 Wireless Data Modem HSD USB Card</pre></div>
 </li>
-<li class="steps"><p class="p">Jos langaton verkkosovitin löytyi listasta, jatka <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Langattoman verkon vianselvitys">laitteistoajurien tarkistamiseen</a></span>. Jos tulosteesta ei löytynyt mitään viittausta langattomaan verkkosovittimeen, lue <span class="link"><a href="#not-recognized" title="Langatonta sovitinta ei tunnistettu">ohjeita sivun lopusta</a></span>.</p></li>
+<li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
+      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Langattoman verkon vianselvitys">Device Drivers
+      step</a></span>. If you didn’t find anything related to your wireless
+      adapter, see
+      <span class="link"><a href="#not-recognized" title="Langatonta sovitinta ei tunnistettu">the instructions below</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -114,11 +122,17 @@
 <li class="steps">
 <p class="p">Avaa Pääte, kirjoita alla oleva komento ja paina <span class="key"><kbd>Enter</kbd></span>:</p>
 <div class="code"><pre class="contents ">tail -f /var/log/messages</pre></div>
-<p class="p">Kyseinen komento tulostaa tietokoneen laitteistoon liittyviä viestejä ja päivittyy automaattisesti laitteiston muuttuessa.</p>
+<p class="p">This will display a list of messages related to your computer’s
+      hardware, and will automatically update if anything to do with your
+      hardware changes.</p>
 </li>
 <li class="steps"><p class="p">Liitä langaton verkkosovitin PCMCIA-väylään ja tutki pääteikkunaan ilmestynyttä tekstiä. Muutoksiin pitäisi sisältyä tietoja juuri liitetystä langattomasta verkkosovittimesta. Tutki tulostetta ja yritä saada selville laitteen tietoja.</p></li>
 <li class="steps"><p class="p">Komennon suoritus päätteessä loppuu painamalla <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span>. Tämän jälkeen voit sulkea pääteikkunan.</p></li>
-<li class="steps"><p class="p">Jos löysit tietoa langattomasta verkkosovittimesta, jatka <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Langattoman verkon vianselvitys">laitteistoajurien tarkistamiseen</a></span>. Jos et löytynyt mitään viittausta langattomaan verkkosovittimeen, lue <span class="link"><a href="#not-recognized" title="Langatonta sovitinta ei tunnistettu">ohjeita sivun lopusta</a></span>.</p></li>
+<li class="steps"><p class="p">If you found any information about your wireless adapter, proceed to
+      the <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Langattoman verkon vianselvitys">Device
+      Drivers step</a></span>. If you didn’t find anything related to your wireless
+      adapter, see <span class="link"><a href="#not-recognized" title="Langatonta sovitinta ei tunnistettu">the instructions
+      below</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -129,7 +143,9 @@
   properly or the correct drivers may not be installed for it. How you check to
   see if there are any drivers you can install will depend on which Linux
   distribution you are using (like Ubuntu, Arch, Fedora or openSUSE).</p>
-<p class="p">Tutki jakelupakettisi verkkosivuja saadaksesi tukea jakelun valmistajilta. Tukipalveluihin voi kuulua mm. postituslistat ja verkkokeskustelut, joissa voit kysyä langattomasta verkkosovittimestasi.</p>
+<p class="p">To get specific help, look at the support options on your distribution’s
+  website. These might include mailing lists and web chats where you can ask
+  about your wireless adapter, for example.</p>
 </div></div>
 </div></div>
 <div class="links nextlinks">

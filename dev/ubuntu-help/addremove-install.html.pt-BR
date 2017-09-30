@@ -77,8 +77,8 @@
   </p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">
-        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Launcher</span>, or search
-        for <span class="input">Software</span> in the search bar of the <span class="gui">Dash</span>.
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
       </p></li>
 <li class="steps"><p class="p">
         When <span class="app">Ubuntu Software</span> launches, search for an application, or select 

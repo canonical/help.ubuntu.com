@@ -80,7 +80,12 @@
 <p class="p">மேலோட்டத்தின் இடப்புறம் <span class="em">டேஷ்</span> இருக்கும். டேஷில் உங்கள் பிடித்த பயன்பாடுகளும் இயங்கிக்கொண்டிருக்கும் பயன்பாடுகளும் காண்பிக்கப்படும். ஒரு பயன்பாட்டைத் திறக்க டேஷில் அதன் சின்னத்தை சொடுக்கவும்; பயன்பாடு ஏற்கனவே இயங்கிக்கொண்டு இருந்தால் அது தனிப்படுத்திக் காட்டப்படும். அதன் சின்னத்தை சொடுக்கினால் மிக சமீபத்தில் பயன்படுத்திய சாளரம் முன்னே வரும். நீங்கள் சின்னத்தை மேலோட்டத்திற்கு அல்லது வலப்புறம் உள்ள ஏதேனும் ஒரு பணியிடத்திற்கும் இழுத்துச் சென்று விட முடியும்.</p>
 <p class="p">சின்னத்தை வலது சொடுக்கினால் ஒரு மெனு காட்டப்படும், அதில் நீங்கள் இயங்கிக்கொண்டிருக்கும் பயன்பாட்டின் ஒரு சாளரத்தைத் தேர்வு செய்யலாம் அல்லது புதிய சாளரத்தைத் திறக்கலாம். ஒரு புதிய சாளரத்தைத் திறக்க நீங்கள் <span class="key"><kbd>Ctrl</kbd></span> ஐ அழுத்திக் கொண்டும் சின்னத்தை சொடுக்கலாம்.</p>
 <p class="p">நீங்கள் மேலோட்டத்திற்குச் செல்லும் போது, நீங்கள் முதலில் சாளரங்கள் மேலோட்டத்தில் இருப்பீர்கள். இது நடப்பு பணியிடத்தின் அனைத்து சாளரங்களின் சிறுபடங்களைக் காண்பிக்கும்.</p>
-<p class="p">டேஷின் அடிப்பகுதியில் உள்ள கிரிட் பொத்தானை சொடுக்கினால் பயன்பாடுகள் மேலோட்டம் காண்பிக்கப்படும். இது கணினியில் நிறுவியுள்ள அனைத்து பயன்பாடுகளையும் காட்டும். ஒரு பயன்பாட்டை இயக்க அதை சொடுக்கவும் அல்லது பயன்பாட்டை மேலோட்டத்திற்கு அல்லது ஒரு பணியிட சிறுபடத்திற்கு இழுத்துச் செல்லவும். நீங்கள் ஒரு பயன்பாட்டை பிடித்தமானதாகக் குறிக்க அதை டேஷுக்கு இழுத்துச் செல்லலாம். பிடித்த பயன்பாடுகள் இயங்காத போதும் டேஷிலேயே இருக்கும், இதனால் அவற்றை விரைவாக அணுக முடியும்.</p>
+<p class="p">Click the grid button at the bottom of the dash to display the
+  applications overview. This shows you all the applications installed on your
+  computer. Click any application to run it, or drag an application to the
+  overview or onto a workspace thumbnail. You can also drag an application onto
+  the dash to make it a favorite. Your favorite applications stay in the dash
+  even when they’re not running, so you can access them quickly.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
 <li class="list"><p class="p"><span class="link"><a href="shell-apps-open.html" title="பயன்பாடுகளைத் தொடங்குதல்">பயன்பாடுகளைத் தொடங்குவது பற்றி மேலும் அறிக. </a></span></p></li>
 <li class="list"><p class="p"><span class="link"><a href="shell-windows.html" title="சாளரங்கள் மற்றும் பணியிடங்கள்">சாளரங்கள் மற்றும் பணியிடங்கள் பற்றி மேலும் அறிக.</a></span></p></li>
@@ -135,7 +140,7 @@
 <div class="region"><div class="contents">
 <div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-lock.png" width="250" class="media media-block" alt="பூட்டுத் திரை"></div></div>
 <p class="p">When you lock your screen, or it locks automatically, the lock screen is
-  displayed. In addition to protecting your desktop while you're away from your
+  displayed. In addition to protecting your desktop while you’re away from your
   computer, the lock screen displays the date and time. It also shows
   information about your battery and network status, and allows you to control
   media playback.</p>

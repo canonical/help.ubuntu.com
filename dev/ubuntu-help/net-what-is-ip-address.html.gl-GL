@@ -49,13 +49,14 @@
 <div class="hgroup"><h1 class="title"><span class="title">Cal é o meu enderezo IP?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">«Enderezo IP» significa <span class="em">Enderezo de Protocolo Internet</span>, e cada dispositivo que se conecta a unha rede (así como a Internet) ten unha.</p>
+<p class="p">“IP address” stands for <span class="em">Internet Protocol address</span>, and each
+  device that is connected to a network (like the internet) has one.</p>
 <p class="p">Un enderezo IP parécese ao seu número de teléfono. O seu número de teléfono é un conxunto único de números que identifican ao seu teléfono de forma que outra persoa poida chamalo. Igualmente, un enderezo IP é un conxunto único de números que identifican ao seu computador de forma que pode enviar e recibir datos cara e desde outros computadores, respectivamente.</p>
 <p class="p">Actualmente, a maioría dos enderezos IP constan de catro conxuntos de números separados por un punto. <span class="code">192.168.1.42</span> é un exemplo dun enderezo IP.</p>
 <div class="note note-tip" title="Suxestión"><div class="inner"><div class="region"><div class="contents"><p class="p">An IP address can either be <span class="em">dynamic</span> or <span class="em">static</span>. Dynamic
     IP addresses are temporarily assigned each time your computer connects to a
     network. Static IP addresses are fixed, and do not change. Dynamic IP
-    addresses are more common that static addresses - static addresses are
+    addresses are more common that static addresses — static addresses are
     typically only used when there is a special need for them, such as in the
     administration of a server.</p></div></div></div></div>
 </div>

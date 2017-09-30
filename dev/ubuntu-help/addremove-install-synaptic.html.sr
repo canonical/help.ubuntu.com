@@ -56,7 +56,10 @@
 <div class="hgroup"><h2 class="title"><span class="title">Инсталирајте програме Синаптиком</span></h2></div>
 <div class="region"><div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите Синаптик из <span class="gui">Полетника</span> или <span class="gui">Покретача</span>. Мораћете унети вашу лозинку у прозору <span class="gui">потврђивања идентитета</span>.</p></li>
+<li class="steps"><p class="p">
+          Open <span class="app">Synaptic</span> via the <span class="em">Activities</span> search bar. You 
+          will need to enter your password in the <span class="gui">Authenticate</span> window.
+        </p></li>
 <li class="steps"><p class="p">Кликните <span class="gui">Тражи</span> да потражите неки програм, или кликните на <span class="gui">Одељак</span> и погледајте којих категорија има да изаберете неку.</p></li>
 <li class="steps"><p class="p">Кликните десним тастером миша на програм који желите да инсталирате и изаберите <span class="gui">Означи за инсталацију</span>.</p></li>
 <li class="steps"><p class="p">Ако сте затражили да означите додатне измене, кликните <span class="gui">Означи</span>.</p></li>

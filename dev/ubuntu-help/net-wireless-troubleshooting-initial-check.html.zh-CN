@@ -59,7 +59,10 @@
 </div>
 <div class="region">
 <div class="contents">
-<p class="p">在这一步，您将要检查无线网络连接的基本信息。这确保您的网络问题不是一些简单错误引起的，比如无线连接被关闭，然后准备到下面的故障排除步骤。</p>
+<p class="p">In this step you will check some basic information about your wireless
+  network connection. This is to make sure that your networking problem isn’t
+  caused by a relatively simple issue, like the wireless connection being
+  turned off, and to prepare for the next few troubleshooting steps.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">确保您的笔记本没有连接<span class="em">有线</span>网络连接。</p></li>
 <li class="steps"><p class="p">如果您有外部无线适配器(如无线 USB 适配器或 PCMCIA 卡)，请确保已将其插入您计算机上的相应插槽中。</p></li>

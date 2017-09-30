@@ -55,7 +55,10 @@
   on the top bar with three dots while the connection is being established. The
   dots disappear when you are connected.</p>
 <p class="p">V primeru da se to ne zgodi, se najprej prepričajte, da je vaš omrežni kabel vklopljen. En konec kabla bi moral biti vklopljen v pravokotna vrata Ethernet (omrežje) na vašem računalniku, drugi konec bi moral biti vklopljen v stikalo, usmerjevalnik, vtič zidu ali podobno (odvisno od omrežne nastavitve, ki jo imate).</p>
-<div class="note" title="Opomba"><div class="inner"><div class="region"><div class="contents"><p class="p">Računalnika ne morete vklopiti neposredno v drugega z omrežnim kablom (vsaj ne brez dodatnih nastavitev). Za povezavo dveh računalnikov oba vklopite v omrežni razdelilnik, usmerjevalnik ali stikalo.</p></div></div></div></div>
+<div class="note" title="Opomba"><div class="inner"><div class="region"><div class="contents"><p class="p">You can’t plug one computer directly into another one with a network
+    cable (at least, not without some extra setting-up). To connect two
+    computers, you should plug them both into a network hub, router or
+    switch.</p></div></div></div></div>
 <p class="p">V primeru da še vedno niste povezani, vaše omrežje morda ne podpira samodejne nastavitve (DHCP). V tem primeru ga boste morali <span class="link"><a href="net-manual.html" title="Ročno nastavi omrežne nastavitve">nastaviti ročno</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">

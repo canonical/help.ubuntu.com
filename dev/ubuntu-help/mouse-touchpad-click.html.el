@@ -68,11 +68,15 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Για κλικ, πατήστε στην πινακίδα αφής.</p></li>
 <li class="list"><p class="p">Για διπλό κλικ, πατήστε δυο φορές.</p></li>
-<li class="list"><p class="p">Για να σύρετε ένα στοιχείο, κάντε διπλό πάτημα αλλά μην σηκώσετε το δάκτυλό σας μετά το δεύτερο πάτημα. Σύρετε το στοιχείο όπου το θέλετε, έπειτα σηκώστε το δάκτυλό σας για απόθεση.</p></li>
+<li class="list"><p class="p">To drag an item, double-tap but don’t lift your finger after the
+      second tap. Drag the item where you want it, then lift your finger to
+      drop.</p></li>
 <li class="list"><p class="p">Εάν η πινακίδα αφής υποστηρίζει πατήματα πολλαπλών δακτύλων, κάντε δεξί κλικ πατώντας με δύο δάκτυλα μονομιάς. Αλλιώς, χρειάζεστε ακόμα να χρησιμοποιήσετε πλήκτρα υλικού για να κάνετε δεξί κλικ. Δείτε <span class="link"><a href="a11y-right-click.html" title="Προσομοίωση δεξιού κλικ του ποντικιού">Προσομοίωση δεξιού κλικ του ποντικιού</a></span> για μια μέθοδο δεξιού κλικ χωρίς ένα δεύτερο πλήκτρο ποντικιού.</p></li>
 <li class="list"><p class="p">Εάν η πινακίδα αφής υποστηρίζει πατήματα πολλαπλών δακτύλων, <span class="link"><a href="mouse-middleclick.html" title="Μεσαίο κλικ">μεσαίο κλικ</a></span> πιέζοντας με τρία δάκτυλα μονομιάς.</p></li>
 </ul></div></div></div>
-<div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">Όταν πατάτε ή σύρετε με πολλά δάκτυλα, βεβαιωθείτε ότι τα δάκτυλά σας απλώνονται αρκετά μακριά. Εάν τα δάκτυλά σας είναι υπερβολικά κοντά, ο υπολογιστής σας μπορεί να θεωρήσει ότι είναι ένα μονό δάκτυλο.</p></div></div></div></div>
+<div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">When tapping or dragging with multiple fingers, make sure your fingers
+    are spread far enough apart. If your fingers are too close, your computer
+    may think they’re a single finger.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="twofingerscroll" class="sect"><div class="inner">

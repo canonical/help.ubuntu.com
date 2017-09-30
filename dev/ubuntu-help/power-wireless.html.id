@@ -56,9 +56,8 @@
 <p class="p">You can reduce battery use by switching off bluetooth, wi-fi or mobile
   broadband when they are not in use.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span>
-      overview and start typing <span class="gui">Power</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Power</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Daya</span>.</p></li>
+<li class="steps"><p class="p">Klik pada <span class="gui">Daya</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">The <span class="gui">Power Saving</span> section contains switches for
       <span class="gui">Wi-Fi</span>, <span class="gui">Mobile broadband</span>, and <span class="gui">Bluetooth</span>.
       Switch the unused services to <span class="gui">OFF</span>. Re-enable when needed by
@@ -72,7 +71,7 @@
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="power.html" title="Daya &amp; baterai">Daya &amp; baterai</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-status.html" title="Periksa status baterai">Battery status</a></span>,
       <span class="link"><a href="power-suspend.html" title="Apa yang terjadi ketika saya mensuspensi komputer?">suspend</a></span>,
       <span class="link"><a href="power-whydim.html" title="Mengapa layar saya meredup setelah beberapa saat?">screen dimming</a></span>…
     </span>

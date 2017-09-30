@@ -50,7 +50,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">U různých zpráv a událostí počítač přehraje krátký výstražný zvuk. Pokud vám dělá problémy tyto zvuky poslouchat, můžete si místo nich nechat vizuálně zablikat buď celou obrazovkou nebo aktuálním oknem.</p>
-<p class="p">Hodí se to i pro případy, kdy pracujete v prostředí, kde nesmí váš počítač rušit zvuky, jako třeba ve veřejné knihovně. Jak ztišit zvuková upozornění a povolit vizuální viz <span class="link"><a href="sound-alert.html" title="Výběr a vypnutí zvuku upozornění">Výběr a vypnutí zvuku upozornění</a></span>.</p>
+<p class="p">Hodí se to i pro případy, kdy pracujete v prostředí, kde nesmí váš počítač rušit zvuky, jako třeba ve veřejné knihovně. Jak ztišit zvuková upozornění a povolit vizuální se dočtete v část <span class="link"><a href="sound-alert.html" title="Výběr a vypnutí zvuku upozornění">Výběr a vypnutí zvuku upozornění</a></span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Univerzální přístup</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Univerzální přístup</span> otevřete příslušný panel.</p></li>

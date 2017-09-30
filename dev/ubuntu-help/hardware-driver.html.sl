@@ -49,7 +49,9 @@
 <div class="hgroup"><h1 class="title"><span class="title">Kaj je gonilnik?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Naprave so fizični "deli" računalnika. Lahko so <span class="em">zunanje</span> kot tiskalniki in monitor ali <span class="em">notranje</span> kot grafične in zvočne kartice.</p>
+<p class="p">Devices are the physical “parts” of your computer. They may be
+<span class="em">external</span> like printers and monitor or <span class="em">internal</span> like graphics
+and audio cards.</p>
 <p class="p">Da bi vaš računalnik lahko te naprave uporabljal, mora vedeti, kako se z njimi sporazumevati. To stori program, ki se imenuje <span class="em">gonilnik naprav</span>.</p>
 <p class="p">When you attach a device to your computer, you must have the correct driver
 installed for that device to work. For example, if you plug in a printer but

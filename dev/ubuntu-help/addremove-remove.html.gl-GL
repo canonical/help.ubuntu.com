@@ -54,7 +54,10 @@
 <p class="p">Tamén pode eliminar software que non ten unha interface gráfica. Para facelo pode usar o <span class="link"><a href="addremove-install-synaptic.html" title="Use Synaptic para unha xestión de software máis avanzada">Synaptic</a></span>. Teña en conta que o <span class="app">Synaptic</span> non lista snaps.</p>
 <p class="p">Para eliminar un aplicativo:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Prema na icona de <span class="app">Ubuntu Software</span> que está no <span class="gui">Iniciador</span> ou procure novo <span class="input">Software</span> na barra de busca do <span class="gui">Panel</span>.</p></li>
+<li class="steps"><p class="p">
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">Cando se abra o <span class="app">Ubuntu Software</span>, prema no botón <span class="gui">Instalado</span> na banda superior.</p></li>
 <li class="steps"><p class="p">Busque o aplicativo que desexa retirar usando a caixa de busca ou mire na lista de aplicativos instalados.</p></li>
 <li class="steps"><p class="p">Seleccione o aplicativo e prema <span class="gui">Eliminar</span>.</p></li>

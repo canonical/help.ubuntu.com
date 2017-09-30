@@ -70,7 +70,7 @@
 <p class="p">Till vänster i översiktsvyn hittar du <span class="em">snabbstartspanelen</span>. Snabbstartspanelen visar dig dina favorit- och körande program. Klicka på vilken ikon som helst i favoriter för att öppna det programmet; om programmet redan körs kommer det att bli markerat. Att klicka på dess ikon kommer att plocka fram det senast använda fönstret. Du kan också dra ikonen till översiktsvyn eller till en arbetsyta till höger.</p>
 <p class="p">Om du högerklickar på ikonen visas en meny som låter dig välja vilket fönster som helst för ett körande program, eller öppna ett nytt fönster. Du kan också klicka på ikonen medan du håller ner <span class="key"><kbd>Ctrl</kbd></span> för att öppna ett nytt fönster.</p>
 <p class="p">När du går in i översiktsvyn kommer du först att hamna i fönsteröversiktsvyn. Denna visar dig live-uppdaterade miniatyrbilder av alla fönster på den aktuella arbetsytan.</p>
-<p class="p">Klicka på rutnätsknappen i botten av snabbstartspanelen för att visa programöversiktsvyn. Denna visar dig alla program som finns installerade på din dator. Klicka på vilket program som helst för att köra det eller dra ett program till översikten eller till miniatyrbilden för en arbetsyta. Du kan också dra ett program till snabbstartspanelen för att göra det till en favorit. Dina favoritprogram stannar kvar i snabbstartspanelen även om de inte kör, så att du kan nå den snabbt.</p>
+<p class="p">Klicka på rutnätsknappen i botten av snabbstartspanelen för att visa programöversiktsvyn. Denna visar dig alla program som finns installerade på din dator. Klicka på vilket program som helst för att köra det eller dra ett program till översikten eller till miniatyrbilden för en arbetsyta. Du kan också dra ett program till snabbstartspanelen för att göra det till en favorit. Dina favoritprogram stannar kvar i snabbstartspanelen även om de inte kör, så att du kan nå dem snabbt.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
 <li class="list"><p class="p"><span class="link"><a href="shell-apps-open.html" title="Starta program">Läs mer om att starta program.</a></span></p></li>
 <li class="list"><p class="p"><span class="link"><a href="shell-windows.html" title="Fönster och arbetsytor">Läs mer om fönster och arbetsytor.</a></span></p></li>
@@ -108,7 +108,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Låsskärmen</span></h2></div>
 <div class="region"><div class="contents">
 <div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-lock.png" width="250" class="media media-block" alt="Låsskärmen"></div></div>
-<p class="p">När du låser din skärm eller den låses automatiskt så visas låsskärmen. Förutom att skydda ditt skrivbord medan du är borta från datorn så visar låsskärmen datum och tid. Den visar också information om din batteri- och nätverksstatus och låter dig kontrollera media uppspelning.</p>
+<p class="p">När du låser din skärm eller den låses automatiskt så visas låsskärmen. Förutom att skydda ditt skrivbord medan du är borta från datorn så visar låsskärmen datum och tid. Den visar också information om din batteri- och nätverksstatus och låter dig kontrollera mediauppspelning.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-lockscreen.html" title="Låsskärmen">Läs mer om låsskärmen.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></div>

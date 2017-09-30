@@ -55,7 +55,13 @@
 <div class="contents">
 <p class="p">Il modo migliore per avere dei profili è di crearseli da soli, sebbene questo richieda un maggiore sforzo iniziale.</p>
 <p class="p">Molti produttori forniscono dei profili del colore, malgrado a volte siano contenuti in <span class="em">pacchetti driver</span> che potrebbe essere necessario scaricare, estrarre e infine cercare i profili del colore all'interno.</p>
-<p class="p">Alcuni produttori non forniscono profili accurati per l'hardware e in tal caso è meglio non utilizzarli. Scaricare invece il profilo, ma se la data di creazione risale a più di un anno prima della data di acquisto del dispositivo è probabile i dati contenuti non sia più utilizzabili.</p>
+<p class="p">
+    Some manufacturers do not provide accurate profiles for the hardware
+    and the profiles are best avoided.
+    A good clue is to download the profile, and if the creation date is
+    more than a year before the date you bought the device then it’s
+    likely dummy data generated that is useless.
+  </p>
 <p class="p">Consultare <span class="link"><a href="color-why-calibrate.html" title="Perché è necessario eseguire personalmente la calibrazione?">Perché è necessario eseguire personalmente la calibrazione?</a></span> per informazioni riguardanti il motivo per cui i profili forniti dai venditori sono spesso inutilizzabili.</p>
 </div>
 <div class="sect sect-links" role="navigation">

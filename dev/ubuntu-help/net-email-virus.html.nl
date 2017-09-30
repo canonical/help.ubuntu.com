@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Do I need to scan my emails for viruses?</title>
+<title>Moet ik mijn e-mails controleren op virussen?</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,29 +44,27 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-email.html" title="Email &amp; email software">Email &amp; email software</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-email.html" title="E mail &amp; e-mailsoftware">E mail &amp; e-mailsoftware</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-security.html" title="Keeping safe on the internet">Keeping safe on the internet</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-security.html" title="Veiligheid op het internet">Veiligheid op het internet</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Do I need to scan my emails for viruses?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Moet ik mijn e-mails controleren op virussen?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Viruses are programs that cause problems if they manage to find their way
-  onto your computer. A common way of them getting onto your computer is
-  through email messages.</p>
+<p class="p">Virussen zijn programma's die problemen veroorzaken als ze er in slagen om op uw computer te komen. Een gebruikelijke manier waarop ze op uw computer terecht komen is via e-mailberichten.</p>
 <p class="p">Viruses that can affect computers running Linux are quite rare, so you are
-  <span class="link"><a href="net-antivirus.html" title="Do I need anti-virus software?">unlikely to get a virus through email or
+  <span class="link"><a href="net-antivirus.html" title="Heb ik anti-virussoftware nodig?">unlikely to get a virus through email or
   otherwise</a></span>. If you receive an email with a virus hidden in it, it will
-  probably have no effect on your computer. As such, you probably don't need to
+  probably have no effect on your computer. As such, you probably don’t need to
   scan your email for viruses.</p>
 <p class="p">You may, however, wish to scan your email for viruses in case you happen
   to forward a virus from one person to another. For example, if one of your
   friends has a Windows computer with a virus and sends you a virus-infected
   email, and you then forward that email to another friend with a Windows
   computer, then the second friend might get the virus too. You could install
-  an anti-virus application to scan your emails to prevent this, but it's
+  an anti-virus application to scan your emails to prevent this, but it’s
   unlikely to happen and most people using Windows and Mac OS have anti-virus
   software of their own anyway.</p>
 </div>
@@ -77,24 +75,17 @@
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-email.html" title="Email &amp; email software">Email &amp; email software</a><span class="desc"> — 
-      <span class="link"><a href="net-default-email.html" title="Change which mail application is used to write emails">Default email apps</a></span>,
-      <span class="link"><a href="net-email-virus.html" title="Do I need to scan my emails for viruses?">Should I scan for viruses?</a></span>…
-    </span>
+<a href="net-email.html" title="E mail &amp; e-mailsoftware">E mail &amp; e-mailsoftware</a><span class="desc"> — <span class="link"><a href="net-default-email.html" title="Wijzigen welk e-mailprogramma gebruikt wordt om e-mails te schrijven">Standaard e-mailtoepassingen</a></span>, <span class="link"><a href="net-email-virus.html" title="Moet ik mijn e-mails controleren op virussen?">Moet ik op virussen scannen?</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-security.html" title="Keeping safe on the internet">Keeping safe on the internet</a><span class="desc"> — 
-      <span class="link"><a href="net-antivirus.html" title="Do I need anti-virus software?">Antivirus software</a></span>,
-      <span class="link"><a href="net-firewall-on-off.html" title="Enable or block firewall access">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html" title="Commonly-used network ports">firewall ports</a></span>…
-    </span>
+<a href="net-security.html" title="Veiligheid op het internet">Veiligheid op het internet</a><span class="desc"> — <span class="link"><a href="net-antivirus.html" title="Heb ik anti-virussoftware nodig?">Antivirussoftware</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Firewalltoegang inschakelen of blokkeren.">basis-firewalls</a></span>, <span class="link"><a href="net-firewall-ports.html" title="Veelgebruikte netwerkpoorten">firewall-poorten</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-antivirus.html" title="Do I need anti-virus software?">Do I need anti-virus software?</a><span class="desc"> — There are few Linux viruses, so you probably don't need anti-virus
+<a href="net-antivirus.html" title="Heb ik anti-virussoftware nodig?">Heb ik anti-virussoftware nodig?</a><span class="desc"> — There are few Linux viruses, so you probably don’t need anti-virus
     software.</span>
 </li></ul></div>
 </div></div>

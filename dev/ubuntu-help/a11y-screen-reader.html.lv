@@ -50,9 +50,9 @@
 <div class="region">
 <div class="contents">
 <p class="p">GNOME nodrošina <span class="app">Orca</span> ekrāna lasītāju lai izrunātu lietotāja saskarni. Atkarībā no veida, kā esat uzinstalējis GNOME, jums varētu nebūt uzinstalēta Orca. Ja nav, vispirms uzinstalējiet Orca.</p>
-<p class="p">To start <span class="app">Orca</span> using the keyboard:</p>
-<div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps"><p class="p">Press <span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>S</kbd></span>.</p></li></ol></div></div></div>
-<p class="p">Or to start <span class="app">Orca</span> using a mouse and keyboard:</p>
+<p class="p">Lai palaistu <span class="app">Orca</span>, izmantojot tastatūru:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps"><p class="p">Spiediet <span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>S</kbd></span>.</p></li></ol></div></div></div>
+<p class="p">Vai lai palaistu <span class="app">Orca</span>, izmantojot peli un tastatūru:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Universālā piekļuve</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Universālā piekļuve</span>, lai atvērtu paneli.</p></li>

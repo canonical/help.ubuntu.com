@@ -52,7 +52,10 @@
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Мышь реагирует с опозданием</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">Беспроводным и оптическим мышам, как и сенсорным панелям на ноутбуках, может быть необходимо «проснуться», чтобы начать работать. При бездействии они автоматически переходят в спящий режим для экономии заряда аккумулятора. Чтобы «разбудить» мышь или сенсорную панель, можно переместить мышь или нажать её кнопку.</p></div>
+<div class="contents"><p class="p">Wireless and optical mice, as well as touchpads on laptops, may need to
+  “wake up” before they start working. They automatically go to sleep when not in
+  use to save battery power. To wake up your mouse or touchpad, you can click on
+  a mouse button or wiggle the mouse.</p></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">

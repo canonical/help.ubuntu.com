@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Hide a file</title>
+<title>Een bestand verbergen</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,61 +43,31 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html#faq" title="Tips and questions">Tips and questions</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#faq" title="Tips en vragen">Tips en vragen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Hide a file</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Een bestand verbergen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">The <span class="app">Files</span> file manager gives you the ability to hide and unhide
-  files at your discretion. When a file is hidden, it is not displayed by the
-  file manager, but it is still there in its folder.</p>
-<p class="p">To hide a file, <span class="link"><a href="files-rename.html" title="Rename a file or folder">rename it</a></span> with a
-  <span class="file">.</span> at the beginning of its name. For example, to hide a file
-  named <span class="file">example.txt</span>, you should rename it to
-  <span class="file">.example.txt</span>.</p>
+<p class="p">In de <span class="app">Bestanden</span>-bestandsbeheerder kunt u naar wens bestanden verbergen of weer zichtbaar maken. Wanneer een bestand verborgen is, dan wordt het niet getoond in bestandsbeheer, maar het is nog wel aanwezig in de map.</p>
+<p class="p">Om een bestand te verbergen <span class="link"><a href="files-rename.html" title="Een bestand of map hernoemen">hernoemt</a></span> u het zodat de naam met een <span class="key"><kbd>.</kbd></span> begint. Bijvoorbeeld, om het bestand met de naam <span class="file">voorbeeld.txt</span> te verbergen moet u hernoemen naar <span class="file">.voorbeeld.txt</span>.</p>
 <div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">You can hide folders in the same way that you can hide files. Hide a
-  folder by placing a <span class="file">.</span> at the beginning of the folder's name.</p></div></div></div></div>
+  folder by placing a <span class="file">.</span> at the beginning of the folder’s name.</p></div></div></div></div>
 </div>
 <div id="show-hidden" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Show all hidden files</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Alle verborgen bestanden weergeven</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">If you want to see all hidden files in a folder, go to that folder and
-  either click the
-  
-  view options button in the toolbar and pick <span class="gui">Show Hidden Files</span>, or press
-  <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. You will see all hidden files,
-  along with regular files that are not hidden.</p>
-<p class="p">To hide these files again, either click the
-  
-  view options button in the toolbar and pick <span class="gui">Show Hidden Files</span>, or press
-  <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span> again.</p>
+<p class="p">Als u alle verborgen bestanden van een map wilt zien: ga naar die map, klik in de taakbalk op de knop Weergaveopties en kies <span class="gui">Verborgen bestanden weergeven</span>, of druk op <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. U zult alle verborgen bestanden zien, samen met gewone bestanden die niet verborgen zijn.</p>
+<p class="p">Om deze bestanden weer te verbergen: klik in de taakbalk op de knop Weergaveopties en kies <span class="gui">Verborgen bestanden weergeven</span>, of druk opnieuw op <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>.</p>
 </div></div>
 </div></div>
 <div id="unhide" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Unhide a file</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Een bestand zichtbaar maken</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">To unhide a file, go to the folder containing the hidden file and click
-  the
-  
-  view options button in the toolbar and pick <span class="gui">Show Hidden Files</span>.
-  Then, find the hidden file and rename it so that it does not have a
-  <span class="file">.</span> in front of its name. For example, to unhide a file called
-  <span class="file">.example.txt</span>, you should rename it to
-  <span class="file">example.txt</span>.</p>
-<p class="p">Once you have renamed the file, you can either click the
-  
-  view options button in the toolbar and pick <span class="gui">Show Hidden Files</span>, or
-  press <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span> to hide any other hidden
-  files again.</p>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">By default, you will only see hidden files in the file
-  manager until you close the file manager. To change this setting so that the
-  file manager will always show hidden files, see
-  <span class="link"><a href="nautilus-views.html" title="Views preferences in Files">Views preferences in <span class="app">Files</span></a></span>.</p></div></div></div></div>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Most hidden files will have a <span class="file">.</span> at the
-  beginning of their name, but others might have a <span class="file">~</span> at the end of
-  their name instead. These files are backup files. See
-  <span class="link"><a href="files-tilde.html" title="What is a file with a ~ at the end of its name?">What is a file with a <span class="file">~</span> at the end of its name?</a></span> for more information.</p></div></div></div></div>
+<p class="p">Om een bestand weer zichtbaar te maken: ga naar de map waarin zich het verborgen bestand bevindt, klik in de taakbalk op de knop Weergaveopties en kies <span class="gui">Verborgen bestanden weergeven</span>. Zoek vervolgens het verborgen bestand en hernoem het zodat het niet meer met een <span class="key"><kbd>.</kbd></span>begint. Bijvoorbeeld, om een bestand met de naam <span class="file">.voorbeeld.txt</span> zichtbaar te maken, hernoemt u het naar <span class="file">voorbeeld.txt</span>.</p>
+<p class="p">Zodra u het bestand heeft hernoemd, kunt u in de taakbalk op de knop Weergaveopties klikken en <span class="gui">Verborgen bestanden weergeven</span> kiezen, of u drukt op <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span> om de overige verborgen bestanden weer te verbergen.</p>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Normaal krijgt u verborgen bestanden in bestandsbeheer te zien totdat u bestandsbeheer sluit. Zie <span class="link"><a href="nautilus-views.html" title="Weergaven-voorkeuren in Bestanden">Weergaven-voorkeuren in <span class="app">Bestanden</span></a></span> als u wilt weten hoe u de instellingen zo kunt wijzigen dat bestandsbeheer altijd verborgen bestanden toont.</p></div></div></div></div>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">De meeste verborgen bestanden hebben een <span class="file">.</span> aan het begin van hun naam. Andere kunnen daarentegen een <span class="file">~</span> hebben aan het einde van hun naam. Dit zijn reservekopiebestanden. Zie <span class="link"><a href="files-tilde.html" title="Wat is een bestand met een ~ aan het einde van de naam?">Wat is een bestand met een <span class="file">~</span> aan het einde van de naam?</a></span> voor meer informatie hierover.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -105,12 +75,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Tips and questions">Tips and questions</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html#faq" title="Tips en vragen">Tips en vragen</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-tilde.html" title="What is a file with a ~ at the end of its name?">What is a file with a <span class="file">~</span> at the end of its name?</a><span class="desc"> — These are backup files. They are hidden by default.</span>
+<a href="files-tilde.html" title="Wat is een bestand met een ~ aan het einde van de naam?">Wat is een bestand met een <span class="file">~</span> aan het einde van de naam?</a><span class="desc"> — Dit zijn reservekopiebestanden. Deze zijn standaard verborgen.</span>
 </li></ul></div>
 </div></div>
 </div>

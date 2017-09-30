@@ -49,7 +49,8 @@
 <div class="hgroup"><h1 class="title"><span class="title">Σύνδεση με ευρυζωνικό δίκτυο κινητής τηλεφωνίας</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Μπορείτε να ρυθμίσετε μια σύνδεση σε ένα δίκτυο κινητής τηλεφωνίας (3G) με το ενσωματωμένο μόντεμ 3G του υπολογιστή σας, το κινητό σας τηλέφωνο, ή μια συσκευή USB παροχής διαδικτύου.</p>
+<p class="p">You can set up a connection to a cellular (3G) network with your
+  computer’s built-in 3G modem, your mobile phone, or an Internet stick.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Αν δεν έχετε ένα ενσωματωμένο μόντεμ για 3G, συνδέστε το κινητό σας τηλέφωνο ή τη συσκευή παροχής διαδικτύου σε μια διαθέσιμη θύρα USB στον υπολογιστή σας.</p></li>
 <li class="steps"><p class="p">Ανοίξτε το <span class="gui"><a href="shell-introduction.html#yourname" title="Εσείς και ο υπολογιστή σας">μενού του συστήματος</a></span> από τη δεξιά πλευρά της πάνω γραμμής.</p></li>
@@ -58,7 +59,8 @@
 <div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">Αν το <span class="gui">Κινητό ευρυζωνικό</span> δεν εμφανιστεί στο μενού κατάστασης του συστήματος, βεβαιωθείτε ότι η συσκευή σας δεν έχει οριστεί ως συσκευή μαζικής αποθήκευσης.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Επιλέξτε <span class="gui">Σύνδεση</span>. Αν συνδέεστε για πρώτη φορά, θα ξεκινήσει ο οδηγός <span class="gui">Ρύθμιση ευρυζωνικής κινητής σύνδεσης</span>. Το παράθυρο που ανοίγει εμγφανίζει τις απαιτούμενες πληροφορίες. Κάντε κλικ στο <span class="gui">Επόμενο</span>.</p></li>
-<li class="steps"><p class="p">Επιλέξτε τη χώρα ή περιοχή του παρόχου σας από τη λίστα. Πατήστε <span class="gui">Επόμενο</span>.</p></li>
+<li class="steps"><p class="p">Choose your provider’s country or region from the list. Click
+    <span class="gui">Next</span>.</p></li>
 <li class="steps"><p class="p">Επιλέξτε τον πάροχό σας από τη λίστα. Κάντε κλικ στο <span class="gui">Επόμενο</span>.</p></li>
 <li class="steps"><p class="p">Επιλέξτε ένα πλάνο σύμφωνα με τον τύπο της συσκευής που συνδέεστε. Αυτό θα προσδιορίσει το όνομα του σημείου πρόσβασης. Κάντε κλικ στο <span class="gui">Επόμενο</span>.</p></li>
 <li class="steps"><p class="p">Επιβεβαιώστε τις ρυθμίσεις που έχετε επιλέξει κάνοντας κλικ στο <span class="gui">Εφαρμογή</span>. Ο οδηγός θα κλείσει και το παράθυρο <span class="gui">Δίκτυο</span> θα εμφανίσει τις ιδιότητες της σύνδεσής σας.</p></li>

@@ -55,7 +55,13 @@
 <div class="contents">
 <p class="p">La meilleure façon d'obtenir des profils est de les générer vous-même, même si cela nécessite un investissement initial.</p>
 <p class="p">Beaucoup de fabricants essaient de fournir des profils de couleurs pour leurs périphériques, même si parfois ils sont cachés dans des <span class="em">paquets de pilotes</span> que vous pouvez télécharger et extraire puis dans lesquels il vous faut les rechercher.</p>
-<p class="p">Quelques fabricants ne fournissent pas de bon profils pour leur périphériques et dans ce cas il vaut mieux les éviter. Un bon indice est de télécharger le profil et de vérifier que la date de création n'est pas antérieure à un an par rapport à celle où vous avez acquis le matériel. Si c'est le cas, alors il s'agit de données factices qui ne vous seront d'aucune utilité.</p>
+<p class="p">
+    Some manufacturers do not provide accurate profiles for the hardware
+    and the profiles are best avoided.
+    A good clue is to download the profile, and if the creation date is
+    more than a year before the date you bought the device then it’s
+    likely dummy data generated that is useless.
+  </p>
 <p class="p">Consultez <span class="link"><a href="color-why-calibrate.html" title="Étalonnage par vous-même">Étalonnage par vous-même</a></span> pour savoir pourquoi les profils fournis par les marchands sont parfois pires qu'inutiles.</p>
 </div>
 <div class="sect sect-links" role="navigation">

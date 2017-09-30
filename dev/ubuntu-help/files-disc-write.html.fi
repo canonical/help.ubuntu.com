@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Tiedostot, kansiot ja etsiminen">Tiedostot</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Tiedostot, kansiot ja etsiminen">Tiedostot</a> › <a class="trail" href="files.html#more-file-tasks" title="Lisää tiedostoihin liittyviä tehtäviä">Lisää tiedostoihin liittyviä tehtäviä</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Kirjoita tiedostoja CD- tai DVD-levylle</span></h1></div>
@@ -74,9 +74,11 @@
 </ol></div></div></div>
 </div>
 <div id="problem" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Jos levyn kirjoitus ei onnistunut kunnolla</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">If the disc wasn’t burned properly</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Joskus levyjen kirjoitus ei onnistu ja et näe levyllä tiedostoja asettaessasi levyn asemaan.</p>
+<p class="p">Sometimes the computer doesn’t record the data correctly, and you won’t be
+  able to see the files you put onto the disc when you insert it into a
+  computer.</p>
 <p class="p">In this case, try burning the disc again but use a lower burning speed,
   for example, 12x rather than 48x. Burning at slower speeds is more reliable.
   You can choose the speed by clicking the <span class="gui">Properties</span> button in the
@@ -87,7 +89,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Lisää tiedostoihin liittyviä tehtäviä">Lisää tiedostoihin liittyviä tehtäviä</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

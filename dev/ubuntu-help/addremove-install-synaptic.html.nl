@@ -56,7 +56,10 @@
 <div class="hgroup"><h2 class="title"><span class="title">Software installeren met behulp van Synaptic</span></h2></div>
 <div class="region"><div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open Synaptic via de <span class="gui">Snelzoeker</span> of de <span class="gui">Starter</span>. U moet uw wachtwoord opgeven in het <span class="gui">Authenticatievenster</span>.</p></li>
+<li class="steps"><p class="p">
+          Open <span class="app">Synaptic</span> via the <span class="em">Activities</span> search bar. You 
+          will need to enter your password in the <span class="gui">Authenticate</span> window.
+        </p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Zoeken</span> om naar een toepassing te zoeken, of klik op <span class="gui">Onderdelen</span> om de categorieën te bekijken waarin u een toepassing wilt zoeken.</p></li>
 <li class="steps"><p class="p">Klik met rechts op de toepassing die u wilt installeren en kies <span class="gui">Markeren voor Installatie</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Mark</span> als u gevraagd wordt aanvullende wijzigingen te markeren.</p></li>

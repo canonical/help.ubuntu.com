@@ -50,8 +50,14 @@
 <div class="region">
 <div class="contents">
 <p class="p">Parfois, l'imprimante charge de travers les feuilles de papier et il y a bourrage.</p>
-<p class="p">Le manuel de votre imprimante doit normalement vous fournir la procédure à appliquer pour vous sortir d'un bourrage papier. Habituellement, il faut ouvrir un des capots de l'imprimante pour localiser le bourrage et ensuite tirer fermement (mais précautionneusement !) sur le paquet froissé pour le retirer du mécanisme d'approvisionnement.</p>
-<p class="p">Une fois le bourrage terminé, il faut en général appuyez sur le bouton <span class="em">reprendre</span> de l'imprimante pour relancer l'impression. Avec certaines imprimantes, il faut même éteindre et rallumer l'imprimante, puis recommencer l'impression.</p>
+<p class="p">The manual for your printer will usually provide detailed instructions on
+  how to clear paper jams. Usually, you will need to open one of the printer’s
+  panels to find the jam inside and then firmly (but carefully!) pull the
+  jammed paper out of the printer’s feeding mechanism.</p>
+<p class="p">Once the jam has been cleared you may need to press the printer’s
+  <span class="em">resume</span> button to start printing again. With some printers, you may
+  even need to turn the printer off and then on again, and then start the print
+  job again.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

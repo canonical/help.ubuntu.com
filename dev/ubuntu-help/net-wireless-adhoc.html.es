@@ -54,10 +54,10 @@
 <li class="steps"><p class="p">Abra el <span class="gui"><a href="shell-introduction.html#yourname" title="Usted y su equipo">menú del sistema</a></span> en la parte derecha de la barra superior.</p></li>
 <li class="steps"><p class="p">Seleccione <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span> Inalámbrica no conectada</span> o el nombre de la red inalámbrica a la que ya está conectado. La sección Inalámbrica del menú se expandirá.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Configuración inalámbrica</span>.</p></li>
-<li class="steps"><p class="p">Pulse el botón <span class="gui">Usar como «hotspot»...</span>.</p></li>
+<li class="steps"><p class="p">Pulse el botón <span class="gui">Usar como «hotspot»…</span>.</p></li>
 <li class="steps"><p class="p">Si ya está conectado a una red inalámbrica, se le preguntará si quiere desconectarse de esa red. Un adaptador inalámbrico sólo puede conectarse o crear una única red al mismo tiempo. Pulse <span class="gui">Activar</span> para confirmar.</p></li>
 </ol></div></div></div>
-<p class="p">Se generan automáticamente un nombre de red (SSID) y una clave de seguridad. El nombre de red estará basado en el nombre de su equipo. Otros dispositivos necesitarán esta información para conectarse al «»hotspot que acaba de crear.</p>
+<p class="p">Se generan automáticamente un nombre de red (SSID) y una clave de seguridad. El nombre de red estará basado en el nombre de su equipo. Otros dispositivos necesitarán esta información para conectarse al «hotspot» que acaba de crear.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

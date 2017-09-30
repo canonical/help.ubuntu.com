@@ -68,9 +68,13 @@
 <li class="list"><p class="p">Colorimètre HCFR (χρωματόμετρο)</p></li>
 </ul></div></div></div>
 <div class="note note-tip" title="Συμβουλή"><div class="inner"><div class="region"><div class="contents"><p class="p">Το Pantone Huey είναι τώρα το πιο φτηνό και άριστα υποστηριζόμενο υλικό στο Linux.</p></div></div></div></div>
-<p class="p">Χάρη στο Argyll υπάρχει επίσης ένας αριθμός από σημεία και λουρίδες ανάγνωσης υποστηριζόμενων ανακλαστικών φασματόμετρων για να σας βοηθήσουν στην βαθμονόμηση και τον χαρακτηρισμό των εκτυπωτών σας:</p>
+<p class="p">
+    Thanks to Argyll there’s also a number of spot and strip reading
+    reflective spectrometers supported to help you calibrating and
+    characterizing your printers:
+  </p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">X-Rite DTP20 "Pulse" ("swipe" τύπου ανακλαστικού φασματομέτρου)</p></li>
+<li class="list"><p class="p">X-Rite DTP20 “Pulse” (“swipe” type reflective spectrometer)</p></li>
 <li class="list"><p class="p">X-Rite DTP22 Digital Swatchbook (σημείο τύπου ανακλαστικού φασματομέτρου)</p></li>
 <li class="list"><p class="p">X-Rite DTP41 (ανάγνωσης σημείου και λουρίδας ανακλαστικού φασματομέτρου)</p></li>
 <li class="list"><p class="p">X-Rite DTP41T (ανάγνωσης σημείου και λουρίδας ανακλαστικού φασματομέτρου)</p></li>

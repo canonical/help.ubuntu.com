@@ -53,7 +53,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Untuk memulihkan berkas dari Tong Sampah:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Activities</a></span> overview and
       start typing <span class="app">Files</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="app">Files</span> to open the file manager.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Trash</span> in the sidebar. If you do not see the sidebar,
@@ -63,12 +63,12 @@
 </div></div>
 <p class="p">If you deleted the file by pressing <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Delete
   </kbd></span></span>, or by using the command line, the file has been permanently
-  deleted. Files that have been permanently deleted can't be recovered from the
+  deleted. Files that have been permanently deleted can’t be recovered from the
   <span class="gui">Trash</span>.</p>
 <p class="p">There are a number of recovery tools available that are sometimes able to
   recover files that were permanently deleted. These tools are generally not
   very easy to use, however. If you accidentally permanently deleted a file,
-  it's probably best to ask for advice on a support forum to see if you can
+  it’s probably best to ask for advice on a support forum to see if you can
   recover it.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -82,7 +82,8 @@
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="files-lost.html" title="Cari berkas yang hilang">Cari berkas yang hilang</a><span class="desc"> — Ikuti petunjuk ini bila Anda tak dapat menemukan berkas yang Anda buat atau unduh.</span>
+<a href="files-lost.html" title="Cari berkas yang hilang">Cari berkas yang hilang</a><span class="desc"> — Follow these tips if you can’t find a file you created or
+    downloaded.</span>
 </li>
 <li class="links ">
 <a href="files-delete.html" title="Menghapus berkas dan folder">Menghapus berkas dan folder</a><span class="desc"> — Menghapus berkas atau folder yang tidak Anda perlukan lagi.</span>

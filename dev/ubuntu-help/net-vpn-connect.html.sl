@@ -53,9 +53,25 @@
 <div class="hgroup"><h1 class="title"><span class="title">Povezava z VPN</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">VPN (ali <span class="em">Navidezno zasebno omrežje</span>) je način povezovanja s krajevnim omrežjem preko interneta. Vzemimo primer, ko se želite povezati s krajevnim omrežjem v svoji službi medtem ko ste na poslovnem izletu. Nekje najdite internetno povezavo (na primer v hotelu) in se nato povežite z VPN-jem svojega delovnega mesta. Vse bo delovalo tako kot da ste se povezali na omrežje v službi, vendar bo dejanska omrežna povezava potekala skozi internetno povezavo hotela. Povezave VPN so običajno <span class="em">šifrirane</span>, da ljudem preprečijo dostop do krajevnega omrežja, s katerim se povezujete, brez prijave.</p>
-<p class="p">Obstajajo številne različne vrste VPN. Morda morate namestiti dodatne programe glede na vrsto VPN-ja, ki jo imate. Ugotovite podrobnosti povezave od osebe, ki je odgovorna za VPN, in si oglejte katero vrsto <span class="em">odjemalca VPN</span> morate uporabiti. Nato pojdite v namestilnik programov in iščite paket <span class="app">Upravljalnika omrežij</span>, ki deluje z vašim VPN-jem (če obstaja), in ga namestite.</p>
-<div class="note" title="Opomba"><div class="inner"><div class="region"><div class="contents"><p class="p">V primeru da za vašo vrsto VPN ne obstaja paket Upravljalnika omrežij, boste verjetno morali prejeti in namestiti program odjemalca podjetja, ki zagotavlja programe VPN. Verjetno boste morali za vzpostavitev delovanja slediti drugačnim navodilom.</p></div></div></div></div>
+<p class="p">A VPN (or <span class="em">Virtual Private Network</span>) is a way of connecting to a
+ local network over the internet. For example, say you want to connect to the
+ local network at your workplace while you’re on a business trip. You would
+ find an internet connection somewhere (like at a hotel) and then connect to
+ your workplace’s VPN. It would be as if you were directly connected to the
+ network at work, but the actual network connection would be through the
+ hotel’s internet connection. VPN connections are usually <span class="em">encrypted</span>
+ to prevent people from accessing the local network you’re connecting to
+ without logging in.</p>
+<p class="p">There are a number of different types of VPN. You may have to install some
+ extra software depending on what type of VPN you’re connecting to. Find out
+ the connection details from whoever is in charge of the VPN and see which
+ <span class="em">VPN client</span> you need to use. Then, go to the software installer
+ application and search for the <span class="app">NetworkManager</span> package which works
+ with your VPN (if there is one) and install it.</p>
+<div class="note" title="Opomba"><div class="inner"><div class="region"><div class="contents"><p class="p">If there isn’t a NetworkManager package for your type of VPN, you will
+ probably have to download and install some client software from the company
+ that provides the VPN software. You’ll probably have to follow some different
+ instructions to get that working.</p></div></div></div></div>
 <p class="p">To set up the VPN connection:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and

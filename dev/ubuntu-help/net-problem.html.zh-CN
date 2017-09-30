@@ -50,13 +50,13 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-disconnecting.html" title="为什么我的无线网络总是断开？"><span class="title">为什么我的无线网络总是断开？</span><span class="linkdiv-dash"> — </span><span class="desc">可能是信号太弱，或者网络没有正确的连接。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-othersconnect.html" title="其他用户不能连接到互联网"><span class="title">其他用户不能连接到互联网</span><span class="linkdiv-dash"> — </span><span class="desc">您可以保存网络连接的设置(比如密码)，这样其他使用这台电脑的人可以直接连接。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-othersedit.html" title="其他用户无法控制网络连接"><span class="title">其他用户无法控制网络连接</span><span class="linkdiv-dash"> — </span><span class="desc">您需要在连接设置中取消选中<span class="gui">对所有用户可用</span>选项。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html" title="I can’t see my wireless network in the list"><span class="title">I can’t see my wireless network in the list</span><span class="linkdiv-dash"> — </span><span class="desc">The wireless could be turned off or broken, or you may be trying to
+    connect to a hidden network.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-othersconnect.html" title="Other users can’t connect to the internet"><span class="title">Other users can’t connect to the internet</span><span class="linkdiv-dash"> — </span><span class="desc">您可以保存网络连接的设置(比如密码)，这样其他使用这台电脑的人可以直接连接。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-othersedit.html" title="Other users can’t edit the network connections"><span class="title">Other users can’t edit the network connections</span><span class="linkdiv-dash"> — </span><span class="desc">您需要在连接设置中取消选中<span class="gui">对所有用户可用</span>选项。</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html" title="我在列表中找不到我的无线网络"><span class="title">我在列表中找不到我的无线网络</span><span class="linkdiv-dash"> — </span><span class="desc">The wireless could be turned off or broken, or you may be trying to
-    connect to a hidden network.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-disconnecting.html" title="为什么我的无线网络总是断开？"><span class="title">为什么我的无线网络总是断开？</span><span class="linkdiv-dash"> — </span><span class="desc">可能是信号太弱，或者网络没有正确的连接。</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-slow.html" title="网速感觉很慢"><span class="title">网速感觉很慢</span><span class="linkdiv-dash"> — </span><span class="desc">可能有其他下载的任务，您只有一个很慢的连接，或者现在是网络繁忙时段。</span></a></div>
 </div>
 </div></div></div></div>

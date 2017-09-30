@@ -100,8 +100,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Mukauta näytettäviä hakutuloksia seuraavasti:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the <span class="gui"><a href="shell-introduction.html#yourname" title="Sinä ja tietokoneesi">system menu</a></span>
-        on the right side of the top bar.</p></li>
+<li class="steps"><p class="p">Napsauta <span class="gui"><a href="shell-introduction.html#yourname" title="Sinä ja tietokoneesi">järjestelmävalikkoa</a></span> yläpalkin oikeasta laidasta.</p></li>
 <li class="steps"><p class="p">Click the settings button at the bottom left of the menu.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Search</span> panel.</p></li>
 <li class="steps"><p class="p">In the list of search locations, click the <span class="gui">ON/OFF</span>

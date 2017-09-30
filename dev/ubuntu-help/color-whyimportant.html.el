@@ -68,7 +68,10 @@
 <div class="desc">Αυτό βλέπει ο χρήστης σε μια τυπική οθόνη επαγγελματικού φορητού υπολογιστή</div>
 </div>
 </div></div>
-<p class="p">Σημειώστε πώς το λευκό δεν είναι 'λευκό χαρτιού' και το μαύρο του ματιού είναι τώρα ένα καφέ λάσπης.</p>
+<p class="p">
+    Notice how the white is not “paper white” and the black of the eye
+    is now a muddy brown.
+  </p>
 <div class="figure"><div class="inner">
 <a href="#" class="zoom" data-zoom-in-title="Προβολή εικόνων στο κανονικό μέγεθος" data-zoom-out-title="Σμίκρυνση εικόνων"></a><div class="region">
 <div class="contents"><div class="media media-image"><div class="inner"><img src="figures/color-printer.png" class="media media-block" alt=""></div></div></div>
@@ -76,11 +79,41 @@
 </div>
 </div></div>
 <p class="p">Το βασικό πρόβλημα που έχουμε εδώ είναι ότι κάθε συσκευή μπορεί να χειριστεί μια διαφορετική περιοχή χρωμάτων. Έτσι ενώ μπορείτε να πάρετε μια φωτογραφία ηλεκτρικού γαλάζιου, οι περισσότεροι εκτυπωτές δεν πρόκειται να μπορέσουν να το αναπαράγουν.</p>
-<p class="p">Οι περισσότερες συσκευές λήψης εικόνας σε RGB (κόκκινο, πράσινο, γαλάζιο) πρέπει να μετατραπούν σε CMYK (κυανό, ματζέντα, κίτρινο και μαύρο) για να εκτυπώσουν. Ένα άλλο πρόβλημα είναι ότι δεν μπορείτε να έχετε <span class="em">λευκό</span> μελάνι και έτσι η λευκότητα μπορεί να είναι τόσο καλή όσο το χρώμα του χαρτιού.</p>
-<p class="p">Ένα άλλο πρόβλημα είναι οι μονάδες. Χωρίς ορισμό της κλίμακας στην οποία μετριέται ένα χρώμα, δεν ξέρουμε εάν το 100% κόκκινο είναι κοντά στο υπέρυθρο ή απλά το πιο βαθύ κόκκινο μελάνι στον εκτυπωτή. Αυτό που είναι 50% κόκκινο σε μια εμφάνιση είναι πιθανόν κάτι σαν 62% σε μια άλλη εμφάνιση. Είναι σαν να λέτε σε ένα άτομο ότι έχετε οδηγήσει 7 μονάδες απόστασης, χωρίς να ξέρετε εάν είναι 7 χιλιόμετρα ή 7 μέτρα.</p>
-<p class="p">Σε χρώμα, αναφερόμαστε σε μονάδες ως φάσμα. Φάσμα είναι βασικά η περιοχή των χρωμάτων που μπορούν να αναπαραχθούν. Μια συσκευή όπως μια κάμερα DSLR πρέπει να έχει ένα πολύ μεγάλο φάσμα, για να μπορεί να συλλάβει όλα τα χρώματα σε ένα ηλιοβασίλεμα, αλλά ένας προβολέας έχει ένα πολύ μικρό φάσμα και όλα τα χρώματα πρόκειται να δείχνουν "ξεθωριασμένα".</p>
-<p class="p">Σε μερικές περιπτώσεις μπορούμε να <span class="em">διορθώσουμε</span> την έξοδο της συσκευής αλλάζοντας τα δεδομένα που στέλνουμε σε αυτή, αλλά σε άλλες περιπτώσεις όπου αυτό δεν είναι δυνατό (δεν μπορείτε να εκτυπώσετε ηλεκτρικό γαλάζιο) χρειαζόμαστε να εμφανίσουμε στον χρήστη πώς πρόκειται να φαίνεται το αποτέλεσμα.</p>
-<p class="p">Για φωτογραφίες έχει νόημα να χρησιμοποιήσετε την πλήρη τονική περιοχή μιας χρωματικής συσκευής, για να μπορεί να κάνει ομαλές αλλαγές σε χρώμα. Για άλλα γραφικά, μπορεί να θέλετε να ταιριάσετε το χρώμα ακριβώς, που είναι σημαντικό εάν προσπαθείτε να εκτυπώσετε μια προσαρμοσμένη κούπα με τον λογότυπο κόκκινου καπέλου που <span class="em">πρέπει</span> να είναι το ακριβές κόκκινο καπέλο.</p>
+<p class="p">
+    Most image devices capture in RGB (Red, Green, Blue) and have
+    to convert to CMYK (Cyan, Magenta, Yellow, and Black) to print.
+    Another problem is that you can’t have <span class="em">white</span> ink, and so
+    the whiteness can only be as good as the paper color.
+  </p>
+<p class="p">
+    Another problem is units. Without specifying the scale on which a
+    color is measured, we don’t know if 100% red is near infrared or
+    just the deepest red ink in the printer. What is 50% red on one
+    display is probably something like 62% on another display.
+    It’s like telling a person that you’ve just driven 7 units of
+    distance, without the unit you don’t know if that’s 7 kilometers or
+    7 meters.
+  </p>
+<p class="p">
+    In color, we refer to the units as gamut. Gamut is essentially the
+    range of colors that can be reproduced.
+    A device like a DSLR camera might have a very large gamut, being able
+    to capture all the colors in a sunset, but a projector has a very
+    small gamut and all the colors are going to look “washed out”.
+  </p>
+<p class="p">
+    In some cases we can <span class="em">correct</span> the device output by altering
+    the data we send to it, but in other cases where that’s not
+    possible (you can’t print electric blue) we need to show the user
+    what the result is going to look like.
+  </p>
+<p class="p">
+    For photographs it makes sense to use the full tonal range of a color
+    device, to be able to make smooth changes in color.
+    For other graphics, you might want to match the color exactly, which
+    is important if you’re trying to print a custom mug with the Red Hat
+    logo that <span class="em">has</span> to be the exact Red Hat Red.
+  </p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

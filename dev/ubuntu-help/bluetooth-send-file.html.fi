@@ -2,7 +2,7 @@
 <html lang=fi>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Send files to a Bluetooth device</title>
+<title>Lähetä tiedostoja Bluetooth-laitteeseen</title>
 <link rel="stylesheet" type="text/css" href="fi.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -50,10 +50,14 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Send files to a Bluetooth device</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Lähetä tiedostoja Bluetooth-laitteeseen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Voit lähettää tiedostoja Bluetooth-laitteisiin, joihin olet muodostanut yhteyden, kuten matkapuhelimiin ja toisiin tietokoneisiin. Jotkin laitteet eivät salli tiedostonsiirtoja tai tiettyjen tiedostotyyppien siirtämistä.Voit siirtää tiedostoja joko valikkopalkin Bluetooth-kuvakkeella, Bluetooth-asetuksien ikkunasta tai suoraan tiedostonhallinnsta.</p>
+<p class="p">You can send files to connected Bluetooth devices, such as some mobile
+    phones or other computers. Some types of devices don’t allow the transfer
+    of files, or specific types of files. You can send files in one of three
+    ways: using the Bluetooth icon in the menu bar, from the Bluetooth settings
+    window, or directly from the file manager.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
       start typing <span class="gui">Bluetooth</span>.</p></li>
@@ -85,7 +89,7 @@
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Yhdistä tietokoneesi Bluetooth-laitteeseen">Yhdistä</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Send files to a Bluetooth device">lähetä tiedostoja</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Bluetoothin kytkeminen päälle tai pois">kytke päälle ja pois päältä</a></span>…</span>
+<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Yhdistä tietokoneesi Bluetooth-laitteeseen">Yhdistä</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Lähetä tiedostoja Bluetooth-laitteeseen">lähetä tiedostoja</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Bluetoothin kytkeminen päälle tai pois">kytke päälle ja pois päältä</a></span>…</span>
 </li>
 <li class="links ">
 <a href="sharing.html" title="Jakaminen">Jakaminen</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Jaa työpöytäsi">Työpöydän jakaminen</a></span>, <span class="link"><a href="files-share.html" title="Jaa tiedostoja sähköpostitse">jaa tiedostoja sähköpostitse</a></span>, <span class="link"><a href="sharing-media.html" title="Jaa musiikkia, kuvia ja videoita">median jakaminen</a></span>…</span>

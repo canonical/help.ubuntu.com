@@ -49,30 +49,20 @@
 <div class="hgroup"><h1 class="title"><span class="title">Hubungkan komputer Anda ke perangkat Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Before you can use a Bluetooth device like a mouse or a headset, you first
-  need to connect your computer to the device. This is also called
-  <span class="em">pairing</span> the Bluetooth devices.</p>
+<p class="p">Sebelum Anda dapat memakai perangkat Bluetooth seperti tetikus atau headset, pertama Anda perlu menyambung komputer Anda ke perangkat. Ini juga dikenal sebagai <span class="em">memperpasangkan</span> (pairing) perangkat Bluetooth.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span> overview and
-      start typing <span class="gui">Bluetooth</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Bluetooth</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Make sure Bluetooth is enabled: the switch at the top should be set to
-      <span class="gui">ON</span>. With the panel open and the switch <span class="gui">ON</span>, your
-      computer will begin searching for devices.</p></li>
-<li class="steps"><p class="p">Make the other Bluetooth device
-      <span class="link"><a href="bluetooth-visibility.html" title="Apa itu kenampakan Bluetooth?">discoverable or visible</a></span> and
-      place it within 5-10 meters (about 16-33 feet) of your computer.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Klik pada <span class="gui">Bluetooth</span> untuk membuka panel.</p></li>
+<li class="steps"><p class="p">Pastikan bahwa Bluetooth difungsikan: saklar di puncak mesti diatur <span class="gui">NYALA</span>. Dengan panel terbuka dan saklar <span class="gui">NYALA</span>, komputer Anda akan mulai mencari perangkat.</p></li>
+<li class="steps"><p class="p">Buatlah perangkat Bluetooth lain <span class="link"><a href="bluetooth-visibility.html" title="Apa itu kenampakan Bluetooth?">dapat ditemukan atau nampak</a></span> dan tempatkanlah dalam jarak 5-10 meter (sekitar 16-33 kaki) dari komputer Anda.</p></li>
 <li class="steps"><p class="p">Klik perangkat dalam daftar <span class="gui">Perangkat</span>. Panel bagi perangkat akan terbuka.</p></li>
 <li class="steps">
 <p class="p">Bila diperlukan, konfirmasikan PIN pada perangkat lain. Perangkat mesti menampilkan PIN yang Anda lihat pada layar komputer Anda. Konfirmasikan PIN pada perangkat (Anda mungkin perlu mengklik <span class="gui">Pasangkan</span> atau <span class="gui">Konfirmasi</span>), lalu klik <span class="gui">Konfirmasi</span> pada komputer.</p>
 <p class="p">Anda perlu menyelesaikan entri Anda dalam 20 detik pada kebanyakan perangkat, atau koneksi tak akan dilengkapi. Bila itu terjadi, kembalilah ke daftar perangkat dan mulai lagi.</p>
 </li>
-<li class="steps"><p class="p">The entry for the device in the <span class="gui">Devices</span> list will show a
-      <span class="gui">Connected</span> status.</p></li>
-<li class="steps"><p class="p">To edit the device, click on it in the <span class="gui">Device</span> list. You
-      will see a panel specific to the device. It may display additional
-      options applicable to the type of device to which you are connecting.</p></li>
-<li class="steps"><p class="p">Close the panel once you have changed the settings.</p></li>
+<li class="steps"><p class="p">Entri bagi perangkat dalam daftar <span class="gui">Perangkat</span> akan menampilkan suatu status <span class="gui">Tersambung</span>.</p></li>
+<li class="steps"><p class="p">Untuk menyunting perangkat, klik padanya dalam daftar <span class="gui">Perangkat</span>. Anda akan melihat sebuah panel yang spesifik ke perangkat. Itu mungkin menampilkan opsi tambahan yang berlaku bagi tipe perangkat yang sedang tersambung.</p></li>
+<li class="steps"><p class="p">Tutup panel setelah Anda mengubah pengaturan.</p></li>
 </ol></div></div></div>
 <div class="media media-image floatend"><div class="inner"><img src="figures/bluetooth-menu.png" class="media media-block" alt="Ikon Bluetooth pada bilah puncak"></div></div>
 <p class="p">Ketika satu atau lebih perangkat Bluetooth tersambung, ikon Bluetooth muncul dalam area status sistem.</p>
@@ -93,7 +83,7 @@
 <a href="sharing-bluetooth.html" title="Control sharing over Bluetooth">Control sharing over Bluetooth</a><span class="desc"> — Allow files to be uploaded to your computer over Bluetooth.</span>
 </li>
 <li class="links ">
-<a href="bluetooth-remove-connection.html" title="Disconnect a Bluetooth device">Disconnect a Bluetooth device</a><span class="desc"> — Menghapus suatu perangkat dari daftar perangkat Bluetooth.</span>
+<a href="bluetooth-remove-connection.html" title="Putuskan sebuah perangkat Bluetooth">Putuskan sebuah perangkat Bluetooth</a><span class="desc"> — Menghapus suatu perangkat dari daftar perangkat Bluetooth.</span>
 </li>
 </ul></div>
 </div></div>

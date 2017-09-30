@@ -2,7 +2,7 @@
 <html lang=ru>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Мой новый iPod не работает</title>
+<title>My new iPod won’t work</title>
 <link rel="stylesheet" type="text/css" href="ru.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,10 +46,10 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Звук, видео и изображения">Звук, видео и изображения</a> › <a class="trail" href="media.html#music" title="Музыка и портативные аудиоплееры">Музыка и проигрыватели</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Мой новый iPod не работает</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">My new iPod won’t work</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Если у вас новый iPod, который ещё никогда не подключался к компьютеру, он не будет правильно распознан на компьютере с Linux. Дело в том, что iPod нужно настроить и обновить с помощью программы <span class="app">iTunes</span>, которая работает только в Windows и Mac OS.</p>
+<p class="p">If you have a new iPod that has never been connected to a computer before, it won’t be recognized properly when you connect it to a Linux computer. This is because iPods need to be set up and updated using the <span class="app">iTunes</span> software, which only runs on Windows and Mac OS.</p>
 <p class="p">Чтобы настроить iPod, установите iTunes на компьютер с Windows или Mac и подключите его. Программа проведёт вас через несколько этапов настройки. Если она спросит о <span class="gui">формате тома</span>, выберите <span class="gui">MS-DOS (FAT)</span>, <span class="gui">Windows</span> или подобный. Другой формат (HFS/Mac) не так хорошо работает в Linux.</p>
 <p class="p">После завершения настройки iPod должен нормально работать при подключении к компьютеру под управлением Linux.</p>
 </div>

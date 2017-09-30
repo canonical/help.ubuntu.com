@@ -54,8 +54,19 @@
 <div class="region">
 <div class="contents">
 <p class="p">கணினியில் நுழைந்தால், ஏதேனும் சிக்கல்களை ஏற்படுத்தும் நிரல்களே வைரஸ்கள். அவை பொதுவாக மின்னஞ்சல் செய்திகள் மூலமே உங்கள் கணினியை அடைகின்றன.</p>
-<p class="p">Linux ஐ இயக்கும் கணினிகளை பாதிக்கும் வைரஸ்கள் மிக அரிதாகவே உள்ளன, எனவே நீங்கள் <span class="link"><a href="net-antivirus.html" title="வைரஸ் எதிர்ப்பு மென்பொருள் தேவையா?">மின்னஞ்சல் மூலம் அல்லது வேறு வழியில் வைரஸைப் பெறுவதற்கு வாய்ப்பு குறைவு</a></span>. வைரஸ் மறைந்துள்ள ஒரு மின்னஞ்சல் உங்களுக்கு வந்தால், அது உங்கள் கணினியில் எந்த விளைவையும் ஏற்படுத்தாது. ஆகவே நீங்கள் உங்கள் மின்னஞ்சல்களில் வைரஸ்கள் உள்ளதா என ஸ்கேன் செய்ய தேவையில்லை.</p>
-<p class="p">இருப்பினும், நீங்கள் ஒருவரிடமிருந்து மற்றொரு நபருக்கு வைரஸை அனுப்ப நேருமோ என்பதால் நீங்கள் உங்கள் மின்னஞ்சலை ஒரு வைரஸ் முன்னோக்கி நடக்கும் வழக்கில் வைரஸ்கள் உங்கள் மின்னஞ்சல் ஸ்கேன் செய்ய விரும்பலாம். உதாரணமாக, வைரஸ் பாதிக்கப்பட்ட Windows கணினியைக் கொண்டுள்ள உங்கள் நண்பர் ஒருவர் வைரஸ் பாதித்த ஒரு மின்னஞ்சலை உங்களுக்கு அனுப்பி, நீங்கள் அதை Windows கணினியைக் கொண்டுள்ள மற்றொரு நண்பருக்கு அனுப்பினால், இரண்டாவது நண்பரின் கணினி வைரஸால் பாதிக்கப்படலாம். இதைத் தடுக்க உங்கள் கணினியில்  மின்னஞ்சல் வைரஸ்களை ஸ்கேன் செய்ய ஒரு வைரஸ் எதிர்ப்பு பயன்பாட்டை நிறுவலாம், ஆனால் இது நடக்க அதிக சாத்தியம் இல்லை, ஏனெனில்  Windows மற்றும் Mac OS பயன்படுத்தும் பெரும்பாலான நபர்கள் வைரஸ் எதிர்ப்பு மென்பொருளை நிறுவியிருப்பார்கள்.</p>
+<p class="p">Viruses that can affect computers running Linux are quite rare, so you are
+  <span class="link"><a href="net-antivirus.html" title="வைரஸ் எதிர்ப்பு மென்பொருள் தேவையா?">unlikely to get a virus through email or
+  otherwise</a></span>. If you receive an email with a virus hidden in it, it will
+  probably have no effect on your computer. As such, you probably don’t need to
+  scan your email for viruses.</p>
+<p class="p">You may, however, wish to scan your email for viruses in case you happen
+  to forward a virus from one person to another. For example, if one of your
+  friends has a Windows computer with a virus and sends you a virus-infected
+  email, and you then forward that email to another friend with a Windows
+  computer, then the second friend might get the virus too. You could install
+  an anti-virus application to scan your emails to prevent this, but it’s
+  unlikely to happen and most people using Windows and Mac OS have anti-virus
+  software of their own anyway.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -81,7 +92,8 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-antivirus.html" title="வைரஸ் எதிர்ப்பு மென்பொருள் தேவையா?">வைரஸ் எதிர்ப்பு மென்பொருள் தேவையா?</a><span class="desc"> — Linux இல் வைரஸ்கள் மிகக் குறைவே, ஆகவே உங்களுக்கு வைரஸ் எதிர்ப்பு மென்பொருள் தேவையில்லை.</span>
+<a href="net-antivirus.html" title="வைரஸ் எதிர்ப்பு மென்பொருள் தேவையா?">வைரஸ் எதிர்ப்பு மென்பொருள் தேவையா?</a><span class="desc"> — There are few Linux viruses, so you probably don’t need anti-virus
+    software.</span>
 </li></ul></div>
 </div></div>
 </div>

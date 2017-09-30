@@ -93,7 +93,7 @@
 <dd class="terms"><p class="p">Affiche le type MIME de l'élément.</p></dd>
 <dt class="terms"><span class="gui">Emplacement</span></dt>
 <dd class="terms"><p class="p">Le chemin vers l'emplacement du fichier.</p></dd>
-<dt class="terms"><span class="gui">Modified – Time</span></dt>
+<dt class="terms"><span class="gui">Modified — Time</span></dt>
 <dd class="terms"><p class="p">Indique la date et l'heure de dernière modification du fichier.</p></dd>
 <dt class="terms"><span class="gui">Dernier accès</span></dt>
 <dd class="terms"><p class="p">Gives the date or time of the last time the file was modified.</p></dd>

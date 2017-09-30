@@ -50,12 +50,18 @@
 <div class="region">
 <div class="contents">
 <p class="p">Večina računalnikov se po nekaj časa segreje in nekateri lahko postanejo precej vroči. To je običajno in je del načina hlajenja računalnika. Vendar pa je zelo topel računalnik lahko znak pregrevanja, ki lahko povzroči škodo.</p>
-<p class="p">Večina prenosnikov se po uporabi segreje. Običajno vam zaradi tega ni treba skrbeti. Računalniki proizvedejo veliko toplote. Ker so prenosniki majhni, morajo svojo toploto hitro odstraniti, zato se zunanji del ohišja segreje. Nekateri prenosniki postanejo prevroči in so neudobni za uporabo. To je ponavadi posledica slabo zasnovanega sistema hlajenja. Včasih lahko dobite dodatne pripomočke hlajenja, ki se prilegajo na dno prenosnika in zagotavljajo učinkovito hlajenje.</p>
+<p class="p">Most laptops get reasonably warm once you have been using them for a while.
+It is generally nothing to worry about — computers produce a lot of heat and
+laptops are very compact, so they need to remove their heat rapidly and their
+outer casing warms up as a result. Some laptops do get too hot, however, and
+may be uncomfortable to use. This is normally the result of a poorly-designed
+cooling system. You can sometimes get additional cooling accessories which fit
+to the bottom of the laptop and provide more efficient cooling.</p>
 <p class="p">If you have a desktop computer which feels hot to the touch, it may have
 insufficient cooling. If this concerns you, you can buy extra cooling fans or
 check that the cooling fans and vents are free from dust and other blockages.
 You might want to consider putting the computer in a better-ventilated area too
-- if kept in confined spaces (for example, in a cupboard), the cooling system in the
+— if kept in confined spaces (for example, in a cupboard), the cooling system in the
 computer may not be able to remove heat and circulate cool air fast enough.</p>
 <p class="p">Nekatere ljudi skrbi zdravstveno tveganje pri uporabi vročih prenosnikov. Nekateri trdijo, da lahko dolga uporaba vročega prenosnika v vašem naročju morda zmanjša (moško) plodnost, obstajajo pa tudi poročila o rahlih opeklinah (v ekstremnih primerih). V primeru da vas to skrbi, se posvetujte s svojim zdravnikom ali pa prenosnika ne dajajte v naročje.</p>
 <p class="p">Večina novejših računalnikov se v primeru da postanejo prevroči ugasne in s tem prepreči pojav škode. V primeru da se vaš računalnik ugaša, je to lahko vzrok. V primeru da se vaš računalnik pregreva, ga boste verjetno morali popraviti.</p>

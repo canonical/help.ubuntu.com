@@ -2,7 +2,7 @@
 <html lang=zh-CN>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>校准和特征分析有何不同？</title>
+<title>What’s the difference between calibration and characterization?</title>
 <link rel="stylesheet" type="text/css" href="zh-CN.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -50,7 +50,7 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">校准和特征分析有何不同？</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">What’s the difference between calibration and characterization?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">很多人起初都不清楚校准和特征分析之间的不同。校准是修改设备颜色行为的过程。这一般使用两种机制来完成：</p>
@@ -60,7 +60,11 @@
 </ul></div></div></div>
 <p class="p">校准的概念是根据一个设备的颜色响应把它置于一个已定义状态。通常将其作为保持可重复行为的常用方式。典型的校准会以设备或系统指定的文件格式存储，用以记录设备设置情况或各个频道的校准曲线。</p>
 <p class="p">特征分析(或获取配置文件)是一个设备复原或者颜色响应的<span class="em">记录</span>过程。一般结果存储在设备 ICC 配置文件中。此类配置文件本身不能以任何方式修改颜色。它允许像 CMM (色彩管理模块)系统或颜色感知应用程序在与其他设备配置文件组合时修改颜色。只有知道两个设备的特征分析曲线，才能顺利地从一个设备传输颜色到另一个设备。</p>
-<div class="note" title="备注"><div class="inner"><div class="region"><div class="contents"><p class="p">注意一个特征分析(配置文件)仅在和特征分析时相同的使用条件下有效。</p></div></div></div></div>
+<div class="note" title="备注"><div class="inner"><div class="region"><div class="contents"><p class="p">
+      Note that a characterization (profile) will only be valid for a device
+      if it’s in the same state of calibration as it was when it was
+      characterized.
+    </p></div></div></div></div>
 <p class="p">就显示配置文件而言，由于为方便起见校准信息常常存储于配置文件中，因此会存在其它一些混淆。为了方便，它存储在名为 <span class="em">vcgt</span> 的标签内。虽然它存储在配置文件内，但正常的基于 ICC 的工具或应用程序都不能识别它，或利用它做任何事。同样地，一般显示校准工具和应用程序也不能识别或利用 ICC 特征分析(配置文件)信息做任何事。</p>
 </div>
 <div class="sect sect-links" role="navigation">

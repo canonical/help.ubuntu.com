@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Browse files on a server or network share</title>
+<title>Door bestanden op een server of netwerk bladeren</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,40 +44,34 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html" title="Sharing">Sharing</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="sharing.html" title="Delen">Delen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Browse files on a server or network share</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Door bestanden op een server of netwerk bladeren</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can connect to a server or network share to browse and
-view files on that server, exactly as if they were on your
-own computer. This is a convenient way to download or upload
-files on the internet, or to share files with other people on
-your local network.</p>
+<p class="p">U kunt verbinding maken met een server of netwerk om bestanden te zoeken en bekijken die op de server staan, alsof ze op uw eigen computer staan. Dit is een handige manier om te downloaden of uploaden van bestanden op het internet, of om bestanden te delen met andere mensen op uw lokale netwerk.</p>
 <p class="p">To browse files over the network, open the <span class="app">Files</span>
 application from the <span class="gui">Activities</span> overview, and click
 <span class="gui">Other Locations</span> in the sidebar. The file manager
 will find any computers on your local area network that advertize
 their ability to serve files. If you want to connect to a server
-on the internet, or if you do not see the computer you're looking
+on the internet, or if you do not see the computer you’re looking
 for, you can manually connect to a server by typing in its
 internet/network address.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Connect to a file server</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Met een bestandsserver verbinden</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">In the file manager, click <span class="gui">Other Locations</span> in the
-   sidebar.</p></li>
+<li class="steps"><p class="p">In de bestandsbeheerder, klik op <span class="gui">Andere locaties</span> in de zijbalk.</p></li>
 <li class="steps">
 <p class="p">In <span class="gui">Connect to Server</span>, enter the address of the server, in
   the form of a
-   <span class="link"><a href="#urls" title="Writing URLs">URL</a></span>. Details on supported URLs are
-   <span class="link"><a href="#types" title="Types of servers">listed below</a></span>.</p>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">If you have connected to the server before, you can click on it in the
-    <span class="gui">Recent Servers</span> list.</p></div></div></div></div>
+   <span class="link"><a href="#urls" title="URLs schrijven">URL</a></span>. Details on supported URLs are
+   <span class="link"><a href="#types" title="Servertypen">listed below</a></span>.</p>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Als u al eerder met deze server verbinding heeft gemaakt, dan kunt u het in de <span class="gui">Recente servers</span> lijst aanklikken.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Click <span class="gui">Connect</span>. The files on the server will be shown. You
     can browse the files just as you would for those on your own computer. The
@@ -87,86 +81,60 @@ internet/network address.</p>
 </div></div>
 </div>
 <div id="urls" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Writing URLs</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">URLs schrijven</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">A <span class="em">URL</span>, or <span class="em">uniform resource locator</span>, is a form of address
- that refers to a location or file on a network. The address is formatted like this:</p>
-<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">scheme://servername.example.com/folder</span></p></div></div></div></div>
-<p class="p">The <span class="em">scheme</span> specifies the protocol or type of server. The
-  <span class="em">example.com</span> portion of the address is called the <span class="em">domain name</span>.
-  If a username is required, it is inserted before the server name:</p>
-<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">scheme://username@servername.example.com/folder</span></p></div></div></div></div>
-<p class="p">Some schemes require the port number to be specified. Insert it after the domain name:</p>
-<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">scheme://servername.example.com:port/folder</span></p></div></div></div></div>
-<p class="p">Below are specific examples for the various server types that are supported.</p>
+<p class="p">Een <span class="em">URL</span>, wat staat voor <span class="em">uniform resource locator</span>, is een soort adres dat naar een plaats of bestand op een netwerk verwijst. Het adres wordt als volgt ingedeeld:</p>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">schema://servernaam.voorbeeld.com/map</span></p></div></div></div></div>
+<p class="p">Het <span class="em">schema</span> geef het protocol of servertype aan. Het <span class="em">voorbeeld.com</span>-gedeelte van het adres heet het <span class="em">domeinnaam</span>. Als een gebruikersnaam is vereist, dan wordt het vóór de servernaam toegevoegd:</p>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">schema://username@servernaam.voorbeeld.com/map</span></p></div></div></div></div>
+<p class="p">Sommige schema's vereisen dat u het poortnummer opgeeft. Voeg het toe aan de domeinnaam:</p>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">schema://servernaam.voorbeeld.com:poort/map</span></p></div></div></div></div>
+<p class="p">Hieronder vindt u specifieke voorbeelden voor de diverse ondersteunde servertypen.</p>
 </div></div>
 </div></div>
 <div id="types" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Types of servers</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Servertypen</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">You can connect to different types of servers. Some servers are public,
-   and allow anybody to connect. Other servers require you to log in with a
-   username and password.</p>
-<p class="p">You may not have permissions to perform certain actions on files on a server.
-  For example, on public FTP sites, you will probably not be able to delete
-  files.</p>
-<p class="p">The URL you enter depends on the protocol that the
-  server uses to export its file shares.</p>
+<p class="p">U kunt met verschillende soorten servers verbinding maken. sommige servers zijn openbaar, en staan toe dat iedereen verbinding maakt. Andere servers vereisen dat u zich met een gebruikersnaam en wachtwoord aanmeldt.</p>
+<p class="p">U zal waarschijnlijk niet de rechten hebben om bepaalde handelingen op een server uit te voeren. Bijvoorbeeld, op een openbare FTP-site zult u waarschijnlijk niet in staat zijn om bestanden te verwijderen.</p>
+<p class="p">De URL dat u invoert hangt af van het protocol dat de server gebruikt om diens bestanden te delen.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">SSH</dt>
 <dd class="terms">
-<p class="p">If you have a <span class="em">secure shell</span> account on a server, you
-  can connect using this method. Many web hosts provide SSH accounts
-  to members so they can securely upload files. SSH servers always
-  require you to log in.</p>
-<p class="p">A typical SSH URL looks like this:</p>
-<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ssh://username@servername.example.com/folder</span></p></div></div></div></div>
+<p class="p">Als u op een server een <span class="em">secure shell</span>-account heeft, dan kunt u hiermee verbinding maken. Veel webhosts bieden hun leden  SSH-accounts aan zodat ze hun bestanden veilig kunnen uploaden. SSH servers vereisen altijd dat u zich aanmeldt.</p>
+<p class="p">Een typische SSH-URL ziet er als volgt uit:</p>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ssh://gebruikersnaam@servernaam.voorbeeld.com/map</span></p></div></div></div></div>
 <p class="p">When using SSH, all the data you send (including your password)
-  is encrypted so that other users on your network can't see it.</p>
+  is encrypted so that other users on your network can’t see it.</p>
 </dd>
-<dt class="terms">FTP (with login)</dt>
+<dt class="terms">FTP (met aanmelding)</dt>
 <dd class="terms">
-<p class="p">FTP is a popular way to exchange files on the Internet.
-  Because data is not encrypted over FTP, many servers now provide
-  access through SSH. Some servers, however, still allow or require
-  you to use FTP to upload or download files. FTP sites with logins
-  will usually allow you to delete and upload files.</p>
-<p class="p">A typical FTP URL looks like this:</p>
-<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ftp://username@ftp.example.com/path/</span></p></div></div></div></div>
+<p class="p">FTP is een populaire manier om bestanden uit te wisselen op het internet. Omdat de data niet gecodeerd wordt via FTP, bieden veel servers toegang via SSH. Sommige servers staan echter alleen nog maar toe dat u FTP gebruikt voor het uploaden of downloaden van bestanden. Bij FTP-sites met logins kunt u meestal bestanden verwijderen of uploaden.</p>
+<p class="p">Een typische FTP-URL ziet er als volgt uit:</p>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ftp://gebruikersnaam@ftp.voorbeeld.com/map/</span></p></div></div></div></div>
 </dd>
-<dt class="terms">Public FTP</dt>
+<dt class="terms">Openbare FTP</dt>
 <dd class="terms">
-<p class="p">Sites that allow you to download files will sometimes provide
-  public or anonymous FTP access. These servers do not require a
-  username and password, and will usually not allow you to delete
-  or upload files.</p>
-<p class="p">A typical anonymous FTP URL looks like this:</p>
-<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ftp://ftp.example.com/path/</span></p></div></div></div></div>
-<p class="p">Some anonymous FTP sites require you to log in with a
-  public username and password, or with a public username using
-  your email address as the password. For these servers, use the
-  <span class="gui">FTP (with login)</span> method, and use the credentials
-  specified by the FTP site.</p>
+<p class="p">Sites waar u bestanden kunt downloaden bieden u soms openbare of anonieme FTP-toegang. Deze servers vereisen geen gebruikersnaam of wachtwoord, en staan u over het algemeen niet toe bestanden te wissen of te uploaden.</p>
+<p class="p">Een typische anonieme FTP-URL ziet er als volgt uit:</p>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ftp://ftp.voorbeeld.com/map/</span></p></div></div></div></div>
+<p class="p">Sommige anonieme FTP-sites vereisen dat u zich met een openbare gebruikersnaam en wachtwoord aanmeldt, of dat u zich aanmeldt met een openbare gebruikersnaam waarbij uw e-mailadres als wachtwoord wordt gebruikt. Gebruik voor deze servers de <span class="gui">FTP (met aanmelding)</span> methode, en gebruik de door de FTP-site opgegeven aanmeldgegevens.</p>
 </dd>
-<dt class="terms">Windows share</dt>
+<dt class="terms">Gedeelde Windows-map</dt>
 <dd class="terms">
-<p class="p">Windows computers use a proprietary protocol to share files over a local
-  area network. Computers on a Windows network are sometimes grouped into
-  <span class="em">domains</span> for organization and to better control access. If you have
-  the right permissions on the remote computer, you can connect to a Windows
-  share from the file manager.</p>
-<p class="p">A typical Windows share URL looks like this:</p>
-<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">smb://servername/Share</span></p></div></div></div></div>
+<p class="p">Windows-computers gebruiken een niet-vrij protocol om bestanden op een lokaal netwerk te delen. Computers op een Windows-netwerk worden soms voor de overzichtelijkheid en betere toegangscontrole in <span class="em">domeinen</span> gegroepeerd. Als u op de externe computer de juiste rechten heeft, dan kunt u met een Windows-netwerk vanuit de bestandsbeheerder verbinding maken.</p>
+<p class="p">Een typische URL voor een gedeelde Windows-map ziet er als volgt uit:</p>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">smb://servernaam/Gedeeldemap</span></p></div></div></div></div>
 </dd>
-<dt class="terms">WebDAV and Secure WebDAV</dt>
+<dt class="terms">WebDAV en Secure WebDAV</dt>
 <dd class="terms">
 <p class="p">Based on the HTTP protocol used on the web, WebDAV is sometimes used to
   share files on a local network and to store files on the internet. If the
-  server you're connecting to supports secure connections, you should choose
+  server you’re connecting to supports secure connections, you should choose
   this option. Secure WebDAV uses strong SSL encryption, so that other users
-  can't see your password.</p>
-<p class="p">A WebDAV URL looks like this:</p>
-<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">dav://example.hostname.com/path</span></p></div></div></div></div>
+  can’t see your password.</p>
+<p class="p">Een WebDAV-URL ziet er als volgt uit:</p>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">dav://voorbeeld.hostnaam.nl/pad</span></p></div></div></div></div>
 </dd>
 <dt class="terms">NFS share</dt>
 <dd class="terms">
@@ -186,21 +154,16 @@ internet/network address.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li>
 <li class="links ">
-<a href="sharing.html" title="Sharing">Sharing</a><span class="desc"> — 
-      <span class="link"><a href="sharing-desktop.html" title="Share your desktop">Desktop sharing</a></span>,
-      <span class="link"><a href="files-share.html" title="Share files by email">Share files by email</a></span>,
-      <span class="link"><a href="sharing-media.html" title="Share your music, photos and videos">Media sharing</a></span>…
-    </span>
+<a href="sharing.html" title="Delen">Delen</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Deel uw desktop">Bureaublad delen</a></span>, <span class="link"><a href="files-share.html" title="Bestanden delen per e-mail">Bestanden delen per e-mail</a></span>, <span class="link"><a href="sharing-media.html" title="Uw muziek, foto's en video's delen">Media delen</a></span>…</span>
 </li>
+<li class="links "><a href="files.html#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-share.html" title="Share files by email">Share files by email</a><span class="desc"> — Easily transfer files to your email contacts from the file
-    manager.</span>
+<a href="files-share.html" title="Bestanden delen per e-mail">Bestanden delen per e-mail</a><span class="desc"> — Bestanden eenvoudig overbrengen naar uw e-mailcontacten vanuit bestandsbeheer.</span>
 </li></ul></div>
 </div></div>
 </div>

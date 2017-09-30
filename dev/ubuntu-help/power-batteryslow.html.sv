@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Vissa bärbara datorer kör avsiktligt saktare när de kör på batteri för att spara ström. Processorn (CPU) i den bärbara datorn växlar till en långsammare hastighet och processorer använder mindre ström när de kör saktare, så batteriet bör hålla längre.</p>
-<p class="p">Denna funktionen kallas <span class="em">CPU-frekvensskalning</span>.</p>
+<p class="p">Denna funktion kallas <span class="em">CPU-frekvensskalning</span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

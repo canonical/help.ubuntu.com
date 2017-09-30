@@ -49,7 +49,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Lås automatiskt din skärm</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">När du lämnar datorn, bör du <span class="link"><a href="shell-exit.html#lock-screen" title="Lås skärmen">låsa skärmen</a></span> för att förhindra andra personer från att använda ditt skrivbord och komma åt dina filer. Om du ibland glömmer att låsa skärmen, kan det vara bra att låta din dators skärm låsas automatiskt efter en inställd tidperiod. Detta kommer att hjälpa att säkra din dator när du inte använder den.</p>
+<p class="p">När du lämnar datorn, bör du <span class="link"><a href="shell-exit.html#lock-screen" title="Lås skärmen">låsa skärmen</a></span> för att förhindra andra personer från att använda ditt skrivbord och komma åt dina filer. Om du ibland glömmer att låsa skärmen, kan det vara bra att låta din dators skärm låsas automatiskt efter en inställd tidsperiod. Detta kommer att hjälpa att säkra din dator när du inte använder den.</p>
 <div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">När din skärm är låst kommer dina program och systemprocesser att fortsätta köra, men du måste mata in ditt lösenord för att börja använda dem igen.</p></div></div></div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">För att ställa in tidsintervallet innan din skärm låses automatiskt:</span></h2></div>

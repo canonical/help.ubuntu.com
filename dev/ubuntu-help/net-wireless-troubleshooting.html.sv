@@ -68,7 +68,7 @@
 <div class="title title-note"><h2><span class="title">Via kommandoraden</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Några av instruktionerna i denna guide ber dig skriva kommandon på <span class="em">kommandoraden</span>. Du kan hitta <span class="app">Terminal</span>-programmet i översiktsvyn <span class="gui">Aktiviteter</span>.</p>
-<p class="p">Om du inte är bekant med en kommandorad, oroa inte dig - denna guide kommer att hjälpa dig genom varje steg. Allt du behöver komma ihåg är att kommandon är skiftlägeskänsliga (så du måste skriva in dem <span class="em">exakt</span> som de visas här), och att trycka på <span class="key"><kbd>Retur</kbd></span> efter att varje kommando skrivits in för att köra det.</p>
+<p class="p">Om du inte är bekant med en kommandorad, oroa inte dig — denna guide kommer att hjälpa dig genom varje steg. Allt du behöver komma ihåg är att kommandon är skiftlägeskänsliga (så du måste skriva in dem <span class="em">exakt</span> som de visas här), och att trycka på <span class="key"><kbd>Retur</kbd></span> efter att varje kommando skrivits in för att köra det.</p>
 </div></div>
 </div></div>
 </div>
@@ -88,7 +88,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-connect.html" title="Anslut till ett trådlöst nätverk">Anslut till ett trådlöst nätverk</a><span class="desc"> — Nå internet - trådlöst.</span>
+<a href="net-wireless-connect.html" title="Anslut till ett trådlöst nätverk">Anslut till ett trådlöst nätverk</a><span class="desc"> — Nå internet — trådlöst.</span>
 </li></ul></div>
 </div></div>
 </div>

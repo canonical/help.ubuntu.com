@@ -50,12 +50,12 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-connect.html" title="Σύνδεση σε ασύρματο δίκτυο"><span class="title">Σύνδεση σε ασύρματο δίκτυο</span><span class="linkdiv-dash"> — </span><span class="desc">Συνδεθείτε στο διαδίκτυο - ασύρματα.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-noconnection.html" title="Έχω εισάγει τον σωστό κωδικό πρόσβασης, αλλά δεν μπορώ να συνδεθώ"><span class="title">Έχω εισάγει τον σωστό κωδικό πρόσβασης, αλλά δεν μπορώ να συνδεθώ</span><span class="linkdiv-dash"> — </span><span class="desc">Διπλοελέγξτε τον κωδικό πρόσβασης και άλλα πράγματα για να τα δοκιμάσετε.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-connect.html" title="Σύνδεση σε ασύρματο δίκτυο"><span class="title">Σύνδεση σε ασύρματο δίκτυο</span><span class="linkdiv-dash"> — </span><span class="desc">Get on the internet — wirelessly.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html" title="I can’t see my wireless network in the list"><span class="title">I can’t see my wireless network in the list</span><span class="linkdiv-dash"> — </span><span class="desc">Το ασύρματο μπορεί να είναι απενεργοποημένο ή χαλασμένο, ή προσπαθείτε να συνδεθείτε σε ένα κρυφό δίκτυο.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-noconnection.html" title="I’ve entered the correct password, but I still can’t connect"><span class="title">I’ve entered the correct password, but I still can’t connect</span><span class="linkdiv-dash"> — </span><span class="desc">Διπλοελέγξτε τον κωδικό πρόσβασης και άλλα πράγματα για να τα δοκιμάσετε.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-troubleshooting.html" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου"><span class="title">Ανιχνευτής προβλημάτων ασύρματου δικτύου</span><span class="linkdiv-dash"> — </span><span class="desc">Ταυτοποιήστε και διορθώστε προβλήματα με ασύρματες συνδέσεις</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-airplane.html" title="Απενεργοποιήστε το ασύρματο δίκτυο (λειτουργία αεροπλάνου)"><span class="title">Απενεργοποιήστε το ασύρματο δίκτυο (λειτουργία αεροπλάνου)</span><span class="linkdiv-dash"> — </span><span class="desc">Ανοίξτε τις ρυθμίσεις δικτύου και αλλάξτε την λειτουργία αεροπλάνου σε ΕΝΕΡΓΗ.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-disconnecting.html" title="Γιατί το ασύρματο δίκτυό μου εξακολουθεί να είναι αποσυνδεμένο;"><span class="title">Γιατί το ασύρματο δίκτυό μου εξακολουθεί να είναι αποσυνδεμένο;</span><span class="linkdiv-dash"> — </span><span class="desc">Μπορεί να έχετε χαμηλό σήμα, ή το δίκτυο μπορεί να μην σας επιτρέπει να συνδεθείτε κατάλληλα.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html" title="Δεν μπορώ να δω το ασύρματο δίκτυό μου στη λίστα"><span class="title">Δεν μπορώ να δω το ασύρματο δίκτυό μου στη λίστα</span><span class="linkdiv-dash"> — </span><span class="desc">Το ασύρματο μπορεί να είναι απενεργοποημένο ή χαλασμένο, ή προσπαθείτε να συνδεθείτε σε ένα κρυφό δίκτυο.</span></a></div>
 </div>
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-adhoc.html" title="Δημιουργία ασύρματου σημείου πρόσβασης"><span class="title">Δημιουργία ασύρματου σημείου πρόσβασης</span><span class="linkdiv-dash"> — </span><span class="desc">Χρησιμοποιήστε ένα δίκτυο ad-hoc που θα επιτρέψει σε άλλες συσκευές να συνδεθούν στον υπολογιστή σας και στις συνδέσεις δικτύου του.</span></a></div>
@@ -63,7 +63,8 @@
 <div class="linkdiv "><a class="linkdiv" href="net-vpn-connect.html" title="Σύνδεση σε VPN"><span class="title">Σύνδεση σε VPN</span><span class="linkdiv-dash"> — </span><span class="desc">Ρυθμίστε μια σύνδεση VPN σε ένα τοπικό δίκτυο μέσα από το διαδίκτυο.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-hidden.html" title="Σύνδεση σε κρυφό ασύρματο δίκτυο"><span class="title">Σύνδεση σε κρυφό ασύρματο δίκτυο</span><span class="linkdiv-dash"> — </span><span class="desc">Συνδεθείτε με ένα ασύρματο δίκτυο που δεν εμφανίζεται στον κατάλογο δικτύου.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-wepwpa.html" title="Τι σημαίνουν τα WEP και WPA;"><span class="title">Τι σημαίνουν τα WEP και WPA;</span><span class="linkdiv-dash"> — </span><span class="desc">Τα WEP και WPA είναι τρόποι κρυπτογράφησης δεδομένων σε ασύρματα δίκτυα.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-manual.html" title="Χειροκίνητος ορισμός ρυθμίσεων δικτύου"><span class="title">Χειροκίνητος ορισμός ρυθμίσεων δικτύου</span><span class="linkdiv-dash"> — </span><span class="desc">Μπορεί να πρέπει να εισάγετε τις ρυθμίσεις δικτύου, αν δεν εκχωρούνται αυτόματα.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-manual.html" title="Χειροκίνητος ορισμός ρυθμίσεων δικτύου"><span class="title">Χειροκίνητος ορισμός ρυθμίσεων δικτύου</span><span class="linkdiv-dash"> — </span><span class="desc">You may have to enter network settings if they don’t get assigned
+    automatically.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -82,7 +83,7 @@
 <a href="net-general.html" title="Όροι δικτύωσης &amp; συμβουλές">Όροι δικτύωσης &amp; συμβουλές</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="Βρείτε τη διεύθυνση IP σας">Βρείτε τη διεύθυνσή σας IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Τι σημαίνουν τα WEP και WPA;">WEP &amp; ασφάλεια WPA</a></span>, <span class="link"><a href="net-macaddress.html" title="Τι είναι μια διεύθυνση MAC;">Διευθύνσεις MAC</a></span>, <span class="link"><a href="net-proxy.html" title="Ορισμός ρυθμίσεων διαμεσολαβητή">Διαμεσολαβητές</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-problem.html" title="Προβλήματα δικτύου">Προβλήματα δικτύου</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Αντιμετώπιση προβλημάτων ασύρματων συνδέσεων</a></span>, <span class="link"><a href="net-wireless-find.html" title="Δεν μπορώ να δω το ασύρματο δίκτυό μου στη λίστα">Εύρεση του δικτύου wifi</a></span>…</span>
+<a href="net-problem.html" title="Προβλήματα δικτύου">Προβλήματα δικτύου</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Αντιμετώπιση προβλημάτων ασύρματων συνδέσεων</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">Εύρεση του δικτύου wifi</a></span>…</span>
 </li>
 </ul></div>
 </div></div>

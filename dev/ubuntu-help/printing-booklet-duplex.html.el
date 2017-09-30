@@ -56,7 +56,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ανοίξτε τον διάλογο εκτύπωσης. Αυτό μπορεί κανονικά να γίνει μέσα από την <span class="gui">Εκτύπωση</span> στο μενού ή χρησιμοποιώντας τη συντόμευση πληκτρολογίου <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
 <li class="steps">
-<p class="p">Κάντε κλικ στο κουμπί <span class="gui">Προτιμήσεις...</span></p>
+<p class="p">Click the <span class="gui">Properties…</span> button </p>
 <p class="p">Στην πτυσσόμενη λίστα <span class="gui">Προσανατολισμός</span>, σιγουρευτείτε πως είναι επιλεγμένο το <span class="gui">Οριζόντια</span>.</p>
 <p class="p">Στην πτυσσόμενη λίστα <span class="gui">Διπλό</span>, επιλέξτε <span class="gui">Βραχύ άκρο</span>.</p>
 <p class="p">Κάντε κλικ στο <span class="gui">Εντάξει</span> για να μεταβείτε πίσω στον διάλογο εκτύπωσης.</p>

@@ -54,7 +54,8 @@
 <li class="steps"><p class="p">Выберите контакт из списка в левой панели.</p></li>
 <li class="steps"><p class="p">Press on the <span class="em">detail</span> that you want to use. For example, to
       email your contact, press the email address.</p></li>
-<li class="steps"><p class="p">Будет запущено соответствующее приложение с данными контакта.</p></li>
+<li class="steps"><p class="p">The corresponding application will be launched using the contact’s
+      details.</p></li>
 </ol></div></div></div>
 <div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents"><p class="p">If there is no available application for the detail that you wish to
     use, you will not be able to select it.</p></div></div></div></div>

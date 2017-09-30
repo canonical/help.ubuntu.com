@@ -55,9 +55,12 @@
       start typing <span class="gui">Region &amp; Language</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Pays &amp; langue</span> pour ouvrir le panneau.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Formats</span>.</p></li>
-<li class="steps"><p class="p">Sélectionnez la région et la langue qui correspondent le mieux aux formats que vous voulez utiliser. S'ils n'apparaissent pas dans la liste, cliquez sur <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="..."></span></span></span> en bas de la liste pour choisir parmi toutes les régions et langues disponibles.</p></li>
+<li class="steps"><p class="p">Sélectionnez la région et la langue qui correspondent le mieux aux formats que vous voulez utiliser. S'ils n'apparaissent pas dans la liste, cliquez sur <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="…"></span></span></span> en bas de la liste pour choisir parmi toutes les régions et langues disponibles.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Terminer</span> pour enregistrer.</p></li>
-<li class="steps"><p class="p">Répondez à l'invite <span class="gui">Vous devez redémarrer la session pour que les changements soient effectifs</span> en cliquant sur <span class="gui">Redémarrer maintenant</span>, ou cliquez sur <span class="gui">X</span> pour redémarrer plus tard.</p></li>
+<li class="steps"><p class="p">Respond to the prompt, <span class="gui">Your session needs to be restarted for
+      changes to take effect</span> by clicking
+      <span class="gui">Restart Now</span>, or click
+      <span class="gui">×</span> to restart later.</p></li>
 </ol></div></div></div>
 <p class="p">Après avoir sélectionné une région, la zone située à droite de la liste affiche plusieurs exemples de présentation des dates et des autres valeurs. Bien que cela n'apparaisse pas dans les exemples, le premier jour de la semaine dans les agendas est défini en fonction de la région.</p>
 </div>
@@ -67,7 +70,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html" title="Pays &amp; langue.">Pays &amp; langue.</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Modification de la langue">Langue</a></span>, <span class="link"><a href="session-formats.html" title="Modification des formats de la date et du système de mesure">région et formats</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">agencement du clavier</a></span>…</span>
+<a href="prefs-language.html" title="Pays &amp; langue.">Pays &amp; langue.</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Modification de la langue">Langue</a></span>, <span class="link"><a href="session-formats.html" title="Modification des formats de la date et du système de mesure">région et formats</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Utiliser des configurations de clavier alternatives">agencement du clavier</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

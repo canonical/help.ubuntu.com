@@ -50,7 +50,7 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-default-browser.html" title="Cambiar qué navegador abre de manera predeterminada los sitios web"><span class="title">Cambiar qué navegador abre de manera predeterminada los sitios web</span><span class="linkdiv-dash"> — </span><span class="desc">Cambie el navegador web predeterminado yendo a <span class="gui">Detalles</span> en la <span class="gui">Configuración</span>.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-install-flash.html" title="Instalar el complemento Flash"><span class="title">Instalar el complemento Flash</span><span class="linkdiv-dash"> — </span><span class="desc">You may need to install Flash to be able to view some websites, which display videos and interactive web pages.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-install-flash.html" title="Instalar el complemento Flash"><span class="title">Instalar el complemento Flash</span><span class="linkdiv-dash"> — </span><span class="desc">Es posible que necesite instalar Flash para poder ver algunos sitios web, que muestran vídeos y páginas web interactivas.</span></a></div></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

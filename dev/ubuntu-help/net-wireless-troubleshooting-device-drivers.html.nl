@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Wireless network troubleshooter</title>
+<title>Probleemoplosser draadloos netwerk</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,81 +44,50 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="Wireless Networking">Wireless Networking</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Wireless network troubleshooter">Wireless network troubleshooter</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html" title="Draadloos netwerk">Draadloos netwerk</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Common problems">Problems</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Wireless network troubleshooter">Wireless network troubleshooter</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="links nextlinks"><a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-check.html" title="Wireless connection troubleshooter">Vorige</a></div>
+<div class="links nextlinks"><a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-check.html" title="Problemen met een draadloos verbinding oplossen">Vorige</a></div>
 <div class="hgroup">
-<h1 class="title"><span class="title">Wireless network troubleshooter</span></h1>
-<h2 class="subtitle"><span class="subtitle">Make sure that working device drivers are installed</span></h2>
+<h1 class="title"><span class="title">Probleemoplosser draadloos netwerk</span></h1>
+<h2 class="subtitle"><span class="subtitle">Ervoor zorgen dat er goed werkende stuurprogramma's zijn geïnstalleerd</span></h2>
 </div>
 <div class="region">
 <div class="contents">
-<p class="p">In this step you can check to see if you can get working device drivers
-  for your wireless adapter. A <span class="em">device driver</span> is a piece of software
-  which tells the computer how to make a hardware device work properly. Even
-  though the wireless adapter has been recognized by the computer, it may not
-  have drivers which work very well. You may be able to find different drivers
-  for the wireless adapter which do work. Try some of the options below:</p>
+<p class="p">In deze stap kunt u nagaan of u goed werkende stuurprogramma's voor uw draadloze adapter kunt vinden. Een <span class="em">stuurprogramma</span> is een stukje software dat de computer vertelt hoe een hardware-apparaat naar behoren moet werken. Ook al is de draadloos adapter door de computer herkend, het kan zijn dat deze geen goed werkende stuurprogramma's heeft. Mogelijk kunt u andere stuurprogramma's vinden voor de draadloos adapter die wel werken. Probeer enkele van de onderstaande opties:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
-<p class="p">Check to see if your wireless adapter is on a list of supported
-      devices.</p>
-<p class="p">Most Linux distributions keep a list of wireless devices that they
-      have support for. Sometimes, these lists provide extra information on how
-      to get the drivers for certain adapters working properly. Go to the list
-      for your distribution (for example,
-      <span class="link"><a href="https://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported" title="https://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported">Ubuntu</a></span>,
-      <span class="link"><a href="https://wiki.archlinux.org/index.php/Wireless_network_configuration" title="https://wiki.archlinux.org/index.php/Wireless_network_configuration">Arch</a></span>,
-      <span class="link"><a href="http://linuxwireless.org/en/users/Drivers" title="http://linuxwireless.org/en/users/Drivers">Fedora</a></span> or
-      <span class="link"><a href="http://en.opensuse.org/HCL:Network_(Wireless)" title="http://en.opensuse.org/HCL:Network_(Wireless)">openSUSE</a></span>)
-      and see if your make and model of wireless adapter is listed. You may be
-      able to use some of the information there to get your wireless drivers
-      working.</p>
+<p class="p">Nagaan of uw draadloos netwerk-adapter in een lijst met ondersteunde apparaten staat.</p>
+<p class="p">De meeste GNU/Linux-distributies houden een lijst bij van draadloos-apparaten waarvoor ze ondersteuning hebben. Soms bevatten deze lijsten extra informatie over hoe men aan goed werkende stuurprogramma's voor bepaalde adapters komt. Ga naar de lijst van uw distributie (bijvoorbeeld <span class="link"><a href="https://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported" title="https://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported">Ubuntu</a></span>, <span class="link"><a href="https://wiki.archlinux.org/index.php/Wireless_network_configuration" title="https://wiki.archlinux.org/index.php/Wireless_network_configuration">Arch</a></span>, <span class="link"><a href="http://linuxwireless.org/en/users/Drivers" title="http://linuxwireless.org/en/users/Drivers">Fedora</a></span> of <span class="link"><a href="http://en.opensuse.org/HCL:Network_(Wireless)" title="http://en.opensuse.org/HCL:Network_(Wireless)">openSUSE</a></span>) en kijk of het merk en model van uw draadloos netwerk-adapter in de lijst voorkomt. Mogelijke kunt u de informatie die u daar vindt gebruiken om uw draadloos netwerk-adapter goed werkend te krijgen.</p>
 </li>
 <li class="list">
-<p class="p">Look for restricted (binary) drivers.</p>
+<p class="p">Zoek naar beperkte (binaire) stuurprogramma's.</p>
 <p class="p">Many Linux distributions only come with device drivers which are
       <span class="em">free</span> and <span class="em">open source</span>. This is because they cannot
       distribute drivers which are proprietary, or closed-source. If the
       correct driver for your wireless adapter is only available in a non-free,
-      or "binary-only" version, it may not be installed by default. If this is
-      the case, look on the wireless adapter manufacturer's website to see if
+      or “binary-only” version, it may not be installed by default. If this is
+      the case, look on the wireless adapter manufacturer’s website to see if
       they have any Linux drivers.</p>
-<p class="p">Some Linux distributions have a tool that can download restricted
-      drivers for you. If your distribution has one of these, use it to see if
-      it can find any wireless drivers for you.</p>
+<p class="p">Sommige GNU/Linux-distributies hebben een hulpmiddel waarmee u beperkte stuurprogramma's kunt downloaden. Als uw distributie die heeft, gebruik die dan om er achter te komen of het draadloze stuurprogramma's voor u kunt vinden.</p>
 </li>
 <li class="list">
-<p class="p">Use the Windows drivers for your adapter.</p>
-<p class="p">In general, you cannot use a device driver designed for one operating
-      system (like Windows) on another operating system (like Linux). This is
-      because they have different ways of handling devices. For wireless
-      adapters, however, you can install a compatibility layer called
-      <span class="em">NDISwrapper</span> which lets you use some Windows wireless drivers on
-      Linux. This is useful because wireless adapters almost always have
-      Windows drivers available for them, whereas Linux drivers are sometimes
-      not available. You can learn more about how to use NDISwrapper
-      <span class="link"><a href="http://sourceforge.net/apps/mediawiki/ndiswrapper/index.php?title=Main_Page" title="http://sourceforge.net/apps/mediawiki/ndiswrapper/index.php?title=Main_Page">here</a></span>.
-      Note that not all wireless drivers can be used through NDISwrapper.</p>
+<p class="p">De Windows-stuurprogramma's gebruiken voor uw adapter.</p>
+<p class="p">Over het algemeen kunt u niet een stuurprogramma dat ontworpen is voor het ene besturingssysteem (zoals Windows) in een ander besturingssysteem (zoals GNU/Linux) gebruiken. Dit komt doordat ze op een verschillende manier omgaan met apparaten. Maar voor draadloos netwerk-adapters kunt u een compatibiliteitslaag installeren genaamd <span class="em">NDISwrapper</span>, waarmee u bepaalde stuurprogramma's voor draadloos netwerk-adapters van Windows in GNU/Linux kunt gebruiken. Dit is nuttig omdat draadloos netwerk-adapters bijna altijd over Windows stuurprogramma's beschikken, terwijl er soms geen Linux-stuurprogramma's beschikbaar zijn. U kunt <span class="link"><a href="http://sourceforge.net/apps/mediawiki/ndiswrapper/index.php?title=Main_Page" title="http://sourceforge.net/apps/mediawiki/ndiswrapper/index.php?title=Main_Page">hier</a></span> meer te weten komen over hoe u NDISwrapper moet gebruiken. Bedenk wel dat niet alle draadlooze stuurprogramma's gebruikt kunnen worden via NDISwrapper.</p>
 </li>
 </ul></div></div></div>
-<p class="p">If none of these options work, you may want to try a different wireless
-  adapter to see if you can get that working. USB wireless adapters are often
-  quite cheap, and will plug into any computer. You should check that the
-  adapter is compatible with your Linux distribution before buying it,
-  though.</p>
+<p class="p">Als geen van deze opties werken kunt u een andere draadloos-netwerk-adapter gebruiken om er achter te komen of die werkt. USB-draadloze-adapters zijn vaak redelijk goedkoop, en kunnen in alle computers gestoken worden. U zou echter eerst moeten controleren of de adapter compatibel is met uw GNU/Linux-distributie.</p>
 </div>
-<div class="links nextlinks"><a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-check.html" title="Wireless connection troubleshooter">Vorige</a></div>
+<div class="links nextlinks"><a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-check.html" title="Problemen met een draadloos verbinding oplossen">Vorige</a></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Wireless network troubleshooter">Wireless network troubleshooter</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
 </li></ul></div>
 </div></div></div>
 </div>

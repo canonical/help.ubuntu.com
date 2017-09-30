@@ -57,7 +57,8 @@
 </ol></div></div></div>
 <p class="p">Vous pouvez aussi changer rapidement la taille du texte en cliquant sur l'<span class="link"><a href="a11y-icon.html" title="Recherche du menu « Accès universel »">icône d'accessibilité</a></span> dans la barre supérieure et en sélectionnant <span class="gui">Grand texte</span>.</p>
 <div class="note note-tip" title="Astuce"><div class="inner"><div class="region"><div class="contents"><p class="p">Dans de nombreuses applications, vous pouvez augmenter la taille du texte à n'importe quel moment en appuyant sur <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>+</kbd></span></span>. Pour réduire la taille du texte, appuyez sur <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>-</kbd></span></span>.</p></div></div></div></div>
-<p class="p"><span class="gui">Grand texte</span> agrandit le texte de 1,2 fois. Vous pouvez aussi utiliser l'application <span class="app">Tweak Tool</span> pour changer la taille du texte.</p>
+<p class="p"><span class="gui">Large Text</span> will scale the text by 1.2 times. You can use
+  <span class="app">Tweaks</span> to make text size bigger or smaller.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

@@ -2,7 +2,7 @@
 <html lang=fi>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Check the battery status</title>
+<title>Tarkista akun tila</title>
 <link rel="stylesheet" type="text/css" href="fi.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -50,7 +50,7 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Check the battery status</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Tarkista akun tila</span></h1></div>
 <div class="region">
 <div class="contents">
 <div class="steps"><div class="inner">
@@ -75,11 +75,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Virransäästö ja akku">Virransäästö ja akku</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="Mitä tapahtuu, kun asetan tietokoneeni valmius- tai lepotilaan?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="Miksi näyttö himmenee itsestään?">screen dimming</a></span>…
-    </span>
+<a href="power.html" title="Virransäästö ja akku">Virransäästö ja akku</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Tarkista akun tila">Akun tila</a></span>, <span class="link"><a href="power-suspend.html" title="Mitä tapahtuu, kun asetan tietokoneeni valmius- tai lepotilaan?">valmiustila</a></span>, <span class="link"><a href="power-whydim.html" title="Miksi näyttö himmenee itsestään?">näytön himmentäminen</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

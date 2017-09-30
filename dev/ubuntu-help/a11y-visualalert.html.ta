@@ -50,7 +50,9 @@
 <div class="region">
 <div class="contents">
 <p class="p">சில வகை செய்திகள் மற்றும் நிகழ்வுகளுக்கு உங்கள் கணினி ஒரு எளிய விழிப்பூட்டலை இயக்கும். இந்த ஒலிகளைக் கேட்க உங்களுக்கு கடினமாக இருந்தால், விழிப்பூட்டல் ஒலி இயக்கப்படும் போது உங்கள் முழு திரை அல்லது உங்கள் நடப்பு சாளரம் காட்சிரீதியாக பளிச் ஒளி எழுப்பும் படி நீங்கள் அமைத்துக்கொள்ள முடியும்.</p>
-<p class="p">நூலகம் போன்ற அமைதியாக இருக்க வேண்டிய இடங்களில் கணினி ஒலியெழுப்பாமல் இருக்க வேண்டும் என்ற சூழ்நிலைகளிலும் இது பயனுள்ளதாக இருக்கும். விழிப்பூட்டல் ஒலியை முடக்கி, காட்சி விழிப்பூட்டல்களை எப்படி இயக்குவது என அறிய <span class="link"><a href="sound-alert.html" title="விழிப்பூட்டல் ஒலியை தேர்வு செய்தல் அல்லது முடக்குதல்">விழிப்பூட்டல் ஒலியை தேர்வு செய்தல் அல்லது முடக்குதல்</a></span> ஐப் பார்க்கவும்.</p>
+<p class="p">This can also be useful if you’re in an environment where you need your
+  computer to be silent, such as in a library. See <span class="link"><a href="sound-alert.html" title="விழிப்பூட்டல் ஒலியை தேர்வு செய்தல் அல்லது முடக்குதல்">விழிப்பூட்டல் ஒலியை தேர்வு செய்தல் அல்லது முடக்குதல்</a></span>
+  to learn how to mute the alert sound, then enable visual alerts.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p></li>

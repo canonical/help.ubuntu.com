@@ -59,7 +59,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Universal Access</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Napsauta <span class="gui">Esteettömyys</span> avataksesi paneelin.</p></li>
 <li class="steps"><p class="p">Press <span class="gui">Typing Assist (AccessX)</span> in the <span class="gui">Typing</span>
       section.</p></li>
 <li class="steps"><p class="p">Switch <span class="gui">Slow Keys</span> to <span class="gui">ON</span>.</p></li>
@@ -80,7 +80,9 @@
 </div></div>
 </div></div>
 <p class="p">Käytä <span class="gui">Viiveen kesto</span> -liukusäädintä hallitaksesi aikaa, miten kauan näppäintä täytyy painaa sen rekisteröitymiseksi.</p>
-<p class="p">Voit asettaa tietokoneen toistamaan äänen, kun painat näppäintä, kun painallus on hyväksytty tai kun painallus on hylätty, koska et pitänyt näppäintä pohjassa tarpeeksi kauan.</p>
+<p class="p">You can have your computer make a sound when you press a key, when a key
+  press is accepted, or when a key press is rejected because you didn’t hold
+  the key down long enough.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

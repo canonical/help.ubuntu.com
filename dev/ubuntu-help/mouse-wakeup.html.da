@@ -53,7 +53,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Mouse reacts with delay before it starts working</span></h1></div>
 <div class="region">
 <div class="contents"><p class="p">Wireless and optical mice, as well as touchpads on laptops, may need to
-  "wake up" before they start working. They automatically go to sleep when not in
+  “wake up” before they start working. They automatically go to sleep when not in
   use to save battery power. To wake up your mouse or touchpad, you can click on
   a mouse button or wiggle the mouse.</p></div>
 <div class="sect sect-links" role="navigation">

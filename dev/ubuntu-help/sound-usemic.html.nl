@@ -43,17 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="media.html#sound" title="Basic sound">Sound</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="media.html#sound" title="Basisgeluid">Geluid</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Een andere microfoon gebruiken</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can use an external microphone for chatting with friends, speaking
-  with colleagues at work, making voice recordings, or using other multimedia
-  applications. Even if your computer has a built-in microphone or a webcam
-  with a microphone, a separate microphone usually provides better audio
-  quality.</p>
+<p class="p">U kunt een externe microfoon gebruiken om met vrienden of collega's op het werk te praten, stemopnames te maken, of bij het gebruik van andere multimediatoepassingen. Zelfs als uw computer een ingebouwde microfoon of een webcam met een microfoon heeft, dan levert een aparte microfoon meestal toch een betere geluidskwaliteit op.</p>
 <p class="p">If your microphone has a circular plug, just plug it into the appropriate
   audio socket on your computer. Most computers have two sockets: one for
   microphones and one for speakers. This socket is usually light red in color
@@ -64,11 +60,10 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Standaard geluidsinvoerapparaat selecteren</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activities</a></span> overview and
       start typing <span class="gui">Sound</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Sound</span> to open the panel.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">Input</span> tab, select the device that you want to use.
-      The input level indicator should respond when you speak.</p></li>
+<li class="steps"><p class="p">Selecteer in het tabblad <span class="gui">Invoer</span> het apparaat dat u wilt gebruiken. Als het goed is reageert de invoerniveau-indicator wanneer u spreekt.</p></li>
 </ol></div>
 </div></div>
 <p class="p">You can adjust the volume and switch the microphone off from this
@@ -80,11 +75,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="media.html#sound" title="Basic sound">Basic sound</a><span class="desc"> — 
-     <span class="link"><a href="sound-volume.html" title="Het geluidsvolume wijzigen">Volume</a></span>,
-     <span class="link"><a href="sound-usespeakers.html" title="Andere luidsprekers of hoofdtelefoons gebruiken">speakers and headphones</a></span>,
-     <span class="link"><a href="sound-usemic.html" title="Een andere microfoon gebruiken">microphones</a></span>…
-   </span>
+<a href="media.html#sound" title="Basisgeluid">Basisgeluid</a><span class="desc"> — <span class="link"><a href="sound-volume.html" title="Het geluidsvolume wijzigen">Volume</a></span>, <span class="link"><a href="sound-usespeakers.html" title="Andere luidsprekers of hoofdtelefoons gebruiken">Luidsprekers en hoofdtelefoons</a></span>, <span class="link"><a href="sound-usemic.html" title="Een andere microfoon gebruiken">microfoons</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

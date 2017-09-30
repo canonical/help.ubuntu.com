@@ -50,13 +50,14 @@
 <div class="region">
 <div class="contents">
 <p class="p">Если вы пользовались раньше Windows или Mac OS, то, вероятно, привыкли постоянно использовать антивирусную программу. Антивирусные программы работают в фоновом режиме, непрерывно проверяя компьютер на наличие вирусов, которые могут проникнуть на компьютер и вызвать проблемы.</p>
-<p class="p">Anti-virus software does exist for Linux, but you probably don't need to
+<p class="p">Anti-virus software does exist for Linux, but you probably don’t need to
   use it. Viruses that affect Linux are still very rare. Some argue that this
   is because Linux is not as widely used as other operating systems, so no one
   writes viruses for it. Others argue that Linux is intrinsically more secure,
   and security problems that viruses could make use of are fixed very
   quickly.</p>
-<p class="p">Как бы то ни было, вирусы для Linux пока настолько редки, что в настоящее время беспокоиться из-за них не стоит.</p>
+<p class="p">Whatever the reason, Linux viruses are so rare that you don’t really need
+  to worry about them at the moment.</p>
 <p class="p">Можно всё же установить антивирусную программу, чтобы обеспечить дополнительную безопасность или проверять на вирусы файлы, которыми вы обмениваетесь с пользователями Windows и Mac OS. Доступно несколько антивирусных программ, их можно найти в установщике программ или в Интернете.</p>
 </div>
 <div class="sect sect-links" role="navigation">

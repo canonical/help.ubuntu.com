@@ -50,13 +50,14 @@
 <div class="region">
 <div class="contents">
 <p class="p">Jos olet aiemmin käyttänyt esimerkiksi Windowsia tai Mac OS:ää, olet varmastikin tottunut jatkuvasti taustalla toimivaan virustorjuntaohjelmaan. Virustorjuntaohjelmien tehtävänä on tutkia jatkuvasti koneen toimia ja estää haittojen syntyminen.</p>
-<p class="p">Anti-virus software does exist for Linux, but you probably don't need to
+<p class="p">Anti-virus software does exist for Linux, but you probably don’t need to
   use it. Viruses that affect Linux are still very rare. Some argue that this
   is because Linux is not as widely used as other operating systems, so no one
   writes viruses for it. Others argue that Linux is intrinsically more secure,
   and security problems that viruses could make use of are fixed very
   quickly.</p>
-<p class="p">Oli syy mikä tahansa, ovat Linux-virukset niin harvinaisia, että sinun ei tarvitse huolehtia niistä tällä hetkellä.</p>
+<p class="p">Whatever the reason, Linux viruses are so rare that you don’t really need
+  to worry about them at the moment.</p>
 <p class="p">Jos kuitenkin olet erityisen varovainen virusten suhteen tai haluat tarkistaa tiedostosi virusten varalta, joita käytät Linuxin lisäksi Windowsissa tai Macissa, voit asentaa virustentorjuntaohjelmiston. Tarkista niiden saatavuus sovelluksien asennusohjelmalla tai etsi verkosta; useita sovelluksia on saatavilla.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -65,11 +66,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-security.html" title="Tietoturva">Tietoturva</a><span class="desc"> — 
-      <span class="link"><a href="net-antivirus.html" title="Tarvitsenko virustentorjuntaohjelman?">Antivirus software</a></span>,
-      <span class="link"><a href="net-firewall-on-off.html" title="Salli ja estä ohjelmien yhteydet palomuurin läpi">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html" title="Yleisesti käytetyt verkkoportit">firewall ports</a></span>…
-    </span>
+<a href="net-security.html" title="Tietoturva">Tietoturva</a><span class="desc"> — <span class="link"><a href="net-antivirus.html" title="Tarvitsenko virustentorjuntaohjelman?">Virustorjuntaohjelmisto</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Salli ja estä ohjelmien yhteydet palomuurin läpi">palomuurit</a></span>, <span class="link"><a href="net-firewall-ports.html" title="Yleisesti käytetyt verkkoportit">palomuurien portit</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

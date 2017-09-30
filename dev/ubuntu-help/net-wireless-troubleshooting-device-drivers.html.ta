@@ -75,7 +75,13 @@
 </li>
 <li class="list">
 <p class="p">கட்டுப்படுத்தப்பட்ட (பைனரி) இயக்கிகள் உள்ளதா என தேடவும்.</p>
-<p class="p">பெரும்பாலான Linux விநியோகங்கள் <span class="em">இலவச</span> மற்றும் <span class="em">திறமூல</span> சாதன இயக்கிகளையே கொண்டு கிடைக்கின்றன. ஏனெனில் அவை உரிமைத்தன்மை கொண்ட அல்லது திறமூலமல்லாத இயக்கிகளை விநியோகிக்க முடியாது. உங்கள் வயர்லெஸ் அடாப்ட்டருக்கான சரியான இயக்கி இலவசமல்லாத அல்லது "பைனரி-மட்டும்" பதிப்பில் மட்டுமே உள்ளது எனில், அது முன்னிருப்பாக நிறுவப்பட்டிருக்காது. இச்சூழ்நிலையில் வயர்லெஸ் அடாப்ட்டர் உற்பத்தி நிறுவன வலைத்தளத்திற்கு சென்று, Linux இயக்கிகள் உள்ளதா எனப் பார்க்கவும்.</p>
+<p class="p">Many Linux distributions only come with device drivers which are
+      <span class="em">free</span> and <span class="em">open source</span>. This is because they cannot
+      distribute drivers which are proprietary, or closed-source. If the
+      correct driver for your wireless adapter is only available in a non-free,
+      or “binary-only” version, it may not be installed by default. If this is
+      the case, look on the wireless adapter manufacturer’s website to see if
+      they have any Linux drivers.</p>
 <p class="p">சில Linux விநியோகங்களில், உங்களுக்காக கட்டுப்படுத்தப்பட்ட இயக்கிகளைப் பதிவிறக்கும் ஒரு கருவி உள்ளது. இக்கருவி உங்கள் விநியோகத்தில் இருந்தால், உங்களுக்காக ஏதேனும் வயர்லெஸ் இயக்கியை அது கண்டறிகிறதா என முயற்சிக்கவும்.</p>
 </li>
 <li class="list">

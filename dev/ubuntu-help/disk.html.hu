@@ -50,6 +50,7 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="linkdiv "><a class="linkdiv" href="disk-benchmark.html" title="A merevlemez teljesítményének tesztelése"><span class="title">A merevlemez teljesítményének tesztelése</span><span class="linkdiv-dash"> — </span><span class="desc">Teljesítménytesztek futtatásával meghatározhatja merevlemeze sebességét.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-resize.html" title="Adjust the size of a filesystem"><span class="title">Adjust the size of a filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Shrink or grow a filesystem and its partition.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="addremove-creator.html" title="Create a startup disk"><span class="title">
     Create a startup disk
   </span><span class="linkdiv-dash"> — </span><span class="desc"> 
@@ -58,6 +59,8 @@
 <div class="linkdiv "><a class="linkdiv" href="disk-check.html" title="Hibák keresése a merevlemezen"><span class="title">Hibák keresése a merevlemezen</span><span class="linkdiv-dash"> — </span><span class="desc">A merevlemez hibáinak keresésével meggyőződhet a lemez megfelelő állapotáról.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-partitions.html" title="Kötetek és partíciók kezelése"><span class="title">Kötetek és partíciók kezelése</span><span class="linkdiv-dash"> — </span><span class="desc">Kötetek és partíciók bemutatása, és a lemezkezelő használata.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-format.html" title="Minden adat törlése cserélhető adathordozóról"><span class="title">Minden adat törlése cserélhető adathordozóról</span><span class="linkdiv-dash"> — </span><span class="desc">Minden fájl és mappa eltávolítása külső merevlemezről vagy USB-meghajtóról formázással.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-repair.html" title="Repair a damaged filesystem"><span class="title">Repair a damaged filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Check if a filesystem is damaged and bring it back into a usable
+          state.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-capacity.html" title="Szabad lemezhely ellenőrzése"><span class="title">Szabad lemezhely ellenőrzése</span><span class="linkdiv-dash"> — </span><span class="desc">Szabad hely és kapacitás ellenőrzése a <span class="gui">Lemezhasználat-elemző</span> vagy a <span class="gui">Rendszerfigyelő</span> használatával.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">

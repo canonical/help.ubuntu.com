@@ -64,7 +64,7 @@
 <p class="p">To create a startup disk from an Ubuntu ISO image:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">
-        Open <span class="app">Startup Disk Creator</span> from the <span class="gui">Dash</span>.
+        Open <span class="app">Startup Disk Creator</span> via the <span class="em">Activities</span> search bar.
       </p></li>
 <li class="steps"><p class="p">
         If the ISO image is in your <span class="gui">Download</span> folder and there is just one ISO image, <span class="app">Startup Disk Creator</span> will have selected it,

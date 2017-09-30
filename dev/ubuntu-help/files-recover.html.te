@@ -63,8 +63,15 @@
       deleted.</p></li>
 </ol></div>
 </div></div>
-<p class="p">మీరు ఫైలును <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Delete </kbd></span></span> వుపయోగించి, లేదా కమాండ్‌ లైన్ వుపయోగించి తొలగించితే, ఆ ఫైలు శాశ్వతంగా తొలగించబడును. శాశ్వతంగా తొలగించబడిన ఫైళ్ళు <span class="gui">చెత్తబుట్ట</span> నుండి తిరిగిపొందలేము.</p>
-<p class="p">శాశ్వతంగా తొలగించబడిన ఫైళ్ళను కొన్నిసార్లు తిరిగిపొందుటకు చాలా రికవరీ సాధనాలు వున్నాయి. ఏమైనా, ఈ సాధనాలను వుపయోగించుట అంత సులువుకాదు. మీరు ప్రమాదవశాత్తు ఫైలును శాశ్వతంగా తొలగించితే, మీరు దానిని తిరిగిపొందవచ్చేమో తోడ్పాటు ఫోరం నందు అడుగుట మంచిది.</p>
+<p class="p">If you deleted the file by pressing <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Delete
+  </kbd></span></span>, or by using the command line, the file has been permanently
+  deleted. Files that have been permanently deleted can’t be recovered from the
+  <span class="gui">Trash</span>.</p>
+<p class="p">There are a number of recovery tools available that are sometimes able to
+  recover files that were permanently deleted. These tools are generally not
+  very easy to use, however. If you accidentally permanently deleted a file,
+  it’s probably best to ask for advice on a support forum to see if you can
+  recover it.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -77,7 +84,8 @@
 <div class="title"><h2><span class="title">ఇవి కూడా చూడండి</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="files-lost.html" title="దొరకని దస్త్రమును కనుగొను">దొరకని దస్త్రమును కనుగొను</a><span class="desc"> — మీరు దిగుమతి చేసిన లేక సృష్టించిన దస్త్రము దొరకనపుడు కనుగొనుటకు ఈ చిట్కాలు పాటించు</span>
+<a href="files-lost.html" title="దొరకని దస్త్రమును కనుగొను">దొరకని దస్త్రమును కనుగొను</a><span class="desc"> — Follow these tips if you can’t find a file you created or
+    downloaded.</span>
 </li>
 <li class="links ">
 <a href="files-delete.html" title="ఫైళ్ళను మరియు సంచయాలను తొలగించండి">ఫైళ్ళను మరియు సంచయాలను తొలగించండి</a><span class="desc"> — అవసరం లేని ఫైళ్ళను మరియు సంచయాలను తీసివేయండి</span>

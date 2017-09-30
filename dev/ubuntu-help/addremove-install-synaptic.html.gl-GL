@@ -56,7 +56,10 @@
 <div class="hgroup"><h2 class="title"><span class="title">Instalar software con Synaptic</span></h2></div>
 <div class="region"><div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra Synaptic desde o <span class="gui">Panel</span> ou desde o <span class="gui">Iniciador</span>. Necesitará introducir o seu contrasinal na xanela de <span class="gui">Autenticar</span>.</p></li>
+<li class="steps"><p class="p">
+          Open <span class="app">Synaptic</span> via the <span class="em">Activities</span> search bar. You 
+          will need to enter your password in the <span class="gui">Authenticate</span> window.
+        </p></li>
 <li class="steps"><p class="p">Prema <span class="gui">Buscar</span> para atopar un aplicativo ou prema <span class="gui">Seccións</span> e bote unha ollada para localizalo nas categorías.</p></li>
 <li class="steps"><p class="p">Prema co botón dereito no aplicativo que desexa instalar e seleccione <span class="gui">Marcar para instalar</span>.</p></li>
 <li class="steps"><p class="p">Se se lle pide marcar os cambios adicionais, prema <span class="gui">Marcar</span>.</p></li>

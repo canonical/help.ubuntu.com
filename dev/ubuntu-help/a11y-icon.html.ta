@@ -64,7 +64,14 @@
 <li class="steps"><p class="p">Switch <span class="gui">Always Show Universal Access Menu</span> to
       <span class="gui">ON</span>.</p></li>
 </ol></div></div></div>
-<p class="p">சொடுக்கியைப் பயன்படுத்தாமல் விசைப்பலகை மூலம் இந்த மெனுவை அணுக, விசைப்பலகை கவனப்புள்ளியை மேல் பட்டிக்கு மாற்றுவதற்காக <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> ஐ அழுத்தவும். <span class="gui">செயல்பாடுகள்</span> பொத்தானின் கீழ் ஒரு வெள்ளை நிற கோடு தோன்றும், இந்தக் கோடே மேல் பட்டியில் உள்ள எந்த உருப்படி தேர்ந்தெடுக்கப்பட்டுள்ளது என்பதை உணர்த்தும். அனைவருக்குமான அணுகல் மெனுவின் கீழுள்ள வெள்ளைக் கோட்டை நகர்த்த அம்புக் குறி விசைகளைப் பயன்படுத்தி, அதைத் திறக்க <span class="key"><kbd>Enter</kbd></span> ஐ அழுத்தவும். மெனுவிலுள்ள உருப்படிகளைத் தேர்ந்தெடுக்க மேல் மற்றும் கீழ் அம்புக்குறி விசைகளைப் பயன்படுத்தலாம். தேர்ந்தெடுக்கப்பட்ட உருப்படியை மாற்ற <span class="key"><kbd>Enter</kbd></span> ஐ அழுத்தவும்.</p>
+<p class="p">To access this menu using the keyboard rather than the mouse, press
+  <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> to move the
+  keyboard focus to the top bar. A white line will appear underneath the
+  <span class="gui">Activities</span> button — this tells you which item on the top bar is
+  selected. Use the arrow keys on the keyboard to move the white line under the
+  universal access menu icon and then press <span class="key"><kbd>Enter</kbd></span> to open it. You
+  can use the up and down arrow keys to select items in the menu. Press
+  <span class="key"><kbd>Enter</kbd></span> to toggle the selected item.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

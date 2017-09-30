@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Sound problems</title>
+<title>Geluidsproblemen</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,16 +44,16 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Common problems">Problems</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="media.html#sound" title="Basisgeluid">Geluid</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="media.html#sound" title="Basic sound">Sound</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Veel voorkomende problemen">Problemen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Sound problems</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Geluidsproblemen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">There are a number of ways for sound playback to break on your computer. Which of the topics below best describes the problem you are experiencing?</p>
+<p class="p">Het niet werken van het geluid op uw computer kan meerdere oorzaken hebben. Welke van de onderstaande onderwerpen beschrijft het probleem dat u heeft het best?</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="linkdiv "><a class="linkdiv" href="sound-nosound.html" title="I cannot hear any sounds on the computer"><span class="title">I cannot hear any sounds on the computer</span><span class="linkdiv-dash"> — </span><span class="desc">Check that the sound is not muted, that cables are plugged in properly,
     and that the sound card is detected.</span></a></div>
@@ -65,14 +65,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="hardware.html#problems" title="Common problems">Hardware problems</a></li>
 <li class="links ">
-<a href="media.html#sound" title="Basic sound">Basic sound</a><span class="desc"> — 
-     <span class="link"><a href="sound-volume.html" title="Het geluidsvolume wijzigen">Volume</a></span>,
-     <span class="link"><a href="sound-usespeakers.html" title="Andere luidsprekers of hoofdtelefoons gebruiken">speakers and headphones</a></span>,
-     <span class="link"><a href="sound-usemic.html" title="Een andere microfoon gebruiken">microphones</a></span>…
-   </span>
+<a href="media.html#sound" title="Basisgeluid">Basisgeluid</a><span class="desc"> — <span class="link"><a href="sound-volume.html" title="Het geluidsvolume wijzigen">Volume</a></span>, <span class="link"><a href="sound-usespeakers.html" title="Andere luidsprekers of hoofdtelefoons gebruiken">Luidsprekers en hoofdtelefoons</a></span>, <span class="link"><a href="sound-usemic.html" title="Een andere microfoon gebruiken">microfoons</a></span>…</span>
 </li>
+<li class="links "><a href="hardware.html#problems" title="Veel voorkomende problemen">Hardwareproblemen</a></li>
 </ul></div>
 </div></div></div>
 </div>

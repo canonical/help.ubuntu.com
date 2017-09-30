@@ -49,7 +49,10 @@
 <div class="hgroup"><h1 class="title"><span class="title">Odstranitev vsega z odstranljivega diska</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">V primeru da imate odstranljiv disk kot je ključek USB ali zunanji trdi disk, boste morda želeli popolnoma odstraniti vse njegove datoteke in mape. To lahko storite s <span class="em">formatiranjem</span> diska - to izbriše vse datoteke na disku in ga pusti praznega.</p>
+<p class="p">If you have a removable disk, like a USB memory stick or an external hard
+ disk, you may sometimes wish to completely remove all of its files and
+ folders. You can do this by <span class="em">formatting</span> the disk — this deletes all
+ of the files on the disk and leaves it empty.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Formatiranje odstranljivega diska</span></h2></div>
 <div class="region"><ol class="steps">

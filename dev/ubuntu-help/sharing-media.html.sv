@@ -64,9 +64,9 @@
 </li>
 <li class="steps"><p class="p">Välj <span class="gui">Mediadelning</span>.</p></li>
 <li class="steps"><p class="p">Slå om <span class="gui">Mediadelning</span> till <span class="gui">PÅ</span>.</p></li>
-<li class="steps"><p class="p">Som standard delas <span class="file">Musik</span>, <span class="file">Bilder</span> och <span class="file">Video</span>. För att ta bort en av dessa, klicka på <span class="gui">X</span> intill mappnamnet.</p></li>
+<li class="steps"><p class="p">Som standard delas <span class="file">Musik</span>, <span class="file">Bilder</span> och <span class="file">Video</span>. För att ta bort en av dessa, klicka på <span class="gui">×</span> intill mappnamnet.</p></li>
 <li class="steps"><p class="p">För att lägga till ytterligare en mapp, klicka på <span class="gui">+</span> för att öppna fönstret <span class="gui">Välj en mapp</span>. Navigera <span class="em">in i</span> den önskade mappen och klicka på <span class="gui">Öppna</span>.</p></li>
-<li class="steps"><p class="p">Klicka på <span class="gui">X</span>. Du kommer nu att kunna bläddra genom eller spela media i mapparna du valt via den externa enheten.</p></li>
+<li class="steps"><p class="p">Klicka på <span class="gui">×</span>. Du kommer nu att kunna bläddra genom eller spela media i mapparna du valt via den externa enheten.</p></li>
 </ol></div></div></div>
 </div>
 <div id="networks" class="sect"><div class="inner">

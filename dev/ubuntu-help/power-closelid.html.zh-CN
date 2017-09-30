@@ -53,7 +53,12 @@
 <div class="hgroup"><h1 class="title"><span class="title">为什么我合上笔记本盖时它会关闭？</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">当您合上笔记本盖，计算机将会<span class="link"><a href="power-suspend.html" title="挂起或休眠计算机时会发生什么？"><span class="em">挂起</span></a></span>以省电。也就是说计算机并没有真正关闭——它只是进入睡眠，您可以打开盖唤醒它。如果翻盖后不能唤醒，试着点几下鼠标，或者按一下键盘。如果还不能工作，那么就按电源按钮。</p>
+<p class="p">When you close the lid of your laptop, your computer will
+  <span class="link"><a href="power-suspend.html" title="挂起或休眠计算机时会发生什么？"><span class="em">suspend</span></a></span> in order to save power.
+  This means that the computer is not actually turned off — it has just gone to
+  sleep. You can resume it by opening the lid. If it does not resume, try
+  clicking the mouse or pressing a key. If that still does not work, press the
+  power button.</p>
 <p class="p">一些计算机不能很好地挂起，这通常是因为硬件不完全支持操作系统(例如，Linux 驱动不完善)。在这种情况下，您可能会发现合上盖再打开时，不能唤醒电脑。您可以试着<span class="link"><a href="power-suspendfail.html" title="为什么我的机子休眠后不能回到原来的状态？">修复挂起错误</a></span>，或者您可以阻止电脑在合上盖时挂起。</p>
 </div>
 <div id="nosuspend" class="sect"><div class="inner">
@@ -61,7 +66,7 @@
 <div class="region"><div class="contents">
 <div class="note note-important" title="重要"><div class="inner"><div class="region"><div class="contents"><p class="p">These instructions will only work if you are using <span class="app">systemd</span>.
     Contact your distribution for more information.</p></div></div></div></div>
-<div class="note note-important" title="重要"><div class="inner"><div class="region"><div class="contents"><p class="p">You need to have the <span class="app">Tweak Tool</span> installed on your computer to
+<div class="note note-important" title="重要"><div class="inner"><div class="region"><div class="contents"><p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
     change this setting.</p></div></div></div></div>
 <p class="p">If you do not want the computer to suspend when you close the lid, you can
   change the setting for that behavior.</p>
@@ -70,11 +75,11 @@
     a confined place like a backpack.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Tweak Tool</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Tweak Tool</span> to open the application.</p></li>
+      start typing <span class="gui">Tweaks</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Tweaks</span> to open the application.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Power</span> tab.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Don't suspend on lid close</span> to <span class="gui">ON</span>.</p></li>
-<li class="steps"><p class="p">Close the <span class="gui">Tweak Tool</span> window.</p></li>
+<li class="steps"><p class="p">Switch <span class="gui">Don’t suspend on lid close</span> to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Close the <span class="gui">Tweaks</span> window.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>

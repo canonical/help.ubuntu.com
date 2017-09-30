@@ -55,7 +55,10 @@
 <div class="hgroup"><h1 class="title"><span class="title">调整双击速度</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">仅当连续按鼠标键两次的动作足够快时，才能执行双击操作。如果按第二次与按第一次的时间差过大，则仅会分别执行两次单击操作，而不是一次双击操作。如果您难以将鼠标键按得很快，则应该延长超时时间。</p>
+<p class="p">Double-clicking only happens when you press the mouse button twice
+quickly enough. If the second press is too long after the first, you’ll
+just get two separate clicks, not a double click. If you have difficulty
+pressing the mouse button quickly, you should increase the timeout.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
   start typing <span class="gui">Universal Access</span>.</p></li>

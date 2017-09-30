@@ -54,8 +54,19 @@
 <div class="region">
 <div class="contents">
 <p class="p">病毒是一种程序，如果它们侵入您的计算机，则会导致问题的发生。它们侵入计算机的常见方式之一就是通过电子邮件消息。</p>
-<p class="p">病毒影响 Linux 计算机的机率很小，因此您<span class="link"><a href="net-antivirus.html" title="我需要安装反病毒软件吗？">一般不会通过电子邮件或其他方式感染病毒</a></span>。如果收到包含病毒的电子邮件，一般不会对您的计算机造成影响。因此，您一般不需要扫描电子邮件中的病毒。</p>
-<p class="p">然而，您可能还是希望扫描一下邮件，以防止转发了一封带有病毒的邮件。例如，您一个朋友使用的 Windows 系统中了病毒，并且发给您一封带病毒的邮件，您将此邮件转发给了其他使用 Windows 系统的朋友，那么这个朋友就有可能会中病毒。您可以安装一款杀毒软件来检查邮件，但这通常也不会发生，因为使用 Windows 和 Mac OS 的人也会安装杀毒软件。</p>
+<p class="p">Viruses that can affect computers running Linux are quite rare, so you are
+  <span class="link"><a href="net-antivirus.html" title="我需要安装反病毒软件吗？">unlikely to get a virus through email or
+  otherwise</a></span>. If you receive an email with a virus hidden in it, it will
+  probably have no effect on your computer. As such, you probably don’t need to
+  scan your email for viruses.</p>
+<p class="p">You may, however, wish to scan your email for viruses in case you happen
+  to forward a virus from one person to another. For example, if one of your
+  friends has a Windows computer with a virus and sends you a virus-infected
+  email, and you then forward that email to another friend with a Windows
+  computer, then the second friend might get the virus too. You could install
+  an anti-virus application to scan your emails to prevent this, but it’s
+  unlikely to happen and most people using Windows and Mac OS have anti-virus
+  software of their own anyway.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -81,7 +92,8 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">亦见</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-antivirus.html" title="我需要安装反病毒软件吗？">我需要安装反病毒软件吗？</a><span class="desc"> — Linux 下病毒很少，因此您不大可能需要反病毒软件。</span>
+<a href="net-antivirus.html" title="我需要安装反病毒软件吗？">我需要安装反病毒软件吗？</a><span class="desc"> — There are few Linux viruses, so you probably don’t need anti-virus
+    software.</span>
 </li></ul></div>
 </div></div>
 </div>

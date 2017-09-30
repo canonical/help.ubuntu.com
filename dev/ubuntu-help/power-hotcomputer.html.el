@@ -50,8 +50,19 @@
 <div class="region">
 <div class="contents">
 <p class="p">Οι περισσότεροι υπολογιστές θερμαίνονται μετά από λίγο και μερικοί μπορεί να γίνουν αρκετά καυτοί. Αυτό είναι φυσιολογικό: είναι απλά μέρος του τρόπου που ο υπολογιστής ψύχει τον εαυτόν του. Όμως, εάν ο υπολογιστής σας γίνεται πολύ ζεστός, μπορεί να είναι ένδειξη ότι υπερθερμαίνεται, που μπορεί δυνητικά να προκαλέσει ζημιά.</p>
-<p class="p">Οι περισσότεροι φορητοί υπολογιστές ζεσταίνονται λογικά μόλις τους χρησιμοποιήσετε για κάμποσο. Δεν είναι γενικά κάτι ανησυχητικό - οι υπολογιστές παράγουν πολλή θερμότητα και οι φορητοί είναι πολύ συμπαγείς, έτσι χρειάζονται να αφαιρούμε την θερμότητά τους γρήγορα και το εξωτερικό τους περίβλημα ζεσταίνεται ως αποτέλεσμα. Μερικοί φορητοί γίνονται υπερβολικά καυτοί, όμως, και μπορεί να είναι άβολοι στη χρήση. Αυτό είναι κανονικά το αποτέλεσμα ενός φτωχά σχεδιασμένου ψυκτικού συστήματος. Μπορείτε μερικές φορές να πάρετε πρόσθετα ψυκτικά βοηθήματα που προσαρμόζονται στον πάτο του φορητού και παρέχουν πιο αποτελεσματική ψύξη.</p>
-<p class="p">Εάν έχετε έναν επιτραπέζιο υπολογιστή που ζεσταίνεται, ενδέχεται να έχει ανεπαρκή ψύξη. Εάν αυτό σας αφορά, μπορείτε να αγοράσετε πρόσθετους ανεμιστήρες ψύξης ή να ελέγξετε ότι οι ανεμιστήρες ψύξης και τα ανοίγματα είναι ελεύθερα από σκόνη και άλλα σκουπίδια. Σκεφτείτε επίσης να βάλετε τον υπολογιστή σας σε μια καλύτερα αεριζόμενη περιοχή - εάν διατηρείται σε περιορισμένους χώρους (για παράδειγμα σε ένα ντουλάπι), το σύστημα ψύξης του υπολογιστή ενδέχεται να μην μπορεί να ανακυκλώσει τη θερμότητα μεταφέροντας δροσερό αέρα αρκετά γρήγορα.</p>
+<p class="p">Most laptops get reasonably warm once you have been using them for a while.
+It is generally nothing to worry about — computers produce a lot of heat and
+laptops are very compact, so they need to remove their heat rapidly and their
+outer casing warms up as a result. Some laptops do get too hot, however, and
+may be uncomfortable to use. This is normally the result of a poorly-designed
+cooling system. You can sometimes get additional cooling accessories which fit
+to the bottom of the laptop and provide more efficient cooling.</p>
+<p class="p">If you have a desktop computer which feels hot to the touch, it may have
+insufficient cooling. If this concerns you, you can buy extra cooling fans or
+check that the cooling fans and vents are free from dust and other blockages.
+You might want to consider putting the computer in a better-ventilated area too
+— if kept in confined spaces (for example, in a cupboard), the cooling system in the
+computer may not be able to remove heat and circulate cool air fast enough.</p>
 <p class="p">Μερικοί άνθρωποι ανησυχούν για τους κινδύνους υγείας χρησιμοποιώντας καυτούς φορητούς υπολογιστές. Υπάρχουν προτάσεις ότι παρατεταμένη χρήση ενός καυτού φορητού στην αγκαλιά σας μπορεί πιθανόν να μειώσει την (ανδρική) γονιμότητα και υπάρχουν αναφορές μικρών εγκαυμάτων επίσης (σε ακραίες περιπτώσεις). Εάν ανησυχείτε για αυτά τα δυνητικά προβλήματα, μπορεί να θελήσετε να συμβουλευτείτε έναν γιατρό. Φυσικά, μπορείτε απλά να επιλέξετε να μην αφήσετε τον επιτραπέζιο υπολογιστή στην αγκαλιά σας.</p>
 <p class="p">Οι περισσότεροι σύγχρονοι υπολογιστές κλείνουν εάν γίνουν υπερβολικά ζεστοί, για να αποφύγουν κάποια ζημιά. Εάν ο υπολογιστής σας παραμένει κλειστός, αυτός μπορεί να είναι ο λόγος. Εάν ο υπολογιστής σας υπερθερμαίνεται, θα χρειαστείτε προφανώς να τον επισκευάσετε.</p>
 </div>

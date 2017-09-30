@@ -72,9 +72,11 @@
 </ol></div></div></div>
 </div>
 <div id="problem" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Če disk ni bil pravilno zapisan</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">If the disc wasn’t burned properly</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Včasih računalnik podatkov ne zapiše pravilno, zato ne boste mogli videti datotek, ko disk vstavite v računalnik.</p>
+<p class="p">Sometimes the computer doesn’t record the data correctly, and you won’t be
+  able to see the files you put onto the disc when you insert it into a
+  computer.</p>
 <p class="p">In this case, try burning the disc again but use a lower burning speed,
   for example, 12x rather than 48x. Burning at slower speeds is more reliable.
   You can choose the speed by clicking the <span class="gui">Properties</span> button in the

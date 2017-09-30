@@ -52,7 +52,8 @@
 <div class="linkdiv "><a class="linkdiv" href="net-firewall-on-off.html" title="Activar ou bloquear o acceso á devasa"><span class="title">Activar ou bloquear o acceso á devasa</span><span class="linkdiv-dash"> — </span><span class="desc">Pode controlar que programas poden acceder á rede. Isto axúdalle a manter o seu computador seguro.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-firewall-ports.html" title="Portos de rede usados frecuentemente"><span class="title">Portos de rede usados frecuentemente</span><span class="linkdiv-dash"> — </span><span class="desc">Debe especificar o porto de rede correcto para activar/desactivar o acceso da rede para un programa na súa devasa.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-email-virus.html" title="Preciso analizar os meus correos electrónicos por virus?"><span class="title">Preciso analizar os meus correos electrónicos por virus?</span><span class="linkdiv-dash"> — </span><span class="desc">Os virus raramente infectan o seu computador, pero podería infectar os computadores das persoas ás que envía correos electrónicos.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-antivirus.html" title="Preciso un software antivirus?"><span class="title">Preciso un software antivirus?</span><span class="linkdiv-dash"> — </span><span class="desc">Hai moi poucos virus en Linux, polo que probabelmente non precise un software antivirus.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-antivirus.html" title="Preciso un software antivirus?"><span class="title">Preciso un software antivirus?</span><span class="linkdiv-dash"> — </span><span class="desc">There are few Linux viruses, so you probably don’t need anti-virus
+    software.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

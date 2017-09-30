@@ -89,7 +89,7 @@
 <a href="power-autobrightness.html" title="Activar el brillo automático">Activar el brillo automático</a><span class="desc"> — Controlar automáticamente el brillo de la pantalla para reducir el uso de batería.</span>
 </li>
 <li class="links ">
-<a href="a11y-contrast.html" title="Ajustar el contraste">Ajustar el contraste</a><span class="desc"> — Hacer que las ventanas y los botones de la pantalla más vivos, para que sean más fáciles de ver.</span>
+<a href="a11y-contrast.html" title="Ajustar el contraste">Ajustar el contraste</a><span class="desc"> — Hacer que las ventanas y los botones de la pantalla más (o menos) vivos, para que sean más fáciles de ver.</span>
 </li>
 <li class="links ">
 <a href="power-batterylife.html" title="Usar menos energía y mejorar la vida de la batería">Usar menos energía y mejorar la vida de la batería</a><span class="desc"> — Consejos para reducir el consumo de energía de su equipo.</span>

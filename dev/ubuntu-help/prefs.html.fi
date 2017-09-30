@@ -59,7 +59,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs-sharing.html" title="Jakamisasetukset">Jakamisasetukset</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="sharing-bluetooth.html" title="Control sharing over Bluetooth">Bluetooth-jakaminen</a></span>, <span class="link"><a href="sharing-personal.html" title="Share your personal files">henkilökohtainen tiedostojako</a></span>, <span class="link"><a href="sharing-desktop.html" title="Jaa työpöytäsi">näytön jakaminen</a></span>, <span class="link"><a href="sharing-media.html" title="Jaa musiikkia, kuvia ja videoita">median jakaminen</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="sharing-bluetooth.html" title="Control sharing over Bluetooth">Bluetooth-jakaminen</a></span>, <span class="link"><a href="sharing-personal.html" title="Jaa henkilökohtaisia tiedostoja">henkilökohtainen tiedostojako</a></span>, <span class="link"><a href="sharing-desktop.html" title="Jaa työpöytäsi">näytön jakaminen</a></span>, <span class="link"><a href="sharing-media.html" title="Jaa musiikkia, kuvia ja videoita">median jakaminen</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="startup-applications.html" title="Käynnistettävät sovellukset">Käynnistettävät sovellukset</a></div>
@@ -83,19 +83,11 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="accounts.html" title="Verkkotilit">Verkkotilit</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="accounts-add.html" title="Lisää tili">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html" title="Poista tili">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html" title="Verkkopalvelut ja sovellukset">Learn about services</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="accounts-add.html" title="Lisää tili">Lisää verkkotili</a></span>, <span class="link"><a href="accounts-remove.html" title="Poista tili">Poista tili</a></span>, <span class="link"><a href="accounts-which-application.html" title="Verkkopalvelut ja sovellukset">Lisätietoja palveluista</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="power.html" title="Virransäästö ja akku">Virransäästö ja akku</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="Mitä tapahtuu, kun asetan tietokoneeni valmius- tai lepotilaan?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="Miksi näyttö himmenee itsestään?">screen dimming</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="power-status.html" title="Tarkista akun tila">Akun tila</a></span>, <span class="link"><a href="power-suspend.html" title="Mitä tapahtuu, kun asetan tietokoneeni valmius- tai lepotilaan?">valmiustila</a></span>, <span class="link"><a href="power-whydim.html" title="Miksi näyttö himmenee itsestään?">näytön himmentäminen</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="color.html" title="Värinhallinta">Värinhallinta</a></div>

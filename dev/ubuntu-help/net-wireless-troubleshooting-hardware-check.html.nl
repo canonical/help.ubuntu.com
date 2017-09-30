@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Wireless connection troubleshooter</title>
+<title>Problemen met een draadloos verbinding oplossen</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,155 +44,114 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="Wireless Networking">Wireless Networking</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Wireless network troubleshooter">Wireless network troubleshooter</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html" title="Draadloos netwerk">Draadloos netwerk</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Common problems">Problems</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Wireless network troubleshooter">Wireless network troubleshooter</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="Wireless network troubleshooter">Vorige</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="Wireless network troubleshooter">Volgende</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="Probleemoplosser draadloos netwerk">Vorige</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="Probleemoplosser draadloos netwerk">Volgende</a>
 </div>
 <div class="hgroup">
-<h1 class="title"><span class="title">Wireless connection troubleshooter</span></h1>
-<h2 class="subtitle"><span class="subtitle">Check that the wireless adapter was recognized</span></h2>
+<h1 class="title"><span class="title">Problemen met een draadloos verbinding oplossen</span></h1>
+<h2 class="subtitle"><span class="subtitle">Nagaan of de draadloos netwerk-adapter herkend werd</span></h2>
 </div>
 <div class="region">
 <div class="contents">
-<p class="p">Even though the wireless adapter is connected to the computer, it may not
-  have been recognized as a network device by the computer. In this step, you
-  will check whether the device was recognized properly.</p>
+<p class="p">Alhoewel de draadloos netwerk-adapter aangesloten is op de computer, is het mogelijk dat deze niet herkend is als een netwerkapparaat door de computer. In deze stap gaat u na of het apparaat op de juiste manier herkend werd.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open a Terminal window, type <span class="cmd">lshw -C network</span> and press
-      <span class="key"><kbd>Enter</kbd></span>. If this gives an error message, you may need to install
-      the <span class="app">lshw</span> program on your computer.</p></li>
+<li class="steps"><p class="p">Open een terminalvenster, typ <span class="cmd">lshw -C network</span> en druk op <span class="key"><kbd>Enter</kbd></span>. Als u een foutmelding krijgt, dan kunt u het programma <span class="app">lshw</span> op uw computer installeren.</p></li>
 <li class="steps">
-<p class="p">Look through the information that appeared and find the <span class="em">Wireless
-      interface</span> section. If your wireless adapter was detected properly,
-      you should see something similar (but not identical) to this:</p>
+<p class="p">Lees de informatie die verschijnt en controleer de sectie <span class="em">Wireless interface</span>. Als uw draadloos netwerk-adapter op de juiste manier gedetecteerd is, dan zou de uitvoer er ongeveer zo uit moeten zien:</p>
 <div class="code"><pre class="contents ">*-network
        description: Wireless interface
        product: PRO/Wireless 3945ABG [Golan] Network Connection
        vendor: Intel Corporation</pre></div>
 </li>
 <li class="steps">
-<p class="p">If a wireless device is listed, continue on to the
-      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Wireless network troubleshooter">Device Drivers
-      step</a></span>.</p>
-<p class="p">If a wireless device is <span class="em">not</span> listed, the next steps you take
-      will depend on the type of device that you use. Refer to the section
-      below that is relevant to the type of wireless adapter that your computer
-      has (<span class="link"><a href="#pci" title="PCI (internal) wireless adapter">internal PCI</a></span>, <span class="link"><a href="#usb" title="USB wireless adapter">USB</a></span>,
-      or <span class="link"><a href="#pcmcia" title="Checking for a PCMCIA device">PCMCIA</a></span>).</p>
+<p class="p">Als er een draadloos netwerk-apparaat in de lijst staat, ga dan door naar de pagina <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Probleemoplosser draadloos netwerk">Stuurprogramma's</a></span>.</p>
+<p class="p">Als een draadloos apparaat <span class="em">niet</span> in de lijst staat, dan zal de volgende stap afhangen van het apparaat dat u gebruikt. Ga naar de sectie hieronder die relevant is voor het type draadloos apparaat dat uw computer heeft (<span class="link"><a href="#pci" title="PCI (interne) draadloze adapter">interne PCI</a></span>, <span class="link"><a href="#usb" title="Draadloze USB-adapter">USB</a></span>, of <span class="link"><a href="#pcmcia" title="Controleren op een PCMCIA-kaart">PCMCIA</a></span>).</p>
 </li>
 </ol></div></div></div>
 </div>
 <div id="pci" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">PCI (internal) wireless adapter</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">PCI (interne) draadloze adapter</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Internal PCI adapters are the most common, and are found in most laptops
-  made within the past few years. To check if your PCI wireless adapter was
-  recognized:</p>
+<p class="p">Interne PCI-adapters komen het meest voor en worden gebruikt in laptops die gemaakt zijn in de afgelopen paar jaren. Hoe controleert u of uw draadloze PCI-adapter werd herkend:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open a Terminal, type <span class="cmd">lspci</span> and press <span class="key"><kbd>Enter</kbd></span>.</p></li>
+<li class="steps"><p class="p">Open een terminalvenster, typ <span class="cmd">lspci</span> in en druk daarna op <span class="key"><kbd>Enter</kbd></span>.</p></li>
 <li class="steps">
-<p class="p">Look through the list of devices that is shown and find any that are
-      marked <span class="code">Network controller</span> or <span class="code">Ethernet
-      controller</span>. Several devices may be marked in this way; the one
-      corresponding to your wireless adapter might include words like
-      <span class="code">wireless</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> or
-      <span class="code">802.11</span>. Here is an example of what the entry might look
-      like:</p>
+<p class="p">Doorzoek de getoonde lijst met apparaten en vind de apparaten die gemarkeerd zijn als <span class="code">Network controller</span> of <span class="code">Ethernet controller</span>. Er kunnen meerdere apparaten hetzelfde gemarkeerd zijn; diegene die overeenkomt met uw draadloze adapter kan woorden bevatten als <span class="code">wireless</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> of <span class="code">802.11</span>. Hier is een voorbeeld hoe dit er mogelijk uit kan zien:</p>
 <div class="code"><pre class="contents ">Network controller: Intel Corporation PRO/Wireless 3945ABG [Golan] Network Connection</pre></div>
 </li>
 <li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
-      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Wireless network troubleshooter">Device Drivers
-      step</a></span>. If you didn't find anything related to your wireless
+      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Probleemoplosser draadloos netwerk">Device Drivers
+      step</a></span>. If you didn’t find anything related to your wireless
       adapter, see
-      <span class="link"><a href="#not-recognized" title="Wireless adapter was not recognized">the instructions below</a></span>.</p></li>
+      <span class="link"><a href="#not-recognized" title="Draadloze adapter niet herkend">the instructions below</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
 <div id="usb" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">USB wireless adapter</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Draadloze USB-adapter</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Wireless adapters that plug into a USB port on your computer are less
-  common. They can plug directly into a USB port, or may be connected by a USB
-  cable. 3G/mobile broadband adapters look quite similar to wireless (wifi)
-  adapters, so if you think you have a USB wireless adapter, double-check that
-  it is not actually a 3G adapter. To check if your USB wireless adapter was
-  recognized:</p>
+<p class="p">Draadloze adapters, die via een USB-poort op uw computer worden aangesloten, komen minder vaak voor. Deze kunnen direct in een USB-poort worden aangesloten of via een USB-kabel. 3G/mobiele breedbandadapters lijken heel erg op draadloze (wifi) adapters, dus als u denkt dat u een draadloze USB-adapter heeft, controleer dan nogmaals of het toch geen 3G-adapter is. Hoe controleert u of uw draadloze USB-adapter werd herkend:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open a Terminal, type <span class="cmd">lsusb</span> and press <span class="key"><kbd>Enter</kbd></span>.</p></li>
+<li class="steps"><p class="p">Open een terminalvenster, typ <span class="cmd">lsusb</span> in en druk daarna op <span class="key"><kbd>Enter</kbd></span>.</p></li>
 <li class="steps">
-<p class="p">Look through the list of devices that is shown and find any that seem
-      to refer to a wireless or network device. The one corresponding to your
-      wireless adapter might include words like <span class="code">wireless</span>,
-      <span class="code">WLAN</span>, <span class="code">wifi</span> or <span class="code">802.11</span>. Here is an
-      example of what the entry might look like:</p>
+<p class="p">Doorzoek de getoonde lijst met apparaten en vind de apparaten die schijnen te refereren aan een draadloos- of netwerkapparaat. Diegene die overeenkomt met uw draadloze adapter kan woorden bevatten als <span class="code">wireless</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> of <span class="code">802.11</span>. Hier is een voorbeeld hoe dit er mogelijk uit kan zien:</p>
 <div class="code"><pre class="contents ">Bus 005 Device 009: ID 12d1:140b Huawei Technologies Co., Ltd. EC1260 Wireless Data Modem HSD USB Card</pre></div>
 </li>
 <li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
-      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Wireless network troubleshooter">Device Drivers
-      step</a></span>. If you didn't find anything related to your wireless
+      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Probleemoplosser draadloos netwerk">Device Drivers
+      step</a></span>. If you didn’t find anything related to your wireless
       adapter, see
-      <span class="link"><a href="#not-recognized" title="Wireless adapter was not recognized">the instructions below</a></span>.</p></li>
+      <span class="link"><a href="#not-recognized" title="Draadloze adapter niet herkend">the instructions below</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
 <div id="pcmcia" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Checking for a PCMCIA device</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Controleren op een PCMCIA-kaart</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">PCMCIA wireless adapters are typically rectangular cards which slot into
-  the side of your laptop. They are more commonly found in older computers. To
-  check if your PCMCIA adapter was recognized:</p>
+<p class="p">Draadloze PCMCIA-adapters zijn meestal rechthoekige kaarten die aan de zijkant van uw laptop worden aangesloten. Ze komen vaak voor op oudere computers. Hoe controleert u of uw draadloze PCMCIA-adapter werd herkend:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Start your computer <span class="em">without</span> the wireless adapter plugged
-      in.</p></li>
+<li class="steps"><p class="p">Start uw computer <span class="em">zonder</span> draadloos netwerk-adapter.</p></li>
 <li class="steps">
-<p class="p">Open a Terminal and type the following, then press
-      <span class="key"><kbd>Enter</kbd></span>:</p>
+<p class="p">Open een terminalvenster, typ het volgende in en druk daarna op <span class="key"><kbd>Enter</kbd></span>.</p>
 <div class="code"><pre class="contents ">tail -f /var/log/messages</pre></div>
-<p class="p">This will display a list of messages related to your computer's
+<p class="p">This will display a list of messages related to your computer’s
       hardware, and will automatically update if anything to do with your
       hardware changes.</p>
 </li>
-<li class="steps"><p class="p">Insert your wireless adapter into the PCMCIA slot and see what
-      changes in the Terminal window. The changes should include some
-      information about your wireless adapter. Look through them and see if you
-      can identify it.</p></li>
-<li class="steps"><p class="p">To stop the command from running in the Terminal, press
-      <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span>. After you have done that,
-      you can close the Terminal if you like.</p></li>
+<li class="steps"><p class="p">Steek uw draadloos netwerk-adapter in de PCMCIA-sleuf en kijk wat er verandert in het terminalvenster. Er zou enige informatie over uw draadloos netwerk-adapter te zien moeten zijn. Lees deze door en kijk of u hem kunt herkennen.</p></li>
+<li class="steps"><p class="p">Om het uitvoeren van een opdracht in de terminal te stoppen, druk op <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span>. Nadat u dat gedaan heeft kunt u de terminal sluiten als u wilt.</p></li>
 <li class="steps"><p class="p">If you found any information about your wireless adapter, proceed to
-      the <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Wireless network troubleshooter">Device
-      Drivers step</a></span>. If you didn't find anything related to your wireless
-      adapter, see <span class="link"><a href="#not-recognized" title="Wireless adapter was not recognized">the instructions
+      the <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Probleemoplosser draadloos netwerk">Device
+      Drivers step</a></span>. If you didn’t find anything related to your wireless
+      adapter, see <span class="link"><a href="#not-recognized" title="Draadloze adapter niet herkend">the instructions
       below</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
 <div id="not-recognized" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Wireless adapter was not recognized</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Draadloze adapter niet herkend</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">If your wireless adapter was not recognized, it might not be working
-  properly or the correct drivers may not be installed for it. How you check to
-  see if there are any drivers you can install will depend on which Linux
-  distribution you are using (like Ubuntu, Arch, Fedora or openSUSE).</p>
-<p class="p">To get specific help, look at the support options on your distribution's
+<p class="p">Wanneer uw draadloze adapter niet werd herkend, kan het zijn dat deze mogelijk niet goed werkt of dat het verkeerde stuurprogramma geïnstalleerd is. Hoe u kunt controleren of er stuurprogramma's zijn die u kunt installeren, hangt af van de GNU/Linux-distributie die u gebruikt (zoals Ubuntu, Arch, Fedora en openSUSE).</p>
+<p class="p">To get specific help, look at the support options on your distribution’s
   website. These might include mailing lists and web chats where you can ask
   about your wireless adapter, for example.</p>
 </div></div>
 </div></div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="Wireless network troubleshooter">Vorige</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="Wireless network troubleshooter">Volgende</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="Probleemoplosser draadloos netwerk">Vorige</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="Probleemoplosser draadloos netwerk">Volgende</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Wireless network troubleshooter">Wireless network troubleshooter</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
 </li></ul></div>
 </div></div></div>
 </div>

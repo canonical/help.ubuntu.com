@@ -52,8 +52,11 @@
 <p class="p">When you install Ubuntu, the language you select at installation gets
   installed together with English, but you can add further languages.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the <span class="em">system menu</span> and select <span class="gui">System Settings</span>.</p></li>
-<li class="steps"><p class="p">Στην ενότητα Προσωπικά, κάντε κλικ στην επιλογή <span class="gui">Γλωσσική υποστήριξη</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Activities</a></span> overview and
+      start typing <span class="gui">Region &amp; Language</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Manage Installed Languages</span> button to open <span class="gui">Language
+      Support</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Install / Remove Languages...</span>. The
       <span class="gui">Installed Languages</span> window lists all the available
       languages, with the currently installed languages checked.</p></li>

@@ -55,7 +55,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Hantera repeterade tangenttryckningar</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Som standard när du håller ner en tangent på ditt tangentbord kommer bokstaven eller symbolen att repeteras tills du släpper tangenten. Om du har svårt att lyfta upp fingret snabbt nog kan du inaktivera denna funktionen eller ändra hur länge det tar innan tangenttryckningar börjar repetera, eller hur snabbt tangenttryckningar repeteras.</p>
+<p class="p">Som standard när du håller ner en tangent på ditt tangentbord kommer bokstaven eller symbolen att repeteras tills du släpper tangenten. Om du har svårt att lyfta upp fingret snabbt nog kan du inaktivera denna funktion eller ändra hur länge det tar innan tangenttryckningar börjar repetera, eller hur snabbt tangenttryckningar repeteras.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öppna <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Hjälpmedel</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Hjälpmedel</span> för att öppna panelen.</p></li>

@@ -49,7 +49,10 @@
 <div class="hgroup"><h1 class="title"><span class="title">Εξαλείψτε τα πάντα σε έναν αφαιρούμενο δίσκο</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Εάν έχετε έναν αφαιρούμενο δίσκο, όπως μια μνήμη USB ή έναν εξωτερικό σκληρό δίσκο, μπορεί μερικές φορές να θέλετε να διαγράψετε πλήρως όλα τα αρχεία και τους φακέλους του. Μπορείτε να το κάνετε <span class="em">διαμορφώνοντας</span> τον δίσκο - αυτό θα διαγράψει όλα τα αρχεία στον δίσκο και θα τον αφήνει κενό.</p>
+<p class="p">If you have a removable disk, like a USB memory stick or an external hard
+ disk, you may sometimes wish to completely remove all of its files and
+ folders. You can do this by <span class="em">formatting</span> the disk — this deletes all
+ of the files on the disk and leaves it empty.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Διαμόρφωση ενός αφαιρούμενου δίσκου</span></h2></div>
 <div class="region"><ol class="steps">

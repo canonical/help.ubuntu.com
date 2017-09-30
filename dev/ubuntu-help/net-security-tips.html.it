@@ -67,7 +67,10 @@
 <p class="p">Per collegarsi in sicurezza, ricordare questi suggerimenti:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Diffidare di email, allegati o collegamenti inviati da sconosciuti.</p></li>
-<li class="list"><p class="p">Se un'offerta di un sito web è troppo buona per essere vera, o vengono richiesti dati sensibili che non sembrano essere necessari, riflettere attentamente sul tipo di informazioni che si sta per inviare e sulle potenziali conseguenze dell'acquisizione di tali informazioni da parte di ladri d'identità o altri criminali.</p></li>
+<li class="list"><p class="p">If a website’s offer is too good to be true, or asks for sensitive
+      information that seems unnecessary, then think twice about what
+      information you are submitting and the potential consequences if that
+      information is compromised by identity thieves or other criminals.</p></li>
 <li class="list"><p class="p">Be careful in providing
       <span class="link"><a href="user-admin-explain.html" title="Come funzionano i privilegi di amministrazione?">root level permissions</a></span> to any
       application, especially ones that you have not used before or which are

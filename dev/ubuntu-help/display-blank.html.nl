@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Set screen blanking time</title>
+<title>De tijd voordat het scherm zwart wordt instellen</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,35 +44,29 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="power.html" title="Power &amp; battery">Power &amp; battery</a> › <a class="trail" href="power.html#saving" title="Power saving settings">Power saving settings</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="power.html" title="Voeding &amp; accu">Voeding &amp; accu</a> › <a class="trail" href="power.html#saving" title="Energiebesparing-instellingen">Energiebesparing-instellingen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Common problems">Problems</a> » <a class="trail" href="hardware-problems-graphics.html" title="Screen problems">Screen problems</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="power.html" title="Voeding &amp; accu">Voeding &amp; accu</a> › <a class="trail" href="power.html#saving" title="Energiebesparing-instellingen">Energiebesparing-instellingen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="prefs-display.html" title="Display &amp; screen">Display &amp; screen</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="prefs-display.html" title="Weergave &amp; scherm">Weergave &amp; scherm</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="power.html" title="Power &amp; battery">Power &amp; battery</a> › <a class="trail" href="power.html#saving" title="Power saving settings">Power saving settings</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="hardware-problems-graphics.html" title="Schermproblemen">Schermproblemen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Set screen blanking time</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">De tijd voordat het scherm zwart wordt instellen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">To save power, you can adjust the time before the screen blanks when left
-  idle. You can also disable the blanking completely.</p>
+<p class="p">Om energie te sparen, kunt u de tijd voordat het scherm zwart wordt wanneer het niet gebruikt wordt aanpassen. U kunt ook het zwart worden van het scherm volledig uitschakelen.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">To set the screen blanking time:</span></h2></div>
+<div class="title title-steps"><h2><span class="title">De tijd voordat het scherm zwart wordt instellen:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span>
-      overview and start typing <span class="gui">Power</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Power</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Use the <span class="gui">Blank screen</span> drop-down list under <span class="gui">Power
-      Saving</span> to set the time until the screen blanks, or disable the blanking
-      completely.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Energie</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Energie</span> om het paneel te openen.</p></li>
+<li class="steps"><p class="p">Gebruik de keuzelijst <span class="gui">Zwart scherm</span> onder <span class="gui">Energiebesparing</span> om de tijd in te stellen voordat het scherm zwart wordt, of schakel zwart scherm  volledig uit.</p></li>
 </ol></div>
 </div></div>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">When your computer is left idle, the screen will automatically lock
-    itself for security reasons. To change this behavior, see
-    <span class="link"><a href="session-screenlocks.html" title="The screen locks itself too quickly">The screen locks itself too quickly</a></span>.</p></div></div></div></div>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Wanneer uw computer inactief is, zal het scherm om veiligheidsredenen automatisch vergrendeld worden. Zie voor het wijzigen van dit gedrag <span class="link"><a href="session-screenlocks.html" title="Het scherm vergrendeld zichzelf te snel">Het scherm vergrendeld zichzelf te snel</a></span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -80,17 +74,15 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul>
+<li class="links "><a href="power.html#saving" title="Energiebesparing-instellingen">Energiebesparing-instellingen</a></li>
 <li class="links ">
-<a href="prefs-display.html" title="Display &amp; screen">Display &amp; screen</a><span class="desc"> — 
+<a href="hardware-problems-graphics.html" title="Schermproblemen">Schermproblemen</a><span class="desc"> — Grafische problemen en problemen met het scherm oplossen.</span>
+</li>
+<li class="links ">
+<a href="prefs-display.html" title="Weergave &amp; scherm">Weergave &amp; scherm</a><span class="desc"> — 
       <span class="link"><a href="look-background.html" title="Change the desktop and lock screen backgrounds">Background</a></span>,
       <span class="link"><a href="look-resolution.html" title="Change the resolution or rotation of the screen">size and rotation</a></span>,
       brightness…
-    </span>
-</li>
-<li class="links "><a href="power.html#saving" title="Power saving settings">Power saving settings</a></li>
-<li class="links ">
-<a href="hardware-problems-graphics.html" title="Screen problems">Screen problems</a><span class="desc"> — 
-      Troubleshoot screen and graphics problems.
     </span>
 </li>
 </ul></div>
@@ -99,8 +91,7 @@
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="session-screenlocks.html" title="The screen locks itself too quickly">The screen locks itself too quickly</a><span class="desc"> — Change how long to wait before locking the screen in the
-    <span class="gui">Privacy</span> settings.</span>
+<a href="session-screenlocks.html" title="Het scherm vergrendeld zichzelf te snel">Het scherm vergrendeld zichzelf te snel</a><span class="desc"> — Wijzigen hoe lang er gewacht moet worden voordat het scherm vergrendeld wordt in de <span class="gui">Privacy</span>-instellingen.</span>
 </li>
 <li class="links ">
 <a href="power-whydim.html" title="Waarom wordt mijn scherm na enige tijd zwart?">Waarom wordt mijn scherm na enige tijd zwart?</a><span class="desc"> — The screen will dim when the computer is idle in order to save power.</span>

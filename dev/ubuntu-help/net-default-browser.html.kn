@@ -62,7 +62,7 @@
 <li class="steps"><p class="p">Choose which web browser you would like to open links by
       changing the <span class="gui">Web</span> option.</p></li>
 </ol></div></div></div>
-<p class="p">When you open up a different web browser, it might tell you that it's not
+<p class="p">When you open up a different web browser, it might tell you that it’s not
   the default browser any more. If this happens, click the <span class="gui">Cancel</span>
   button (or similar) so that it does not try to set itself as the default
   browser again.</p>

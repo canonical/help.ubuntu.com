@@ -182,7 +182,7 @@
 <div class="region"><ul>
 <li class="links "><a href="shell-overview.html#apps" title="Aplicaciones y ventanas">Aplicaciones y ventanas</a></li>
 <li class="links ">
-<a href="keyboard.html" title="Teclado">Teclado</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">distribuciones de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Hacer que parpadee el cursor del teclado">parpadeo del cursor</a></span>, <span class="link"><a href="a11y.html#mobility" title="Deficiencias motoras">accesibilidad del teclado</a></span>…</span>
+<a href="keyboard.html" title="Teclado">Teclado</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Usar distribuciones de teclado alternativas">distribuciones de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Hacer que parpadee el cursor del teclado">parpadeo del cursor</a></span>, <span class="link"><a href="a11y.html#mobility" title="Deficiencias motoras">accesibilidad del teclado</a></span>…</span>
 </li>
 <li class="links ">
 <a href="tips.html" title="Trucos y consejos">Trucos y consejos</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Insertar caracteres especiales">Caracteres especiales</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Pulsación central">atajos del botón del medio</a></span>…</span>

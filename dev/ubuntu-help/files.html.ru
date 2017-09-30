@@ -77,10 +77,12 @@
 <div class="linkdiv "><a class="linkdiv" href="files-share.html" title="Обмен файлами по почте"><span class="title">Обмен файлами по почте</span><span class="linkdiv-dash"> — </span><span class="desc">Простая отправка файлов контактам в почту из менеджера файлов.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-open.html" title="Открытие файлов в другом приложении"><span class="title">Открытие файлов в другом приложении</span><span class="linkdiv-dash"> — </span><span class="desc">Открытие файлов в приложении, не используемом по умолчанию для файлов этого типа. Изменение приложения по умолчанию.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-open.html" title="Открытие файлов в другом приложении"><span class="title">Открытие файлов в другом приложении</span><span class="linkdiv-dash"> — </span><span class="desc">Open files using an application that isn’t the default one for that
+    type of file. You can change the default too.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="privacy-purge.html" title="Очистка корзины и удаление временных файлов"><span class="title">Очистка корзины и удаление временных файлов</span><span class="linkdiv-dash"> — </span><span class="desc">Настройка частоты очистки корзины и удаления временных файлов.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="nautilus-prefs.html" title="Параметры менеджера файлов"><span class="title">Параметры менеджера файлов</span><span class="linkdiv-dash"> — </span><span class="desc">View and set preferences for the file browser.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-lost.html" title="Поиск потерянного файла"><span class="title">Поиск потерянного файла</span><span class="linkdiv-dash"> — </span><span class="desc">Воспользуйтесь этими советами, если не можете найти созданный или загруженный вами файл.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-lost.html" title="Поиск потерянного файла"><span class="title">Поиск потерянного файла</span><span class="linkdiv-dash"> — </span><span class="desc">Follow these tips if you can’t find a file you created or
+    downloaded.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-basic.html" title="Свойства файла"><span class="title">Свойства файла</span><span class="linkdiv-dash"> — </span><span class="desc">Просмотр информации о файле, установка прав доступа и выбор приложения по умолчанию.</span></a></div>
 </div>
 </div></div></div></div></div>

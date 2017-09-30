@@ -67,7 +67,11 @@
       <span class="gui">Hardware Address</span> in the <span class="gui">Details</span> panel.</p>
 </li>
 </ol></div></div></div>
-<p class="p">En pratique, vous pouvez être amené à modifier ou « usurper » une adresse MAC. Par exemple, certains fournisseurs de services internet peuvent exiger une adresse MAC spécifique pour accéder à leurs services. Si votre carte réseau tombe en panne et que vous devez la changer, ce service sera interrompu. Dans ces cas-là, vous serez amené à usurper l'adresse MAC.</p>
+<p class="p">In practice, you may need to modify or “spoof” a MAC address. For example,
+  some internet service providers may require that a specific MAC address be
+  used to access their service. If the network card stops working, and you need
+  to swap a new card in, the service won’t work anymore. In such cases, you
+  would need to spoof the MAC address.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

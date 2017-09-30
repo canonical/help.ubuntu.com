@@ -54,8 +54,18 @@
 <div class="region">
 <div class="contents">
 <p class="p">Τα προφίλ χρώματος που έχετε δημιουργήσει οι ίδιοι περιορίζονται στο υλικό και τις συνθήκες φωτισμού που βαθμονομήσατε. Μια οθόνη που έχει τροφοδοτηθεί για μερικές εκατοντάδες ώρες πρόκειται να έχει ένα πολύ διαφορετικό προφίλ χρώματος με μια παρόμοια οθόνη με τον επόμενο σειραϊκό αριθμό που έχει ανάψει για χιλιάδες ώρες.</p>
-<p class="p">Αυτό σημαίνει ότι εάν μοιράζεστε το προφίλ χρώματός σας με κάποιον, μπορεί να τις <span class="em">πλησιάζετε</span> στη βαθμονόμηση, αλλά είναι παραπλανητικό στην καλύτερη περίπτωση, να πούμε ότι η οθόνη τους είναι βαθμονομημένη.</p>
-<p class="p">Παρόμοια, εκτός και αν ο καθένας έχει ελεγχόμενο φωτισμό (χωρίς ηλιακό φως από παράθυρα, μαύρους τοίχους γλόμπους φωτός ημέρας κλπ.) σε ένα δωμάτιο όπου η προβολή και επεξεργασία εικόνων λαμβάνει χώρα, η κοινή χρήση ενός προφίλ που δημιουργήσατε στις δικές σας συγκεκριμένες συνθήκες φωτισμού δεν έχει πολύ νόημα.</p>
+<p class="p">
+    This means if you share your color profile with somebody, you might
+    be getting them <span class="em">closer</span> to calibration, but it’s misleading
+    at best to say that their display is calibrated.
+  </p>
+<p class="p">
+    Similarly, unless everyone has recommended controlled lighting
+    (no sunlight from windows, black walls, daylight bulbs etc.) in a
+    room where viewing and editing images takes place, sharing a profile
+    that you created in your own specific lighting conditions doesn’t make
+    a lot of sense.
+  </p>
 <div class="note note-warning" title="Προειδοποίηση"><div class="inner"><div class="region"><div class="contents"><p class="p">Θα πρέπει να ελέγξετε προσεκτικά τις συνθήκες αναδιανομής για προφίλ που ελήφθησαν από ιστοτόπους πωλητών ή δημιουργήθηκαν για σας.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">

@@ -69,11 +69,11 @@
 <li class="steps"><p class="p">Switch <span class="gui">Media Sharing</span> to <span class="gui">ON</span>.</p></li>
 <li class="steps"><p class="p">By default, <span class="file">Music</span>, <span class="file">Pictures</span> and 
       <span class="file">Videos</span> are shared. To remove one of these, click the
-      <span class="gui">X</span> next to the folder name.</p></li>
+      <span class="gui">×</span> next to the folder name.</p></li>
 <li class="steps"><p class="p">To add another folder, click <span class="gui">+</span> to open the
       <span class="gui">Choose a folder</span> window. Navigate <span class="em">into</span> the desired
       folder and click <span class="gui">Open</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">X</span>. You will now be able to browse
+<li class="steps"><p class="p">Click <span class="gui">×</span>. You will now be able to browse
       or play media in the folders you selected using the external device.</p></li>
 </ol></div></div></div>
 </div>

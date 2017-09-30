@@ -2,7 +2,7 @@
 <html lang=gl-GL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Non podo reproducir as cancións que comprei nunha tenda de música en liña</title>
+<title>I can’t play the songs I bought from an online music store</title>
 <link rel="stylesheet" type="text/css" href="gl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,12 +46,12 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Son, vídeo e imaxes">Son, vídeo e imaxes</a> › <a class="trail" href="media.html#music" title="Música e reprodutores de son portátiles">Música e reprodutores</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Non podo reproducir as cancións que comprei nunha tenda de música en liña</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">I can’t play the songs I bought from an online music store</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Se descarga música dunha tenda en liña, é posíbel que non poida reproducila no seu computador, especialmente se a comprou desde un computador Windows ou Mac OS e logo a copiou.</p>
-<p class="p">Isto débese a que a música está nun formato que o seu computador non recoñece. Para poder reproducir unha canción debe ter instalado a compatibilidade para o formato de son axeitado, por exemplo, se desexa reproducir un ficheiro MP3, debe instalar a compatibilidade de MP3. Se non ten compatibilidade para un formato de ficheiros concreto, verá unha mensaxe indicándoo cando tente reproducir unha canción. A mensaxe ademais daralle instrucións sobre como instalar a compatibilidade para este formato de forma que poida reproducilo.</p>
-<p class="p">Se ten instalada compatibilidade para o formato de son da canción pero aínda así non pode escoitala, a canción podería ter <span class="em">protección fronte a copia</span> (tamén coñecido como <span class="em">restricción DRM</span>). O DRM é unha forma de restrinxir quen pode reproucir unha canción e en que dispositivos pode facelo. A compañía que lle vendeu a canción controla todo isto, non vostede. Se o ficheiro de música ten restriccións DRM, probabelmente non poderá reproducila - xeralmente precisa dun software especial do fabricante para reproducir ficheiros restrinxidos por DRM, porén este software normalmente non é compatíbel con Linux.</p>
+<p class="p">If you downloaded some music from an online store you may find that it won’t play on your computer, especially if you bought it on a Windows or Mac OS computer and then copied it over.</p>
+<p class="p">This could be because the music is in a format that is not recognized by your computer. To be able to play a song you need to have support for the right audio formats installed — for example, if you want to play MP3 files, you need MP3 support installed. If you don’t have support for a given audio format, you should see a message telling you so when you try to play a song. The message should also provide instructions for how to install support for that format so that you can play it.</p>
+<p class="p">If you do have support installed for the song’s audio format but still can’t play it, the song might be <span class="em">copy protected</span> (also known as being <span class="em">DRM restricted</span>). DRM is a way of restricting who can play a song and on what devices they can play it. The company that sold the song to you is in control of this, not you. If a music file has DRM restrictions, you will probably not be able to play it — you generally need special software from the vendor to play DRM restricted files, but this software is often not supported on Linux.</p>
 <p class="p">Pode aprender máis sobre o DRM na <span class="link"><a href="http://www.eff.org/issues/drm" title="http://www.eff.org/issues/drm">Electronic Frontier Foundation</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">

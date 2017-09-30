@@ -78,7 +78,7 @@
     eye, and even encode colors that the eye cannot detect!
   </p>
 <p class="p">
-    Now, if ProPhoto is clearly better, why don't we use it for everything?
+    Now, if ProPhoto is clearly better, why don’t we use it for everything?
     The answer is to do with <span class="em">quantization</span>.
     If you only have 8 bits (256 levels) to encode each channel, then a
     larger range is going to have bigger steps between each value.

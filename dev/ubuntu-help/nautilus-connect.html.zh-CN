@@ -59,7 +59,7 @@ application from the <span class="gui">Activities</span> overview, and click
 <span class="gui">Other Locations</span> in the sidebar. The file manager
 will find any computers on your local area network that advertize
 their ability to serve files. If you want to connect to a server
-on the internet, or if you do not see the computer you're looking
+on the internet, or if you do not see the computer you’re looking
 for, you can manually connect to a server by typing in its
 internet/network address.</p>
 <div class="steps"><div class="inner">
@@ -109,7 +109,8 @@ internet/network address.</p>
 <p class="p">如果您有服务器的<span class="em">SSH</span>帐号，您可以使用它来连接。许多网络主机提供 SSH 帐户，成员可以安全上传文件，SSH 服务器总是需要用户登录。</p>
 <p class="p">典型的 SSH 网址如下所示：</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ssh://username@servername.example.com/folder</span></p></div></div></div></div>
-<p class="p">在使用 SSH 时，您发送的所有数据(包括密码)都是经过加密的，因此网络中的其他人不能截获它。</p>
+<p class="p">When using SSH, all the data you send (including your password)
+  is encrypted so that other users on your network can’t see it.</p>
 </dd>
 <dt class="terms">FTP (需登录)</dt>
 <dd class="terms">
@@ -139,7 +140,11 @@ internet/network address.</p>
 </dd>
 <dt class="terms">WebDAV 和安全 WebDAV</dt>
 <dd class="terms">
-<p class="p">WebDAV 基于 HTTP 协议，它有时用于局域网中共享文件，或者在互联网中存储文件。如果您连接的服务器支持加密连接，您可以选中此项。安全 WebDAV 使用更强的 SSL 加密，因此他人无法查看您的密码。</p>
+<p class="p">Based on the HTTP protocol used on the web, WebDAV is sometimes used to
+  share files on a local network and to store files on the internet. If the
+  server you’re connecting to supports secure connections, you should choose
+  this option. Secure WebDAV uses strong SSL encryption, so that other users
+  can’t see your password.</p>
 <p class="p">A WebDAV URL looks like this:</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">dav://example.hostname.com/path</span></p></div></div></div></div>
 </dd>

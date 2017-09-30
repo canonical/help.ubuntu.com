@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>File manager display preferences</title>
+<title>Bestandsbeheer-weergavevoorkeuren</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,22 +43,19 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » <a class="trail" href="nautilus-prefs.html" title="File manager preferences">File manager preferences</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a> » <a class="trail" href="nautilus-prefs.html" title="Bestandsbeheer-voorkeuren">Bestandsbeheer-voorkeuren</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">File manager display preferences</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Bestandsbeheer-weergavevoorkeuren</span></h1></div>
 <div class="region">
 <div class="contents"><p class="p">You can control how the file manager displays captions under icons.  Click
 <span class="gui">Files</span> in the top bar, pick <span class="gui">Preferences</span> and select the
 <span class="gui">Display</span> tab.</p></div>
 <div id="icon-captions" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Icon captions</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Pictogrambijschriften</span></h2></div>
 <div class="region"><div class="contents">
-<div class="media media-image floatend"><div class="inner"><img src="figures/nautilus-icons.png" height="110" width="250" class="media media-block" alt="File manager icons with captions"></div></div>
-<p class="p">When you use icon view, you can choose to have extra information about
-  files and folders displayed in a caption under each icon. This is useful,
-  for example, if you often need to see who owns a file or when it was last
-  modified.</p>
+<div class="media media-image floatend"><div class="inner"><img src="figures/nautilus-icons.png" height="110" width="250" class="media media-block" alt="Bestandsbeheerder-pictogrammen met bijschriften"></div></div>
+<p class="p">Wanneer u pictogrammenweergave gebruikt, kunt u kiezen voor het weergeven van extra informatie over bestanden en mappen in een bijschrift onder elk pictogram. Dit is bijvoorbeeld nuttig als u vaak wilt zien wie de eigenaar van een bestand is of wanneer het voor het laatst gewijzigd is.</p>
 <p class="p">You can zoom in a folder by clicking the view options button in the
   
   toolbar and choosing a zoom level with the slider. As you zoom in, the
@@ -71,7 +68,7 @@
 </div></div>
 </div></div>
 <div id="list-view" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">List View</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Lijstweergave</span></h2></div>
 <div class="region"><div class="contents"><p class="p">When viewing files as a list, you can <span class="gui">Navigate folders in a
   tree</span>. This shows expanders on each directory in the file list, so
   that the contents of several folders can be shown at once. This is useful if
@@ -83,7 +80,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="File manager preferences">File manager preferences</a><span class="desc"> — View and set preferences for the file browser.</span>
+<a href="nautilus-prefs.html" title="Bestandsbeheer-voorkeuren">Bestandsbeheer-voorkeuren</a><span class="desc"> — Voorkeuren voor de bestandsbeheerder bekijken en instellen.</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -50,7 +50,8 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="linkdiv "><a class="linkdiv" href="net-wired-connect.html" title="Подключение к проводной (Ethernet) сети"><span class="title">Подключение к проводной (Ethernet) сети</span><span class="linkdiv-dash"> — </span><span class="desc">Всё, что нужно для настройки большинства проводных сетевых соединений — это подключить сетевой кабель.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-manual.html" title="Настройка параметров соединения вручную"><span class="title">Настройка параметров соединения вручную</span><span class="linkdiv-dash"> — </span><span class="desc">Если настройки сети не назначаются автоматически, придётся задать их вручную.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-manual.html" title="Настройка параметров соединения вручную"><span class="title">Настройка параметров соединения вручную</span><span class="linkdiv-dash"> — </span><span class="desc">You may have to enter network settings if they don’t get assigned
+    automatically.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-vpn-connect.html" title="Подключение к VPN"><span class="title">Подключение к VPN</span><span class="linkdiv-dash"> — </span><span class="desc">Настройка VPN-соединения до локальной сети через интернет.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-fixed-ip-address.html" title="Создание соединения с фиксированным IP-адресом"><span class="title">Создание соединения с фиксированным IP-адресом</span><span class="linkdiv-dash"> — </span><span class="desc">Использование статического IP-адреса может упростить предоставление компьютером некоторых сетевых услуг.</span></a></div>
 </div></div></div></div>

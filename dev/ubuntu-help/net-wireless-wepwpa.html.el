@@ -49,7 +49,12 @@
 <div class="hgroup"><h1 class="title"><span class="title">Τι σημαίνουν τα WEP και WPA;</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Τα WEP και WPA (μαζί με WPA2) είναι ονόματα για διαφορετικά χρησιμοποιούμενα εργαλεία κρυπτογράφησης για να εξασφαλίσουν την ασύρματη σύνδεση σας. Η κρυπτογράφηση παρεμβάλλεται στη σύνδεση δικτύου έτσι ώστε κανένας να μην μπορεί να την "ακούσει" και να κοιτάξει σε ποιες ιστοσελίδες βλέπετε, για παράδειγμα. Το WEP σημαίνει <span class="em">ενσύρματη ισοδύναμη ιδιωτικότητα</span> και WPA σημαίνει <span class="em">ασύρματη προστατευμένη πρόσβαση</span>. WPA2 είναι η δεύτερη έκδοση του προτύπου WPA.</p>
+<p class="p">WEP and WPA (along with WPA2) are names for different encryption tools
+  used to secure your wireless connection. Encryption scrambles the network
+  connection so that no one can “listen in” to it and look at which web pages
+  you are viewing, for example. WEP stands for <span class="em">Wired Equivalent
+  Privacy</span>, and WPA stands for <span class="em">Wireless Protected Access</span>. WPA2 is
+  the second version of the WPA standard.</p>
 <p class="p">Χρησιμοποιώντας <span class="em">κάποια</span> κρυπτογράφηση είναι πάντα καλύτερα από καμία, αλλά το WEP είναι το λιγότερο ασφαλές από αυτά τα πρότυπα και δεν θα πρέπει να το χρησιμοποιήσετε εάν μπορείτε να το αποφύγετε. Το WPA2 είναι το πιο ασφαλές από τα τρία. Εάν η ασύρματη κάρτα σας και ο δρομολογητής υποστηρίζουν WPA2, θα πρέπει να το χρησιμοποιήσετε όταν ρυθμίζετε το ασύρματο δίκτυό σας.</p>
 </div>
 <div class="sect sect-links" role="navigation">

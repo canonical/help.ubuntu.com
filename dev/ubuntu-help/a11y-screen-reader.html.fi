@@ -49,11 +49,9 @@
 <div class="hgroup"><h1 class="title"><span class="title">Lue näytön sisältöä ääneen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">GNOME provides the <span class="app">Orca</span> screen reader to speak the user
-  interface. Depending on how you installed GNOME, you might not have
-  Orca installed. If not, install Orca first.</p>
-<p class="p">To start <span class="app">Orca</span> using the keyboard:</p>
-<div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps"><p class="p">Press <span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>S</kbd></span>.</p></li></ol></div></div></div>
+<p class="p">GNOME tarjoaa <span class="app">Orca</span>-näytönlukijan käyttöliittymän jatkuvaan pistekirjoituksella lukemiseen. Orca ei välttämättä ole asennettuna koneellesi oletuksena, joten asenna Orca ennen kuin jatkat.</p>
+<p class="p">Käynnistä <span class="app">Orca</span> näppäimistöllä seuraavasti:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps"><p class="p">Paina <span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>S</kbd></span>.</p></li></ol></div></div></div>
 <p class="p">Or to start <span class="app">Orca</span> using a mouse and keyboard:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
@@ -68,8 +66,7 @@
     <span class="link"><a href="a11y-icon.html" title="Löydä esteettömyystoimintojen valikko">accessibility icon</a></span> in the top bar and
     selecting <span class="gui">Screen Reader</span>.</p></div></div>
 </div></div>
-<p class="p">Refer to the <span class="link"><a href="help:orca" title="help:orca">Orca Help</a></span> for
-  more information.</p>
+<p class="p">Lisätietoja on saatavilla <span class="link"><a href="help:orca" title="help:orca">Orcan ohjeesta</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

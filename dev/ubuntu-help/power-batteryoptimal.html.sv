@@ -57,7 +57,7 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Låt inte batteriet laddas ur helt. Ladda alltid <span class="em">innan</span> batteriet blir väldigt lågt, även om de flesta batteri har inbyggda skyddsmekanismer för att förhindra att batteriet blir allt för lågt. Att ladda när det bara är delvis urladdat är mer effektivt, men att ladda när det bara är lite urladdat är värre för batteriet.</p></li>
 <li class="list"><p class="p">Värme har en skadlig effekt på batteriets laddningseffektivitet. Låt inte batteriet blir varmare än nödvändigt.</p></li>
-<li class="list"><p class="p">Batteriet åldras även om du låter dem ligga. Det är bara en liten vinst att köpa ett ersättningsbatteri samtidigt som du köper originalbatteriet - köp alltid ersättningsbatteriet när du behöver dem.</p></li>
+<li class="list"><p class="p">Batterier åldras även om du låter dem ligga. Det är bara en liten vinst att köpa ett ersättningsbatteri samtidigt som du köper originalbatteriet — köp alltid ersättningsbatterier när du behöver dem.</p></li>
 </ul></div></div></div>
 <div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">Detta råd gäller speciellt för litiumjonbatterier (Li-Ion) vilket är den vanligaste typen. Andra typer av batteriet kan dra fördel av annan behandling.</p></div></div></div></div>
 </div>

@@ -49,7 +49,10 @@
 <div class="hgroup"><h1 class="title"><span class="title">Ustvaritev brezžične dostopne točke</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Svoj računalnik lahko uporabite kot brezžično dostopno točno. To drugim napravam omogoča povezavo z vami brez ločenega omrežja in vam omogoča souporabo internetne povezave z drugim vmesnikom kot je žično omrežje ali preko mobilnega omrežja.</p>
+<p class="p">You can use your computer as a wireless hotspot. This allows other devices
+  to connect to you without a separate network, and allows you to share an
+  internet connection you’ve made with another interface, such as to a wired
+  network or over the cellular network.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#yourname" title="Vi in vaš računalnik">system menu</a></span> from the right
     side of the top bar.</p></li>
@@ -58,13 +61,15 @@
       Wi-Fi Not Connected</span> or the name of the wireless network to which
     you are already connected. The Wi-Fi section of the menu will expand.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Wi-Fi Settings</span>.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Use as Hotspot...</span> button.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Use as Hotspot…</span> button.</p></li>
 <li class="steps"><p class="p">If you are already connected to a wireless network, you will be
   asked if you want to disconnect from that network. A single wireless adapter
   can connect to or create only one network at a time. Click <span class="gui">Turn On</span>
   to confirm.</p></li>
 </ol></div></div></div>
-<p class="p">Ime omrežja (SSID) in varnostni ključ sta samodejno ustvarjena. Ime omrežja bo osnovano na imenu računalnika. Druge naprave te podatke potrebujejo za povezavo z dostopno točko, ki ste jo pravkar ustvarili.</p>
+<p class="p">A network name (SSID) and security key are automatically generated.
+The network name will be based on the name of your computer. Other devices
+will need this information to connect to the hotspot you’ve just created.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

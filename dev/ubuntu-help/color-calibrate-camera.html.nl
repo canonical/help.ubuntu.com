@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>How do I calibrate my camera?</title>
+<title>Hoe kalibreer ik mijn camera?</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,57 +44,40 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="color.html" title="Color management">Color management</a> › <a class="trail" href="color.html#calibration" title="Calibration">Calibration</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html#calibration" title="Kalibratie">Kalibratie</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="color.html" title="Color management">Color management</a> › <a class="trail" href="color.html#calibration" title="Calibration">Calibration</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html#calibration" title="Kalibratie">Kalibratie</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">How do I calibrate my camera?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Hoe kalibreer ik mijn camera?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    Camera devices are calibrated by taking a photograph of a target
-    under the desired lighting conditions.
-    By converting the RAW file to a TIFF file, it can be used to
-    calibrate the camera device in the color control panel.
-  </p>
-<p class="p">
-    You will need to crop the TIFF file so that just the target is
-    visible. Ensure the white or black borders are still visible.
-    Calibration will not work if the image is upside-down or is
-    distorted by a large amount.
-  </p>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">
-      The resulting profile is only valid under the lighting condition
-      that you acquired the original image from.
-      This means you might need to profile several times for
-      <span class="em">studio</span>, <span class="em">bright sunlight</span> and <span class="em">cloudy</span>
-      lighting conditions.
-    </p></div></div></div></div>
+<p class="p">Camera's worden gekalibreerd door een foto van een doel te nemen onder bepaalde lichtcondities. Door het converteren van het RAW-bestand naar een TIFF-bestand, kan dit gebruikt worden om de camera te kalibreren in het kleurbeheerpaneel.</p>
+<p class="p">U dient het TIFF-bestand bij te snijden zodat alleen het doel zichtbaar is. Zorg ervoor dat de witte of zwarte randen nog zichtbaar zijn. Kalibratie zal niet werken als de afbeelding op zijn kop staat of erg vervormd is.</p>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Het resulterende profiel is alleen geldig voor de lichtcondities waaronder u de originele afbeelding heeft verkregen. Mogelijk dient u extra profielen aan te maken voor de lichtcondities <span class="em">studio</span>, <span class="em">fel zonlicht</span> en <span class="em">bewolkt</span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#calibration" title="Calibration">Calibration</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html#calibration" title="Kalibratie">Kalibratie</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-calibrate-printer.html" title="How do I calibrate my printer?">How do I calibrate my printer?</a><span class="desc"> — Calibrating your printer is important to print accurate colors.</span>
+<a href="color-calibrate-printer.html" title="Hoe kalibreer ik mijn printer?">Hoe kalibreer ik mijn printer?</a><span class="desc"> — Het kalibreren van uw printer is belangrijk voor het afdrukken van accurate kleuren.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-scanner.html" title="How do I calibrate my scanner?">How do I calibrate my scanner?</a><span class="desc"> — Calibrating your scanner is important to capture accurate colors.</span>
+<a href="color-calibrate-scanner.html" title="Hoe kalibreer ik mijn scanner">Hoe kalibreer ik mijn scanner</a><span class="desc"> — Kalibreren van uw scanner is belangrijk om kleuren nauwkeurig vast te leggen.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-screen.html" title="How do I calibrate my screen?">How do I calibrate my screen?</a><span class="desc"> — Calibrating your screen is important to display accurate
-    colors.</span>
+<a href="color-calibrate-screen.html" title="Hoe kalibreer ik mijn scherm?">Hoe kalibreer ik mijn scherm?</a><span class="desc"> — Kalibreren van uw scherm is belangrijk om kleuren nauwkeurig vast te leggen.</span>
 </li>
 <li class="links ">
-<a href="color-calibrationtargets.html" title="Which target types are supported?">Which target types are supported?</a><span class="desc"> — Calibration targets are needed to do scanner and camera profiling.</span>
+<a href="color-calibrationtargets.html" title="Welke doeltypen worden ondersteund?">Welke doeltypen worden ondersteund?</a><span class="desc"> — Kalibratiedoelen zijn nodig om scanner- en cameraprofielen aan te kunnen maken.</span>
 </li>
 </ul></div>
 </div></div>

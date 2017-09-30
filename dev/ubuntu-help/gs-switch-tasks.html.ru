@@ -57,9 +57,11 @@
 <video src="figures/gnome-task-switching.webm" preload="auto" controls="controls" class="media media-block" height="394" width="700" data-play-label="Воспроизвести" data-pause-label="Пауза"></video><div class="media-ttml">
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="1" data-ttml-end="5"><div class="media-ttml-node media-ttml-p" data-ttml-begin="1" data-ttml-end="5">Переключение между задачами</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="9" data-ttml-end="12"><div class="media-ttml-node media-ttml-p" data-ttml-begin="9" data-ttml-end="12">Нажмите на окно, чтобы переключиться на эту задачу.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="12" data-ttml-end="14"><div class="media-ttml-node media-ttml-p" data-ttml-begin="12" data-ttml-end="14">Чтобы растянуть окно вдоль левой стороны экрана, перетащите заголовок окна влево.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="12" data-ttml-end="14"><div class="media-ttml-node media-ttml-p" data-ttml-begin="12" data-ttml-end="14">To maximize a window along the left side of the screen, grab
+            the window’s titlebar and drag it to the left.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="14" data-ttml-end="16"><div class="media-ttml-node media-ttml-p" data-ttml-begin="14" data-ttml-end="16">Когда в левой половине экрана появится подсветка, отпустите окно.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="16" data-ttml-end="0"><div class="media-ttml-node media-ttml-p" data-ttml-begin="16" data-ttml-end="0">Чтобы максимально раскрыть окно вдоль левой стороны экрана, перетащите заголовок окна вправо.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="16" data-ttml-end="0"><div class="media-ttml-node media-ttml-p" data-ttml-begin="16" data-ttml-end="0">To maximize a window along the right side, grab the window’s
+            titlebar and drag it to the right.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="18" data-ttml-end="20"><div class="media-ttml-node media-ttml-p" data-ttml-begin="18" data-ttml-end="20">Когда в левой половине экрана появится подсветка, отпустите окно.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="23" data-ttml-end="27"><div class="media-ttml-node media-ttml-p" data-ttml-begin="23" data-ttml-end="27">Чтобы открыть <span class="gui">переключатель окон</span>, нажмите <span class="keyseq"><span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>+<span class="key"><kbd> Tab</kbd></span></span>.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="27" data-ttml-end="29"><div class="media-ttml-node media-ttml-p" data-ttml-begin="27" data-ttml-end="29">Чтобы выбрать следующее выделенное окно, отпустите клавишу <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super </kbd></a></span>.</div></div>
@@ -83,7 +85,8 @@
 <div id="switching-tasks-tiling" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Плиточное расположение окон</span></h2></div>
 <div class="region"><div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Чтобы развернуть окно вдоль правой или левой стороны экрана, перетащите заголовок окна на правую или на левую сторону экрана.</p></li>
+<li class="steps"><p class="p">To maximize a window along a side of the screen, grab the window’s
+       titlebar and drag it to the left or right side of the screen.</p></li>
 <li class="steps"><p class="p">При появлении на экране подсветки отпустите окно, чтобы оно заняло на экране всю выделенную область.</p></li>
 <li class="steps"><p class="p">Чтобы развернуть два окна рядом друг с другом, перетащите заголовок второго окна на противоположную сторону экрана.</p></li>
 <li class="steps"><p class="p">При появлении на экране подсветки отпустите окно, чтобы оно заняло на экране всю противоположную область.</p></li>

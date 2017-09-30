@@ -60,7 +60,11 @@
 <dd class="terms"><p class="p">Μπορείτε να μετονομάσετε το αρχείο αλλάζοντας αυτό το πεδίο. Μπορείτε επίσης να μετονομάσετε ένα αρχείο έξω από το παράθυρο ιδιοτήτων. Δείτε <span class="link"><a href="files-rename.html" title="Μετονομασία αρχείου ή φακέλου">Μετονομασία αρχείου ή φακέλου</a></span>.</p></dd>
 <dt class="terms"><span class="gui">Τύπος</span></dt>
 <dd class="terms">
-<p class="p">Αυτό σας βοηθά στην ταυτοποίηση του τύπου του αρχείου, όπως έγγραφο PDF, κείμενο OpenDocument ή εικόνα JPEG. Ο τύπος αρχείου καθορίζει ποιες εφαρμογές μπορούν να ανοίξουν το αρχείο, μεταξύ άλλων πραγμάτων. Για παράδειγμα, δεν μπορείτε να ανοίξετε μια εικόνα με έναν αναπαραγωγό ήχου. Για περισσότερες πληροφορίες δείτε <span class="link"><a href="files-open.html" title="Άνοιγμα αρχείων με άλλες εφαρμογές">Άνοιγμα αρχείων με άλλες εφαρμογές</a></span>.</p>
+<p class="p">This helps you identify the type of the file, such as PDF document,
+    OpenDocument Text, or JPEG image. The file type determines which
+    applications can open the file, among other things. For example, you
+    can’t open a picture with a music player. See <span class="link"><a href="files-open.html" title="Άνοιγμα αρχείων με άλλες εφαρμογές">Άνοιγμα αρχείων με άλλες εφαρμογές</a></span>
+    for more information on this.</p>
 <p class="p">Ο <span class="em">τύπος MIME</span> του αρχείου προβάλλεται σε παρενθέσεις· ο τύπος MIME είναι ένας τυπικός τρόπος που οι υπολογιστές χρησιμοποιούν για να αναφερθούν σε αυτόν τον τύπο αρχείου.</p>
 </dd>
 <dt class="terms">Περιεχόμενα</dt>
@@ -71,7 +75,12 @@
 <p class="p">Τα μεγέθη μπορεί να δοθούν σε ψηφιολέξεις, KB, MB, ή GB· στην περίπτωση των τελευταίων τριών, το μέγεθος σε ψηφιολέξεις θα δοθεί επίσης σε παρενθέσεις. Τεχνικά, 1 KB είναι 1024 ψηφιολέξεις, 1 MB είναι 1024 KB κ.ο.κ.</p>
 </dd>
 <dt class="terms">Γονικός φάκελος</dt>
-<dd class="terms"><p class="p">Η θέση του κάθε αρχείου στον υπολογιστή σας δίνεται με την <span class="em">απόλυτη διαδρομή</span> του. Αυτή είναι μια «μοναδική διεύθυνση» του αρχείου στον υπολογιστή σας, δημιουργημένη από μια λίστα φακέλων που πρέπει να προσπελάσετε για να βρείτε το αρχεία. Για παράδειγμα, αν ο χρήστης «dimitris» είχε ένα αρχείο με όνομα <span class="file">βιογραφικό.pdf</span> στον προσωπικό του φάκελο, ο γονικός του φάκελος θα ήταν <span class="file">/home/dimitris</span> και η θέση του θα ήταν <span class="file">/home/dimitris/βιογραφικό.pdf</span>.</p></dd>
+<dd class="terms"><p class="p">The location of each file on your computer is given by its <span class="em">absolute
+    path</span>. This is a unique “address” of the file on your computer, made up
+    of a list of the folders that you would need to go into to find the file.
+    For example, if Jim had a file called <span class="file">Resume.pdf</span> in his Home
+    folder, its parent folder would be <span class="file">/home/jim</span> and its location
+    would be <span class="file">/home/jim/Resume.pdf</span>.</p></dd>
 <dt class="terms">Ελεύθερος χώρος</dt>
 <dd class="terms"><p class="p">Αυτό το πεδίο εμφανίζεται μόνο για φακέλους. Δίνει το ποσό του χώρου του δίσκου που είναι διαθέσιμο στον δίσκο που βρίσκεται ο φάκελος. Αυτό είναι χρήσιμο για να ελεγχθεί εάν ο σκληρός δίσκος είναι πλήρης.</p></dd>
 <dt class="terms">Προσπελάστηκε</dt>

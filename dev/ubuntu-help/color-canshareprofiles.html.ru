@@ -54,8 +54,18 @@
 <div class="region">
 <div class="contents">
 <p class="p">Созданные вами цветовые профили специфичны для именно вашего аппаратного обеспечения в именно ваших условиях освещения. Цветопередача монитора, проработавшего пару сотен часов, будет отличаться от следующего по серийному номеру монитора, проработавшего несколько тысяч часов.</p>
-<p class="p">Это значит, что поделившись с кем-то своим профилем, вы всего лишь <span class="em">приблизили</span> его к калибровке, но говорить, что монитор этого человека откалиброван, по меньшей мере заблуждение.</p>
-<p class="p">Аналогично, делиться с кем-то профилем, который вы создали в ваших конкретных условиях освещения, не имеет особого смысла, если только комната, где происходит просмотр и редактирование изображений, не имеет рекомендованного контролируемого освещения (отсутствие солнечного света из окон, чёрные стены, лампы дневного света и т.д.)</p>
+<p class="p">
+    This means if you share your color profile with somebody, you might
+    be getting them <span class="em">closer</span> to calibration, but it’s misleading
+    at best to say that their display is calibrated.
+  </p>
+<p class="p">
+    Similarly, unless everyone has recommended controlled lighting
+    (no sunlight from windows, black walls, daylight bulbs etc.) in a
+    room where viewing and editing images takes place, sharing a profile
+    that you created in your own specific lighting conditions doesn’t make
+    a lot of sense.
+  </p>
 <div class="note note-warning" title="Предупреждение"><div class="inner"><div class="region"><div class="contents"><p class="p">Необходимо также проверять условия распространения профилей, как созданных вами, так и скачанных с сайта производителя используемого вами оборудования.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">

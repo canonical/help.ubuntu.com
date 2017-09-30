@@ -54,7 +54,14 @@
 <div class="region">
 <div class="contents">
 <p class="p">Μπορείτε να συνδεθείτε σε έναν διακομιστή ή ένα κοινόχρηστο δίκτυο για να περιηγηθείτε και να προβάλετε τα αρχεία, σαν να ήταν στον δικό σας υπολογιστή. Αυτός είναι ένας βολικός τρόπος να κάνετε λήψη ή να αποστείλετε αρχεία στο διαδίκτυο, ή να μοιραστείτε αρχεία με άλλα άτομα στο τοπικό σας δίκτυο.</p>
-<p class="p">Για να περιηγηθείτε σε αρχεία μέσω του δικτύου, ανοίξτε την εφαρμογή <span class="app">Αρχεία</span> από την επισκόπηση <span class="gui">Δραστηριότητες</span>, και κάντε κλικ στο <span class="gui">Άλλες τοποθεσίες</span> αριστερά της πλευρικής στήλης. Ο διαχειριστής αρχείων θα εντοπίσει όλους τους υπολογιστές στο τοπικό σας δίκτυο που είναι ικανοί να διαμοιράσουν αρχεία. Αν θέλετε να συνδεθείτε σε έναν διακομιστή στο διαδίκτυο, ή αν δεν βρίσκεται τον υπολογιστή που θέλεετε, μπορείτε να συνδεθείτε χειροκίνητα σε κάποιον διακομιστή πληκτρολογώντας τη διεύθυνση του στο διαδίκτυο.</p>
+<p class="p">To browse files over the network, open the <span class="app">Files</span>
+application from the <span class="gui">Activities</span> overview, and click
+<span class="gui">Other Locations</span> in the sidebar. The file manager
+will find any computers on your local area network that advertize
+their ability to serve files. If you want to connect to a server
+on the internet, or if you do not see the computer you’re looking
+for, you can manually connect to a server by typing in its
+internet/network address.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Σύνδεση σε έναν διακομιστή αρχείων</span></h2></div>
 <div class="region"><ol class="steps">
@@ -91,7 +98,8 @@
 <p class="p">Εάν έχετε έναν λογαριασμό <span class="em">ασφαλούς κελύφους</span> σε έναν διακομιστή, μπορείτε να συνδεθείτε χρησιμοποιώντας αυτήν τη μέθοδο. Πολλοί κεντρικοί υπολογιστές ιστού παρέχουν λογαριασμούς SSH σε μέλη ώστε να μπορούν με ασφάλεια να αποστείλουν αρχεία. Διακομιστές SSH απαιτούν πάντα να συνδεθείτε.</p>
 <p class="p">Μία τυπική διεύθυνση SSH φαίνεται σαν αυτή:</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ssh://username@servername.example.com/folder</span></p></div></div></div></div>
-<p class="p">Όταν χρησιμοποιείτε SSH, όλα τα δεδομένα που στείλατε (συμπεριλαμβανόμενου του κωδικού πρόσβασής σας) κρυπτογραφούνται έτσι ώστε άλλοι χρήστες στο δίκτυο σας να μην μπορούν να τα δουν.</p>
+<p class="p">When using SSH, all the data you send (including your password)
+  is encrypted so that other users on your network can’t see it.</p>
 </dd>
 <dt class="terms">FTP (με σύνδεση)</dt>
 <dd class="terms">
@@ -114,7 +122,11 @@
 </dd>
 <dt class="terms">WebDAV και ασφαλές WebDAV</dt>
 <dd class="terms">
-<p class="p">Με βάση το χρησιμοποιούμενο πρωτόκολλο HTTP στον ιστό, το WebDAV χρησιμοποιείται μερικές φορές για μερισμό αρχείων σε ένα τοπικό δίκτυο και αποθήκευση αρχείων στο διαδίκτυο. Εάν ο διακομιστής που συνδέεστε υποστηρίζει ασφαλείς συνδέσεις, θα πρέπει να διαλέξετε αυτήν την επιλογή. Το ασφαλές WebDAV χρησιμοποιεί ισχυρή κρυπτογράφηση SSL, έτσι ώστε οι άλλοι χρήστες να μην μπορούν να δουν τον κωδικό πρόσβασής σας.</p>
+<p class="p">Based on the HTTP protocol used on the web, WebDAV is sometimes used to
+  share files on a local network and to store files on the internet. If the
+  server you’re connecting to supports secure connections, you should choose
+  this option. Secure WebDAV uses strong SSL encryption, so that other users
+  can’t see your password.</p>
 <p class="p">Μια διεύθυνση WebDAV μοιάζει με:</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">dav://example.hostname.com/path</span></p></div></div></div></div>
 </dd>

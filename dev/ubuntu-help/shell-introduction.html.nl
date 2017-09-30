@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Introduction to GNOME</title>
+<title>Inleiding tot Gnome</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,39 +46,37 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Introduction to GNOME</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Inleiding tot Gnome</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">GNOME 3 features a completely reimagined user interface designed to
-  stay out of your way, minimize distractions, and help you get things done.
-  When you first log in, you will see an empty desktop and the top bar.</p>
-<div class="media media-image if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-top-bar.png" width="600" class="media media-block" alt="GNOME shell top bar"></div></div>
+<p class="p">GNOME 3 heeft een compleet opnieuw ontworpen gebruikersinterface, bedoeld om u zo weinig mogelijk in de weg te zitten of af te leiden, en u te helpen om dingen gedaan te krijgen. Wanneer u zich voor het eerst aanmeldt, dan ziet u een leeg bureaublad en de menubalk.</p>
+<div class="media media-image if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-top-bar.png" width="600" class="media media-block" alt="Bovenste balk van Gnome Shell"></div></div>
 <p class="p">The top bar provides access to your windows and applications, your
   calendar and appointments, and
-  <span class="link"><a href="status-icons.html" title="What do the icons in the top bar mean?">system properties</a></span> like sound, networking,
+  <span class="link"><a href="status-icons.html" title="Wat betekenen de pictogrammen in de bovenste balk?">system properties</a></span> like sound, networking,
   and power. In the status menu in the top bar, you can change the volume or
   screen brightness, edit your <span class="gui">Wi-Fi</span> connection details, check your
   battery status, log out or switch users, and turn off your computer.</p>
 <div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="shell-introduction.html#activities" title="Activities overview"><span class="gui">Activities</span> overview</a></li>
-<li class="links "><a href="shell-introduction.html#appmenu" title="Application menu">Application menu</a></li>
-<li class="links "><a href="shell-introduction.html#clock" title="Clock, calendar &amp; appointments">Clock, calendar &amp; appointments</a></li>
-<li class="links "><a href="shell-introduction.html#yourname" title="You and your computer">You and your computer</a></li>
-<li class="links "><a href="shell-introduction.html#lockscreen" title="Lock Screen">Lock Screen</a></li>
-<li class="links "><a href="shell-introduction.html#window-list" title="Window List">Window List</a></li>
+<li class="links "><a href="shell-introduction.html#activities" title="Activiteiten-overzicht"><span class="gui">Activiteiten</span>-overzicht</a></li>
+<li class="links "><a href="shell-introduction.html#appmenu" title="Toepassingsmenu">Toepassingsmenu</a></li>
+<li class="links "><a href="shell-introduction.html#clock" title="Klok, agenda &amp; afspraken">Klok, agenda &amp; afspraken</a></li>
+<li class="links "><a href="shell-introduction.html#yourname" title="U en uw computer">U en uw computer</a></li>
+<li class="links "><a href="shell-introduction.html#lockscreen" title="Het scherm vergrendelen">Het scherm vergrendelen</a></li>
+<li class="links "><a href="shell-introduction.html#window-list" title="Vensterlijst">Vensterlijst</a></li>
 </ul></div></div></div>
 </div>
 <div id="activities" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title"><span class="gui">Activities</span> overview</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title"><span class="gui">Activiteiten</span>-overzicht</span></h2></div>
 <div class="region"><div class="contents">
-<div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-activities.png" class="media media-block" alt="Activities button"></div></div>
+<div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-activities.png" class="media media-block" alt="Activiteiten-knop"></div></div>
 <p class="p">To access your windows and applications,
   click the <span class="gui">Activities</span> button, or just move your mouse pointer to
   the top-left hot corner. You can also press the
-  <span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span> key on your keyboard. You can
+  <span class="key"><a href="keyboard-key-super.html" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span> key on your keyboard. You can
   see your windows and applications in the overview. You can also just start
   typing to search your applications, files, folders, and the web.</p>
-<div class="media media-image floatstart if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-dash.png" height="300" class="media media-block" alt="The dash"></div></div>
+<div class="media media-image floatstart if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-dash.png" height="300" class="media media-block" alt="De Snelzoeker"></div></div>
 <p class="p">On the left of the overview, you will find the <span class="em">dash</span>. The dash
   shows you your favorite and running applications. Click any icon in the
   dash to open that application; if the application is already running, it will
@@ -96,19 +94,17 @@
   computer. Click any application to run it, or drag an application to the
   overview or onto a workspace thumbnail. You can also drag an application onto
   the dash to make it a favorite. Your favorite applications stay in the dash
-  even when they're not running, so you can access them quickly.</p>
+  even when they’re not running, so you can access them quickly.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
-<li class="list"><p class="p"><span class="link"><a href="shell-apps-open.html" title="Start applications">Learn more about starting
-      applications.</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-windows.html" title="Vensters en werkbladen">Learn more about windows and
-      workspaces.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-apps-open.html" title="Toepassingen starten">Meer informatie over het starten van toepassingen.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-windows.html" title="Vensters en werkbladen">Meer informatie over vensters en werkbladen.</a></span></p></li>
 </ul></div></div></div>
 </div></div>
 </div></div>
 <div id="appmenu" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Application menu</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Toepassingsmenu</span></h2></div>
 <div class="region"><div class="contents">
-<div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-appmenu-shell.png" width="250" class="media media-block" alt="App Menu of Terminal"></div></div>
+<div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-appmenu-shell.png" width="250" class="media media-block" alt="Toepassingsmenu van Terminal"></div></div>
 <p class="p">Application menu, located beside the <span class="gui">Activities</span> button,
       shows the name of the active application alongside with its icon and
       provides quick access to application preferences or help. The items that
@@ -117,9 +113,9 @@
 </div></div>
 </div></div>
 <div id="clock" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Clock, calendar &amp; appointments</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Klok, agenda &amp; afspraken</span></h2></div>
 <div class="region"><div class="contents">
-<div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-appts.png" width="250" class="media media-block" alt="Clock, calendar, appointments and notifications"></div></div>
+<div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-appts.png" width="250" class="media media-block" alt="Klok, agenda, afspraken en meldingen"></div></div>
 <p class="p">Click the clock on the top bar to see the current date, a month-by-month
   calendar, a list of your upcoming appointments and new notifications. You can
   also open the calendar by pressing
@@ -127,17 +123,15 @@
   time settings and open your full <span class="app">Evolution</span> calendar directly from
   the menu.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
-<li class="list"><p class="p"><span class="link"><a href="clock-calendar.html" title="Calendar appointments">Learn more about the calendar and
-      appointments.</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-notifications.html" title="Notifications and the message tray">Learn more about notifications and
-      the message tray.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="clock-calendar.html" title="Agenda-afspraken">Meer informatie over de agenda en afspraken.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-notifications.html" title="Notifications and the message tray">Meer informatie over meldingen en het berichtengebied.</a></span></p></li>
 </ul></div></div></div>
 </div></div>
 </div></div>
 <div id="yourname" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">You and your computer</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">U en uw computer</span></h2></div>
 <div class="region"><div class="contents">
-<div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-exit.png" width="250" class="media media-block" alt="User menu"></div></div>
+<div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-exit.png" width="250" class="media media-block" alt="Gebruikersmenu"></div></div>
 <p class="p">Click the system menu in the top-right corner to manage your system
   settings and your computer.</p>
 <p class="p">When you leave your computer, you can lock your screen to prevent other
@@ -147,30 +141,28 @@
   that supports vertical or horizontal rotation, you can quickly rotate the 
   screen from the system menu. If your screen does not support rotation, 
   you will not see the button.</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-exit.html" title="Log out, power off or switch users">Learn more about switching users, logging out, and turning off your computer.</a></span></p></li></ul></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-exit.html" title="Afmelden, uitschakelen, van gebruiker wisselen">Meer informatie over het wisselen van gebruiker, uitloggen, en uitschakelen van uw computer.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></div>
 <div id="lockscreen" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Lock Screen</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Het scherm vergrendelen</span></h2></div>
 <div class="region"><div class="contents">
-<div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-lock.png" width="250" class="media media-block" alt="Lock Screen"></div></div>
+<div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-lock.png" width="250" class="media media-block" alt="Het scherm vergrendelen"></div></div>
 <p class="p">When you lock your screen, or it locks automatically, the lock screen is
-  displayed. In addition to protecting your desktop while you're away from your
+  displayed. In addition to protecting your desktop while you’re away from your
   computer, the lock screen displays the date and time. It also shows
   information about your battery and network status, and allows you to control
   media playback.</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-lockscreen.html" title="The Lock Screen">Learn more about the lock
-      screen.</a></span></p></li></ul></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-lockscreen.html" title="Het vergrendelingsscherm">Meer informatie over het vergrendelingsscherm.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></div>
 <div id="window-list" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Window List</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Vensterlijst</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">GNOME features a different approach to switching windows than a
     permanently visible window list found in other desktop environments. This
     lets you focus on the task at hand without distractions.</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-windows-switching.html" title="Schakelen tussen vensters">Learn more about switching
-        windows.</a></span></p></li></ul></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-windows-switching.html" title="Schakelen tussen vensters">Meer informatie over het wisselen tussen vensters.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -180,12 +172,7 @@
 <div class="region"><ul>
 <li class="links "><a href="index.html" title="Handleiding Ubuntu-desktop">Handleiding Ubuntu-desktop</a></li>
 <li class="links ">
-<a href="shell-overview.html" title="Your desktop">Your desktop</a><span class="desc"> — 
-      <span class="link"><a href="clock-calendar.html" title="Calendar appointments">Calendar</a></span>,
-      <span class="link"><a href="shell-notifications.html" title="Notifications and the message tray">notifications</a></span>,
-      <span class="link"><a href="shell-keyboard-shortcuts.html" title="Useful keyboard shortcuts">keyboard shortcuts</a></span>,
-      <span class="link"><a href="shell-windows.html" title="Vensters en werkbladen">windows and workspaces</a></span>…
-    </span>
+<a href="shell-overview.html" title="Uw bureaublad">Uw bureaublad</a><span class="desc"> — <span class="link"><a href="clock-calendar.html" title="Agenda-afspraken">Agenda</a></span>, <span class="link"><a href="shell-notifications.html" title="Notifications and the message tray">meldingen</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Handige sneltoetsen">sneltoetsen</a></span>, <span class="link"><a href="shell-windows.html" title="Vensters en werkbladen">vensters en werkbladen</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

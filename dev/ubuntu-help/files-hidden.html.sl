@@ -57,7 +57,7 @@
   named <span class="file">example.txt</span>, you should rename it to
   <span class="file">.example.txt</span>.</p>
 <div class="note" title="Opomba"><div class="inner"><div class="region"><div class="contents"><p class="p">You can hide folders in the same way that you can hide files. Hide a
-  folder by placing a <span class="file">.</span> at the beginning of the folder's name.</p></div></div></div></div>
+  folder by placing a <span class="file">.</span> at the beginning of the folder’s name.</p></div></div></div></div>
 </div>
 <div id="show-hidden" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Prikaz vseh skritih datotek</span></h2></div>

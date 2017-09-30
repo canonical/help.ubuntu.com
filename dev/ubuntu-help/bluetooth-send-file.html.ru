@@ -53,7 +53,11 @@
 <div class="hgroup"><h1 class="title"><span class="title">Отправка файлов на устройство Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Можно отправлять файлы на устройства Bluetooth, такие, как мобильные телефоны или другие компьютеры. Некоторые типы устройств не позволяют передавать файлы или определённые типы файлов. Отправлять файлы можно одним из трёх способов: с помощью значка Bluetooth в верхней панели, из окна параметров Bluetooth или непосредственно из менеджера файлов.</p>
+<p class="p">You can send files to connected Bluetooth devices, such as some mobile
+    phones or other computers. Some types of devices don’t allow the transfer
+    of files, or specific types of files. You can send files in one of three
+    ways: using the Bluetooth icon in the menu bar, from the Bluetooth settings
+    window, or directly from the file manager.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Bluetooth</span>.</p></li>

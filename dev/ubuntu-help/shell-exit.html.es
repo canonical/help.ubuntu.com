@@ -86,7 +86,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Para ahorrar energía, suspenda su equipo cuando no lo esté usando. Si usa un equipo portátil, GNOME suspende su equipo automáticamente cuando cierra su tapa. Esto guarda su estado en la memoria de su equipo y apaga la mayor parte de las funciones de su equipo. Durante la suspensión se sigue usando una cantidad muy pequeña de energía.</p>
-<p class="p">Para suspender el equipo manualmente, pulse en el menú del sistema en la parte derecha de la barra superior y mantenga pulsada la tecla <span class="key"><kbd>Alt</kbd></span>. La opción de apagar cambiará a «Suspender». Pulse el botón.</p>
+<p class="p">Para suspender el equipo manualmente, pulse en el menú del sistema en la parte derecha de la barra superior. Desde ahí puede mantener pulsada la tecla <span class="key"><kbd>Alt</kbd></span> y pulsar el botón de apagado o simplemente hacer una pulsación larga en dicho botón.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

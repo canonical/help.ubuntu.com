@@ -58,13 +58,15 @@
        and buy a new cartridge if necessary.</p></dd>
 <dt class="terms">Полосы и линии</dt>
 <dd class="terms"><p class="p">If you have an inkjet printer, the print head may be dirty or
-       partially blocked. Try cleaning the print head. See the printer's manual
+       partially blocked. Try cleaning the print head. See the printer’s manual
        for instructions.</p></dd>
 <dt class="terms">Неправильные цвета</dt>
 <dd class="terms"><p class="p">The printer may have run out of one color of ink or toner. Check your
        ink or toner supply and buy a new cartridge if necessary.</p></dd>
 <dt class="terms">Jagged lines, or lines are not straight</dt>
-<dd class="terms"><p class="p">Если линии, которые должны быть прямыми, оказываются на распечатке неровными, то может потребоваться выровнять печатающую головку. О том, как это сделать, читайте в руководстве по эксплуатации принтера.</p></dd>
+<dd class="terms"><p class="p">If lines on your print-out that should be straight turn out jagged,
+       you may need to align the print head. See the printer’s instruction
+       manual for details on how to do this.</p></dd>
 </dl></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -79,7 +81,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing-inklevel.html" title="How can I check my printer's ink or toner levels?">How can I check my printer's ink or toner levels?</a><span class="desc"> — Проверка уровня чернил или тонера в картриджах принтера.</span>
+<a href="printing-inklevel.html" title="How can I check my printer’s ink or toner levels?">How can I check my printer’s ink or toner levels?</a><span class="desc"> — Проверка уровня чернил или тонера в картриджах принтера.</span>
 </li></ul></div>
 </div></div>
 </div>

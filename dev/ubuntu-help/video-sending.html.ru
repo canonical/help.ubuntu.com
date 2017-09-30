@@ -2,7 +2,7 @@
 <html lang=ru>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Другие люди не могут воспроизвести созданные мной видеофайлы</title>
+<title>Other people can’t play the videos I made</title>
 <link rel="stylesheet" type="text/css" href="ru.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,7 +46,7 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Звук, видео и изображения">Звук, видео и изображения</a> › <a class="trail" href="media.html#videos" title="Видеозаписи и видеокамеры">Видеозаписи</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Другие люди не могут воспроизвести созданные мной видеофайлы</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Other people can’t play the videos I made</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Если вы создали видеофайл на компьютере с Linux и отправили его кому-то, использующему Windows или Mac OS, у него могут возникнуть проблемы с воспроизведением этого файла.</p>
@@ -59,9 +59,26 @@
       which <span class="gui">Codec</span> are listed under <span class="gui">Video</span> and
       <span class="gui">Audio</span> (if the video also has audio).</p></li>
 </ul></div></div></div>
-<p class="p">Спросите того, у кого возникли проблемы с воспроизведением, установлены ли у него необходимые кодеки. Ему может помочь поиск в Интернете по названию кодека и названию его приложения для воспроизведения видео. Например, если ваш файл в формате <span class="em">Theora</span>, а ваш друг использует для его просмотра Windows Media Player, поисковый запрос должен иметь вид «theora windows media player». Часто необходимый кодек можно скачать бесплатно.</p>
-<p class="p">Если не удалось найти нужный кодек, попробуйте <span class="link"><a href="http://www.videolan.org/vlc/" title="http://www.videolan.org/vlc/">медиапроигрыватель VLC</a></span>. Он работает как в Windows и Mac OS, так и в Linux, и поддерживает множество различных видеоформатов. Если это также не помогло, попробуйте преобразовать свой видеофайл в другой формат. Многие видеоредакторы умеют это делать, существуют также специальные программы — видеоконвертеры. Посмотрите, какие из них доступны в приложении для установки программного обеспечения.</p>
-<div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents"><p class="p">Возможны также несколько других проблем, способных помешать кому-либо воспроизвести ваше видео. Видеофайл мог быть повреждён при пересылке (иногда при копировании больших файлов случаются ошибки), могли возникнуть неполадки в приложении для воспроизведения видео, или видеофайл был создан неправильно (произошли какие-то ошибки при его сохранении).</p></div></div></div></div>
+<p class="p">Ask the person having problems with playback if they have the right codec
+  installed. They may find it helpful to search the web for the name of the
+  codec plus the name of their video playback application. For example, if your
+  video uses the <span class="em">Theora</span> format and you have a friend using Windows
+  Media Player to try and watch it, search for “theora windows media player”.
+  You will often be able to download the right codec for free if it’s not
+  installed.</p>
+<p class="p">If you can’t find the right codec, try the
+  <span class="link"><a href="http://www.videolan.org/vlc/" title="http://www.videolan.org/vlc/">VLC media player</a></span>. It works
+  on Windows and Mac OS as well as Linux, and supports a lot of different video
+  formats. Failing that, try converting your video into a different format.
+  Most video editors are able to do this, and specific video converter
+  applications are available. Check the software installer application to see
+  what’s available.</p>
+<div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents"><p class="p">There are a few other problems which might prevent someone from playing
+    your video. The video could have been damaged when you sent it to them
+    (sometimes big files aren’t copied across perfectly), they could have
+    problems with their video playback application, or the video may not have
+    been created properly (there could have been some errors when you saved the
+    video).</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

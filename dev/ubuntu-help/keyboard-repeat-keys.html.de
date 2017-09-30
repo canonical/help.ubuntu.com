@@ -2,7 +2,7 @@
 <html lang=de>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Manage repeated key presses</title>
+<title>Wiederholte Tastendrücke verwalten</title>
 <link rel="stylesheet" type="text/css" href="de.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -52,14 +52,10 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Manage repeated key presses</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Wiederholte Tastendrücke verwalten</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">By default, when you hold down a key on your keyboard, the letter
-  or symbol will be repeated until you release the key. If you have
-  difficulty picking your finger back up quickly enough, you can
-  disable this feature, or change how long it takes before key presses
-  start repeating, or how quickly key presses repeat.</p>
+<p class="p">Wenn Sie eine Taste auf Ihrer Tastatur gedrückt halten, wird der Buchstabe oder das Zeichen standardmäßig so lange wiederholt, bis Sie die Taste loslassen. Wenn es Ihnen schwer fällt, Ihre Finger schnell genug wieder hochzuheben, können Sie dieses Verhalten ausschalten oder Sie können ändern, wie lange es dauert, bis sich die Taste wiederholt auszulösen beginnt.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Barrierefreiheit</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Barrierefreiheit</span>, um das Panel zu öffnen.</p></li>

@@ -69,11 +69,15 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Prema e faga scroll co «touchpad»</p></li>
 <li class="list"><p class="p">Prema dúas veces sobre a barra de título superior.</p></li>
-<li class="list"><p class="p">Para arrastrar un elemento, toque dúas veces pero non levante o seu dedo despois do segundo toque. Arrastre o elemento a onde queira e despois levante o seu dedo para soltalo.</p></li>
+<li class="list"><p class="p">To drag an item, double-tap but don’t lift your finger after the
+      second tap. Drag the item where you want it, then lift your finger to
+      drop.</p></li>
 <li class="list"><p class="p">Se a súa área táctil é multitáctil, prema co botón dereito do rato usando dous dedos á vez. Do contrario precisará usar os botóns hardware para premer co botón dereito do rato. Para ver un método de pulsación dereita do rato sen usar o segundo botón do rato consulte a <span class="link"><a href="a11y-right-click.html" title="Simular o clic dereito do rato">Simular o clic dereito do rato</a></span>.</p></li>
 <li class="list"><p class="p">Se a súa área táctil admite multi-toque pode <span class="link"><a href="mouse-middleclick.html" title="Clic central">premer co botón do medio</a></span> premendo con tres dedos á vez.</p></li>
 </ul></div></div></div>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Asegúrese de qeu os seus dedos están separados dabondo ao tocar ou arrastrar con varios dedos. Se os seus dedos están demasiado xuntos o seu computador pode crer que é un só dedo.</p></div></div></div></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">When tapping or dragging with multiple fingers, make sure your fingers
+    are spread far enough apart. If your fingers are too close, your computer
+    may think they’re a single finger.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="twofingerscroll" class="sect"><div class="inner">

@@ -2,9 +2,7 @@
 <html lang=cs>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>
-    Add software repositories
-  </title>
+<title>Přidávání zdrojů softwaru</title>
 <link rel="stylesheet" type="text/css" href="cs.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -45,12 +43,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Install &amp; remove software">Přidat/odebrat software</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Instalace a odstranění softwaru">Přidat/odebrat software</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">
-    Add software repositories
-  </span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Přidávání zdrojů softwaru</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Software je dostupný od poskytovatelů třetích stran, stejně tak jako z výchozích repozitářů Ubuntu. Jestliže chcete nainstalovat software z repozitáře třetí strany, musíte ho přidat do seznamu dostupných Ubuntu repozitářů.</p>
@@ -65,12 +61,10 @@
    </p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">
-        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Launcher</span>, or search
-        for <span class="input">Software</span> in the search bar of the <span class="gui">Dash</span>.
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
       </p></li>
-<li class="steps"><p class="p">
-        When <span class="app">Ubuntu Software</span> launches, click <span class="gui">Software &amp; Updates</span>
-      </p></li>
+<li class="steps"><p class="p">Když se <span class="app">Ubuntu Software</span> spustí, klikněte na <span class="gui">Software &amp; Aktualizace</span></p></li>
 <li class="steps"><p class="p">Budete požádání o zadání hesla. Jakmile tak učiníte, přejděte na kartu<span class="gui">Ostatní software</span>.</p></li>
 <li class="steps">
 <p class="p">Klikněte na <span class="gui">Přidat</span> a vložte APT řádku zdroje. Ta by měla být dostupná na webové stránce zdroje softwaru a měla by vypadat podobně jako:</p>
@@ -122,11 +116,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html" title="Odstranění aplikace">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html" title="Add software repositories">add repositories</a></span>…
-    </span>
+<a href="addremove.html" title="Instalace a odstranění softwaru">Instalace a odstranění softwaru</a><span class="desc"> — <span class="link"><a href="addremove-install.html" title="Instalace dodatečných aplikací">Instalace aplikací</a></span>, <span class="link"><a href="addremove-remove.html" title="Odstranění aplikace">odstranění aplikací</a></span>, <span class="link"><a href="addremove-sources.html" title="Přidávání zdrojů softwaru">přidání zdrojů softwaru</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

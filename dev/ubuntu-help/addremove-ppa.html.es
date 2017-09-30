@@ -43,17 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Install &amp; remove software">Añadir/eliminar software</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Instalar y eliminar software">Añadir/eliminar software</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Añadir un repositorio de paquetes personal (PPA)</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    <span class="em">Personal Package Archives (PPAs)</span> are software repositories designed 
-    for Ubuntu users and are easier to install than other third-party 
-    repositories. PPAs are often used to distribute pre-release software so that it can be tested.
-  </p>
+<p class="p"><span class="em">Archivos de paquetes personales (PPAs del inglés «Personal Package Archives»)</span> son repositorios de software diseñados para usuarios de Ubuntu y que son más fáciles de instalar que otros repositorios de terceros. Los PPAs se usan a menudo para distribuir versiones previas de forma que puedan ser probadas.</p>
 <div class="note note-warning" title="Advertencia"><div class="inner"><div class="region"><div class="contents">
 <p class="p">Solo añada repositorios de software que provengan de lugares de su confianza.</p>
 <p class="p">Los repositorios de software de terceros no son verificados por su seguridad o confiabilidad por miembros de Ubuntu, y pueden contener software dañino para su equipo.</p>
@@ -62,12 +58,13 @@
 <div class="title title-steps"><h2><span class="title">Instalar un PPA</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">En la página de vista general del PPA, vaya a la sección <span class="gui">Adding this PPA to your system</span>. Anote la ubicación del PPA, que debería ser similar a: <span class="code">ppa:mozillateam/firefox-next</span>.</p></li>
-<li class="steps"><p class="p">Haga clic en el icono de <span class="app">Software de Ubuntu</span> en el <span class="gui">Lanzador</span> o busque <span class="input">Software</span> en la barra de búsqueda del <span class="gui">Tablero</span>.</p></li>
+<li class="steps"><p class="p">
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">Cuando se abra <span class="app">Software de Ubuntu</span> haga clic en <span class="gui">Orígenes y actualizaciones</span></p></li>
 <li class="steps"><p class="p">Vaya a la pestaña <span class="gui">Otro software</span>.</p></li>
-<li class="steps"><p class="p">
-        Click <span class="gui">Add</span> and enter the PPA's location (as noted in step 1).
-      </p></li>
+<li class="steps"><p class="p">Pulse <span class="gui">Añadir</span> e introduzca la ubicación del PPA (como se indica en el paso 1).</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Añadir origen</span>. Introduzca su contraseña en la ventana de autenticación.</p></li>
 <li class="steps"><p class="p">Cierre la ventana <span class="app">Software y actualizaciones</span>. <span class="app">Software de Ubuntu</span> comprobará entonces sus orígenes de software para encontrar nuevas aplicaciones.</p></li>
 </ol></div>
@@ -79,22 +76,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html" title="Desinstalar una aplicación">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html" title="Add software repositories">add repositories</a></span>…
-    </span>
+<a href="addremove.html" title="Instalar y eliminar software">Instalar y eliminar software</a><span class="desc"> — <span class="link"><a href="addremove-install.html" title="Instalar aplicaciones adicionales">Instalar aplicaciones</a></span>, <span class="link"><a href="addremove-remove.html" title="Desinstalar una aplicación">desinstalar aplicaciones</a></span>, <span class="link"><a href="addremove-sources.html" title="Añadir repositorios de software">añadir repositorios</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove-sources.html" title="Add software repositories">
-    Add software repositories
-  </a><span class="desc"> — 
-      Add repositories to extend the software sources Ubuntu uses for 
-      installation and upgrades.
-    </span>
+<a href="addremove-sources.html" title="Añadir repositorios de software">Añadir repositorios de software</a><span class="desc"> — Añadir repositorios para ampliar los origenes de software que Ubuntu usa para instalaciones y actualizaciones.</span>
 </li></ul></div>
 </div></div>
 </div>

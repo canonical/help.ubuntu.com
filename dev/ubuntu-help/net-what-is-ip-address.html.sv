@@ -49,10 +49,10 @@
 <div class="hgroup"><h1 class="title"><span class="title">Vad är en IP-adress?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">”IP-adress” står för <span class="em">Internet Protokoll adress</span>, och varje enhet som är ansluten till ett nätverk (som internet) har en.</p>
+<p class="p">”IP-adress” står för <span class="em">Internetprotokoll-adress</span>, och varje enhet som är ansluten till ett nätverk (som internet) har en.</p>
 <p class="p">En IP-adress liknar ditt telefonnummer. Ditt telefonnummer är en unik uppsättning nummer som identifierar din telefon så att andra personer kan ringa dig. På samma sätt är en IP-adress en unik uppsättning nummer som identifierar din dator så att den kan skicka och ta emot data från andra datorer.</p>
 <p class="p">För närvarande består de flesta IP-adresser av fyra stycken tal, separerade med en punkt. <span class="code">192.168.1.42</span> är ett exempel på en IP-adress.</p>
-<div class="note note-tip" title="Tips"><div class="inner"><div class="region"><div class="contents"><p class="p">En IP-adress kan antingen vara <span class="em">dynamisk</span> eller <span class="em">statisk</span>. Dynamiska IP-adresser tilldelas tillfälligt varje gång din dator ansluter till ett nätverk. Statiska IP-adresser är fasta och ändras inte. Dynamiska IP-adresser är vanligare än statiska adresser - statiska adresser används vanligtvis bara när det finns speciella behov, som vid administrering av en server.</p></div></div></div></div>
+<div class="note note-tip" title="Tips"><div class="inner"><div class="region"><div class="contents"><p class="p">En IP-adress kan antingen vara <span class="em">dynamisk</span> eller <span class="em">statisk</span>. Dynamiska IP-adresser tilldelas tillfälligt varje gång din dator ansluter till ett nätverk. Statiska IP-adresser är fasta och ändras inte. Dynamiska IP-adresser är vanligare än statiska adresser — statiska adresser används vanligtvis bara när det finns speciella behov, som vid administrering av en server.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

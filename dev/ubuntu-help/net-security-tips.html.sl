@@ -67,7 +67,10 @@
 <p class="p">Da bi ostali na spletui varni, se držite naslednjih namigov:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Ne odpirajte e-pošte, prilog ali povezav, ki so vam jih poslali neznanci.</p></li>
-<li class="list"><p class="p">V primeru da je ponudba spletišča predobra, da bi bila res, ali vpraša za občutljive podatke, ki se zdijo nepotrebni, dvakrat premislite kaj pošiljate in morebitne posledice, če te podatke dobijo tatovi identitete in drugi kriminalci.</p></li>
+<li class="list"><p class="p">If a website’s offer is too good to be true, or asks for sensitive
+      information that seems unnecessary, then think twice about what
+      information you are submitting and the potential consequences if that
+      information is compromised by identity thieves or other criminals.</p></li>
 <li class="list"><p class="p">Be careful in providing
       <span class="link"><a href="user-admin-explain.html" title="Kako delujejo skrbniška dovoljenja?">root level permissions</a></span> to any
       application, especially ones that you have not used before or which are

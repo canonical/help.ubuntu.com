@@ -70,7 +70,7 @@
 <div class="title title-links"><h3><span class="title">Visión deficiente</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="a11y-contrast.html" title="Ajustar el contraste">Ajustar el contraste</a><span class="desc"> — Hacer que las ventanas y los botones de la pantalla más vivos, para que sean más fáciles de ver.</span>
+<a href="a11y-contrast.html" title="Ajustar el contraste">Ajustar el contraste</a><span class="desc"> — Hacer que las ventanas y los botones de la pantalla más (o menos) vivos, para que sean más fáciles de ver.</span>
 </li>
 <li class="links ">
 <a href="a11y-font-size.html" title="Cambiar el tamaño del texto en la pantalla">Cambiar el tamaño del texto en la pantalla</a><span class="desc"> — Usar tipografías más grandes para hacer que el texto sea más fácil de leer.</span>
@@ -133,7 +133,7 @@
 <a href="a11y-stickykeys.html" title="Activar las teclas persistentes">Activar las teclas persistentes</a><span class="desc"> — Pulsar combinaciones de teclas de forma seguida en lugar de tener que mantener todas las teclas pulsadas a la vez.</span>
 </li>
 <li class="links ">
-<a href="keyboard-repeat-keys.html" title="Manage repeated key presses">Manage repeated key presses</a><span class="desc"> — Hacer que el teclado no repita las letras cuando se mantenga una tecla pulsada, o cambiar el retardo y la velocidad de repetición de las teclas.</span>
+<a href="keyboard-repeat-keys.html" title="Gestionar las pulsaciones de teclas repetidas repetición de teclas">Gestionar las pulsaciones de teclas repetidas repetición de teclas</a><span class="desc"> — Hacer que el teclado no repita las letras cuando se mantenga una tecla pulsada, o cambiar el retardo y la velocidad de repetición de las teclas.</span>
 </li>
 <li class="links ">
 <a href="keyboard-nav.html" title="Navegación con el teclado">Navegación con el teclado</a><span class="desc"> — Usar aplicaciones y el escritorio sin ratón.</span>

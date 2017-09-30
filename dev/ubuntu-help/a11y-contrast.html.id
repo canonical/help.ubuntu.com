@@ -49,13 +49,14 @@
 <div class="hgroup"><h1 class="title"><span class="title">Atur kontras</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Anda dapat menyetel kontras jendela dan tombol sehungga mereka lebih mudah dilihat. Ini tak sama dengan mengubah kecerahan seluruh layar; hanya bagian-bagian dari <span class="em">antar muka pengguna</span> yang akan berubah.</p>
+<p class="p">You can adjust the contrast of windows and buttons so that they’re easier
+  to see. This is not the same as 
+  changing the brightness of the whole screen; only parts of the
+  <span class="em">user interface</span> will change.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span> overview and
-      start typing <span class="gui">Universal Access</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akses Universal</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Akses Universal</span> untuk membuka panel.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">High Contrast</span> to <span class="gui">ON</span> in the
-      <span class="gui">Seeing</span> section.</p></li>
+<li class="steps"><p class="p">Nyalakan <span class="gui">Kontras Tinggi</span> dalam seksi <span class="gui">Penglihatan</span>.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Tip"><div class="inner">
 <div class="title title-note"><h2><span class="title">Nyalakan dan matikan kontras tinggi secara cepat</span></h2></div>

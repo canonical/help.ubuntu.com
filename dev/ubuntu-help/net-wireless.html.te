@@ -50,7 +50,7 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-connect.html" title="Connect to a wireless network"><span class="title">Connect to a wireless network</span><span class="linkdiv-dash"> — </span><span class="desc">Get on the internet - wirelessly.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-connect.html" title="Connect to a wireless network"><span class="title">Connect to a wireless network</span><span class="linkdiv-dash"> — </span><span class="desc">Get on the internet — wirelessly.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-vpn-connect.html" title="Connect to a VPN"><span class="title">Connect to a VPN</span><span class="linkdiv-dash"> — </span><span class="desc">Set up a VPN connection to a local network over the internet.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-hidden.html" title="Connect to a hidden wireless network"><span class="title">Connect to a hidden wireless network</span><span class="linkdiv-dash"> — </span><span class="desc">Connect to a wireless network that is not displayed in the network
     list.</span></a></div>
@@ -58,12 +58,12 @@
     network.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-adhoc.html" title="Create a wireless hotspot"><span class="title">Create a wireless hotspot</span><span class="linkdiv-dash"> — </span><span class="desc">Use an ad-hoc network to allow other devices to connect to your
     computer and its network connections.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html" title="I can't see my wireless network in the list"><span class="title">I can't see my wireless network in the list</span><span class="linkdiv-dash"> — </span><span class="desc">The wireless could be turned off or broken, or you may be trying to
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html" title="I can’t see my wireless network in the list"><span class="title">I can’t see my wireless network in the list</span><span class="linkdiv-dash"> — </span><span class="desc">The wireless could be turned off or broken, or you may be trying to
     connect to a hidden network.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-noconnection.html" title="I've entered the correct password, but I still can't connect"><span class="title">I've entered the correct password, but I still can't connect</span><span class="linkdiv-dash"> — </span><span class="desc">Double-check the password, and other things to try.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-manual.html" title="Manually set network settings"><span class="title">Manually set network settings</span><span class="linkdiv-dash"> — </span><span class="desc">You may have to enter network settings if they don't get assigned
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-noconnection.html" title="I’ve entered the correct password, but I still can’t connect"><span class="title">I’ve entered the correct password, but I still can’t connect</span><span class="linkdiv-dash"> — </span><span class="desc">Double-check the password, and other things to try.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-manual.html" title="Manually set network settings"><span class="title">Manually set network settings</span><span class="linkdiv-dash"> — </span><span class="desc">You may have to enter network settings if they don’t get assigned
     automatically.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-airplane.html" title="Turn off wireless (airplane mode)"><span class="title">Turn off wireless (airplane mode)</span><span class="linkdiv-dash"> — </span><span class="desc">Open Network Settings and switch Airplane Mode to ON.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-wepwpa.html" title="What do WEP and WPA mean?"><span class="title">What do WEP and WPA mean?</span><span class="linkdiv-dash"> — </span><span class="desc">WEP and WPA are ways of encrypting data on wireless networks.</span></a></div>
@@ -87,7 +87,7 @@
 <li class="links ">
 <a href="net-problem.html" title="Network problems">Network problems</a><span class="desc"> — 
       <span class="link"><a href="net-wireless-troubleshooting.html" title="Wireless network troubleshooter">Troubleshooting wireless connections</a></span>,
-      <span class="link"><a href="net-wireless-find.html" title="I can't see my wireless network in the list">finding your wifi network</a></span>…
+      <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">finding your wifi network</a></span>…
     </span>
 </li>
 <li class="links ">

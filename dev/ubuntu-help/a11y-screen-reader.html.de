@@ -50,9 +50,9 @@
 <div class="region">
 <div class="contents">
 <p class="p">GNOME stellt den <span class="app">Orca</span>-Bildschirmleser zum Vorlesen der Benutzeroberfläche zur Verfügung. Abhängig davon, wie Sie GNOME installiert haben, ist Orca bei Ihnen möglicherweise nicht installiert. Installieren Sie in diesem Fall zuerst Orca.</p>
-<p class="p">To start <span class="app">Orca</span> using the keyboard:</p>
-<div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps"><p class="p">Press <span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>S</kbd></span>.</p></li></ol></div></div></div>
-<p class="p">Or to start <span class="app">Orca</span> using a mouse and keyboard:</p>
+<p class="p">So starten Sie <span class="app">Orca</span> mit der Tastatur:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps"><p class="p">Drücken Sie <span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>S</kbd></span>.</p></li></ol></div></div></div>
+<p class="p">So starten Sie <span class="app">Orca</span> mit Maus und Tastatur:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Barrierefreiheit</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Barrierefreiheit</span>, um das Panel zu öffnen.</p></li>

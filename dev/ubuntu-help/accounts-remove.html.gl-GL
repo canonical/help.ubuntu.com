@@ -51,25 +51,17 @@
 <div class="contents">
 <p class="p">Pode eliminar unha conta en liña que non desexa usar.</p>
 <div class="note note-tip" title="Suxestión"><div class="inner"><div class="region"><div class="contents">
-<p class="p">Many online services provide an authorization token which GNOME stores
-    instead of your password. If you remove an account, you should also revoke
-    that certificate in the online service. This will ensure that no other
-    application or website can connect to that service using the authorization
-    for GNOME.</p>
-<p class="p">How to revoke the authorization depends on the service provider. Check
-    your settings on the provider's website for authorized or connected apps
-    or sites. Look for an app called "GNOME" and remove it.</p>
+<p class="p">Algúns servizos en liña fornecen un token de autorización que GNOME almacena no lugar do seu contrasinal. Se eliminou unha conta terá que revocar o certificado no servizo en liña. Isto asegura que ningún outro aplicativo ou sitio pode conectarse ao servizo usando a autorización de GNOME.</p>
+<p class="p">Como revocar a autorización dependerá do fornecedor do servizo. Comprobe as súas preferencias no sitio do fornecedor para autorizar ou conectar aplicativos ou sitios. Olle por un aplicativo chamado «GNOME» e elimíneo.</p>
 </div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Actividades</a></span> e comece a escribir <span class="gui">Contas en liña</span>.</p></li>
 <li class="steps"><p class="p">Prema <span class="gui">Contas en liñla</span> para abrir o panel.</p></li>
-<li class="steps"><p class="p">Select the account which you wish to remove.</p></li>
+<li class="steps"><p class="p">Seleccione a conta que quere eliminar.</p></li>
 <li class="steps"><p class="p">Prema o botón <span class="key"><kbd>-</kbd></span> na parte inferior esquerda da xanela.</p></li>
 <li class="steps"><p class="p">Prema <span class="gui">Quitar</span> no diálogo de confirmación.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Suxestión"><div class="inner"><div class="region"><div class="contents"><p class="p">Instead of deleting the account completely, it is possible to
-    <span class="link"><a href="accounts-disable-service.html" title="Controle que servizos en liña dunha conta poden usarse para acceder">restrict the services</a></span> accessed
-    by your desktop.</p></div></div></div></div>
+<div class="note note-tip" title="Suxestión"><div class="inner"><div class="region"><div class="contents"><p class="p">No lugar de retirar a conta completamente, é posíbel <span class="link"><a href="accounts-disable-service.html" title="Controle que servizos en liña dunha conta poden usarse para acceder">restrinxir os servizos</a></span> aos que accede o seu escritorio.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

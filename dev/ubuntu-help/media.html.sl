@@ -78,12 +78,12 @@
 <div class="hgroup"><h2 class="title"><span class="title">Glasba in prenosni predvajalniki zvoka</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="music-player-ipodtransfer.html" title="Ko skladbe kopiram na svoj iPod, se tam ne pojavijo"><span class="title">Ko skladbe kopiram na svoj iPod, se tam ne pojavijo</span><span class="linkdiv-dash"> — </span><span class="desc">Za kopiranje glasbe in varno odstranjevanje iPoda uporabite večpredstavnostni predvajalnik.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="music-player-newipod.html" title="Moj novi iPod ne deluje"><span class="title">Moj novi iPod ne deluje</span><span class="linkdiv-dash"> — </span><span class="desc">Nove iPode morate pred uporabo nastaviti z uporabo programa iTunes.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-cantplay-drm.html" title="I can’t play the songs I bought from an online music store"><span class="title">I can’t play the songs I bought from an online music store</span><span class="linkdiv-dash"> — </span><span class="desc">Support for that file format might not be installed or the songs could be “copy protected”.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-player-newipod.html" title="My new iPod won’t work"><span class="title">My new iPod won’t work</span><span class="linkdiv-dash"> — </span><span class="desc">Nove iPode morate pred uporabo nastaviti z uporabo programa iTunes.</span></a></div>
 </div>
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="Odpiranje programov za naprave ali diske"><span class="title">Odpiranje programov za naprave ali diske</span><span class="linkdiv-dash"> — </span><span class="desc">Samodejno poganjanje programov za CD-je in DVD-je, fotoaparate, predvajalnike zvoka in druge naprave in medije.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="music-cantplay-drm.html" title="Skladb, kupljenih v spletni glasbeni trgovini, ne morem predvajati"><span class="title">Skladb, kupljenih v spletni glasbeni trgovini, ne morem predvajati</span><span class="linkdiv-dash"> — </span><span class="desc">Podpora za vrsto datoteke morda ni nameščena ali pa so skladbe "zaščitene pred kopiranjem".</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-player-ipodtransfer.html" title="Songs don’t appear on my iPod when I copy them onto it"><span class="title">Songs don’t appear on my iPod when I copy them onto it</span><span class="linkdiv-dash"> — </span><span class="desc">Za kopiranje glasbe in varno odstranjevanje iPoda uporabite večpredstavnostni predvajalnik.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -98,12 +98,12 @@
 <div class="hgroup"><h2 class="title"><span class="title">Videoposnetki in video kamere</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="video-sending.html" title="Drugi ljudje ne morejo predvajati mojih videoposnetkov"><span class="title">Drugi ljudje ne morejo predvajati mojih videoposnetkov</span><span class="linkdiv-dash"> — </span><span class="desc">Preverijo, da imajo nameščene prave kodeke.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="Odpiranje programov za naprave ali diske"><span class="title">Odpiranje programov za naprave ali diske</span><span class="linkdiv-dash"> — </span><span class="desc">Samodejno poganjanje programov za CD-je in DVD-je, fotoaparate, predvajalnike zvoka in druge naprave in medije.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-sending.html" title="Other people can’t play the videos I made"><span class="title">Other people can’t play the videos I made</span><span class="linkdiv-dash"> — </span><span class="desc">Preverijo, da imajo nameščene prave kodeke.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="app-cheese.html" title="Ustvarjanje zabavnih fotografij in videov s spletno kamero"><span class="title">Ustvarjanje zabavnih fotografij in videov s spletno kamero</span><span class="linkdiv-dash"> — </span><span class="desc">To je kot da bi imeli svojo fotografsko kabino.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="video-dvd.html" title="Zakaj ne morem predvajati DVD-jev?"><span class="title">Zakaj ne morem predvajati DVD-jev?</span><span class="linkdiv-dash"> — </span><span class="desc">Morda nimate nameščenih pravih kodekov ali pa je DVD iz napačne regije.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-dvd.html" title="Why won’t DVDs play?"><span class="title">Why won’t DVDs play?</span><span class="linkdiv-dash"> — </span><span class="desc">Morda nimate nameščenih pravih kodekov ali pa je DVD iz napačne regije.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="video-dvd-restricted.html" title="Kaj naj omogočim omejene kodeke za predvajanje DVD-jev?"><span class="title">Kaj naj omogočim omejene kodeke za predvajanje DVD-jev?</span><span class="linkdiv-dash"> — </span><span class="desc">Večina komercialnih DVD-jev je šifriranih, zato jih ne boste mogli predvajati brez programov za odšifriranje.</span></a></div>
 </div>
 </div></div></div></div></div>

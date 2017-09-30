@@ -55,7 +55,7 @@
 <div class="contents">
 <p class="p">Mit dem <span class="key"><kbd>Nummernfeld</kbd></span> können Sie das Nummernfeld auf Ihrer Tastatur manuell an- und ausschalten. Außerdem beinhaltet das Rechner-BIOS oftmals eine Möglichkeit, um zu entscheiden, ob das Nummernfeld beim Start aktiviert werden soll. Andernfalls ist das hier ein Weg, das Verhalten zu konfigurieren:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Das <span class="em">numlockx</span>-Paket <span class="link"><a href="addremove-install.html" title="Install additional applications">Installieren</a></span></p></li>
+<li class="steps"><p class="p">Das <span class="em">numlockx</span>-Paket <span class="link"><a href="addremove-install.html" title="Zusätzliche Anwendungen installieren">Installieren</a></span></p></li>
 <li class="steps"><p class="p">Öffnen Sie <span class="app"><span class="link"><a href="startup-applications.html" title="Autostartanwendungen">Startanwendungen</a></span></span> und fügen Sie ein Startprogramm mit dem Befehl: <span class="cmd">numlockx on</span> hinzu</p></li>
 </ol></div></div></div>
 <p class="p">Wenn der Nummernblock auch beim Anmeldeschirm verfügbar sein soll,  können Sie dafür eine Einstellungsdatei erstellen. Drücken Sie <span class="keyseq"><span class="key"><kbd>Strg</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span> um ein Terminalfenster zu öffnen und geben Sie folgenden Befehl ein (Der Befehlstext ist lang und könnte auch auf die nächste Zeile umgebrochen sein. Bitte daher den ganzen Befehl markieren, kopieren und dann einfügen):</p>

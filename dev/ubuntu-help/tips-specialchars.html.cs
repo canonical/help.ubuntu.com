@@ -81,14 +81,17 @@
 <div class="region"><div class="contents">
 <p class="p">Klávesa <span class="key"><kbd>Compose</kbd></span> je speciální klávesa, která umožňuje zmáčknout více kláves po sobě, abyste získali speciální znak. Například pro napsání dlouhého <span class="em">é</span> zmáčkněte <span class="key"><kbd>Compose</kbd></span>, pak <span class="key"><kbd>'</kbd></span> a pak <span class="key"><kbd>e</kbd></span>.</p>
 <p class="p">Drtivá většina klávesnic nemá zvlášť klávesu <span class="key"><kbd>Compose</kbd></span>. Můžete si ji ale namapovat na některou jinou existující klávesu na své klávesnici.</p>
+<div class="note note-important" title="Důležité"><div class="inner"><div class="region"><div class="contents"><p class="p">Abyste mohli změnit tato nastavení, musíte mít v počítači nainstalován <span class="app">Vyladění</span>.</p></div></div></div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Nadefinování klávesy Compose</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Klávesnice</span>.</p></li>
-<li class="steps"><p class="p">Kliknutím na <span class="gui">Klávesnice</span> otevřete příslušný panel.</p></li>
-<li class="steps"><p class="p">Vyberte kartu <span class="gui">Zkratky</span> a klikněte na <span class="gui">Psaní</span>.</p></li>
-<li class="steps"><p class="p">Klikněte v pravém panelu na <span class="gui">Klávesa Compose</span>.</p></li>
-<li class="steps"><p class="p">Klikněte na <span class="gui">Vypnuto</span> a v rozbalovací nabídce vyberte klávesu, kterou si přejete, aby se chovala, jako klávesa Compose. Můžete volit z kláves <span class="key"><kbd>Ctrl</kbd></span>, pravé klávesy <span class="key"><kbd>Alt</kbd></span>, pravé klávesy <span class="key"><kbd>Win</kbd></span> nebo <span class="key"><a href="keyboard-key-super.html" title="Co je klávesa Super?"><kbd>Super</kbd></a></span> (pokud jednu z nich máte), klávesy <span class="key"><a href="keyboard-key-menu.html" title="Co je klávesa Menu?"><kbd>Menu</kbd></a></span> a klávesy <span class="key"><kbd>Caps Lock</kbd></span>. Klávesa, kterou vyberete bude nadále fungovat jen jako klávesa Compose a ke svému původnímu účelu již sloužit nebude.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Vyladění</span>.</p></li>
+<li class="steps"><p class="p">Kliknutím na <span class="gui">Vyladění</span> otevřete aplikaci.</p></li>
+<li class="steps"><p class="p">Klikněte na kartu <span class="gui">Klávesnice a myš</span>.</p></li>
+<li class="steps"><p class="p">Klikněte na <span class="gui">Vypnuto</span> vedle nastavení <span class="gui">Klávesa Compose</span>.</p></li>
+<li class="steps"><p class="p">V dialogovém okně zapněte přepínač a zvolte klávesovou zkratku, kterou chcete používat.</p></li>
+<li class="steps"><p class="p">Zaškrtněte políčko u klávesy, kterou chcete nastavit jako klávesu Compose.</p></li>
+<li class="steps"><p class="p">Zavřete okno <span class="gui">Vyladění</span>.</p></li>
 </ol></div>
 </div></div>
 <p class="p">Pomocí klávesy <span class="key"><kbd>Compose</kbd></span> můžete psát řadu běžných znaků, například:</p>
@@ -110,7 +113,7 @@
 </div></div>
 <div id="layout" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Rozložení klávesnice</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Můžete přimět svoji klávesnici, aby se chovala jako klávesnice pro jiný jazyk, než pro který má na klávesách popisky. Mezi různými rozvrženími klávesnice se můžete přepínat pomocí ikony na horní liště. Jak na to viz <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a></span>.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Můžete přimět svoji klávesnici, aby se chovala jako klávesnice pro jiný jazyk, než pro který má na klávesách popisky. Mezi různými rozvrženími klávesnice se můžete přepínat pomocí ikony na horní liště. Jak na to viz <span class="link"><a href="keyboard-layouts.html" title="Použití alternativního rozložení klávesnice">Použití alternativního rozložení klávesnice</a></span>.</p></div></div>
 </div></div>
 <div id="im" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Vstupní metody</span></h2></div>
@@ -131,7 +134,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
+<a href="keyboard-layouts.html" title="Použití alternativního rozložení klávesnice">Použití alternativního rozložení klávesnice</a><span class="desc"> — Přidání rozložení klávesnice a přepnutí mezi nimi.</span>
 </li></ul></div>
 </div></div>
 </div>

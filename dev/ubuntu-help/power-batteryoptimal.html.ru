@@ -57,7 +57,9 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Не допускайте полного разряда аккумулятора. Всегда заряжайте аккумулятор <span class="em">до того</span>, как уровень заряда станет слишком низким, хотя большинство аккумуляторов имеют встроенную защиту от полного разряда. Перезарядка при частичном разряде более эффективна, однако выполнять её каждый раз, когда аккумулятор лишь слегка разрядился, более вредно для него.</p></li>
 <li class="list"><p class="p">Нагрев оказывает пагубный эффект на эффективность зарядки аккумулятора. Не позволяйте аккумулятору нагреваться больше, чем следует.</p></li>
-<li class="list"><p class="p">Аккумуляторы стареют даже когда не используются, а просто хранятся. Мало смысла в покупке запасного аккумулятора одновременно с исходным — всегда покупайте аккумулятор на замену, только когда он понадобится.</p></li>
+<li class="list"><p class="p">Batteries age even if you leave them in storage. There is little
+    advantage in buying a replacement battery at the same time as you get the
+    original battery — always buy replacements when you need them.</p></li>
 </ul></div></div></div>
 <div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents"><p class="p">Эти советы относятся только к литий-ионным (Li-Ion) аккумуляторам — наиболее распространённому типу аккумуляторов. Правила обращения с другими типами аккумуляторов могут отличаться.</p></div></div></div></div>
 </div>

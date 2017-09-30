@@ -51,8 +51,11 @@
 <div class="contents">
 <p class="p">Када инсталирате Убунту, језик који изаберете приликом инсталације бива инсталиран са енглеским језиком, али можете додати још неки.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the <span class="em">system menu</span> and select <span class="gui">System Settings</span>.</p></li>
-<li class="steps"><p class="p">У одељку „Лично“, кликните <span class="gui">Језичка подршка</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Activities</a></span> overview and
+      start typing <span class="gui">Region &amp; Language</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Manage Installed Languages</span> button to open <span class="gui">Language
+      Support</span>.</p></li>
 <li class="steps"><p class="p">Кликните <span class="gui">Инсталирај / уклони језике...</span>. Прозор <span class="gui">инсталираних језика</span> исписује све доступне језике, са означеним тренутно инсталираним језицима.</p></li>
 <li class="steps"><p class="p">Означите језике које желите да инсталирате, и одзначите оне тренутно инсталиране језике које желите да уклоните.</p></li>
 <li class="steps"><p class="p">Кликните <span class="gui">Промени измене</span>.</p></li>

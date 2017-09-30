@@ -73,6 +73,13 @@
       select the language which is associated with the layout, then select a
       layout and press <span class="gui">Add</span>.</p></li>
 </ol></div></div></div>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Some rarely used keyboard layout variants are not available by default when you click
+    the <span class="gui">+</span> button. To make also those input sources available you can open a terminal
+    window by pressing <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span>
+    and run this command:</p>
+<p class="p"><span class="cmd">gsettings set org.gnome.desktop.input-sources show-all-sources true</span></p>
+</div></div></div></div>
 <div class="note note-sidebar" title="Sidebar"><div class="inner"><div class="region"><div class="contents"><p class="p">You can preview an image of any layout by selecting it in the list of
     <span class="gui">Input Sources</span> and clicking
     <span class="gui"><span class="media"><span class="media media-image"><img src="figures/input-keyboard-symbolic.png" height="16" width="16" class="media media-inline" alt="preview"></span></span></span></p></div></div></div></div>
@@ -85,7 +92,7 @@
   to the extra settings.</p>
 <p class="p">When you use multiple layouts, you can choose to have all windows use the
   same layout or to set a different layout for each window. Using a different
-  layout for each window is useful, for example, if you're writing an article
+  layout for each window is useful, for example, if you’re writing an article
   in another language in a word processor window. Your keyboard selection will
   be remembered for each window as you switch between windows. Press the
   <span class="gui">Options</span> button to select how you want to manage

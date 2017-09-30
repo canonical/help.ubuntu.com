@@ -56,7 +56,13 @@
 <p class="p">Цветовой профиль — это набор данных, характеризующий либо устройство, такое как проектор, либо цветовое пространство, такое как sRGB.</p>
 <p class="p">Большинство цветовых профилей существуют в виде ICC-профилей, представляющих из себя небольшие файлы с расширением <span class="input">.ICC</span> или <span class="input">.ICM</span>.</p>
 <p class="p">Цветовые профили можно встраивать в изображения, чтобы указать диапазон его цветовой шкалы. Это даст гарантию того, что пользователи увидят одни и те же цвета на различных устройствах.</p>
-<p class="p">Каждое устройство, обрабатывающее цвет, должно иметь свой собственный цветовой профиль ICC. Когда это достигается, то про систему говорят, что она поддерживает<span class="em">непрерывный цветоуправляемый рабочий процесс</span>. Этот режим даёт уверенность в том, что цвета не модифицируются и не теряются.</p>
+<p class="p">
+    Every device that is processing color should have its own ICC
+    profile and when this is achieved the system is said to have an
+    <span class="em">end-to-end color-managed workflow</span>.
+    With this kind of workflow you can be sure that colors are not being
+    lost or modified.
+  </p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

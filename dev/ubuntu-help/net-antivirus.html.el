@@ -50,8 +50,14 @@
 <div class="region">
 <div class="contents">
 <p class="p">Εάν έχετε χρησιμοποιήσει λειτουργικά Windows ή Mac, θα χρησιμοποιούσατε επίσης λογισμικό προστασίας από ιούς που εκτελούνταν συνέχεια. Το λογισμικό προστασίας από ιούς εκτελείται στο παρασκήνιο, ελέγχοντας διαρκώς για ιούς του υπολογιστή που μπορεί να βρουν τον δρόμο τους στον υπολογιστή σας και να προκαλέσουν προβλήματα.</p>
-<p class="p">Λογισμικό για ιούς υπάρχει για Linux, αλλά προφανώς δεν χρειάζεται να το χρησιμοποιήσετε. Οι ιοί που επηρεάζουν το Linux είναι ακόμα πολύ σπάνιοι. Μερικοί υποστηρίζουν ότι αυτό συμβαίνει επειδή το Linux δεν είναι τόσο ευρέως χρησιμοποιούμενο όσο άλλα λειτουργικά συστήματα, έτσι κανένας δεν αναπτύσει ιούς για αυτό. Άλλοι υποστηρίζουν ότι το Linux είναι εγγενώς πιο ασφαλές και τα προβλήματα ασφάλειας που οι ιοί μπορούν να χρησιμοποιήσουν διορθώνονται πολύ γρήγορα.</p>
-<p class="p">Όποιος κι αν είναι ο λόγος, οι ιοί του Linux είναι τόσο σπάνιοι που δεν χρειάζεστε πράγματι να ανησυχείτε για αυτούς προς το παρόν.</p>
+<p class="p">Anti-virus software does exist for Linux, but you probably don’t need to
+  use it. Viruses that affect Linux are still very rare. Some argue that this
+  is because Linux is not as widely used as other operating systems, so no one
+  writes viruses for it. Others argue that Linux is intrinsically more secure,
+  and security problems that viruses could make use of are fixed very
+  quickly.</p>
+<p class="p">Whatever the reason, Linux viruses are so rare that you don’t really need
+  to worry about them at the moment.</p>
 <p class="p">Εάν θέλετε να είσαστε υπερασφαλείς, ή εάν θέλετε να ελέγξετε για ιούς σε αρχεία που περνάτε μεταξύ του εαυτού σας και ατόμων που χρησιμοποιούν Windows και Mac OS, μπορείτε να εγκαταστήσετε λογισμικό προστασίας από ιούς. Ελέγξτε τον εγκαταστάτη λογισμικού ή αναζήτησης με σύνδεση· ένας αριθμός από εφαρμογές είναι διαθέσιμος.</p>
 </div>
 <div class="sect sect-links" role="navigation">

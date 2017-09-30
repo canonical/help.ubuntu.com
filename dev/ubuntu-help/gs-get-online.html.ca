@@ -58,12 +58,8 @@
 <div class="media media-image"><div class="inner"><img src="gs-go-online1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps">
-<p class="p">The network connection icon on the right-hand side of the top
-       bar shows that you are offline.</p>
-<p class="p">The offline status can be caused by a number of reasons: for
-       example, a network cable has been unplugged, the computer has been set
-       to run in <span class="em">airplane mode</span>, or there are no available Wi-Fi
-       networks in your area.</p>
+<p class="p">La icona de l'estat de la connexió a la xarxa situada a la part dreta de la barra superior indica que esteu fora de línia.</p>
+<p class="p">L'estat de fora de línia pot ser degut a diverses causes, per exemple: que el cable de xarxa estigui desconnectat, que l'ordinador estigui en <span class="em">mode d'avió</span> o que no hi hagi cap xarxa sense fil disponible al vostre voltant.</p>
 <p class="p">Si voleu utilitzar una connexió amb fil, només cal que connecteu un cable de xarxa. L'ordinador intentarà configurar la connexió de xarxa automàticament.</p>
 <p class="p">Mentre s'està configurant la connexió de xarxa, la icona de l'estat de la connexió a la xarxa mostra tres punts.</p>
 </li>
@@ -76,19 +72,18 @@
 <div class="region"><div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-go-online2.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">To connect to a Wi-Fi (wireless) network:</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Per connectar-se a una xarxa Wi-Fi sense fil:</span></h3></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Click the <span class="gui"><a href="shell-introduction.html#yourname" title="You and your computer">system menu</a></span>
         on the right side of the top bar.</p></li>
-<li class="steps"><p class="p">Select <span class="gui">Wi-Fi Not Connected</span>. The Wi-Fi section of the menu
-        will expand.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Select Network</span>.</p></li>
+<li class="steps"><p class="p">Seleccioneu <span class="gui">Wi-Fi Not Connected</span> La secció de connexió Wi-Fi del menú s'expandirà.</p></li>
+<li class="steps"><p class="p">Cliqueu <span class="gui">Seleccioneu una xarxa</span>.</p></li>
 </ol></div>
 </div></div>
 <div class="note note-important" title="Important"><div class="inner"><div class="region"><div class="contents"><p class="p">Només us podeu connectar a una xarxa sense fil si el vostre maquinari ho suporta i si us trobeu dins d'una zona amb cobertura d'una xarxa sense fil.</p></div></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-go-online3.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="4"><li class="steps">
-<p class="p">De la llista de xarxes sense fil disponibles, seleccioneu la xarxa a la que us voleu connectar i per confirmar, feu clic a <span class="gui">Connecta</span>.</p>
+<p class="p">De la llista de xarxes sense fil disponibles, seleccioneu la xarxa a la qual us voleu connectar i per confirmar, feu clic a <span class="gui">Connecta</span>.</p>
 <p class="p">En funció de quina sigui la configuració de la xarxa, se us demanaran les credencials per connectar-vos-hi.</p>
 </li></ol></div></div></div>
 </div></div>

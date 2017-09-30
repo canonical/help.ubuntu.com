@@ -93,7 +93,11 @@
   some keyboard shortcuts simultaneously (for example, keys that are close
   together), but not others.</p>
 <p class="p">选中<span class="gui">若同时按两个键则禁用</span>来启用它。</p>
-<p class="p">您可以对计算机进行设置，使其在您开始按键盘快捷键时(粘滞键开启的情况下)发“哔”声。如果您想要知道粘滞键是否认为要输入的是键盘快捷键，以及下一个按键是否是快捷键的一部分，这将非常有用。选择<span class="gui">当按下修饰键时发出蜂鸣声</span>可启用此功能。</p>
+<p class="p">You can have the computer make a “beep” sound when you start typing a
+  keyboard shortcut with sticky keys turned on. This is useful if you want to
+  know that sticky keys is expecting a keyboard shortcut to be typed, so the
+  next key press will be interpreted as part of a shortcut. Select <span class="gui">Beep
+  when a modifier key is pressed</span> to enable this.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

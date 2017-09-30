@@ -53,10 +53,7 @@
 <div class="linkdiv "><a class="linkdiv" href="shell-introduction.html" title="Ievads GNOME vidē"><span class="title">Ievads GNOME vidē</span><span class="linkdiv-dash"> — </span><span class="desc">Vizuāls ievads — darbvirsma, augšējā josla un <span class="gui">Aktivitāšu</span> pārskats.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Izrakstīties, izslēgt datoru vai pārslēgt lietotājus"><span class="title">Izrakstīties, izslēgt datoru vai pārslēgt lietotājus</span><span class="linkdiv-dash"> — </span><span class="desc">Iemācieties, kā pamest savu lietotāja kontu, izrakstoties, mainot lietotājus u.t.t.</span></a></div>
 </div>
-<div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Palaist lietotnes"><span class="title">Palaist lietotnes</span><span class="linkdiv-dash"> — </span><span class="desc">Palaidiet lietotnes no <span class="gui">Aktivitāšu</span> pārskata.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-guest-session.html" title="Palaidiet ierobežotu viesa sesiju"><span class="title">Palaidiet ierobežotu viesa sesiju</span><span class="linkdiv-dash"> — </span><span class="desc">Ļauj draugam vai kolēģim aizņemties datoru drošā veidā.</span></a></div>
-</div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Palaist lietotnes"><span class="title">Palaist lietotnes</span><span class="linkdiv-dash"> — </span><span class="desc">Palaidiet lietotnes no <span class="gui">Aktivitāšu</span> pārskata.</span></a></div></div>
 </div></div></div></div>
 <div id="desktop" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Pielāgot savu darbvirsmu</span></h2></div>

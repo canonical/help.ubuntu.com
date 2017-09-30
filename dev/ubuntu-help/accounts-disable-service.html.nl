@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Control which online services an account can be used to access</title>
+<title>Bepaal tot welke online diensten een account toegang geeft</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,36 +43,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="accounts.html" title="Online accounts">Online accounts</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="accounts.html" title="Online-accounts">Online-accounts</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Control which online services an account can be used to access</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Bepaal tot welke online diensten een account toegang geeft</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Some types of online account providers allow you to access several services
-  with the same user account. For example, Google accounts provide access to
-  calendar, email, contacts and chat. You may want to use your account for some
-  services, but not others. For example, you may want to use your Google account
-  for email but not chat if you have a different online account that you use
-  for chat.</p>
-<p class="p">You can disable some of the services that are provided by each online
-  account:</p>
+<p class="p">Sommige soorten online-accounts geven toegang tot verschillende diensten vanuit een enkel gebruikersaccount. Zo geeft een Google-account onder andere toegang tot e-mail, agenda, chatten en contacten. U kunt ervoor kiezen om uw account te gebruiken voor sommige diensten, maar niet voor andere. U kunt bijvoorbeeld Google kiezen voor e-mail maar niet voor chatten, als u een ander online-account heeft die u wilt gebruiken voor chatten.</p>
+<p class="p">U kunt enkele services uitschakelen die worden geleverd door elk online-account:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Online Accounts</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Online Accounts</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Select the account which you want to change from the list on the
-      left.</p></li>
-<li class="steps"><p class="p">A list of services that are available with this account will be
-      shown under <span class="gui">Use for</span>. See <span class="link"><a href="accounts-which-application.html" title="Online services and applications">Online services and applications</a></span>
-      to see which applications access which services.</p></li>
-<li class="steps"><p class="p">Switch off any of the services that you do not want to use.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-weergave en typ <span class="gui">Online-accounts</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Online-accounts</span> om het paneel te openen.</p></li>
+<li class="steps"><p class="p">Selecteer in het linkerdeel van het venster het account dat u wilt wijzigen.</p></li>
+<li class="steps"><p class="p">Een lijst van diensten die beschikbaar zijn via dit account wordt weergegeven onder <span class="gui">Gebruiken voor</span>. Zie <span class="link"><a href="accounts-which-application.html" title="Online-services en -toepassingen">Online-services en -toepassingen</a></span> om te lezen welke toepassingen toegang hebben tot welke diensten.</p></li>
+<li class="steps"><p class="p">Schakel de diensten uit die u niet wilt gebruiken.</p></li>
 </ol></div></div></div>
-<p class="p">Once a service has been disabled for an account, applications on your
-  computer will not be able to use the account to connect to that service any
-  more.</p>
-<p class="p">To turn on a service that you disabled, just go back to the <span class="gui">Online
-  Accounts</span> window and switch it on.</p>
+<p class="p">Als een dienst is uitgeschakeld voor een account, zullen toepassingen op uw computer niet meer in staat zijn om het account te gebruiken voor die dienst. </p>
+<p class="p">Om een dienst in te schakelen die u eerder had uitgeschakeld, gaat u terug naar <span class="gui">Online-accounts</span> en schakelt u deze in.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -80,23 +67,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Online accounts">Online accounts</a><span class="desc"> — 
-      <span class="link"><a href="accounts-add.html" title="Add an account">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html" title="Remove an account">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html" title="Online services and applications">Learn about services</a></span>…
-    </span>
+<a href="accounts.html" title="Online-accounts">Online-accounts</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Een account toevoegen">Een online-account toevoegen</a></span>, <span class="link"><a href="accounts-remove.html" title="Een account verwijderen">Een account verwijderen</a></span>, <span class="link"><a href="accounts-which-application.html" title="Online-services en -toepassingen">Meer te weten komen over diensten</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="accounts-which-application.html" title="Online services and applications">Online services and applications</a><span class="desc"> — Applications can use the accounts created in <span class="app">Online
-    Accounts</span> and the services they exploit.</span>
+<a href="accounts-remove.html" title="Een account verwijderen">Een account verwijderen</a><span class="desc"> — De toegang van uw toepassingen tot een diensten-provider verwijderen.</span>
 </li>
 <li class="links ">
-<a href="accounts-remove.html" title="Remove an account">Remove an account</a><span class="desc"> — Remove access to an online service provider from your
-    applications.</span>
+<a href="accounts-which-application.html" title="Online-services en -toepassingen">Online-services en -toepassingen</a><span class="desc"> — Toepassingen kunnen de in <span class="app">Online accounts</span> aangemaakte accounts gebruiken, en de diensten die zij benutten.</span>
 </li>
 </ul></div>
 </div></div>

@@ -58,7 +58,7 @@
 <div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">Ett bra sätt för att välja ett lösenord är att ta den första bokstaven i varje ord i en fras som du kan komma ihåg. Frasen kan vara namnet på en film, en bok, en låt eller ett album. Till exempel skulle ”Flatland: A Romance of Many Dimensions” bli F:ARoMD eller faromd eller f: aromd.</p></div></div></div></div>
 </li>
 <li class="list"><p class="p">Gör dina lösenord så långa som möjligt. Ju fler tecken det innehåller, desto längre bör det ta för en person eller dator att gissa det.</p></li>
-<li class="list"><p class="p">Använd inte några ord som dyker upp i ett standarduppslagsverk på något språk. Lösenordsknäckare kommer att försöka med dessa först. Det vanligaste lösenordet är ”password” – personer kan gissa lösenord som detta väldigt snabbt!</p></li>
+<li class="list"><p class="p">Använd inte några ord som dyker upp i ett standarduppslagsverk på något språk. Lösenordsknäckare kommer att försöka med dessa först. Det vanligaste lösenordet är ”password” — personer kan gissa lösenord som detta väldigt snabbt!</p></li>
 <li class="list"><p class="p">Använd inte någon personlig information så som datum, registreringsnummer eller familjemedlemmars namn.</p></li>
 <li class="list"><p class="p">Använd inte några substantiv.</p></li>
 <li class="list">

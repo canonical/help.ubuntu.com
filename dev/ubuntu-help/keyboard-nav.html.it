@@ -69,10 +69,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Tasti freccia</p></td>
-<td style="border-top-style: solid;">
-<p class="p">Sposta la selezione tra elementi in un singolo controllo o tra un insieme di controlli correlati. Usare i tasti freccia per dare il focus ai pulsanti pulsanti in una barra degli strumenti, per selezionare elementi nella vista a elenco o a icone o per selezionare un pulsante radio da un gruppo.</p>
-<p class="p">In una vista ad albero, usare i tasti freccia sinistra e destra per ridurre ed espandere elementi con sottocartelle.</p>
-</td>
+<td style="border-top-style: solid;"><p class="p">Sposta la selezione tra elementi in un singolo controllo o tra un insieme di controlli correlati. Usare i tasti freccia per dare il focus ai pulsanti pulsanti in una barra degli strumenti, per selezionare elementi nella vista a elenco o a icone o per selezionare un pulsante radio da un gruppo.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+Tasti freccia</span></p></td>
@@ -81,6 +78,10 @@
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Maiusc</kbd></span>+Tasti freccia</span></p></td>
 <td style="border-top-style: solid;"><p class="p">Nella vista a elenco o a icone, seleziona tutti gli elementi a partire da quello selezionato fino quello attuale col focus.</p></td>
+<td style="border-top-style: solid;"><p class="p">In a tree view, items that have children can be expanded or collapsed,
+    to show or hide their children: expand by pressing
+    <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>→</kbd></span></span>, and collapse by
+    pressing <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>←</kbd></span></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Spazio</kbd></span></p></td>
@@ -264,7 +265,7 @@
 <li class="links "><a href="a11y.html#mobility" title="Difficoltà motorie">Difficoltà motorie</a></li>
 <li class="links ">
 <a href="keyboard.html" title="Tastiera">Tastiera</a><span class="desc"> — 
-      <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Keyboard layouts</a></span>,
+      <span class="link"><a href="keyboard-layouts.html" title="Usare disposizioni di tastiera alternative">Keyboard layouts</a></span>,
       <span class="link"><a href="keyboard-cursor-blink.html" title="Rendere il cursore intermittente">cursor blinking</a></span>,
       <span class="link"><a href="a11y.html#mobility" title="Difficoltà motorie">keyboard accessibility</a></span>…
     </span>

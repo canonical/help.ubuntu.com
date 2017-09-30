@@ -69,10 +69,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Flèches du clavier</p></td>
-<td style="border-top-style: solid;">
-<p class="p">Changer la sélection d'éléments au sein d'un contrôle, ou dans un ensemble de contrôles reliés. Utiliser les flèches du clavier pour mettre en évidence les boutons d'une barre d'outils, sélectionner les éléments dans une vue en liste ou en icônes ou sélectionner un bouton radio dans un groupe.</p>
-<p class="p">Dans une vue arborescente, utiliser les flèches gauche et droite pour étendre et réduire les éléments avec enfants.</p>
-</td>
+<td style="border-top-style: solid;"><p class="p">Changer la sélection d'éléments au sein d'un contrôle, ou dans un ensemble de contrôles reliés. Utiliser les flèches du clavier pour mettre en évidence les boutons d'une barre d'outils, sélectionner les éléments dans une vue en liste ou en icônes ou sélectionner un bouton radio dans un groupe.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Touches fléchées</kbd></span></span></p></td>
@@ -81,6 +78,10 @@
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Maj</kbd></span>+<span class="key"><kbd>Touches fléchées</kbd></span></span></p></td>
 <td style="border-top-style: solid;"><p class="p">Dans une vue en liste ou en icônes, sélectionner tous les éléments depuis l'élément sélectionné vers le nouvel élément mis en évidence.</p></td>
+<td style="border-top-style: solid;"><p class="p">In a tree view, items that have children can be expanded or collapsed,
+    to show or hide their children: expand by pressing
+    <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>→</kbd></span></span>, and collapse by
+    pressing <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>←</kbd></span></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Barre d'espace</kbd></span></p></td>
@@ -226,7 +227,7 @@
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard.html" title="Clavier">Clavier</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Agencement du clavier</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Clignotement du curseur">clignotement du curseur</a></span>, <span class="link"><a href="a11y.html#mobility" title="Mobilité défaillante">accessibilité du clavier</a></span>…</span>
+<a href="keyboard.html" title="Clavier">Clavier</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Utiliser des configurations de clavier alternatives">Agencement du clavier</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Clignotement du curseur">clignotement du curseur</a></span>, <span class="link"><a href="a11y.html#mobility" title="Mobilité défaillante">accessibilité du clavier</a></span>…</span>
 </li>
 <li class="links "><a href="a11y.html#mobility" title="Mobilité défaillante">Mobilité défaillante</a></li>
 </ul></div>

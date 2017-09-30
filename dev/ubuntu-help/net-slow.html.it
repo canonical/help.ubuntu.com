@@ -54,7 +54,14 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
 <p class="p"><span class="em-bold em">Linea congestionata</span></p>
-<p class="p">I provider di servizi Internet di solito configurano le connessioni Internet in modo che siano condivise tra diversi nuclei familiari. Anche se ognuno si connette separatamente, attraverso la propria linea telefonica o una connessione via cavo, il collegamento con il resto della rete al  centralino telefonico potrebbe essere effettivamente condiviso. In questo caso, se parecchi vicini stanno usando Internet contemporaneamente, è possibile ci sia un rallentamento. Ciò può accadere negli orari in cui è più probabile ci siano vicini collegati a Internet (di sera, per esempio).</p>
+<p class="p">Internet service providers commonly setup internet connections so that
+      they are shared between several households. Even though you connect
+      separately, through your own phone line or cable connection, the
+      connection to the rest of the internet at the telephone exchange might
+      actually be shared. If this is the case and lots of your neighbors are
+      using the internet at the same time as you, you might notice a slow-down.
+      You’re most likely to experience this at times when your neighbors are
+      probably on the internet (in the evenings, for example).</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Scaricare molti elementi contemporaneamente</span></p>
@@ -66,18 +73,27 @@
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Bassa qualità del segnale della connessione senza fili</span></p>
-<p class="p">If you're connected to the internet by wireless (wifi), check the
+<p class="p">If you’re connected to the internet by wireless (wifi), check the
       network icon on the top bar to see if you have good wireless signal. If
-      not, the internet may be slow because you don't have a very strong
+      not, the internet may be slow because you don’t have a very strong
       signal.</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Connessione mobile a Internet lenta</span></p>
-<p class="p">Se si utilizza una connessione mobile a Internet e risulta lenta, può darsi che ci si sia spostati in un'area dove la ricezione del segnale è scadente. In questo caso, la connessione a Internet passa automaticamente da una connessione veloce a "banda larga" come 3G a una connessione più affidabile, ma più lenta, come GPRS.</p>
+<p class="p">If you have a mobile internet connection and notice that it is slow,
+      you may have moved into an area where signal reception is poor. When this
+      happens, the internet connection will automatically switch from a fast
+      “mobile broadband” connection like 3G to a more reliable, but slower,
+      connection like GPRS.</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Il browser ha un problema</span></p>
-<p class="p">Talvolta i browser riscontrano, per diverse ragioni, un problema che li rallenta: si sta visitando un sito web che il browser carica a fatica o il browser potrebbe essere stato mantenuto aperto per molto tempo. Provare a chiudere e riaprire la finestra del browser per verificare se cambia qualcosa.</p>
+<p class="p">Sometimes web browsers encounter a problem that makes them run slow.
+      This could be for any number of reasons — you could have visited a
+      website that the browser struggled to load, or you might have had the
+      browser open for a long time, for example. Try closing all of the
+      browser’s windows and then opening the browser again to see if this makes
+      a difference.</p>
 </li>
 </ul></div></div></div>
 </div>
@@ -88,7 +104,7 @@
 <div class="region"><ul><li class="links ">
 <a href="net-problem.html" title="Problemi di rete">Problemi di rete</a><span class="desc"> — 
       <span class="link"><a href="net-wireless-troubleshooting.html" title="Risoluzione dei problemi relativi alle reti senza fili">Troubleshooting wireless connections</a></span>,
-      <span class="link"><a href="net-wireless-find.html" title="Non è possibile visualizzare la propria rete senza fili nell'elenco">finding your wifi network</a></span>…
+      <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">finding your wifi network</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

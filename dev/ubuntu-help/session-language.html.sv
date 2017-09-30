@@ -56,7 +56,7 @@
 <li class="steps"><p class="p">Klicka på <span class="gui">Språk</span>.</p></li>
 <li class="steps"><p class="p">Välj din önskade region och språk. Om din region och språk inte finns listade, klicka på <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="…"></span></span></span> längst ner i listan för att välja bland alla tillgängliga regioner och språk.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Färdig</span> för att spara.</p></li>
-<li class="steps"><p class="p">Svara på frågan <span class="gui">Din session behöver startas om för att ändringar ska genomföras</span> genom att klicka på <span class="gui">Starta om nu</span> eller klicka på <span class="gui">X</span> för att starta om senare.</p></li>
+<li class="steps"><p class="p">Svara på frågan <span class="gui">Din session behöver startas om för att ändringar ska genomföras</span> genom att klicka på <span class="gui">Starta om nu</span> eller klicka på <span class="gui">×</span> för att starta om senare.</p></li>
 </ol></div></div></div>
 <p class="p">Vissa översättningar kan vara inkompletta och vissa program kanske inte stöder ditt språk alls. Oöversatt text kommer att visas på det språk som programmet ursprungligen utvecklades på, vanligtvis amerikansk engelska.</p>
 <p class="p">De finns vissa specialmappar i din hemkatalog där program kan spara saker som musik, bilder och dokument. Dessa mappar använder standardnamn på ditt språk. När du loggar in igen kommer du att blir tillfrågade om du vill byta namn på dessa mappar till standardnamnen på ditt valda språk. Om du planerar att använda det nya språket hela tiden bör du uppdatera mappnamnen.</p>

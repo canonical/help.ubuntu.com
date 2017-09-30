@@ -61,7 +61,7 @@
 <li class="steps"><p class="p">Нажмите <span class="gui">Разблокировать</span> в верхнем правом углу и затем по запросу системы введите свой пароль.</p></li>
 <li class="steps"><p class="p">Выберите пользователя, полномочия которого вы хотите изменить.</p></li>
 <li class="steps"><p class="p">Нажмите на надпись <span class="gui">Обычный</span> рядом с <span class="gui">Типом учётной записи</span> и выберите <span class="gui">Администратор</span>.</p></li>
-<li class="steps"><p class="p">Полномочия пользователя изменятся при его следующем входе в систему.</p></li>
+<li class="steps"><p class="p">The user’s privileges will be changed when they next log in.</p></li>
 </ol></div></div></div>
 <div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents">
 <p class="p">Первый пользователь, созданный в системе, обычно обладает правами администратора. Это учётная запись пользователя, которая была создана в процессе установки системы.</p>

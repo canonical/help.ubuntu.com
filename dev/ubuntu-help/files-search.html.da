@@ -58,7 +58,10 @@
 <li class="steps"><p class="p">If you know the files you want are under a particular folder, go to
       that folder.</p></li>
 <li class="steps">
-<p class="p">Skriv et eller flere ord som du ved indgår i filnavnet, og de vil blive vist i søgelinjen. F.eks. hvis du navngiver alle dine fakturaer med ordet "Faktura", så skriv <span class="input">faktura</span>. Ord matches uanset om bogstaverne er store eller små.</p>
+<p class="p">Type a word or words that you know appear in the file name, and they
+      will be shown in the search bar. For example, if you name all your
+      invoices with the word “Invoice”, type <span class="input">invoice</span>. Words are
+      matched regardless of case.</p>
 <div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">Instead of typing words directly to bring up the search bar, you can
 	click the magnifying glass in the toolbar, or press
         <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>F</kbd></span></span>.</p></div></div></div></div>
@@ -71,7 +74,7 @@
           everywhere.</p></li>
 <li class="list"><p class="p">Click the <span class="gui">+</span> button and pick a <span class="gui">File Type</span> from
 	  the drop-down list to narrow the search results based on file type.
-	  Click the <span class="gui">x</span> button to remove this option and widen the
+	  Click the <span class="gui">×</span> button to remove this option and widen the
 	  search results.</p></li>
 </ul></div></div></div>
 </li>

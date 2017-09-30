@@ -75,7 +75,12 @@
 <p class="p">В левой части экрана в режиме обзора находится <span class="em">боковая панель</span>. Боковая панель содержит избранные и запущенные приложения. Чтобы открыть приложение, нажмите на значок этого приложения в этой панели. Значки уже запущенных приложений подсвечиваются. Нажатие на значок запущенного приложения приведёт к открытию окна этого приложения. Вы также можете перетаскивать значки в область обзора или на любое рабочее место в правой части экрана.</p>
 <p class="p">Нажатие правой кнопки мыши на значке открывает меню, в котором можно выбрать любое из уже открытых окон запущенного приложения или открыть новое окно. Новое окно также можно открыть просто нажав на значок, удерживая при этом клавишу <span class="key"><kbd>Ctrl</kbd></span>.</p>
 <p class="p">Когда вы открываете обзор, то вы попадаете в режим обзора окон. В этом режиме показываются «живые» миниатюры всех окон, открытых на текущем рабочем месте.</p>
-<p class="p">Чтобы попасть в режим обзора приложений, нажмите на значок с изображением сетки в нижней части боковой панели. В этом режиме вы увидите все приложения, установленные на вашем компьютере. Чтобы запустить приложение, нажмите на его значок или перетащите его в обзор или на миниатюру с изображеним рабочего места. Чтобы добавить приложение в избранное, перетащите его значок в боковую панель. Значки избранных приложений остаются в боковой панели, даже когда эти приложения не запущены, чтобы обеспечить быстрый доступ к ним.</p>
+<p class="p">Click the grid button at the bottom of the dash to display the
+  applications overview. This shows you all the applications installed on your
+  computer. Click any application to run it, or drag an application to the
+  overview or onto a workspace thumbnail. You can also drag an application onto
+  the dash to make it a favorite. Your favorite applications stay in the dash
+  even when they’re not running, so you can access them quickly.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
 <li class="list"><p class="p"><span class="link"><a href="shell-apps-open.html" title="Запуск приложений">Подробнее о запуске приложений.</a></span></p></li>
 <li class="list"><p class="p"><span class="link"><a href="shell-windows.html" title="Окна и рабочие места">Подробнее об окнах и рабочих местах.</a></span></p></li>
@@ -119,7 +124,11 @@
 <div class="hgroup"><h2 class="title"><span class="title">Блокирование экрана</span></h2></div>
 <div class="region"><div class="contents">
 <div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-lock.png" width="250" class="media media-block" alt="Блокирование экрана"></div></div>
-<p class="p">Когда экран компьютера блокируется (пользователем или автоматически, программой), то показывается экран блокировки. В дополнение к защите рабочего стола во время отсутствия пользователя, экран блокировки отображает дату и время. Также показывается информация о состоянии аккумулятора и сетевого соединения, и предоставляется возможность управлять медиапроигрывателем.</p>
+<p class="p">When you lock your screen, or it locks automatically, the lock screen is
+  displayed. In addition to protecting your desktop while you’re away from your
+  computer, the lock screen displays the date and time. It also shows
+  information about your battery and network status, and allows you to control
+  media playback.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-lockscreen.html" title="Экран блокировки">Узнать больше об экране блокировки.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></div>

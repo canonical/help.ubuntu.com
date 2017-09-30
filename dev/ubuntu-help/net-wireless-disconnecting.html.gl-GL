@@ -67,7 +67,12 @@
 <div id="network" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Conexión de rede non estabelecida correctamente</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">A veces, cando se conecta a unha rede sen fíos, pode parecer se conectara correctamente pero logo desconéctase moi rápido. Isto normalmente pasa porque o seu computador foi conectado de forma parcial á rede - tentou estabelecer unha conexión, pero non foi capaz de rematar a conexión por algunha razón e foi desconectado.</p>
+<p class="p">Sometimes, when you connect to a wireless network, it may appear that you
+ have successfully connected at first, but then you will be disconnected soon
+ after. This normally happens because your computer was only partially
+ successful in connecting to the network — it managed to establish a connection,
+ but was unable to finalize the connection for some reason and so was
+ disconnected.</p>
 <p class="p">Unha posíbel razón para isto é que escribiu un contrasinal de forma incorrecta, ou que o computador non ten permiso para acceder á rede (xa que a rede require un nome de usuario para iniciar sesión, por exemplo).</p>
 </div></div>
 </div></div>
@@ -86,7 +91,7 @@
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-problem.html" title="Problemas de rede">Problemas de rede</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Resolución de problemas en redes sen fíos">Resolución de erros en redes sen fíos</a></span>, <span class="link"><a href="net-wireless-find.html" title="Non podo ver a miña rede sen fíos na lista">atopar a súa rede sen fíos</a></span>…</span>
+<a href="net-problem.html" title="Problemas de rede">Problemas de rede</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Resolución de problemas en redes sen fíos">Resolución de erros en redes sen fíos</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">atopar a súa rede sen fíos</a></span>…</span>
 </li>
 <li class="links ">
 <a href="net-wireless.html" title="Redes sen fíos">Redes sen fíos</a><span class="desc"> — 
@@ -100,7 +105,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-connect.html" title="Conectar cunha rede sen fíos">Conectar cunha rede sen fíos</a><span class="desc"> — Conectarse a Internet sen fíos.</span>
+<a href="net-wireless-connect.html" title="Conectar cunha rede sen fíos">Conectar cunha rede sen fíos</a><span class="desc"> — Get on the internet — wirelessly.</span>
 </li></ul></div>
 </div></div>
 </div>

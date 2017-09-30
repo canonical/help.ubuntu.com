@@ -80,7 +80,12 @@
 <p class="p">アクティビティ画面の左部に<span class="em">ダッシュボード</span>が見えます。ダッシュボードには、お気に入りのアプリケーションと起動中のアプリケーションが表示されます。ダッシュボードのアイコンのどれかをクリックすると、そのアプリケーションが開きます。アプリケーションがすでに起動しているときは、ハイライト表示されます。起動中のアイコンをクリックすると、その最後に使ったウィンドウが前面に表示されます。アイコンは、アクティビティ画面や、あるいは画面右側の任意のワークスペースにドラッグすることもできます。</p>
 <p class="p">アイコンを右クリックすると、実行中のアプリケーションなら任意のウィンドウにフォーカスすることができ、また新規にウィンドウを開くこともできます。<span class="key"><kbd>Ctrl</kbd></span> キーを押さえながらアイコンをクリックして、新しいウィンドウを開くこともできます。</p>
 <p class="p">アクティビティ画面を表示すると、まずウィンドウの一覧が表示されます。これは、現在のワークスペースで開いている全ウィンドウのサムネイルです。</p>
-<p class="p">ダッシュボードの一番下にあるグリッドボタンを押すと、アプリケーションの一覧が表示されます。ここには、お使いのコンピューターにインストールされているすべてのアプリケーションが表示されます。いずれかのアプリケーションを選択すると、そのアプリケーションが起動します。あるいは、アクティビティ画面かワークスペースのサムネイルにアプリケーションをドラッグしても起動します。また、アプリケーションをダッシュボードにドラッグすることで、お気に入りとして追加することもできます。お気に入りのアプリケーションは、起動していない場合でもダッシュボードに表示されており、すばやく起ち上げることができます。</p>
+<p class="p">Click the grid button at the bottom of the dash to display the
+  applications overview. This shows you all the applications installed on your
+  computer. Click any application to run it, or drag an application to the
+  overview or onto a workspace thumbnail. You can also drag an application onto
+  the dash to make it a favorite. Your favorite applications stay in the dash
+  even when they’re not running, so you can access them quickly.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
 <li class="list"><p class="p"><span class="link"><a href="shell-apps-open.html" title="アプリケーションの起動">アプリケーションの起動についてもっと詳しく。</a></span></p></li>
 <li class="list"><p class="p"><span class="link"><a href="shell-windows.html" title="ウィンドウとワークスペース">ウィンドウとワークスペースについてもっと詳しく。</a></span></p></li>
@@ -134,7 +139,11 @@
 <div class="hgroup"><h2 class="title"><span class="title">ロック画面</span></h2></div>
 <div class="region"><div class="contents">
 <div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-lock.png" width="250" class="media media-block" alt="ロック画面"></div></div>
-<p class="p">画面をロックしたり、自動的にロックが掛かったりした場合に、ロック画面が表示されます。コンピューターから離れている間、デスクトップを保護できます。ロック画面には日付や時刻などが表示されます。他にもバッテリーやネットワークの状態を確認したり、メディアの再生をコントロールしたりできます。</p>
+<p class="p">When you lock your screen, or it locks automatically, the lock screen is
+  displayed. In addition to protecting your desktop while you’re away from your
+  computer, the lock screen displays the date and time. It also shows
+  information about your battery and network status, and allows you to control
+  media playback.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-lockscreen.html" title="The Lock Screen">ロック画面についてもっと詳しく。</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></div>

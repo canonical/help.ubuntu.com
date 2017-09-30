@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>File manager preferences</title>
+<title>Bestandsbeheer-voorkeuren</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,25 +43,24 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">File manager preferences</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Bestandsbeheer-voorkeuren</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="nautilus-behavior.html" title="File manager behavior preferences"><span class="title">File manager behavior preferences</span><span class="linkdiv-dash"> — </span><span class="desc">Single-click to open files, run or view executable
-    text files, and specify trash behavior.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-display.html" title="File manager display preferences"><span class="title">File manager display preferences</span><span class="linkdiv-dash"> — </span><span class="desc">Control icon captions used in the file manager.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-preview.html" title="File manager preview preferences"><span class="title">File manager preview preferences</span><span class="linkdiv-dash"> — </span><span class="desc">Control when thumbnails are used for files.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-list.html" title="Files list columns preferences"><span class="title">Files list columns preferences</span><span class="linkdiv-dash"> — </span><span class="desc">Control what information is displayed in columns in list view.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-views.html" title="Views preferences in Files"><span class="title">Views preferences in <span class="app">Files</span></span><span class="linkdiv-dash"> — </span><span class="desc">Specify the default sort order and grouping for the file
+<div class="linkdiv "><a class="linkdiv" href="nautilus-display.html" title="Bestandsbeheer-weergavevoorkeuren"><span class="title">Bestandsbeheer-weergavevoorkeuren</span><span class="linkdiv-dash"> — </span><span class="desc">De door de bestandsbeheerder gebruikte pictogrambijschriften beheren.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-list.html" title="Files list columns preferences"><span class="title">Files list columns preferences</span><span class="linkdiv-dash"> — </span><span class="desc">Beheren welke informatie weergegeven wordt in kolommen in de lijstweergave.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-behavior.html" title="Gedragsvoorkeuren bestandsbeheer"><span class="title">Gedragsvoorkeuren bestandsbeheer</span><span class="linkdiv-dash"> — </span><span class="desc">Met één muisklik bestanden openen, uitvoerbare tekstbestanden uitvoeren of bekijken, en het gedrag van de prullenbak specificeren.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-preview.html" title="Voorkeuren voor voorbeelden in bestandsbeheer"><span class="title">Voorkeuren voor voorbeelden in bestandsbeheer</span><span class="linkdiv-dash"> — </span><span class="desc">Bepaal wanneer er miniaturen voor bestanden zullen worden gebruikt.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-views.html" title="Weergaven-voorkeuren in Bestanden"><span class="title">Weergaven-voorkeuren in <span class="app">Bestanden</span></span><span class="linkdiv-dash"> — </span><span class="desc">Specify the default sort order and grouping for the file
     manager.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

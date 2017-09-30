@@ -65,17 +65,12 @@
 <div class="hgroup"><h2 class="title"><span class="title"><span class="gui">Toiminnot</span>-yleisnäkymä</span></h2></div>
 <div class="region"><div class="contents">
 <div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-activities.png" class="media media-block" alt="Toiminnot-painike"></div></div>
-<p class="p">To access your windows and applications,
-  click the <span class="gui">Activities</span> button, or just move your mouse pointer to
-  the top-left hot corner. You can also press the
-  <span class="key"><a href="keyboard-key-super.html" title="Mikä on Super-näppäin?"><kbd>Super</kbd></a></span> key on your keyboard. You can
-  see your windows and applications in the overview. You can also just start
-  typing to search your applications, files, folders, and the web.</p>
+<p class="p">Käytä ikkunoita ja sovelluksia napsauttamalla <span class="gui">Toiminnot</span>-painiketta, tai siirrä hiiren osoitin näytön vasempaan yläreunaan. Vaihtoehtoisesti voit painaa näppäimistöstä <span class="key"><a href="keyboard-key-super.html" title="Mikä on Super-näppäin?"><kbd>Super</kbd></a></span>-näppäintä. Näet avoinna olevat ikkunat ja sovellukset yleisnäkymässä. Aloita kirjoittaminen etsiäksesi sovelluksia, tiedostoja, kansioita, hakutuloksia internetistä ja muuta.</p>
 <div class="media media-image floatstart if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-dash.png" height="300" class="media media-block" alt="Telakka"></div></div>
 <p class="p">Yleisnäkymän vasemmassa laidassa on <span class="em">telakka</span>. Telakkassa on suosikkisovelluksesi sekä avoinna olevat sovellukset. Napsauta telakassa olevaa kuvaketta avataksesi sovelluksen. Jos sovellus on jo käynnissä, se näkyy korostettuna telakassa. Tällöin kuvakkeen napsauttaminen tuo esiin viimeksi avoinna olleen ikkunan. Voit myös raahata kuvakkeen yleisnäkymään, tai mihin tahansa oikealla yleisnäkymän oikeassa laidassa näkyvään työtilaan.</p>
 <p class="p">Kuvakkeen napsauttaminen hiiren oikealla avaa valikon, jonka kautta voit valita käynnissä olevan sovelluksen minkä tahansa ikkunan, tai avata uuden ikkunan. Voit myös avata uuden ikkunan haluamastasi sovelluksesta napsauttamalla kuvaketta <span class="key"><kbd>Ctrl</kbd></span>-näppäin pohjassa.</p>
 <p class="p">Kun avaat yleisnäkymän, näet avoinna olevat ikkunat. Kaikki nykyisessä työtilassa avoinna olevat ikkunat esitetään pienoiskuvina. Kohdista haluamaasi ikkunaan napsauttamalla sen kuvaa.</p>
-<p class="p">Napsauta telakan alaosassa olevaa ruudukkopainiketta siirtyäksesi sovellusten yleisnäkymään. Sovellusten yleisnäkymässä näkyy kaikki koneelle asennetut sovellukset. Avaa haluamasi sovellus napsauttamalla sen kuvaketta, tai vetämällä kuvake yleisnäkymän oikeassa laidassa näkyvään työtilaan. Voit lisätä sovelluksen telakkaan vetämällä haluamasi kuvakkeen telakan päälle. Näin sovelluksen kuvake näkyy telakassa, vaikka kyseinen sovellus ei olisi käynnissä.</p>
+<p class="p">Napsauta telakan alaosassa olevaa ruudukkopainiketta siirtyäksesi sovellusten yleisnäkymään. Sovellusten yleisnäkymässä näytetään kaikki koneelle asennetut sovellukset. Avaa haluamasi sovellus napsauttamalla sen kuvaketta, tai vetämällä kuvake työtilaan. Voit lisätä sovelluksen telakkaan vetämällä haluamasi kuvakkeen telakan päälle. Näin sovelluksen kuvake näkyy telakassa, vaikka kyseinen sovellus ei olisi käynnissä.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
 <li class="list"><p class="p"><span class="link"><a href="shell-apps-open.html" title="Sovelluksien käynnistäminen">Lue lisää sovellusten käynnistämisestä.</a></span></p></li>
 <li class="list"><p class="p"><span class="link"><a href="shell-windows.html" title="Ikkunat ja työtilat">Lue lisää ikkunoista ja työtiloista.</a></span></p></li>
@@ -85,7 +80,7 @@
 <div id="appmenu" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Sovellusvalikko</span></h2></div>
 <div class="region"><div class="contents">
-<div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-appmenu-shell.png" width="250" class="media media-block" alt="App Menu of Terminal"></div></div>
+<div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-appmenu-shell.png" width="250" class="media media-block" alt="Päätteen sovellusvalikko"></div></div>
 <p class="p">Sovellusvalikko, joka sijaitsee <span class="gui">Toiminnot</span>-painikkeen vieressä, esittää aktiivisena olevan sovelluksen nimen ja kuvakkeen. Sen avulla sovelluksen asetukset ja ohje ovat nopeasti käytettävissä. Valikon sisältö määräytyy sovelluskohtaisesti.</p>
 </div></div>
 </div></div>
@@ -119,7 +114,11 @@
 <div class="hgroup"><h2 class="title"><span class="title">Lukitusnäyttö</span></h2></div>
 <div class="region"><div class="contents">
 <div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-lock.png" width="250" class="media media-block" alt="Lukitusnäyttö"></div></div>
-<p class="p">Kun lukitset tietokoneen, tai kun tietokone lukittuu automaattisesti, näytetään lukitusnäyttö. Se estää muita käyttämästä tietokonetta tunnuksellasi. Samalla se näyttää myös tietoa, kuten päivän, ajan, akkutason ja verkon tilan. Kaiken lisäksi voit hallita esimerkiksi musiikkisovellusta suoraan lukitusnäytöltä.</p>
+<p class="p">When you lock your screen, or it locks automatically, the lock screen is
+  displayed. In addition to protecting your desktop while you’re away from your
+  computer, the lock screen displays the date and time. It also shows
+  information about your battery and network status, and allows you to control
+  media playback.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-exit.html#lock-screen" title="Näytön lukitseminen">Lue lisää lukitusnäytöstä.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></div>

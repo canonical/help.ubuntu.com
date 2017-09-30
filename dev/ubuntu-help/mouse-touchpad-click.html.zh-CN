@@ -69,11 +69,15 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">要点击，在触摸板上触击。</p></li>
 <li class="list"><p class="p">要双击，触击两次。</p></li>
-<li class="list"><p class="p">要拖动一个项目，双击这一项目并保持手指停在触摸板上，然后拖动项目到任意地方，然后抬起手指离开触摸板。</p></li>
+<li class="list"><p class="p">To drag an item, double-tap but don’t lift your finger after the
+      second tap. Drag the item where you want it, then lift your finger to
+      drop.</p></li>
 <li class="list"><p class="p">如果您的触摸板支持多指点击，则可以通过两指同时点击来触发右键单击动作。否则您需要按下实体右键方可完成动作。请参阅<span class="link"><a href="a11y-right-click.html" title="模拟右键点击">模拟右键点击</a></span>获得更多关于模拟右键点击的信息。</p></li>
 <li class="list"><p class="p">如果您的触摸板支持多指点击，三指同时点击可以模拟<span class="link"><a href="mouse-middleclick.html" title="单击中键">中键点击</a></span>动作。</p></li>
 </ul></div></div></div>
-<div class="note" title="备注"><div class="inner"><div class="region"><div class="contents"><p class="p">当您进行多指点击或拖动时，请确保您的手指分得够开。如果手指过于接近，电脑可能会误认为是单指动作。</p></div></div></div></div>
+<div class="note" title="备注"><div class="inner"><div class="region"><div class="contents"><p class="p">When tapping or dragging with multiple fingers, make sure your fingers
+    are spread far enough apart. If your fingers are too close, your computer
+    may think they’re a single finger.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="twofingerscroll" class="sect"><div class="inner">

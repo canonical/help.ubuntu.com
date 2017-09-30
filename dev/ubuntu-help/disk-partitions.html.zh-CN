@@ -55,7 +55,8 @@
 <div id="manage" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">使用磁盘实用工具查看和管理卷和分区</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">您可以使用磁盘实用工具检查和修改计算机的存储卷。</p>
+<p class="p">You can check and modify your computer’s storage volumes with the disk
+ utility.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui">Activities</span> overview and start <span class="app">Disks</span>.</p></li>
 <li class="steps"><p class="p">In the list of storage devices on the left, you will find hard disks,

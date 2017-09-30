@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>What is a driver?</title>
+<title>Wat is een stuurprogramma?</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,29 +43,19 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">What is a driver?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Wat is een stuurprogramma?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Devices are the physical "parts" of your computer. They may be
+<p class="p">Devices are the physical “parts” of your computer. They may be
 <span class="em">external</span> like printers and monitor or <span class="em">internal</span> like graphics
 and audio cards.</p>
-<p class="p">In order for your computer to be able to use these devices, it needs to know
-how to communicate with them. This is done by a piece of software called a
-<span class="em">device driver</span>.</p>
-<p class="p">When you attach a device to your computer, you must have the correct driver
-installed for that device to work. For example, if you plug in a printer but
-the correct driver is not available, you will not be able to use the printer.
-Normally, each model of device uses a driver that is not compatible with any
-other model.</p>
-<p class="p">On Linux, the drivers for most devices are installed by default, so
-everything should work when you plug it in. However, the drivers may need to be
-installed manually or may not be available at all. </p>
-<p class="p">In addition, some existing drivers are incomplete or partially
-non-functional. For example, you might find that your printer cannot do
-double-sided printing, but is otherwise completely functional.</p>
+<p class="p">Om deze apparaten te kunnen gebruiken moet uw computer weten hoe ermee te communiceren. Dit wordt gedaan door een stukje software genaamd <span class="em">apparaat-stuurprogramma</span>.</p>
+<p class="p">Wanneer u een apparaat aansluit op uw computer, dan moet u het juiste stuurprogramma geïnstalleerd hebben om het te laten werken. Als u bijvoorbeeld een printer aansluit, maar het juiste stuurprogramma is niet beschikbaar, dan kunt u de printer niet gebruiken. Normaal gesproken gebruikt elk model van een apparaat een stuurprogramma dat niet compatibel is met een ander model.</p>
+<p class="p">In Linux zijn de stuurprogramma's voor de meeste apparaten standaard geïnstalleerd, dus alles wat u aansluit zou moeten werken. Maar het kan ook zijn dat een stuurprogramma handmatig moet worden geïnstalleerd of helemaal niet te krijgen is.</p>
+<p class="p">Bovendien zijn sommige bestaande stuurprogramma's onvolledig of functioneren deels niet. Het kan bijvoorbeeld zijn dat uw printer niet dubbelzijdig afdrukt, maar voor de rest goed functioneert.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -73,26 +63,18 @@ double-sided printing, but is otherwise completely functional.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="Hardware &amp; drivers">Hardware &amp; drivers</a><span class="desc"> — 
-      <span class="link"><a href="hardware.html#problems" title="Common problems">Hardware problems</a></span>,
-      <span class="link"><a href="printing.html" title="Afdrukken">printers</a></span>,
-      <span class="link"><a href="power.html" title="Power &amp; battery">power settings</a></span>,
-      <span class="link"><a href="color.html" title="Color management">color management</a></span>,
-      <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>,
-      <span class="link"><a href="disk.html" title="Disks &amp; storage">disks</a></span>…
-    </span>
+<a href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware &amp; stuurprogramma's</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Veel voorkomende problemen">Hardware problemen</a></span>, <span class="link"><a href="printing.html" title="Afdrukken">printers</a></span>, <span class="link"><a href="power.html" title="Voeding &amp; accu">energie-instellingen</a></span>, <span class="link"><a href="color.html" title="Kleurbeheer">kleurbeheer</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disks.html" title="disks">schijven</a></span>...</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth-problem-connecting.html" title="I cannot connect my Bluetooth device">I cannot connect my Bluetooth device</a><span class="desc"> — The adapter could be turned off or may not have drivers, or Bluetooth
-    might be disabled or blocked.</span>
+<a href="power-nowireless.html" title="Ik heb geen draadloos netwerk na het weer actief worden van mijn computer">Ik heb geen draadloos netwerk na het weer actief worden van mijn computer</a><span class="desc"> — Some wireless devices have problems handling when your computer is
+    suspended and does not resume properly.</span>
 </li>
 <li class="links ">
-<a href="power-nowireless.html" title="Ik heb geen draadloos netwerk na ontwaken van mijn computer">Ik heb geen draadloos netwerk na ontwaken van mijn computer</a><span class="desc"> — Some wireless devices have problems handling when your computer is
-    suspended and does not resume properly.</span>
+<a href="bluetooth-problem-connecting.html" title="Ik kan mijn Bluetooth-apparaat niet aansluiten">Ik kan mijn Bluetooth-apparaat niet aansluiten</a><span class="desc"> — Het kan zijn dat de adapter is uitgeschakeld, of geen stuurprogramma heeft, of Bluetooth kan uitgeschakeld of geblokkeerd zijn.</span>
 </li>
 <li class="links ">
 <a href="power-suspendfail.html" title="Why does my computer not turn back on after I suspended it?">Why does my computer not turn back on after I suspended it?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>

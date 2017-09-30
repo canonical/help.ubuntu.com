@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Why is my laptop slow when it is on battery?</title>
+<title>Waarom is mijn laptop traag als het op accuspanning loopt?</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,19 +44,16 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="power.html" title="Power &amp; battery">Power &amp; battery</a> › <a class="trail" href="power.html#faq" title="Questions">Questions</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="power.html" title="Voeding &amp; accu">Voeding &amp; accu</a> › <a class="trail" href="power.html#faq" title="Vragen">Vragen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="power.html" title="Power &amp; battery">Power &amp; battery</a> › <a class="trail" href="power.html#faq" title="Questions">Questions</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="power.html" title="Voeding &amp; accu">Voeding &amp; accu</a> › <a class="trail" href="power.html#faq" title="Vragen">Vragen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Why is my laptop slow when it is on battery?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Waarom is mijn laptop traag als het op accuspanning loopt?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Some laptops intentionally slow down when they are running on battery in
-order to conserve power. The processor (CPU) in the laptop switches to a slower
-speed, and processors use less power when running slower, so the battery should
-last longer.</p>
+<p class="p">Om energie te besparen lopen sommige laptops opzettelijk langzamer als ze op accuspanning lopen. De processor (CPU) in de laptop schakelt over naar een lagere snelheid, en processors gebruiken minder energie als ze langzamer lopen, zodat de accuspanning langer meegaat.</p>
 <p class="p">Deze functie wordt <span class="em">CPU frequency scaling</span> genoemd.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -64,12 +61,12 @@ last longer.</p>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="power.html#faq" title="Questions">Questions</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="power.html#faq" title="Vragen">Vragen</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power-batterywindows.html" title="Hoe komt het dat de levensduur van de accu lager is dan onder Windows/Mac OS?">Hoe komt het dat de levensduur van de accu lager is dan onder Windows/Mac OS?</a><span class="desc"> — Tweaks van de fabrikant en verschillende schattingen van de levensduur van de accu kunnen de oorzaak zijn van dit probleem.</span>
+<a href="power-batterywindows.html" title="Hoe komt het dat de accuduur lager is dan onder Windows/Mac OS?">Hoe komt het dat de accuduur lager is dan onder Windows/Mac OS?</a><span class="desc"> — Tweaks van de fabrikant en verschillende schattingen van de accuduur kunnen de oorzaak zijn van dit probleem.</span>
 </li></ul></div>
 </div></div>
 </div>

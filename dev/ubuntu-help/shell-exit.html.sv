@@ -86,7 +86,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">För att spara ström, försätt din dator i vänteläge när du inte använder den. Om du använder en bärbar dator, kommer GNOME som standard automatiskt att försätta datorn i vänteläge när du stänger locket. Detta sparar tillståndet till din dators minne och stänger av de flesta av datorns funktioner. En väldigt liten del av strömmen används fortfarande i vänteläge.</p>
-<p class="p">För att försätta din dator i vänteläge manuellt, klicka på systemmenyn på höger sida av systemraden och håll ner <span class="key"><kbd>Alt</kbd></span>-tangenten. Avstängningsknappen ändras till vänteläge. Tryck på knappen.</p>
+<p class="p">För att försätta din dator i vänteläge manuellt, klicka på systemmenyn på höger sida av systemraden. Därifrån kan du antingen hålla ner <span class="key"><kbd>Alt</kbd></span>-tangenten och klicka på avstängningsknappen, eller helt enkelt klicka ett långt klick på avstängningsknappen.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

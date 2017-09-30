@@ -63,8 +63,14 @@
 </ol></div>
 </div></div>
 <p class="p">Αν αυτό δεν ακυρώνει την εργασία εκτύπωσης όπως περιμένετε, δοκιμάστε να κρατήσετε πατημένο το κουμπί <span class="em">ακύρωση</span> στον εκτυπωτή σας.</p>
-<p class="p">Ως τελευταία λύση, ειδικά αν έχετε μια μεγάλη εργασία εκτύπωσης με πολλές σελίδες που δεν μπορεί να ακυρωθεί, αφαιρέστε το χαρτί από τον δίσκο εισόδου του εκτυπωτή. Ο εκτυπωτής πρέπει να καταλάβει ότι δεν υπάρχει χαρτί και θα σταματήσει την εκτύπωση. Μπορείτε έπειτα να δοκιμάσετε να ακυρώσετε την εργασία εκτύπωσης, ή να δοκιμάσετε να σβήσετε τον εκτυπωτή και να τον ξανανοίξετε.</p>
-<div class="note note-warning" title="Προειδοποίηση"><div class="inner"><div class="region"><div class="contents"><p class="p">Προσέξτε να μην χαλάσετε τον εκτυπωτή όταν αφαιρείτε το χαρτί. Εάν θα πρέπει να τραβήξετε έντονα το χαρτί για να το αφαιρέσετε, τότε θα πρέπει προφανώς απλά να το αφήσετε όπως είναι.</p></div></div></div></div>
+<p class="p">As a last resort, especially if you have a big print job with a lot of
+  pages that will not cancel, remove the paper from the printer’s paper input
+  tray. The printer should realize that there is no paper and will stop
+  printing. You can then try canceling the print job again, or try turning the
+  printer off and then on again.</p>
+<div class="note note-warning" title="Προειδοποίηση"><div class="inner"><div class="region"><div class="contents"><p class="p">Be careful that you don’t damage the printer when removing the paper,
+    though. If you would have to pull hard on the paper to remove it, you
+    should probably just leave it where it is.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="pause-release-print-job" class="sect"><div class="inner">

@@ -2,7 +2,7 @@
 <html lang=ru>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Я не могу воспроизвести музыку, приобретённую в музыкальном Интернет-магазине</title>
+<title>I can’t play the songs I bought from an online music store</title>
 <link rel="stylesheet" type="text/css" href="ru.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,12 +46,12 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Звук, видео и изображения">Звук, видео и изображения</a> › <a class="trail" href="media.html#music" title="Музыка и портативные аудиоплееры">Музыка и проигрыватели</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Я не могу воспроизвести музыку, приобретённую в музыкальном Интернет-магазине</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">I can’t play the songs I bought from an online music store</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Случается, что музыка, скачанная из интернет-магазина, не воспроизводится на компьютере, особенно вы покупали её на компьютере с Windows или Mac OS, а затем скопировали на свой компьютер.</p>
-<p class="p">Причина может быть в том, что музыка записана в формате, не распознаваемом вашим компьютером. Для воспроизведения музыкальной композиции должна быть установлена поддержка соответствующего аудиоформата — например, чтобы воспроизвести файлы MP3, нужно установить поддержку MP3. Если поддержка данного аудиоформата не установлена, при попытке воспроизвести композицию вы увидите сообщение об этом. В сообщении также должны быть приведены инструкции по установке поддержки этого формата.</p>
-<p class="p">Если поддержка аудиоформата установлена, но воспроизвести музыку всё равно не удаётся, то она, вероятно, <span class="em">защищена от копирования</span> (<span class="em">с помощью DRM</span>). DRM — это технология, ограничивающая круг лиц, которым можно воспроизводить музыкальную композицию, и устройств, на которых её можно воспроизводить. Эти ограничения вводятся компанией, продающей музыку, а не вами. Если музыкальный файл защищён DRM, то вы, возможно, не сможете его воспроизвести — для этого необходимо специальное программное обеспечение от производителя, но для Linux оно часто не поддерживается.</p>
+<p class="p">If you downloaded some music from an online store you may find that it won’t play on your computer, especially if you bought it on a Windows or Mac OS computer and then copied it over.</p>
+<p class="p">This could be because the music is in a format that is not recognized by your computer. To be able to play a song you need to have support for the right audio formats installed — for example, if you want to play MP3 files, you need MP3 support installed. If you don’t have support for a given audio format, you should see a message telling you so when you try to play a song. The message should also provide instructions for how to install support for that format so that you can play it.</p>
+<p class="p">If you do have support installed for the song’s audio format but still can’t play it, the song might be <span class="em">copy protected</span> (also known as being <span class="em">DRM restricted</span>). DRM is a way of restricting who can play a song and on what devices they can play it. The company that sold the song to you is in control of this, not you. If a music file has DRM restrictions, you will probably not be able to play it — you generally need special software from the vendor to play DRM restricted files, but this software is often not supported on Linux.</p>
 <p class="p">Узнать больше о DRM можно на сайте <span class="link"><a href="http://www.eff.org/issues/drm" title="http://www.eff.org/issues/drm">Electronic Frontier Foundation</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">

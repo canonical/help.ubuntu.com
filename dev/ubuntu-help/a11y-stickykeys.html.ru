@@ -74,7 +74,11 @@
 <p class="p">Если нажать две клавиши одновременно, «залипающие клавиши» временно отключатся, чтобы вы могли ввести комбинацию клавиш «обычным» способом.</p>
 <p class="p">Например, если залипающие клавиши включены, но вы нажали <span class="key"><kbd>Super</kbd></span> и <span class="key"><kbd>Tab</kbd></span> одновременно, залипающие клавиши не будут ждать нажатия ещё одной клавиши, если эта опция включена. Однако, они <span class="em">будут</span> ждать, если вы нажали только одну клавишу. Это полезно, если вы можете нажимать некоторые сочетания клавиш одновременно (например, клавиши, которые находятся рядом друг с другом), но не другие.</p>
 <p class="p">Для включения этой возможности выберите <span class="gui">Отключать, если две клавиши нажаты вместе</span>.</p>
-<p class="p">Можно сделать так, чтобы компьютер подавал звуковой сигнал, если вы начинаете набор на клавиатуре при включённых «залипающих клавишах». Это полезно, если вы хотите знать, когда «залипающие клавиши» ожидают нажатия комбинации клавиш и следующее нажатие будет интерпретироваться, как часть этой комбинации. Для включения этой возможности выберите <span class="gui">Подавать сигнал при нажатии модификатора</span>.</p>
+<p class="p">You can have the computer make a “beep” sound when you start typing a
+  keyboard shortcut with sticky keys turned on. This is useful if you want to
+  know that sticky keys is expecting a keyboard shortcut to be typed, so the
+  next key press will be interpreted as part of a shortcut. Select <span class="gui">Beep
+  when a modifier key is pressed</span> to enable this.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -82,7 +86,7 @@
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard.html" title="Клавиатура">Клавиатура</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Раскладки клавиатуры</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Как сделать клавиатурный курсор мигающим?">мигание курсора</a></span>, <span class="link"><a href="a11y.html#mobility" title="Ограничения подвижности">специальные возможности клавиатуры</a></span>…</span>
+<a href="keyboard.html" title="Клавиатура">Клавиатура</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Использование альтернативных раскладок клавиатуры">Раскладки клавиатуры</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Как сделать клавиатурный курсор мигающим?">мигание курсора</a></span>, <span class="link"><a href="a11y.html#mobility" title="Ограничения подвижности">специальные возможности клавиатуры</a></span>…</span>
 </li>
 <li class="links "><a href="a11y.html#mobility" title="Ограничения подвижности">Ограничения подвижности</a></li>
 </ul></div>

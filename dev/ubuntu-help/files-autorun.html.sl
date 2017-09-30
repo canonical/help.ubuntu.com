@@ -94,7 +94,7 @@
 <dd class="terms"><p class="p">Choose your favorite video application to handle video DVDs. Use the
     <span class="gui">Other Media…</span> button to set an application for Blu-ray, HD DVD,
     video CD (VCD), and super video CD (SVCD). If DVDs or other video discs
-    do not work correctly when you insert them, see <span class="link"><a href="video-dvd.html" title="Zakaj ne morem predvajati DVD-jev?">Zakaj ne morem predvajati DVD-jev?</a></span>.
+    do not work correctly when you insert them, see <span class="link"><a href="video-dvd.html" title="Why won’t DVDs play?">Why won’t DVDs play?</a></span>.
     </p></dd>
 <dt class="terms">Prazni diski</dt>
 <dd class="terms"><p class="p">Use the <span class="gui">Other Media…</span> button to select a disc-writing
@@ -117,7 +117,7 @@
 <dt class="terms">Programi</dt>
 <dd class="terms">
 <p class="p">Nekateri diski in odstranljivi mediji vsebujejo programe, ki naj bi se ob vstavitvi medija samodejno zagnali. Uporabite možnost <span class="gui">Programi</span> za nadzor kaj naj se zgodi, ko je vstavljen medij s samodejno zagonljivimi programi. Pred zagonom programa boste vedno vprašani za potrditev.</p>
-<div class="note note-warning" title="Opozorilo"><div class="inner"><div class="region"><div class="contents"><p class="p">Nikoli ne poženite programov z medija, ki mu ne zaupate</p></div></div></div></div>
+<div class="note note-warning" title="Opozorilo"><div class="inner"><div class="region"><div class="contents"><p class="p">Never run software from media you don’t trust.</p></div></div></div></div>
 </dd>
 </dl></div></div></div></div></div>
 </div></div>

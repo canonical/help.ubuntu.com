@@ -60,8 +60,15 @@
 <li class="steps"><p class="p">Si votre fichier supprimé s'y trouve, cliquez dessus et choisissez <span class="gui"> Restaurer</span>. Il retourne dans le dossier d'où il a été supprimé.</p></li>
 </ol></div>
 </div></div>
-<p class="p">Si votre fichier a été supprimé avec <span class="keyseq"><span class="key"><kbd>Maj</kbd></span>+<span class="key"><kbd>Suppr</kbd></span></span> ou en ligne de commande, il a été supprimé définitivement. Les fichiers supprimés définitivement ne peuvent plus être récupérés dans la corbeille.</p>
-<p class="p">Il existe de nombreux outils de restauration capables de récupérer parfois des fichiers qui ont été supprimés définitivement. Ces outils ne sont en général pas très faciles à manipuler. S'il vous arrive malencontreusement de supprimer définitivement un fichier important, il est sans doute mieux de demander conseil sur un forum spécialisé pour voir si vous pouvez le récupérer.</p>
+<p class="p">If you deleted the file by pressing <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Delete
+  </kbd></span></span>, or by using the command line, the file has been permanently
+  deleted. Files that have been permanently deleted can’t be recovered from the
+  <span class="gui">Trash</span>.</p>
+<p class="p">There are a number of recovery tools available that are sometimes able to
+  recover files that were permanently deleted. These tools are generally not
+  very easy to use, however. If you accidentally permanently deleted a file,
+  it’s probably best to ask for advice on a support forum to see if you can
+  recover it.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -74,7 +81,8 @@
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="files-lost.html" title="Recherche d'un fichier perdu">Recherche d'un fichier perdu</a><span class="desc"> — Suivez ces conseils si vous ne retrouvez pas un fichier que vous aviez créé ou téléchargé.</span>
+<a href="files-lost.html" title="Recherche d'un fichier perdu">Recherche d'un fichier perdu</a><span class="desc"> — Follow these tips if you can’t find a file you created or
+    downloaded.</span>
 </li>
 <li class="links ">
 <a href="files-delete.html" title="Suppression de fichiers et de dossiers">Suppression de fichiers et de dossiers</a><span class="desc"> — Supprimer des fichiers ou dossiers dont vous n'avez plus besoin.</span>

@@ -49,29 +49,21 @@
 <div class="hgroup"><h1 class="title"><span class="title">Menghapus sebuah akun</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can remove an online account which you no longer wish to use.</p>
+<p class="p">Anda dapat menghapus akun daring yang tidak ingin Anda pakai lagi.</p>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents">
-<p class="p">Many online services provide an authorization token which GNOME stores
-    instead of your password. If you remove an account, you should also revoke
-    that certificate in the online service. This will ensure that no other
-    application or website can connect to that service using the authorization
-    for GNOME.</p>
+<p class="p">Banyak layanan daring menyediakan suatu token otorisasi yang disimpan oleh GNOME sebagai pengganti kata sandi. Bila Anda menghapus suatu akun, Anda juga mesti mencabut sertifikat itu dalam layanan daring. Ini akan memastikan bahwa tidak ada aplikasi atau situs web lain yang dapat menyambung ke layanan tersebut memakai otorisasi untuk GNOME.</p>
 <p class="p">How to revoke the authorization depends on the service provider. Check
-    your settings on the provider's website for authorized or connected apps
-    or sites. Look for an app called "GNOME" and remove it.</p>
+    your settings on the provider’s website for authorized or connected apps
+    or sites. Look for an app called “GNOME” and remove it.</p>
 </div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span> overview and
-      start typing <span class="gui">Online Accounts</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Online Accounts</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akun Daring</span>.</p></li>
+<li class="steps"><p class="p">Klik pada <span class="gui">Akun Daring</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Pilih akun yang ingin Anda hapus.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">-</span> button in the lower-left corner of the
-      window.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Remove</span> in the confirmation dialog.</p></li>
+<li class="steps"><p class="p">Klik tombol <span class="gui">-</span> di pojok kiri bawah jendela.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Hapus</span> dalam dialog konfirmasi.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Instead of deleting the account completely, it is possible to
-    <span class="link"><a href="accounts-disable-service.html" title="Mengendalikan agar suatu akun dapat dipakai untuk mengakses layanan daring mana">restrict the services</a></span> accessed
-    by your desktop.</p></div></div></div></div>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Alih-alih menghapus akun secara komplit, dimungkinkan untuk <span class="link"><a href="accounts-disable-service.html" title="Mengendalikan agar suatu akun dapat dipakai untuk mengakses layanan daring mana">membatasi layanan</a></span> yang diakses oleh desktop Anda.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -79,11 +71,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Akun daring">Akun daring</a><span class="desc"> — 
-      <span class="link"><a href="accounts-add.html" title="Tambahkan akun">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html" title="Menghapus sebuah akun">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html" title="Online services and applications">Learn about services</a></span>…
-    </span>
+<a href="accounts.html" title="Akun daring">Akun daring</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Tambahkan akun">Menambahkan suatu akun daring</a></span>, <span class="link"><a href="accounts-remove.html" title="Menghapus sebuah akun">Menghapus suatu akun</a></span>, <span class="link"><a href="accounts-which-application.html" title="Aplikasi dan layanan daring">Mempelajari tentang layanan</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

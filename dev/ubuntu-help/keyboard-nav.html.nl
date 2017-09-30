@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Keyboard navigation</title>
+<title>Toetsenbordnavigatie</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,114 +44,88 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="keyboard.html" title="Keyboard">Keyboard</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Universele toegang">Universele toegang</a> › <a class="trail" href="a11y.html#mobility" title="Beperkte mobiliteit">Beperkte mobiliteit</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Universal access">Universal access</a> › <a class="trail" href="a11y.html#mobility" title="Mobility impairments">Mobility impairments</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="keyboard.html" title="Toetsenbord">Toetsenbord</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="keyboard.html" title="Keyboard">Keyboard</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="keyboard.html" title="Toetsenbord">Toetsenbord</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Keyboard navigation</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Toetsenbordnavigatie</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">This page details keyboard navigation for people who cannot use a mouse or
-  other pointing device, or who want to use a keyboard as much as possible. For
-  keyboard shortcuts that are useful to all users, see
-  <span class="link"><a href="shell-keyboard-shortcuts.html" title="Useful keyboard shortcuts">Useful keyboard shortcuts</a></span> instead.</p>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">If you cannot use a pointing device like a mouse, you can control the
-    mouse pointer using the numeric keypad on your keyboard. See
-    <span class="link"><a href="mouse-mousekeys.html" title="Click and move mouse pointer using the keypad">Click and move mouse pointer using the keypad</a></span> for details.</p></div></div></div></div>
+<p class="p">Deze pagina bevat details over toetsenbordnavigatie voor mensen die geen muis of aanwijsapparaat kunnen gebruiken, of die zoveel mogelijk een toetsenbord willen gebruiken.</p>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Als u geen aanwijsapparaat zoals een muis kunt gebruiken, dan kunt u de muisaanwijzer besturen via het numerieke toetsenbord. Zie <span class="link"><a href="mouse-mousekeys.html" title="De muisaanwijzer met behulp van het numerieke toetsenbord klikken en bewegen.">De muisaanwijzer met behulp van het numerieke toetsenbord klikken en bewegen.</a></span> voor meer informatie.</p></div></div></div></div>
 <div class="table"><div class="inner">
-<div class="title title-table"><h2><span class="title">Navigate user interfaces</span></h2></div>
+<div class="title title-table"><h2><span class="title">Door de gebruikersinterface navigeren</span></h2></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
-<td><p class="p"><span class="key"><kbd>Tab</kbd></span> and <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
+<td><p class="p"><span class="key"><kbd>Tab</kbd></span> en <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
 <td>
-<p class="p">Move keyboard focus between different controls. <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> moves between groups of controls, such as from a
-      sidebar to the main content.
-      <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> can also break out of a
-      control that uses <span class="key"><kbd>Tab</kbd></span> itself, such as a text area.</p>
-<p class="p">Hold down <span class="key"><kbd>Shift</kbd></span> to move focus in reverse order.</p>
+<p class="p">De toetsenbordfocus verplaatsen tussen verschillende besturingselementen. Met <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> verplaatst de focus zich tussen groepen elementen, zoals van een zijbalk naar het hoofdvenster. <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> kan ook de focus wegnemen uit een element dat <span class="key"><kbd>Tab</kbd></span> zelf gebruikt, zoals een tekstvak.</p>
+<p class="p">Houd <span class="key"><kbd>Shift</kbd></span> ingedrukt om de focus in omgekeerde volgorde te verplaatsen.</p>
 </td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Arrow keys</p></td>
-<td style="border-top-style: solid;">
-<p class="p">Move selection between items in a single control, or among a set of
-      related controls. Use the arrow keys to focus buttons in a toolbar, select
-      items in a list or icon view, or select a radio button from a group.</p>
-<p class="p">In a tree view, use the left and right arrow keys to collapse and
-      expand items with children.</p>
-</td>
+<td style="border-top-style: solid;"><p class="p">Pijltjestoetsen</p></td>
+<td style="border-top-style: solid;"><p class="p">Selectie van items verplaatsen met één besturingselement, of een paar gerelateerde besturingselementen. Gebruik de pijltjestoetsen om de focus naar knoppen in een werkbalk te brengen, selecteer items in een lijst- of pictogrammenweergave, of selecteer een keuzerondje uit een groep.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+Arrow keys</span></p></td>
-<td style="border-top-style: solid;"><p class="p">In a list or icon view, move the keyboard focus to another item
-    without changing which item is selected.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+Pijltjestoetsen</span></p></td>
+<td style="border-top-style: solid;"><p class="p">In de lijst- of pictogrammenweergave, verplaatsen van de toetsenbordfocus naar een ander item zonder te wijzigen welk item geselecteerd is.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+Arrow keys</span></p></td>
-<td style="border-top-style: solid;"><p class="p">In a list or icon view, select all items from the currently selected
-    item to the newly focused item.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+Pijltjestoetsen</span></p></td>
+<td style="border-top-style: solid;"><p class="p">In de lijst- of pictogrammenweergave, alle items selecteren van het huidige geselecteerde item naar het item met de nieuwe focus.</p></td>
+<td style="border-top-style: solid;"><p class="p">In a tree view, items that have children can be expanded or collapsed,
+    to show or hide their children: expand by pressing
+    <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>→</kbd></span></span>, and collapse by
+    pressing <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>←</kbd></span></span>.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Space</kbd></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Activate a focused item such as a button, check box, or list
-    item.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Spatiebalk</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Een item dat de focus heeft, zoals een knop, selectievakje of lijstitem, activeren.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Space</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">In a list or icon view, select or deselect the focused item without
-    deselecting other items.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Spatiebalk</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">In een lijst- of pictogrammenweergave het item met de focus selecteren of de selectie opheffen, zonder de selectie van andere items op te heffen.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Alt</kbd></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Hold down the <span class="key"><kbd>Alt</kbd></span> key to reveal <span class="em">accelerators</span>:
-    underlined letters on menu items, buttons, and other controls. Press
-    <span class="key"><kbd>Alt</kbd></span> plus the underlined letter to activate a control, just
-    as if you had clicked on it.</p></td>
+<td style="border-top-style: solid;"><p class="p">Houd de <span class="key"><kbd>Alt</kbd></span>-toets ingedrukt voor het tonen van <span class="em">sneltoetsen</span>: onderstreepte letters in menu-onderdelen, knoppen, en andere besturingselementen.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Esc</kbd></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Exit a menu, popup, switcher, or dialog window.</p></td>
+<td style="border-top-style: solid;"><p class="p">Een menu, popup, wisselaar of dialoogvenster sluiten.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>F10</kbd></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Open the first menu on the menubar of a window. Use the arrow keys
-    to navigate the menus.</p></td>
+<td style="border-top-style: solid;"><p class="p">Open het eerste menu in de menubalk van een venster. Gebruik de pijltjestoetsen om door de menu's te navigeren.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Open the application menu on the top bar.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Open het toepassingsmenu in de bovenste balk.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> or
-    <span class="key"><a href="keyboard-key-menu.html" title="What is the Menu key?"><kbd>Menu</kbd></a></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Pop up the context menu for the current selection, as if you had
-      right-clicked.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> of <span class="key"><a href="keyboard-key-menu.html" title="Wat is de Menu-toets?"><kbd>Menu</kbd></a></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Het snelmenu voor de huidige selectie tonen, alsof er met rechts geklikt is.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">In the file manager, pop up the context menu for the current folder,
-    as if you had right-clicked on the background and not on any item.</p></td>
+<td style="border-top-style: solid;"><p class="p">Het snelmenu voor de huidige map tonen in bestandsbeheer, alsof u met rechts op de achtergrond heeft geklikt in plaats van op een item.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>PageUp</kbd></span></span> and
-    <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>PageDown</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">In a tabbed interface, switch to the tab to the left or
-    right.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>PageUp</kbd></span></span> en <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>PageDown</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">In een venster met tabbladen naar het tabblad links of rechts gaan.</p></td>
 </tr>
 </table></div>
 </div></div>
 <div class="table"><div class="inner">
-<div class="title title-table"><h2><span class="title">Navigate the desktop</span></h2></div>
+<div class="title title-table"><h2><span class="title">Door het bureaublad navigeren</span></h2></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
-<td><p class="p">
-      <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> or the
-      <span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span> key
-    </p></td>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> of de <span class="key"><a href="keyboard-key-super.html" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span>-toets</p></td>
 <td><p class="p">Switch between the <span class="gui">Activities</span> overview and desktop. In
     the overview, start typing to instantly search your applications, contacts,
     and documents.</p></td>
@@ -201,17 +175,17 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-notifications.html#messagetray" title="The message tray">Open the message
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-notifications.html#messagetray" title="Het berichtengebied">Open the message
     tray.</a></span> Press <span class="key"><kbd>Esc</kbd></span> to close.</p></td>
 </tr>
 </table></div>
 </div></div>
 <div class="table"><div class="inner">
-<div class="title title-table"><h2><span class="title">Navigate windows</span></h2></div>
+<div class="title title-table"><h2><span class="title">Door vensters navigeren</span></h2></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
 <td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F4</kbd></span></span></p></td>
-<td><p class="p">Close the current window.</p></td>
+<td><p class="p">Sluit het huidige venster.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F5</kbd></span></span> or
@@ -223,24 +197,15 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F7</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Move the current window. Press
-    <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F7</kbd></span></span>, then use the arrow keys to
-    move the window. Press <span class="key"><kbd>Enter</kbd></span> to finish moving the window, or
-    <span class="key"><kbd>Esc</kbd></span> to return it to its original place.</p></td>
+<td style="border-top-style: solid;"><p class="p">Het huidige venster verplaatsen. Druk op <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F7</kbd></span></span> en gebruik daarna de pijltjestoetsen om het venster te verplaatsen. Druk op <span class="key"><kbd>Enter</kbd></span> om het verplaatsen van het venster te beëindigen, of <span class="key"><kbd>Esc</kbd></span> om het terug te zetten op de oorspronkelijke plaats.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F8</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Resize the current window. Press
-    <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F8</kbd></span></span>, then use the arrow keys to
-    resize the window. Press <span class="key"><kbd>Enter</kbd></span> to finish resizing the window, or
-    <span class="key"><kbd>Esc</kbd></span> to return it to its original size.</p></td>
+<td style="border-top-style: solid;"><p class="p">De afmeting van het huidige venster wijzigen. Druk op <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F8</kbd></span></span> en gebruik daarna de pijltjestoetsen om de afmeting van het venster te wijzigen. Druk op <span class="key"><kbd>Enter</kbd></span> om het wijzigen van de afmeting van het venster te beëindigen, of <span class="key"><kbd>Esc</kbd></span> om het terug te zetten op de oorspronkelijke plaats.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">
-      <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> and
-      <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span>
-    </p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html" title="Move a window to a different workspace">Move the current window to a
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> and <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html" title="Een venster verplaatsen naar een ander werkblad">Move the current window to a
      different workspace</a></span>.</p></td>
 </tr>
 <tr>
@@ -254,14 +219,14 @@
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> or
     <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↑</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-maximize.html" title="Maximize and unmaximize a window">Maximize</a></span> a window. Press
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-maximize.html" title="Een venster maximaliseren en weer herstellen">Maximize</a></span> a window. Press
     <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> or
     <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↓</kbd></span></span> to
     restore a maximized window to its original size.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>H</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Minimize a window.</p></td>
+<td style="border-top-style: solid;"><p class="p">Een venster minimaliseren.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
@@ -278,9 +243,8 @@
     switch sides.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Space</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Pop up the window menu, as if you had right-clicked on the
-    titlebar.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Spatiebalk</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Toon het venstermenu, alsof er met rechts op de menubalk was geklikt.</p></td>
 </tr>
 </table></div>
 </div></div>
@@ -291,20 +255,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul>
+<li class="links "><a href="a11y.html#mobility" title="Beperkte mobiliteit">Beperkte mobiliteit</a></li>
 <li class="links ">
-<a href="keyboard.html" title="Keyboard">Keyboard</a><span class="desc"> — 
-      <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Keyboard layouts</a></span>,
-      <span class="link"><a href="keyboard-cursor-blink.html" title="Make the keyboard cursor blink">cursor blinking</a></span>,
-      <span class="link"><a href="a11y.html#mobility" title="Mobility impairments">keyboard accessibility</a></span>…
+<a href="keyboard.html" title="Toetsenbord">Toetsenbord</a><span class="desc"> — 
+      <span class="link"><a href="keyboard-layouts.html" title="Alternatieve toetsenbordindelingen gebruiken">Keyboard layouts</a></span>,
+      <span class="link"><a href="keyboard-cursor-blink.html" title="De toetsenbordcursor laten knipperen">cursor blinking</a></span>,
+      <span class="link"><a href="a11y.html#mobility" title="Beperkte mobiliteit">keyboard accessibility</a></span>…
     </span>
 </li>
-<li class="links "><a href="a11y.html#mobility" title="Mobility impairments">Mobility impairments</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-keyboard-shortcuts.html" title="Useful keyboard shortcuts">Useful keyboard shortcuts</a><span class="desc"> — Get around the desktop using the keyboard.</span>
+<a href="shell-keyboard-shortcuts.html" title="Handige sneltoetsen">Handige sneltoetsen</a><span class="desc"> — Door het bureaublad lopen via het toetsenbord.</span>
 </li></ul></div>
 </div></div>
 </div>

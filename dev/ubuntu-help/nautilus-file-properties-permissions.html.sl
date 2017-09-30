@@ -55,9 +55,19 @@
 <div id="files" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Datoteke</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Nastavite lahko dovoljenja za  lastnika datotek, skupine lastnika in vse druge uporabnike na sistemu. Za svoje datoteke ste lastnik vi in lahko sebi dodelite pravice le za branje ali za branje in pisanje. Nastavite datoteko na le za branje, če je ne želite po nesreči spremeniti.</p>
-<p class="p">Vsak uporabnik na vašem računalniku spada v skupino. Na domačih računalnikih ima vsak uporabnik pogosto svojo lastno skupino, zato se skupinska dovoljenja redko uporabljajo. Vsaka datoteka pripada tako lastniku kot skupini. Nastavite lahko skupino datoteke in s tem nastavite dovoljenja za vse uporabnike v tej skupini. Skupino datoteke lahko nastavite le na skupino, kateri pripadate.</p>
-<p class="p">Nastavite lahko tudi dovoljenja za uporabnike, ki niso lastniki in za tiste, ki so v skupini datoteke.</p>
+<p class="p">You can set the permissions for the file owner, the group owner,
+    and all other users of the system. For your files, you are the owner,
+    and you can give yourself read-only or read-and-write permission.
+    Set a file to read-only if you don’t want to accidentally change it.</p>
+<p class="p">Every user on your computer belongs to a group. On home computers,
+    it is common for each user to have their own group, and group permissions
+    are not often used. In corporate environments, groups are sometimes used
+    for departments or projects. As well as having an owner, each file belongs
+    to a group. You can set the file’s group and control the permissions for
+    all users in that group. You can only set the file’s group to a group you
+    belong to.</p>
+<p class="p">You can also set the permissions for users other than the owner and
+    those in the file’s group.</p>
 <p class="p">V primeru da je datoteka program kot je skript, morate za njeno poganjanje izbrati <span class="gui">Dovoli izvajanje datoteke kot programa</span>. Tudi če je ta možnost izbrana, bo morda upravljalnik datotek še vedno odprl datoteko v programu in vas vprašal kaj želite narediti. Za več podrobnosti si oglejte <span class="link"><a href="nautilus-behavior.html#executable" title="Izvedljive besedilne datoteke">Izvedljive besedilne datoteke</a></span>.</p>
 </div></div>
 </div></div>

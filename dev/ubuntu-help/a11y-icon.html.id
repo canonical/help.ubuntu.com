@@ -58,13 +58,18 @@
 </div></div>
 <p class="p">Bila Anda tak melihat menu akses universal, Anda dapat memfungsikannya dari panel pengaturan <span class="gui">Akses Universal</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span> overview and
-      start typing <span class="gui">Universal Access</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akses Universal</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Akses Universal</span> untuk membuka panel.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Always Show Universal Access Menu</span> to
-      <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Nyalakan <span class="gui">Selalu Tunjukkan Menu Akses Universal</span>.</p></li>
 </ol></div></div></div>
-<p class="p">Untuk mengakses menu ini menggunakan keyboard daripada mouse, tekan <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> untuk memindahkan fokus keyboard untuk bar bagian atas. Sebuah garis putih akan muncul di bawah <span class="gui">Aktivitas</span> tombol - ini memberitahu Anda yang item pada bar bagian atas dipilih. Gunakan tombol panah pada keyboard untuk memindahkan garis putih di bawah ikon menu akses universal dan kemudian tekan <span class="key"><kbd>Enter</kbd></span> untuk membukanya. Anda dapat menggunakan atas dan bawah tombol panah untuk memilih item dalam menu. Tekan <span class="key"><kbd>Enter</kbd></span> untuk beralih item yang dipilih.</p>
+<p class="p">To access this menu using the keyboard rather than the mouse, press
+  <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> to move the
+  keyboard focus to the top bar. A white line will appear underneath the
+  <span class="gui">Activities</span> button — this tells you which item on the top bar is
+  selected. Use the arrow keys on the keyboard to move the white line under the
+  universal access menu icon and then press <span class="key"><kbd>Enter</kbd></span> to open it. You
+  can use the up and down arrow keys to select items in the menu. Press
+  <span class="key"><kbd>Enter</kbd></span> to toggle the selected item.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

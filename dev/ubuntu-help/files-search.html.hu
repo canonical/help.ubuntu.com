@@ -63,7 +63,7 @@
 <p class="p">Szűkítheti a találatokat hely és fájltípus alapján.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Nyomja meg a <span class="gui">Saját mappa</span> gombot a találatok korlátozására a <span class="file">saját mappájára</span>, vagy a <span class="gui">Minden fájl</span> gombot a mindenütt való kereséshez.</p></li>
-<li class="list"><p class="p">Nyomja meg a <span class="gui">+</span> gombot, és válasszon <span class="gui">Fájltípust</span> a legördülő listából a keresési eredmények fájltípus szerinti szűkítéséhez. Az <span class="gui">x</span> gombra kattintva eltávolíthatja ezt a beállítást, és bővítheti a találatok körét.</p></li>
+<li class="list"><p class="p">Nyomja meg a <span class="gui">+</span> gombot, és válasszon <span class="gui">Fájltípust</span> a legördülő listából a keresési eredmények fájltípus szerinti szűkítéséhez. Az <span class="gui">×</span> gombra kattintva eltávolíthatja ezt a beállítást, és bővítheti a találatok körét.</p></li>
 </ul></div></div></div>
 </li>
 <li class="steps"><p class="p">A keresési találatokat ugyanúgy megnyithatja, másolhatja, törölheti stb., mint bármely más mappa tartalmát a fájlkezelőben.</p></li>

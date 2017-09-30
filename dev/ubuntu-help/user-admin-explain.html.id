@@ -64,15 +64,19 @@
 <p class="p">Administrative privileges are associated with your user account.
   <span class="gui">Administrator</span> users are allowed to have these privileges while
   <span class="gui">Standard</span> users are not. Without administrative privileges you will
-  not be able to install software. Some user accounts (for example, the "root"
+  not be able to install software. Some user accounts (for example, the “root”
   account) have permanent administrative privileges. You should not use
   administrative privileges all of the time, because you might accidentally
   change something you did not intend to (like delete a needed system file, for
   example).</p>
 <p class="p">Ringkasnya, privilese administratif mengizinkan Anda mengubah bagian-bagian penting dari sistem Anda ketika diperlukan, tapi mencegah Anda melakukannya secara tak sengaja.</p>
 <div class="note" title="Catatan"><div class="inner">
-<div class="title title-note"><h2><span class="title">Apa arti "super user" (pengguna super)?</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Seorang pengguna dengan hak akses admin kadang disebut <span class="em">super user</span>. Hal ini hanya karena pengguna yang memiliki hak lebih dari pengguna biasa. Anda mungkin melihat orang-orang membicarakan hal-hal seperti <span class="cmd">su</span> dan <span class="cmd">sudo</span>, ini adalah program yang untuk sementara memberikan Anda hak "super user " (admin).</p></div></div>
+<div class="title title-note"><h2><span class="title">What does “super user” mean?</span></h2></div>
+<div class="region"><div class="contents"><p class="p">A user with administrative privileges is sometimes called a <span class="em">super
+    user</span>. This is simply because that user has more privileges than normal
+    users. You might see people discussing things like <span class="cmd">su</span> and
+    <span class="cmd">sudo</span>; these are programs for temporarily giving you “super user”
+    (administrative) privileges.</p></div></div>
 </div></div>
 </div>
 <div id="advantages" class="sect"><div class="inner">
@@ -87,7 +91,7 @@
 <p class="p">Only certain trusted users should be allowed to have administrative
   privileges. This prevents other users from messing with the computer and
   doing things like uninstalling applications that you need, installing
-  applications that you don't want, or changing important files. This is useful
+  applications that you don’t want, or changing important files. This is useful
   from a security standpoint.</p>
 </div></div>
 </div></div>
@@ -119,7 +123,7 @@
 <a href="user-changepicture.html" title="Mengubah foto layar log masuk Anda">Mengubah foto layar log masuk Anda</a><span class="desc"> — Tambahkan foto Anda ke layar pengguna dan log masuk.</span>
 </li>
 <li class="links ">
-<a href="net-othersedit.html" title="Pengguna lain tak bisa menyunting koneksi jaringan">Pengguna lain tak bisa menyunting koneksi jaringan</a><span class="desc"> — You need to uncheck the <span class="gui">Available to all users</span> option in the network connection settings.</span>
+<a href="net-othersedit.html" title="Other users can’t edit the network connections">Other users can’t edit the network connections</a><span class="desc"> — You need to uncheck the <span class="gui">Available to all users</span> option in the network connection settings.</span>
 </li>
 <li class="links ">
 <a href="user-changepassword.html" title="Ubah kata sandi Anda">Ubah kata sandi Anda</a><span class="desc"> — Keep your account secure by changing your password often in your

@@ -53,15 +53,16 @@
 <div class="hgroup"><h2 class="title"><span class="title">Preverjanje trdega diska</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Trdi diski imajo vgrajeno orodje za preverjanje zdrava <span class="app">SMART</span>, ki stalno preverja za morebitne težave diska. SMART vas tudi opozori, če je disk pred odpovedjo in vam pomaga pri izogibanju izgube pomembnih podatkov.</p>
-<p class="p">Čeprav se SMART izvaja samodejno, lahko zdravje diska preverite tudi s programom <span class="app">Diski</span>:</p>
+<p class="p">Although SMART runs automatically, you can also check your disk’s
+ health by running the <span class="app">Disks</span> application:</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">Preverite zdravje diska s programom Diski</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Check your disk’s health using the Disks application</span></h3></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open <span class="app">Disks</span> from the <span class="gui">Activities</span> overview.</p></li>
 <li class="steps"><p class="p">Select the disk you want to check from the list of storage devices on
     the left. Information and status of the disk will be shown.</p></li>
 <li class="steps"><p class="p">Click the menu button and select <span class="gui">SMART Data &amp; Self-Tests…</span>.
-    The <span class="gui">Overall Assessment</span> should say "Disk is OK".</p></li>
+    The <span class="gui">Overall Assessment</span> should say “Disk is OK”.</p></li>
 <li class="steps"><p class="p">See more information under <span class="gui">SMART Attributes</span>, or click the
     <span class="gui">Start Self-test</span> button to run a self-test.</p></li>
 </ol></div>
@@ -69,13 +70,18 @@
 </div></div>
 </div></div>
 <div id="disk-not-healthy" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Kaj storiti, če disk ne deluje brezhibno?</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">What if the disk isn’t healthy?</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Even if the <span class="gui">Overall Assessment</span> indicates that the disk
-  <span class="em">isn't</span> healthy, there may be no cause for alarm. However, it's better
+  <span class="em">isn’t</span> healthy, there may be no cause for alarm. However, it’s better
   to be prepared with a <span class="link"><a href="backup-why.html" title="Ustvarjanje varnostne kopije pomembnih datotek">backup</a></span> to prevent data
   loss.</p>
-<p class="p">V primeru da stanje pravi "Pre-fail" je disk v razumno dobrem stanju, vendar so bili zaznani znaki obrabe, kar pomeni, da se bo lahko kmalu pokvaril. V primeru da je vaš trdi disk (ali računalnik) star nekaj let, boste to sporočilo verjetno videli vsaj na nekaj preverjanjih stanja. <span class="link"><a href="backup-how.html" title="Kako ustvariti varnostno kopijo">Redno ustvarjajte varnostne kopije pomembnih datotek</a></span> in občasno preverite ali se stanje diska slabša.</p>
+<p class="p">If the status says “Pre-fail”, the disk is still reasonably healthy but
+ signs of wear have been detected which mean it might fail in the near future.
+ If your hard disk (or computer) is a few years old, you are likely to see
+ this message on at least some of the health checks. You should
+ <span class="link"><a href="backup-how.html" title="Kako ustvariti varnostno kopijo">backup your important files regularly</a></span> and check
+ the disk status periodically to see if it gets worse.</p>
 <p class="p">V primeru da se stanje poslabša, odpeljite računalnik/trdi disk k profesionalcu za nadaljnjo diagnozo in popravilo.</p>
 </div></div>
 </div></div>

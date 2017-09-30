@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-chat.html" title="Chatten &amp; sociaal netwerken">Chatten &amp; sociaal netwerken</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-chat.html" title="Chatten &amp; sociaal netwerken">Chatten &amp; sociaal netwerken</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Hoe kan ik Skype gebruiken in Ubuntu?</span></h1></div>
@@ -52,16 +52,25 @@
 <p class="p"><span class="app">Skype</span> is niet-vrije software waarmee u gesprekken kunt voeren over het internet via uw computer.</p>
 <p class="p">Skype gebruikt gedecentraliseerde peer-to-peer technieken, dus uw gesprekken lopen niet via een centrale server maar via verspreide servers en andere gebruikers.</p>
 <p class="p">Skype software mag men vrij gebruiken, maar het is niet-vrije software; de broncode is niet-vrij en niet beschikbaar voor wijziging.</p>
-<p class="p">Skype wordt niet standaard geïnstalleerd in Ubuntu. <span class="link"><a href="https://apps.ubuntu.com/cat/applications/skype" title="https://apps.ubuntu.com/cat/applications/skype">Installeer <span class="em">skype</span> </a></span> om het te gebruiken.</p>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">U dient de <span class="link"><a href="addremove-sources.html#canonical-partner" title="De bron Partners van Canonical activeren">softwarebron "Partners van Canonical" te activeren</a></span> om <span class="app">Skype</span> te installeren.</p></div></div></div></div>
-<div class="list"><div class="inner">
-<div class="title title-list"><h2><span class="title">Andere hulpdocumentatie voor <span class="app">Skype</span></span></h2></div>
-<div class="region"><ul class="list" style="list-style-type:disc">
-<li class="list"><p class="p"><span class="link"><a href="https://help.ubuntu.com/community/SkypeRecordingHowto" title="https://help.ubuntu.com/community/SkypeRecordingHowto">Hoe kan ik Skype-gesprekken opnemen</a></span> (Engelstalig)</p></li>
-<li class="list"><p class="p"><span class="link"><a href="https://wiki.ubuntu.com/SkypeWebCams" title="https://wiki.ubuntu.com/SkypeWebCams"> Een lijst van webcams die compatibel zijn met Skype </a></span> (Engelstalig)</p></li>
-<li class="list"><p class="p"><span class="link"><a href="https://help.ubuntu.com/community/SkypeTroubleshooting" title="https://help.ubuntu.com/community/SkypeTroubleshooting"> Problemen met Skype oplossen - voor gevorderden</a></span> (Engelstalig)</p></li>
-</ul></div>
-</div></div>
+<p class="p">
+    Skype is not installed by default on Ubuntu. Follow these steps to install
+    <span class="app">Skype for Linux</span>:
+  </p>
+<div class="list"><div class="inner"><div class="region"><ul class="list" style="list-style-type:disc">
+<li class="list"><p class="p">
+      Open your web browser and go to the <span class="link"><a href="https://www.skype.com/download-skype/skype-for-computer/" title="https://www.skype.com/download-skype/skype-for-computer/">Skype download page</a></span>.
+    </p></li>
+<li class="list"><p class="p">
+      Click the <span class="gui">Download Skype for Linux DEB</span> button.
+    </p></li>
+<li class="list"><p class="p">
+      In the window which shows up, select <span class="gui">Open with</span> and <span class="gui">Software
+      Install (default)</span>, and then click the <span class="gui">OK</span> button.
+    </p></li>
+<li class="list"><p class="p">
+      <span class="app">Ubuntu Software</span> is opened. Click the <span class="gui">Install</span> button and authenticate.
+    </p></li>
+</ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

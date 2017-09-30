@@ -76,7 +76,8 @@
 <div id="hidenotifications" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Отключение уведомлений</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Если вы сильно заняты и не хотите, чтобы вас отвлекали уведомления, вы можете их просто отключить.</p>
+<p class="p">If you’re working on something and do not want to be bothered, you can
+  switch off notifications.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Notifications</span>.</p></li>

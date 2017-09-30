@@ -68,7 +68,10 @@
 <div class="desc">这是用户在典型的商务笔记本电脑屏幕上看到的画面</div>
 </div>
 </div></div>
-<p class="p">注意为何白色不是“白纸白”，而黑眼珠现在是泥褐色。</p>
+<p class="p">
+    Notice how the white is not “paper white” and the black of the eye
+    is now a muddy brown.
+  </p>
 <div class="figure"><div class="inner">
 <a href="#" class="zoom" data-zoom-in-title="以正常大小查看图像" data-zoom-out-title="缩小图像"></a><div class="region">
 <div class="contents"><div class="media media-image"><div class="inner"><img src="figures/color-printer.png" class="media media-block" alt=""></div></div></div>
@@ -76,11 +79,41 @@
 </div>
 </div></div>
 <p class="p">这里的基本问题是每台设备能够处理不同的颜色范围。因此，虽然您可能能够拍摄一张烤蓝金属色的照片，但大多数打印机却无法将其重现出来。</p>
-<p class="p">大多数图像设备以 RGB(红、绿、蓝)捕获图像，然后必须转换为 CMYK(青、洋红、黄和黑)来打印。另一个问题是无法获得<span class="em">白色</span>油墨，因此白色只能与白纸的颜色一样。</p>
-<p class="p">再一个问题是单位。不指定测量颜色的量度标准，我们就不知道 100% 红是近红外还是打印机上最深的红色油墨。您的显示器上的 50% 红可能在我的显示器上就会显示为约 62%。这就像告诉一个人您刚刚行驶了 7 个单位的距离，而没有单位您就不知道是 7 千米还是 7 米。</p>
-<p class="p">对于颜色，我们使用色域作为单位。色域实质上是可以重现的颜色范围。设备(如 DSLR 摄像机)可能具有很大的色域，能够捕获日落的所有颜色，但投影仪的色域却很小，所有颜色将看起来像“褪了色”。</p>
-<p class="p">在某些情况下，我们可以通过改变我们发送给设备的数据来<span class="em">校正</span>设备响应，但在其他不能进行校正的情况下(您无法打印铁蓝色)，我们需要向用户展示结果会是什么样子。</p>
-<p class="p">对于照片，使用彩色设备的全色调范围是有道理的，能够实现颜色的平滑改变。对于其它图形，您可能想要使颜色完全匹配，如果您要尝试打印带 Red Hat 标识的定制马克杯，它就<span class="em">必须</span>是准确的 Red Hat 红，这一点非常重要。</p>
+<p class="p">
+    Most image devices capture in RGB (Red, Green, Blue) and have
+    to convert to CMYK (Cyan, Magenta, Yellow, and Black) to print.
+    Another problem is that you can’t have <span class="em">white</span> ink, and so
+    the whiteness can only be as good as the paper color.
+  </p>
+<p class="p">
+    Another problem is units. Without specifying the scale on which a
+    color is measured, we don’t know if 100% red is near infrared or
+    just the deepest red ink in the printer. What is 50% red on one
+    display is probably something like 62% on another display.
+    It’s like telling a person that you’ve just driven 7 units of
+    distance, without the unit you don’t know if that’s 7 kilometers or
+    7 meters.
+  </p>
+<p class="p">
+    In color, we refer to the units as gamut. Gamut is essentially the
+    range of colors that can be reproduced.
+    A device like a DSLR camera might have a very large gamut, being able
+    to capture all the colors in a sunset, but a projector has a very
+    small gamut and all the colors are going to look “washed out”.
+  </p>
+<p class="p">
+    In some cases we can <span class="em">correct</span> the device output by altering
+    the data we send to it, but in other cases where that’s not
+    possible (you can’t print electric blue) we need to show the user
+    what the result is going to look like.
+  </p>
+<p class="p">
+    For photographs it makes sense to use the full tonal range of a color
+    device, to be able to make smooth changes in color.
+    For other graphics, you might want to match the color exactly, which
+    is important if you’re trying to print a custom mug with the Red Hat
+    logo that <span class="em">has</span> to be the exact Red Hat Red.
+  </p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Choose a monitor</title>
+<title>Een monitor kiezen</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,46 +43,34 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="wacom.html" title="Wacom Graphics Tablet">Wacom Graphics Tablet</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="wacom.html" title="Wacom-tekentablet">Wacom-tekentablet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Choose a monitor</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Een monitor kiezen</span></h1></div>
 <div class="region">
 <div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-    start typing <span class="gui">Wacom Tablet</span>.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Wacom-tablet</span>.</p></li>
 <li class="steps">
-<p class="p">Click on <span class="gui">Wacom Tablet</span> to open the panel.</p>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">If no tablet is detected, you'll be asked to
+<p class="p">Klik op <span class="gui">Wacom-tablet</span> om het paneel te openen.</p>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">If no tablet is detected, you’ll be asked to
     <span class="gui">Please plug in or turn on your Wacom tablet</span>. Click the
     <span class="gui">Bluetooth Settings</span> link to connect a wireless tablet.</p></div></div></div></div>
 </li>
-<li class="steps"><p class="p">Click <span class="gui">Map to Monitor…</span></p></li>
-<li class="steps"><p class="p">Check <span class="gui">Map to single monitor</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Map to Monitor…</span>.</p></li>
+<li class="steps"><p class="p">Plaats een vinkje bij <span class="gui">Koppelen aan één monitor</span></p></li>
 <li class="steps">
-<p class="p">Next to <span class="gui">Output</span>, select the monitor you wish to receive
-   input from your graphics tablet.</p>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Only the monitors that are configured will be
-      selectable.</p></div></div></div></div>
+<p class="p">Selecteer bij <span class="gui">Uitvoer</span> de monitor waar de invoer van uw tekentablet naartoe moet.</p>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">U kunt alleen monitoren die geconficureerd zijn kiezen.</p></div></div></div></div>
 </li>
-<li class="steps"><p class="p">Switch <span class="gui">Keep aspect ratio (letterbox)</span> to <span class="gui">ON</span> to
-    match the drawing area of the tablet to the proportions of the monitor.
-      This setting, also called <span class="em">force proportions</span>,
-      <span class="em">letterboxes</span> the drawing area on a tablet to correspond more
-      directly to a display. For example, a 4∶3 tablet would be mapped so that
-      the drawing area would correspond to a widescreen display.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Close</span>.</p></li>
+<li class="steps"><p class="p">Zet <span class="gui">Beeldverhouding behouden (zwarte balken)</span> AAN om het tekengebied van het tablet overeen te laten komen met de verhoudingen van de monitor. Deze instelling, ook wel <span class="em">verhoudingen forceren</span> genoemd, <span class="em">plaatst zwarte balken</span> in het tekengebied van een tablet zodat het beter overeenkomt met het scherm. Zo zou een 4:3 tablet aangepast worden zodat het tekengebied overeenkomt met een breedbeeldscherm.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Sluiten</span>.</p></li>
 </ol></div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="wacom.html" title="Wacom Graphics Tablet">Wacom Graphics Tablet</a><span class="desc"> — 
-      <span class="link"><a href="wacom-multi-monitor.html" title="Choose a monitor">Map a monitor</a></span>,
-      <span class="link"><a href="wacom-stylus.html" title="Configure the stylus">configure the stylus</a></span>,
-      <span class="link"><a href="wacom-left-handed.html" title="Use the tablet left-handed">use the tablet left handed</a></span>…
-  </span>
+<a href="wacom.html" title="Wacom-tekentablet">Wacom-tekentablet</a><span class="desc"> — <span class="link"><a href="wacom-multi-monitor.html" title="Een monitor kiezen">Een monitor koppelen</a></span>, <span class="link"><a href="wacom-stylus.html" title="De pen configureren">de pen configureren</a></span>, <span class="link"><a href="wacom-left-handed.html" title="Het tablet gebruiken met uw linkerhand">de tablet linkshandig gebruiken</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

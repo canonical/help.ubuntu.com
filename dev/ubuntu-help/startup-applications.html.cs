@@ -2,7 +2,7 @@
 <html lang=cs>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Startup Applications</title>
+<title>Aplikace po spuštění</title>
 <link rel="stylesheet" type="text/css" href="cs.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -50,7 +50,7 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Startup Applications</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Aplikace po spuštění</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">You can configure what applications should be started at login, in

@@ -49,7 +49,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Apa itu penggerak?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Devices are the physical "parts" of your computer. They may be
+<p class="p">Devices are the physical “parts” of your computer. They may be
 <span class="em">external</span> like printers and monitor or <span class="em">internal</span> like graphics
 and audio cards.</p>
 <p class="p">In order for your computer to be able to use these devices, it needs to know
@@ -80,10 +80,10 @@ double-sided printing, but is otherwise completely functional.</p>
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth-problem-connecting.html" title="I cannot connect my Bluetooth device">I cannot connect my Bluetooth device</a><span class="desc"> — Adaptor mungkin dimatikan atau tak memiliki driver, atau Bluetooth mungkin dinonaktifkan atau diblokir.</span>
+<a href="power-suspendfail.html" title="Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?">Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
 </li>
 <li class="links ">
-<a href="power-suspendfail.html" title="Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?">Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="bluetooth-problem-connecting.html" title="Saya tak bisa menyambung ke perangkat Bluetooth saya">Saya tak bisa menyambung ke perangkat Bluetooth saya</a><span class="desc"> — Adaptor mungkin dimatikan atau tak memiliki driver, atau Bluetooth mungkin dinonaktifkan atau diblokir.</span>
 </li>
 <li class="links ">
 <a href="power-nowireless.html" title="Saya tak punya jaringan nirkabel ketika membangunkan komputer saya">Saya tak punya jaringan nirkabel ketika membangunkan komputer saya</a><span class="desc"> — Some wireless devices have problems handling when your computer is

@@ -55,10 +55,9 @@
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="user-add.html" title="Új felhasználói fiók hozzáadása"><span class="title">Új felhasználói fiók hozzáadása</span><span class="linkdiv-dash"> — </span><span class="desc">Új felhasználó hozzáadása, hogy mások is használhassák a számítógépet.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="user-autologin.html" title="Automatikus bejelentkezés"><span class="title">Automatikus bejelentkezés</span><span class="linkdiv-dash"> — </span><span class="desc">A számítógép bekapcsolásakor történő automatikus bejelentkezés beállítása.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-delete.html" title="Felhasználói fiók törlése"><span class="title">Felhasználói fiók törlése</span><span class="linkdiv-dash"> — </span><span class="desc">Törölje azokat a felhasználókat, akik már nem használják a számítógépét.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-guest-session.html" title="Korlátozott vendégmunkamenet indítása"><span class="title">Korlátozott vendégmunkamenet indítása</span><span class="linkdiv-dash"> — </span><span class="desc">Adja kölcsön számítógépét egy barátjának vagy kollégájának biztonságos módon.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-delete.html" title="Felhasználói fiók törlése"><span class="title">Felhasználói fiók törlése</span><span class="linkdiv-dash"> — </span><span class="desc">Törölje azokat a felhasználókat, akik már nem használják a számítógépét.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="user-changepicture.html" title="Módosítsa fényképét a bejelentkezési képernyőn"><span class="title">Módosítsa fényképét a bejelentkezési képernyőn</span><span class="linkdiv-dash"> — </span><span class="desc">Adja hozzá fényképét a bejelentkezési és felhasználói képernyőhöz.</span></a></div>
 </div>
 </div></div></div></div></div>

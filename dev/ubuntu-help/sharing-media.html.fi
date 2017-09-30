@@ -74,16 +74,16 @@
 <li class="steps"><p class="p">Switch <span class="gui">Media Sharing</span> to <span class="gui">ON</span>.</p></li>
 <li class="steps"><p class="p">By default, <span class="file">Music</span>, <span class="file">Pictures</span> and 
       <span class="file">Videos</span> are shared. To remove one of these, click the
-      <span class="gui">X</span> next to the folder name.</p></li>
+      <span class="gui">×</span> next to the folder name.</p></li>
 <li class="steps"><p class="p">To add another folder, click <span class="gui">+</span> to open the
       <span class="gui">Choose a folder</span> window. Navigate <span class="em">into</span> the desired
       folder and click <span class="gui">Open</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">X</span>. You will now be able to browse
+<li class="steps"><p class="p">Click <span class="gui">×</span>. You will now be able to browse
       or play media in the folders you selected using the external device.</p></li>
 </ol></div></div></div>
 </div>
 <div id="networks" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Networks</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Verkot</span></h2></div>
 <div class="region"><div class="contents"><p class="p">The <span class="gui">Networks</span> section lists the networks to which you are
   currently connected. Use the <span class="gui">ON | OFF</span> switch next to each to
   choose where your media can be shared.</p></div></div>
@@ -97,7 +97,7 @@
 <a href="sharing.html" title="Jakaminen">Jakaminen</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Jaa työpöytäsi">Työpöydän jakaminen</a></span>, <span class="link"><a href="files-share.html" title="Jaa tiedostoja sähköpostitse">jaa tiedostoja sähköpostitse</a></span>, <span class="link"><a href="sharing-media.html" title="Jaa musiikkia, kuvia ja videoita">median jakaminen</a></span>…</span>
 </li>
 <li class="links ">
-<a href="prefs-sharing.html" title="Jakamisasetukset">Jakamisasetukset</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html" title="Control sharing over Bluetooth">Bluetooth-jakaminen</a></span>, <span class="link"><a href="sharing-personal.html" title="Share your personal files">henkilökohtainen tiedostojako</a></span>, <span class="link"><a href="sharing-desktop.html" title="Jaa työpöytäsi">näytön jakaminen</a></span>, <span class="link"><a href="sharing-media.html" title="Jaa musiikkia, kuvia ja videoita">median jakaminen</a></span>…</span>
+<a href="prefs-sharing.html" title="Jakamisasetukset">Jakamisasetukset</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html" title="Control sharing over Bluetooth">Bluetooth-jakaminen</a></span>, <span class="link"><a href="sharing-personal.html" title="Jaa henkilökohtaisia tiedostoja">henkilökohtainen tiedostojako</a></span>, <span class="link"><a href="sharing-desktop.html" title="Jaa työpöytäsi">näytön jakaminen</a></span>, <span class="link"><a href="sharing-media.html" title="Jaa musiikkia, kuvia ja videoita">median jakaminen</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

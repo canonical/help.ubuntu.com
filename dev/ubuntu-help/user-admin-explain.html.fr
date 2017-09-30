@@ -57,11 +57,22 @@
   also protected.</p>
 <p class="p">Cette protection consiste à permettre seulement aux utilisateurs disposant de <span class="em">privilèges administrateur</span> de modifier ce type de fichiers ou d'utiliser ces applications. Dans le cadre d'une utilisation classique, il n'est pas nécessaire de modifier les fichiers système ni d'utiliser ces applications, c'est pourquoi les comptes utilisateur ne disposent pas de privilèges administrateur par défaut.</p>
 <p class="p">Il peut arriver que vous ayez besoin d'utiliser ces applications, vous pouvez donc obtenir des privilèges administrateur provisoires pour vous permettre de faire des changements. Si des privilèges administrateurs sont requis pour accéder à une application, un mot de passe vous sera demandé. Si par exemple vous souhaitez installer un nouveau logiciel, le programme d'installation du logiciel (gestionnaire de paquets) vous demande votre mot de passe administrateur pour pouvoir ajouter le nouveau logiciel au système. Une fois terminé, les privilèges administrateur sont à nouveau désactivés.</p>
-<p class="p">Les privilèges administrateur sont associés à votre compte utilisateur. Les utilisateurs <span class="gui">Administrateurs</span> ont ces privilèges alors que les utilisateurs <span class="gui">Standard</span> ne les ont pas. Sans les privilèges administrateur, il est impossible d'installer des logiciels. Certains comptes utilisateur (par exemple le compte « root ») possèdent des privilèges administrateur en permanence. Il n'est pas recommandé d'utiliser les privilèges administrateur en permanence car vous pourriez accidentellement un jour faire une fausse manœuvre (comme par exemple supprimer un fichier système essentiel).</p>
+<p class="p">Administrative privileges are associated with your user account.
+  <span class="gui">Administrator</span> users are allowed to have these privileges while
+  <span class="gui">Standard</span> users are not. Without administrative privileges you will
+  not be able to install software. Some user accounts (for example, the “root”
+  account) have permanent administrative privileges. You should not use
+  administrative privileges all of the time, because you might accidentally
+  change something you did not intend to (like delete a needed system file, for
+  example).</p>
 <p class="p">En bref, les privilèges administrateur permettent de modifier des parties importantes du système si besoin, mais vous empêchent de les modifier par inadvertance.</p>
 <div class="note" title="Note"><div class="inner">
-<div class="title title-note"><h2><span class="title">Que signifie « super utilisateur » ?</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Un utilisateur qui possède des privilèges d'administrateur est parfois appelé <span class="em">super utilisateur</span>. C'est simplement parce qu'il a plus de privilèges qu'un utilisateur normal. Vous entendrez peut-être parler de <span class="cmd">su</span> ou de <span class="cmd">sudo</span> ; ce sont des programmes qui permettent de donner provisoirement à un utilisateur des privilèges (administratifs) de super utilisateur.</p></div></div>
+<div class="title title-note"><h2><span class="title">What does “super user” mean?</span></h2></div>
+<div class="region"><div class="contents"><p class="p">A user with administrative privileges is sometimes called a <span class="em">super
+    user</span>. This is simply because that user has more privileges than normal
+    users. You might see people discussing things like <span class="cmd">su</span> and
+    <span class="cmd">sudo</span>; these are programs for temporarily giving you “super user”
+    (administrative) privileges.</p></div></div>
 </div></div>
 </div>
 <div id="advantages" class="sect"><div class="inner">
@@ -69,7 +80,11 @@
 <div class="region"><div class="contents">
 <p class="p">Exiger le statut d'administrateur pour toute modification importante du système aide à éviter qu'il ne soit corrompu, volontairement ou non.</p>
 <p class="p">Si vous aviez ce statut administrateur en permanence, vous risqueriez d'effectuer par erreur des modifications importantes, ou d'exécuter une application qui modifierait quelque chose d'important par accident. Un statut d'administrateur provisoire, seulement quand vous en avez besoin, limite ce risque.</p>
-<p class="p">Il est conseillé de n'accorder le statut d'administrateur qu'à certains utilisateurs dignes de confiance. Cela évite que d'autres utilisateurs ne se mêlent de supprimer des applications dont vous avez besoin, d'ajouter des applications indésirables, ou de modifier des fichiers importants. C'est une question de sécurité.</p>
+<p class="p">Only certain trusted users should be allowed to have administrative
+  privileges. This prevents other users from messing with the computer and
+  doing things like uninstalling applications that you need, installing
+  applications that you don’t want, or changing important files. This is useful
+  from a security standpoint.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -87,9 +102,6 @@
     administrative privileges.</span>
 </li>
 <li class="links ">
-<a href="net-othersedit.html" title="Connexions réseau non modifiables par d'autres utilisateurs">Connexions réseau non modifiables par d'autres utilisateurs</a><span class="desc"> — Vous devez décocher l'option <span class="gui">Disponible pour tous</span> dans les paramètres de connexion du réseau.</span>
-</li>
-<li class="links ">
 <a href="printing-setup-default-printer.html" title="Définition de l'imprimante par défaut">Définition de l'imprimante par défaut</a><span class="desc"> — Définir l'imprimante que vous utilisez le plus souvent.</span>
 </li>
 <li class="links ">
@@ -100,6 +112,9 @@
 </li>
 <li class="links ">
 <a href="printing-name-location.html" title="Modification du nom et de l'emplacement d'une imprimante">Modification du nom et de l'emplacement d'une imprimante</a><span class="desc"> — Modifier le nom et l'emplacement d'une imprimante dans les paramètres de l'imprimante.</span>
+</li>
+<li class="links ">
+<a href="net-othersedit.html" title="Other users can’t edit the network connections">Other users can’t edit the network connections</a><span class="desc"> — Vous devez décocher l'option <span class="gui">Disponible pour tous</span> dans les paramètres de connexion du réseau.</span>
 </li>
 <li class="links ">
 <a href="user-admin-problems.html" title="Problèmes liés aux restrictions administratives">Problèmes liés aux restrictions administratives</a><span class="desc"> — You can do some things, like installing applications, only if you

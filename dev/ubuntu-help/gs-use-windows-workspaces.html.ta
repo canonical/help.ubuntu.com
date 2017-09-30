@@ -56,13 +56,17 @@
 <a href="#" class="ui-overlay-close" title="மூடுக">⨯</a><div class="contents"><div class="media media-video"><div class="inner">
 <video src="figures/gnome-windows-and-workspaces.webm" preload="auto" controls="controls" class="media media-block" height="394" width="700" data-play-label="இயக்கு" data-pause-label="தாமதி"></video><div class="media-ttml">
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="1" data-ttml-end="5"><div class="media-ttml-node media-ttml-p" data-ttml-begin="1" data-ttml-end="5">சாளரங்கள் மற்றும் பணிவெளிகள்</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="6" data-ttml-end="10"><div class="media-ttml-node media-ttml-p" data-ttml-begin="6" data-ttml-end="10">ஒரு சாளரத்தைப் பெரிதாக்க, சாளரத்தின் தலைப்புப் பட்டியைப் பிடித்து, அதை திரையின் மேல் புறம் இழுத்துச் செல்லவும்.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="6" data-ttml-end="10"><div class="media-ttml-node media-ttml-p" data-ttml-begin="6" data-ttml-end="10">To maximize a window, grab the window’s titlebar and drag it to
+            the top of the screen.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="10" data-ttml-end="13"><div class="media-ttml-node media-ttml-p" data-ttml-begin="10" data-ttml-end="13">திரை தனிப்படுத்தப்பட்டிருக்கும் போது, சாளரத்தை விடுவிக்கவும்.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="14" data-ttml-end="20"><div class="media-ttml-node media-ttml-p" data-ttml-begin="14" data-ttml-end="20">ஒரு சாளரத்தை அளவு மீட்டமைக்க, அதன் தலைப்புப் பட்டியைப் பிடித்து திரையின் விளிம்புகளிலிருந்து விலக்கி இழுத்துச் செல்லவும்.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="14" data-ttml-end="20"><div class="media-ttml-node media-ttml-p" data-ttml-begin="14" data-ttml-end="20">To unmaximize a window, grab the window’s titlebar and drag it
+            away from the edges of the screen.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="25" data-ttml-end="29"><div class="media-ttml-node media-ttml-p" data-ttml-begin="25" data-ttml-end="29">சாளரத்தை விலக்கி இழுத்துச் சென்று அதை அளவு மீட்டமைக்க, நீங்கள் மேல் பட்டியையும் சொடுக்கலாம்.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="34" data-ttml-end="38"><div class="media-ttml-node media-ttml-p" data-ttml-begin="34" data-ttml-end="38">திரையின் இடப்புறம் பக்கவாட்டில் ஒரு சாளரத்தைப் பெரிதாக்க, சாளரத்தின் தலைப்புப் பட்டியைப் பிடித்து, அதை திரையின் இடப்புறம் இழுத்துச் செல்லவும்.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="34" data-ttml-end="38"><div class="media-ttml-node media-ttml-p" data-ttml-begin="34" data-ttml-end="38">To maximize a window along the left side of the screen, grab
+            the window’s titlebar and drag it to the left.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="38" data-ttml-end="40"><div class="media-ttml-node media-ttml-p" data-ttml-begin="38" data-ttml-end="40">திரையில் பாதி தனிப்படுத்தப்பட்டிருக்கும் போது, சாளரத்தை விடுவிக்கவும்.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="41" data-ttml-end="44"><div class="media-ttml-node media-ttml-p" data-ttml-begin="41" data-ttml-end="44">திரையின் வலப்புறம் பக்கவாட்டில் ஒரு சாளரத்தைப் பெரிதாக்க, சாளரத்தின் தலைப்புப் பட்டியைப் பிடித்து, அதை திரையின் வலப்புறம் இழுத்துச் செல்லவும்.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="41" data-ttml-end="44"><div class="media-ttml-node media-ttml-p" data-ttml-begin="41" data-ttml-end="44">To maximize a window along the right side of the screen, grab
+            the window’s titlebar and drag it to the right.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="44" data-ttml-end="48"><div class="media-ttml-node media-ttml-p" data-ttml-begin="44" data-ttml-end="48">திரையில் பாதி தனிப்படுத்தப்பட்டிருக்கும் போது, சாளரத்தை விடுவிக்கவும்.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="54" data-ttml-end="60"><div class="media-ttml-node media-ttml-p" data-ttml-begin="54" data-ttml-end="60">ஒரு சாளரத்தை விசைப்பலகையைப் பயன்படுத்தி பெரிதாக்க <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> விசையைப் பிடித்தபடி <span class="key"><kbd>↑</kbd></span> ஐ அழுத்தவும்.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="61" data-ttml-end="66"><div class="media-ttml-node media-ttml-p" data-ttml-begin="61" data-ttml-end="66">ஒரு சாளரத்தை அதன் பெரிதாக்கப்படாத அளவுக்கு மீட்டமைக்க, <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> விசையை பிடித்தவாறு <span class="key"><kbd>↓</kbd></span> ஐ அழுத்தவும்.</div></div>
@@ -79,9 +83,12 @@
 <div class="region"><div class="contents">
 <p class="p"></p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">உங்கள் பணிமேடையில் உள்ள முழு இடத்தையும் எடுத்துக்கொள்ளூம்படி ஒரு சாளரத்தைப் பெரிதாக்க, சாளரத்தின் தலைப்புப் பட்டியைப் பிடித்து, திரையின் மேல் பகுதிக்கு இழுத்துச் செல்லவும்.</p></li>
+<li class="steps"><p class="p">To maximize a window so that it takes up all of the space on
+       your desktop, grab the window’s titlebar and drag it to the top of the
+       screen.</p></li>
 <li class="steps"><p class="p">திரை தனிப்படுத்தப்பட்டிருக்கும் போது, சாளரத்தைப் பெரிதாக்க சாளரத்தை விடுவிக்கவும்.</p></li>
-<li class="steps"><p class="p">ஒரு சாளரத்தை அதன் பெரிதாக்கப்படாத அளவுக்கு மீட்டமைக்க, சாளரத்தின் தலைப்புப் பட்டியைப் பிடித்து, அதை திரையின் விளிம்புகளிலிருந்து விலக்கி இழுத்துச் செல்லவும்.</p></li>
+<li class="steps"><p class="p">To restore a window to its unmaximized size, grab the window’s
+       titlebar and drag it away from the edges of the screen.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -90,7 +97,8 @@
 <div class="region"><div class="contents">
 <p class="p"></p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">திரையின் பக்கவாட்டில் ஒரு சாளரத்தைப் பெரிதாக்க, சாளரத்தின் தலைப்புப் பட்டியைப் பிடித்து, அதை திரையின் இட அல்லது வலப்புறம் இழுத்துச் செல்லவும்.</p></li>
+<li class="steps"><p class="p">To maximize a window along a side of the screen, grab the window’s
+       titlebar and drag it to the left or right side of the screen.</p></li>
 <li class="steps"><p class="p">திரையில் பாதி தனிப்படுத்தப்பட்டிருக்கும் போது, சாளரத்தை திரையின் தேர்ந்தெடுக்கப்பட்ட பக்கமாக பெரிதாக்க, சாளரத்தை விடுவிக்கவும்.</p></li>
 <li class="steps"><p class="p">இரண்டு சாளரங்களை பக்கத்திற்கொன்றாக பெரிதாக்க, இரண்டாவது சாளரத்தின் தலைப்புப் பட்டியைப் பிடித்து திரையின் எதிர்ப்பக்கத்திற்கு இழுத்துச் செல்லவும்.</p></li>
 <li class="steps"><p class="p">திரையில் பாதி தனிப்படுத்தப்பட்டிருக்கும் போது, சாளரத்தை திரையின் எதிர்ப்புறமாக பெரிதாக்க, சாளரத்தை விடுவிக்கவும்.</p></li>

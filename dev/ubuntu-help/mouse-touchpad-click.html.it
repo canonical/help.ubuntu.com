@@ -70,11 +70,15 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Per fare clic, battere sul touchpad.</p></li>
 <li class="list"><p class="p">Per fare doppio-clic, battere due volte.</p></li>
-<li class="list"><p class="p">Per trascinare un elemento, battere due volte ma non sollevare il dito dopo il secondo battito. Trascinare l'elemento nella posizione desiderata e quindi sollevare il dito per lasciarlo.</p></li>
+<li class="list"><p class="p">To drag an item, double-tap but don’t lift your finger after the
+      second tap. Drag the item where you want it, then lift your finger to
+      drop.</p></li>
 <li class="list"><p class="p">Se il touchpad supporta i battiti con più dita, fare clic col pulsante destro battendo contemporaneamente con due dita. In caso contrario, è necessario usare i pulsanti hardware per fare un clic col pulsante destro. Per maggiori informazioni su come fare un clic col pulsante destro senza un secondo pulsante sul mouse, consultare <span class="link"><a href="a11y-right-click.html" title="Simulare il clic col pulsante destro">Simulare il clic col pulsante destro</a></span>.</p></li>
 <li class="list"><p class="p">Se il touchpad supporta i battiti con più dita, fare <span class="link"><a href="mouse-middleclick.html" title="Clic col pulsante centrale">clic col tasto centrale</a></span> battendo con tre dita contemporaneamente.</p></li>
 </ul></div></div></div>
-<div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents"><p class="p">Se si batte o si trascina con più dita, è necessario assicurarsi che le dita siano abbastanza distanziate fra di loro. Se le dita sono troppo vicine le une alle altre, il computer potrebbe rilevarle come un solo dito.</p></div></div></div></div>
+<div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents"><p class="p">When tapping or dragging with multiple fingers, make sure your fingers
+    are spread far enough apart. If your fingers are too close, your computer
+    may think they’re a single finger.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="twofingerscroll" class="sect"><div class="inner">

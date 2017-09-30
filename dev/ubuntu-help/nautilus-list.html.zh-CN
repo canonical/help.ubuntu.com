@@ -101,7 +101,7 @@
 <dd class="terms"><p class="p">显示项目的 MIME 类型</p></dd>
 <dt class="terms"><span class="gui">位置</span></dt>
 <dd class="terms"><p class="p">访问文件的路径</p></dd>
-<dt class="terms"><span class="gui">Modified – Time</span></dt>
+<dt class="terms"><span class="gui">Modified — Time</span></dt>
 <dd class="terms"><p class="p">显示文件最后修改的日期和时间。</p></dd>
 <dt class="terms"><span class="gui">访问时间</span></dt>
 <dd class="terms"><p class="p">Gives the date or time of the last time the file was modified.</p></dd>

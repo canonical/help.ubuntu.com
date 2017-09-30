@@ -53,22 +53,22 @@
 <div class="hgroup"><h1 class="title"><span class="title">Por que meu computador desliga quando fecho a tampa?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Quando você fecha a tampa de seu notebook, seu computador será <span class="link"><a href="power-suspend.html" title="O que acontece quando eu suspendo o meu computador?"><span class="em">suspenso</span></a></span> de forma a economizar energia. Isso significa que o computador não está exatamente desligado - ele está apenas dormindo. Você pode resumi-lo (“acordá-lo”) abrindo a tampa. Se ele não resumir, tente clicar com o mouse ou pressionar uma tecla. Se isso ainda não funcionar, pressione o botão de liga/desliga.</p>
+<p class="p">Quando você fecha a tampa de seu notebook, seu computador será <span class="link"><a href="power-suspend.html" title="O que acontece quando eu suspendo o meu computador?"><span class="em">suspenso</span></a></span> de forma a economizar energia. Isso significa que o computador não está exatamente desligado — ele está apenas dormindo. Você pode resumi-lo (“acordá-lo”) abrindo a tampa. Se ele não resumir, tente clicar com o mouse ou pressionar uma tecla. Se isso ainda não funcionar, pressione o botão de liga/desliga.</p>
 <p class="p">Alguns computadores não conseguem serem suspensos adequadamente, normalmente porque seu hardware não haver suporte completo no sistema operacional (por exemplo, os drivers do Linux estão incompletos). Neste caso, você pode descobrir que você não consegue resumir seu computador após ter fechado a tampa. Você pode tentar <span class="link"><a href="power-suspendfail.html" title="Por que o meu computador não liga novamente após eu o ter suspendido?">corrigir o problema da suspensão</a></span> ou você pode fazer com que o computador não tente suspender quando você fecha a tampa.</p>
 </div>
 <div id="nosuspend" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Impedir o computador de suspender quando a tampa é fechada</span></h2></div>
 <div class="region"><div class="contents">
 <div class="note note-important" title="Importante"><div class="inner"><div class="region"><div class="contents"><p class="p">Essas instruções vão apenas funcionar se você está usando <span class="app">systemd</span>. Contate sua distribuição para mais informação.</p></div></div></div></div>
-<div class="note note-important" title="Importante"><div class="inner"><div class="region"><div class="contents"><p class="p">Você precisa ter a <span class="app">Ferramenta de ajustes</span> instalada em seu computador para alterar essa configuração.</p></div></div></div></div>
+<div class="note note-important" title="Importante"><div class="inner"><div class="region"><div class="contents"><p class="p">Você precisa ter <span class="app">Ajustes</span> instalado em seu computador para alterar essa configuração.</p></div></div></div></div>
 <p class="p">Se você não deseja que o computador seja suspendido ao fechar a tampa, você pode alterar a configuração para este comportamento.</p>
 <div class="note note-warning" title="Aviso"><div class="inner"><div class="region"><div class="contents"><p class="p">Tenha muito cuidado se você alterar essa configuração. Alguns notebooks podem sobreaquecer se estiverem ligados com tampa fechada, especialmente se estiverem confinados em lugares fechados, como uma mochila.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Ferramentas de ajustes</span>.</p></li>
-<li class="steps"><p class="p">Clique em <span class="gui">Ferramentas de ajustes</span> para abrir o aplicativo.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Ajustes</span>.</p></li>
+<li class="steps"><p class="p">Clique em <span class="gui">Ajustes</span> para abrir o aplicativo.</p></li>
 <li class="steps"><p class="p">Clique na aba <span class="gui">Energia</span>.</p></li>
 <li class="steps"><p class="p">Alterne <span class="gui">Não suspender ao fechar o notebook</span> para <span class="key"><kbd>❙</kbd></span>.</p></li>
-<li class="steps"><p class="p">Feche a janela do <span class="gui">Ferramentas de ajustes</span>.</p></li>
+<li class="steps"><p class="p">Feche a janela do <span class="gui">Ajustes</span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>

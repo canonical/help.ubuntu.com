@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Change which mail application is used to write emails</title>
+<title>Wijzigen welk e-mailprogramma gebruikt wordt om e-mails te schrijven</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,10 +43,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-email.html" title="Email &amp; email software">Email &amp; email software</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-email.html" title="E mail &amp; e-mailsoftware">E mail &amp; e-mailsoftware</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Change which mail application is used to write emails</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Wijzigen welk e-mailprogramma gebruikt wordt om e-mails te schrijven</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">When you click a button or link to send a new email (for example, in your
@@ -55,13 +55,11 @@
   mail application installed, the wrong mail application might open up. You
   can fix this by changing which one is the default email application:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Details</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Details</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Details</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Details</span> om het paneel te openen.</p></li>
 <li class="steps"><p class="p">Choose <span class="gui">Default Applications</span> from the list on the left side
       of the window.</p></li>
-<li class="steps"><p class="p">Choose which email client you would like to be used by default by
-      changing the <span class="gui">Mail</span> option.</p></li>
+<li class="steps"><p class="p">Kies welk e-mailprogramma u standaard wilt gebruiken door middel van de <span class="gui">Mail</span>-optie.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -69,10 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-email.html" title="Email &amp; email software">Email &amp; email software</a><span class="desc"> — 
-      <span class="link"><a href="net-default-email.html" title="Change which mail application is used to write emails">Default email apps</a></span>,
-      <span class="link"><a href="net-email-virus.html" title="Do I need to scan my emails for viruses?">Should I scan for viruses?</a></span>…
-    </span>
+<a href="net-email.html" title="E mail &amp; e-mailsoftware">E mail &amp; e-mailsoftware</a><span class="desc"> — <span class="link"><a href="net-default-email.html" title="Wijzigen welk e-mailprogramma gebruikt wordt om e-mails te schrijven">Standaard e-mailtoepassingen</a></span>, <span class="link"><a href="net-email-virus.html" title="Moet ik mijn e-mails controleren op virussen?">Moet ik op virussen scannen?</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

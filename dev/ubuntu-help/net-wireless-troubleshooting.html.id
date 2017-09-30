@@ -75,7 +75,7 @@
 <p class="p">Some of the instructions in this guide ask you to type commands into the
     <span class="em">command line</span> (Terminal). You can find the <span class="app">Terminal</span> application in
     the <span class="gui">Activities</span> overview.</p>
-<p class="p">If you are not familiar with using a command line, don't worry - this
+<p class="p">If you are not familiar with using a command line, don’t worry — this
     guide will direct you at each step. All you need to remember is that
     commands are case-sensitive (so you must type them <span class="em">exactly</span> as they
     appear here), and to press <span class="key"><kbd>Enter</kbd></span> after typing each command to
@@ -91,11 +91,7 @@
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wireless.html" title="Jaringan Nirkabel">Jaringan Nirkabel</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html" title="Menyambung ke jaringan nirkabel">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="Menyambung ke suatu jaringan nirkabel tersembunyi">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="Mengapa jaringan nirkabel saya terputus terus?">Disconnecting</a></span>…
-    </span>
+<a href="net-wireless.html" title="Jaringan Nirkabel">Jaringan Nirkabel</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Menyambung ke jaringan nirkabel">Menyambung ke wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Menyambung ke suatu jaringan nirkabel tersembunyi">Jaringan tersembunyi</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Mengapa jaringan nirkabel saya terputus terus?">Memutus</a></span>…</span>
 </li>
 <li class="links "><a href="hardware.html#problems" title="Masalah umum">Masalah-masalah perangkat keras</a></li>
 </ul></div>
@@ -103,7 +99,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-connect.html" title="Menyambung ke jaringan nirkabel">Menyambung ke jaringan nirkabel</a><span class="desc"> — Memakai internet - secara nirkabel.</span>
+<a href="net-wireless-connect.html" title="Menyambung ke jaringan nirkabel">Menyambung ke jaringan nirkabel</a><span class="desc"> — Get on the internet — wirelessly.</span>
 </li></ul></div>
 </div></div>
 </div>

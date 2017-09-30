@@ -51,7 +51,7 @@
 <div class="contents"></div>
 <div id="what" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Vad är en proxyserver?</span></h2></div>
-<div class="region"><div class="contents"><p class="p">En <span class="em">webbproxy</span> filtrerar webbplatser som du tittar på, den erhåller förfrågningar från din webbläsare för att hämta webbsidor och deras delar och genom att följa en policy kommer att avgöra huruvida de ska skickas till dig. De används vanligtvis på företag och på publika trådlösa accesspunkter för att styra vilka webbplatser du kan titta på, förhindra dig från att nå internet utan att logga in, eller göra säkerhetskontroll på webbplatser.</p></div></div>
+<div class="region"><div class="contents"><p class="p">En <span class="em">webbproxy</span> filtrerar webbplatser som du tittar på, den erhåller förfrågningar från din webbläsare för att hämta webbsidor och deras delar och genom att följa en policy kommer den att avgöra huruvida de ska skickas till dig. De används vanligtvis på företag och på publika trådlösa surfzoner för att styra vilka webbplatser du kan titta på, förhindra dig från att nå internet utan att logga in, eller göra säkerhetskontroll på webbplatser.</p></div></div>
 </div></div>
 <div id="change" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Ändra proxymetod</span></h2></div>

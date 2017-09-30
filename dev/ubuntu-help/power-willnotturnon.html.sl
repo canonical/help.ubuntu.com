@@ -66,7 +66,13 @@
 </div></div>
 <div id="beeps" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Računalnik zapiska in se izklopi.</span></h2></div>
-<div class="region"><div class="contents"><p class="p">V primeru da računalnik ob vklopu večkrat zapiska in se nato izklopi (ali se noče vklopiti), to morda nakazuje, da je zaznal težavo. Ti piski se imenujejo tudi <span class="em">kode piska</span> in vzorci piskov vam povejo kaj je narobe z računalnikom. Različni proizvajalci uporabljajo različne kode piskanja zato si oglejte priročnik za svojo matično ploščo ali ga odnesite na popravilo.</p></div></div>
+<div class="region"><div class="contents"><p class="p">If the computer beeps several times when you turn it on and then turns off
+  (or fails to start), it may be indicating that it has detected a problem.
+  These beeps are sometimes referred to as <span class="em">beep codes</span>, and the pattern
+  of beeps is intended to tell you what the problem with the computer is.
+  Different manufacturers use different beep codes, so you will have to consult
+  the manual for your computer’s motherboard, or take your computer in for
+  repairs.</p></div></div>
 </div></div>
 <div id="fans" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Ventilatorji se vrtijo, vendar ni ničesar na zaslonu</span></h2></div>

@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>What's the difference between calibration and characterization?</title>
+<title>What’s the difference between calibration and characterization?</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,62 +44,34 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="color.html" title="Color management">Color management</a> › <a class="trail" href="color.html#calibration" title="Calibration">Calibration</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html#calibration" title="Kalibratie">Kalibratie</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="color.html" title="Color management">Color management</a> › <a class="trail" href="color.html#calibration" title="Calibration">Calibration</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html#calibration" title="Kalibratie">Kalibratie</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">What's the difference between calibration and characterization?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">What’s the difference between calibration and characterization?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    Many people are initially confused about the difference between calibration
-    and characterization.
-    Calibration is the process of modifying the color behavior of a device.
-    This is typically done using two mechanisms:
-  </p>
+<p class="p">Veel mensen kennen het verschil tussen kalibreren en karakteriseren niet. Kalibreren is het aanpassen van het kleurgedrag van een apparaat. Dit gebeurt meestal met het gebruik van twee mechanismen:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Changing controls or internal settings that it has</p></li>
-<li class="list"><p class="p">Applying curves to its color channels</p></li>
+<li class="list"><p class="p">Het aanpassen van interne instellingen van het apparaat</p></li>
+<li class="list"><p class="p">Het vervormen van de kleurkanalen</p></li>
 </ul></div></div></div>
-<p class="p">
-    The idea of calibration is to put a device in a defined state with regard
-    to its color response.
-    Often this is used as a day to day means of maintaining reproducible behavior.
-    Typically calibration will be stored in device or systems specific file
-    formats that record the device settings or per-channel calibration curves.
-  </p>
-<p class="p">
-    Characterization (or profiling) is <span class="em">recording</span> the way
-    a device reproduces or responds to color.
-    Typically the result is stored in a device ICC profile.
-    Such a profile does not in itself modify color in any way.
-    It allows a system such as a CMM (Color Management Module) or a color aware
-    application to modify color when combined with another device profile.
-    Only by knowing the characteristics of two devices, can a way of
-    transferring color from one device representation to another be achieved.
-  </p>
+<p class="p">Het idee van kalibreren is om de kleurreactie van apparaten in een voorgedefinieerde staat te brengen. Dit wordt vaak gebruikt om het reproduceerbare gedrag van het apparaat van dag tot dag te behouden. Het resultaat van de kalibratie wordt normaal in het apparaat opgeslagen of in systeem-specifieke bestanden met daarin opgeslagen de apparaatinstellingen of kalibratiecurves per kanaal.</p>
+<p class="p">Karakteriseren (of profileren) is het <span class="em">opnemen</span> van de manier waarop een apparaat een kleur produceert of op een kleur reageert. De resultaten worden normaal opgeslagen in een ICC-profiel voor het apparaat. Zo'n profiel kan uit zichzelf geen kleuren aanpassen. Maar met zo'n profiel kan een systeem zoals een CMM (color management module) of een kleur-bewuste toepassing de kleur veranderen zodat u ziet wat u op het andere apparaat zou zien. Alleen wanneer u weet wat de karakterisering van de twee apparaten is, kunt u de kleuren van het ene apparaat op het andere apparaat weergeven.</p>
 <div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">
       Note that a characterization (profile) will only be valid for a device
-      if it's in the same state of calibration as it was when it was
+      if it’s in the same state of calibration as it was when it was
       characterized.
     </p></div></div></div></div>
-<p class="p">
-    In the case of display profiles there is some additional confusion because
-    often the calibration information is stored in the profile for convenience.
-    By convention it is stored in a tag called the <span class="em">vcgt</span> tag.
-    Although it is stored in the profile, none of the normal ICC based tools
-    or applications are aware of it, or do anything with it.
-    Similarly, typical display calibration tools and applications will not be
-    aware of, or do anything with the ICC characterization (profile) information.
-  </p>
+<p class="p">Als het om beeldschermprofielen gaat is er nog wat extra verwarring omdat de kalibratie-informatie vaak voor het gemak in het profiel wordt opgeslagen. Het is gebruikelijk deze informatie in de <span class="em">vcgt</span>-tag op te slaan. Alhoewel het is opgeslagen in het profiel, zijn geen van de normale, op ICC-gebaseerde, hulpmiddelen of toepassingen zich ervan bewust. Tegelijkertijd zullen typische monitor-kalibratieprogramma's zich er niet bewust van zijn, en zullen het ICC-profiel dan ook niet gebruiken.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#calibration" title="Calibration">Calibration</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html#calibration" title="Kalibratie">Kalibratie</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

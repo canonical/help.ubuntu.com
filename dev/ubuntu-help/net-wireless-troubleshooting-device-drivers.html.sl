@@ -76,7 +76,13 @@
 </li>
 <li class="list">
 <p class="p">Look for restricted (binary) drivers.</p>
-<p class="p">Veliko distribucij Linux vsebuje le gonilnike, ki so <span class="em">prosti</span> in <span class="em">odprtokodni</span>. To se zgodi, ker ne morejo distribuirati gonilnikov, ki so lastniški ali zaprtokodni. Če je pravi gonilnik za vašo brezžično kartico na voljo le v neprosti ali "le-binarni" različici, morda privzeto ne bo nameščen. V tem primeru si oglejte spletišče proizvajalca brezžične kartice in preverite, če imajo gonilnike Linux.</p>
+<p class="p">Many Linux distributions only come with device drivers which are
+      <span class="em">free</span> and <span class="em">open source</span>. This is because they cannot
+      distribute drivers which are proprietary, or closed-source. If the
+      correct driver for your wireless adapter is only available in a non-free,
+      or “binary-only” version, it may not be installed by default. If this is
+      the case, look on the wireless adapter manufacturer’s website to see if
+      they have any Linux drivers.</p>
 <p class="p">Nekatere distribucije Linux imajo orodje, ki lahko za vas prejme omejene gonilnike. Če vaša distribucija vsebuje to orodje, ga uporabite. Morda lahko za vas najde brezžične kartice.</p>
 </li>
 <li class="list">

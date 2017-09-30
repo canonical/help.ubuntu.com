@@ -49,7 +49,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Säkerhetskopiera dina viktiga filer</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Att <span class="em">säkerhetskopiera</span> dina filer innebär helt enkelt att skapa en kopia av dem för säker förvaring. Detta görs ifall originalfilerna blir oanvändbara på grund av förlust eller datakorruption. Dessa kopiera kan användas till att återställa originaldata om den förloras. Kopior bör sparas på en annan enhet än originalfilerna. Du kan till exempel använda en USB-enhet, en extern hårddisk en cd/dvd eller en tjänst på nätet.</p>
+<p class="p">Att <span class="em">säkerhetskopiera</span> dina filer innebär helt enkelt att skapa en kopia av dem för säker förvaring. Detta görs ifall originalfilerna blir oanvändbara på grund av förlust eller datakorruption. Dessa kopior kan användas till att återställa originaldata om den förloras. Kopior bör sparas på en annan enhet än originalfilerna. Du kan till exempel använda en USB-enhet, en extern hårddisk, en cd/dvd eller en tjänst på nätet.</p>
 <p class="p">Det bästa sättet att säkerhetskopiera dina filer är att göra det regelbundet, och att förvara kopiorna på annan plats och (helst) krypterade.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">

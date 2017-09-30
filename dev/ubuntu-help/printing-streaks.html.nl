@@ -43,28 +43,27 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Common problems">Problems</a> » <a class="trail" href="printing.html#problems" title="Printerproblemen">Printerproblemen</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="printing.html#problems" title="Printerproblemen">Printerproblemen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Waarom zie ik strepen, lijnen of de verkeerde kleuren op mijn afdrukken?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If your print-outs are streaky, faded, have lines on them that should not be
-  there, or are otherwise poor in quality, this may be due to a problem with the
-  printer or a low ink or toner supply.</p>
+<p class="p">Als uw afdrukken streperig of vaag zijn, of u ziet lijnen die er niet behoren te zijn, of ze zijn op een andere manier van slechte kwaliteit, dan kan het zijn dat er een probleem is met de printer of een lage inkt/tonervoorraad.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Vervaagde tekst of afbeeldingen</dt>
-<dd class="terms"><p class="p">You may be running out of ink or toner. Check your ink or toner supply
-       and buy a new cartridge if necessary.</p></dd>
+<dd class="terms"><p class="p">Het kan zijn dat de inkt of toner bijna op is. Controleer uw inkt/tonervoorraad en koop zo nodig een nieuwe patroon.</p></dd>
 <dt class="terms">Strepen en lijnen</dt>
 <dd class="terms"><p class="p">If you have an inkjet printer, the print head may be dirty or
-       partially blocked. Try cleaning the print head. See the printer's manual
+       partially blocked. Try cleaning the print head. See the printer’s manual
        for instructions.</p></dd>
 <dt class="terms">Verkeerde kleuren</dt>
 <dd class="terms"><p class="p">The printer may have run out of one color of ink or toner. Check your
        ink or toner supply and buy a new cartridge if necessary.</p></dd>
 <dt class="terms">Jagged lines, or lines are not straight</dt>
-<dd class="terms"><p class="p">Als lijnen op uw afdruk die recht zouden moeten zijn gekarteld zijn, kan het zijn dat u de printkop moet uitlijnen. Zie de handleiding van de printer voor details over hoe dit moet.</p></dd>
+<dd class="terms"><p class="p">If lines on your print-out that should be straight turn out jagged,
+       you may need to align the print head. See the printer’s instruction
+       manual for details on how to do this.</p></dd>
 </dl></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -73,13 +72,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing.html#problems" title="Printerproblemen">Printerproblemen</a><span class="desc"> — Undetected printers, paper jams, print-outs that look wrong…</span>
+<a href="printing.html#problems" title="Printerproblemen">Printerproblemen</a><span class="desc"> — Printers die niet zijn gedetecteerd, vastlopend papier, afdrukken die er niet goed uitzien…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing-inklevel.html" title="How can I check my printer's ink or toner levels?">How can I check my printer's ink or toner levels?</a><span class="desc"> — Check the amount of ink or toner left in printer cartridges.</span>
+<a href="printing-inklevel.html" title="How can I check my printer’s ink or toner levels?">How can I check my printer’s ink or toner levels?</a><span class="desc"> — Controleer de hoeveelheid inkt of toner er nog in de printer cartridges zit.</span>
 </li></ul></div>
 </div></div>
 </div>

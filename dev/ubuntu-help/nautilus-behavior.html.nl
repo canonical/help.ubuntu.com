@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>File manager behavior preferences</title>
+<title>Gedragsvoorkeuren bestandsbeheer</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,70 +43,59 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » <a class="trail" href="nautilus-prefs.html" title="File manager preferences">File manager preferences</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a> » <a class="trail" href="nautilus-prefs.html" title="Bestandsbeheer-voorkeuren">Bestandsbeheer-voorkeuren</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">File manager behavior preferences</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Gedragsvoorkeuren bestandsbeheer</span></h1></div>
 <div class="region">
 <div class="contents"><p class="p">You can control whether you single-click or double-click files, how
 executable text files are handled, and the trash behavior. Click
 <span class="gui">Files</span> in the top bar, pick <span class="gui">Preferences</span> and select the <span class="gui">Behavior</span> tab.</p></div>
 <div id="behavior" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Behavior</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Gedrag</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Single click to open items</span></dt>
-<dt class="terms"><span class="gui">Double click to open items</span></dt>
-<dd class="terms"><p class="p">By default, clicking selects files and double-clicking opens them.
-  You can instead choose to have files and folders open when you click on
-  them once. When you use single-click mode, you can hold down the
-  <span class="key"><kbd>Ctrl</kbd></span> key while clicking to select one or more files.</p></dd>
+<dt class="terms"><span class="gui">Enkele muisklik om items te openen</span></dt>
+<dt class="terms"><span class="gui">Dubbelklikken om items te openen</span></dt>
+<dd class="terms"><p class="p">Standaard worden bestanden met één muisklik geselecteerd en met een dubbelklik geopend. In plaats daarvan kunt u ervoor kiezen bestanden en mappen te openen met één muisklik. Als u éénmalig klikken gebruikt, dan kunt u de <span class="key"><kbd>Ctrl</kbd></span>-toets ingedrukt houden terwijl u klikt om één of meer bestanden te selecteren.</p></dd>
 </dl></div></div></div></div></div>
 </div></div>
 <div id="executable" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Executable text files</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Uitvoerbare tekstbestanden</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">An executable text file is a file that contains a program that you can run
- (execute). The <span class="link"><a href="nautilus-file-properties-permissions.html" title="Set file permissions">file
- permissions</a></span> must also allow for the file to run as a program. The most
- common are <span class="sys">Shell</span>, <span class="sys">Python</span> and <span class="sys">Perl</span> scripts.
- These have extensions <span class="file">.sh</span>, <span class="file">.py</span> and <span class="file">.pl</span>,
- respectively.</p>
-<p class="p">When you open an executable text file, you can select from:</p>
+<p class="p">Een uitvoerbaar tekstbestand is een bestand dat een programma bevat dat u kan uitvoeren. De <span class="link"><a href="nautilus-file-properties-permissions.html" title="Bestandsrechten instellen">bestandspermissies</a></span> moeten ook zo zijn ingesteld dat het bestand als programma uitgevoerd kan worden. De meest gangbare zijn <span class="sys">Shell</span>, <span class="sys">Python</span> en <span class="sys">Perl</span> scripts. Deze hebben respectievelijk de extensies <span class="file">.sh</span>, <span class="file">.py</span> en <span class="file">.pl</span>.</p>
+<p class="p">Als u een uitvoerbaar tekstbestand opent, kunt u kiezen uit:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="gui">Run executable text files when they are opened</span></p></li>
-<li class="list"><p class="p"><span class="gui">View executable text files when they are opened</span></p></li>
-<li class="list"><p class="p"><span class="gui">Ask each time</span></p></li>
+<li class="list"><p class="p"><span class="gui">Uitvoerbare tekstbestanden uitvoeren zodra ze worden geopend</span></p></li>
+<li class="list"><p class="p"><span class="gui">Uitvoerbare tekstbestanden bekijken zodra ze worden geopend</span></p></li>
+<li class="list"><p class="p"><span class="gui">Vraag iedere keer</span></p></li>
 </ul></div></div></div>
-<p class="p">If <span class="gui">Ask each time</span> is selected, a dialog will pop up asking if you
- wish to run or view the selected text file.</p>
+<p class="p">Als <span class="gui">Vraag iedere keer</span> is geselecteerd, zal er een dialoogvenster worden weergegeven waarin u kunt aangeven of u het tekstbestand wil weergeven of uitvoeren.</p>
 <p class="p">Executable text files are also called <span class="em">scripts</span>. All scripts in the
  <span class="file">~/.local/share/nautilus/scripts</span> folder will appear in the context
  menu for a file under the <span class="gui">Scripts</span> submenu. When a
  script is executed from a local folder, all selected files will be pasted to
  the script as parameters. To execute a script on a file:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Navigate to the desired folder.</p></li>
-<li class="steps"><p class="p">Select the desired file.</p></li>
-<li class="steps"><p class="p">Right click on the file to open the context menu and select the desired
-    script to execute from the <span class="gui">Scripts</span> menu.</p></li>
+<li class="steps"><p class="p">Blader naar de gewenste map.</p></li>
+<li class="steps"><p class="p">Kies het gewenste bestand.</p></li>
+<li class="steps"><p class="p">Rechtsklik op het bestand om de het contextmenu te openen en kies vanuit het <span class="gui">Scripts</span>-menu het script dat u wil uitvoeren.</p></li>
 </ol></div></div></div>
-<div class="note note-important" title="Belangrijk"><div class="inner"><div class="region"><div class="contents"><p class="p">A script will not be passed any parameters when executed from a remote
-  folder such as a folder showing web or <span class="sys">ftp</span> content.</p></div></div></div></div>
+<div class="note note-important" title="Belangrijk"><div class="inner"><div class="region"><div class="contents"><p class="p">Een script zal geen parameters meekrijgen indien het vanuit een online map wordt uitgevoerd, zoals een map waarin web- of <span class="sys">ftp</span>-inhoud wordt weergegeven.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="trash" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Trash</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Prullenbak</span></h2></div>
 <div class="region">
 <div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Ask before emptying the Trash</span></dt>
-<dd class="terms"><p class="p">This option is selected by default.  When emptying the trash, a message will be displayed confirming that you would like to empty the trash or delete files.</p></dd>
+<dd class="terms"><p class="p">Deze optie is standaard geselecteerd. Bij het legen van de prullenbak zal een bericht worden weergegeven om te vragen of u zeker weet dat u de prullenbak wilt legen of bestanden wilt verwijderen.</p></dd>
 </dl></div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">Zie ook</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="files-delete.html" title="Delete files and folders">Delete files and folders</a><span class="desc"> — Remove files or folders you no longer need.</span>
+<a href="files-delete.html" title="Bestanden en mappen verwijderen">Bestanden en mappen verwijderen</a><span class="desc"> — Verwijder bestanden of mappen die niet langer nodig zijn.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -117,7 +106,7 @@ executable text files are handled, and the trash behavior. Click
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="File manager preferences">File manager preferences</a><span class="desc"> — View and set preferences for the file browser.</span>
+<a href="nautilus-prefs.html" title="Bestandsbeheer-voorkeuren">Bestandsbeheer-voorkeuren</a><span class="desc"> — Voorkeuren voor de bestandsbeheerder bekijken en instellen.</span>
 </li></ul></div>
 </div></div></div>
 </div>

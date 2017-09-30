@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="printing.html" title="Afdrukken">Afdrukken</a> › <a class="trail" href="printing.html#paper" title="Verschillende papierformaten en indelingen">Sizes and layouts</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="printing.html" title="Afdrukken">Afdrukken</a> › <a class="trail" href="printing.html#paper" title="Verschillende papierformaten en indelingen">Formaten en indeling</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Print envelopes</span></h1></div>
@@ -57,14 +57,17 @@
   envelope.</p>
 <p class="p">The first is that your printer knows what size the envelope is. Press
   <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> to open the Print dialog, go to
-  the <span class="gui">Page Setup</span> tab and choose the <span class="gui">Paper type</span> as "Envelope"
+  the <span class="gui">Page Setup</span> tab and choose the <span class="gui">Paper type</span> as “Envelope”
   if you can. If you cannot do this, see if you can change the <span class="gui">Paper
   size</span> to an envelope size (for example, <span class="gui">C5</span>). The pack of
   envelopes will say what size they are; most envelopes come in standard
   sizes.</p>
-<p class="p">Ten tweede dient u ervoor te zorgen dat de enveloppen met de juiste kant naar boven in de papierlade worden gelegd. Ga dit na in de handleiding van de printer, of probeer een enkele envelop af te drukken en kijk welke kant bedrukt is om te zien welke de goede kant is.</p>
+<p class="p">Secondly, you need to make sure that the envelopes are loaded with the
+  right side up in the printer’s in-tray. Check the printer’s manual for this,
+  or try to print a single envelope and check which side is printed on to see
+  which way is the right way up.</p>
 <div class="note note-warning" title="Waarschuwing"><div class="inner"><div class="region"><div class="contents"><p class="p">Some printers are not designed to be able to print envelopes, especially
-    some laser printers. Check your printer's manual to see if it accepts
+    some laser printers. Check your printer’s manual to see if it accepts
     envelopes. Otherwise, you could damage the printer by feeding an envelope
     in.</p></div></div></div></div>
 </div></div>

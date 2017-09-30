@@ -2,9 +2,7 @@
 <html lang=cs>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>
-    Install additional applications
-  </title>
+<title>Instalace dodatečných aplikací</title>
 <link rel="stylesheet" type="text/css" href="cs.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -45,21 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Install &amp; remove software">Přidat/odebrat software</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Instalace a odstranění softwaru">Přidat/odebrat software</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">
-    Install additional applications
-  </span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Instalace dodatečných aplikací</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    An application is software that has a graphical user interface (GUI).
-    The Ubuntu development team has chosen a default set of applications that we 
-    think makes Ubuntu very useful for most day-to-day tasks. However, you will 
-    certainly want to install more applications to make Ubuntu more useful to you.
-    To install an application, you can use <span class="app">Ubuntu Software</span>.
-   </p>
+<p class="p">Aplikace je software, který má grafické uživatelské rozhraní (GUI). Vývojový tým Ubuntu vybral výchozí sadu aplikací, o nichž si myslíme, že dělají Ubuntu velmi užitečné pro většinu každodenních úkolů. Nicméně určitě budete chtít instalovat více aplikací, aby vaše Ubuntu bylo ještě více účelné. Pro instalaci aplikace můžete použít <span class="app">Ubuntu Software</span>.</p>
 <p class="p">
     Applications are available in two formats: snap packages and Debian packages.
     An application available as a snap package is from now on referred to as a <span class="em">snap</span>.
@@ -67,27 +57,18 @@
     applications are available in both formats. In such a case in <span class="app">Ubuntu Software</span> the snap will be
     listed first.
    </p>
-<p class="p">
-    You may also wish to install software that does not have a GUI. To install
-    such software, you can use <span class="link"><a href="addremove-install-synaptic.html" title="Použití Synaptic pro pokročilejší správu softwaru">Synaptic</a></span>.
-    Note that <span class="app">Synaptic</span> does not list snaps.
-  </p>
-<p class="p">
-    To install an application:
-  </p>
+<p class="p">Možná budete chtít instalovat software, který nemá grafické rozhraní (GUI). K instalaci takového softwaru můžete použít <span class="link"><a href="addremove-install-synaptic.html" title="Použití Synaptic pro pokročilejší správu softwaru">Synaptic</a></span>. Všimněte si, že <span class="app">Synaptic</span> nezobrazuje snapy.</p>
+<p class="p">Pro instalaci aplikace:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">
-        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Launcher</span>, or search
-        for <span class="input">Software</span> in the search bar of the <span class="gui">Dash</span>.
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
       </p></li>
 <li class="steps"><p class="p">
         When <span class="app">Ubuntu Software</span> launches, search for an application, or select 
         a category and find an application from the list.
       </p></li>
-<li class="steps"><p class="p">
-        Select the application that you want to install and click 
-        <span class="gui">Install</span>.
-      </p></li>
+<li class="steps"><p class="p">Vyberte aplikaci, kterou chcete nainstalovat a klikněte na <span class="gui">Instalovat</span>.</p></li>
 <li class="steps"><p class="p">
         If you're installing a snap, log on to the Snap Store/Ubuntu One.
       </p></li>
@@ -106,11 +87,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html" title="Odstranění aplikace">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html" title="Add software repositories">add repositories</a></span>…
-    </span>
+<a href="addremove.html" title="Instalace a odstranění softwaru">Instalace a odstranění softwaru</a><span class="desc"> — <span class="link"><a href="addremove-install.html" title="Instalace dodatečných aplikací">Instalace aplikací</a></span>, <span class="link"><a href="addremove-remove.html" title="Odstranění aplikace">odstranění aplikací</a></span>, <span class="link"><a href="addremove-sources.html" title="Přidávání zdrojů softwaru">přidání zdrojů softwaru</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -120,15 +97,10 @@
 <a href="prefs-language-install.html" title="Instalace jazyků">Instalace jazyků</a><span class="desc"> — Instalace překladů a souvisejících balíků jazykové podpory.</span>
 </li>
 <li class="links ">
-<a href="addremove-remove.html" title="Odstranění aplikace">Odstranění aplikace</a><span class="desc"> — 
-      Remove applications that you no longer use.
-    </span>
+<a href="addremove-remove.html" title="Odstranění aplikace">Odstranění aplikace</a><span class="desc"> — Odstraňte aplikace, které již nepoužíváte.</span>
 </li>
 <li class="links ">
-<a href="addremove-install-synaptic.html" title="Použití Synaptic pro pokročilejší správu softwaru">Použití Synaptic pro pokročilejší správu softwaru</a><span class="desc"> — 
-      Synaptic is a powerful but complicated software management alternative to 
-      <span class="app">Ubuntu Software</span>.
-    </span>
+<a href="addremove-install-synaptic.html" title="Použití Synaptic pro pokročilejší správu softwaru">Použití Synaptic pro pokročilejší správu softwaru</a><span class="desc"> — Synaptic je efektivní, ale komplikovanou alternativou k <span class="app">Ubuntu Software</span>.</span>
 </li>
 </ul></div>
 </div></div>

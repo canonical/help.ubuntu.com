@@ -55,10 +55,9 @@
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="user-add.html" title="Přidání nového uživatelského účtu"><span class="title">Přidání nového uživatelského účtu</span><span class="linkdiv-dash"> — </span><span class="desc">Jak přidat nové uživatele, aby se další lidé mohli přihlásit k počítači.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="user-autologin.html" title="Automatické přihlašování"><span class="title">Automatické přihlašování</span><span class="linkdiv-dash"> — </span><span class="desc">Jak nastavit automatické přihlášení po zapnutí vašeho počítače.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-delete.html" title="Smazání uživatelského účtu"><span class="title">Smazání uživatelského účtu</span><span class="linkdiv-dash"> — </span><span class="desc">Jak odebrat uživatele, který počítač nadále nebude používat.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-guest-session.html" title="Spuštění omezeného sezní hosta"><span class="title">Spuštění omezeného sezní hosta</span><span class="linkdiv-dash"> — </span><span class="desc">Zapůjčte svůj počítač kolegovi nebo přátelům bezpečně</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-delete.html" title="Smazání uživatelského účtu"><span class="title">Smazání uživatelského účtu</span><span class="linkdiv-dash"> — </span><span class="desc">Jak odebrat uživatele, který počítač nadále nebude používat.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="user-changepicture.html" title="Změna vaší fotografie na přihlašovací obrazovce"><span class="title">Změna vaší fotografie na přihlašovací obrazovce</span><span class="linkdiv-dash"> — </span><span class="desc">Jak přidat svoji fotografii do přihlašovací a uživatelské obrazovky.</span></a></div>
 </div>
 </div></div></div></div></div>

@@ -65,14 +65,9 @@
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
-<div class="region"><ul>
-<li class="links ">
+<div class="region"><ul><li class="links ">
 <a href="report-ubuntu-bug.html" title="Informar de un problema en Ubuntu">Informar de un problema en Ubuntu</a><span class="desc"> — Cómo y dónde informar de problemas con Ubuntu.</span>
-</li>
-<li class="links ">
-<a href="translate.html" title="Participate to improve translations">Participate to improve translations</a><span class="desc"> — How and where to help translate these topics.</span>
-</li>
-</ul></div>
+</li></ul></div>
 </div></div>
 </div>
 </div>

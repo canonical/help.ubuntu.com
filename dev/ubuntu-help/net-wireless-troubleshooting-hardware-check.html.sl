@@ -85,7 +85,11 @@
 <p class="p">Oglejte si prikazan seznam naprav in najdite vrstice z <span class="code">Network controller</span> ali <span class="code">Ethernet controller</span>. Na ta način je lahko označenih več naprav. Tista, ki ustreza vaši brezžični kartici lahko vključuje besede kot so <span class="code">wireless</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> ali <span class="code">802.11</span>. Tukaj je primer kako je vnos morda videti:</p>
 <div class="code"><pre class="contents ">Network controller: Intel Corporation PRO/Wireless 3945ABG [Golan] Network Connection</pre></div>
 </li>
-<li class="steps"><p class="p">V primeru da je prejšnji ukaz prepoznal vašo napravo, čestitamo. Nadaljujte na strani <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Odpravljanje težav z brezžičnimi omrežji">Gonilniki naprav</a></span>. V primeru da zgornji ukaz ne pokaže izpisa povezanega z vašim brezžičnim gonilnikom, si oglejte <span class="link"><a href="#not-recognized" title="Brezžična kartica ni bila prepoznana">navodila spodaj</a></span>.</p></li>
+<li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
+      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Odpravljanje težav z brezžičnimi omrežji">Device Drivers
+      step</a></span>. If you didn’t find anything related to your wireless
+      adapter, see
+      <span class="link"><a href="#not-recognized" title="Brezžična kartica ni bila prepoznana">the instructions below</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -99,7 +103,11 @@
 <p class="p">Oglejte si prikazan seznam naprav in poskusite najti karkoli, kar se nanaša na brezžično ali omrežno napravo. Vrstica, ki se nanaša na brezžično kartico, morda vključuje besede kot so <span class="code">wireless</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> ali <span class="code">802.11</span>. Tukaj je primer kako so lahko videti:</p>
 <div class="code"><pre class="contents ">Bus 005 Device 009: ID 12d1:140b Huawei Technologies Co., Ltd. EC1260 Wireless Data Modem HSD USB Card</pre></div>
 </li>
-<li class="steps"><p class="p">V primeru da je prejšnji ukaz prepoznal vašo napravo, čestitamo. Nadaljujte na strani <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Odpravljanje težav z brezžičnimi omrežji">Gonilniki naprav</a></span>. V primeru da zgornji ukaz ne pokaže izpisa povezanega z vašim brezžičnim gonilnikom, si oglejte <span class="link"><a href="#not-recognized" title="Brezžična kartica ni bila prepoznana">navodila spodaj</a></span>.</p></li>
+<li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
+      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Odpravljanje težav z brezžičnimi omrežji">Device Drivers
+      step</a></span>. If you didn’t find anything related to your wireless
+      adapter, see
+      <span class="link"><a href="#not-recognized" title="Brezžična kartica ni bila prepoznana">the instructions below</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -112,11 +120,17 @@
 <li class="steps">
 <p class="p">Odprite Terminal in vpišite naslednje in pritisnite <span class="key"><kbd>Enter</kbd></span>.</p>
 <div class="code"><pre class="contents ">tail -f /var/log/messages</pre></div>
-<p class="p">To bo prikazalo seznam sporočil, povezanih s strojno opremo vašega računalnika, ki se bo samodejno posodobil, če se kaj na vaši strojni opremi spremeni.</p>
+<p class="p">This will display a list of messages related to your computer’s
+      hardware, and will automatically update if anything to do with your
+      hardware changes.</p>
 </li>
 <li class="steps"><p class="p">Vstavite svojo brezžično kartico v režo PCMCIA in preverite kaj se spremeni v oknu Terminala. Spremembe bi morale vsebovati podatke o vaši brezžični kartici. Oglejte si jih in preverite, če lahko določite, katero brezžično kartico imate.</p></li>
 <li class="steps"><p class="p">Za zaustavitev poganjanja ukaza iz Terminala pritisnite <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span>. Ko ste to storili, lahko Terminal zaprete.</p></li>
-<li class="steps"><p class="p">V primeru da je prejšnji ukaz prepoznal vašo napravo, čestitamo. Nadaljujte na strani <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Odpravljanje težav z brezžičnimi omrežji">Gonilniki naprav</a></span>. V primeru da zgornji ukaz ne pokaže izpisa povezanega z vašim brezžičnim gonilnikom, si oglejte navodila na dnu te strani.</p></li>
+<li class="steps"><p class="p">If you found any information about your wireless adapter, proceed to
+      the <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Odpravljanje težav z brezžičnimi omrežji">Device
+      Drivers step</a></span>. If you didn’t find anything related to your wireless
+      adapter, see <span class="link"><a href="#not-recognized" title="Brezžična kartica ni bila prepoznana">the instructions
+      below</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -127,7 +141,9 @@
   properly or the correct drivers may not be installed for it. How you check to
   see if there are any drivers you can install will depend on which Linux
   distribution you are using (like Ubuntu, Arch, Fedora or openSUSE).</p>
-<p class="p">Za podrobnejšo pomoč si oglejte možnosti podpore na spletišču svoje distribucije. Te morda vključujejo dopisne seznama in spletne klepete kjer lahko na primer vprašate o svoji brezžični kartici.</p>
+<p class="p">To get specific help, look at the support options on your distribution’s
+  website. These might include mailing lists and web chats where you can ask
+  about your wireless adapter, for example.</p>
 </div></div>
 </div></div>
 <div class="links nextlinks">

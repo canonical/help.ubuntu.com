@@ -55,19 +55,25 @@
 <div class="hgroup"><h1 class="title"><span class="title">Clic milieu</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Beaucoup de souris et de pavés tactiles disposent d'un bouton du milieu. Avec une souris équipée d'une roulette, il est généralement possible d'appuyer sur la roulette pour générer un clic milieu. Sinon, lorsque la souris ne dispose pas de bouton central, le clic milieu peut s'effectuer en appuyant en même temps sur les boutons gauche et droit.</p>
+<p class="p">Many mice and some touchpads have a middle mouse button. On a mouse
+with a scroll wheel, you can usually press directly down on the scroll
+wheel to middle-click. If you don’t have a middle mouse button, you
+can press the left and right mouse buttons at the same time to
+middle-click.</p>
 <p class="p">Avec les pavés tactiles qui gèrent le tapotement à plusieurs doigts, il est possible d'effectuer un clic milieu en tapotant simultanément avec trois doigts. Pour que cela fonctionne, il faut activer le <span class="link"><a href="mouse-touchpad-click.html" title="Clic, glissement et défilement avec le pavé tactile">clic par tapotement</a></span> dans les paramètres du pavé tactile.</p>
 <p class="p">De nombreuses applications utilisent le clic milieu comme raccourci avancé.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">In the <span class="gui">Activities</span> overview, you can quickly open a new
   window for an application in its own new workspace with middle-click. Simply
-  middle-click on the application's icon, either in the dash on the left, or in
+  middle-click on the application’s icon, either in the dash on the left, or in
   the applications overview. The applications overview is displayed using the
   grid button in the dash.</p></li>
 <li class="list"><p class="p">La plupart des navigateurs Web permettent d'ouvrir des liens dans de nouveaux onglets avec le bouton du milieu de la souris. Cliquez sur n'importe quel lien avec le bouton du milieu et vous constaterez qu'il s'ouvre dans un nouvel onglet. Attention cependant au comportement particulier du navigateur <span class="app">Firefox</span> où un clic milieu sur autre chose qu'un lien tente d'ouvrir le texte sélectionné comme un URL, comme si vous aviez utilisé le clic milieu pour coller le texte dans la barre d'adresse et que vous aviez appuyé sur <span class="key"><kbd>Entrée</kbd></span>.</p></li>
 <li class="list"><p class="p">Dans le gestionnaire de fichiers, le clic milieu joue deux rôles. Sur un dossier, il ouvre celui-ci dans un nouvel onglet. Cela ressemble au comportement des navigateurs Web les plus répandus. Sur un fichier, il ouvre celui-ci, comme pour un double-clic.</p></li>
 </ul></div></div></div>
-<p class="p">Certaines applications particulières permettent d'utiliser le bouton du milieu de la souris pour d'autres fonctions. Recherchez dans l'aide de l'application concernée avec les mots <span class="em">clic milieu</span> ou <span class="em">bouton du milieu de la souris</span>.</p>
+<p class="p">Some specialized applications allow you to use the middle mouse
+button for other functions. Search your application’s help for
+<span class="em">middle-click</span> or <span class="em">middle mouse button</span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

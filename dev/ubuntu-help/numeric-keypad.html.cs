@@ -58,8 +58,8 @@
   include an option to decide if the computer should be started with the
   numeric keypad enabled. Otherwise, this is a way to configure it:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p"><span class="link"><a href="addremove-install.html" title="Install additional applications">Install</a></span> the <span class="em">numlockx</span> package.</p></li>
-<li class="steps"><p class="p">Open <span class="app"><span class="link"><a href="startup-applications.html" title="Startup Applications">Startup Applications</a></span></span>
+<li class="steps"><p class="p"><span class="link"><a href="addremove-install.html" title="Instalace dodatečných aplikací">Install</a></span> the <span class="em">numlockx</span> package.</p></li>
+<li class="steps"><p class="p">Open <span class="app"><span class="link"><a href="startup-applications.html" title="Aplikace po spuštění">Startup Applications</a></span></span>
       and add a startup program with the command: <span class="cmd">numlockx on</span></p></li>
 </ol></div></div></div>
 <p class="p">If you want the numeric keyboard to be on also at the login screen,
@@ -74,7 +74,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html" title="Klávesnice">Klávesnice</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Rozložení klávesnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Nastavení blikání textového kurzoru">blikání kurzoru</a></span>, <span class="link"><a href="a11y.html#mobility" title="Pohybová postižení">zpřístupnění klávesnice</a></span>…</span>
+<a href="keyboard.html" title="Klávesnice">Klávesnice</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Použití alternativního rozložení klávesnice">Rozložení klávesnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Nastavení blikání textového kurzoru">blikání kurzoru</a></span>, <span class="link"><a href="a11y.html#mobility" title="Pohybová postižení">zpřístupnění klávesnice</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

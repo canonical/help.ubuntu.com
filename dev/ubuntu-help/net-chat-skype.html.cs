@@ -52,16 +52,25 @@
 <p class="p"><span class="app">Skype</span> je proprietární software umožňující volání přes Internet pomocí vašeho počítače.</p>
 <p class="p">Skype používá decentralizované peer-to-peer technologie, takže hovory nejdou přes centrální server, ale přes distribuované servery a ostatní účastníky.</p>
 <p class="p">Skype můžete používat zdarma, ale nejedná se o svobodý software; zdrojový kód je proprietární a neumožňuje úpravy.</p>
-<p class="p">Skype není přítomen v základní instalaci Ubuntu. Pro jeho použití, <span class="link"><a href="https://apps.ubuntu.com/cat/applications/skype" title="https://apps.ubuntu.com/cat/applications/skype">nainstalujete balík <span class="em">skype</span></a></span>.</p>
-<div class="note" title="Upozornění"><div class="inner"><div class="region"><div class="contents"><p class="p">Pro instalaci <span class="app">Skype</span> musíte <span class="link"><a href="addremove-sources.html#canonical-partner" title="Aktivace Partnerského repozitáře Canonical">povolit partnerský repozitář Canonical</a></span></p></div></div></div></div>
-<div class="list"><div class="inner">
-<div class="title title-list"><h2><span class="title">Další zdroje informací o <span class="app">Skype</span></span></h2></div>
-<div class="region"><ul class="list" style="list-style-type:disc">
-<li class="list"><p class="p"><span class="link"><a href="https://help.ubuntu.com/community/SkypeRecordingHowto" title="https://help.ubuntu.com/community/SkypeRecordingHowto"> Jak nahrát konverzaci přes Skype </a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="https://wiki.ubuntu.com/SkypeWebCams" title="https://wiki.ubuntu.com/SkypeWebCams"> Seznam webkamer kompatibilních se Skype </a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="https://help.ubuntu.com/community/SkypeTroubleshooting" title="https://help.ubuntu.com/community/SkypeTroubleshooting"> Řešení problémů se Skype (pro pokročilé) </a></span></p></li>
-</ul></div>
-</div></div>
+<p class="p">
+    Skype is not installed by default on Ubuntu. Follow these steps to install
+    <span class="app">Skype for Linux</span>:
+  </p>
+<div class="list"><div class="inner"><div class="region"><ul class="list" style="list-style-type:disc">
+<li class="list"><p class="p">
+      Open your web browser and go to the <span class="link"><a href="https://www.skype.com/download-skype/skype-for-computer/" title="https://www.skype.com/download-skype/skype-for-computer/">Skype download page</a></span>.
+    </p></li>
+<li class="list"><p class="p">
+      Click the <span class="gui">Download Skype for Linux DEB</span> button.
+    </p></li>
+<li class="list"><p class="p">
+      In the window which shows up, select <span class="gui">Open with</span> and <span class="gui">Software
+      Install (default)</span>, and then click the <span class="gui">OK</span> button.
+    </p></li>
+<li class="list"><p class="p">
+      <span class="app">Ubuntu Software</span> is opened. Click the <span class="gui">Install</span> button and authenticate.
+    </p></li>
+</ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

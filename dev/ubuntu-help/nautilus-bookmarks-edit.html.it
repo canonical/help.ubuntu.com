@@ -70,7 +70,12 @@
       <span class="gui">Rename…</span>.</p></li>
 <li class="steps">
 <p class="p">Nel campo di testo <span class="gui">Nome</span>, digitare il nuovo nome per il segnalibro. recuperare l'elemento cancellato</p>
-<div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents"><p class="p">Rinominare un segnalibro non comporta la rinomina della cartella. Se sono presenti segnalibri relativi a due cartelle differenti, in due percorsi diversi, ma che presentano lo stesso nome, non sarà possibile distinguerli. In questi casi è utile dare ai segnalibri nomi diversi rispetto al nome delle cartelle a cui fanno riferimento.</p></div></div></div></div>
+<div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents"><p class="p">Renaming a bookmark does not rename the folder. If you have
+        bookmarks to two different folders in two different locations, but
+        which each have the same name, the bookmarks will have the same name,
+        and you won’t be able to tell them apart. In these cases, it is useful
+        to give a bookmark a name other than the name of the folder it points
+        to.</p></div></div></div></div>
 </li>
 </ol></div>
 </div></div>

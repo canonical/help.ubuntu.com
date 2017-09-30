@@ -43,39 +43,27 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Install &amp; remove software">Añadir/eliminar software</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Instalar y eliminar software">Añadir/eliminar software</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Desinstalar una aplicación</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">An application is software that has a graphical user interface (GUI).
-    You can use <span class="app">Ubuntu Software</span> to remove applications that you 
-    no longer use.</p>
-<p class="p">Applications are available in two formats: snap packages and Debian packages. 
-   An application available as a snap package is from now on referred to as a <span class="em">snap</span>.
-   In order to remove (or install) a snap you have to log on to the Snap Store/Ubuntu One.
-   Some applications are available in both formats. In such a case in <span class="app">Ubuntu Software</span> the snap will be listed first.</p>
-<p class="p">You may also wish to remove software that does not have a GUI.
-    To remove such software, you can use
-    <span class="link"><a href="addremove-install-synaptic.html" title="Use Synaptic para una gestión de software más avanzada">Synaptic</a></span>. Note that <span class="app">Synaptic</span> does not list snaps.
-  </p>
-<p class="p">To remove an application:</p>
+<p class="p">Una aplicación es un software que dispone de una interfaz gráfica de usuario (IGU). Puede usar <span class="app">Ubuntu Software</span> para eliminar aplicaciones que ya no usa.</p>
+<p class="p">Las aplicaciones están disponibles en dos formatos: paquetes snap y paquetes Deybina. Nos referiremos a partir de ahora a las aplicaciones disponibles como paquetes snap como <span class="em">snap</span>. Para eliminar (o instalar) un snap tiene que iniciar sesión en el Snap Store/Ubuntu One. Algunas aplicaciones están disponibles en ambos formatos. En tal caso el snap aparecerá primero en <span class="app">Ubuntu Software</span>.</p>
+<p class="p">Es posible que también desee instalar software que no tiene una IGU. Para eliminar este tipo de software puede usar <span class="link"><a href="addremove-install-synaptic.html" title="Use Synaptic para una gestión de software más avanzada">Synaptic</a></span>. Tenga en cuenta que <span class="app">Synaptic</span> no muestra snaps.</p>
+<p class="p">Para eliminar una aplicación:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Haga clic en el icono de <span class="app">Software de Ubuntu</span> en el <span class="gui">Lanzador</span> o busque <span class="input">Software</span> en la barra de búsqueda del <span class="gui">Tablero</span>.</p></li>
+<li class="steps"><p class="p">
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">Cuando se abra <span class="app">Software de Ubuntu</span>, haga clic en el botón <span class="gui">Instaladas</span> en la parte superior.</p></li>
 <li class="steps"><p class="p">Encuentre la aplicación que quiere eliminar usando la caja de búsqueda o revisando la lista de aplicaciones instaladas.</p></li>
 <li class="steps"><p class="p">Seleccione la aplicación y pulse <span class="gui">Desinstalar</span>.</p></li>
-<li class="steps"><p class="p">
-        Confirm that you want to remove the application.
-      </p></li>
-<li class="steps"><p class="p">
-    If you're removing a snap, log on to the Snap Store/Ubuntu One. 
-      </p></li>
-<li class="steps"><p class="p">
-        You will be asked to authenticate by entering your password (that is, your user password, not your Snap Store/Ubuntu One password).
-        After you have done that, the application will be removed.
-      </p></li>
+<li class="steps"><p class="p">Confirme que desea eliminar la aplicación.</p></li>
+<li class="steps"><p class="p">Si está eliminando un snap, inicie sesión en Snap Store/Ubuntu One.</p></li>
+<li class="steps"><p class="p">Se le pedirá que se identifique introduciendo su contraseña (su contraseña de usuario, no su contraseña de Snap Store/Ubuntu One). Una vez que lo haya hecho se eliminará la aplicación.</p></li>
 </ol></div></div></div>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Algunas aplicaciones dependen de otras para funcionar correctamente. Si intenta eliminar una aplicación que es necesaria para otra aplicación, se eliminarán ambas. Se le pedirá confirmación si quiere que esto ocurra antes de que las aplicaciones sean eliminadas.</p></div></div></div></div>
 </div>
@@ -85,23 +73,14 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html" title="Desinstalar una aplicación">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html" title="Add software repositories">add repositories</a></span>…
-    </span>
+<a href="addremove.html" title="Instalar y eliminar software">Instalar y eliminar software</a><span class="desc"> — <span class="link"><a href="addremove-install.html" title="Instalar aplicaciones adicionales">Instalar aplicaciones</a></span>, <span class="link"><a href="addremove-remove.html" title="Desinstalar una aplicación">desinstalar aplicaciones</a></span>, <span class="link"><a href="addremove-sources.html" title="Añadir repositorios de software">añadir repositorios</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install.html" title="Install additional applications">
-    Install additional applications
-  </a><span class="desc"> — 
-      Use <span class="app">Ubuntu Software</span> to install additional applications and make Ubuntu more 
-      useful.
-    </span>
+<a href="addremove-install.html" title="Instalar aplicaciones adicionales">Instalar aplicaciones adicionales</a><span class="desc"> — Use <span class="app">Ubuntu Software</span> para instalar aplicaciones adiciones y hacer a Ubuntu más útil.</span>
 </li>
 <li class="links ">
 <a href="addremove-install-synaptic.html" title="Use Synaptic para una gestión de software más avanzada">Use Synaptic para una gestión de software más avanzada</a><span class="desc"> — Synaptic es una herramienta potente pero compleja de gestión de software que puede emplearse como alternativa a <span class="app">Ubuntu Software</span>.</span>

@@ -49,27 +49,16 @@
 <div class="hgroup"><h1 class="title"><span class="title">Mengendalikan agar suatu akun dapat dipakai untuk mengakses layanan daring mana</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Some types of online account providers allow you to access several services
-  with the same user account. For example, Google accounts provide access to
-  calendar, email, contacts and chat. You may want to use your account for some
-  services, but not others. For example, you may want to use your Google account
-  for email but not chat if you have a different online account that you use
-  for chat.</p>
-<p class="p">Anda dapat menonaktifkan beberapa layanan yang disediakan oleh setiap akun daring</p>
+<p class="p">Beberapa jenis akun daring memungkinkan Anda untuk mengakses beberapa layanan dengan akun pengguna yang sama. Sebagai contoh, akun Google menyediakan akses ke kalender, surel, kontak, dan obrolan. Anda mungkin ingin menggunakan akun Anda untuk beberapa layanan, tetapi tidak yang lain. Sebagai contoh, Anda mungkin ingin menggunakan akun Google Anda untuk surel tapi tidak mengobrol, karena Anda memiliki akun daring yang berbeda yang Anda gunakan untuk mengobrol.</p>
+<p class="p">Anda dapat menonaktifkan beberapa layanan yang disediakan oleh setiap akun daring:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span> overview and
-      start typing <span class="gui">Online Accounts</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Online Accounts</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Select the account which you want to change from the list on the
-      left.</p></li>
-<li class="steps"><p class="p">A list of services that are available with this account will be
-      shown under <span class="gui">Use for</span>. See <span class="link"><a href="accounts-which-application.html" title="Online services and applications">Online services and applications</a></span>
-      to see which applications access which services.</p></li>
-<li class="steps"><p class="p">Switch off any of the services that you do not want to use.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akun Daring</span>.</p></li>
+<li class="steps"><p class="p">Klik pada <span class="gui">Akun Daring</span> untuk membuka panel.</p></li>
+<li class="steps"><p class="p">Pilih akun yang ingin Anda ubah dari daftar di kiri.</p></li>
+<li class="steps"><p class="p">Daftar layanan yang tersedia dengan akun ini akan ditunjukkan di bawah <span class="gui">Pakai untuk</span>. Lihat <span class="link"><a href="accounts-which-application.html" title="Aplikasi dan layanan daring">Aplikasi dan layanan daring</a></span> mengenai aplikasi mana mengakses layanan apa.</p></li>
+<li class="steps"><p class="p">Matikan sebarang layanan yang tak ingin Anda pakai.</p></li>
 </ol></div></div></div>
-<p class="p">Once a service has been disabled for an account, applications on your
-  computer will not be able to use the account to connect to that service any
-  more.</p>
+<p class="p">Sekali suatu layanan telah dinonaktifkan bagi suatu akun, aplikasi pada komputer Anda tak akan bisa lagi memakai akun itu untuk menyambung ke layanan tersebut.</p>
 <p class="p">Untuk memfungsikan suatu layanan yang Anda nonaktifkan, kembalilah ke jendela <span class="gui">Akun Daring</span> dan nyalakan itu.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -78,22 +67,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Akun daring">Akun daring</a><span class="desc"> — 
-      <span class="link"><a href="accounts-add.html" title="Tambahkan akun">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html" title="Menghapus sebuah akun">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html" title="Online services and applications">Learn about services</a></span>…
-    </span>
+<a href="accounts.html" title="Akun daring">Akun daring</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Tambahkan akun">Menambahkan suatu akun daring</a></span>, <span class="link"><a href="accounts-remove.html" title="Menghapus sebuah akun">Menghapus suatu akun</a></span>, <span class="link"><a href="accounts-which-application.html" title="Aplikasi dan layanan daring">Mempelajari tentang layanan</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="accounts-remove.html" title="Menghapus sebuah akun">Menghapus sebuah akun</a><span class="desc"> — Remove access to an online service provider from your
-    applications.</span>
+<a href="accounts-which-application.html" title="Aplikasi dan layanan daring">Aplikasi dan layanan daring</a><span class="desc"> — Aplikasi dapat memakai akun yang dibuat dalam <span class="app">Akun Daring</span> dan layanan yang mereka ekploitasi.</span>
 </li>
 <li class="links ">
-<a href="accounts-which-application.html" title="Online services and applications">Online services and applications</a><span class="desc"> — Aplikasi dapat memakai akun yang dibuat dalam <span class="app">Akun Daring</span> dan layanan yang mereka ekploitasi.</span>
+<a href="accounts-remove.html" title="Menghapus sebuah akun">Menghapus sebuah akun</a><span class="desc"> — Menghapus akses ke suatu penyedia layanan daring dari aplikasi Anda.</span>
 </li>
 </ul></div>
 </div></div>

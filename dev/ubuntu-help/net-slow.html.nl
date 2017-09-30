@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>The internet seems slow</title>
+<title>De internetverbinding lijkt traag</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,65 +43,56 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html" title="Network problems">Network problems</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-problem.html" title="Netwerkproblemen">Netwerkproblemen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">The internet seems slow</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">De internetverbinding lijkt traag</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you are using the internet and it seems slow, there are a number of
-  things that could be causing the slow down.</p>
-<p class="p">Try closing your web browser and then re-opening it, and disconnecting
-  from the internet and then reconnecting again. (Doing this resets a lot of
-  things that might be causing the internet to run slowly.)</p>
+<p class="p">Als u internet gebruikt en het lijkt traag te zijn, dan zijn er een aantal dingen die de oorzaak kunnen zijn van het traag zijn.</p>
+<p class="p">Probeer uw webbrowser te sluiten en opnieuw te openen; verbreek de verbinding met het internet en maak daarna opnieuw verbinding. (Door dit te doen worden een heleboel dingen die de oorzaak kunnen zijn dat het internet traag is opnieuw ingesteld.)</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
-<p class="p"><span class="em-bold em">Busy time of day</span></p>
+<p class="p"><span class="em-bold em">Druk tijdstip</span></p>
 <p class="p">Internet service providers commonly setup internet connections so that
       they are shared between several households. Even though you connect
       separately, through your own phone line or cable connection, the
       connection to the rest of the internet at the telephone exchange might
       actually be shared. If this is the case and lots of your neighbors are
       using the internet at the same time as you, you might notice a slow-down.
-      You're most likely to experience this at times when your neighbors are
+      You’re most likely to experience this at times when your neighbors are
       probably on the internet (in the evenings, for example).</p>
 </li>
 <li class="list">
-<p class="p"><span class="em-bold em">Downloading lots of things at once</span></p>
-<p class="p">If you or someone else using your internet connection are downloading
-      several files at once, or watching videos, the internet connection might
-      not be fast enough to keep up with the demand. In this case, it will feel
-      slower.</p>
+<p class="p"><span class="em-bold em">Veel tegelijk downloaden</span></p>
+<p class="p">Als u, of iemand anders die uw internetverbinding gebruikt, meerdere bestanden tegelijk downloadt of video's bekijkt, dan is de internetverbinding mogelijk niet snel genoeg om aan de vraag te voldoen. In dit geval zal zal het traag zijn.</p>
 </li>
 <li class="list">
-<p class="p"><span class="em-bold em">Unreliable connection</span></p>
-<p class="p">Some internet connections are just unreliable, especially temporary
-      ones or those in high demand areas. If you are in a busy coffee shop or a
-      conference center, the internet connection might be too busy or simply
-      unreliable.</p>
+<p class="p"><span class="em-bold em">Onbetrouwbare verbinding</span></p>
+<p class="p">Sommige internetverbindingen zijn gewoon onbetrouwbaar, vooral tijdelijke verbindingen of verbindingen in gebieden met grote vraag. Als u zich in een druk internetcafé of conferentiecentrum bevindt, dan is de internetverbinding mogelijk te druk bezet of gewoon onbetrouwbaar.</p>
 </li>
 <li class="list">
-<p class="p"><span class="em-bold em">Low wireless connection signal</span></p>
-<p class="p">If you're connected to the internet by wireless (wifi), check the
+<p class="p"><span class="em-bold em">Zwak signaal draadloze verbinding</span></p>
+<p class="p">If you’re connected to the internet by wireless (wifi), check the
       network icon on the top bar to see if you have good wireless signal. If
-      not, the internet may be slow because you don't have a very strong
+      not, the internet may be slow because you don’t have a very strong
       signal.</p>
 </li>
 <li class="list">
-<p class="p"><span class="em-bold em">Using a slower mobile internet connection</span></p>
+<p class="p"><span class="em-bold em">Een langzamere mobiele internetverbinding gebruiken</span></p>
 <p class="p">If you have a mobile internet connection and notice that it is slow,
       you may have moved into an area where signal reception is poor. When this
       happens, the internet connection will automatically switch from a fast
-      "mobile broadband" connection like 3G to a more reliable, but slower,
+      “mobile broadband” connection like 3G to a more reliable, but slower,
       connection like GPRS.</p>
 </li>
 <li class="list">
-<p class="p"><span class="em-bold em">Web browser has a problem</span></p>
+<p class="p"><span class="em-bold em">Er is een probleem met de webbrowser</span></p>
 <p class="p">Sometimes web browsers encounter a problem that makes them run slow.
-      This could be for any number of reasons - you could have visited a
+      This could be for any number of reasons — you could have visited a
       website that the browser struggled to load, or you might have had the
       browser open for a long time, for example. Try closing all of the
-      browser's windows and then opening the browser again to see if this makes
+      browser’s windows and then opening the browser again to see if this makes
       a difference.</p>
 </li>
 </ul></div></div></div>
@@ -111,10 +102,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html" title="Network problems">Network problems</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-troubleshooting.html" title="Wireless network troubleshooter">Troubleshooting wireless connections</a></span>,
-      <span class="link"><a href="net-wireless-find.html" title="I can't see my wireless network in the list">finding your wifi network</a></span>…
-    </span>
+<a href="net-problem.html" title="Netwerkproblemen">Netwerkproblemen</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Probleemoplosser draadloos netwerk">Problemen met draadloze verbindingen oplossen</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">Uw wifi-netwerk vinden</a></span>...</span>
 </li></ul></div>
 </div></div></div>
 </div>

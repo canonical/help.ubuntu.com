@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Copy or move files and folders</title>
+<title>Bestanden en mappen kopiëren of verplaatsen</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,95 +43,71 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html#common-file-tasks" title="Common tasks">Common tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Copy or move files and folders</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Bestanden en mappen kopiëren of verplaatsen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">A file or folder can be copied or moved to a new location by dragging and
- dropping with the mouse, using the copy and paste commands, or by using
- keyboard shortcuts.</p>
+<p class="p">Een map of bestand kan naar een nieuwe plaats worden verplaatst of gekopieerd door het met de muis te verslepen, door de kopiëren- en plakken-opdrachten te gebruiken, of door sneltoetsen te gebruiken.</p>
 <p class="p">For example, you might want to copy a presentation onto a memory stick so
  you can take it to work with you. Or, you could make a back-up copy of a
- document before you make changes to it (and then use the old copy if you don't
+ document before you make changes to it (and then use the old copy if you don’t
  like your changes).</p>
-<p class="p">These instructions apply to both files and folders. You copy and move files
- and folders in exactly the same way.</p>
+<p class="p">Deze instructies slaan op zowel bestanden als mappen. U kopieert en verplaatst bestanden en mappen op precies dezelfde manier.</p>
 <div class="steps ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
 <div class="inner">
-<div class="title title-steps"><h2><span class="title">Copy and paste files</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Bestanden kopiëren en plakken</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Select the file you want to copy by clicking on it once.</p></li>
-<li class="steps"><p class="p">Right-click and pick <span class="gui">Copy</span>, or press
- <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span>.</p></li>
-<li class="steps"><p class="p">Navigate to another folder, where you want to put the copy of the
- file.</p></li>
-<li class="steps"><p class="p">Click the menu button and pick <span class="gui">Paste</span> to finish copying the
- file, or press <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>V</kbd></span></span>. There
- will now be a copy of the file in the original folder and the other
- folder.</p></li>
+<li class="steps"><p class="p">Selecteer het bestand dat u wilt kopiëren door er één keer op te  klikken.</p></li>
+<li class="steps"><p class="p">Rechts-klik en kies <span class="gui">Kopiëren</span>, of druk op <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span>.</p></li>
+<li class="steps"><p class="p">Navigeer naar een andere map, waar u een kopie van het bestand wilt plaatsen.</p></li>
+<li class="steps"><p class="p">Klik op de menuknop en kies <span class="gui">Plakken</span> of druk op <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>V</kbd></span></span> om het kopiëren van het bestand te voltooien. Nu zal er een kopie van het bestand zijn in de originele map en de andere map.</p></li>
 </ol></div>
 </div>
 </div>
 <div class="steps ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
 <div class="inner">
-<div class="title title-steps"><h2><span class="title">Cut and paste files to move them</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Bestanden knippen en plakken (om ze te verplaatsen)</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Select the file you want to move by clicking on it once.</p></li>
-<li class="steps"><p class="p">Right-click and pick <span class="gui">Cut</span>, or press
- <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>X</kbd></span></span>.</p></li>
-<li class="steps"><p class="p">Navigate to another folder, where you want to move the file.</p></li>
-<li class="steps"><p class="p">Click the menu button in the toolbar and pick <span class="gui">Paste</span> to
- finish moving the file, or press <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>V</kbd></span></span>.
- The file will be taken out of its original folder and moved to the other
- folder.</p></li>
+<li class="steps"><p class="p">U kunt het bestand dat u wilt verplaatsen selecteren door er één keer op te klikken.</p></li>
+<li class="steps"><p class="p">Rechts-klik en kies <span class="gui">Knippen</span>, of druk op <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>X</kbd></span></span>.</p></li>
+<li class="steps"><p class="p">Navigeer naar de map waarin u het bestand wilt plaatsen.</p></li>
+<li class="steps"><p class="p">Klik op de menuknop in de werkbalk en kies <span class="gui">Plakken</span>, of druk op <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>V</kbd></span></span>, om het verplaatsen van het bestand te voltooien. Het bestand zal uit de originele map worden gehaald en verplaatst worden naar de andere map.</p></li>
 </ol></div>
 </div>
 </div>
 <div class="steps ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
 <div class="inner">
-<div class="title title-steps"><h2><span class="title">Drag files to copy or move</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Sleep bestanden om te kopiëren of verplaatsen</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the file manager and go to the folder which contains the file you
- want to copy.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Files</span> in the top bar, select <span class="gui">New Window</span> (or
- press <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>N</kbd></span></span>) to open a second window. In
- the new window, navigate to the folder where you want to move or copy the file.
- </p></li>
+<li class="steps"><p class="p">Open bestandsbeheer en ga naar de map met het bestand dat u wilt kopiëren.</p></li>
+<li class="steps"><p class="p">Klik in de menubalk op <span class="gui">Bestanden</span>, kies <span class="gui">Nieuw venster</span> (of druk <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>N</kbd></span></span>) om een nieuw venster te openen. Blader in het nieuwe venster naar de map waar u het bestand heen wil kopiëren of verplaatsen.</p></li>
 <li class="steps">
-<p class="p">Click and drag the file from one window to another. This will
- <span class="em">move it</span> if the destination is on the <span class="em">same</span> device, or
- <span class="em">copy it</span> if the destination is on a <span class="em">different</span> device.</p>
+<p class="p">Klik en sleep het bestand van het ene venster naar het andere. Als de bestemming zich op <span class="em">hetzelfde</span> apparaat bevindt zal het worden <span class="em">verplaatst</span>, en als de bestemming zich op een <span class="em">ander</span> apparaat bevindt, dan wordt het <span class="em">gekopieerd</span>.</p>
 <p class="p">For example, if you drag a file from a USB memory stick to your Home folder,
- it will be copied, because you're dragging from one device to another.</p>
-<p class="p">You can force the file to be copied by holding down the <span class="key"><kbd>Ctrl</kbd></span> key
- while dragging, or force it to be moved by holding down the <span class="key"><kbd>Shift</kbd></span>
- key while dragging.</p>
+ it will be copied, because you’re dragging from one device to another.</p>
+<p class="p">Om kopiëren van het bestand te forceren houdt u de <span class="key"><kbd>Ctrl</kbd></span>-toets ingedrukt terwijl u sleept, en om verplaatsen te forceren houdt u tijdens het slepen de <span class="key"><kbd>Shift</kbd></span>-toets ingedrukt.</p>
 </li>
 </ol></div>
 </div>
 </div>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">You cannot copy or move a file into a folder that is <span class="em">read-only</span>.
-  Some folders are read-only to prevent you from making changes to their
-  contents. You can change things from being read-only by
-  <span class="link"><a href="nautilus-file-properties-permissions.html" title="Set file permissions">changing file permissions
-  </a></span>.</p></div></div></div></div>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">U kunt niet een bestand kopiëren of verplaatsen naar een map die <span class="em">alleen-lezen</span> is. Sommige mappen zijn alleen-lezen om te voorkomen dat u wijzigingen aanbrengt aan de inhoud ervan. U kunt de instelling alleen-lezen wijzigen door de <span class="link"><a href="nautilus-file-properties-permissions.html" title="Bestandsrechten instellen">bestandsrechten te wijzigen</a></span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Common tasks">Common tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-browse.html" title="Browse files and folders">Browse files and folders</a><span class="desc"> — Manage and organize files with the file manager.</span>
+<a href="files-browse.html" title="Door bestanden en mappen bladeren">Door bestanden en mappen bladeren</a><span class="desc"> — Beheer en organiseer bestanden met de bestandsbeheerder.</span>
 </li></ul></div>
 </div></div>
 </div>

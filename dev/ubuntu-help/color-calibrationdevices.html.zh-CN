@@ -68,9 +68,13 @@
 <li class="list"><p class="p">Colorimètre HCFR(色度计)</p></li>
 </ul></div></div></div>
 <div class="note note-tip" title="提示"><div class="inner"><div class="region"><div class="contents"><p class="p">Pantone Huey 目前是最便宜、Linux 支持最好的硬件。</p></div></div></div></div>
-<p class="p">系统通过 Argyll 程序支持多种光谱仪，您可以用这些光谱仪来校正和调试打印机的颜色：</p>
+<p class="p">
+    Thanks to Argyll there’s also a number of spot and strip reading
+    reflective spectrometers supported to help you calibrating and
+    characterizing your printers:
+  </p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">X-Rite DTP20 "Pulse"</p></li>
+<li class="list"><p class="p">X-Rite DTP20 “Pulse” (“swipe” type reflective spectrometer)</p></li>
 <li class="list"><p class="p">X-Rite DTP22 Digital Swatchbook</p></li>
 <li class="list"><p class="p">X-Rite DTP41</p></li>
 <li class="list"><p class="p">X-Rite DTP41T</p></li>

@@ -54,15 +54,14 @@
   browser installed, the page may not open up in the browser you wanted it to
   open in. To fix this, change the default web browser:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span> overview and
-      start typing <span class="gui">Details</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Rincian</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Rincian</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Choose <span class="gui">Default Applications</span> from the list on the left side
       of the window.</p></li>
 <li class="steps"><p class="p">Choose which web browser you would like to open links by
       changing the <span class="gui">Web</span> option.</p></li>
 </ol></div></div></div>
-<p class="p">When you open up a different web browser, it might tell you that it's not
+<p class="p">When you open up a different web browser, it might tell you that it’s not
   the default browser any more. If this happens, click the <span class="gui">Cancel</span>
   button (or similar) so that it does not try to set itself as the default
   browser again.</p>
@@ -72,10 +71,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html" title="Peramban Web">Peramban Web</a><span class="desc"> — 
-      <span class="link"><a href="net-default-browser.html" title="Change which web browser opens websites by default">Change the default browser</a></span>,
-      <span class="link"><a href="net-install-flash.html" title="Install the Flash plug-in">install Flash</a></span>…
-    </span>
+<a href="net-browser.html" title="Peramban Web">Peramban Web</a><span class="desc"> — <span class="link"><a href="net-default-browser.html" title="Change which web browser opens websites by default">Ubah peramban baku</a></span>, <span class="link"><a href="net-install-flash.html" title="Install the Flash plug-in">pasang Flash</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

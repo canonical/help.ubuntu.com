@@ -53,10 +53,7 @@
 <div class="linkdiv "><a class="linkdiv" href="shell-introduction.html" title="Einführung in GNOME"><span class="title">Einführung in GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Eine visuelle Einführung in Ihre Arbeitsumgebung, das obere Panel und die <span class="gui">Aktivitäten</span>-Übersicht.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Abmelden, ausschalten oder Benutzer wechseln"><span class="title">Abmelden, ausschalten oder Benutzer wechseln</span><span class="linkdiv-dash"> — </span><span class="desc">Erfahren Sie, wie Sie Ihr Benutzerkonto verlassen können, indem Sie sich abmelden, den Benutzer wechseln und so weiter.</span></a></div>
 </div>
-<div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Anwendungen starten"><span class="title">Anwendungen starten</span><span class="linkdiv-dash"> — </span><span class="desc">Anwendungen in der <span class="gui">Aktivitäten</span>-Übersicht starten.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-guest-session.html" title="Eine eingeschränkte Gastsitzung starten"><span class="title">Eine eingeschränkte Gastsitzung starten</span><span class="linkdiv-dash"> — </span><span class="desc">Lassen Sie einen Freund oder Kollegen auf sichere Art und Weise Ihren Rechner ausleihen.</span></a></div>
-</div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Anwendungen starten"><span class="title">Anwendungen starten</span><span class="linkdiv-dash"> — </span><span class="desc">Anwendungen in der <span class="gui">Aktivitäten</span>-Übersicht starten.</span></a></div></div>
 </div></div></div></div>
 <div id="desktop" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Ihre Arbeitsumgebung anpassen</span></h2></div>
@@ -79,7 +76,7 @@
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html" title="Nützliche Tastenkombinationen"><span class="title">Nützliche Tastenkombinationen</span><span class="linkdiv-dash"> — </span><span class="desc">Bewegen in der Arbeitsumgebung mit der Tastatur.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="status-icons.html" title="Was bedeuten die Symbole im oberen Panel?"><span class="title">Was bedeuten die Symbole im oberen Panel?</span><span class="linkdiv-dash"> — </span><span class="desc">Erläutert die Bedeutung der Symbole an der rechten Seite des oberen Panels.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html" title="Wechseln zwischen Fenstern"><span class="title">Wechseln zwischen Fenstern</span><span class="linkdiv-dash"> — </span><span class="desc">Drücken Sie <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html" title="Wechseln zwischen Fenstern"><span class="title">Wechseln zwischen Fenstern</span><span class="linkdiv-dash"> — </span><span class="desc">Drücken Sie <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>

@@ -60,9 +60,9 @@
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="10" data-ttml-end="13"><div class="media-ttml-node media-ttml-p" data-ttml-begin="10" data-ttml-end="13">Sobald der Bildschirm vollständig markiert ist, lassen Sie das Fenster los.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="14" data-ttml-end="20"><div class="media-ttml-node media-ttml-p" data-ttml-begin="14" data-ttml-end="20">Um die Fenstergröße wiederherzustellen, klicken Sie auf die Titelleiste und ziehen Sie das Fenster vom Rand des Bildschirms weg.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="25" data-ttml-end="29"><div class="media-ttml-node media-ttml-p" data-ttml-begin="25" data-ttml-end="29">Sie können auch auf die obere Leiste klicken, um das Fenster wegzuziehen und die Größe wiederherzustellen.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="34" data-ttml-end="38"><div class="media-ttml-node media-ttml-p" data-ttml-begin="34" data-ttml-end="38">Um ein Fenster auf der linken Bildschirmhälfte zu maximieren, klicken Sie die Titelleiste des Fensters und ziehen Sie sie an den linken Rand.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="34" data-ttml-end="38"><div class="media-ttml-node media-ttml-p" data-ttml-begin="34" data-ttml-end="38">Um ein Fenster auf der linken Bildschirmhälfte zu maximieren, klicken Sie auf die Titelleiste des Fensters und ziehen Sie sie an den linken Rand.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="38" data-ttml-end="40"><div class="media-ttml-node media-ttml-p" data-ttml-begin="38" data-ttml-end="40">Wenn die Hälfte des Bildschirms markiert ist, lassen Sie das Fenster los.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="41" data-ttml-end="44"><div class="media-ttml-node media-ttml-p" data-ttml-begin="41" data-ttml-end="44">Um ein Fenster auf der rechten Bildschirmhälfte zu maximieren, klicken Sie die Titelleiste des Fensters und ziehen Sie sie an den rechten Rand.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="41" data-ttml-end="44"><div class="media-ttml-node media-ttml-p" data-ttml-begin="41" data-ttml-end="44">Um ein Fenster auf der rechten Bildschirmhälfte zu maximieren, klicken Sie auf die Titelleiste des Fensters und ziehen Sie sie an den rechten Rand.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="44" data-ttml-end="48"><div class="media-ttml-node media-ttml-p" data-ttml-begin="44" data-ttml-end="48">Wenn die Hälfte des Bildschirms markiert ist, lassen Sie das Fenster los.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="54" data-ttml-end="60"><div class="media-ttml-node media-ttml-p" data-ttml-begin="54" data-ttml-end="60">Um ein Fenster mit der Tastatur zu maximieren, halten Sie die <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>-Taste und drücken Sie <span class="key"><kbd>↑</kbd></span>.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="61" data-ttml-end="66"><div class="media-ttml-node media-ttml-p" data-ttml-begin="61" data-ttml-end="66">Um die Fenstergröße wiederherzustellen, halten Sie die <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>-Taste und drücken Sie <span class="key"><kbd>↓</kbd></span>.</div></div>
@@ -90,7 +90,7 @@
 <div class="region"><div class="contents">
 <p class="p"></p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Um ein Fenster auf einer Bildschirmhälfte zu maximieren, klicken Sie die Titelleiste des Fensters und ziehen Sie sie an den linken oder rechten Rand.</p></li>
+<li class="steps"><p class="p">Um ein Fenster auf einer Bildschirmhälfte zu maximieren, klicken Sie auf die Titelleiste des Fensters und ziehen Sie sie an den linken oder rechten Rand.</p></li>
 <li class="steps"><p class="p">Wenn die Hälfte des Bildschirms markiert ist, lassen Sie das Fenster los, um es auf der gewählten Seite des Bildschirms zu maximieren.</p></li>
 <li class="steps"><p class="p">Um zwei Fenster Seite-an-Seite zu maximieren, klicken Sie die Titelleiste des zweiten Fensters und ziehen Sie sie an den gegenüberliegenden Rand des Bildschirms.</p></li>
 <li class="steps"><p class="p">Wenn die Hälfte des Bildschirms markiert ist, lassen Sie das Fenster los, um es an der gegenüberliegenden Seite des Bildschirms zu maximieren.</p></li>
@@ -133,7 +133,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-windows-switching.html" title="Wechseln zwischen Fenstern">Wechseln zwischen Fenstern</a><span class="desc"> — Drücken Sie <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></span>
+<a href="shell-windows-switching.html" title="Wechseln zwischen Fenstern">Wechseln zwischen Fenstern</a><span class="desc"> — Drücken Sie <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span>
 </li></ul></div>
 </div></div>
 </div>

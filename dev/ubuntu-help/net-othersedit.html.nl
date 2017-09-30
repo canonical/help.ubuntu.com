@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Other users can't edit the network connections</title>
+<title>Other users can’t edit the network connections</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,25 +43,24 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html" title="Network problems">Network problems</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-problem.html" title="Netwerkproblemen">Netwerkproblemen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Other users can't edit the network connections</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Other users can’t edit the network connections</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">If you can edit a network connection but other users on your computer
-  can't, you may have set the connection to be <span class="em">available to all users</span>.
+  can’t, you may have set the connection to be <span class="em">available to all users</span>.
   This makes it so that everyone on the computer can <span class="em">connect</span> using
   that connection.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Network</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Network</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Select <span class="gui">Wi-Fi</span> from the list on the left.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Netwerk</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Netwerk</span> om het paneel te openen.</p></li>
+<li class="steps"><p class="p">Selecteer <span class="gui">Wifi</span> in de lijst aan de linkerkant.</p></li>
 <li class="steps"><p class="p">Click the 
       <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span> button to open the connection
       details.</p></li>
-<li class="steps"><p class="p">Select <span class="gui">Identity</span> from the pane on the left.</p></li>
+<li class="steps"><p class="p">Selecteer <span class="gui">Identiteit</span> vanuit het paneel aan de linkerkant.</p></li>
 <li class="steps"><p class="p">At the bottom of the <span class="gui">Identity</span> panel, check the <span class="gui">Make
       available to other users</span> option to allow other users to use the
       network connection.</p></li>
@@ -74,21 +73,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html" title="Network problems">Network problems</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-troubleshooting.html" title="Wireless network troubleshooter">Troubleshooting wireless connections</a></span>,
-      <span class="link"><a href="net-wireless-find.html" title="I can't see my wireless network in the list">finding your wifi network</a></span>…
-    </span>
+<a href="net-problem.html" title="Netwerkproblemen">Netwerkproblemen</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Probleemoplosser draadloos netwerk">Problemen met draadloze verbindingen oplossen</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">Uw wifi-netwerk vinden</a></span>...</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-explain.html" title="Hoe werken beheerdersrechten?">Hoe werken beheerdersrechten?</a><span class="desc"> — You need administrative privileges to change important parts of your
-    system.</span>
+<a href="user-admin-explain.html" title="Hoe werken beheerdersrechten?">Hoe werken beheerdersrechten?</a><span class="desc"> — U heeft beheerdersrechten nodig om belangrijke delen van uw systeem te wijzigen.</span>
 </li>
 <li class="links ">
-<a href="net-othersconnect.html" title="Other users can't connect to the internet">Other users can't connect to the internet</a><span class="desc"> — You can save settings (like the password) for a network connection so that everyone who uses the computer will be able to connect to it.</span>
+<a href="net-othersconnect.html" title="Other users can’t connect to the internet">Other users can’t connect to the internet</a><span class="desc"> — U kunt instellingen (zoals het wachtwoord) voor een netwerkverbinding opslaan, zodat iedereen die de computer gebruikt er verbinding mee kan maken.</span>
 </li>
 </ul></div>
 </div></div>

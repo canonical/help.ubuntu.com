@@ -50,23 +50,23 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-connect.html" title="Povezava z brezžičnim omrežjem"><span class="title">Povezava z brezžičnim omrežjem</span><span class="linkdiv-dash"> — </span><span class="desc">Povežite se na internet - brezžično.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-connect.html" title="Povezava z brezžičnim omrežjem"><span class="title">Povezava z brezžičnim omrežjem</span><span class="linkdiv-dash"> — </span><span class="desc">Get on the internet — wirelessly.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-mobile.html" title="Connect to mobile broadband"><span class="title">Connect to mobile broadband</span><span class="linkdiv-dash"> — </span><span class="desc">Use your phone or Internet stick to connect to the mobile broadband
     network.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html" title="I can’t see my wireless network in the list"><span class="title">I can’t see my wireless network in the list</span><span class="linkdiv-dash"> — </span><span class="desc">The wireless could be turned off or broken, or you may be trying to
+    connect to a hidden network.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-airplane.html" title="Izklopite brezžično omrežje (letalski način)"><span class="title">Izklopite brezžično omrežje (letalski način)</span><span class="linkdiv-dash"> — </span><span class="desc">Odprite nastavitve omrežja in vklopite način letala.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-noconnection.html" title="I’ve entered the correct password, but I still can’t connect"><span class="title">I’ve entered the correct password, but I still can’t connect</span><span class="linkdiv-dash"> — </span><span class="desc">Double-check the password, and other things to try.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-wepwpa.html" title="Kaj WEP in WPA pomenita?"><span class="title">Kaj WEP in WPA pomenita?</span><span class="linkdiv-dash"> — </span><span class="desc">WEP in WPA sta načina za šifriranje podatkov na brezžičnih omrežjih.</span></a></div>
+</div>
+<div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-troubleshooting.html" title="Odpravljanje težav z brezžičnimi omrežji"><span class="title">Odpravljanje težav z brezžičnimi omrežji</span><span class="linkdiv-dash"> — </span><span class="desc">Identify and fix problems with wireless connections.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-hidden.html" title="Povezava s skritim brezžičnim omrežjem"><span class="title">Povezava s skritim brezžičnim omrežjem</span><span class="linkdiv-dash"> — </span><span class="desc">Connect to a wireless network that is not displayed in the network
     list.</span></a></div>
-</div>
-<div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="net-vpn-connect.html" title="Povezava z VPN"><span class="title">Povezava z VPN</span><span class="linkdiv-dash"> — </span><span class="desc">Set up a VPN connection to a local network over the internet.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-manual.html" title="Ročno nastavi omrežne nastavitve"><span class="title">Ročno nastavi omrežne nastavitve</span><span class="linkdiv-dash"> — </span><span class="desc">You may have to enter network settings if they don't get assigned
+<div class="linkdiv "><a class="linkdiv" href="net-manual.html" title="Ročno nastavi omrežne nastavitve"><span class="title">Ročno nastavi omrežne nastavitve</span><span class="linkdiv-dash"> — </span><span class="desc">You may have to enter network settings if they don’t get assigned
     automatically.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html" title="Svojega brezžičnega omrežja ne morem videti na seznamu"><span class="title">Svojega brezžičnega omrežja ne morem videti na seznamu</span><span class="linkdiv-dash"> — </span><span class="desc">The wireless could be turned off or broken, or you may be trying to
-    connect to a hidden network.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-adhoc.html" title="Ustvaritev brezžične dostopne točke"><span class="title">Ustvaritev brezžične dostopne točke</span><span class="linkdiv-dash"> — </span><span class="desc">Uporaba ad-hoc omrežja za omogočanje povezave z vami in vašimi omrežnimi povezavami drugim napravam.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-noconnection.html" title="Vnes-el/la sem pravilno geslo, vendar se še vedno ne morem povezati"><span class="title">Vnes-el/la sem pravilno geslo, vendar se še vedno ne morem povezati</span><span class="linkdiv-dash"> — </span><span class="desc">Double-check the password, and other things to try.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-disconnecting.html" title="Zakaj se povezava z mojim brezžičnim omrežjem kar naprej prekinja?"><span class="title">Zakaj se povezava z mojim brezžičnim omrežjem kar naprej prekinja?</span><span class="linkdiv-dash"> — </span><span class="desc">Morda imate šibek signal ali pa vam omrežje ne dopušča primerne povezave.</span></a></div>
 </div>
 </div></div></div></div>
@@ -86,7 +86,7 @@
 <a href="net-general.html" title="Izrazi in namigi omrežja">Izrazi in namigi omrežja</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="Najdite svoj naslov IP">Najdite svoj naslov IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Kaj WEP in WPA pomenita?">varnost WEP in WPA</a></span>, <span class="link"><a href="net-macaddress.html" title="Kaj je naslov MAC?">naslovi MAC</a></span>, <span class="link"><a href="net-proxy.html" title="Določitev nastavitvev posredniškega strežnika">posredniški strežniki</a></span> …</span>
 </li>
 <li class="links ">
-<a href="net-problem.html" title="Težave z omrežjem">Težave z omrežjem</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Odpravljanje težav z brezžičnimi omrežji">Odpravljanje težav z brezžičnimi povezavami</a></span>, <span class="link"><a href="net-wireless-find.html" title="Svojega brezžičnega omrežja ne morem videti na seznamu">iskanje brezžične povezave</a></span> …</span>
+<a href="net-problem.html" title="Težave z omrežjem">Težave z omrežjem</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Odpravljanje težav z brezžičnimi omrežji">Odpravljanje težav z brezžičnimi povezavami</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">iskanje brezžične povezave</a></span> …</span>
 </li>
 </ul></div>
 </div></div>

@@ -48,48 +48,38 @@
 <div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 17.10</span></div><div class="region"><div class="contents">
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html" title="Aan de slag"><span class="title">Aan de slag met Gnome</span><span class="linkdiv-dash"> — </span><span class="desc">Nieuw bij Gnome? Leer hoe u het onder de knie krijgt.</span></a></div></div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html" title="Introduction to GNOME"><span class="title">Introduction to GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual introduction to your desktop, the top bar, and the
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Afmelden, uitschakelen, van gebruiker wisselen"><span class="title">Afmelden, uitschakelen, van gebruiker wisselen</span><span class="linkdiv-dash"> — </span><span class="desc">Leer hoe u uw gebruikersaccount verlaat, door af te melden, van gebruiker te wisselen, enz.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html" title="Inleiding tot Gnome"><span class="title">Inleiding tot Gnome</span><span class="linkdiv-dash"> — </span><span class="desc">A visual introduction to your desktop, the top bar, and the
     <span class="gui">Activities</span> overview.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Log out, power off or switch users"><span class="title">Log out, power off or switch users</span><span class="linkdiv-dash"> — </span><span class="desc">Leer hoe u uw gebruikersaccount verlaat, door af te melden, van gebruiker te wisselen, enz.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Start applications"><span class="title">Start applications</span><span class="linkdiv-dash"> — </span><span class="desc">Launch apps from the <span class="gui">Activities</span> overview.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Toepassingen starten"><span class="title">Toepassingen starten</span><span class="linkdiv-dash"> — </span><span class="desc">Launch apps from the <span class="gui">Activities</span> overview.</span></a></div>
 </div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="shell-overview.html" title="Your desktop">Your desktop</a></div>
+<div class="links-grid-link"><a href="shell-overview.html" title="Uw bureaublad">Uw bureaublad</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="clock-calendar.html" title="Agenda-afspraken">Agenda</a></span>, <span class="link"><a href="shell-notifications.html" title="Notifications and the message tray">meldingen</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Handige sneltoetsen">sneltoetsen</a></span>, <span class="link"><a href="shell-windows.html" title="Vensters en werkbladen">vensters en werkbladen</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="clock-calendar.html" title="Calendar appointments">Calendar</a></span>,
-      <span class="link"><a href="shell-notifications.html" title="Notifications and the message tray">notifications</a></span>,
-      <span class="link"><a href="shell-keyboard-shortcuts.html" title="Useful keyboard shortcuts">keyboard shortcuts</a></span>,
-      <span class="link"><a href="shell-windows.html" title="Vensters en werkbladen">windows and workspaces</a></span>…
+      <span class="link"><a href="net-wireless.html" title="Draadloos netwerk">Wireless</a></span>,
+      <span class="link"><a href="net-wired.html" title="Bekabeld netwerk">wired</a></span>,
+      <span class="link"><a href="net-problem.html" title="Netwerkproblemen">connection problems</a></span>,
+      <span class="link"><a href="net-browser.html" title="Webbrowsers">web browsing</a></span>,
+      <span class="link"><a href="net-email.html" title="E mail &amp; e-mailsoftware">email accounts</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a></div>
+<div class="links-grid-link"><a href="media.html" title="Geluid, video &amp; foto's">Geluid, video &amp; foto's</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-wireless.html" title="Wireless Networking">Wireless</a></span>,
-      <span class="link"><a href="net-wired.html" title="Wired Networking">wired</a></span>,
-      <span class="link"><a href="net-problem.html" title="Network problems">connection problems</a></span>,
-      <span class="link"><a href="net-browser.html" title="Web Browsers">web browsing</a></span>,
-      <span class="link"><a href="net-email.html" title="Email &amp; email software">email accounts</a></span>…
+      <span class="link"><a href="media.html#photos" title="Foto's en digitale camera's">Digital cameras</a></span>,
+      <span class="link"><a href="media.html#music" title="Muziek en draagbare geluidsspelers">iPods</a></span>,
+      <span class="link"><a href="media.html#photos" title="Foto's en digitale camera's">editing photos</a></span>,
+      <span class="link"><a href="media.html#videos" title="Video's en videocamera's">playing videos</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="media.html" title="Sound, video &amp; pictures">Sound, video &amp; pictures</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="media.html#photos" title="Photos and digital cameras">Digital cameras</a></span>,
-      <span class="link"><a href="media.html#music" title="Music and portable audio players">iPods</a></span>,
-      <span class="link"><a href="media.html#photos" title="Photos and digital cameras">editing photos</a></span>,
-      <span class="link"><a href="media.html#videos" title="Videos and video cameras">playing videos</a></span>…
-    </span></div>
-</div>
-<div class="links-grid ">
-<div class="links-grid-link"><a href="files.html" title="Files, folders &amp; search">Files, folders &amp; search</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="files-search.html" title="Search for files">Searching</a></span>,
-      <span class="link"><a href="files-delete.html" title="Delete files and folders">delete files</a></span>,
-      <span class="link"><a href="files.html#backup" title="Backing up">backups</a></span>,
-      <span class="link"><a href="files.html#removable" title="Removable drives and external disks">removable drives</a></span>…
-    </span></div>
+<div class="links-grid-link"><a href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden, mappen; &amp; zoeken</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="files-search.html" title="Zoeken naar bestanden">Zoeken</a></span>, <span class="link"><a href="files-delete.html" title="Bestanden en mappen verwijderen">bestanden verwijderen</a></span>, <span class="link"><a href="files.html#backup" title="Reservekopieën maken">reservekopieën</a></span>, <span class="link"><a href="files.html#removable" title="Verwijderbare schijven en externe schijven">verwijderbare schijven</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="addremove.html" title="Software toevoegen &amp; verwijderen">Software toevoegen &amp; verwijderen</a></div>
@@ -97,38 +87,19 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Gebruikers- &amp; systeeminstellingen</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="keyboard.html" title="Keyboard">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html" title="Mouse">mouse</a></span>,
-      <span class="link"><a href="prefs-display.html" title="Display &amp; screen">display</a></span>,
-      <span class="link"><a href="prefs-language.html" title="Region &amp; Language">languages</a></span>,
-      <span class="link"><a href="user-accounts.html" title="User accounts">user accounts</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard.html" title="Toetsenbord">Toetsenbord</a></span>, <span class="link"><a href="mouse.html" title="Muis">muis</a></span>, <span class="link"><a href="prefs-display.html" title="Weergave &amp; scherm">beeldscherm</a></span>, <span class="link"><a href="prefs-language.html" title="Regio &amp; taal">talen</a></span>, <span class="link"><a href="user-accounts.html" title="Gebruikersaccounts">gebruikersaccounts</a></span>...</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="hardware.html" title="Hardware &amp; drivers">Hardware &amp; drivers</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="hardware.html#problems" title="Common problems">Hardware problems</a></span>,
-      <span class="link"><a href="printing.html" title="Afdrukken">printers</a></span>,
-      <span class="link"><a href="power.html" title="Power &amp; battery">power settings</a></span>,
-      <span class="link"><a href="color.html" title="Color management">color management</a></span>,
-      <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>,
-      <span class="link"><a href="disk.html" title="Disks &amp; storage">disks</a></span>…
-    </span></div>
+<div class="links-grid-link"><a href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware &amp; stuurprogramma's</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="hardware.html#problems" title="Veel voorkomende problemen">Hardware problemen</a></span>, <span class="link"><a href="printing.html" title="Afdrukken">printers</a></span>, <span class="link"><a href="power.html" title="Voeding &amp; accu">energie-instellingen</a></span>, <span class="link"><a href="color.html" title="Kleurbeheer">kleurbeheer</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disks.html" title="disks">schijven</a></span>...</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="a11y.html" title="Universal access">Universal access</a></div>
-<div class="desc"><span class="desc">
-     <span class="link"><a href="a11y.html#vision" title="Visual impairments">Seeing</a></span>,
-     <span class="link"><a href="a11y.html#sound" title="Hearing impairments">hearing</a></span>,
-     <span class="link"><a href="a11y.html#mobility" title="Mobility impairments">mobility</a></span>,
-     <span class="link"><a href="a11y-braille.html" title="Read screen in Braille">braille</a></span>,
-     <span class="link"><a href="a11y-mag.html" title="Magnify a screen area">screen magnifier</a></span>…
-    </span></div>
+<div class="links-grid-link"><a href="a11y.html" title="Universele toegang">Universele toegang</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="a11y.html#vision" title="Visuele beperkingen">Zicht</a></span>, <span class="link"><a href="a11y.html#sound" title="Gehoorbeperkingen">gehoor</a></span>, <span class="link"><a href="a11y.html#mobility" title="Beperkte mobiliteit">mobiliteit</a></span>, <span class="link"><a href="a11y-braille.html" title="Het scherm in braille lezen">braille</a></span>, <span class="link"><a href="a11y-mag.html" title="Een schermgebied vergroten">vergrootglas</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="tips.html" title="Tips &amp; trucs">Tips &amp; trucs</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="tips-specialchars.html" title="Speciale tekens invoeren">Special characters</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Middle-click">middle click shortcuts</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="tips-specialchars.html" title="Speciale tekens invoeren">Speciale tekens</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Middelklik">middelmuisklik-sneltoetsen</a></span>...</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="more-help.html" title="Meer hulp verkrijgen">Meer hulp verkrijgen</a></div>

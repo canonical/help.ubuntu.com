@@ -81,14 +81,17 @@
 <div class="region"><div class="contents">
 <p class="p">Una clave compuesta es una clave especial que le permite pulsar varias teclas seguidas para obtener un carácter especial. Por ejemplo, para usar la letras con tilde <span class="em">é</span> puede pulsar <span class="key"><kbd>componer</kbd></span> despúes <span class="key"><kbd>'</kbd></span> y después <span class="key"><kbd>e</kbd></span>.</p>
 <p class="p">Los teclados no tienen teclas de composición específicas. En su lugar, puede definir una de las teclas existentes en su teclado, como tecla para componer.</p>
+<div class="note note-important" title="Importante"><div class="inner"><div class="region"><div class="contents"><p class="p">Necesita tener instalado <span class="app">Retoques</span> en su equipo para modificar esta opción.</p></div></div></div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Definir una tecla de composición</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Teclado</span>.</p></li>
-<li class="steps"><p class="p">Pulse en <span class="gui">Teclado</span> para abrir el panel.</p></li>
-<li class="steps"><p class="p">Seleccione la pestaña <span class="gui">Atajos</span> y pulse en <span class="gui">Escritura</span>.</p></li>
-<li class="steps"><p class="p">Pulse la <span class="gui">Tecla de composición</span> en el panel derecho.</p></li>
-<li class="steps"><p class="p">Pulse en <span class="gui">Desactivado</span> y seleccione la tecla que quiera que se comporte como una tecla de composición en el menú desplegable. Puede elegir las teclas <span class="key"><kbd>Ctrl</kbd></span>, la tecla <span class="key"><kbd>Alt</kbd></span> derecha, la tecla <span class="key"><kbd>Win</kbd></span> o la tecla <span class="key"><a href="keyboard-key-super.html" title="¿Qué es la tecla Super?"><kbd>Super</kbd></a></span> si tiene una, la tecla de <span class="key"><a href="keyboard-key-menu.html" title="¿Qué es la tecla Menú?"><kbd>Menú</kbd></a></span> o la tecla <span class="key"><kbd>Caps Lock</kbd></span>. Cualquier tecla que seleccione funcionará solo como una tecla de composición y nunca más funcionará para su propósito original.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Retoques</span>.</p></li>
+<li class="steps"><p class="p">Pulse en <span class="gui">Retoques</span> para abrir la aplicación.</p></li>
+<li class="steps"><p class="p">Pulse en la pestaña <span class="gui">Teclado y ratón</span>.</p></li>
+<li class="steps"><p class="p">Pulse en <span class="gui">Desactivado</span> junto a la opción de <span class="gui">Tecla de composición</span>.</p></li>
+<li class="steps"><p class="p">Active el interruptor en el diálogo y elija el atajo del teclado que quiere usar.</p></li>
+<li class="steps"><p class="p">Marque la casilla de la tecla que quiere usar como Tecla de composición.</p></li>
+<li class="steps"><p class="p">Cierre la ventana de la <span class="gui">Retoques</span>.</p></li>
 </ol></div>
 </div></div>
 <p class="p">Puede teclear muchos caracteres comunes usando la tecla compuesta, por ejemplo:</p>
@@ -110,7 +113,7 @@
 </div></div>
 <div id="layout" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Distribuciones de teclado</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Puede hacer que el teclado se comporte como el teclado de otro idioma, independientemente de las letras impresas en las teclas. Incluso puede cambiar fácilmente entre diferentes distribuciones de teclado con un icono en la barra superior. Para saber cómo hacerlo, consulte la <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a></span>.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Puede hacer que el teclado se comporte como el teclado de otro idioma, independientemente de las letras impresas en las teclas. Incluso puede cambiar fácilmente entre diferentes distribuciones de teclado con un icono en la barra superior. Para saber cómo hacerlo, consulte la <span class="link"><a href="keyboard-layouts.html" title="Usar distribuciones de teclado alternativas">Usar distribuciones de teclado alternativas</a></span>.</p></div></div>
 </div></div>
 <div id="im" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Métodos de entrada</span></h2></div>
@@ -131,7 +134,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
+<a href="keyboard-layouts.html" title="Usar distribuciones de teclado alternativas">Usar distribuciones de teclado alternativas</a><span class="desc"> — Añadir distribuciones de teclado y cambiar entre ellas.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -56,7 +56,10 @@
 <div class="hgroup"><h2 class="title"><span class="title">Namestitev programske opreme s programom Synaptic</span></h2></div>
 <div class="region"><div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Odprite Synaptic iz <span class="gui">Pregledne plošče</span> ali <span class="gui">Zaganjalnika</span>. V okno <span class="gui">Overitev</span> boste morali vnesti svoje geslo.</p></li>
+<li class="steps"><p class="p">
+          Open <span class="app">Synaptic</span> via the <span class="em">Activities</span> search bar. You 
+          will need to enter your password in the <span class="gui">Authenticate</span> window.
+        </p></li>
 <li class="steps"><p class="p">Kliknite <span class="gui">Iskanje</span> za iskanje programa oz. kliknite <span class="gui">Oddelki</span> in se sprehodite po kategorijah.</p></li>
 <li class="steps"><p class="p">Desno kliknite na program, ki ga želite namestite in izberite <span class="gui">Označi za namestitev</span>.</p></li>
 <li class="steps"><p class="p">Če boste vprašani po označevanju dodatnih sprememb, kliknite na <span class="gui">Označi</span>.</p></li>

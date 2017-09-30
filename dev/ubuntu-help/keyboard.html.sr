@@ -89,9 +89,6 @@
 <div class="title title-links"><h2><span class="title">Остале теме</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard-repeat-keys.html" title="Manage repeated key presses">Manage repeated key presses</a><span class="desc"> — Учините да тастатура не понавља слова када држите притиснутим тастер, или измените застој и брзину понављања тастера.</span>
-</li>
-<li class="links ">
 <a href="shell-keyboard-shortcuts.html" title="Корисне пречице тастатуре">Корисне пречице тастатуре</a><span class="desc"> — Крећите се по радној површи користећи тастатуру.</span>
 </li>
 <li class="links ">
@@ -99,6 +96,9 @@
 </li>
 <li class="links ">
 <a href="keyboard-shortcuts-set.html" title="Подесите пречице тастатуре">Подесите пречице тастатуре</a><span class="desc"> — Одредите или измените пречице тастатуре у подешавањима <span class="gui">Тастатуре</span>.</span>
+</li>
+<li class="links ">
+<a href="keyboard-repeat-keys.html" title="Управљајте поновљеним притисцима тастера">Управљајте поновљеним притисцима тастера</a><span class="desc"> — Учините да тастатура не понавља слова када држите притиснутим тастер, или измените застој и брзину понављања тастера.</span>
 </li>
 <li class="links ">
 <a href="keyboard-cursor-blink.html" title="Учините да курсор тастатуре трепери">Учините да курсор тастатуре трепери</a><span class="desc"> — Учините да место за убацивање трепери и којом брзином.</span>

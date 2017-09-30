@@ -59,7 +59,8 @@ because suspend is not supported properly by your hardware.</p></div>
 <div class="hgroup"><h2 class="title"><span class="title">Mon ordinateur est mis en veille et ne se réveille pas</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Quand votre ordinateur est en veille (suspendu) et que vous appuyez sur une touche ou que vous bougez la souris, il doit se réveiller et afficher un message à l'écran demandant la saisie de votre mot de passe. Si ce n'est pas le cas, essayez d'appuyer sur le bouton de mise en marche (ne le maintenez pas enfoncé, appuyez juste une fois).</p>
-<p class="p">Si cela ne change rien, vérifiez que votre moniteur est allumé et appuyez une nouvelle fois sur une touche du clavier.</p>
+<p class="p">If this still does not help, make sure that your computer’s monitor is
+  switched on and try pressing a key on the keyboard again.</p>
 <p class="p">En dernier ressort, éteignez l'ordinateur en maintenant le bouton de mise en marche enfoncé pendant 5 à 10 secondes. Par cette action, vous perdrez tout travail non enregistré. Vous pouvez cependant rallumer ensuite votre ordinateur.</p>
 <p class="p">Si cela se produit à chaque fois que votre ordinateur se met en veille, c'est que cette fonction n'est pas compatible avec votre matériel.</p>
 <div class="note note-warning" title="Avertissement"><div class="inner"><div class="region"><div class="contents"><p class="p">Si votre ordinateur perd de l'énergie et n'a pas de source d'énergie alternative (comme une batterie fonctionnelle), il s'éteindra.</p></div></div></div></div>

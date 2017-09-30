@@ -67,7 +67,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html" title="Region a jazyk">Region a jazyk</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Změna jazyka, který používáte">Jazyk</a></span>, <span class="link"><a href="session-formats.html" title="Změna formátů data a měrných jednotek">region a formáty</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">rozložení klávesnice</a></span>…</span>
+<a href="prefs-language.html" title="Region a jazyk">Region a jazyk</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Změna jazyka, který používáte">Jazyk</a></span>, <span class="link"><a href="session-formats.html" title="Změna formátů data a měrných jednotek">region a formáty</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Použití alternativního rozložení klávesnice">rozložení klávesnice</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

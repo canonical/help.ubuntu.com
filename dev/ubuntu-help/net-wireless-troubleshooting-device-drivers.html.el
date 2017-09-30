@@ -65,7 +65,13 @@
 </li>
 <li class="list">
 <p class="p">Ψάξτε για περιορισμένους (εκτελέσιμους) οδηγούς.</p>
-<p class="p">Πολλές διανομές Linux έρχονται μόνο με οδηγούς συσκευών που είναι <span class="em">ελεύθερες</span> και <span class="em">ανοικτού κώδικα</span>. Αυτό συμβαίνει επειδή δεν μπορούν να διανείμουν τους οδηγούς που είναι ιδιοταγείς, ή κλειστού κώδικα. Εάν ο σωστός οδηγός για τον ασύρματό σας προσαρμογέα είναι διαθέσιμος μόνο σε μια μη ελεύθερη ή "μόνο εκτελέσιμη" έκδοση, μπορεί να μην είναι εγκατεστημένος από προεπιλογή. Εάν συμβαίνει αυτό, κοιτάξτε στον ιστότοπο του κατασκευαστή του ασύρματου προσαρμογέα για να δείτε εάν έχει οδηγούς Linux.</p>
+<p class="p">Many Linux distributions only come with device drivers which are
+      <span class="em">free</span> and <span class="em">open source</span>. This is because they cannot
+      distribute drivers which are proprietary, or closed-source. If the
+      correct driver for your wireless adapter is only available in a non-free,
+      or “binary-only” version, it may not be installed by default. If this is
+      the case, look on the wireless adapter manufacturer’s website to see if
+      they have any Linux drivers.</p>
 <p class="p">Μερικές διανομές Linux έχουν ένα εργαλείο που μπορεί να κάνει λήψη περιορισμένους οδηγούς για σας. Εάν η διανομή σας έχει ένα τέτοιο εργαλείο, χρησιμοποιήστε το για να δείτε εάν μπορείτε να βρείτε ασύρματους οδηγούς για σας.</p>
 </li>
 <li class="list">

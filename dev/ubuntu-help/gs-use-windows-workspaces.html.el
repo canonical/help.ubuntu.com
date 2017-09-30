@@ -56,13 +56,17 @@
 <a href="#" class="ui-overlay-close" title="Κλείσιμο">⨯</a><div class="contents"><div class="media media-video"><div class="inner">
 <video src="figures/gnome-windows-and-workspaces.webm" preload="auto" controls="controls" class="media media-block" height="394" width="700" data-play-label="Αναπαραγωγή" data-pause-label="Παύση"></video><div class="media-ttml">
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="1" data-ttml-end="5"><div class="media-ttml-node media-ttml-p" data-ttml-begin="1" data-ttml-end="5">Παράθυρα και χώροι εργασίας</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="6" data-ttml-end="10"><div class="media-ttml-node media-ttml-p" data-ttml-begin="6" data-ttml-end="10">Για μεγιστοποίηση ενός παραθύρου, πάρτε τη γραμμή τίτλου του παραθύρου και μεταφέρτε την στην κορυφή της οθόνης.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="6" data-ttml-end="10"><div class="media-ttml-node media-ttml-p" data-ttml-begin="6" data-ttml-end="10">To maximize a window, grab the window’s titlebar and drag it to
+            the top of the screen.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="10" data-ttml-end="13"><div class="media-ttml-node media-ttml-p" data-ttml-begin="10" data-ttml-end="13">Όταν η οθόνη επισημανθεί, ελευθερώστε το παράθυρο.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="14" data-ttml-end="20"><div class="media-ttml-node media-ttml-p" data-ttml-begin="14" data-ttml-end="20">Για απομεγιστοποίηση ενός παραθύρου, πάρτε τη γραμμή τίτλου του παραθύρου και μεταφέρτε την από τις άκρες της οθόνης.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="14" data-ttml-end="20"><div class="media-ttml-node media-ttml-p" data-ttml-begin="14" data-ttml-end="20">To unmaximize a window, grab the window’s titlebar and drag it
+            away from the edges of the screen.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="25" data-ttml-end="29"><div class="media-ttml-node media-ttml-p" data-ttml-begin="25" data-ttml-end="29">Μπορείτε επίσης να πατήσετε την πάνω γραμμή για να μεταφέρετε το παράθυρο μακριά και να το απομεγιστοποιήσετε.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="34" data-ttml-end="38"><div class="media-ttml-node media-ttml-p" data-ttml-begin="34" data-ttml-end="38">Για μεγιστοποίηση ενός παραθύρου κατά μήκος της αριστερής πλευράς της οθόνης, πάρτε τη γραμμή τίτλου του παραθύρου και μεταφέρτε την στα αριστερά.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="34" data-ttml-end="38"><div class="media-ttml-node media-ttml-p" data-ttml-begin="34" data-ttml-end="38">To maximize a window along the left side of the screen, grab
+            the window’s titlebar and drag it to the left.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="38" data-ttml-end="40"><div class="media-ttml-node media-ttml-p" data-ttml-begin="38" data-ttml-end="40">Όταν η μισή οθόνη επισημανθεί, ελευθερώστε το παράθυρο.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="41" data-ttml-end="44"><div class="media-ttml-node media-ttml-p" data-ttml-begin="41" data-ttml-end="44">Για μεγιστοποίηση ενός παραθύρου κατά μήκος της δεξιάς πλευράς της οθόνης, πάρτε τη γραμμή τίτλου του παραθύρου και μεταφέρτε την στα δεξιά.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="41" data-ttml-end="44"><div class="media-ttml-node media-ttml-p" data-ttml-begin="41" data-ttml-end="44">To maximize a window along the right side of the screen, grab
+            the window’s titlebar and drag it to the right.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="44" data-ttml-end="48"><div class="media-ttml-node media-ttml-p" data-ttml-begin="44" data-ttml-end="48">Όταν η μισή οθόνη επισημανθεί, ελευθερώστε το παράθυρο.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="54" data-ttml-end="60"><div class="media-ttml-node media-ttml-p" data-ttml-begin="54" data-ttml-end="60">Για μεγιστοποίηση ενός παραθύρου χρησιμοποιώντας το πληκτρολόγιο, κρατήστε πατημένο το πλήκτρο <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Λογότυπο</kbd></a></span> και πατήστε <span class="key"><kbd>↑</kbd></span>.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="61" data-ttml-end="66"><div class="media-ttml-node media-ttml-p" data-ttml-begin="61" data-ttml-end="66">Για επαναφορά του παραθύρου στο αμεγιστοποίητο μέγεθος του, κρατήστε πατημένο το πλήκτρο <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Λογότυπο</kbd></a></span> και πατήστε <span class="key"><kbd>↓</kbd></span>.</div></div>
@@ -79,9 +83,12 @@
 <div class="region"><div class="contents">
 <p class="p"></p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Για μεγιστοποίηση ενός παραθύρου έτσι ώστε να καταλαμβάνει όλο τον χώρο στην επιφάνεια εργασίας σας, πάρτε τη γραμμή τίτλου του παραθύρου και σύρετε την στη κορυφή της οθόνης.</p></li>
+<li class="steps"><p class="p">To maximize a window so that it takes up all of the space on
+       your desktop, grab the window’s titlebar and drag it to the top of the
+       screen.</p></li>
 <li class="steps"><p class="p">Όταν η οθόνη επισημαίνεται, ελευθερώστε το παράθυρο για να το μεγιστοποιήσετε.</p></li>
-<li class="steps"><p class="p">Για επαναφορά ενός παραθύρου στο απομεγιστοποιημένο μέγεθος του, πάρτε την γραμμή τίτλου του παραθύρου και απομακρύνετε την από τις άκρες της οθόνης.</p></li>
+<li class="steps"><p class="p">To restore a window to its unmaximized size, grab the window’s
+       titlebar and drag it away from the edges of the screen.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -90,7 +97,8 @@
 <div class="region"><div class="contents">
 <p class="p"></p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Για μεγιστοποίηση ενός παραθύρου κατά μήκος μιας πλευράς της οθόνης, πάρτε τη γραμμή τίτλου του παραθύρου και σύρετε την στα αριστερά ή δεξιά της οθόνης.</p></li>
+<li class="steps"><p class="p">To maximize a window along a side of the screen, grab the window’s
+       titlebar and drag it to the left or right side of the screen.</p></li>
 <li class="steps"><p class="p">Όταν επισημανθεί η μισή οθόνη, ελευθερώστε το παράθυρο για να το μεγιστοποιήσετε κατά μήκος της επιλεγμένης πλευράς της οθόνης.</p></li>
 <li class="steps"><p class="p">Για μεγιστοποίηση δύο παραθύρων πλάι-πλάι, πάρτε τη γραμμή τίτλου του δεύτερου παραθύρου και σύρετε την στην αντίθετη πλευρά της οθόνης.</p></li>
 <li class="steps"><p class="p">Όταν επισημανθεί η μισή οθόνη, ελευθερώστε το παράθυρο για να το μεγιστοποιήσετε κατά μήκος της αντίθετης πλευράς της οθόνης.</p></li>

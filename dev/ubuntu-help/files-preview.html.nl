@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Preview files and folders</title>
+<title>Voorbeeldweergave voor bestanden en mappen</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,33 +43,27 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html#common-file-tasks" title="Common tasks">Common tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Preview files and folders</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Voorbeeldweergave voor bestanden en mappen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can quickly preview files without opening them in a full-blown
-application.  Select any file and press the space bar. The file will open in a
-simple preview window. Press the space bar again to dismiss the preview.</p>
-<p class="p">The built-in preview supports most file formats for documents, images,
-video, and audio. In the preview, you can scroll through your documents or seek
-through your video and audio.</p>
-<p class="p">To view a preview full-screen, press <span class="key"><kbd>F</kbd></span> or <span class="key"><kbd>F11</kbd></span>. Press
-<span class="key"><kbd>F</kbd></span> or <span class="key"><kbd>F11</kbd></span> again to leave full-screen, or press the space
-bar to exit the preview completely.</p>
+<p class="p">U kunt bestanden snel inzien zonder ze in een toepassing te hoeven openen. Kies een bestand en druk op de spatiebalk. Het bestand zal nu in een eenvoudig voorbeeldvenster worden weergegeven. Druk opnieuw op de spatiebalk om het voorbeeldvenster te verbergen.</p>
+<p class="p">De ingebouwde voorbeeldweergave ondersteunt de meeste bestandsindelingen voor documenten, afbeeldingen, video en audio. In de voorbeeldweergave kunt u door uw document bladeren of in uw audio- of videobestand zoeken.</p>
+<p class="p">Om een voorbeeld te bekijken in een volledig scherm drukt u op <span class="key"><kbd>F</kbd></span> of <span class="key"><kbd>F11</kbd></span>. Druk nogmaals op <span class="key"><kbd>F</kbd></span> of <span class="key"><kbd>F11</kbd></span> om het volledige scherm te verlaten, of druk op de spatiebalk om het voorbeeld volledig af te sluiten.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Common tasks">Common tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-preview.html" title="File manager preview preferences">File manager preview preferences</a><span class="desc"> — Control when thumbnails are used for files.</span>
+<a href="nautilus-preview.html" title="Voorkeuren voor voorbeelden in bestandsbeheer">Voorkeuren voor voorbeelden in bestandsbeheer</a><span class="desc"> — Bepaal wanneer er miniaturen voor bestanden zullen worden gebruikt.</span>
 </li></ul></div>
 </div></div>
 </div>

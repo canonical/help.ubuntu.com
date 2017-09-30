@@ -65,7 +65,10 @@
 </li>
 <li class="list">
 <p class="p">Ελέγξτε εάν οι οδηγοί ήχου δεν είναι πολύ καλοί.</p>
-<p class="p">Μερικές κάρτες ήχου δεν δουλεύουν πολύ καλά στο Linux επειδή δεν έχουν πολύ καλούς οδηγούς. Αυτό το πρόβλημα είναι πιο δύσκολο να ταυτοποιηθεί. Δοκιμάστε να αναζητήσετε τον κατασκευαστή και τον τύπο της κάρτας ήχου σας στο διαδίκτυο, συν το όρο αναζήτησης "Linux", για να δείτε εάν άλλα άτομα έχουν το ίδιο πρόβλημα.</p>
+<p class="p">Some sound cards do not work very well on Linux because they do not have very
+  good drivers. This problem is more difficult to identify. Try searching for
+  the make and model of your sound card on the internet, plus the search term
+  “Linux”, to see if other people are having the same problem.</p>
 <p class="p">Μπορείτε να χρησιμοποιήσετε την εντολή <span class="cmd">lspci</span> για να πάρετε περισσότερες πληροφορίες για την κάρτα ήχου σας.</p>
 </li>
 </ul></div></div></div>

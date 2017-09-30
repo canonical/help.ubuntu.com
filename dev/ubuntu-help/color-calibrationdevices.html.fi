@@ -68,9 +68,13 @@
 <li class="list"><p class="p">Colorimètre HCFR (kolorimetri)</p></li>
 </ul></div></div></div>
 <div class="note note-tip" title="Vinkki"><div class="inner"><div class="region"><div class="contents"><p class="p">Pantone Huey on tällä hetkellä halvin ja parhaiten tuettu laite Linux-ympäristössä.</p></div></div></div></div>
-<p class="p">Kiitos Argyllin on olemassa myös joukko tuettuja piste- ja raitalukuun tarkoitettuja heijastavia spektrometrejä. Näitä voidaan käyttää tulostimien kalibroinnissa ja karakterisoinnissa.</p>
+<p class="p">
+    Thanks to Argyll there’s also a number of spot and strip reading
+    reflective spectrometers supported to help you calibrating and
+    characterizing your printers:
+  </p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">X-Rite DTP20 "Pulse" ("pyyhkäisy" tyyppinen heijastava spektrometri)</p></li>
+<li class="list"><p class="p">X-Rite DTP20 “Pulse” (“swipe” type reflective spectrometer)</p></li>
 <li class="list"><p class="p">X-Rite DTP22 Digital Swatchbook (pistetyyppinen reflektiivinen spektrometri)</p></li>
 <li class="list"><p class="p">X-Rite DTP41 (piste- ja raitalukuun kykenevä reflektiivinen spektrometri)</p></li>
 <li class="list"><p class="p">X-Rite DTP41T (piste- ja raitalukuun kykenevä reflektiivinen spektrometri)</p></li>

@@ -61,7 +61,7 @@
 <dt class="terms"><span class="gui">Typ</span></dt>
 <dd class="terms">
 <p class="p">Damit können Sie den Dateityp leichter feststellen, etwa dass es ein PDF-Dokument, OpenDocument-Text oder JPEG-Bild ist. Der Dateityp bestimmt unter anderem, welche Anwendung die Datei öffnen kann. Zum Beispiel können Sie ein Bild nicht mit der Musikwiedergabe öffnen. Siehe <span class="link"><a href="files-open.html" title="Dateien mit anderen Anwendungen öffnen">Dateien mit anderen Anwendungen öffnen</a></span> für weitere Informationen darüber.</p>
-<p class="p">Der <span class="em">MIME-Typ</span> der Datei wird in Klammern angezeigt; der MIME-Typ ist eine standardisierte Beschreibung des Dateityps, die von Rechnern verwendet wird. </p>
+<p class="p">Der <span class="em">MIME-Typ</span> der Datei wird in Klammern angezeigt; der MIME-Typ ist eine standardisierte Beschreibung des Dateityps, die von Rechnern verwendet wird.</p>
 </dd>
 <dt class="terms">Inhalt</dt>
 <dd class="terms"><p class="p">Dieses Feld wird angezeigt, wenn Sie die Eigenschaften nicht einer Datei, sondern eines Ordners betrachten. Es zeigt Ihnen die Anzahl der Objekte im Ordner. Wenn er Unterordner enthält, wird jeder Unterordner als ein Objekt gezählt, selbst wenn der Unterordner weitere Objekte beinhaltet. Ebenso wird Jede Datei als ein Objekt gezählt. Wenn der Ordner leer ist, wird als Inhalt <span class="gui">nichts</span> angegeben.</p></dd>

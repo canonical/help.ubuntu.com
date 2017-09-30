@@ -55,7 +55,7 @@
 <div class="contents">
 <p class="p">Det bästa sättet att få tag på färgprofiler är att skapa dem själv, fast det kräver lite jobb.</p>
 <p class="p">Många tillverkare försöker tillhandahålla färgprofiler för enheter, även om de ibland ingår i <span class="em">drivrutinspaket</span> som du kan vara tvungen att hämta, extrahera och sedan leta efter färgprofiler i.</p>
-<p class="p">Vissa tillverkare tillhandahåller inga tillförlitliga profiler för hårdvaran och de profilerna är det bäst att undvika. En bra ledtråd är att hämta profilen och om datumet då den skapades är äldre en ett år före datumet då du köpte enheten så är det troligtvis genererad exempeldata som är värdelös.</p>
+<p class="p">Vissa tillverkare tillhandahåller inga tillförlitliga profiler för hårdvaran och de profilerna är det bäst att undvika. En bra ledtråd är att hämta profilen och om datumet då den skapades är äldre än ett år före datumet då du köpte enheten så är det troligtvis genererad exempeldata som är värdelös.</p>
 <p class="p">Se <span class="link"><a href="color-why-calibrate.html" title="Varför måste jag själv kalibrera?">Varför måste jag själv kalibrera?</a></span> för mer information om varför tillverkares profiler ofta är värre än att vara utan.</p>
 </div>
 <div class="sect sect-links" role="navigation">

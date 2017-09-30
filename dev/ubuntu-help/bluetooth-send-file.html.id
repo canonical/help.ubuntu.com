@@ -53,29 +53,25 @@
 <div class="hgroup"><h1 class="title"><span class="title">Kirim berkas ke perangkat Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Anda dapat mengirim berkas ke perangkat Bluetooth terhubung, seperti beberapa ponsel atau komputer lainnya. Beberapa jenis perangkat tidak memungkinkan transfer berkas, atau tipe berkas tertentu. Anda dapat mengirim berkas dalam satu dari tiga cara: menggunakan ikon Bluetooth pada bilah menu, dari jendela pengaturan Bluetooth, atau langsung dari manajer berkas.</p>
+<p class="p">You can send files to connected Bluetooth devices, such as some mobile
+    phones or other computers. Some types of devices don’t allow the transfer
+    of files, or specific types of files. You can send files in one of three
+    ways: using the Bluetooth icon in the menu bar, from the Bluetooth settings
+    window, or directly from the file manager.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span> overview and
-      start typing <span class="gui">Bluetooth</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Bluetooth</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Make sure Bluetooth is enabled: the switch in the titlebar should be
-      set to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Klik pada <span class="gui">Bluetooth</span> untuk membuka panel.</p></li>
+<li class="steps"><p class="p">Pastikan Bluetooth difungsikan: saklar pada bilah judul mesti ditata ke <span class="gui">NYALA</span>.</p></li>
 <li class="steps">
-<p class="p">In the <span class="gui">Devices</span> list, select the device to which to send the
-      files. If the desired device is not shown as <span class="gui">Connected</span> in the
-      list, you need to <span class="link"><a href="bluetooth-connect-device.html" title="Hubungkan komputer Anda ke perangkat Bluetooth">connect</a></span>
-      to it.</p>
+<p class="p">Dalam daftar <span class="gui">Devices</span>, pilih perangkat yang akan dikirimi berkas. Bila perangkat yang diinginkan tak ditampilkan sebagai <span class="gui">Tersambung</span> dalam daftar, Anda perlu <span class="link"><a href="bluetooth-connect-device.html" title="Hubungkan komputer Anda ke perangkat Bluetooth">menyambung</a></span> kesana.</p>
 <p class="p">Suatu panel yang spesifik bagi perangkat eksternal muncul.</p>
 </li>
-<li class="steps"><p class="p">Click <span class="gui">Send Files…</span> and the file chooser will appear.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Kirim Berkas…</span> dan pemilih berkas akan muncul.</p></li>
 <li class="steps">
 <p class="p">Pilih berkas yang ingin Anda kirim dan klik <span class="gui">Pilih</span>.</p>
 <p class="p">Untuk mengirim lebih dari satu berkas dalam suatu folder, tekan terus <span class="key"><kbd>Ctrl</kbd></span> ketika Anda memilih setiap berkas.</p>
 </li>
-<li class="steps"><p class="p">The owner of the receiving device usually has to press a button to
-      accept the file. The <span class="gui">Bluetooth File Transfer</span> dialog will show
-      the progress bar. Click <span class="gui">Close</span> when the transfer is
-      complete.</p></li>
+<li class="steps"><p class="p">Pemilik dari perangkat yang menerima biasanya mesti menekan tombol untuk menerima berkas. Dialog <span class="gui">Transfer Berkas Bluetooth</span> akan menampilkan bilah kemajuan. Klik <span class="gui">Tutup</span> ketika transfer selesai.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">

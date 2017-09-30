@@ -49,7 +49,10 @@
 <div class="hgroup"><h1 class="title"><span class="title">Настройка контрастности</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Можно настроить контрастность окон и кнопок, чтобы их было лучше видно. Это не то же самое, что изменение яркости всего экрана; изменятся только отдельные элементы <span class="em">пользовательского интерфейса</span>.</p>
+<p class="p">You can adjust the contrast of windows and buttons so that they’re easier
+  to see. This is not the same as 
+  changing the brightness of the whole screen; only parts of the
+  <span class="em">user interface</span> will change.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p></li>

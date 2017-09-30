@@ -56,7 +56,10 @@
 <div class="hgroup"><h2 class="title"><span class="title">Instal·leu programari amb el Synaptic</span></h2></div>
 <div class="region"><div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Obriu el Synaptic des del <span class="gui">Traç</span> o el <span class="gui">Llançador</span>. Haureu d'entrar la vostra contrasenya a la finestra <span class="gui">Autentifica</span>.</p></li>
+<li class="steps"><p class="p">
+          Open <span class="app">Synaptic</span> via the <span class="em">Activities</span> search bar. You 
+          will need to enter your password in the <span class="gui">Authenticate</span> window.
+        </p></li>
 <li class="steps"><p class="p">Cliqueu <span class="gui">Cerca</span> per buscar una aplicació, o cliqueu <span class="gui">Seccions</span> i reviseu les categories per trobar-ne una.</p></li>
 <li class="steps"><p class="p">
           Right-click the application that you want to install and select 

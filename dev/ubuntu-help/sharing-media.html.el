@@ -64,9 +64,12 @@
 </li>
 <li class="steps"><p class="p">Επιλέξτε <span class="gui">Κοινή χρήση πολυμέσων</span>.</p></li>
 <li class="steps"><p class="p">Αλλάξτε το <span class="gui">Κοινή χρήση πολυμέσων</span> σε <span class="gui">ΝΑΙ</span>.</p></li>
-<li class="steps"><p class="p">Από προεπιλογή, οι φάκελοι <span class="file">Μουσική</span>, <span class="file">Εικόνες</span> και <span class="file">Βίντεο</span> είναι κοινόχρηστα. Για να αφαιρέσετε ένα από αυτά, κάντε κλικ στο <span class="gui">Χ</span> δίπλα στο όνομα του φακέλου.</p></li>
+<li class="steps"><p class="p">By default, <span class="file">Music</span>, <span class="file">Pictures</span> and 
+      <span class="file">Videos</span> are shared. To remove one of these, click the
+      <span class="gui">×</span> next to the folder name.</p></li>
 <li class="steps"><p class="p">Για να προσθέσετε ένα φάκελο, κάντε κλικ στο <span class="gui">+</span> για να ανοίξετε το παράθυρο <span class="gui">Επιλογή φακέλου</span>. Περιηγηθείτε <span class="em">στον</span> επιθυμητό φάκελο και πατήστε <span class="gui">Άνοιγμα</span>.</p></li>
-<li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Χ</span>. Θα μπορείτε τώρα να περιηγηθείτε ή να αναπαράγετε πολυμέσα στους φακέλους που επιλέξατε χρησιμοποιώντας την εξωτερική συσκευή.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">×</span>. You will now be able to browse
+      or play media in the folders you selected using the external device.</p></li>
 </ol></div></div></div>
 </div>
 <div id="networks" class="sect"><div class="inner">

@@ -53,9 +53,21 @@
 <div class="hgroup"><h2 class="title"><span class="title">Εκτύπωση σε φακέλους</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Υπάρχουν δύο πράγματα που πρέπει να προσέξετε όταν εκτυπώνετε σε φάκελο</p>
-<p class="p">Το πρώτο πράγμα είναι πως ο εκτυπωτής σας γνωρίζει τι μέγεθος είναι ο φάκελος. Πατήστε <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> για να ανοίξετε τον διάλογο «Εκτύπωση», πηγαίνετε στην καρτέλα <span class="gui">Διαμόρφωση σελίδας</span> και επιλέξτε <span class="gui">Τύπο χαρτιού</span> «Φάκελος» αν υπάρχει επιλογή. Αν δεν γίνεται, δείτε αν μπορείτε να αλλάξετε το <span class="gui">Μέγεθος χαρτιού</span> σε ένα μέγεθος φακέλου (για παράδειγμα, <span class="gui">C5</span>). Το πακέτο με τους φακέλους θα γράφει τι μέγεθος είναι, καθώς οι περισσότεροι φάκελοι έχουν προκαθορισμένο μέγεθος.</p>
-<p class="p">Δεύτερον, χρειάζεται να βεβαιωθείτε ότι οι φάκελοι είναι τοποθετημένοι με τη σωστή όψη στον δίσκο του εκτυπωτή. Ελέγξτε το εγχειρίδιο του εκτυπωτή για αυτό, ή δοκιμάστε να τυπώσετε έναν μόνο φάκελο και ελέγξτε ποια όψη εκτυπώνεται για να δείτε ποιος είναι ο σωστός τρόπος.</p>
-<div class="note note-warning" title="Προειδοποίηση"><div class="inner"><div class="region"><div class="contents"><p class="p">Μερικοί εκτυπωτές δεν είναι σχεδιασμένοι να μπορούν να εκτυπώσουν φακέλους, ειδικά κάποιοι εκτυπωτές λέιζερ. Ελέγξτε το εγχειρίδιο του εκτυπωτή σας για να δείτε εάν δέχεται φακέλους. Αλλιώς, μπορεί να βλάψετε τον εκτυπωτή προωθώντας έναν φάκελο σε αυτόν.</p></div></div></div></div>
+<p class="p">The first is that your printer knows what size the envelope is. Press
+  <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> to open the Print dialog, go to
+  the <span class="gui">Page Setup</span> tab and choose the <span class="gui">Paper type</span> as “Envelope”
+  if you can. If you cannot do this, see if you can change the <span class="gui">Paper
+  size</span> to an envelope size (for example, <span class="gui">C5</span>). The pack of
+  envelopes will say what size they are; most envelopes come in standard
+  sizes.</p>
+<p class="p">Secondly, you need to make sure that the envelopes are loaded with the
+  right side up in the printer’s in-tray. Check the printer’s manual for this,
+  or try to print a single envelope and check which side is printed on to see
+  which way is the right way up.</p>
+<div class="note note-warning" title="Προειδοποίηση"><div class="inner"><div class="region"><div class="contents"><p class="p">Some printers are not designed to be able to print envelopes, especially
+    some laser printers. Check your printer’s manual to see if it accepts
+    envelopes. Otherwise, you could damage the printer by feeding an envelope
+    in.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">

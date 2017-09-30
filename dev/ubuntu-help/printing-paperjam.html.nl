@@ -43,15 +43,18 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Common problems">Problems</a> » <a class="trail" href="printing.html#problems" title="Printerproblemen">Printerproblemen</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="printing.html#problems" title="Printerproblemen">Printerproblemen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Papier dat vastzit vrijmaken</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Soms voeren printers vellen papier verkeerd in waardoor ze vast komen te zitten.</p>
-<p class="p">Meestal geeft de handleiding voor uw printer gedetailleerde instructies over hoe u vastzittend papier kunt vrijmaken. Meestal moet u één van de kleppen van de printer openen om te zien waar het papier vastzit, waarna u het vastzittende papier met een stevige (maar voorzichtige!) ruk eruit trekt.</p>
-<p class="p">Once the jam has been cleared you may need to press the printer's
+<p class="p">The manual for your printer will usually provide detailed instructions on
+  how to clear paper jams. Usually, you will need to open one of the printer’s
+  panels to find the jam inside and then firmly (but carefully!) pull the
+  jammed paper out of the printer’s feeding mechanism.</p>
+<p class="p">Once the jam has been cleared you may need to press the printer’s
   <span class="em">resume</span> button to start printing again. With some printers, you may
   even need to turn the printer off and then on again, and then start the print
   job again.</p>
@@ -61,7 +64,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing.html#problems" title="Printerproblemen">Printerproblemen</a><span class="desc"> — Undetected printers, paper jams, print-outs that look wrong…</span>
+<a href="printing.html#problems" title="Printerproblemen">Printerproblemen</a><span class="desc"> — Printers die niet zijn gedetecteerd, vastlopend papier, afdrukken die er niet goed uitzien…</span>
 </li></ul></div>
 </div></div></div>
 </div>

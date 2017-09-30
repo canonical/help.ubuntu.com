@@ -54,8 +54,8 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-status.html" title="Check the battery status"><span class="title">Check the battery status</span><span class="linkdiv-dash"> — </span><span class="desc">Display the status of the battery and connected devices.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html" title="Hyödynnä akkusi täysimittaisesti"><span class="title">Hyödynnä akkusi täysimittaisesti</span><span class="linkdiv-dash"> — </span><span class="desc">Tips such as "Do not let the battery charge get too low".</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-status.html" title="Tarkista akun tila"><span class="title">Tarkista akun tila</span><span class="linkdiv-dash"> — </span><span class="desc">Display the status of the battery and connected devices.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html" title="Hyödynnä akkusi täysimittaisesti"><span class="title">Hyödynnä akkusi täysimittaisesti</span><span class="linkdiv-dash"> — </span><span class="desc">Tips such as “Do not let the battery charge get too low”.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-hibernate.html" title="Kuinka asetan tietokoneen lepotilaan?"><span class="title">Kuinka asetan tietokoneen lepotilaan?</span><span class="linkdiv-dash"> — </span><span class="desc">Lepotila on oletuksena pois käytöstä, koska sen tuki on puutteellinen.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-batterylife.html" title="Käytä vähemmän virtaa ja säästä siten akkua"><span class="title">Käytä vähemmän virtaa ja säästä siten akkua</span><span class="linkdiv-dash"> — </span><span class="desc">Vinkkejä tietokoneen virrankäytön vähentämiseksi.</span></a></div>
 </div>
@@ -67,20 +67,20 @@
 </div>
 </div></div></div></div>
 <div id="saving" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Power saving settings</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Virranhallinnan asetukset</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-autobrightness.html" title="Enable automatic brightness"><span class="title">Enable automatic brightness</span><span class="linkdiv-dash"> — </span><span class="desc">Automatically control screen brightness to reduce battery use.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-whydim.html" title="Miksi näyttö himmenee itsestään?"><span class="title">Miksi näyttö himmenee itsestään?</span><span class="linkdiv-dash"> — </span><span class="desc">The screen will dim when the computer is idle in order to save power.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-autobrightness.html" title="Ota käyttöön automaattinen kirkkaus"><span class="title">Ota käyttöön automaattinen kirkkaus</span><span class="linkdiv-dash"> — </span><span class="desc">Automatically control screen brightness to reduce battery use.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Muuta näytön pimenemisviivettä säästääksesi virtaa.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-autosuspend.html" title="Set up automatic suspend"><span class="title">Set up automatic suspend</span><span class="linkdiv-dash"> — </span><span class="desc">Configure your computer to suspend automatically.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="faq" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Questions</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Kysymykset</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="power-batteryestimate.html" title="Akun arvioitu kesto on väärin ilmoitettu"><span class="title">Akun arvioitu kesto on väärin ilmoitettu</span><span class="linkdiv-dash"> — </span><span class="desc">Akun arvioitu kesto  <span class="gui">akkuvalikossa</span> on pelkkä arvio.</span></a></div>
@@ -88,7 +88,7 @@
 </div>
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="power-batteryslow.html" title="Miksi kannettava tietokoneeni on hidas akkukäytössä?"><span class="title">Miksi kannettava tietokoneeni on hidas akkukäytössä?</span><span class="linkdiv-dash"> — </span><span class="desc">Jotkin kannettavat hidastuvat tarkoituksellisesti, kun ne toimivat akun varassa.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-lowpower.html" title="Why did my computer turn off when the battery got to 10%?"><span class="title">Why did my computer turn off when the battery got to 10%?</span><span class="linkdiv-dash"> — </span><span class="desc">Jos sallit akun tyhjentyä täysin, akku kärsii siitä.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-lowpower.html" title="Miksi tietokone sammui, kun akun varaustaso oli 10 prosenttia?"><span class="title">Miksi tietokone sammui, kun akun varaustaso oli 10 prosenttia?</span><span class="linkdiv-dash"> — </span><span class="desc">Jos sallit akun tyhjentyä täysin, akku kärsii siitä.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>

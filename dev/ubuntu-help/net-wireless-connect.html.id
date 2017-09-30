@@ -58,7 +58,7 @@
 <li class="steps"><p class="p">Select
     <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span>
       Wi-Fi Not Connected</span>. The Wi-Fi section of the menu will expand.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Select Network</span>.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Pilih Jaringan</span>.</p></li>
 <li class="steps">
 <p class="p">Click the name of the network you want, then click
     <span class="gui">Connect</span>.</p>
@@ -87,7 +87,7 @@
   again or it might just tell you that the connection has been disconnected.
   There are a number of things that could have caused this to happen. You could
   have entered the wrong password, the wireless signal could be too weak, or
-  your computer's wireless card might have a problem, for example. See
+  your computer’s wireless card might have a problem, for example. See
   <span class="link"><a href="net-wireless-troubleshooting.html" title="Pelacak masalah jaringan nirkabel">Pelacak masalah jaringan nirkabel</a></span> for more help.</p>
 <p class="p">A stronger connection to a wireless network does not necessarily mean that
   you have a faster internet connection, or that you will have faster download
@@ -102,11 +102,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Jaringan Nirkabel">Jaringan Nirkabel</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html" title="Menyambung ke jaringan nirkabel">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="Menyambung ke suatu jaringan nirkabel tersembunyi">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="Mengapa jaringan nirkabel saya terputus terus?">Disconnecting</a></span>…
-    </span>
+<a href="net-wireless.html" title="Jaringan Nirkabel">Jaringan Nirkabel</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Menyambung ke jaringan nirkabel">Menyambung ke wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Menyambung ke suatu jaringan nirkabel tersembunyi">Jaringan tersembunyi</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Mengapa jaringan nirkabel saya terputus terus?">Memutus</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

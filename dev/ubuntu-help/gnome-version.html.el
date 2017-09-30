@@ -54,7 +54,8 @@
 <li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Λεπτομέρειες</span>.</p></li>
 <li class="steps">
 <p class="p">Κάντε κλικ στο <span class="gui">Λεπτομέρειες</span> για να ανοίξετε τον πίνακα.</p>
-<p class="p">Εμφανίζεται ένα παράθυρο που προβάλλει πληροφορίες για το σύστημά σας, συμπεριλαμβανομένων του ονόματος της διανομής και της έκδοσης του GNOME.</p>
+<p class="p">A window appears showing information about your system, including your
+      distribution’s name and the GNOME version.</p>
 </li>
 </ol></div></div></div>
 </div>

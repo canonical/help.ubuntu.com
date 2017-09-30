@@ -51,8 +51,11 @@
 <div class="contents">
 <p class="p">Lorsque vous installez Ubuntu, la langue choisie lors de l'installation est installée avec l'Anglais, mais vous pouvez ajouter d'autres langues.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the <span class="em">system menu</span> and select <span class="gui">System Settings</span>.</p></li>
-<li class="steps"><p class="p">Dans la section « Personnel », cliquez sur <span class="gui">Prise en charge des langues</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
+      start typing <span class="gui">Region &amp; Language</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Manage Installed Languages</span> button to open <span class="gui">Language
+      Support</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Installer / Supprimer des langues...</span>. La fenêtre <span class="gui">Langues installées</span> liste toutes les langues disponibles, avec les langues actuellement installées cochées.</p></li>
 <li class="steps"><p class="p">Cochez les langues que vous souhaitez installer et décochez celles que vous souhaitez supprimer.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Appliquer les changements</span>.</p></li>
@@ -77,7 +80,7 @@
 <a href="addremove-install.html" title="Installer des applications supplémentaires">Installer des applications supplémentaires</a><span class="desc"> — Utiliser <span class="app">Logiciels Ubuntu</span> pour installer des applications supplémentaires et rendre Ubuntu plus utile.</span>
 </li>
 <li class="links ">
-<a href="prefs-language.html" title="Pays &amp; langue.">Pays &amp; langue.</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Modification de la langue">Langue</a></span>, <span class="link"><a href="session-formats.html" title="Modification des formats de la date et du système de mesure">région et formats</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">agencement du clavier</a></span>…</span>
+<a href="prefs-language.html" title="Pays &amp; langue.">Pays &amp; langue.</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Modification de la langue">Langue</a></span>, <span class="link"><a href="session-formats.html" title="Modification des formats de la date et du système de mesure">région et formats</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Utiliser des configurations de clavier alternatives">agencement du clavier</a></span>…</span>
 </li>
 </ul></div>
 </div></div>

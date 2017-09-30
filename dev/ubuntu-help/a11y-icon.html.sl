@@ -67,7 +67,14 @@
 <li class="steps"><p class="p">Switch <span class="gui">Always Show Universal Access Menu</span> to
       <span class="gui">ON</span>.</p></li>
 </ol></div></div></div>
-<p class="p">Za dostop do tega menija s tipkovnico namesto z miško <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> za premik žarišča tipkovnice v vrhnjo vrstico. Pod gumbom <span class="gui">Dejavnosti</span> se bo pojavila bela črta. Ta vam pove kateri predmet v vrhnji vrstici je izbran. Uporabite smerne tipke na tipkovnici za premik bele črte pod ikono menija splošnega dostopa in nato pritisnite <span class="key"><kbd>Enter</kbd></span>. Za izbiro predmetov v meniju lahko uporabite tipki navzgor in navzdol. Pritisnite <span class="key"><kbd>Enter</kbd></span> za preklop izbranega predmeta.</p>
+<p class="p">To access this menu using the keyboard rather than the mouse, press
+  <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> to move the
+  keyboard focus to the top bar. A white line will appear underneath the
+  <span class="gui">Activities</span> button — this tells you which item on the top bar is
+  selected. Use the arrow keys on the keyboard to move the white line under the
+  universal access menu icon and then press <span class="key"><kbd>Enter</kbd></span> to open it. You
+  can use the up and down arrow keys to select items in the menu. Press
+  <span class="key"><kbd>Enter</kbd></span> to toggle the selected item.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

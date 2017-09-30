@@ -69,7 +69,8 @@
 <li class="list"><p class="p">Any version or revision numbers that may be printed on your wireless
       network devices or their packaging. These can be especially helpful, so
       look carefully.</p></li>
-<li class="list"><p class="p">sur le CD des pilotes, tout ce qui peut identifier soit le périphérique lui-même, soit sa version de « micrologiciel » ou les composants (circuits) qu'il utilise.</p></li>
+<li class="list"><p class="p">Anything on the driver disc that identifies either the device itself,
+      its “firmware” version, or the components (chipset) it uses.</p></li>
 </ul></div></div></div>
 <p class="p">Si possible, essayez d'avoir accès à une connexion internet active d'une autre façon pour pouvoir télécharger des logiciels ou des pilotes si besoin est (brancher votre ordinateur directement au routeur par un câble Ethernet est une façon de faire, mais ne le faites que quand vous en avez besoin).</p>
 <p class="p">Une fois collecté le plus possible de ces éléments, cliquez sur <span class="gui">Suivant</span>.</p>

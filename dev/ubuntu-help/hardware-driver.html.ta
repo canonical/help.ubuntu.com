@@ -49,7 +49,9 @@
 <div class="hgroup"><h1 class="title"><span class="title">இயக்கி என்பது என்ன?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">சாதனங்கள் என்பவை உங்கள் கணினியின் உண்மையான பாகங்கள். அவை அச்சுப்பொறி போன்ற <span class="em">வெளி</span> சாதனங்களாகவும் இருக்கலாம் அல்லது ஆடியோ மற்றும் கிராபிக்ஸ் கார்டுகள் போன்ற <span class="em">உள்</span> சாதனங்களாகவும் இருக்கலாம்.</p>
+<p class="p">Devices are the physical “parts” of your computer. They may be
+<span class="em">external</span> like printers and monitor or <span class="em">internal</span> like graphics
+and audio cards.</p>
 <p class="p">உங்கள் கணினியால் இந்த சாதனங்களைப் பயன்படுத்த முடிய வேண்டுமானால், அவற்றுடன் எப்படி தகவல் பரிமாற வேண்டும் என்பது கணினிக்குத் தெரிந்து இருக்க வேண்டும். <span class="em">சாதன இயக்கி</span> என்ற சிறு மென்பொருள் மூலம் இந்த வேலை சாத்தியமாகிறது.</p>
 <p class="p">When you attach a device to your computer, you must have the correct driver
 installed for that device to work. For example, if you plug in a printer but

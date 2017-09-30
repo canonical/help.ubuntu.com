@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Connect another monitor to your computer</title>
+<title>Een andere monitor op uw computer aansluiten</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,35 +43,28 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="prefs-display.html" title="Display &amp; screen">Display &amp; screen</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="prefs-display.html" title="Weergave &amp; scherm">Weergave &amp; scherm</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Connect another monitor to your computer</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Een andere monitor op uw computer aansluiten</span></h1></div>
 <div class="region">
 <div class="contents"></div>
 <div id="steps" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Set up an additional monitor</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Een externe monitor instellen</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">To set up an additional monitor, connect the monitor to your computer. If
-  your system does not recognize it immediately, or you would like to adjust
-  the settings:</p>
+<p class="p">Sluit de monitor aan om een tweede monitor op uw computer te installeren. Als uw systeem het niet direct herkent, of als u de instellingen wil aanpassen:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Displays</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Displays</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Schermen</span>.</p></li>
+<li class="steps"><p class="p">Klik op het <span class="gui">Schermen</span> om het paneel te openen.</p></li>
 <li class="steps">
 <p class="p">Click on the monitor that you would like to activate or deactivate,
       then in the list of monitor configuration select <span class="gui">Turn Off</span> to
       deactivate the monitor, or one of <span class="gui">Primary</span>,
       <span class="gui">Secondary</span>, or <span class="gui">Mirror</span> to activate it.</p>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">The primary monitor is the one with the
-        <span class="link"><a href="shell-introduction.html" title="Introduction to GNOME">top bar</a></span>, and where the
-        <span class="gui">Activities</span> overview is shown.</p></div></div></div></div>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Het primaire scherm is het scherm met de <span class="link"><a href="shell-introduction.html" title="Inleiding tot Gnome">menubalk</a></span>, en waar het <span class="gui">Activiteiten</span>-overzicht getoond wordt.</p></div></div></div></div>
 </li>
-<li class="steps"><p class="p">To rotate the orientation of the monitor, use the buttons with the
-      arrows until the preview is correct.</p></li>
-<li class="steps"><p class="p">When you are happy with your settings, click <span class="gui">Apply</span> and then
-      click <span class="gui">Keep Changes</span>.</p></li>
+<li class="steps"><p class="p">Om de oriëntatie van het scherm te draaien gebruikt u de pijltjesknoppen totdat het voorbeeld juist is.</p></li>
+<li class="steps"><p class="p">Klik wanneer u tevreden bent met de instellingen op <span class="gui">Toepassen</span> en klik daarna op <span class="gui">Deze instellingen behouden</span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -80,7 +73,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html" title="Display &amp; screen">Display &amp; screen</a><span class="desc"> — 
+<a href="prefs-display.html" title="Weergave &amp; scherm">Weergave &amp; scherm</a><span class="desc"> — 
       <span class="link"><a href="look-background.html" title="Change the desktop and lock screen backgrounds">Background</a></span>,
       <span class="link"><a href="look-resolution.html" title="Change the resolution or rotation of the screen">size and rotation</a></span>,
       brightness…

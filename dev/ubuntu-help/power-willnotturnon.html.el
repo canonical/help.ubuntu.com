@@ -63,7 +63,13 @@
 </div></div>
 <div id="beeps" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Ο υπολογιστής ηχεί και έπειτα σβήνει</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Εάν ο υπολογιστής σας ηχεί αρκετές φορές όταν τον ανάβετε και έπειτα σβήνει (ή αποτυγχάνει να ξεκινήσει), ενδέχεται να είναι ένδειξη ότι έχει ανιχνεύσει πρόβλημα. Αυτοί οι ήχοι μερικές φορές αναφέρονται ως <span class="em">κωδικοί ήχου</span> και το μοτίβο των ήχων προορίζεται για να σας πει ότι το πρόβλημα είναι με τον υπολογιστή. Διαφορετικοί κατασκευαστές χρησιμοποιούν διαφορετικούς κώδικες ήχου, έτσι θα πρέπει να συμβουλευτείτε το εγχειρίδιο για τη μητρική του υπολογιστή σας, ή να επισκευάσετε τον υπολογιστή σας.</p></div></div>
+<div class="region"><div class="contents"><p class="p">If the computer beeps several times when you turn it on and then turns off
+  (or fails to start), it may be indicating that it has detected a problem.
+  These beeps are sometimes referred to as <span class="em">beep codes</span>, and the pattern
+  of beeps is intended to tell you what the problem with the computer is.
+  Different manufacturers use different beep codes, so you will have to consult
+  the manual for your computer’s motherboard, or take your computer in for
+  repairs.</p></div></div>
 </div></div>
 <div id="fans" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Οι ανεμιστήρες του υπολογιστή περιστρέφονται, αλλά τίποτα δεν υπάρχει στην οθόνη</span></h2></div>

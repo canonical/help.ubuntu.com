@@ -50,7 +50,10 @@
 <div class="region">
 <div class="contents">
 <p class="p">మౌస్‌తో లాగి వుదులుట ద్వారా, నకులు మరియు అతికించు ఆదేశాల ద్వారా, లేదా కీబోర్డ్ లఘువులు ఉపయోగించి ఒక ఫైలు లేదా సంచయంను కొత్త స్థానముకు నకులుతీయవచ్చు లేదా కదల్చవచ్చు.</p>
-<p class="p">ఉదాహరణకు, మీరు ఒక సమర్పణను మెమొరీ స్టిక్‌కు నకలుతీయాలని అనుకోవచ్చు. లేదా, మీరు ఒక పత్రముకు మార్పులు చేయుటకు ముందుగా దానిని బ్యాకప్ తీయాలని అనుకోవచ్చు (అలా మీ మార్పులు మీకు నచ్చకపోతే పాత నకలు తిరిగి వుపయోగించవచ్చు).</p>
+<p class="p">For example, you might want to copy a presentation onto a memory stick so
+ you can take it to work with you. Or, you could make a back-up copy of a
+ document before you make changes to it (and then use the old copy if you don’t
+ like your changes).</p>
 <p class="p">ఈ సూచనలు ఫైళ్ళకు మరియు సంచయాలకు రెంటికీ వర్తింపచేయును. మీరు ఫైళ్ళను మరియు సంచయాలను ఒకే మార్గంలో నకలుతీయండి మరియు కదల్చండి.</p>
 <div class="steps ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
@@ -91,7 +94,8 @@
 <li class="steps"><p class="p">పై పట్టీ నందలి <span class="gui">ఫైళ్ళు</span> నొక్కుము, రెండవ విండో తెరుచుటకు <span class="gui">కొత్త విండో</span> ఎంపికచేయి (లేదా <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>N</kbd></span></span> వత్తుము). కొత్త విండో నందు, మీరు ఎచటకు ఫైలును కదల్చాలని లేదా నకలుతీయాలని అనుకుంటున్నారో ఆ సంచయంకు వెళ్ళండి.</p></li>
 <li class="steps">
 <p class="p">ఒక విండో నుండి వేరొక దానికి ఫైలును లాగుము. గమ్యము అనేది <span class="em">అదే</span> పరికరంపై వుంటే ఇది <span class="em">దానిని కదుల్చును</span>, లేదా గమ్యం <span class="em">వేరే</span> పరికరంపై వుంటే <span class="em">దానిని నకలుతీయి</span>.</p>
-<p class="p">ఉదాహరణకు, మీరు మీ USB మెమొరీ స్టిక్ నుండి ఒక ఫైలును నివాస సంచయంకు లాగితే, అది నకలుతీయబడును, ఎంచేతంటే మీరు ఒక పరికరం నుండి వేరొక పరికరంకు లాగినారు కనుక.</p>
+<p class="p">For example, if you drag a file from a USB memory stick to your Home folder,
+ it will be copied, because you’re dragging from one device to another.</p>
 <p class="p">లాగునప్పుడు <span class="key"><kbd>Ctrl</kbd></span> కీ నొక్కి పట్టుట ద్వారా మీరు ఫైలును నకలుతీయుటకు బలవంతం చేయవచ్చు, లేదా లాగునప్పుడు <span class="key"><kbd>Shift</kbd></span> కీను నొక్కిపట్టి కదుల్చుటకు బలవంతం చేయవచ్చు.</p>
 </li>
 </ol></div>

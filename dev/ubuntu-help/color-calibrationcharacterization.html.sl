@@ -2,7 +2,7 @@
 <html lang=sl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Kakšna je razlika med umerjanjem in karakterizacijo?</title>
+<title>What’s the difference between calibration and characterization?</title>
 <link rel="stylesheet" type="text/css" href="sl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -50,7 +50,7 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Kakšna je razlika med umerjanjem in karakterizacijo?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">What’s the difference between calibration and characterization?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Veliko ljudi je na začetku zmedenih o razliki med umerjanjem in karakterizacijo. Umerjanje je opravilo spreminjanja obnašanja barve naprave. To je običajno narejeno z dvema mehanizmoma:</p>
@@ -60,7 +60,11 @@
 </ul></div></div></div>
 <p class="p">Cilj umerjanja je nastaviti napravo v določeno stanje glede na njen barvni odziv. Pogosto se to uporablja kot način za zagotavljanje ponovljivega obnašanja. Običajno je umerjanje shranjeno na napravi ali za sistem določenih vrstah datotek, ki posname nastavitve naprave ali umeritvene krivulje za kanal.</p>
 <p class="p">Karakterizacija (ali profiliranje) je <span class="em">snemanje</span> načina na katerega naprava proizvede ali se odzove na barvo. Običajno je rezultat shranjen v profilu ICC naprave. Takšen profil ne spremeni barve na noben način. Sistemu kot je CMM (modul za upravljanje barv) ali programu, ki se zaveda barv, omogoča spreminjanje barv, ko je združen z drugim profilom naprave.</p>
-<div class="note" title="Opomba"><div class="inner"><div class="region"><div class="contents"><p class="p">Karakterizacija (profil) za napravo bo veljavna le dokler je v istem stanju umerjanja kot je bila ob karakterizaciji.</p></div></div></div></div>
+<div class="note" title="Opomba"><div class="inner"><div class="region"><div class="contents"><p class="p">
+      Note that a characterization (profile) will only be valid for a device
+      if it’s in the same state of calibration as it was when it was
+      characterized.
+    </p></div></div></div></div>
 <p class="p">V primeru zaslonskih profilov obstaja dodatna zmeda, ker so zaradi priročnosti podatki o umerjanju pogosto shranjeni v profilu. Po dogovoru je shranjen v oznaki <span class="em">vcgt</span>. Čeprav je shranjen v profilu, se ga običajni programi osnovani na ICC ne zavedajo in ne počenjajo nič z njim. Podobno se ga ne bodo zavedala in z njim upravljala običajna orodja in programi za umerjanje.</p>
 </div>
 <div class="sect sect-links" role="navigation">

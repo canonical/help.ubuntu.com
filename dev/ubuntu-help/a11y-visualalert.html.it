@@ -50,7 +50,9 @@
 <div class="region">
 <div class="contents">
 <p class="p">Il computer riprodurrà un semplice avviso sonoro per alcune tipologie di messaggi ed eventi. Nel caso non si potessero udire facilmente questi avvisi, è possibile fare in modo che lo schermo intero o solo la finestra attiva vengano illuminati quando viene riprodotto un avviso sonoro.</p>
-<p class="p">Ciò può risultare utile quando il computer viene utilizzato in un ambiente in cui è richiesto un certo grado di silenzio, come all'interno di una biblioteca. Per maggiori informazioni su come disabilitare gli avvisi sonori, consultare <span class="link"><a href="sound-alert.html" title="Scegliere o disabilitare l'avviso sonoro">Scegliere o disabilitare l'avviso sonoro</a></span>, quindi attivare gli avvisi visibili.</p>
+<p class="p">This can also be useful if you’re in an environment where you need your
+  computer to be silent, such as in a library. See <span class="link"><a href="sound-alert.html" title="Scegliere o disabilitare l'avviso sonoro">Scegliere o disabilitare l'avviso sonoro</a></span>
+  to learn how to mute the alert sound, then enable visual alerts.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p></li>

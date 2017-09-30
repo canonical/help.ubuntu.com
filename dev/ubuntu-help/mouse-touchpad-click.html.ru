@@ -69,11 +69,15 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Чтобы выполнить нажатие, коснитесь сенсорной панели.</p></li>
 <li class="list"><p class="p">Чтобы выполнить двойное нажатие, коснитесь дважды.</p></li>
-<li class="list"><p class="p">Чтобы перетащить объект, выполните двойное касание, но не поднимайте палец после второго касания. Перетащите объект в нужное место, а затем поднимите палец, чтобы «уронить» объект.</p></li>
+<li class="list"><p class="p">To drag an item, double-tap but don’t lift your finger after the
+      second tap. Drag the item where you want it, then lift your finger to
+      drop.</p></li>
 <li class="list"><p class="p">Если сенсорная панель распознаёт многопальцевые касания, для нажатия правой кнопкой коснитесь панели двумя пальцами одновременно. В противном случае, для выполнения нажатия правой кнопкой нужно использовать аппаратные кнопки. Чтобы узнать, как выполнить нажатие правой кнопкой, если у мыши нет второй кнопки, смотрите <span class="link"><a href="a11y-right-click.html" title="Имитация нажатия правой кнопкой мыши">Имитация нажатия правой кнопкой мыши</a></span>.</p></li>
 <li class="list"><p class="p">Если сенсорная панель поддерживает многопальцевые касания, для выполнения <span class="link"><a href="mouse-middleclick.html" title="Нажатие средней кнопки мыши">нажатия средней кнопкой</a></span> коснитесь панели тремя пальцами сразу.</p></li>
 </ul></div></div></div>
-<div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents"><p class="p">При касаниях или перетаскивании старайтесь держать пальцы на достаточном расстоянии друг от друга. Если пальцы слишком близко друг к другу, компьютер может принять их за один палец.</p></div></div></div></div>
+<div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents"><p class="p">When tapping or dragging with multiple fingers, make sure your fingers
+    are spread far enough apart. If your fingers are too close, your computer
+    may think they’re a single finger.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="twofingerscroll" class="sect"><div class="inner">

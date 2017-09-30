@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Set keyboard shortcuts</title>
+<title>Sneltoetsen instellen</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,61 +44,56 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="keyboard.html" title="Keyboard">Keyboard</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="keyboard.html" title="Toetsenbord">Toetsenbord</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="keyboard.html" title="Keyboard">Keyboard</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="keyboard.html" title="Toetsenbord">Toetsenbord</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Set keyboard shortcuts</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Sneltoetsen instellen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">To change the key or keys to be pressed for a keyboard shortcut:</p>
+<p class="p">Wijzigen van de toets of toetsen die ingedrukt moeten worden voor een sneltoets:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Keyboard</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Keyboard</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Select the <span class="gui">Shortcuts</span> tab.</p></li>
-<li class="steps"><p class="p">Select a category in the left pane, and the row for the desired action
-      on the right. The current shortcut definition will change to
-      <span class="gui">New accelerator…</span></p></li>
-<li class="steps"><p class="p">Hold down the desired key combination, or press <span class="key"><kbd>Backspace</kbd></span> to
-      clear.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Toetsenbord</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Toetsenbord</span> om het paneel te openen.</p></li>
+<li class="steps"><p class="p">Selecteer het <span class="gui">Sneltoetsen</span>-tabblad.</p></li>
+<li class="steps"><p class="p">Kies een categorie in het linkerpaneel en de rij voor de gewenste actie rechts. De huidige sneltoetsdefinitie zal veranderen in <span class="gui">Nieuwe sneltoets…</span></p></li>
+<li class="steps"><p class="p">Druk de gewenste toetscombinatie in, of druk op <span class="key"><kbd>Backspace</kbd></span> om het veld leeg te maken.</p></li>
 </ol></div></div></div>
 </div>
 <div id="defined" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Pre-defined shortcuts</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Voorgedefinieerde sneltoetsen</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">There are a number of pre-configured shortcuts that can be changed,
-  grouped into these categories:</p>
+<p class="p">Er is een aantal voorgedefinieerde sneltoetsen dat kan worden gewijzigd, ingedeeld in deze categorieën:</p>
 <div class="table ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
 <div class="inner">
-<div class="title title-table"><h3><span class="title">Launchers</span></h3></div>
+<div class="title title-table"><h3><span class="title">Starters</span></h3></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
-<td><p class="p">Launch help browser</p></td>
-<td><p class="p">Disabled</p></td>
+<td><p class="p">Hulptoepassing starten</p></td>
+<td><p class="p">Uitgeschakeld</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Launch calculator</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-calculator.svg" class="media media-inline" alt="Calculator key symbol"></span></span> or <span class="key"><kbd>Calculator</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Rekenmachine starten</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-calculator.svg" class="media media-inline" alt="Calculator key symbol"></span></span> of <span class="key"><kbd>Calculator</kbd></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Launch email client</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-mail.svg" class="media media-inline" alt="Mail key symbol"></span></span> or <span class="key"><kbd>Mail</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p">E-mailprogramma starten</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-mail.svg" class="media media-inline" alt="Mail key symbol"></span></span> of <span class="key"><kbd>Mail</kbd></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Launch web browser</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-world.svg" class="media media-inline" alt="WWW key symbol"></span></span> or <span class="media"><span class="media media-image"><img src="figures/keyboard-key-home.svg" class="media media-inline" alt="WWW key symbol"></span></span> or <span class="key"><kbd>WWW</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Webbrowser starten</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-world.svg" class="media media-inline" alt="WWW key symbol"></span></span> of <span class="media"><span class="media media-image"><img src="figures/keyboard-key-home.svg" class="media media-inline" alt="WWW key symbol"></span></span> of <span class="key"><kbd>WWW</kbd></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Home folder</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-folder.svg" class="media media-inline" alt="Explorer key symbol"></span></span> or <span class="media"><span class="media media-image"><img src="figures/keyboard-key-computer.svg" class="media media-inline" alt="Explorer key symbol"></span></span> or <span class="key"><kbd>Explorer</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Persoonlijke map</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-folder.svg" class="media media-inline" alt="Explorer key symbol"></span></span> of <span class="media"><span class="media media-image"><img src="figures/keyboard-key-computer.svg" class="media media-inline" alt="Explorer key symbol"></span></span> of <span class="key"><kbd>Explorer</kbd></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Search</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-search.svg" class="media media-inline" alt="Search key symbol"></span></span> or <span class="key"><kbd>Search</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Zoeken</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-search.svg" class="media media-inline" alt="Search key symbol"></span></span> of <span class="key"><kbd>Search</kbd></span></p></td>
 </tr>
 </table></div>
 </div>
@@ -106,103 +101,102 @@
 <div class="table ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
 <div class="inner">
-<div class="title title-table"><h3><span class="title">Navigation</span></h3></div>
+<div class="title title-table"><h3><span class="title">Navigatie</span></h3></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
-<td><p class="p">Move window to workspace 1</p></td>
-<td><p class="p">Disabled</p></td>
+<td><p class="p">Venster verplaatsen naar werkblad 1</p></td>
+<td><p class="p">Uitgeschakeld</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move window to workspace 2</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Venster verplaatsen naar werkblad 2</p></td>
+<td style="border-top-style: solid;"><p class="p">Uitgeschakeld</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move window to workspace 3</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Venster verplaatsen naar werkblad 3</p></td>
+<td style="border-top-style: solid;"><p class="p">Uitgeschakeld</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move window to workspace 4</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Venster verplaatsen naar werkblad 4</p></td>
+<td style="border-top-style: solid;"><p class="p">Uitgeschakeld</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move window one workspace to the left</p></td>
+<td style="border-top-style: solid;"><p class="p">Venster één werkblad naar links verplaatsen</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move window one workspace to the right</p></td>
+<td style="border-top-style: solid;"><p class="p">Venster één werkblad naar rechts verplaatsen</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>→</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move window one workspace up</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Page Up</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Venster één werkblad naar boven verplaatsen</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><a href="keyboard-key-super.html" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Page Up</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move window one workspace down</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span>
-  </p></td>
+<td style="border-top-style: solid;"><p class="p">Venster één werkblad naar onder verplaatsen</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Switch applications</p></td>
+<td style="border-top-style: solid;"><p class="p">Schakelen tussen toepassingen</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Switch windows</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Schakelen tussen vensters</p></td>
+<td style="border-top-style: solid;"><p class="p">Uitgeschakeld</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Switch windows of an application</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Schakelen tussen vensters van een toepassing</p></td>
+<td style="border-top-style: solid;"><p class="p">Uitgeschakeld</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Switch system controls</p></td>
+<td style="border-top-style: solid;"><p class="p">Schakelen tussen systeemknoppen</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Switch windows directly</p></td>
+<td style="border-top-style: solid;"><p class="p">Direct tussen vensters schakelen</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Esc</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Switch windows of an app directly</p></td>
+<td style="border-top-style: solid;"><p class="p">Direct tussen vensters van een toepassing schakelen</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F6</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Switch system controls directly</p></td>
+<td style="border-top-style: solid;"><p class="p">Direct tussen systeemknoppen schakelen</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Esc</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Hide all normal windows</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Alle normale vensters verbergen</p></td>
+<td style="border-top-style: solid;"><p class="p">Uitgeschakeld</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Switch to workspace 1</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Naar werkblad 1 schakelen</p></td>
+<td style="border-top-style: solid;"><p class="p">Uitgeschakeld</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Switch to workspace 2</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Naar werkblad 2 schakelen</p></td>
+<td style="border-top-style: solid;"><p class="p">Uitgeschakeld</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Switch to workspace 3</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Naar werkblad 3 schakelen</p></td>
+<td style="border-top-style: solid;"><p class="p">Uitgeschakeld</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Switch to workspace 4</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Naar werkblad 4 schakelen</p></td>
+<td style="border-top-style: solid;"><p class="p">Uitgeschakeld</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move to workspace left</p></td>
+<td style="border-top-style: solid;"><p class="p">Naar werkblad links schakelen</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move to workspace right</p></td>
+<td style="border-top-style: solid;"><p class="p">Naar werkblad rechts schakelen</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>→</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move to workspace above</p></td>
+<td style="border-top-style: solid;"><p class="p">Naar werkblad boven schakelen</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move to workspace below</p></td>
+<td style="border-top-style: solid;"><p class="p">Naar werkblad onder schakelen</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p></td>
 </tr>
 </table></div>
@@ -211,34 +205,34 @@
 <div class="table ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
 <div class="inner">
-<div class="title title-table"><h3><span class="title">Screenshots</span></h3></div>
+<div class="title title-table"><h3><span class="title">Schermafdrukken</span></h3></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
-<td><p class="p">Save a screenshot to file</p></td>
-<td><p class="p"><span class="key"><kbd>Print</kbd></span></p></td>
+<td><p class="p">Een schermafdruk naar een bestand opslaan</p></td>
+<td><p class="p"><span class="key"><kbd>Afdrukken</kbd></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Save a screenshot of a window to file</p></td>
+<td style="border-top-style: solid;"><p class="p">Een schermafdruk van een venster naar een bestand opslaan</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Save a screenshot of an area to file</p></td>
+<td style="border-top-style: solid;"><p class="p">Een schermafdruk van een gebied naar een bestand opslaan</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Copy a screenshot to clipboard</p></td>
+<td style="border-top-style: solid;"><p class="p">Een schermafdruk naar het klembord kopiëren</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Copy a screenshot of a window to clipboard</p></td>
+<td style="border-top-style: solid;"><p class="p">Een schermafdruk van een venster naar het klembord kopiëren</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Copy a screenshot of an area to clipboard</p></td>
+<td style="border-top-style: solid;"><p class="p">Een schermafdruk van een gebied naar het klembord kopiëren</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Record a screencast</p></td>
+<td style="border-top-style: solid;"><p class="p">Een scherm opnemen</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>R</kbd></span></span></p></td>
 </tr>
 </table></div>
@@ -247,47 +241,47 @@
 <div class="table ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
 <div class="inner">
-<div class="title title-table"><h3><span class="title">Sound and Media</span></h3></div>
+<div class="title title-table"><h3><span class="title">Geluid en media</span></h3></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
-<td><p class="p">Volume mute</p></td>
-<td><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-mute.svg" class="media media-inline" alt="Mute key symbol"></span></span> (Audio mute)</p></td>
+<td><p class="p">Geluid dempen</p></td>
+<td><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-mute.svg" class="media media-inline" alt="Mute key symbol"></span></span> (Audio dempen)</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Volume down</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-voldown.svg" class="media media-inline" alt="Volume Down key symbol"></span></span> (Audio lower volume)</p></td>
+<td style="border-top-style: solid;"><p class="p">Volume zachter</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-voldown.svg" class="media media-inline" alt="Volume Down key symbol"></span></span> (Audio lager volume)</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Volume up</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-volup.svg" class="media media-inline" alt="Volume Up key symbol"></span></span> (Audio raise volume)</p></td>
+<td style="border-top-style: solid;"><p class="p">Volume harder</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-volup.svg" class="media media-inline" alt="Volume Up key symbol"></span></span> (Audio hoger volume)</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Launch media player</p></td>
+<td style="border-top-style: solid;"><p class="p">Mediaspeler starten</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-media.svg" class="media media-inline" alt="Media key symbol"></span></span> (Audio media)</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Play (or play/pause)</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-play.svg" class="media media-inline" alt="Play key symbol"></span></span> (Audio play)</p></td>
+<td style="border-top-style: solid;"><p class="p">Afspelen (of afspelen/pauzeren)</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-play.svg" class="media media-inline" alt="Play key symbol"></span></span> (Audio afspelen)</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Pause playback</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-pause.svg" class="media media-inline" alt="Pause key symbol"></span></span> (Audio pause)</p></td>
+<td style="border-top-style: solid;"><p class="p">Afspelen pauzeren</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-pause.svg" class="media media-inline" alt="Pause key symbol"></span></span> (Audio pauzeren)</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Stop playback</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-stop.svg" class="media media-inline" alt="Stop key symbol"></span></span> (Audio stop)</p></td>
+<td style="border-top-style: solid;"><p class="p">Afspelen stoppen</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-stop.svg" class="media media-inline" alt="Stop key symbol"></span></span> (Audio stoppen)</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Previous track</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-previous.svg" class="media media-inline" alt="Previous key symbol"></span></span> (Audio previous)</p></td>
+<td style="border-top-style: solid;"><p class="p">Vorig nummer</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-previous.svg" class="media media-inline" alt="Previous key symbol"></span></span> (Audio vorige)</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Next track</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-next.svg" class="media media-inline" alt="Next key symbol"></span></span> (Audio next)</p></td>
+<td style="border-top-style: solid;"><p class="p">Volgend nummer</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-next.svg" class="media media-inline" alt="Next key symbol"></span></span> (Audio volgende)</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Eject</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-eject.svg" class="media media-inline" alt="Eject key symbol"></span></span> (Eject)</p></td>
+<td style="border-top-style: solid;"><p class="p">Uitwerpen</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-eject.svg" class="media media-inline" alt="Eject key symbol"></span></span> (Uitwerpen)</p></td>
 </tr>
 </table></div>
 </div>
@@ -295,38 +289,38 @@
 <div class="table ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
 <div class="inner">
-<div class="title title-table"><h3><span class="title">System</span></h3></div>
+<div class="title title-table"><h3><span class="title">Systeem</span></h3></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
-<td><p class="p">Show the run command prompt</p></td>
+<td><p class="p">De prompt opdracht uitvoeren weergeven</p></td>
 <td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Show the activities overview</p></td>
+<td style="border-top-style: solid;"><p class="p">Het activiteiten-overzicht weergeven</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Log out</p></td>
+<td style="border-top-style: solid;"><p class="p">Afmelden</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Delete</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Lock screen</p></td>
+<td style="border-top-style: solid;"><p class="p">Scherm vergrendelen</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>L</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Show the message tray</p></td>
+<td style="border-top-style: solid;"><p class="p">Het mededelingengebied tonen</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Focus the active notification</p></td>
+<td style="border-top-style: solid;"><p class="p">Actieve melding focus geven</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>N</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Show all applications</p></td>
+<td style="border-top-style: solid;"><p class="p">Alle toepassingen tonen</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>A</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Open the application menu</p></td>
+<td style="border-top-style: solid;"><p class="p">Toepassingenmenu openen</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
 </tr>
 </table></div>
@@ -335,27 +329,27 @@
 <div class="table ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
 <div class="inner">
-<div class="title title-table"><h3><span class="title">Typing</span></h3></div>
+<div class="title title-table"><h3><span class="title">Typen</span></h3></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
-<td><p class="p">Switch to next input source</p></td>
+<td><p class="p">Overschakelen naar volgende invoerbron</p></td>
 <td><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Space</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Switch to previous input source</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Overschakelen naar vorige invoerbron</p></td>
+<td style="border-top-style: solid;"><p class="p">Uitgeschakeld</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Modifiers-only switch to next source</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">‘Modifiers-only’-schakeling naar volgende bron</p></td>
+<td style="border-top-style: solid;"><p class="p">Uitgeschakeld</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Compose Key</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Samensteltoets</p></td>
+<td style="border-top-style: solid;"><p class="p">Uitgeschakeld</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Alternative Characters Key</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Toets voor alternatieve tekens</p></td>
+<td style="border-top-style: solid;"><p class="p">Uitgeschakeld</p></td>
 </tr>
 </table></div>
 </div>
@@ -363,39 +357,39 @@
 <div class="table ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
 <div class="inner">
-<div class="title title-table"><h3><span class="title">Universal Access</span></h3></div>
+<div class="title title-table"><h3><span class="title">Universele toegang</span></h3></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
-<td><p class="p">Turn zoom on or off</p></td>
+<td><p class="p">Zoomen in- of uitschakelen</p></td>
 <td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>8</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Zoom in</p></td>
+<td style="border-top-style: solid;"><p class="p">Inzoomen</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>=</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Zoom out</p></td>
+<td style="border-top-style: solid;"><p class="p">Uitzoomen</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>-</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Turn screen reader on or off</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Schermlezer in- of uitschakelen</p></td>
+<td style="border-top-style: solid;"><p class="p">Uitgeschakeld</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Turn on-screen keyboard on or off</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Toetsenbord op scherm in- of uitschakelen</p></td>
+<td style="border-top-style: solid;"><p class="p">Uitgeschakeld</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Increase text size</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Tekst vergroten</p></td>
+<td style="border-top-style: solid;"><p class="p">Uitgeschakeld</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Decrease text size</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Tekst verkleinen</p></td>
+<td style="border-top-style: solid;"><p class="p">Uitgeschakeld</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">High contrast on or off</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Hoog contrast aan of uit</p></td>
+<td style="border-top-style: solid;"><p class="p">Uitgeschakeld</p></td>
 </tr>
 </table></div>
 </div>
@@ -403,78 +397,78 @@
 <div class="table ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
 <div class="inner">
-<div class="title title-table"><h3><span class="title">Windows</span></h3></div>
+<div class="title title-table"><h3><span class="title">Vensters</span></h3></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
-<td><p class="p">Activate the window menu</p></td>
-<td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Space</kbd></span></span></p></td>
+<td><p class="p">Het venstermenu activeren</p></td>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Spatiebalk</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Toggle fullscreen mode</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Volledig scherm aan/uit</p></td>
+<td style="border-top-style: solid;"><p class="p">Uitgeschakeld</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Toggle maximization state</p></td>
+<td style="border-top-style: solid;"><p class="p">Maximalisatie aan/uit</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Maximize window</p></td>
+<td style="border-top-style: solid;"><p class="p">Venster maximaliseren</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↑</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Restore window</p></td>
+<td style="border-top-style: solid;"><p class="p">Venster herstellen</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↓</kbd></span></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Toggle shaded state</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Uitgeschakeld</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Close window</p></td>
+<td style="border-top-style: solid;"><p class="p">Venster sluiten</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F4</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Hide window</p></td>
+<td style="border-top-style: solid;"><p class="p">Venster verbergen</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>H</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move window</p></td>
+<td style="border-top-style: solid;"><p class="p">Venster verplaatsen</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F7</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Resize window</p></td>
+<td style="border-top-style: solid;"><p class="p">Venstergrootte wijzigen</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F8</kbd></span></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Toggle window on all workspaces or one</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Uitgeschakeld</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Raise window if covered, otherwise lower it</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Uitgeschakeld</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Raise window above other windows</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Uitgeschakeld</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Lower window below other windows</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Uitgeschakeld</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Maximize window vertically</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Venster verticaal maximaliseren</p></td>
+<td style="border-top-style: solid;"><p class="p">Uitgeschakeld</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Maximize window horizontally</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Venster horizontaal maximaliseren</p></td>
+<td style="border-top-style: solid;"><p class="p">Uitgeschakeld</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">View split on left</p></td>
+<td style="border-top-style: solid;"><p class="p">Links opdelen</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">View split on right</p></td>
+<td style="border-top-style: solid;"><p class="p">Rechts opdelen</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>→</kbd></span></span></p></td>
 </tr>
 </table></div>
@@ -483,7 +477,7 @@
 </div></div>
 </div></div>
 <div id="custom" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Custom shortcuts</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Aangepaste sneltoetsen</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">To create your own application keyboard shortcut in the
   <span class="app">Keyboard</span> settings:</p>
@@ -495,18 +489,13 @@
       For example, if you wanted the shortcut to open <span class="app">Rhythmbox</span>, you
       could name it <span class="input">Music</span> and use the <span class="input">rhythmbox</span>
       command.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Disabled</span> in the row that was just added. When it
-      changes to <span class="gui">New accelerator…</span>, hold down the desired shortcut
-      key combination.</p></li>
+<li class="steps"><p class="p">Klik in de zojuist toegevoegde rij op <span class="gui">Uitgeschakeld</span>. Wanneer dit verandert in <span class="gui">Nieuwe sneltoets...</span> drukt u op de gewenste toetsencombinatie.</p></li>
 </ol></div></div></div>
 <p class="p">The command name that you type should be a valid system command. You can
   check that the command works by opening a Terminal and typing it in there.
   The command that opens an application cannot have the same name as the
   application itself.</p>
-<p class="p">If you want to change the command that is associated with a custom
-  keyboard shortcut, double-click the <span class="em">name</span> of the shortcut. The
-  <span class="gui">Custom Shortcut</span> window will appear, and you can edit the
-  command.</p>
+<p class="p">Als u de opdracht die geassocieerd is met een aangepaste sneltoets wilt wijzigen, dubbelklik dan op de <span class="em">naam</span> van de sneltoets. Het venster <span class="gui">Aangepaste sneltoets</span> zal verschijnen en u kunt de opdracht bewerken.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -515,17 +504,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html" title="Keyboard">Keyboard</a><span class="desc"> — 
-      <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Keyboard layouts</a></span>,
-      <span class="link"><a href="keyboard-cursor-blink.html" title="Make the keyboard cursor blink">cursor blinking</a></span>,
-      <span class="link"><a href="a11y.html#mobility" title="Mobility impairments">keyboard accessibility</a></span>…
+<a href="keyboard.html" title="Toetsenbord">Toetsenbord</a><span class="desc"> — 
+      <span class="link"><a href="keyboard-layouts.html" title="Alternatieve toetsenbordindelingen gebruiken">Keyboard layouts</a></span>,
+      <span class="link"><a href="keyboard-cursor-blink.html" title="De toetsenbordcursor laten knipperen">cursor blinking</a></span>,
+      <span class="link"><a href="a11y.html#mobility" title="Beperkte mobiliteit">keyboard accessibility</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-keyboard-shortcuts.html" title="Useful keyboard shortcuts">Useful keyboard shortcuts</a><span class="desc"> — Get around the desktop using the keyboard.</span>
+<a href="shell-keyboard-shortcuts.html" title="Handige sneltoetsen">Handige sneltoetsen</a><span class="desc"> — Door het bureaublad lopen via het toetsenbord.</span>
 </li></ul></div>
 </div></div>
 </div>

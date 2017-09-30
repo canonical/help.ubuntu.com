@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Keeping safe on the internet</title>
+<title>Veiligheid op het internet</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,31 +43,29 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Keeping safe on the internet</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Veiligheid op het internet</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="net-firewall-on-off.html" title="Enable or block firewall access"><span class="title">Enable or block firewall access</span><span class="linkdiv-dash"> — </span><span class="desc">You can control which programs can access the network. This helps to keep your computer secure.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-firewall-ports.html" title="Commonly-used network ports"><span class="title">Commonly-used network ports</span><span class="linkdiv-dash"> — </span><span class="desc">You need to specify the right network port to enable/disable network
-    access for a program with your firewall.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-antivirus.html" title="Do I need anti-virus software?"><span class="title">Do I need anti-virus software?</span><span class="linkdiv-dash"> — </span><span class="desc">There are few Linux viruses, so you probably don't need anti-virus
+<div class="linkdiv "><a class="linkdiv" href="net-firewall-on-off.html" title="Firewalltoegang inschakelen of blokkeren."><span class="title">Firewalltoegang inschakelen of blokkeren.</span><span class="linkdiv-dash"> — </span><span class="desc">U kunt bepalen welke programma's toegang hebben tot het netwerk. Dit helpt uw computer veilig te houden.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-antivirus.html" title="Heb ik anti-virussoftware nodig?"><span class="title">Heb ik anti-virussoftware nodig?</span><span class="linkdiv-dash"> — </span><span class="desc">There are few Linux viruses, so you probably don’t need anti-virus
     software.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-email-virus.html" title="Do I need to scan my emails for viruses?"><span class="title">Do I need to scan my emails for viruses?</span><span class="linkdiv-dash"> — </span><span class="desc">Viruses are unlikely to infect your computer, but could infect the
-    computers of people you email.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-email-virus.html" title="Moet ik mijn e-mails controleren op virussen?"><span class="title">Moet ik mijn e-mails controleren op virussen?</span><span class="linkdiv-dash"> — </span><span class="desc">Het is niet waarschijnlijk dat virussen uw computer infecteren, maar wel de computers van andere mensen aan wie u e-mail stuurt.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-firewall-ports.html" title="Veelgebruikte netwerkpoorten"><span class="title">Veelgebruikte netwerkpoorten</span><span class="linkdiv-dash"> — </span><span class="desc">U dient de juiste netwerkpoort op te geven om netwerktoegang voor een programma met uw firewall in- of uit te schakelen.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless.html" title="Wireless Networking">Wireless</a></span>,
-      <span class="link"><a href="net-wired.html" title="Wired Networking">wired</a></span>,
-      <span class="link"><a href="net-problem.html" title="Network problems">connection problems</a></span>,
-      <span class="link"><a href="net-browser.html" title="Web Browsers">web browsing</a></span>,
-      <span class="link"><a href="net-email.html" title="Email &amp; email software">email accounts</a></span>…
+<a href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a><span class="desc"> — 
+      <span class="link"><a href="net-wireless.html" title="Draadloos netwerk">Wireless</a></span>,
+      <span class="link"><a href="net-wired.html" title="Bekabeld netwerk">wired</a></span>,
+      <span class="link"><a href="net-problem.html" title="Netwerkproblemen">connection problems</a></span>,
+      <span class="link"><a href="net-browser.html" title="Webbrowsers">web browsing</a></span>,
+      <span class="link"><a href="net-email.html" title="E mail &amp; e-mailsoftware">email accounts</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

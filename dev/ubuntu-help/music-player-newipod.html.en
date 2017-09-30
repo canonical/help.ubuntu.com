@@ -2,7 +2,7 @@
 <html lang=en>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>My new iPod won't work</title>
+<title>My new iPod won’t work</title>
 <link rel="stylesheet" type="text/css" href="C.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,10 +46,10 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Sound, video &amp; pictures">Sound, video &amp; pictures</a> › <a class="trail" href="media.html#music" title="Music and portable audio players">Music and players</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">My new iPod won't work</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">My new iPod won’t work</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you have a new iPod that has never been connected to a computer before, it won't be recognized properly when you connect it to a Linux computer. This is because iPods need to be set up and updated using the <span class="app">iTunes</span> software, which only runs on Windows and Mac OS.</p>
+<p class="p">If you have a new iPod that has never been connected to a computer before, it won’t be recognized properly when you connect it to a Linux computer. This is because iPods need to be set up and updated using the <span class="app">iTunes</span> software, which only runs on Windows and Mac OS.</p>
 <p class="p">To set up your iPod, install iTunes on a Windows or Mac computer and plug it in. You will be led through a few steps to set it up. If asked for the <span class="gui">Volume Format</span>, choose <span class="gui">MS-DOS (FAT)</span>, <span class="gui">Windows</span> or similar. The other format (HFS/Mac) does not work as well with Linux.</p>
 <p class="p">Once you have finished setup, the iPod should work normally when you plug it into a Linux computer.</p>
 </div>

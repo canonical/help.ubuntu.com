@@ -54,7 +54,10 @@
 <p class="p">Du kan även vilja installera mjukvara som inte har ett grafiskt gränssnitt. För att installera sådan mjukvara kan du använda <span class="link"><a href="addremove-install-synaptic.html" title="Använd Synaptic för en mer avancerad programhantering">Synaptic</a></span>. Märk att <span class="app">Synaptic</span> inte listar snap-paket.</p>
 <p class="p">För att installera ett program:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Klicka på ikonen <span class="app">Programvara för Ubuntu</span> i <span class="gui">Programstartaren</span>, eller sök efter <span class="input">Program</span> i <span class="gui">Snabbstartspanelen</span>.</p></li>
+<li class="steps"><p class="p">
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">När <span class="app">Programvara för Ubuntu</span> startar, sök efter ett program eller välj en kategori och hitta en program ur listan.</p></li>
 <li class="steps"><p class="p">Välj programmet du vill ha och klicka på <span class="gui">Installera</span>.</p></li>
 <li class="steps"><p class="p">Om du installerar ett snap-paket, logga in till Snap Store/Ubuntu One.</p></li>

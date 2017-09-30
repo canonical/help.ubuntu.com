@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Desktop</a> › <a class="trail" href="shell-overview.html#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Desktop</a> › <a class="trail" href="shell-overview.html#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » <a class="trail" href="shell-windows.html" title="Vensters en werkbladen">Vensters en werkbladen</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Werken met vensters">Windows</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » <a class="trail" href="shell-windows.html" title="Vensters en werkbladen">Vensters en werkbladen</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Werken met vensters">Vensters</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,26 +60,21 @@
 <p class="p">From a workspace:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Press
-      <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span>
+      <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span>
       to bring up the <span class="gui">window switcher</span>.</p></li>
-<li class="steps"><p class="p">Release <span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span> to select the next
+<li class="steps"><p class="p">Release <span class="key"><a href="keyboard-key-super.html" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span> to select the next
       (highlighted) window in the switcher.</p></li>
-<li class="steps"><p class="p">Otherwise, still holding down the <span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>
+<li class="steps"><p class="p">Otherwise, still holding down the <span class="key"><a href="keyboard-key-super.html" title="Wat is de Super-toets?"><kbd>
       Super</kbd></a></span> key, press <span class="key"><kbd>Tab</kbd></span> to cycle through the list of open
       windows, or <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> to cycle
       backwards.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Windows in the window switcher are grouped by application. Previews of
     applications with multiple windows pop down as you click through. Hold down
-    <span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span> and press <span class="key"><kbd>`</kbd></span> (or the
+    <span class="key"><a href="keyboard-key-super.html" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span> and press <span class="key"><kbd>`</kbd></span> (or the
     key above <span class="key"><kbd>Tab</kbd></span>) to step through the list.</p></div></div></div></div>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">In the window switcher, applications from different workspaces are
-    divided by vertical separators.</p></div></div></div></div>
-<p class="p">You can also move between the application icons in the window
-  switcher with the <span class="key"><kbd>→</kbd></span> or <span class="key"><kbd>←</kbd></span> keys, or
-  select one by clicking it with the mouse.</p>
-<p class="p">Previews of applications with a single window can be displayed with
-  the <span class="key"><kbd>↓</kbd></span> key.</p>
+<p class="p">U kunt ook van het ene toepassingspictogram naar het andere gaan in de vensterwisselaar met de toetsen <span class="key"><kbd>→</kbd></span> of <span class="key"><kbd>←</kbd></span>, of er een kiezen door erop te klikken met de muis.</p>
+<p class="p">Voorbeelden van toepassingen met een enkel venster kunnen worden getoond met de toets <span class="key"><kbd>↓</kbd></span>.</p>
 <p class="p">From the <span class="gui">Activities</span> overview, click on a
   <span class="link"><a href="shell-windows.html" title="Vensters en werkbladen">window</a></span> to switch to it and leave the
   overview. If you have multiple

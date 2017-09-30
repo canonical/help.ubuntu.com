@@ -71,7 +71,13 @@
 </div></div>
 <div id="beeps" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Il computer emette un suono e si spegne</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Se il computer fa bip svariate volte all'accensione e allo spegnimento (o non parte), è possibile che stia indicando la scoperta di un problema. Questi bip sono a volte detti <span class="em">codici bip</span> e la sequenza di bip è intesa per dire che problema con il computer c'è. Diversi produttori utilizzano diversi codici bip, così da dover consultare il manuale della scheda madre del computer o portare il computer a riparare.</p></div></div>
+<div class="region"><div class="contents"><p class="p">If the computer beeps several times when you turn it on and then turns off
+  (or fails to start), it may be indicating that it has detected a problem.
+  These beeps are sometimes referred to as <span class="em">beep codes</span>, and the pattern
+  of beeps is intended to tell you what the problem with the computer is.
+  Different manufacturers use different beep codes, so you will have to consult
+  the manual for your computer’s motherboard, or take your computer in for
+  repairs.</p></div></div>
 </div></div>
 <div id="fans" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Le ventole del computer girano, ma sullo schermo non viene visualizzato nulla</span></h2></div>

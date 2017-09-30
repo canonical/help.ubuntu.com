@@ -49,23 +49,14 @@
 <div class="hgroup"><h1 class="title"><span class="title">Lisää tili</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Adding an account will help link your online accounts with your GNOME
-  desktop. Thus, your email program, chat program and other related
-  applications will be set up for you.</p>
+<p class="p">Tilin lisääminen auttaa linkittämään verkkotilisi Gnome-työpöytään. Näin ollen sähköposti, pikaviestintä ja muut verkkotiliisi liittyvät sovellukset määritetään puolestasi käyttövalmiiksi.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
-      start typing <span class="gui">Online Accounts</span>.</p></li>
+<li class="steps"><p class="p">Avaa <span class="gui"><a href="shell-introduction.html#activities" title="Toiminnot-yleisnäkymä">Toiminnot</a></span>-yleisnäkymä ja kirjoita <span class="gui">Verkkotilit</span>.</p></li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Verkkotilit</span>.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">+</span> button in the lower-left corner of the
-      window.</p></li>
+<li class="steps"><p class="p">Napsauta <span class="gui">+</span> ikkunan vasemmasta alareunasta.</p></li>
 <li class="steps"><p class="p">Valitse tilin tyyppi, jonka haluat lisätä.</p></li>
-<li class="steps"><p class="p">A small website window or dialog will open where you can enter your
-      online account credentials. For example, if you are setting up a Google
-      account, enter your Google username and password. Some providers allow
-      you to create a new account from the login dialog.</p></li>
-<li class="steps"><p class="p">If you have entered your credentials correctly, you will be prompted
-      to allow GNOME access to your online account. Authorize access to
-      continue.</p></li>
+<li class="steps"><p class="p">Pieni verkkonäkymä aukeaa, josta voit kirjautua verkkopalveluun. Esimerkiksi, jos olet lisäämässä Google-tiliä, anna Google-tilisi käyttäjätunnus ja salasana. Jotkin palvelut mahdollistavat tilin luomisen kirjautumisikkunan kautta.</p></li>
+<li class="steps"><p class="p">Jos kirjoitit kirjautumistietosi oikein, sinua pyydetään sallimaan Gnomen käyttää verkkotiliäsi. Valtuuta Gnomea käyttämään tiliäsi jatkaaksesi.</p></li>
 <li class="steps"><p class="p">All services that are offered by an account provider will be enabled
       by default. <span class="link"><a href="accounts-disable-service.html" title="Control which online services an account can be used to access">Switch</a></span>
       individual services to <span class="gui">OFF</span> to disable them.</p></li>
@@ -83,11 +74,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Verkkotilit">Verkkotilit</a><span class="desc"> — 
-      <span class="link"><a href="accounts-add.html" title="Lisää tili">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html" title="Poista tili">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html" title="Verkkopalvelut ja sovellukset">Learn about services</a></span>…
-    </span>
+<a href="accounts.html" title="Verkkotilit">Verkkotilit</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Lisää tili">Lisää verkkotili</a></span>, <span class="link"><a href="accounts-remove.html" title="Poista tili">Poista tili</a></span>, <span class="link"><a href="accounts-which-application.html" title="Verkkopalvelut ja sovellukset">Lisätietoja palveluista</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

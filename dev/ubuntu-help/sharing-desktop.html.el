@@ -63,7 +63,9 @@
 <div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">Αν το κείμενο κάτω από το <span class="gui">όνομα υπολογιστή</span> σας επιτρέπει να το επεξεργαστείτε, μπορείτε να <span class="link"><a href="sharing-displayname.html" title="Ορισμός του ονόματος εμφάνισης για τον υπολογιστή σας">αλλάξετε</a></span> το όνομα που ο υπολογιστής σας εμφανίζετε στο δίκτυο.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Επιλέξτε <span class="gui">Κοινή χρήση οθόνης</span>.</p></li>
-<li class="steps"><p class="p">Για να επιτρέψετε σε άλλους να προβάλουν την επιφάνεια εργασίας σας, αλλάξτε το <span class="gui">Κοινή χρήση οθόνης</span> σε <span class="gui">ΕΝΕΡΓΗ</span>. Αυτό σημαίνει ότι άλλα άτομα θα μπορούν να προσπαθούν να συνδεθούν με τον υπολογιστή σας και να προβάλουν ό,τι είναι στην οθόνη σας.</p></li>
+<li class="steps"><p class="p">To let others view your desktop, switch <span class="gui">Screen Sharing</span> to
+      <span class="gui">ON</span>. This means that other people will be able to attempt to
+      connect to your computer and view what’s on your screen.</p></li>
 <li class="steps">
 <p class="p">Για να επιτρέψετε σε άλλους να αλληλεπιδρούν με την επιφάνεια εργασίας σας, αλλάξτε το <span class="gui">Να επιτρέπεται απομακρυσμένος έλεγχος</span> σε <span class="gui">ΕΝΕΡΓΟ</span>. Αυτό μπορεί να επιτρέψει σε άλλο άτομο να μετακινήσει το ποντίκι σας, να εκτελέσει εφαρμογές και να περιηγηθεί τα αρχεία στον υπολογιστή σας, ανάλογα με τις ρυθμίσεις ασφάλειας που υφίστανται.</p>
 <div class="note note-tip" title="Συμβουλή"><div class="inner"><div class="region"><div class="contents"><p class="p">Αυτή η επιλογή είναι ενεργή από προεπιλογή όταν το <span class="gui">Κοινή χρήση οθόνης</span> είναι <span class="gui">ΕΝΕΡΓΟ</span>.</p></div></div></div></div>

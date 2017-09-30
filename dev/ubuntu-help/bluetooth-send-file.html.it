@@ -53,7 +53,11 @@
 <div class="hgroup"><h1 class="title"><span class="title">Send files to a Bluetooth device</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">È possibile inviare file ai dispositivi Bluetooth connessi, per esempio alcuni telefoni cellulari oppure altri computer. Alcuni generi di dispositivi non consentono il trasferimento di file o ne consentono solo alcune tipologie. È possibile eseguire tale operazione in tre modi: utilizzando l'icona Bluetooth nella barra dei menù, dalla finestra di impostazioni Bluetooth o direttamente dal gestore di file.</p>
+<p class="p">You can send files to connected Bluetooth devices, such as some mobile
+    phones or other computers. Some types of devices don’t allow the transfer
+    of files, or specific types of files. You can send files in one of three
+    ways: using the Bluetooth icon in the menu bar, from the Bluetooth settings
+    window, or directly from the file manager.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Bluetooth</span>.</p></li>

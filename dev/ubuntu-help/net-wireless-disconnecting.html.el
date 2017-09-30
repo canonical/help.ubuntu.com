@@ -63,7 +63,12 @@
 <div id="network" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Η σύνδεση δικτύου δεν έγινε σωστά</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Μερικές φορές, όταν συνδέεστε σε ένα ασύρματο δίκτυο, μπορεί να φαίνεται ότι έχετε συνδεθεί με επιτυχία στην αρχή, αλλά έπειτα αποσυνδέεστε σύντομα. Αυτό κανονικά συμβαίνει επειδή ο υπολογιστής σας συνδέθηκε μόνο μερικώς με επιτυχία στο δίκτυο - πέτυχε να συνδεθεί, αλλά δεν μπόρεσε να ολοκληρώσει τη σύνδεση για κάποια αιτία και έτσι αποσυνδέθηκε.</p>
+<p class="p">Sometimes, when you connect to a wireless network, it may appear that you
+ have successfully connected at first, but then you will be disconnected soon
+ after. This normally happens because your computer was only partially
+ successful in connecting to the network — it managed to establish a connection,
+ but was unable to finalize the connection for some reason and so was
+ disconnected.</p>
 <p class="p">Μια πιθανή αιτία για αυτό είναι ότι εισάγατε λάθος το ασύρματο συνθηματικό, ή ότι ο υπολογιστής σας δεν επιτρεπόταν στο δίκτυο (επειδή το δίκτυο απαιτεί ένα όνομα χρήστη για σύνδεση, για παράδειγμα).</p>
 </div></div>
 </div></div>
@@ -85,14 +90,14 @@
 <a href="net-wireless.html" title="Ασύρματη δικτύωση">Ασύρματη δικτύωση</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Σύνδεση σε ασύρματο δίκτυο">Σύνδεση σε wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Σύνδεση σε κρυφό ασύρματο δίκτυο">Κρυφά δίκτυα</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Γιατί το ασύρματο δίκτυό μου εξακολουθεί να είναι αποσυνδεμένο;">Αποσύνδεση</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-problem.html" title="Προβλήματα δικτύου">Προβλήματα δικτύου</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Αντιμετώπιση προβλημάτων ασύρματων συνδέσεων</a></span>, <span class="link"><a href="net-wireless-find.html" title="Δεν μπορώ να δω το ασύρματο δίκτυό μου στη λίστα">Εύρεση του δικτύου wifi</a></span>…</span>
+<a href="net-problem.html" title="Προβλήματα δικτύου">Προβλήματα δικτύου</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Αντιμετώπιση προβλημάτων ασύρματων συνδέσεων</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">Εύρεση του δικτύου wifi</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-connect.html" title="Σύνδεση σε ασύρματο δίκτυο">Σύνδεση σε ασύρματο δίκτυο</a><span class="desc"> — Συνδεθείτε στο διαδίκτυο - ασύρματα.</span>
+<a href="net-wireless-connect.html" title="Σύνδεση σε ασύρματο δίκτυο">Σύνδεση σε ασύρματο δίκτυο</a><span class="desc"> — Get on the internet — wirelessly.</span>
 </li></ul></div>
 </div></div>
 </div>

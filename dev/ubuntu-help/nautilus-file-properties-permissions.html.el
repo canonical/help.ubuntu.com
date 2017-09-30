@@ -55,9 +55,19 @@
 <div id="files" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Αρχεία</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Μπορείτε να ορίσετε δικαιώματα για τον κάτοχο του αρχείου, τον κάτοχο ομάδας και όλους τους άλλους χρήστες του συστήματος. Για τα αρχεία σας, είσαστε ο κάτοχος και μπορείτε να δώσετε στον εαυτό σας τα δικαιώματα μόνο ανάγνωσης ή ανάγνωσης και εγγραφής. Ορίστε ένα αρχείο για ανάγνωση μόνο εάν δεν θέλετε να το αλλάξετε κατά λάθος.</p>
-<p class="p">Κάθε χρήστης στον υπολογιστή σας ανήκει σε μια ομάδα. Σε οικιακούς υπολογιστές, είναι συνηθισμένο ο κάθε χρήστης να έχει τη δική του ομάδα και τα δικαιώματα ομάδας δεν χρησιμοποιούνται συχνά. Σε εταιρικά περιβάλλοντα, χρησιμοποιούνται μερικές φορές ομάδες για τμήματα ή έργα. Έχοντας επίσης έναν κάτοχο, κάθε αρχείο ανήκει σε μια ομάδα. Μπορείτε να ορίσετε την ομάδα αρχείου και να ελέγξτε τα δικαιώματα για όλους τους χρήστες σε αυτήν την ομάδα. Μπορείτε να ορίσετε μόνο την ομάδα του αρχείου σε μια ομάδα όπου ανήκετε.</p>
-<p class="p">Μπορείτε επίσης να ορίσετε τα δικαιώματα για άλλους χρήστες πλην του κατόχου και τα δικαιώματα της ομάδας του αρχείου.</p>
+<p class="p">You can set the permissions for the file owner, the group owner,
+    and all other users of the system. For your files, you are the owner,
+    and you can give yourself read-only or read-and-write permission.
+    Set a file to read-only if you don’t want to accidentally change it.</p>
+<p class="p">Every user on your computer belongs to a group. On home computers,
+    it is common for each user to have their own group, and group permissions
+    are not often used. In corporate environments, groups are sometimes used
+    for departments or projects. As well as having an owner, each file belongs
+    to a group. You can set the file’s group and control the permissions for
+    all users in that group. You can only set the file’s group to a group you
+    belong to.</p>
+<p class="p">You can also set the permissions for users other than the owner and
+    those in the file’s group.</p>
 <p class="p">Εάν το αρχείο είναι ένα πρόγραμμα, όπως μια δέσμη ενεργειών, πρέπει να επιλέξετε <span class="gui">Να επιτρέπεται η εκτέλεση αρχείου ως προγράμματος</span> για την εκτέλεση του. Ακόμα και με αυτήν την επιλογή σημειωμένη, ο διαχειριστής αρχείων μπορεί ακόμα να ανοίξει το αρχείο σε μια εφαρμογή ή να σας ζητήσει τι να κάνετε. Για περισσότερες πληροφορίες δείτε <span class="link"><a href="nautilus-behavior.html#executable" title="Εκτελέσιμα αρχεία κειμένου">Εκτελέσιμα αρχεία κειμένου</a></span>.</p>
 </div></div>
 </div></div>

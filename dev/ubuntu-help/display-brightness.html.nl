@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Set screen brightness</title>
+<title>De helderheid van het scherm instellen</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,41 +44,29 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Common problems">Problems</a> » <a class="trail" href="hardware-problems-graphics.html" title="Screen problems">Screen problems</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="prefs-display.html" title="Weergave &amp; scherm">Weergave &amp; scherm</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="prefs-display.html" title="Display &amp; screen">Display &amp; screen</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="hardware-problems-graphics.html" title="Schermproblemen">Schermproblemen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Set screen brightness</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">De helderheid van het scherm instellen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Depending on your hardware, you can change the brightness of your screen to
-  save power or to make the screen more readable in bright light.</p>
-<p class="p">To change the brightness of your screen, click the
-  <span class="gui"><a href="shell-introduction.html#yourname" title="You and your computer">system menu</a></span> on the right side
-  of the top bar and adjust the screen brightness slider to the value you want
-  to use. The change should take effect immediately.</p>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Many laptop keyboards have special keys to adjust the brightness. These
-    often have a picture that looks like the sun. Hold down the <span class="key"><kbd class="key-Fn">Fn</kbd></span>
-    key to use these keys.</p></div></div></div></div>
-<p class="p">You can also adjust the screen brightness by using the <span class="gui">Power</span> panel.</p>
+<p class="p">Afhankelijk van uw hardware kunt u het scherm dimmen om energie te sparen of de helderheid verhogen om het beter leesbaar te maken bij fel licht.</p>
+<p class="p">Om de helderheid van uw scherm te wijzigen, klik u op het <span class="gui"><a href="shell-introduction.html#yourname" title="U en uw computer">systeemmenu</a></span> rechts in de menubalk en gebruik de schuifbalk om de helderheid van het scherm naar uw wens aan te passen. De wijziging zou direct van toepassing moeten zijn.</p>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Veel laptoptoetsenborden hebben speciale toetsen om de helderheid aan te passen. Deze hebben vaak een afbeelding die eruit ziet als een zonnetje. Om deze toetsen te gebruiken houdt u de <span class="key"><kbd class="key-Fn">Fn</kbd></span>-toets ingedrukt.</p></div></div></div></div>
+<p class="p">U kunt de helderheid van het scherm ook aanpassen via het venster <span class="gui">Energie</span>.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">To set the screen brightness using the Power panel:</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Om de helderheid van het scherm in te stellen via het venster Energie:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span>
-      overview and start typing <span class="gui">Power</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Power</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Adjust the <span class="gui">Screen brightness</span> slider to the value you want to
-      use. The change should take effect immediately.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Energie</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Energie</span> om het paneel te openen.</p></li>
+<li class="steps"><p class="p">Gebruik de schuifbalk <span class="gui">Helderheid van het scherm</span> om de helderheid naar uw wens aan te passen. De wijziging zou direct van toepassing moeten zijn.</p></li>
 </ol></div>
 </div></div>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">If your computer features an integrated light sensor, the screen
-    brightness will automatically be adjusted for you. You can disable automatic
-    screen brightness in the <span class="gui">Power</span> panel.</p></div></div></div></div>
-<p class="p">If it is possible to set the brightness of your screen, you can also have
-  the screen dim automatically to save power. For more information, see
-  <span class="link"><a href="power-whydim.html" title="Waarom wordt mijn scherm na enige tijd zwart?">Waarom wordt mijn scherm na enige tijd zwart?</a></span>.</p>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Als uw computer beschikt over een geïntegreerde lichtsensor, dan zal de helderheid van het scherm automatisch voor u worden aangepast. U kunt automatische helderheid van het scherm uitschakelen in het venster <span class="gui">Energie</span>.</p></div></div></div></div>
+<p class="p">Als het mogelijk is de helderheid van uw scherm in te stellen, dan kunt u ook het scherm automatisch dimmen om energie te sparen. Zie voor meer informatie <span class="link"><a href="power-whydim.html" title="Waarom wordt mijn scherm na enige tijd zwart?">Waarom wordt mijn scherm na enige tijd zwart?</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -87,15 +75,13 @@
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-display.html" title="Display &amp; screen">Display &amp; screen</a><span class="desc"> — 
+<a href="hardware-problems-graphics.html" title="Schermproblemen">Schermproblemen</a><span class="desc"> — Grafische problemen en problemen met het scherm oplossen.</span>
+</li>
+<li class="links ">
+<a href="prefs-display.html" title="Weergave &amp; scherm">Weergave &amp; scherm</a><span class="desc"> — 
       <span class="link"><a href="look-background.html" title="Change the desktop and lock screen backgrounds">Background</a></span>,
       <span class="link"><a href="look-resolution.html" title="Change the resolution or rotation of the screen">size and rotation</a></span>,
       brightness…
-    </span>
-</li>
-<li class="links ">
-<a href="hardware-problems-graphics.html" title="Screen problems">Screen problems</a><span class="desc"> — 
-      Troubleshoot screen and graphics problems.
     </span>
 </li>
 </ul></div>
@@ -104,14 +90,14 @@
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="a11y-contrast.html" title="Adjust the contrast">Adjust the contrast</a><span class="desc"> — Make windows and buttons on the screen more (or less) vivid, so
-    they're easier to see.</span>
+<a href="power-autobrightness.html" title="Automatische helderheid instellen">Automatische helderheid instellen</a><span class="desc"> — Automatically control screen brightness to reduce battery use.</span>
 </li>
 <li class="links ">
-<a href="power-autobrightness.html" title="Enable automatic brightness">Enable automatic brightness</a><span class="desc"> — Automatically control screen brightness to reduce battery use.</span>
+<a href="a11y-contrast.html" title="Contrast aanpassen">Contrast aanpassen</a><span class="desc"> — Make windows and buttons on the screen more (or less) vivid, so
+    they’re easier to see.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="Use less power and improve battery life">Use less power and improve battery life</a><span class="desc"> — Tips to reduce the power consumption of your computer.</span>
+<a href="power-batterylife.html" title="Gebruik minder stroom en verbeter de levensduur van de accu">Gebruik minder stroom en verbeter de levensduur van de accu</a><span class="desc"> — Tips om het energieverbruik van uw computer te verminderen.</span>
 </li>
 <li class="links ">
 <a href="power-whydim.html" title="Waarom wordt mijn scherm na enige tijd zwart?">Waarom wordt mijn scherm na enige tijd zwart?</a><span class="desc"> — The screen will dim when the computer is idle in order to save power.</span>

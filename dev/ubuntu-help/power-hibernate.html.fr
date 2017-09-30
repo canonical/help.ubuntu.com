@@ -67,7 +67,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ouvrez le <span class="app">Terminal</span> en appuyant en même temps sur <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>t</kbd></span></span> ou en cherchant le <span class="input">terminal</span> dans le <span class="gui">Tableau de bord</span>.</p></li>
 <li class="steps">
-<p class="p">Type <span class="cmd">sudo systemctl hibernate</span> into the terminal and press <span class="key"><kbd>Enter</kbd></span>.</p>
+<p class="p">Saisissez la commande <span class="cmd">sudo systemctl hibernate</span> dans le terminal et appuyez sur la touche <span class="key"><kbd>Entrée</kbd></span>.</p>
 <p class="p">Entrer votre mot de passe quand demandé.</p>
 </li>
 <li class="steps"><p class="p">Après l'extinction de votre ordinateur, reallumez-le. Est-ce que vos applications se re-ouvrent ?</p></li>
@@ -85,8 +85,7 @@
 <div id="enable-hibernate" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Activer l'hibernation</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">If the hibernate test works, you can continue to use the <span class="cmd">sudo systemctl hibernate</span>
-  command when you want to hibernate.</p>
+<p class="p">Si le test d'hibernation fonctionne, vous pouvez continuer à utiliser la commande <span class="cmd">sudo systemctl hibernate</span> lorsque vous souhaitez mettre votre ordinateur en veille prolongée.</p>
 <p class="p">Vous pouvez aussi activer l'option d'hibernation dans les menus. Pour cela, utilisez votre éditeur de texte préféré pour créer <span class="file">/etc/polkit-1/localauthority/50-local.d/com.ubuntu.enable-hibernate.pkla</span>. Ajoutez le texte suivant dans le fichier et enregistrez-le :</p>
 <div class="code"><pre class="contents ">[Re-enable hibernate by default in upower]
 Identity=unix-user:*

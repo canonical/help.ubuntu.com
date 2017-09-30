@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Anderen kunnen mijn video's niet afspelen</title>
+<title>Other people can’t play the videos I made</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,43 +43,36 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Sound, video &amp; pictures">Sound, video &amp; pictures</a> › <a class="trail" href="media.html#videos" title="Videos and video cameras">Videos</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Geluid, video &amp; foto's">Geluid, video &amp; foto's</a> › <a class="trail" href="media.html#videos" title="Video's en videocamera's">Video's</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Anderen kunnen mijn video's niet afspelen</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Other people can’t play the videos I made</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Als u een op uw Linux-computer gemaakte video stuurt naar iemand die Windows of Mac OS gebruikt, dan kan het zijn dat zij problemen ondervinden bij het afspelen van de video.</p>
-<p class="p">To be able to play your video, the person you sent it to must have the
-  right <span class="em">codecs</span> installed. A codec is a little piece of software that
-  knows how to take the video and display it on the screen. There are lots of
-  different video formats and each requires a different codec to play it back.
-  You can check which format your video is by doing:</p>
+<p class="p">Degene aan wie u een video heeft gestuurd, moet de juiste <span class="em">codecs</span> geïnstalleerd hebben om deze af te kunnen spelen. Een codec is een stukje software dat weet hoe het de video op het scherm kan weergeven. Er zijn veel verschillende videoformaten en elk daarvan vereist een andere codec om deze af te kunnen spelen. Het formaat van uw video kunt u achterhalen door dit te doen:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Open <span class="app">Files</span> from the
-      <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview.</p></li>
-<li class="list"><p class="p">Right-click on the video file and select <span class="gui">Properties</span>.</p></li>
-<li class="list"><p class="p">Go to the <span class="gui">Audio/Video</span> or <span class="gui">Video</span> tab and look at
-      which <span class="gui">Codec</span> are listed under <span class="gui">Video</span> and
-      <span class="gui">Audio</span> (if the video also has audio).</p></li>
+<li class="list"><p class="p">Open <span class="app">Bestanden</span> vanuit het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht.</p></li>
+<li class="list"><p class="p">Klik met uw rechtermuisknop op het videobestand en selecteer daarna <span class="gui">Eigenschappen</span>.</p></li>
+<li class="list"><p class="p">Ga naar het tabblad <span class="gui">Audio/video</span> of <span class="gui">Video</span> en kijk welke <span class="gui">codec</span> er bij <span class="gui">Video</span> en <span class="gui">Audio</span> staat (als de video ook audio heeft).</p></li>
 </ul></div></div></div>
 <p class="p">Ask the person having problems with playback if they have the right codec
   installed. They may find it helpful to search the web for the name of the
   codec plus the name of their video playback application. For example, if your
   video uses the <span class="em">Theora</span> format and you have a friend using Windows
-  Media Player to try and watch it, search for "theora windows media player".
-  You will often be able to download the right codec for free if it's not
+  Media Player to try and watch it, search for “theora windows media player”.
+  You will often be able to download the right codec for free if it’s not
   installed.</p>
-<p class="p">If you can't find the right codec, try the
+<p class="p">If you can’t find the right codec, try the
   <span class="link"><a href="http://www.videolan.org/vlc/" title="http://www.videolan.org/vlc/">VLC media player</a></span>. It works
   on Windows and Mac OS as well as Linux, and supports a lot of different video
   formats. Failing that, try converting your video into a different format.
   Most video editors are able to do this, and specific video converter
   applications are available. Check the software installer application to see
-  what's available.</p>
+  what’s available.</p>
 <div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">There are a few other problems which might prevent someone from playing
     your video. The video could have been damaged when you sent it to them
-    (sometimes big files aren't copied across perfectly), they could have
+    (sometimes big files aren’t copied across perfectly), they could have
     problems with their video playback application, or the video may not have
     been created properly (there could have been some errors when you saved the
     video).</p></div></div></div></div>
@@ -88,7 +81,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="media.html#videos" title="Videos and video cameras">Videos</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="media.html#videos" title="Video's en videocamera's">Video's</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

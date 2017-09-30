@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Define proxy settings</title>
+<title>Proxy-instellingen definiëren</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,47 +43,36 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html" title="Networking terms &amp; tips">Networking terms &amp; tips</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-general.html" title="Netwerktermen &amp; -tips">Netwerktermen &amp; -tips</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Define proxy settings</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Proxy-instellingen definiëren</span></h1></div>
 <div class="region">
 <div class="contents"></div>
 <div id="what" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">What is a proxy?</span></h2></div>
-<div class="region"><div class="contents"><p class="p">A <span class="em">web proxy</span> filters websites that you look at, it receives
-  requests from your web browser to fetch web pages and their elements, and
-  following a policy will decide to pass them you back. They are commonly used
-  in businesses and at public wireless hotspots to control what websites you
-  can look at, prevent you from accessing the internet without logging in, or
-  to do security checks on websites.</p></div></div>
+<div class="hgroup"><h2 class="title"><span class="title">Wat is een proxy?</span></h2></div>
+<div class="region"><div class="contents"><p class="p">Een <span class="em">webproxy</span> filtert websites die u bekijkt. De proxy ontvangt verzoeken van uw webbrowser om de webpagina's en hun onderdelen op te halen en beslist aan de hand van bepaalde regels of ze aan u worden doorgegeven. Ze worden veel gebruikt bij bedrijven en publieke draadloos-hotspots om te bepalen welke websites u kunt bekijken, te voorkomen dat u toegang heeft tot het internet zonder in te loggen, of om veiligheidscontroles op websites uit te voeren.</p></div></div>
 </div></div>
 <div id="change" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Change proxy method</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Proxymethode wijzigen</span></h2></div>
 <div class="region"><div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Network</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Network</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Netwerk</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Netwerk</span> om het paneel te openen.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">Network proxy</span> from the list on the left.</p></li>
 <li class="steps">
-<p class="p">Choose which proxy method you want to use from:</p>
+<p class="p">Kies uit de volgende methodes welke proxymethode u wilt gebruiken:</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">None</span></dt>
-<dd class="terms"><p class="p">The applications will use a direct connection to fetch the content
-          from the web.</p></dd>
-<dt class="terms"><span class="gui">Manual</span></dt>
-<dd class="terms"><p class="p">For each proxied protocol, define the address of a proxy and port
-          for the protocols. The protocols are <span class="gui">HTTP</span>,
-          <span class="gui">HTTPS</span>, <span class="gui">FTP</span> and <span class="gui">SOCKS</span>.</p></dd>
-<dt class="terms"><span class="gui">Automatic</span></dt>
-<dd class="terms"><p class="p">A URL pointing to a resource, which contains the appropriate
-          configuration for your system.</p></dd>
+<dt class="terms"><span class="gui">Geen</span></dt>
+<dd class="terms"><p class="p">De toepassingen zullen een directe verbinding gebruiken om de inhoud van het web op te halen.</p></dd>
+<dt class="terms"><span class="gui">Handmatig</span></dt>
+<dd class="terms"><p class="p">Voor elk proxy-protocol het adres van een proxy en de poort voor de protocollen bepalen. De protocollen zijn: <span class="gui">HTTP</span>, <span class="gui">HTTPS</span>, <span class="gui">FTP</span> en <span class="gui">SOCKS</span>.</p></dd>
+<dt class="terms"><span class="gui">Automatisch</span></dt>
+<dd class="terms"><p class="p">Een URL verwijst naar een bron met de juiste configuratie voor uw systeem.</p></dd>
 </dl></div></div></div>
 </li>
 </ol></div></div></div>
-<p class="p">Applications that use the network connection will use your specified proxy
-  settings.</p>
+<p class="p">Toepassingen die de netwerkverbinding gebruiken zullen uw gekozen proxy-instellingen gebruiken.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -91,12 +80,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="Networking terms &amp; tips">Networking terms &amp; tips</a><span class="desc"> — 
-      <span class="link"><a href="net-findip.html" title="Find your IP address">Find your IP address</a></span>,
-      <span class="link"><a href="net-wireless-wepwpa.html" title="What do WEP and WPA mean?">WEP &amp; WPA security</a></span>,
-      <span class="link"><a href="net-macaddress.html" title="What is a MAC address?">MAC addresses</a></span>,
-      <span class="link"><a href="net-proxy.html" title="Define proxy settings">proxies</a></span>…
-    </span>
+<a href="net-general.html" title="Netwerktermen &amp; -tips">Netwerktermen &amp; -tips</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="Uw IP-adres achterhalen">Uw IP-adres vinden</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Wat betekenen WEP en WPA?">WEP- &amp; WPA-beveiliging</a></span>, <span class="link"><a href="net-macaddress.html" title="Wat is een MAC-adres?">MAC-adressen</a></span>, <span class="link"><a href="net-proxy.html" title="Proxy-instellingen definiëren">proxy's</a></span>...</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -2,7 +2,7 @@
 <html lang=it>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Altre persone non possono riprodurre i miei video</title>
+<title>Other people can’t play the videos I made</title>
 <link rel="stylesheet" type="text/css" href="it.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,7 +46,7 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Audio, video e immagini">Audio, video e immagini</a> › <a class="trail" href="media.html#videos" title="Video e videocamere">Video</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Altre persone non possono riprodurre i miei video</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Other people can’t play the videos I made</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Se è stato creato un video col proprio computer Linux ed è stato inviato ad altre persone che utilizzano Windows o Mac OS, queste potrebbero riscontrare dei problemi nel riprodurlo correttamente.</p>
@@ -59,15 +59,26 @@
       which <span class="gui">Codec</span> are listed under <span class="gui">Video</span> and
       <span class="gui">Audio</span> (if the video also has audio).</p></li>
 </ul></div></div></div>
-<p class="p">Chiedere alle persone che hanno problemi di riproduzione se hanno installato il codec corretto. Potrebbe essere d'aiuto cercare sul web il nome del codec assieme al nome del programma. Per esempio, se il proprio video utilizza il formato <span class="em">Theora</span> e la persona a cui è stato inviato il video utilizza Windows Media Player, provare a cercare "theora windows media player". Molto spesso è possibile scaricare il codec corretto gratuitamente se non è già installato.</p>
-<p class="p">If you can't find the right codec, try the
+<p class="p">Ask the person having problems with playback if they have the right codec
+  installed. They may find it helpful to search the web for the name of the
+  codec plus the name of their video playback application. For example, if your
+  video uses the <span class="em">Theora</span> format and you have a friend using Windows
+  Media Player to try and watch it, search for “theora windows media player”.
+  You will often be able to download the right codec for free if it’s not
+  installed.</p>
+<p class="p">If you can’t find the right codec, try the
   <span class="link"><a href="http://www.videolan.org/vlc/" title="http://www.videolan.org/vlc/">VLC media player</a></span>. It works
   on Windows and Mac OS as well as Linux, and supports a lot of different video
   formats. Failing that, try converting your video into a different format.
   Most video editors are able to do this, and specific video converter
   applications are available. Check the software installer application to see
-  what's available.</p>
-<div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents"><p class="p">Ci sono pochi altri problemi che potrebbero impedire ad altre persone di riprodurre un video. Il video potrebbe essere stato danneggiato quando è stato inviato a loro (a volte, file di grandi dimensioni non vengono copiati perfettamente), potrebbero avere problemi con il loro programma di riproduzione video o il video non è stato creato correttamente (potrebbe esserci stato qualche errore nel salvare il video).</p></div></div></div></div>
+  what’s available.</p>
+<div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents"><p class="p">There are a few other problems which might prevent someone from playing
+    your video. The video could have been damaged when you sent it to them
+    (sometimes big files aren’t copied across perfectly), they could have
+    problems with their video playback application, or the video may not have
+    been created properly (there could have been some errors when you saved the
+    video).</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

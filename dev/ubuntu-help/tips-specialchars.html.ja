@@ -49,7 +49,9 @@
 <div class="hgroup"><h1 class="title"><span class="title">特殊な文字を入力する</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">世界中の膨大な文字は、お使いのキーボードには見つからないでしょうが、それらを入力したり表示したりできます。ここでは、特殊な文字を入力する様々な方法を紹介します。</p>
+<p class="p">You can enter and view thousands of characters from most of the world’s
+  writing systems, even those not found on your keyboard. This page lists
+  some different ways you can enter special characters.</p>
 <div role="navigation" class="links sectionlinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">文字入力の方法</span></h2></div>
 <div class="region"><ul>
@@ -84,23 +86,21 @@
 <div class="hgroup"><h2 class="title"><span class="title">Compose キー</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Compose キーは特殊なキーで、これを使って複数キーを連続して押すことで特殊な文字を入力できます。たとえば、アクセント付きの <span class="em">é</span> は、<span class="key"><kbd>Compose</kbd></span> キーを押し、次に <span class="key"><kbd>'</kbd></span> キー、その次に <span class="key"><kbd>e</kbd></span> キーを押して入力できます。</p>
-<p class="p">キーボードには、専用の Compose キーはありません。その代わり、既存のキーのどれかを Compose キーに割り当てることができます。</p>
+<p class="p">Keyboards don’t have specific compose keys. Instead, you can define
+    one of the existing keys on your keyboard as a compose key.</p>
+<div class="note note-important" title="重要"><div class="inner"><div class="region"><div class="contents"><p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
+      change this setting.</p></div></div></div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">Compose キーの割り当て</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Define a compose key</span></h3></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="アクティビティ画面">Activities</a></span> overview and
-        start typing <span class="gui">Keyboard</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Keyboard</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Select the <span class="gui">Shortcuts</span> tab and click
-      <span class="gui">Typing</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Compose Key</span> in the right pane.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Disabled</span> and select the key you would like to
-      behave as a compose key from the drop-down menu. You can choose either of
-      the <span class="key"><kbd>Ctrl</kbd></span> keys, the right <span class="key"><kbd>Alt</kbd></span> key, the right
-      <span class="key"><kbd>Win</kbd></span> or <span class="key"><a href="keyboard-key-super.html" title="Super キーとは何ですか?"><kbd>Super</kbd></a></span> key if
-      you have one, the <span class="key"><a href="keyboard-key-menu.html" title="Menu キーとは何ですか?"><kbd>Menu</kbd></a></span> key or
-      <span class="key"><kbd>Caps Lock</kbd></span>. Any key you select will then only work as a compose
-      key, and will no longer work for its original purpose.</p></li>
+      start typing <span class="gui">Tweaks</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Tweaks</span> to open the application.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Keyboard &amp; Mouse</span> tab.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Disabled</span> next to the <span class="gui">Compose Key</span> setting.</p></li>
+<li class="steps"><p class="p">Turn the switch on in the dialog and pick the keyboard shortcut you want to use.</p></li>
+<li class="steps"><p class="p">Tick the checkbox of the key that you want to set as the Compose key.</p></li>
+<li class="steps"><p class="p">Close the <span class="gui">Tweaks</span> window.</p></li>
 </ol></div>
 </div></div>
 <p class="p">Compose キーを使って、よく使用される文字を入力できます。たとえば次のとおりです。</p>
@@ -117,7 +117,12 @@
 <div class="hgroup"><h2 class="title"><span class="title">コードポイント</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">任意の Unicode 文字は、その文字の数値表現のコードポイントをキーボードでタイプすることにより入力できます。文字は、4 桁のコードポイントで識別されます (訳注: 5 桁以上のコードポイントを持つ文字も存在します)。コードポイントを調べるには、文字マップツールで文字を特定し、ステータスバーかあるいは<span class="gui">文字の詳細</span>タブを参照してください。コードポイントは、<span class="gui">U+</span> の後ろの 4 桁の文字列です。</p>
-<p class="p">コードポイントを使って文字を入力するには、<span class="key"><kbd>Ctrl</kbd></span> および <span class="key"><kbd>Shift</kbd></span> を押しながら、<span class="key"><kbd>U</kbd></span> キーを押し、続いて対象のコードポイントをタイプし、その後 <span class="key"><kbd>Ctrl</kbd></span> と <span class="key"><kbd>Shift</kbd></span> を離します。他の方法では簡単に入力できない文字をよく使用するのであれば、その文字のコードポイントを記憶し、すぐに入力できるようにしておくと良いでしょう。</p>
+<p class="p">To enter a character by its code point, hold down <span class="key"><kbd>Ctrl</kbd></span> and
+  <span class="key"><kbd>Shift</kbd></span>, type <span class="key"><kbd>U</kbd></span> followed by the four-character code
+  point, then release <span class="key"><kbd>Ctrl</kbd></span> and <span class="key"><kbd>Shift</kbd></span>. If you often use
+  characters that you can’t easily access with other methods, you might find
+  it useful to memorize the code point for those characters so you can enter
+  them quickly.</p>
 </div></div>
 </div></div>
 <div id="layout" class="sect"><div class="inner">

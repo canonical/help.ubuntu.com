@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Afdrukken</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="printing-inklevel.html" title="How can I check my printer's ink or toner levels?"><span class="title">How can I check my printer's ink or toner levels?</span><span class="linkdiv-dash"> — </span><span class="desc">Check the amount of ink or toner left in printer cartridges.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-to-file.html" title="Print to file"><span class="title">Print to file</span><span class="linkdiv-dash"> — </span><span class="desc">Save a document as a PDF, PostScript or SVG file instead of sending
+<div class="linkdiv "><a class="linkdiv" href="printing-inklevel.html" title="How can I check my printer’s ink or toner levels?"><span class="title">How can I check my printer’s ink or toner levels?</span><span class="linkdiv-dash"> — </span><span class="desc">Controleer de hoeveelheid inkt of toner er nog in de printer cartridges zit.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-to-file.html" title="Naar bestand afdrukken"><span class="title">Naar bestand afdrukken</span><span class="linkdiv-dash"> — </span><span class="desc">Save a document as a PDF, PostScript or SVG file instead of sending
     it to a printer.</span></a></div>
 </div></div></div></div>
 <div id="setup" class="sect"><div class="inner">
@@ -58,10 +58,10 @@
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="printing-setup.html" title="Een lokale printer instellen"><span class="title">Een lokale printer instellen</span><span class="linkdiv-dash"> — </span><span class="desc">Een printer die aangesloten is op uw computer instellen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-name-location.html" title="Change the name or location of a printer"><span class="title">Change the name or location of a printer</span><span class="linkdiv-dash"> — </span><span class="desc">Change the name or location of a printer in the printer
+<div class="linkdiv "><a class="linkdiv" href="printing-name-location.html" title="De naam of locatie van een printer wijzigen"><span class="title">De naam of locatie van een printer wijzigen</span><span class="linkdiv-dash"> — </span><span class="desc">Change the name or location of a printer in the printer
     settings.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-setup-default-printer.html" title="De standaard printer instellen"><span class="title">De standaard printer instellen</span><span class="linkdiv-dash"> — </span><span class="desc">Kies de printer die u het meest gebruikt.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-setup-default-printer.html" title="De standaardprinter instellen"><span class="title">De standaardprinter instellen</span><span class="linkdiv-dash"> — </span><span class="desc">Kies de printer die u het meest gebruikt.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="paper" class="sect"><div class="inner">
@@ -86,7 +86,7 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-cancel-job.html" title="Cancel, pause or release a print job"><span class="title">Cancel, pause or release a print job</span><span class="linkdiv-dash"> — </span><span class="desc">Een afdruktaak in de wacht annuleren en hem uit de wachtrij verwijderen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-cancel-job.html" title="Een printopdracht annuleren, pauzeren, of vrijgeven"><span class="title">Een printopdracht annuleren, pauzeren, of  vrijgeven</span><span class="linkdiv-dash"> — </span><span class="desc">Een afdruktaak in de wacht annuleren en hem uit de wachtrij verwijderen.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="printing-paperjam.html" title="Papier dat vastzit vrijmaken"><span class="title">Papier dat vastzit vrijmaken</span><span class="linkdiv-dash"> — </span><span class="desc">Hoe u papier dat vastzit kunt vrijmaken hangt af van het merk en model van uw printer.</span></a></div>
 </div>
 <div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-streaks.html" title="Waarom zie ik strepen, lijnen of de verkeerde kleuren op mijn afdrukken?"><span class="title">Waarom zie ik strepen, lijnen of de verkeerde kleuren op mijn afdrukken?</span><span class="linkdiv-dash"> — </span><span class="desc">Als afdrukken streperig of vaag zijn, of als er kleuren ontbreken, controleer dan de inktniveaus of maak de printkop schoon.</span></a></div></div>
@@ -95,7 +95,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">Meer informatie</span></h3></div>
-<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="Common problems">Hardware problems</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="Veel voorkomende problemen">Hardwareproblemen</a></li></ul></div>
 </div></div></div>
 </div>
 </div>
@@ -105,14 +105,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="Hardware &amp; drivers">Hardware &amp; drivers</a><span class="desc"> — 
-      <span class="link"><a href="hardware.html#problems" title="Common problems">Hardware problems</a></span>,
-      <span class="link"><a href="printing.html" title="Afdrukken">printers</a></span>,
-      <span class="link"><a href="power.html" title="Power &amp; battery">power settings</a></span>,
-      <span class="link"><a href="color.html" title="Color management">color management</a></span>,
-      <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>,
-      <span class="link"><a href="disk.html" title="Disks &amp; storage">disks</a></span>…
-    </span>
+<a href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware &amp; stuurprogramma's</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Veel voorkomende problemen">Hardware problemen</a></span>, <span class="link"><a href="printing.html" title="Afdrukken">printers</a></span>, <span class="link"><a href="power.html" title="Voeding &amp; accu">energie-instellingen</a></span>, <span class="link"><a href="color.html" title="Kleurbeheer">kleurbeheer</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disks.html" title="disks">schijven</a></span>...</span>
 </li></ul></div>
 </div></div></div>
 </div>

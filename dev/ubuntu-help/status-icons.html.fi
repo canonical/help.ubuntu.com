@@ -52,59 +52,59 @@
 <p class="p">This section explains the meaning of icons located on the top right corner of the screen. More specifically, the different variations of the icons provided by the GNOME interface are described.</p>
 <div class="media media-image floatend"><div class="inner"><img src="figures/top-bar-icons.png" class="media media-block" alt="Gnome-työpöydän yläpalkki"></div></div>
 <div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="status-icons.html#universalicons" title="Universal Access Menu Icons">Universal Access Menu Icons</a></li>
-<li class="links "><a href="status-icons.html#audioicons" title="Volume Control Icons">Volume Control Icons</a></li>
-<li class="links "><a href="status-icons.html#bluetoothicons" title="Bluetooth Manager Icons">Bluetooth Manager Icons</a></li>
-<li class="links "><a href="status-icons.html#networkicons" title="Network Manager Icons">Network Manager Icons</a></li>
-<li class="links "><a href="status-icons.html#batteryicons" title="Power Manager Icons">Power Manager Icons</a></li>
+<li class="links "><a href="status-icons.html#universalicons" title="Esteettömyysvalikon kuvakkeet">Esteettömyysvalikon kuvakkeet</a></li>
+<li class="links "><a href="status-icons.html#audioicons" title="Äänenvoimakkuuden kuvakkeet">Äänenvoimakkuuden kuvakkeet</a></li>
+<li class="links "><a href="status-icons.html#bluetoothicons" title="Bluetooth-hallinnan kuvakkeet">Bluetooth-hallinnan kuvakkeet</a></li>
+<li class="links "><a href="status-icons.html#networkicons" title="Verkonhallinnan kuvakkeet">Verkonhallinnan kuvakkeet</a></li>
+<li class="links "><a href="status-icons.html#batteryicons" title="Virranhallinnan kuvakkeet">Virranhallinnan kuvakkeet</a></li>
 </ul></div></div></div>
 </div>
 <div id="universalicons" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Universal Access Menu Icons</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Esteettömyysvalikon kuvakkeet</span></h2></div>
 <div class="region"><div class="contents"><div class="table"><div class="inner"><div class="region"><table class="table"><tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/preferences-desktop-accessibility-symbolic.svg" class="media media-block" alt=""></div></div></td>
 <td><p class="p">Leads to a menu that turns on accessibility settings.</p></td>
 </tr></table></div></div></div></div></div>
 </div></div>
 <div id="audioicons" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Volume Control Icons</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Äänenvoimakkuuden kuvakkeet</span></h2></div>
 <div class="region"><div class="contents"><div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/audio-volume-high-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The volume is set to high.</p></td>
+<td><p class="p">Äänenvoimakkuus on asetettu suurelle.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/audio-volume-medium-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The volume is set to medium.</p></td>
+<td><p class="p">Äänenvoimakkuus on asetettu keskitasolle.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/audio-volume-low-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The volume is set to low.</p></td>
+<td><p class="p">Äänenvoimakkuus on asetettu matalalle.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/audio-volume-muted-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The volume is muted.</p></td>
+<td><p class="p">Äänenvoimakkuus on vaimennettu.</p></td>
 </tr>
 </table></div></div></div></div></div>
 </div></div>
 <div id="bluetoothicons" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Bluetooth Manager Icons</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Bluetooth-hallinnan kuvakkeet</span></h2></div>
 <div class="region"><div class="contents"><div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/bluetooth-active-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Bluetooth has been activated.</p></td>
+<td><p class="p">Bluetooth on aktivoitu.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/bluetooth-disabled-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Bluetooth has been disabled.</p></td>
+<td><p class="p">Bluetooth on pois käytöstä.</p></td>
 </tr>
 </table></div></div></div></div></div>
 </div></div>
 <div id="networkicons" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Network Manager Icons</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Verkonhallinnan kuvakkeet</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p"></p>
-<p class="p"><span class="app">Cellular Connection</span></p>
+<p class="p"><span class="app">Mobiiliyhteys</span></p>
 <div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-cellular-3g-symbolic.svg" class="media media-block" alt=""></div></div></td>
@@ -136,23 +136,23 @@
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-cellular-signal-excellent-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Very high signal strength.</p></td>
+<td><p class="p">Erittäin vahva signaalin voimakkuus.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-cellular-signal-good-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">High signal strength.</p></td>
+<td><p class="p">Vahva signaalin voimakkuus.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-cellular-signal-ok-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Medium signal strength.</p></td>
+<td><p class="p">Keskitason signaalin voimakkuus.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-cellular-signal-weak-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Low signal strength.</p></td>
+<td><p class="p">Matala signaalin voimakkuus.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-cellular-signal-none-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Extremely low signal strength.</p></td>
+<td><p class="p">Erittäin matala signaalin voimakkuus.</p></td>
 </tr>
 </table></div></div></div>
 <p class="p"><span class="app">Local Area Network (LAN) Connection</span></p>
@@ -209,10 +209,10 @@
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-wired-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Connected to a wired network.</p></td>
+<td><p class="p">Yhdistetty langalliseen verkkoon.</p></td>
 </tr>
 </table></div></div></div>
-<p class="p"><span class="app">Wireless Connection</span></p>
+<p class="p"><span class="app">Langaton yhteys</span></p>
 <div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-wireless-acquiring-symbolic.svg" class="media media-block" alt=""></div></div></td>
@@ -220,37 +220,37 @@
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-wireless-encrypted-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The wireless network is encrypted.</p></td>
+<td><p class="p">Langaton verkko on salattu.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-wireless-connected-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Connected to a wireless network.</p></td>
+<td><p class="p">Yhdistetty langattomaan verkkoon.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-wireless-signal-excellent-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Very high signal strength.</p></td>
+<td><p class="p">Erittäin vahva signaalin voimakkuus.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-wireless-signal-good-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">High signal strength.</p></td>
+<td><p class="p">Vahva signaalin voimakkuus.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-wireless-signal-ok-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Medium signal strength.</p></td>
+<td><p class="p">Keskitason signaalin voimakkuus.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-wireless-signal-weak-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Low signal strength.</p></td>
+<td><p class="p">Matala signaalin voimakkuus.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-wireless-signal-none-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Very low signal strength.</p></td>
+<td><p class="p">Erittäin matala signaalin voimakkuus.</p></td>
 </tr>
 </table></div></div></div>
 </div></div>
 </div></div>
 <div id="batteryicons" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Power Manager Icons</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Virranhallinnan kuvakkeet</span></h2></div>
 <div class="region"><div class="contents"><div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/battery-full-symbolic.svg" class="media media-block" alt=""></div></div></td>
@@ -266,11 +266,11 @@
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/battery-caution-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Caution: The battery is very low.</p></td>
+<td><p class="p">Varoitus: Akun lataus on hyvin matala.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/battery-empty-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The battery is extremely low.</p></td>
+<td><p class="p">Akun lataus on erittäin matala.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/battery-missing-symbolic.svg" class="media media-block" alt=""></div></div></td>

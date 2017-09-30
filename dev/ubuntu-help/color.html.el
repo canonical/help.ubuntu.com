@@ -73,9 +73,9 @@
 <div class="hgroup"><h2 class="title"><span class="title">Βαθμονόμηση</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
+<div class="linkdiv "><a class="linkdiv" href="color-calibrationcharacterization.html" title="What’s the difference between calibration and characterization?"><span class="title">What’s the difference between calibration and characterization?</span><span class="linkdiv-dash"> — </span><span class="desc">Η βαθμονόμηση και ο χαρακτηρισμός είναι πλήρως διαφορετικά πράγματα.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-why-calibrate.html" title="Γιατί πρέπει να κάνω τη βαθμονόμηση μόνος μου;"><span class="title">Γιατί πρέπει να κάνω τη βαθμονόμηση μόνος μου;</span><span class="linkdiv-dash"> — </span><span class="desc">Η βαθμονόμηση είναι σημαντική εάν ενδιαφέρεστε για τα χρώματα που εμφανίζονται ή τυπώνονται.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-canshareprofiles.html" title="Μπορώ να κάνω διαμοιραστώ το προφίλ χρώματός μου;"><span class="title">Μπορώ να κάνω διαμοιραστώ το προφίλ χρώματός μου;</span><span class="linkdiv-dash"> — </span><span class="desc">Η κοινή χρήση προφίλ χρώματος δεν είναι ποτέ καλή ιδέα καθώς το υλικό αλλάζει με τον χρόνο.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrationcharacterization.html" title="Ποια είναι η διαφορά μεταξύ βαθμονόμησης και χαρακτηρισμού;"><span class="title">Ποια είναι η διαφορά μεταξύ βαθμονόμησης και χαρακτηρισμού;</span><span class="linkdiv-dash"> — </span><span class="desc">Η βαθμονόμηση και ο χαρακτηρισμός είναι πλήρως διαφορετικά πράγματα.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-calibrationdevices.html" title="Ποια όργανα μέτρησης χρώματος υποστηρίζονται;"><span class="title">Ποια όργανα μέτρησης χρώματος υποστηρίζονται;</span><span class="linkdiv-dash"> — </span><span class="desc">Υποστηρίζονται μεγάλος αριθμός συσκευών βαθμονόμησης.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-calibrationtargets.html" title="Ποιοι τύποι προορισμού υποστηρίζονται;"><span class="title">Ποιοι τύποι προορισμού υποστηρίζονται;</span><span class="linkdiv-dash"> — </span><span class="desc">Προορισμοί βαθμονόμησης απαιτούνται για τη δημιουργία προφίλ σαρωτή και κάμερας.</span></a></div>
 </div>
@@ -91,7 +91,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Προβλήματα</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-notspecifiededid.html" title="Γιατί τα προεπιλεγμένα προφίλ οθόνης δεν λήγουν;"><span class="title">Γιατί τα προεπιλεγμένα προφίλ οθόνης δεν λήγουν;</span><span class="linkdiv-dash"> — </span><span class="desc">Τα προεπιλεγμένα προφίλ οθόνης δεν έχουν ημερομηνία βαθμονόμησης.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-notspecifiededid.html" title="Why don’t the default monitor profiles have a calibration expiry?"><span class="title">Why don’t the default monitor profiles have a calibration expiry?</span><span class="linkdiv-dash"> — </span><span class="desc">Τα προεπιλεγμένα προφίλ οθόνης δεν έχουν ημερομηνία βαθμονόμησης.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-notifications.html" title="Μπορώ να ειδοποιηθώ όταν το προφίλ χρώματός μου είναι ανακριβές;"><span class="title">Μπορώ να ειδοποιηθώ όταν το προφίλ χρώματός μου είναι ανακριβές;</span><span class="linkdiv-dash"> — </span><span class="desc">Μπορείτε να ειδοποιηθείτε όταν το προφίλ χρώματος είναι παλιό και ακριβές.</span></a></div>
 </div>
 <div class="links-twocolumn">

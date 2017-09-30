@@ -56,14 +56,13 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Click the <span class="gui"><a href="shell-introduction.html#yourname" title="You and your computer">system menu</a></span>
     on the right side of the top bar.</p></li>
-<li class="steps"><p class="p">Click the settings button at the bottom left of the menu.</p></li>
+<li class="steps"><p class="p">Feu clic al botó de paràmetres situat al final esquerra del menú.</p></li>
 <li class="steps"><p class="p">Select the <span class="gui">Date &amp; Time</span> panel.</p></li>
 </ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-datetime.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="4">
 <li class="steps"><p class="p">Assegureu-vos que l'opció de <span class="gui">Fus horari automàtic</span> estigui desactivada, llavors feu clic a <span class="gui">Fus Horari</span> que es troba situat a sota.</p></li>
-<li class="steps"><p class="p">Click on your location on the world map. This selects your current
-     city, which you can also search for in the search box above the map.</p></li>
+<li class="steps"><p class="p">Podeu establir la vostra ciutat actual bé seleccionant-la sobre el mapa o bé fent servir el quadre de cerca situat a la part superior del mateix mapa.</p></li>
 <li class="steps"><p class="p">Close the world map window to go back to the <span class="gui">Date &amp;
      Time</span>.</p></li>
 <li class="steps"><p class="p">Assegureu-vos que l'opció de <span class="gui">Data i hora automàtiques</span> estigui desactivada, llavors feu clic a <span class="gui">Data i hora</span> per obrir la finestra de <span class="gui">Data i hora</span>. En aquesta finestra podeu ajustar la data i l'hora fent servir els botons de <span class="gui">+</span> o <span class="gui">-</span>.</p></li>

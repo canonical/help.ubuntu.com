@@ -64,7 +64,12 @@
 <div class="hgroup"><h2 class="title"><span class="title">Zaklepanje zaslona</span></h2></div>
 <div class="region">
 <div class="contents">
-<p class="p">Če za kratek čas zapuščate računalnik, zaklenite zaslon in s tem drugim ljudem preprečite dostop do svojih datotek in izvajajočih se programov. Ko se vrnete,  dvignite zaveso <span class="link"><a href="shell-lockscreen.html" title="Zakleni zaslon">zaklepa zaslona</a></span> in vnesite svoje geslo za ponovno prijavo. Če svojega zaslona ne zaklenete, se bo po določenem času samodejno zaklenil. </p>
+<p class="p">If you’re leaving your computer for a short time, you should lock your
+  screen to prevent other people from accessing your files or running
+  applications. When you return, raise the
+  <span class="link"><a href="shell-lockscreen.html" title="Zakleni zaslon">lock screen</a></span> curtain and enter your
+  password to log back in. If you don’t lock your screen, it will lock
+  automatically after a certain amount of time.</p>
 <p class="p">To lock your screen, click the system menu on the right side of the top
   bar and press the lock screen button at the bottom of the menu.</p>
 <p class="p">When your screen is locked, other users can log in to their own accounts
@@ -96,12 +101,12 @@
 <p class="p">To save power, suspend your computer when you are not using it. If you use
   a laptop, GNOME, by default, suspends your computer automatically when you
   close the lid.
-  This saves your state to your computer's memory and powers off most of the
-  computer's functions. A very small amount of power is still used during
+  This saves your state to your computer’s memory and powers off most of the
+  computer’s functions. A very small amount of power is still used during
   suspend.</p>
 <p class="p">To suspend your computer manually, click the system menu on the right side
-  of the top bar and hold down the <span class="key"><kbd>Alt</kbd></span> key. The power off button
-  will change to suspend. Press the button.</p>
+  of the top bar. From there you may either hold down the <span class="key"><kbd>Alt</kbd></span> key and 
+  click the power off button, or simply long-click the power off button.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

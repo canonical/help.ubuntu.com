@@ -85,7 +85,11 @@
 <p class="p">Olle a lista de dispositivos que se mostra e busque calquera que este marcado como <span class="code">Network controller</span> ou <span class="code">Ethernet controller</span>. Algúns dispositivos poderían estar marcados deste xeito. O que corresponda co seu adaptador sen fíos podería incluír as palabras como <span class="code">sen fíos</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> ou <span class="code">802.11</span>. A continuación móstrase un exemplo de entrada á que se podería parecer:</p>
 <div class="code"><pre class="contents ">Network controller: Intel Corporation PRO/Wireless 3945ABG [Golan] Network Connection</pre></div>
 </li>
-<li class="steps"><p class="p">Se atopou o seu dispositivo na lista, proceda co <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Resolución de problemas en redes sen fíos">paso de controladores de dispositivos</a></span>. Se non atopou nada relativo aso seu adaptador sen fíos, consulte <span class="link"><a href="#not-recognized" title="O adaptador sen fíos non se recoñeceu">as instrucións de máis embaixo</a></span>.</p></li>
+<li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
+      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Resolución de problemas en redes sen fíos">Device Drivers
+      step</a></span>. If you didn’t find anything related to your wireless
+      adapter, see
+      <span class="link"><a href="#not-recognized" title="O adaptador sen fíos non se recoñeceu">the instructions below</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -99,7 +103,11 @@
 <p class="p">Observe a lista de dispositivos que se mostran e busque calquera que se refira a unha rede sen fíos. O correspondente ao seu adaptador sen fíos debe incluír palabras tales como <span class="code">wireless</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> ou <span class="code">802.11</span>. Aquí ten un exemplo de como pode ser a entrada:</p>
 <div class="code"><pre class="contents ">Bus 005 Device 009: ID 12d1:140b Huawei Technologies Co., Ltd. EC1260 Wireless Data Modem HSD USB Card</pre></div>
 </li>
-<li class="steps"><p class="p">Se atopou o seu dispositivo na lista, proceda co <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Resolución de problemas en redes sen fíos">paso de controladores de dispositivos</a></span>. Se non atopou nada relativo aso seu adaptador sen fíos, consulte <span class="link"><a href="#not-recognized" title="O adaptador sen fíos non se recoñeceu">as instrucións de máis embaixo</a></span>.</p></li>
+<li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
+      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Resolución de problemas en redes sen fíos">Device Drivers
+      step</a></span>. If you didn’t find anything related to your wireless
+      adapter, see
+      <span class="link"><a href="#not-recognized" title="O adaptador sen fíos non se recoñeceu">the instructions below</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -112,11 +120,17 @@
 <li class="steps">
 <p class="p">Abra o terminal e escriba o seguinte, logo prema <span class="key"><kbd>Intro</kbd></span>.</p>
 <div class="code"><pre class="contents ">tail -f /var/log/messages</pre></div>
-<p class="p">Isto mostrará unha lista de mensaxes relacionados co hardware do seu computador, e actualizarase automaticamente se algo relacionado co seu hardware cambia.</p>
+<p class="p">This will display a list of messages related to your computer’s
+      hardware, and will automatically update if anything to do with your
+      hardware changes.</p>
 </li>
 <li class="steps"><p class="p">Introduza o seu adaptador sen fíos n aranura PCMCIA e comprobe que cambia na xanela do terminal. Os cambios deerían incluir algunha información sobre o seu adaptador sen fíos. Míreos e vexa se pode identificalos.</p></li>
 <li class="steps"><p class="p">Para deter a orde que se está executando na terminal, prema <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span>. Feito isto, pode pechar a terminal se quere.</p></li>
-<li class="steps"><p class="p">Se atopou algunha información sobre o seu adaptador de rede sen fíos, proceda ao <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Resolución de problemas en redes sen fíos">paso Controladores de dispositivo</a></span>. Se non atopou ningunha información relacionada ao seu adaptador de rede sen fíos, vexa <span class="link"><a href="#not-recognized" title="O adaptador sen fíos non se recoñeceu">as instrucións de embaixo</a></span>.</p></li>
+<li class="steps"><p class="p">If you found any information about your wireless adapter, proceed to
+      the <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Resolución de problemas en redes sen fíos">Device
+      Drivers step</a></span>. If you didn’t find anything related to your wireless
+      adapter, see <span class="link"><a href="#not-recognized" title="O adaptador sen fíos non se recoñeceu">the instructions
+      below</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -127,7 +141,9 @@
   properly or the correct drivers may not be installed for it. How you check to
   see if there are any drivers you can install will depend on which Linux
   distribution you are using (like Ubuntu, Arch, Fedora or openSUSE).</p>
-<p class="p">Para obter axuda específica vexa as opcións de asistencia no sitio web da súa distribución. Hai distintas opcións que podería incluír desde roldas de correo electrónico até chats en liña onde poida preguntar sobre o seu adaptador de rede, por exemplo.</p>
+<p class="p">To get specific help, look at the support options on your distribution’s
+  website. These might include mailing lists and web chats where you can ask
+  about your wireless adapter, for example.</p>
 </div></div>
 </div></div>
 <div class="links nextlinks">

@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Starting Contacts for the first time</title>
+<title>Contacten voor de eerste keer starten</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,30 +43,22 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="contacts.html" title="Contacts">Contacts</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="contacts.html" title="Contacten">Contacten</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Starting Contacts for the first time</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Contacten voor de eerste keer starten</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">When you run <span class="app">Contacts</span> for the first time, the <span class="gui">Select
-  Address Book</span> window opens.</p>
-<p class="p">If you have <span class="link"><a href="accounts.html" title="Online accounts">online accounts</a></span> configured, they
-  are listed with <span class="gui">Local Address Book</span>. Select an item from the
-  list and click <span class="gui">Done</span>. All new contacts you create
-  will be saved to the address book you choose. You are also able to view and
-  edit contacts in other address books.</p>
-<p class="p">If you have no online accounts configured, click
-  <span class="gui">Online Accounts</span> to begin the setup. If you do not
-  wish to set up online accounts at this time, click <span class="gui">Local
-  Address Book</span>.</p>
+<p class="p">Wanneer u <span class="app">Contacten</span> voor de eerste keer start, zal het venster <span class="gui">Adresboek selecteren</span> geopend worden.</p>
+<p class="p">Als u <span class="link"><a href="accounts.html" title="Online-accounts">online-accounts</a></span> geconfigureerd heeft, staan ze vermeld samen met <span class="gui">Lokaal adresboek</span>. Kies een item uit de lijst en klik op <span class="gui">Klaar</span>. Alle nieuwe contacten die u aanmaakt zullen opgeslagen worden in het adresboek dat u kiest. U kunt ook contacten bekijken en bewerken in andere adresboeken.</p>
+<p class="p">Als u geen online-accounts geconfigureerd heeft, klik dan op <span class="gui">Online-accounts</span> om het instellen te beginnen. Als u geen online-accounts wenst in te stellen op dit moment, klik dan op <span class="gui">Lokaal adresboek</span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="contacts.html" title="Contacts">Contacts</a><span class="desc"> — Access your contacts.</span>
+<a href="contacts.html" title="Contacten">Contacten</a><span class="desc"> — Toegang tot uw contacten.</span>
 </li></ul></div>
 </div></div></div>
 </div>

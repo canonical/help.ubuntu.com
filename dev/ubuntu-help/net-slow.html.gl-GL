@@ -54,7 +54,14 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
 <p class="p"><span class="em-bold em">Hora ocupada do día</span></p>
-<p class="p">Os fornecedores de servizos de interne normalmente configuran conexións de internet para que poidan ser usadas por varias persoas na mesma casa. Aínda que vostede se conecta de forma separada, mediante a súa liña de teléfono ou conexión por cable, a conexión co resto de internet na centraliña de teléfono é a mesma que vostede, polo que podería notar unha ralentización. Vostede ten máis probabilidade de que lle pase isto se os seus veciños tamén usan internet á vez (por exemplo, cara a noitiña).</p>
+<p class="p">Internet service providers commonly setup internet connections so that
+      they are shared between several households. Even though you connect
+      separately, through your own phone line or cable connection, the
+      connection to the rest of the internet at the telephone exchange might
+      actually be shared. If this is the case and lots of your neighbors are
+      using the internet at the same time as you, you might notice a slow-down.
+      You’re most likely to experience this at times when your neighbors are
+      probably on the internet (in the evenings, for example).</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Descargando moitas cousas á vez</span></p>
@@ -66,15 +73,27 @@
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Sinal de conexión sen fíos baixa</span></p>
-<p class="p">Se está conectado a Internet en modo sen fíos (Wi-Fi), comprobe a icona de rede na barra superior para ver se ten bo sinal sen fíos. Se non, Internet pode parecer lento pero non ten un sinal suficientemente forte.</p>
+<p class="p">If you’re connected to the internet by wireless (wifi), check the
+      network icon on the top bar to see if you have good wireless signal. If
+      not, the internet may be slow because you don’t have a very strong
+      signal.</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Usar unha conexión móbil a Internet</span></p>
-<p class="p">Se ten unha conexión a internet móbil e nota que vai lenta, pode estar nunha zona onde a recepción de sinal é baixa. Cando isto acontece, a conexión a internet cambiará automaticamente de unha conexión de «banda larga móbil» como 3G a unha conexión máis fiábel, pero máis lenta, como GPRS.</p>
+<p class="p">If you have a mobile internet connection and notice that it is slow,
+      you may have moved into an area where signal reception is poor. When this
+      happens, the internet connection will automatically switch from a fast
+      “mobile broadband” connection like 3G to a more reliable, but slower,
+      connection like GPRS.</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">O navegador web ten un problema</span></p>
-<p class="p">Algunhas veces os navegadores web atopan un problema que fai que se executen de forma lenta. Isto pode pasar por varias razóns - podería estar visitando un sitio web que ten moito tráfico ou por que tivo o navegador aberto durante moito tempo, por exemplo. Tente pechar as xanelas do seu navegador e logo abra un navegador de novo para ver se nota diferenza.</p>
+<p class="p">Sometimes web browsers encounter a problem that makes them run slow.
+      This could be for any number of reasons — you could have visited a
+      website that the browser struggled to load, or you might have had the
+      browser open for a long time, for example. Try closing all of the
+      browser’s windows and then opening the browser again to see if this makes
+      a difference.</p>
 </li>
 </ul></div></div></div>
 </div>
@@ -83,7 +102,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html" title="Problemas de rede">Problemas de rede</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Resolución de problemas en redes sen fíos">Resolución de erros en redes sen fíos</a></span>, <span class="link"><a href="net-wireless-find.html" title="Non podo ver a miña rede sen fíos na lista">atopar a súa rede sen fíos</a></span>…</span>
+<a href="net-problem.html" title="Problemas de rede">Problemas de rede</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Resolución de problemas en redes sen fíos">Resolución de erros en redes sen fíos</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">atopar a súa rede sen fíos</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

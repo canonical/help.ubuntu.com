@@ -72,7 +72,11 @@
 <p class="p">Some of the instructions in this guide ask you to type commands into the
     <span class="em">command line</span> (Terminal). You can find the <span class="app">Terminal</span> application in
     the <span class="gui">Activities</span> overview.</p>
-<p class="p">コマンドライン操作に慣れていなくても問題ありません。本ガイドではひとつひとつ順を追って説明します。次の点は覚えておいてください。コマンドは大文字と小文字を区別します (そのため、ここで説明するコマンドは<span class="em">そのまま</span>入力してください)。各コマンドは入力後に <span class="key"><kbd>Enter</kbd></span> キーを押して実行します。</p>
+<p class="p">If you are not familiar with using a command line, don’t worry — this
+    guide will direct you at each step. All you need to remember is that
+    commands are case-sensitive (so you must type them <span class="em">exactly</span> as they
+    appear here), and to press <span class="key"><kbd>Enter</kbd></span> after typing each command to
+    run it.</p>
 </div></div>
 </div></div>
 </div>
@@ -92,7 +96,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-connect.html" title="無線ネットワークに接続する">無線ネットワークに接続する</a><span class="desc"> — インターネットに接続する - 無線</span>
+<a href="net-wireless-connect.html" title="無線ネットワークに接続する">無線ネットワークに接続する</a><span class="desc"> — Get on the internet — wirelessly.</span>
 </li></ul></div>
 </div></div>
 </div>

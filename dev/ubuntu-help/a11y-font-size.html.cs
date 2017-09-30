@@ -57,7 +57,7 @@
 </ol></div></div></div>
 <p class="p">Případně můžete rychle změnit velikost textu kliknutím na <span class="link"><a href="a11y-icon.html" title="Vyhledání nabídky univerzálního přístupu">ikonu zpřístupnění</a></span> na horní liště a následným výběrem položky <span class="gui">Velký text</span>.</p>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">V řadě aplikací můžete zvětšit velikost textu kdykoliv zmáčknutím <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>+</kbd></span></span>. Zmenšit ji můžete zmáčknutím <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>-</kbd></span></span>.</p></div></div></div></div>
-<p class="p"><span class="gui">Velký text</span> zvětší velikost textu 1,2 krát. Pro větší, nebo naopak menší, text můžete použít <span class="app">Vylaďovací nástroj</span>.</p>
+<p class="p"><span class="gui">Velký text</span> zvětší velikost textu 1,2 krát. Pro větší, nebo naopak menší text můžete použít aplikaci <span class="app">Vyladění</span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

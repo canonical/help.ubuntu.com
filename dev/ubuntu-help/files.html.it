@@ -69,7 +69,8 @@
 <div class="hgroup"><h2 class="title"><span class="title">More file-related tasks</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-open.html" title="Aprire file con altre applicazioni"><span class="title">Aprire file con altre applicazioni</span><span class="linkdiv-dash"> — </span><span class="desc">Aprire un file usando un'applicazione non predefinita per quel tipo di file. È possibile inoltre cambiare quella predefinita.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-open.html" title="Aprire file con altre applicazioni"><span class="title">Aprire file con altre applicazioni</span><span class="linkdiv-dash"> — </span><span class="desc">Open files using an application that isn’t the default one for that
+    type of file. You can change the default too.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="nautilus-connect.html" title="Esplorare file su un server o una condivisione di rete"><span class="title">Esplorare file su un server o una condivisione di rete</span><span class="linkdiv-dash"> — </span><span class="desc">Visualizzare e modificare file su un altro computer tramite FTP, SSH, condivisione file di Windows o WebDAV.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="nautilus-prefs.html" title="Preferenze del gestore di file"><span class="title">Preferenze del gestore di file</span><span class="linkdiv-dash"> — </span><span class="desc">View and set preferences for the file browser.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-basic.html" title="Proprietà del file"><span class="title">Proprietà del file</span><span class="linkdiv-dash"> — </span><span class="desc">Visualizzare informazioni di base sui file, impostare i permessi e scegliere le applicazioni predefinite.</span></a></div>
@@ -81,7 +82,8 @@
 <div class="linkdiv "><a class="linkdiv" href="files-disc-write.html" title="Scrivere file su CD o DVD"><span class="title">Scrivere file su CD o DVD</span><span class="linkdiv-dash"> — </span><span class="desc">Mettere file e documenti su un CD o DVD vuoto usando un masterizzatore CD/DVD.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-share.html" title="Share files by email"><span class="title">Share files by email</span><span class="linkdiv-dash"> — </span><span class="desc">Easily transfer files to your email contacts from the file
     manager.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-lost.html" title="Trovare un file perso"><span class="title">Trovare un file perso</span><span class="linkdiv-dash"> — </span><span class="desc">Suggerimenti da seguire quando non si riesce a trovare un file creato o scaricato.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-lost.html" title="Trovare un file perso"><span class="title">Trovare un file perso</span><span class="linkdiv-dash"> — </span><span class="desc">Follow these tips if you can’t find a file you created or
+    downloaded.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html" title="Turn off or limit file history tracking"><span class="title">Turn off or limit file history tracking</span><span class="linkdiv-dash"> — </span><span class="desc">Stop or limit your computer from tracking your recently-used
     files.</span></a></div>
 </div>

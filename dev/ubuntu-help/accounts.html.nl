@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Online accounts</title>
+<title>Online-accounts</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,28 +43,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Online accounts</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Online-accounts</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can enter your login details for some online services, such as Google
-  and Facebook, into the <span class="app">Online Accounts</span> window. This lets you use
-  applications to access online services like email, calendars, chat, and
-  documents.</p>
+<p class="p">U kunt uw aanmeldgegevens voor online-diensten, zoals Google en Facebook, invoeren in het <span class="app">Online-accounts</span>-venster. Hierdoor kunnen toepassingen toegang krijgen tot online diensten zoals e-mail, agenda, chatten en documenten.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="accounts-add.html" title="Add an account"><span class="title">Add an account</span><span class="linkdiv-dash"> — </span><span class="desc">Allow applications to access your accounts online for photos,
-    contacts, calendars, and more.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-remove.html" title="Remove an account"><span class="title">Remove an account</span><span class="linkdiv-dash"> — </span><span class="desc">Remove access to an online service provider from your
-    applications.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-whyadd.html" title="Why add an account?"><span class="title">Why add an account?</span><span class="linkdiv-dash"> — </span><span class="desc">Why add your email or social media accounts to your desktop?</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-disable-service.html" title="Control which online services an account can be used to access"><span class="title">Control which online services an account can be used to access</span><span class="linkdiv-dash"> — </span><span class="desc">Some online accounts can be used to access multiple services (like
-    calendar and email). You can control which of these services can be used by
-    applications.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-which-application.html" title="Online services and applications"><span class="title">Online services and applications</span><span class="linkdiv-dash"> — </span><span class="desc">Applications can use the accounts created in <span class="app">Online
-    Accounts</span> and the services they exploit.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-provider-not-available.html" title="Why is my account type not on the list?"><span class="title">Why is my account type not on the list?</span><span class="linkdiv-dash"> — </span><span class="desc">What if an online service provider is not listed?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-add.html" title="Een account toevoegen"><span class="title">Een account toevoegen</span><span class="linkdiv-dash"> — </span><span class="desc">Toepassingen toestaan om uw online-accounts te bereiken voor foto's, contacten, agenda's en meer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-remove.html" title="Een account verwijderen"><span class="title">Een account verwijderen</span><span class="linkdiv-dash"> — </span><span class="desc">De toegang van uw toepassingen tot een diensten-provider verwijderen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-whyadd.html" title="Waarom zou ik een account toevoegen?"><span class="title">Waarom zou ik een account toevoegen?</span><span class="linkdiv-dash"> — </span><span class="desc">Waarom uw accounts voor e-mail of sociale media aan uw bureaublad toevoegen?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-disable-service.html" title="Bepaal tot welke online diensten een account toegang geeft"><span class="title">Bepaal tot welke online diensten een account toegang geeft</span><span class="linkdiv-dash"> — </span><span class="desc">Bij sommige online-accounts kunt u meerdere diensten gebruiken (zoals agenda en e-mail). U kunt zelf bepalen welke van deze diensten gebruikt kunnen worden door uw lokale toepassingen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-which-application.html" title="Online-services en -toepassingen"><span class="title">Online-services en -toepassingen</span><span class="linkdiv-dash"> — </span><span class="desc">Toepassingen kunnen de in <span class="app">Online accounts</span> aangemaakte accounts gebruiken, en de diensten die zij benutten.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-provider-not-available.html" title="Waarom staat mijn accounttype niet in de lijst?"><span class="title">Waarom staat mijn accounttype niet in de lijst?</span><span class="linkdiv-dash"> — </span><span class="desc">Wat als een bepaalde provider voor online diensten niet in de lijst staat?</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -73,13 +65,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Gebruikers- &amp; systeeminstellingen</a><span class="desc"> — 
-      <span class="link"><a href="keyboard.html" title="Keyboard">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html" title="Mouse">mouse</a></span>,
-      <span class="link"><a href="prefs-display.html" title="Display &amp; screen">display</a></span>,
-      <span class="link"><a href="prefs-language.html" title="Region &amp; Language">languages</a></span>,
-      <span class="link"><a href="user-accounts.html" title="User accounts">user accounts</a></span>…
-    </span>
+<a href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Gebruikers- &amp; systeeminstellingen</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Toetsenbord">Toetsenbord</a></span>, <span class="link"><a href="mouse.html" title="Muis">muis</a></span>, <span class="link"><a href="prefs-display.html" title="Weergave &amp; scherm">beeldscherm</a></span>, <span class="link"><a href="prefs-language.html" title="Regio &amp; taal">talen</a></span>, <span class="link"><a href="user-accounts.html" title="Gebruikersaccounts">gebruikersaccounts</a></span>...</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

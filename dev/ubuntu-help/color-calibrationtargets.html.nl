@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Which target types are supported?</title>
+<title>Welke doeltypen worden ondersteund?</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,18 +44,16 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="color.html" title="Color management">Color management</a> › <a class="trail" href="color.html#calibration" title="Calibration">Calibration</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html#calibration" title="Kalibratie">Kalibratie</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="color.html" title="Color management">Color management</a> › <a class="trail" href="color.html#calibration" title="Calibration">Calibration</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html#calibration" title="Kalibratie">Kalibratie</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Which target types are supported?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Welke doeltypen worden ondersteund?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    The following types of targets are supported:
-  </p>
+<p class="p">De volgende doeltypen worden ondersteund:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">CMP DigitalTarget</p></li>
 <li class="list"><p class="p">ColorChecker 24</p></li>
@@ -67,15 +65,8 @@
 <li class="list"><p class="p">IT8.7/2</p></li>
 </ul></div></div></div>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents">
-<p class="p">
-      You can purchase targets from well-known vendors like KODAK, X-Rite
-      and LaserSoft in various online shops.
-    </p>
-<p class="p">
-      Alternatively you can buy
-      targets from <span class="link"><a href="http://www.targets.coloraid.de/" title="http://www.targets.coloraid.de/">Wolf Faust</a></span>
-      at a very fair price.
-    </p>
+<p class="p">U kunt doelen kopen van bekende leveranciers zoals KODAK, X-Rite en LaserSoft in verschillende online winkels .</p>
+<p class="p">U kunt ook doelen kopen bij <span class="link"><a href="http://www.targets.coloraid.de/" title="http://www.targets.coloraid.de/">Wolf Faust</a></span> voor een zeer redelijke prijs.</p>
 </div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -83,16 +74,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#calibration" title="Calibration">Calibration</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html#calibration" title="Kalibratie">Kalibratie</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-calibrate-camera.html" title="How do I calibrate my camera?">How do I calibrate my camera?</a><span class="desc"> — Calibrating your camera is important to capture accurate colors.</span>
+<a href="color-calibrate-camera.html" title="Hoe kalibreer ik mijn camera?">Hoe kalibreer ik mijn camera?</a><span class="desc"> — Kalibreren van uw camera is belangrijk om kleuren nauwkeurig vast te leggen.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-scanner.html" title="How do I calibrate my scanner?">How do I calibrate my scanner?</a><span class="desc"> — Calibrating your scanner is important to capture accurate colors.</span>
+<a href="color-calibrate-scanner.html" title="Hoe kalibreer ik mijn scanner">Hoe kalibreer ik mijn scanner</a><span class="desc"> — Kalibreren van uw scanner is belangrijk om kleuren nauwkeurig vast te leggen.</span>
 </li>
 </ul></div>
 </div></div>

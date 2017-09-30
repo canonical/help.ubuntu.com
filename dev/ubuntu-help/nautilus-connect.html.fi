@@ -44,7 +44,7 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Tiedostot, kansiot ja etsiminen">Tiedostot</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Tiedostot, kansiot ja etsiminen">Tiedostot</a> › <a class="trail" href="files.html#more-file-tasks" title="Lisää tiedostoihin liittyviä tehtäviä">Lisää tiedostoihin liittyviä tehtäviä</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » <a class="trail" href="sharing.html" title="Jakaminen">Jakaminen</a> » </div>
 </div>
@@ -59,7 +59,7 @@ application from the <span class="gui">Activities</span> overview, and click
 <span class="gui">Other Locations</span> in the sidebar. The file manager
 will find any computers on your local area network that advertize
 their ability to serve files. If you want to connect to a server
-on the internet, or if you do not see the computer you're looking
+on the internet, or if you do not see the computer you’re looking
 for, you can manually connect to a server by typing in its
 internet/network address.</p>
 <div class="steps"><div class="inner">
@@ -122,17 +122,10 @@ internet/network address.</p>
 </dd>
 <dt class="terms">Julkinen FTP</dt>
 <dd class="terms">
-<p class="p">Sites that allow you to download files will sometimes provide
-  public or anonymous FTP access. These servers do not require a
-  username and password, and will usually not allow you to delete
-  or upload files.</p>
+<p class="p">Tiedostojen latauksia tarjoavat palvelimet saattavat tarjota julkisen (anonyymin) FTP-yhteyden. Nämä palvelimet eivät vaadi käyttäjätunnusta ja salasanaa, eivätkä yleensä salli tiedostojen poistamista tai lähettämistä.</p>
 <p class="p">Tyypillinen anonyymi FTP-osoite näyttää tältä:</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ftp://ftp.esimerkkiosoite.fi/polku/</span></p></div></div></div></div>
-<p class="p">Some anonymous FTP sites require you to log in with a
-  public username and password, or with a public username using
-  your email address as the password. For these servers, use the
-  <span class="gui">FTP (with login)</span> method, and use the credentials
-  specified by the FTP site.</p>
+<p class="p">Jotkin anonyymi FTP-palvelimet edellyttävät sisäänkirjaantumisen julkisella käyttäjätunnuksella ja salasanalla, tai julkisella käyttäjätunnuksella käyttäen sähköpostiosoitettasi salasanana. Käytä <span class="gui">FTP (sisäänkirjauksella)</span> näille palvelimille, käyttäen FTP-palvelimen edellyttämiä tunnuksia.</p>
 </dd>
 <dt class="terms">Windows-jako</dt>
 <dd class="terms">
@@ -142,9 +135,13 @@ internet/network address.</p>
 </dd>
 <dt class="terms">WebDAV ja salattu WebDAV</dt>
 <dd class="terms">
-<p class="p">Internetissä käytettyyn HTTP-protokollaan perustuvaa WebDAVia käytetään toisinaan tiedostojen jakamiseen paikallisverkossa ja tiedostojen varastointiin internetissä. Käytäthän salattua yhteyttä, jos käyttämäsi WebDAV-palvelin tukee sitä. Salattu WebDAV-yhteys käyttää vahvaa SSL-salausta, jolloin muut käyttäjät eivät näe salasanaasi.</p>
+<p class="p">Based on the HTTP protocol used on the web, WebDAV is sometimes used to
+  share files on a local network and to store files on the internet. If the
+  server you’re connecting to supports secure connections, you should choose
+  this option. Secure WebDAV uses strong SSL encryption, so that other users
+  can’t see your password.</p>
 <p class="p">Tyypillinen WebDAV-osoite näyttää tältä:</p>
-<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">dav://example.hostname.com/path</span></p></div></div></div></div>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">dav://esimerkki.palvelin.fi/polku</span></p></div></div></div></div>
 </dd>
 <dt class="terms">NFS-jako</dt>
 <dd class="terms">
@@ -153,7 +150,7 @@ internet/network address.</p>
   the user accessing the share, so no authentication credentials are
   needed when connecting.</p>
 <p class="p">Tyypillisen NFS-jaon osoite näyttää tältä:</p>
-<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">nfs://servername/path</span></p></div></div></div></div>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">nfs://palvelin/polku</span></p></div></div></div></div>
 </dd>
 </dl></div></div></div>
 </div></div>
@@ -167,7 +164,7 @@ internet/network address.</p>
 <li class="links ">
 <a href="sharing.html" title="Jakaminen">Jakaminen</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Jaa työpöytäsi">Työpöydän jakaminen</a></span>, <span class="link"><a href="files-share.html" title="Jaa tiedostoja sähköpostitse">jaa tiedostoja sähköpostitse</a></span>, <span class="link"><a href="sharing-media.html" title="Jaa musiikkia, kuvia ja videoita">median jakaminen</a></span>…</span>
 </li>
-<li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li>
+<li class="links "><a href="files.html#more-file-tasks" title="Lisää tiedostoihin liittyviä tehtäviä">Lisää tiedostoihin liittyviä tehtäviä</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

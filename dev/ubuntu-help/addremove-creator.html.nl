@@ -44,7 +44,7 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="disk.html" title="Disks &amp; storage">Disks &amp; storage</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="disk.html" title="Schijven &amp; opslag">Schijven &amp; opslag</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Software toevoegen &amp; verwijderen">Software toevoegen/verwijderen</a> » </div>
 </div>
@@ -57,7 +57,9 @@
 <p class="p">Er wordt vanuit gegaan dat u een Ubuntu-ISO-imagebestand gedownload heeft.</p>
 <p class="p">Om een opstartschijf te maken van een Ubuntu-ISO-imagebestand:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open de toepassing <span class="app">Opstartschijf aanmaken</span> vanuit de <span class="gui">Snelzoeker</span>.</p></li>
+<li class="steps"><p class="p">
+        Open <span class="app">Startup Disk Creator</span> via the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">Als het ISO-bestand zich bevindt in uw <span class="gui">Download</span>-map, en als dat het enige ISO-bestand is, dan zal <span class="app">Opstartschijf aanmaken</span> dit bestand geselecteerd hebben; anders selecteert u het juiste ISO-bestand.</p></li>
 <li class="steps"><p class="p">Als uw computer slechts één usb-stick aangesloten heeft, dan zal <span class="app">Opstartschijf aanmaken</span> die geselecteerd hebben; anders kiest u de juiste schijf.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Maak een opstartschijf</span>.</p></li>
@@ -71,12 +73,7 @@
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="disk.html" title="Disks &amp; storage">Disks &amp; storage</a><span class="desc"> — 
-    <span class="link"><a href="disk-capacity.html" title="Check how much disk space is left">Disk space</a></span>,
-    <span class="link"><a href="disk-benchmark.html" title="Test the performance of your hard disk">performance</a></span>,
-    <span class="link"><a href="disk-check.html" title="Check your hard disk for problems">problems</a></span>,
-    <span class="link"><a href="disk-partitions.html" title="Manage volumes and partitions">volumes and partitions</a></span>…
-  </span>
+<a href="disk.html" title="Schijven &amp; opslag">Schijven &amp; opslag</a><span class="desc"> — <span class="link"><a href="disk-capacity.html" title="Controleer hoeveel schijfruimte er nog besschikbaar is">Schijfruimte</a></span>, <span class="link"><a href="disk-benchmark.html" title="De prestaties van u harde schijf testen">presentatie</a></span>, <span class="link"><a href="disk-check.html" title="Controleer of er problemen zijn met u harde schijf">problemen</a></span>, <span class="link"><a href="disk-partitions.html" title="Volumes en partities beheren">volumes en partities</a></span>...</span>
 </li>
 <li class="links ">
 <a href="addremove.html" title="Software toevoegen &amp; verwijderen">Software toevoegen &amp; verwijderen</a><span class="desc"> — <span class="link"><a href="addremove-install.html" title="Extra toepassingen installeren">Toepassingen installeren</a></span>, <span class="link"><a href="addremove-remove.html" title="Een toepassing verwijderen">toepassingen verwijderen</a></span>, <span class="link"><a href="addremove-sources.html" title="Softwarebronnen toevoegen">softwarebronnen toevoegen</a></span>…</span>

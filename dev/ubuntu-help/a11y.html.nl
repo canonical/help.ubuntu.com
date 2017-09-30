@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Universal access</title>
+<title>Universele toegang</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,113 +46,99 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Universal access</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Universele toegang</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">The GNOME desktop includes assistive technologies to support users with
-  various impairments and special needs, and to interact with common assistive
-  devices. An accessibility menu can be added to the top bar, giving easier
-  access to many of the accessibility features.</p>
-<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="a11y-icon.html" title="Find the universal access menu"><span class="title">Find the universal access menu</span><span class="linkdiv-dash"> — </span><span class="desc">The universal access menu is the icon on the top bar that looks like
-    a person.</span></a></div></div></div></div>
+<p class="p">Het Gnome-bureaublad bevat assisterende technologieën om gebruikers met een beperking en speciale behoeften te ondersteunen, en om te kunnen werken met algemene ondersteunende apparaten. Via het toegankelijkheidsmenu dat kan worden toegevoegd aan de bovenbalk, heeft u toegang tot veel van de toegankelijkheidsfuncties.</p>
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="a11y-icon.html" title="Het menu Universele toegang vinden"><span class="title">Het menu Universele toegang vinden</span><span class="linkdiv-dash"> — </span><span class="desc">Het menu Universele toegang is het pictogram op de bovenste balk dat eruit ziet als een persoon.</span></a></div></div></div></div>
 </div>
 <div id="vision" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Visual impairments</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Visuele beperkingen</span></h2></div>
 <div class="region"><div class="contents">
 <div class="links topiclinks"><div class="inner">
-<div class="title title-links"><h3><span class="title">Blindness</span></h3></div>
+<div class="title title-links"><h3><span class="title">Blindheid</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="a11y-screen-reader.html" title="Read screen aloud">Read screen aloud</a><span class="desc"> — Use the <span class="app">Orca</span> screen reader to speak the user
-    interface.</span>
+<a href="a11y-braille.html" title="Het scherm in braille lezen">Het scherm in braille lezen</a><span class="desc"> — Gebruik de schermlezer <span class="app">Orca</span> met een verversbaar braillescherm.</span>
 </li>
 <li class="links ">
-<a href="a11y-braille.html" title="Read screen in Braille">Read screen in Braille</a><span class="desc"> — Use the <span class="app">Orca</span> screen reader with a refreshable Braille
-    display.</span>
+<a href="a11y-screen-reader.html" title="Scherm hardop lezen">Scherm hardop lezen</a><span class="desc"> — Gebruik de <span class="app">Orca</span> schermlezer om de gebruikersinterface uit te spreken.</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links topiclinks"><div class="inner">
-<div class="title title-links"><h3><span class="title">Low vision</span></h3></div>
+<div class="title title-links"><h3><span class="title">Slechtziendheid</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="a11y-contrast.html" title="Adjust the contrast">Adjust the contrast</a><span class="desc"> — Make windows and buttons on the screen more (or less) vivid, so
-    they're easier to see.</span>
+<a href="a11y-contrast.html" title="Contrast aanpassen">Contrast aanpassen</a><span class="desc"> — Make windows and buttons on the screen more (or less) vivid, so
+    they’re easier to see.</span>
 </li>
 <li class="links ">
-<a href="a11y-font-size.html" title="Change text size on the screen">Change text size on the screen</a><span class="desc"> — Use larger fonts to make text easier to read.</span>
+<a href="a11y-font-size.html" title="De tekstgrootte op het scherm wijzigen">De tekstgrootte op het scherm wijzigen</a><span class="desc"> — Een groter lettertype gebruiken om het lezen van tekst te vergemakkelijken.</span>
 </li>
 <li class="links ">
-<a href="a11y-mag.html" title="Magnify a screen area">Magnify a screen area</a><span class="desc"> — Zoom in on your screen so that it is easier to see things.</span>
+<a href="keyboard-cursor-blink.html" title="De toetsenbordcursor laten knipperen">De toetsenbordcursor laten knipperen</a><span class="desc"> — De cursor laten knipperen en bepalen hoe snel deze knippert.</span>
 </li>
 <li class="links ">
-<a href="keyboard-cursor-blink.html" title="Make the keyboard cursor blink">Make the keyboard cursor blink</a><span class="desc"> — Make the insertion point blink and control how quickly it
-    blinks.</span>
+<a href="a11y-mag.html" title="Een schermgebied vergroten">Een schermgebied vergroten</a><span class="desc"> — Zoom in op uw scherm zodat u makkelijker dingen kunt zien.</span>
 </li>
 </ul></div>
 </div></div>
 </div></div>
 </div></div>
 <div id="sound" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Hearing impairments</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Gehoorbeperkingen</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><ul><li class="links ">
-<a href="a11y-visualalert.html" title="Flash the screen for alert sounds">Flash the screen for alert sounds</a><span class="desc"> — Enable visual alerts to flash the screen or window when an
-    alert sound is played.</span>
+<a href="a11y-visualalert.html" title="Scherm laten knipperen bij alerteringsgeluiden">Scherm laten knipperen bij alerteringsgeluiden</a><span class="desc"> — Visuele alertering inschakelen om het scherm of de titelbalk te laten knipperen wanneer er een alerteringsgeluid klinkt.</span>
 </li></ul></div></div></div></div></div>
 </div></div>
 <div id="mobility" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Mobility impairments</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Beperkte mobiliteit</span></h2></div>
 <div class="region">
 <div class="contents">
 <div class="links topiclinks"><div class="inner">
-<div class="title title-links"><h3><span class="title">Mouse movement</span></h3></div>
+<div class="title title-links"><h3><span class="title">Muisbeweging</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="mouse-sensitivity.html" title="Adjust speed of the mouse and touchpad">Adjust speed of the mouse and touchpad</a><span class="desc"> — Change how quickly the pointer moves when you use your mouse or
-    touchpad.</span>
-</li>
-<li class="links ">
-<a href="mouse-mousekeys.html" title="Click and move mouse pointer using the keypad">Click and move mouse pointer using the keypad</a><span class="desc"> — Enable mouse keys to control the mouse with the numeric
+<a href="mouse-mousekeys.html" title="De muisaanwijzer met behulp van het numerieke toetsenbord klikken en bewegen.">De muisaanwijzer met behulp van het numerieke toetsenbord klikken en bewegen.</a><span class="desc"> — Enable mouse keys to control the mouse with the numeric
     keypad.</span>
 </li>
-</ul></div>
-</div></div>
-<div class="links topiclinks"><div class="inner">
-<div class="title title-links"><h3><span class="title">Clicking and dragging</span></h3></div>
-<div class="region"><ul>
 <li class="links ">
-<a href="mouse-doubleclick.html" title="Adjust the double-click speed">Adjust the double-click speed</a><span class="desc"> — Control how quickly you need to press the mouse button
-    a second time to double-click.</span>
-</li>
-<li class="links ">
-<a href="a11y-right-click.html" title="Simulate a right mouse click">Simulate a right mouse click</a><span class="desc"> — Press and hold the left mouse button to right-click.</span>
-</li>
-<li class="links ">
-<a href="a11y-dwellclick.html" title="Simulate clicking by hovering">Simulate clicking by hovering</a><span class="desc"> — The <span class="gui">Hover Click</span> (Dwell Click) feature allows you to click
-    by holding the mouse still.</span>
+<a href="mouse-sensitivity.html" title="De snelheid van de muis en het touchpad aanpassen">De snelheid van de muis en het touchpad aanpassen</a><span class="desc"> — Wijzigen hoe snel de aanwijzer beweegt wanneer u de muis of touchpad gebruikt.</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links topiclinks"><div class="inner">
-<div class="title title-links"><h3><span class="title">Keyboard use</span></h3></div>
+<div class="title title-links"><h3><span class="title">Klikken en slepen</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard-nav.html" title="Keyboard navigation">Keyboard navigation</a><span class="desc"> — Use applications and the desktop without a mouse.</span>
+<a href="mouse-doubleclick.html" title="De dubbelkliksnelheid aanpassen">De dubbelkliksnelheid aanpassen</a><span class="desc"> — Bepalen hoe snel u de muisknop een tweede keer moet indrukken om te dubbelklikken.</span>
 </li>
 <li class="links ">
-<a href="keyboard-repeat-keys.html" title="Manage repeated key presses">Manage repeated key presses</a><span class="desc"> — Make the keyboard not repeat letters when you hold down a key,
-    or change the delay and speed of repeat keys.</span>
+<a href="a11y-right-click.html" title="Een rechtermuisklik simuleren">Een rechtermuisklik simuleren</a><span class="desc"> — Houd de linkermuisknop ingedrukt voor rechtsklikken.</span>
 </li>
 <li class="links ">
-<a href="a11y-bouncekeys.html" title="Turn on bounce keys">Turn on bounce keys</a><span class="desc"> — Ignore quickly-repeated key presses of the same key.</span>
+<a href="a11y-dwellclick.html" title="Klikken simuleren door erboven te zweven">Klikken simuleren door erboven te zweven</a><span class="desc"> — Met de functie <span class="gui">ZweefKlik</span> (Dwell Click) kunt u klikken door de muis stil te houden.</span>
+</li>
+</ul></div>
+</div></div>
+<div class="links topiclinks"><div class="inner">
+<div class="title title-links"><h3><span class="title">Toetsenbordgebruik</span></h3></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="keyboard-repeat-keys.html" title="Manage repeated key presses">Manage repeated key presses</a><span class="desc"> — Voorkom dat het toetsenbord letters herhaalt wanneer u een toets vasthoudt, of wijzig de vertraging en snelheid van herhaaltoetsen.</span>
 </li>
 <li class="links ">
-<a href="a11y-slowkeys.html" title="Turn on slow keys">Turn on slow keys</a><span class="desc"> — Have a delay between a key being pressed and that letter appearing on
-    the screen.</span>
+<a href="a11y-stickykeys.html" title="Plaktoetsen activeren">Plaktoetsen activeren</a><span class="desc"> — Sneltoetsen op het toetsenbord één voor één indrukken, in plaats van allemaal tegelijk.</span>
 </li>
 <li class="links ">
-<a href="a11y-stickykeys.html" title="Turn on sticky keys">Turn on sticky keys</a><span class="desc"> — Type keyboard shortcuts one key at a time rather than having to hold
-     down all of the keys at once.</span>
+<a href="a11y-bouncekeys.html" title="Springende toetsen inschakelen">Springende toetsen inschakelen</a><span class="desc"> — Snel herhaalde toetsaanslagen negeren.</span>
+</li>
+<li class="links ">
+<a href="keyboard-nav.html" title="Toetsenbordnavigatie">Toetsenbordnavigatie</a><span class="desc"> — Toepassingen en het bureaublad gebruiken zonder muis.</span>
+</li>
+<li class="links ">
+<a href="a11y-slowkeys.html" title="Trage toetsen inschakelen">Trage toetsen inschakelen</a><span class="desc"> — Zorgt voor een vertraging tussen het moment dat een toets ingedrukt wordt, en het moment dat deze letter op het scherm verschijnt.</span>
 </li>
 <li class="links ">
 <a href="keyboard-osk.html" title="Use an on-screen keyboard">Use an on-screen keyboard</a><span class="desc"> — Use an on-screen keyboard to enter text by clicking buttons with the
@@ -166,7 +152,7 @@
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">Zie ook</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-key-menu.html" title="What is the Menu key?">What is the <span class="key"><kbd>Menu</kbd></span> key?</a><span class="desc"> — The <span class="key"><kbd>Menu</kbd></span> key launches a context menu with the keyboard
+<a href="keyboard-key-menu.html" title="Wat is de Menu-toets?">Wat is de <span class="key"><kbd>Menu</kbd></span>-toets?</a><span class="desc"> — The <span class="key"><kbd>Menu</kbd></span> key launches a context menu with the keyboard
     rather than with a right-click.</span>
 </li></ul></div>
 </div></div></div>

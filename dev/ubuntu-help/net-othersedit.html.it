@@ -2,7 +2,7 @@
 <html lang=it>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Gli altri utenti non possono modificare le connessioni di rete</title>
+<title>Other users can’t edit the network connections</title>
 <link rel="stylesheet" type="text/css" href="it.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,11 +46,11 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html" title="Problemi di rete">Problemi di rete</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Gli altri utenti non possono modificare le connessioni di rete</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Other users can’t edit the network connections</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">If you can edit a network connection but other users on your computer
-  can't, you may have set the connection to be <span class="em">available to all users</span>.
+  can’t, you may have set the connection to be <span class="em">available to all users</span>.
   This makes it so that everyone on the computer can <span class="em">connect</span> using
   that connection.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
@@ -76,7 +76,7 @@
 <div class="region"><ul><li class="links ">
 <a href="net-problem.html" title="Problemi di rete">Problemi di rete</a><span class="desc"> — 
       <span class="link"><a href="net-wireless-troubleshooting.html" title="Risoluzione dei problemi relativi alle reti senza fili">Troubleshooting wireless connections</a></span>,
-      <span class="link"><a href="net-wireless-find.html" title="Non è possibile visualizzare la propria rete senza fili nell'elenco">finding your wifi network</a></span>…
+      <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">finding your wifi network</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -84,11 +84,11 @@
 <div class="title"><h2><span class="title">Confronta anche</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-othersconnect.html" title="Altri utenti non sono in grado di connettersi a Internet">Altri utenti non sono in grado di connettersi a Internet</a><span class="desc"> — Le impostazioni di una connessione di rete (come la password) possono essere salvate in modo tale da consentire la connessione a chiunque usi il computer.</span>
-</li>
-<li class="links ">
 <a href="user-admin-explain.html" title="Come funzionano i privilegi di amministrazione?">Come funzionano i privilegi di amministrazione?</a><span class="desc"> — You need administrative privileges to change important parts of your
     system.</span>
+</li>
+<li class="links ">
+<a href="net-othersconnect.html" title="Other users can’t connect to the internet">Other users can’t connect to the internet</a><span class="desc"> — Le impostazioni di una connessione di rete (come la password) possono essere salvate in modo tale da consentire la connessione a chiunque usi il computer.</span>
 </li>
 </ul></div>
 </div></div>

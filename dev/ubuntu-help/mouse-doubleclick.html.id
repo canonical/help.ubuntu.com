@@ -56,12 +56,11 @@
 <div class="region">
 <div class="contents">
 <p class="p">Double-clicking only happens when you press the mouse button twice
-quickly enough. If the second press is too long after the first, you'll
+quickly enough. If the second press is too long after the first, you’ll
 just get two separate clicks, not a double click. If you have difficulty
 pressing the mouse button quickly, you should increase the timeout.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span> overview and
-  start typing <span class="gui">Universal Access</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akses Universal</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Akses Universal</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Under <span class="gui">Pointing &amp; Clicking</span>, adjust the <span class="gui">Double-click</span>
   slider to a value you find comfortable.</p></li>

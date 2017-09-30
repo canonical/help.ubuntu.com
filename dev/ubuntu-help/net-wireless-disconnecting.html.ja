@@ -67,7 +67,12 @@
 <div id="network" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">ネットワーク接続が正しく確立されない</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">無線ネットワークに接続すると、最初は接続に成功したように見え直後に切断されてしまうことがあります。ネットワークに接続が成功したのはコンピューターの一部分だけだったことが原因でこのようなことが発生します。接続の確立までは成功したが何らかの理由で最終的な確定を行えず切断されてしまったということです。</p>
+<p class="p">Sometimes, when you connect to a wireless network, it may appear that you
+ have successfully connected at first, but then you will be disconnected soon
+ after. This normally happens because your computer was only partially
+ successful in connecting to the network — it managed to establish a connection,
+ but was unable to finalize the connection for some reason and so was
+ disconnected.</p>
 <p class="p">間違ったワイヤレスパスフレーズを入力した、使用しているコンピューターがネットワークでは許可されていなかった (ネットワークでログイン用のユーザー名の入力が求められた) などがその原因として考えられます。</p>
 </div></div>
 </div></div>
@@ -86,7 +91,7 @@
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-problem.html" title="ネットワーク関連の問題">ネットワーク関連の問題</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="無線ネットワークトラブルシューティング">無線接続トラブルシューティング</a></span>、<span class="link"><a href="net-wireless-find.html" title="一覧に自分の無線ネットワークが表示されません">wifi ネットワーク検索</a></span>…</span>
+<a href="net-problem.html" title="ネットワーク関連の問題">ネットワーク関連の問題</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="無線ネットワークトラブルシューティング">無線接続トラブルシューティング</a></span>、<span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">wifi ネットワーク検索</a></span>…</span>
 </li>
 <li class="links ">
 <a href="net-wireless.html" title="無線ネットワーク">無線ネットワーク</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="無線ネットワークに接続する">無線接続</a></span>、<span class="link"><a href="net-wireless-hidden.html" title="非表示設定の無線ネットワークに接続">非表示設定のネットワーク</a></span>、<span class="link"><a href="net-wireless-disconnecting.html" title="無線ネットワークが切断されてしまいます、なぜですか?">切断する</a></span>…</span>
@@ -96,7 +101,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-connect.html" title="無線ネットワークに接続する">無線ネットワークに接続する</a><span class="desc"> — インターネットに接続する - 無線</span>
+<a href="net-wireless-connect.html" title="無線ネットワークに接続する">無線ネットワークに接続する</a><span class="desc"> — Get on the internet — wirelessly.</span>
 </li></ul></div>
 </div></div>
 </div>

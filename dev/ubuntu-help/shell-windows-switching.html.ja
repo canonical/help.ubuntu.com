@@ -64,7 +64,6 @@
 <li class="steps"><p class="p">もしくは、<span class="key"><a href="keyboard-key-super.html" title="Super キーとは何ですか?"><kbd>Super</kbd></a></span> キーを押したままで、<span class="key"><kbd>Tab</kbd></span> を押すと、開いている各ウィンドウを順に切り替えていき、<span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> を押すと、逆の順序で切り替えます。</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="ヒント"><div class="inner"><div class="region"><div class="contents"><p class="p">ウィンドウスイッチャー上のウィンドウはアプリケーションごとにまとめられています。複数のウィンドウを持つアプリケーションをクリックすると、プレビューがポップダウンします。<span class="key"><a href="keyboard-key-super.html" title="Super キーとは何ですか?"><kbd>Super</kbd></a></span>を押しながら<span class="key"><kbd>`</kbd></span> キー (<span class="key"><kbd>Tab</kbd></span> の上にあるキー) を押すと、そのアプリケーションのウィンドウ間で切り替えます (訳注: 日本語キーボードの場合は、一般に <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>半角/全角</kbd></span></span>です)。</p></div></div></div></div>
-<div class="note" title="注記"><div class="inner"><div class="region"><div class="contents"><p class="p">ウィンドウスイッチャーでは、異なるワークスペースで開いているアプリケーションは縦線で区切られて表示されます。</p></div></div></div></div>
 <p class="p"><span class="key"><kbd>→</kbd></span> あるいは <span class="key"><kbd>←</kbd></span> キーでウィンドウスイッチャー上のアプリケーションアイコンを移動したり、あるいはマウスでクリックして選択することもできます。</p>
 <p class="p">ウィンドウを 1 つだけ持つアプリケーションのプレビューは、<span class="key"><kbd>↓</kbd></span> キーを押すと表示されます。</p>
 <p class="p">From the <span class="gui">Activities</span> overview, click on a

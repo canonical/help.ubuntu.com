@@ -79,7 +79,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="video-dvd.html" title="Γιατί δεν παίζει το DVD;">Γιατί δεν παίζει το DVD;</a><span class="desc"> — Μπορεί να μην έχετε τους σωστούς κωδικοποιητές-αποκωδικοποιητές εγκατεστημένους, ή το DVD μπορεί να είναι σε εσφαλμένη περιοχή.</span>
+<a href="video-dvd.html" title="Why won’t DVDs play?">Why won’t DVDs play?</a><span class="desc"> — Μπορεί να μην έχετε τους σωστούς κωδικοποιητές-αποκωδικοποιητές εγκατεστημένους, ή το DVD μπορεί να είναι σε εσφαλμένη περιοχή.</span>
 </li></ul></div>
 </div></div>
 </div>

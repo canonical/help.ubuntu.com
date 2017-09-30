@@ -49,7 +49,11 @@
 <div class="hgroup"><h1 class="title"><span class="title">Portos de rede usados frecuentemente</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Esta é unha lista de portos de rede usados normalmente por aplicativos que fornecen servizos de rede, como compartición de ficheiros ou visualización de escritorios remota. Pode cambiar a devasa do seu sistema <span class="link"><a href="net-firewall-on-off.html" title="Activar ou bloquear o acceso á devasa">bloquear ou permitir acceso</a></span> a estes aplicativos. Hai centos de portos en uso, polo que esta táboa non é a completa.</p>
+<p class="p">This is a list of network ports commonly used by applications that provide
+  network services, like file sharing or remote desktop viewing. You can change
+  your system’s firewall to <span class="link"><a href="net-firewall-on-off.html" title="Activar ou bloquear o acceso á devasa">block or allow
+  access</a></span> to these applications. There are thousands of ports in use, so
+  this table isn’t complete.</p>
 <div class="table"><div class="inner"><div class="region"><table class="table" style="border-top-style: solid;">
 <thead><tr>
 <td><p class="p">Porto</p></td>
@@ -75,7 +79,8 @@
 <tr>
 <td><p class="p">5298/tcp</p></td>
 <td><p class="p">Presenza</p></td>
-<td><p class="p">Permítelle anunciar o seu estado, por exemplo «en liña» ou «ocupado»</p></td>
+<td><p class="p">Allows you to advertise your instant messaging status to other
+          people on the network, such as “online” or “busy”.</p></td>
 </tr>
 <tr class="shade">
 <td><p class="p">5900/tcp</p></td>

@@ -69,7 +69,8 @@
 <div id="hidenotifications" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Απόκρυψη ειδοποιήσεων</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Εάν δουλεύετε σε κάτι και δεν θέλετε να ενοχληθείτε, μπορείτε να απενεργοποιήσετε τις ειδοποιήσεις.</p>
+<p class="p">If you’re working on something and do not want to be bothered, you can
+  switch off notifications.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Ειδοποιήσεις</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στις <span class="gui">Ειδοποιήσεις</span> για να ανοίξετε τον πίνακα.</p></li>

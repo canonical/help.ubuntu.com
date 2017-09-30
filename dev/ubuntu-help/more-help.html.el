@@ -54,13 +54,10 @@
   </p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="translate.html" title="Participate to improve translations"><span class="title">Participate to improve translations</span><span class="linkdiv-dash"> — </span><span class="desc">How and where to help translate these topics.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="report-ubuntu-bug.html" title="Αναφορά προβλήματος στο Ubuntu"><span class="title">Αναφορά προβλήματος στο Ubuntu</span><span class="linkdiv-dash"> — </span><span class="desc">Πώς και πού μπορούν να αναφερθούν προβλήματα σχετικά με το Ubuntu.</span></a></div>
-</div>
-<div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="get-involved.html" title="Συμμετέχετε για να βελτιώσετε αυτό τον οδηγό"><span class="title">Συμμετέχετε για να βελτιώσετε αυτό τον οδηγό</span><span class="linkdiv-dash"> — </span><span class="desc">Πώς και πού μπορούν να αναφερθούν προβλήματα με αυτά τα θέματα βοήθειας.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="about-this-guide.html" title="Σχετικά με αυτό τον οδηγό"><span class="title">Σχετικά με αυτό τον οδηγό</span><span class="linkdiv-dash"> — </span><span class="desc">Μερικές συμβουλές για τη χρήση του οδηγού περιβάλλοντος του Ubuntu.</span></a></div>
 </div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="about-this-guide.html" title="Σχετικά με αυτό τον οδηγό"><span class="title">Σχετικά με αυτό τον οδηγό</span><span class="linkdiv-dash"> — </span><span class="desc">Μερικές συμβουλές για τη χρήση του οδηγού περιβάλλοντος του Ubuntu.</span></a></div></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">

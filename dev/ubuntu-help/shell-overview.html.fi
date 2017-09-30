@@ -53,10 +53,7 @@
 <div class="linkdiv "><a class="linkdiv" href="shell-introduction.html" title="Johdanto Gnomeen"><span class="title">Johdanto Gnomeen</span><span class="linkdiv-dash"> — </span><span class="desc">Johdanto työpöytään, yläpalkkiin ja <span class="gui">Toiminnot</span>-yleisnäkymään.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Sovelluksien käynnistäminen"><span class="title">Sovelluksien käynnistäminen</span><span class="linkdiv-dash"> — </span><span class="desc">Käynnistä sovelluksia <span class="gui">Toiminnot</span>-yleisnäkymästä.</span></a></div>
 </div>
-<div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Uloskirjautuminen, sammuttaminen ja käyttäjän vaihtaminen"><span class="title">Uloskirjautuminen, sammuttaminen ja käyttäjän vaihtaminen</span><span class="linkdiv-dash"> — </span><span class="desc">Opi kuinka poistua käyttäjätililtä kirjautumalla ulos, vaihtamalla käyttäjää ja niin edelleen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-guest-session.html" title="Rajoitettu vierasistunto"><span class="title">Rajoitettu vierasistunto</span><span class="linkdiv-dash"> — </span><span class="desc">Lainaa tietokonetta ystävällesi tai työtoverillesi huolettomasti.</span></a></div>
-</div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Uloskirjautuminen, sammuttaminen ja käyttäjän vaihtaminen"><span class="title">Uloskirjautuminen, sammuttaminen ja käyttäjän vaihtaminen</span><span class="linkdiv-dash"> — </span><span class="desc">Opi kuinka poistua käyttäjätililtä kirjautumalla ulos, vaihtamalla käyttäjää ja niin edelleen.</span></a></div></div>
 </div></div></div></div>
 <div id="desktop" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Mukauta työpöytääsi</span></h2></div>

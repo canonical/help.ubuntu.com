@@ -49,7 +49,9 @@
 <div class="hgroup"><h1 class="title"><span class="title">Σύνδεση σε κρυφό ασύρματο δίκτυο</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Είναι δυνατό να ρυθμίσετε ένα ασύρματο δίκτυο έτσι ώστε να είναι "κρυφό". Τα κρυφά δίκτυα δεν εμφανίζονται στον κατάλογο των εμφανιζόμενων ασύρματων δικτύων στις ρυθμίσεις <span class="gui">δίκτυο</span>. Για να συνδεθείτε με ένα κρυφό ασύρματο δίκτυο:</p>
+<p class="p">It is possible to set up a wireless network so that it is “hidden.” Hidden
+ networks won’t show up in the list of wireless networks displayed in the
+ <span class="gui">Network</span> settings. To connect to a hidden wireless network:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ανοίξτε το <span class="gui"><a href="shell-introduction.html#yourname" title="Εσείς και ο υπολογιστή σας">μενού του συστήματος</a></span> από τη δεξιά πλευρά της πάνω γραμμής.</p></li>
 <li class="steps"><p class="p">Επιλέξτε <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span> Χωρίς σύνδεση το Wi-Fi</span>. Θα επεκταθεί η ενότητα Wi-Fi του μενού.</p></li>
@@ -60,9 +62,16 @@
 <li class="steps"><p class="p">Εισάγετε τον κωδικό πρόσβασής σας ή άλλες λεπτομέρειες ασφάλειας.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Σύνδεση</span>.</p></li>
 </ol></div></div></div>
-<p class="p">Μπορείτε να πρέπει να ελέγξετε τις ρυθμίσεις του ασύρματου σημείου πρόσβασης ή του δρομολογητή για να δείτε ποιο είναι το όνομα του δικτύου. Αν δεν έχετε το όνομα του δικτύου (SSID), μπορείτε να χρησιμοποιήσετε το <span class="em">BSSID</span> (βασικό αναγνωριστικό ορισμού υπηρεσίας, τη διεύθυνση MAC του σημείου πρόσβασης), που μοιάζει με κάτι όπως <span class="gui">02:00:01:02:03:04</span> και μπορεί συνήθως να βρεθεί στο κάτω μέρος του σημείου πρόσβασης.</p>
+<p class="p">You may have to check the settings of the wireless access point or router
+  to see what the network name is. If you don’t have the network name (SSID),
+  you can use the <span class="em">BSSID</span> (Basic Service Set Identifier, the access
+  point’s MAC address), which looks something like <span class="gui">02:00:01:02:03:04</span>
+  and can usually be found on the underside of the access point.</p>
 <p class="p">Θα πρέπει επίσης να ελέγξετε τις ρυθμίσεις ασφάλειας του ασύρματου σημείου πρόσβασης. Ψάξτε για όρους όπως WEP και WPA.</p>
-<div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">Μπορεί να σκεφτείτε ότι η απόκρυψη του ασύρματου δικτύου σας θα βελτιώσει την ασφάλεια αποτρέποντας ανθρώπους που δεν το ξέρουν από τη σύνδεση. Στην πράξη, αυτό δεν συμβαίνει· το δίκτυο είναι ελαφρά πιο δύσκολο να βρεθεί, αλλά είναι ακόμα ανιχνεύσιμο.</p></div></div></div></div>
+<div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">You may think that hiding your wireless network will improve security by
+ preventing people who don’t know about it from connecting. In practice, this
+ is not the case; the network is slightly harder to find but it is still
+ detectable.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -76,7 +85,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-find.html" title="Δεν μπορώ να δω το ασύρματο δίκτυό μου στη λίστα">Δεν μπορώ να δω το ασύρματο δίκτυό μου στη λίστα</a><span class="desc"> — Το ασύρματο μπορεί να είναι απενεργοποημένο ή χαλασμένο, ή προσπαθείτε να συνδεθείτε σε ένα κρυφό δίκτυο.</span>
+<a href="net-wireless-find.html" title="I can’t see my wireless network in the list">I can’t see my wireless network in the list</a><span class="desc"> — Το ασύρματο μπορεί να είναι απενεργοποημένο ή χαλασμένο, ή προσπαθείτε να συνδεθείτε σε ένα κρυφό δίκτυο.</span>
 </li></ul></div>
 </div></div>
 </div>

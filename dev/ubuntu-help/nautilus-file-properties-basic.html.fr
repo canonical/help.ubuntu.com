@@ -60,7 +60,11 @@
 <dd class="terms"><p class="p">Vous pouvez renommer le fichier en modifiant ce champ. Vous pouvez aussi le faire en dehors de cette fenêtre. Voir <span class="link"><a href="files-rename.html" title="Modification d'un nom de fichier ou de dossier">Modification d'un nom de fichier ou de dossier</a></span>.</p></dd>
 <dt class="terms"><span class="gui">Type</span></dt>
 <dd class="terms">
-<p class="p">Ce champ vous aide à identifier le type du document, comme par exemple un PDF, un texte ODT ou une image JPEG. Le type de fichier détermine, entre autres, les applications qui peuvent l'ouvrir (par exemple, un lecteur de musique ne peut pas lire un document image). Consultez <span class="link"><a href="files-open.html" title="Ouverture de fichiers avec une autre application">Ouverture de fichiers avec une autre application</a></span> pour obtenir plus d'informations.</p>
+<p class="p">This helps you identify the type of the file, such as PDF document,
+    OpenDocument Text, or JPEG image. The file type determines which
+    applications can open the file, among other things. For example, you
+    can’t open a picture with a music player. See <span class="link"><a href="files-open.html" title="Ouverture de fichiers avec une autre application">Ouverture de fichiers avec une autre application</a></span>
+    for more information on this.</p>
 <p class="p">Le <span class="em">type MIME</span> du fichier est affiché entre parenthèses. C'est un standard utilisé par les ordinateurs pour identifier le type du fichier.</p>
 </dd>
 <dt class="terms">Contenus</dt>
@@ -72,7 +76,7 @@
 </dd>
 <dt class="terms">Parent Folder</dt>
 <dd class="terms"><p class="p">The location of each file on your computer is given by its <span class="em">absolute
-    path</span>. This is a unique "address" of the file on your computer, made up
+    path</span>. This is a unique “address” of the file on your computer, made up
     of a list of the folders that you would need to go into to find the file.
     For example, if Jim had a file called <span class="file">Resume.pdf</span> in his Home
     folder, its parent folder would be <span class="file">/home/jim</span> and its location

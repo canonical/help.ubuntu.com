@@ -51,9 +51,14 @@
 <div class="contents">
 <p class="p">Vaš sistem bi moral biti opremljen s <span class="em">požarnim zidom</span>, ki omogoča blokado dostopa do programov z interneta ali krajevnega omrežja. To pomaga obdržati vaš računalnik varen.</p>
 <p class="p">Veliko programov lahko zagotavlja omrežne storitve. Na primer lahko souporabljate datoteke ali pustite nekomu, da si oddaljeno ogleda vaše namizje. Glede na to kako je vaš računalnik nastavljen, boste morda prilagoditi požarni zid, da bo tem storitvam omogočal delovanje.</p>
-<p class="p">Vsak program, ki zagotavlja storitve, uporablja določena <span class="em">omrežna vrata</span>. Za omogočitev dostopa do storitev tega programa boste morda morali dovoliti dostop do njegovih dodeljenih vrat na požarnem zidu. Za omogočitev povezav na vratih 53 v terminal vnesite <span class="cmd">sudo ufw allow 53</span>. Za blokiranje vrat 53 vnesite <span class="cmd">sudo ufw block 53</span>.</p>
+<p class="p">Each program that provides network services uses a specific <span class="em">network
+  port</span>. To enable other computers on the network to access a service, you
+  may need to “open” its assigned port on the firewall:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Pojdite na <span class="gui">Dejavnosti</span> v zgornjem levem kotu zaslona in zaženite svoj program požarnega zidu. Morda boste morali namestiti upravljalnik požarnega zidu, če ga ne morete najdi (na primer Firestarter ali GUFW).</p></li>
+<li class="steps"><p class="p">Go to <span class="gui">Activities</span> in the top left corner of the screen and
+      start your firewall application. You may need to install a firewall
+      manager yourself if you can’t find one (for example, Firestarter or
+      GUFW).</p></li>
 <li class="steps"><p class="p">Odprite ali onemogočite vrata za svojo omrežno storitev glede na to ali želite, da ljudje lahko do nje dostopajo ali ne. Vrata, ki jih želite spremeniti, so <span class="link"><a href="net-firewall-ports.html" title="Pogosto uporabljena vrata omrežja">odvisne od storitve</a></span>.</p></li>
 <li class="steps"><p class="p">Shranite ali uveljavite spremembe in sledite morebitnim dodatnim navodilom orodja požarnega zidu.</p></li>
 </ol></div></div></div>

@@ -67,7 +67,11 @@
       <span class="gui">Hardware Address</span> in the <span class="gui">Details</span> panel.</p>
 </li>
 </ol></div></div></div>
-<p class="p">実際には、MAC アドレスの変更すなわち「なりすまし」をしなければならない場合があります。たとえば、一部のインターネットサービスプロバイダーでは、サービスを利用するのに特定の MAC アドレスが必要となる場合があります。ネットワークカードが故障して新しいカードと交換する必要が生じると、サービスが利用できなくなる場合があります。このような場合に MAC アドレスの変更が必要になります。</p>
+<p class="p">In practice, you may need to modify or “spoof” a MAC address. For example,
+  some internet service providers may require that a specific MAC address be
+  used to access their service. If the network card stops working, and you need
+  to swap a new card in, the service won’t work anymore. In such cases, you
+  would need to spoof the MAC address.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

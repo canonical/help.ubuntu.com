@@ -65,13 +65,7 @@
 </li>
 </ol></div></div></div>
 <p class="p">Jūsu datorā ir vismaz viens <span class="em">galvenais</span> nodalījums un viens <span class="em">maiņvietas</span> nodalījums. Maiņvietas nodalījumu izmanto operētājsistēmas atmiņas pārvaldībai un tas tiek reti montēts. Primārais nodalījums satur operētājsistēmu, programmas, iestatījumus un personīgās datnes. Šīs datnes var sadalīt arī starp vairākiem nodalījumiem drošības vai ērtības nolūkos.</p>
-<p class="p">One primary partition must contain information that your computer uses to
-  start up, or <span class="em">boot</span>. For this reason it is sometimes called a boot
-  partition, or boot volume. To determine if a volume is bootable, select the
-  partition and click the menu button in the toolbar underneath the partition
-  list. Then, click <span class="gui">Edit Partition…</span> and look at its
-  <span class="gui">Flags</span>. External media such as USB drives and CDs may also contain
-  a bootable volume.</p>
+<p class="p">Vienam primārajam nodalījumam ir jāietver informācija, ko dators izmanto, lai uzsāktu savu darbību jeb <span class="em">ielādētos</span>. Šī iemesla dēļ to reizēm sauc par ielādes nodalījumu vai ielādes sējumu. Lai noteiktu, vai sējums ir palaižams, izvēlieties nodalījumu un spiediet izvēlnes pogu rīkjoslā zem nodalījumu saraksta. Tad spiediet <span class="gui">Rediģēt nodalījumu…</span> un apskatiet tā <span class="gui">Karogus</span>. Ārējie datu nesēji, piemēram, USB ierīces un CD diski, var saturēt arī ielādējamu sējumu.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">

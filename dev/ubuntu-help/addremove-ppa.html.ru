@@ -58,7 +58,10 @@
 <div class="title title-steps"><h2><span class="title">Установка PPA</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">На обзорной странице PPA поищите заголовок <span class="gui">Adding this PPA to your system</span>. Запишите адрес PPA, который должен быть похож на: <span class="code">ppa:mozillateam/firefox-next</span>.</p></li>
-<li class="steps"><p class="p">Щёлкните на значке <span class="app">Менеджера приложений Ubuntu</span> в <span class="gui">панели запуска</span> или наберите слово <span class="input">«приложений»</span> в строке поиска <span class="gui">главного меню</span>.</p></li>
+<li class="steps"><p class="p">
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">После запуска <span class="app">Менеджера приложений Ubuntu</span> выберите в меню <span class="gui">Программы и обновления</span></p></li>
 <li class="steps"><p class="p">Перейдите на вкладку <span class="gui">Другое ПО</span>.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Добавить</span> и введите адрес PPA (как указано в шаге 1).</p></li>

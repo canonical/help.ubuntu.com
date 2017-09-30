@@ -49,7 +49,11 @@
 <div class="hgroup"><h1 class="title"><span class="title">Dove salvare i backup</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Le copie di backup dei propri file dovrebbero essere salvate in qualche posto separato dal proprio computer: su un disco esterno, per esempio. In questo modo, nel caso il computer si guastasse, il backup rimarrebbe intatto. Per prevenire ogni imprevisto, poi, il backup non dovrebbe essere conservato nello stesso edificio del proprio computer così da evitare che entrambe le copie dei dati vadano perse in caso d'incendio o furto.</p>
+<p class="p">You should store backup copies of your files somewhere separate from your
+ computer — on an external hard disk, for example. That way, if the computer
+ breaks, the backup will still be intact. For maximum security, you shouldn’t
+ keep the backup in the same building as your computer. If there is a fire or
+ theft, both copies of the data could be lost if they are kept together.</p>
 <p class="p">È importante scegliere, inoltre, un appropriato <span class="em">dispositivo di backup</span> in quanto sarà necessario salvare le proprie copie dei dati su un dispositivo che abbia una capacità di memoria sufficiente per tutti i file di cui si è eseguito il backup.</p>
 <div class="list"><div class="inner">
 <div class="title title-list"><h2><span class="title">Opzioni di archiviazione locale e remota</span></h2></div>

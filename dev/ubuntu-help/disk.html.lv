@@ -49,6 +49,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Diski un uzglabāšana</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
+<div class="linkdiv "><a class="linkdiv" href="disk-resize.html" title="Adjust the size of a filesystem"><span class="title">Adjust the size of a filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Shrink or grow a filesystem and its partition.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="addremove-creator.html" title="Create a startup disk"><span class="title">
     Create a startup disk
   </span><span class="linkdiv-dash"> — </span><span class="desc"> 
@@ -59,6 +60,8 @@
 <div class="linkdiv "><a class="linkdiv" href="disk-capacity.html" title="Pārbaudiet, cik daudz vietas diskā ir atlicis"><span class="title">Pārbaudiet, cik daudz vietas diskā ir atlicis</span><span class="linkdiv-dash"> — </span><span class="desc">Izmantojiet <span class="gui">Diska izmantošanas analizators</span> vai <span class="gui">Sistēmas pārraugs</span>, lai pārbaudītu brīvo vietu un kapacitāti.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-check.html" title="Pārbaudiet, vai jūsu cietajam diskam nav problēmu"><span class="title">Pārbaudiet, vai jūsu cietajam diskam nav problēmu</span><span class="linkdiv-dash"> — </span><span class="desc">Pārbaudiet, vai jūsu cietajam diskam nav problēmu, lai pārliecinātos, ka ar to viss ir kārtībā.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-partitions.html" title="Pārvaldiet apjomus un nodalījumus"><span class="title">Pārvaldiet apjomus un nodalījumus</span><span class="linkdiv-dash"> — </span><span class="desc">Saprotiet, kādi ir apjomi un nodalījumi, un izmantojiet disku utilītprogrammas, lai tos pārvaldītu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-repair.html" title="Repair a damaged filesystem"><span class="title">Repair a damaged filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Check if a filesystem is damaged and bring it back into a usable
+          state.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Open applications for devices or discs</title>
+<title>Toepassingen voor apparaten of schijven openen</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,94 +44,55 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Sound, video &amp; pictures">Sound, video &amp; pictures</a> › <a class="trail" href="media.html#music" title="Music and portable audio players">Music and players</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Geluid, video &amp; foto's">Geluid, video &amp; foto's</a> › <a class="trail" href="media.html#photos" title="Foto's en digitale camera's">Foto's</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Sound, video &amp; pictures">Sound, video &amp; pictures</a> › <a class="trail" href="media.html#photos" title="Photos and digital cameras">Photos</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Geluid, video &amp; foto's">Geluid, video &amp; foto's</a> › <a class="trail" href="media.html#music" title="Muziek en draagbare geluidsspelers">Muziek en audiospelers</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html#removable" title="Removable drives and external disks">Removable drives and external disks</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#removable" title="Verwijderbare schijven en externe schijven">Verwijderbare schijven en externe schijven</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Sound, video &amp; pictures">Sound, video &amp; pictures</a> › <a class="trail" href="media.html#videos" title="Videos and video cameras">Videos</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Geluid, video &amp; foto's">Geluid, video &amp; foto's</a> › <a class="trail" href="media.html#videos" title="Video's en videocamera's">Video's</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Open applications for devices or discs</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Toepassingen voor apparaten of schijven openen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can have an application automatically start when you plug in a device
-  or insert a disc or media card. For example, you might want your photo
-  organizer to start when you plug in a digital camera. You can also turn this
-  off, so that nothing happens when you plug something in.</p>
-<p class="p">To decide which applications should start when you plug in various
-  devices: </p>
+<p class="p">U kunt een toepassing automatisch laten starten wanneer u een apparaat aansluit of een schijf of kaart in de computer plaatst. Zo zou u misschien willen dat uw fotobeheerprogramma start wanneer u een digitale camera aansluit. U kunt dit ook uitschakelen, zodat er niets gebeurt wanneer u iets aansluit.</p>
+<p class="p">Om te beslissen welke toepassing gestart moet worden wanneer u verschillende apparaten aansluit:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-    start typing <span class="gui">Details</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Details</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Removable Media</span>.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Details</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Details</span> om het paneel te openen.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Verwijderbare media</span>.</p></li>
 <li class="steps">
-<p class="p">Find your desired device or media type, and then choose an application
-    or action for that media type. See below for a description of the different
-    types of devices and media.</p>
-<p class="p">Instead of starting an application, you can also set it so that the
-    device will be shown in the file manager, with the <span class="gui">Open folder</span>
-    option. When that happens, you will be asked what to do, or nothing will
-    happen automatically.</p>
+<p class="p">Zoek het gewenste apparaat mediatype, en kies vervolgens een toepassing of handeling voor dat mediatype. Hieronder vindt u een beschrijving van de verschillende apparaat- en mediatypen.</p>
+<p class="p">In plaats van een toepassing te starten kun u het zo instellen dat het apparaat in de bestandsbeheerder wordt weergegeven, met de optie <span class="gui">Map openen</span>. Als dat gebeurt, zal u worden gevraagd wat u wil doen, of er gebeurt niets automatisch.</p>
 </li>
-<li class="steps"><p class="p">If you do not see the device or media type that you want to change in
-    the list (such as Blu-ray discs or E-book readers), click <span class="gui">Other
-    Media…</span> to see a more detailed list of devices. Select the type of
-    device or media from the <span class="gui">Type</span> drop-down and the application or
-    action from the <span class="gui">Action</span> drop-down.</p></li>
+<li class="steps"><p class="p">Als u het apparaat of mediatype dat u wilt wijzigen (zoals Blu-ray schijven of e-boek-lezers) niet ziet staan in de lijst, klik dan op <span class="gui">Andere media…</span> voor een gedetailleerdere lijst met apparaten. Selecteer het apparaat- of mediatype uit de <span class="gui">Type</span>-keuzelijst en de toepassing of actie uit de <span class="gui">Actie</span>-keuzelijst.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">If you do not want any applications to be opened automatically, whatever
-    you plug in, select <span class="gui">Never prompt or start programs on media
-    insertion</span> at the bottom of the <span class="gui">Details</span> window.</p></div></div></div></div>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Als u niet wilt dat toepassingen automatisch geopend worden, wat u ook aansluit, plaats dan een vinkje bij <span class="gui">Nooit vragen en ook geen toepassingen starten als media ingevoerd worden</span> onderaan het venster <span class="gui">Details</span>.</p></div></div></div></div>
 </div>
 <div id="files-types-of-devices" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Types of devices and media</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Apparaat- en mediatypen</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms">Audio discs</dt>
-<dd class="terms"><p class="p">Choose your favorite music application or CD audio extractor to handle
-    audio CDs. If you use audio DVDs (DVD-A), select how to open them under
-    <span class="gui">Other Media…</span>. If you open an audio disc with the file manager,
-    the tracks will appear as WAV files that you can play in any audio player
-    application.</p></dd>
-<dt class="terms">Video discs</dt>
-<dd class="terms"><p class="p">Choose your favorite video application to handle video DVDs. Use the
-    <span class="gui">Other Media…</span> button to set an application for Blu-ray, HD DVD,
-    video CD (VCD), and super video CD (SVCD). If DVDs or other video discs
-    do not work correctly when you insert them, see <span class="link"><a href="video-dvd.html" title="Waarom kunnen dvd's niet worden afgespeeld?">Waarom kunnen dvd's niet worden afgespeeld?</a></span>.
-    </p></dd>
-<dt class="terms">Blank discs</dt>
-<dd class="terms"><p class="p">Use the <span class="gui">Other Media…</span> button to select a disc-writing
-    application for blank CDs, blank DVDs, blank Blu-ray discs, and blank HD
-    DVDs.</p></dd>
-<dt class="terms">Cameras and photos</dt>
+<dt class="terms">Audioschijven</dt>
+<dd class="terms"><p class="p">Kies uw favoriete muziektoepassing of cd-ripper om audio-cd's te verwerken. Als u audio-DVD's (DVD-A) gebruikt, moet u onder <span class="gui">Overige media…</span> aangeven hoe u ze wil openen. Als u een audio-cd met de bestandsbeheerder opent, zullen de tracks als WAV-bestanden worden weergegeven die met elke audiospeler-toepassing af te spelen zijn.</p></dd>
+<dt class="terms">Videoschijven</dt>
+<dd class="terms"><p class="p">Kies uw favoriete videotoepassing om DVD's te verwerken. Gebruik de <span class="gui">Overige media…</span>-knop om een toepassing voor Blu-ray, HD DVD, video CD (VCD), en super video cd (SVCD) in te stellen. Zie <span class="link"><a href="video-dvd.html" title="Why won’t DVDs play?">Why won’t DVDs play?</a></span> als DVD's of andere videoschijven niet correct functioneren als u ze invoert.</p></dd>
+<dt class="terms">Blanco schijven</dt>
+<dd class="terms"><p class="p">Gebruik de <span class="gui">Overige media…</span>-knop om een brandprogramma voor blanco cd's, blanco DVD's, blanco Blu-ray schijven, en blanco HD DVDs te kiezen.</p></dd>
+<dt class="terms">Camera's en fotos</dt>
 <dd class="terms">
-<p class="p">Use the <span class="gui">Photos</span> drop-down to choose a photo-management
-    application to run when you plug in your digital camera, or when you insert
-    a media card from a camera, such as a CF, SD, MMC, or MS card. You can also
-    simply browse your photos using the file manager.</p>
-<p class="p">Under <span class="gui">Other Media…</span>, you can select an application to open
-    Kodak picture CDs, such as those you might have made in a store. These are
-    regular data CDs with JPEG images in a folder called
-    <span class="file">Pictures</span>.</p>
+<p class="p">Gebruik het <span class="gui">Foto's</span>-keuzemenu om een fotobeheertoepassing te kiezen dat uitgevoerd moet worden als er een digitale camera wordt aangesloten, of als u een mediakaart uit uw camera invoert, zoals een CF, SD, MMC, of MS-kaart. Ook kunt u eenvoudigweg met de bestandsbeheerder door uw bestanden bladeren.</p>
+<p class="p">Onder <span class="gui">Overige media…</span>, kunt u een toepassing kiezen waarmee Kodak foto-cd's moeten worden geopend, zoals u die in een winkel kunt laten maken. Dit zijn gewone gegevens-cd's waarbij JPEG-afbeeldingen in een map met de naam <span class="file">PICTURES</span> zijn opgeslagen.</p>
 </dd>
-<dt class="terms">Music players</dt>
-<dd class="terms"><p class="p">Choose an application to manage the music library on your portable music
-    player, or manage the files yourself using the file manager.</p></dd>
-<dt class="terms">E-book readers</dt>
-<dd class="terms"><p class="p">Use the <span class="gui">Other Media…</span> button to choose an application to
-      manage the books on your e-book reader, or manage the files yourself
-      using the file manager.</p></dd>
+<dt class="terms">Muziekspelers</dt>
+<dd class="terms"><p class="p">Kies een toepassing om de muziekbibliotheek op uw draagbare muziekspeler te beheren, of beheer met behulp van de bestandsbeheerder de bestanden zelf.</p></dd>
+<dt class="terms">E-boek-lezers</dt>
+<dd class="terms"><p class="p">Gebruik de <span class="gui">Overige media…</span>-knop om een toepassing te kiezen voor het beheer van de boeken op uw e-boek-lezer, of beheer met behulp van de bestandsbeheerder de bestanden zelf.</p></dd>
 <dt class="terms">Software</dt>
 <dd class="terms">
-<p class="p">Some discs and removable media contain software that is supposed to be
-      run automatically when the media is inserted. Use the <span class="gui">Software</span>
-      option to control what to do when media with autorun software is
-      inserted. You will always be prompted for a confirmation before software
-      is run.</p>
-<div class="note note-warning" title="Waarschuwing"><div class="inner"><div class="region"><div class="contents"><p class="p">Never run software from media you don't trust.</p></div></div></div></div>
+<p class="p">Sommige schijven en verwisselbare media bevatten software waarvan het de bedoeling is dat het automatisch wordt uitgevoerd zodra de media wordt ingevoerd. Gebruik de optie <span class="gui">Software</span> om te bepalen wat er moet gebeuren als er media met autorun software wordt ingevoerd. Er zal u altijd om bevestiging worden gevraagd voordat software wordt uitgevoerd.</p>
+<div class="note note-warning" title="Waarschuwing"><div class="inner"><div class="region"><div class="contents"><p class="p">Never run software from media you don’t trust.</p></div></div></div></div>
 </dd>
 </dl></div></div></div></div></div>
 </div></div>
@@ -140,10 +101,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="media.html#music" title="Music and portable audio players">Music and players</a></li>
-<li class="links "><a href="media.html#photos" title="Photos and digital cameras">Photos</a></li>
-<li class="links "><a href="files.html#removable" title="Removable drives and external disks">Removable drives and external disks</a></li>
-<li class="links "><a href="media.html#videos" title="Videos and video cameras">Videos</a></li>
+<li class="links "><a href="media.html#photos" title="Foto's en digitale camera's">Foto's</a></li>
+<li class="links "><a href="media.html#music" title="Muziek en draagbare geluidsspelers">Muziek en audiospelers</a></li>
+<li class="links "><a href="files.html#removable" title="Verwijderbare schijven en externe schijven">Verwijderbare schijven en externe schijven</a></li>
+<li class="links "><a href="media.html#videos" title="Video's en videocamera's">Video's</a></li>
 </ul></div>
 </div></div></div>
 </div>

@@ -64,7 +64,10 @@
    To add a repository:
    </p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Cliqueu la icona del <span class="app">Programari de l'Ubuntu</span> en el <span class="gui">Llançador</span>, o busqueu <span class="input">Programari</span> a la barra de cerca del <span class="gui">Quadre d'aplicacions</span>.</p></li>
+<li class="steps"><p class="p">
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">Quan s'iniciï el <span class="app">Programari de l'Ubuntu</span>, cliqueu <span class="gui">Programari i actualitzacions</span></p></li>
 <li class="steps"><p class="p">Se us demanarà entrar la contrasenya. Un cop que heu fet això, canvieu a la pestanya <span class="gui">Altre programari</span>.</p></li>
 <li class="steps">

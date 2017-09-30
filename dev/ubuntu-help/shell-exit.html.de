@@ -85,8 +85,8 @@
 <div class="hgroup"><h2 class="title"><span class="title">Bereitschaft</span></h2></div>
 <div class="region">
 <div class="contents">
-<p class="p">Setzen Sie Ihren Rechner in Bereitschaft, um Strom zu sparen solange Sie Ihren Rechner nicht benützen. Sollten Sie einen Laptop verwenden, versetzt GNOME Ihren Rechner automatisch in Bereitschaft, wenn Sie den Deckel schließen. Dabei wird der aktuelle Zustand in den Arbeitsspeicher gespeichert und die meisten Funktionen Ihres Rechners werden abgeschaltet. Während der Bereitschaft wird dennoch ein sehr geringer Strom verbraucht.</p>
-<p class="p">Wenn Sie Ihren Rechner manuell in Bereitschaft wollen, klicken Sie auf das Systemmenü rechts im oberen Panel und halten Sie dann die <span class="key"><kbd>Alt</kbd></span>-Taste gedrückt. Der Knopf zum Ausschalten wechselt in einen Knopf zum Versetzen in Bereitschaft. Klicken Sie dann auf den Knopf.</p>
+<p class="p">Setzen Sie Ihren Rechner in Bereitschaft, um Strom zu sparen, solange Sie Ihren Rechner nicht benutzen. Sollten Sie einen Laptop verwenden, versetzt GNOME Ihren Rechner automatisch in Bereitschaft, wenn Sie den Deckel schließen. Dabei wird der aktuelle Zustand in den Arbeitsspeicher gespeichert und die meisten Funktionen Ihres Rechners werden abgeschaltet. Während der Bereitschaft wird dennoch ein sehr geringer Strom verbraucht.</p>
+<p class="p">Wenn Sie Ihren Rechner manuell in Bereitschaft versetzen wollen, klicken Sie auf das Systemmenü rechts im oberen Panel und halten Sie dann entweder die <span class="key"><kbd>Alt</kbd></span>-Taste gedrückt und klicken auf den Knopf zum Ausschalten, oder klicken Sie einfach lange auf den Ausschaltknopf.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

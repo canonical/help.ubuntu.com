@@ -94,7 +94,7 @@
 <dd class="terms"><p class="p">Choose your favorite video application to handle video DVDs. Use the
     <span class="gui">Other Media…</span> button to set an application for Blu-ray, HD DVD,
     video CD (VCD), and super video CD (SVCD). If DVDs or other video discs
-    do not work correctly when you insert them, see <span class="link"><a href="video-dvd.html" title="Почему не воспроизводятся DVD?">Почему не воспроизводятся DVD?</a></span>.
+    do not work correctly when you insert them, see <span class="link"><a href="video-dvd.html" title="Why won’t DVDs play?">Why won’t DVDs play?</a></span>.
     </p></dd>
 <dt class="terms">Чистые диски</dt>
 <dd class="terms"><p class="p">Use the <span class="gui">Other Media…</span> button to select a disc-writing
@@ -117,7 +117,7 @@
 <dt class="terms">Программы</dt>
 <dd class="terms">
 <p class="p">На некоторых дисках и съёмных устройствах находится программное обеспечение, которое должно автоматически запускаться при подключении устройства. Используйте параметр <span class="gui">Приложение</span> для управления обработкой такого программного обеспечения. Перед запуском программного обеспечения всегда будет запрашиваться подтверждение.</p>
-<div class="note note-warning" title="Предупреждение"><div class="inner"><div class="region"><div class="contents"><p class="p">Никогда не запускайте программы с носителя, в безопасности которого не уверены.</p></div></div></div></div>
+<div class="note note-warning" title="Предупреждение"><div class="inner"><div class="region"><div class="contents"><p class="p">Never run software from media you don’t trust.</p></div></div></div></div>
 </dd>
 </dl></div></div></div></div></div>
 </div></div>

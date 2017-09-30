@@ -75,7 +75,9 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="app">System Monitor</span> application from the <span class="gui">Activities</span>
   overview.</p></li>
-<li class="steps"><p class="p">Selezionare la scheda <span class="gui">File system</span> per visualizzare le parizioni del sistema e l'utilizzo dello spazio del disco. Le informazioni mostrano lo spazio <span class="gui">Totale</span>, <span class="gui">Libero</span>, <span class="gui">Disponibile</span> e <span class="gui">Usato</span>.</p></li>
+<li class="steps"><p class="p">Select the <span class="gui">File Systems</span> tab to view the system’s partitions and
+  disk space usage.  The information is displayed according to <span class="gui">Total</span>,
+  <span class="gui">Free</span>, <span class="gui">Available</span> and <span class="gui">Used</span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -84,8 +86,9 @@
 <div class="region"><div class="contents">
 <p class="p">Se il disco è pieno è possibile:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Eliminare i file poco importanti oppure quelli che non verranno più utilizzati.</p></li>
-<li class="list"><p class="p">Effettuare <span class="link"><a href="backup-why.html" title="Eseguire il backup dei file importanti">backup</a></span> dei file importanti di cui non si avrà necessità nell'immediato futuro ed eliminarli dal disco.</p></li>
+<li class="list"><p class="p">Delete files that aren’t important or that you won’t use anymore.</p></li>
+<li class="list"><p class="p">Make <span class="link"><a href="backup-why.html" title="Eseguire il backup dei file importanti">backups</a></span> of the important files that
+   you won’t need for a while and delete them from the hard drive.</p></li>
 </ul></div></div></div>
 </div></div>
 </div></div>

@@ -58,7 +58,10 @@
 <div class="title title-steps"><h2><span class="title">Installer un PPA</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Sur la page du PPA, cherchez la section <span class="gui">Adding this PPA to your system</span>. Notez l'emplacement du PPA, qui devrait être en gras et ressembler à quelque chose comme <span class="code">ppa:mozillateam/firefox-next</span>.</p></li>
-<li class="steps"><p class="p">Cliquez sur l’icône de <span class="app">Logiciels Ubuntu</span> dans le <span class="gui">Lanceur</span> ou recherchez <span class="input">Logiciels</span> dans le <span class="gui">Tableau de bord</span>.</p></li>
+<li class="steps"><p class="p">
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">Lorsque <span class="app">Logiciels Ubuntu</span> se lance, cliquez sur <span class="guiseq"><span class="gui">Modifier</span> ▸ <span class="gui">Logiciels &amp; mises à jour</span></span></p></li>
 <li class="steps"><p class="p">Basculer vers l'onglet <span class="gui">Autres logiciels</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Ajouter</span> et saisissez l'emplacement du PPA (comme indiqué dans l'étape 1).</p></li>

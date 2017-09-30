@@ -49,12 +49,15 @@
 <div class="hgroup"><h1 class="title"><span class="title">Δίσκοι &amp; αποθήκευση</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
+<div class="linkdiv "><a class="linkdiv" href="disk-resize.html" title="Adjust the size of a filesystem"><span class="title">Adjust the size of a filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Shrink or grow a filesystem and its partition.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="addremove-creator.html" title="Create a startup disk"><span class="title">
     Create a startup disk
   </span><span class="linkdiv-dash"> — </span><span class="desc"> 
     Convert a USB flash drive into a volume from which you can startup and install Ubuntu.
     </span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-check.html" title="Έλεγχος του σκληρού σας δίσκου για προβλήματα"><span class="title">Έλεγχος του σκληρού σας δίσκου για προβλήματα</span><span class="linkdiv-dash"> — </span><span class="desc">Ελέγξτε τον σκληρό σας δίσκο για προβλήματα για να βεβαιωθείτε ότι είναι υγιής.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-repair.html" title="Repair a damaged filesystem"><span class="title">Repair a damaged filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Check if a filesystem is damaged and bring it back into a usable
+          state.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-check.html" title="Έλεγχος του σκληρού σας δίσκου για προβλήματα"><span class="title">Έλεγχος του σκληρού σας δίσκου για προβλήματα</span><span class="linkdiv-dash"> — </span><span class="desc">Test your hard disk for problems to make sure that it’s healthy.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-partitions.html" title="Διαχείριση τόμων και κατατμήσεων"><span class="title">Διαχείριση τόμων και κατατμήσεων</span><span class="linkdiv-dash"> — </span><span class="desc">Κατανοώντας τι είναι τόμοι και κατατμήσεις και χρησιμοποιώντας το εργαλείο δίσκου μπορείτε να τα διαχειριστείτε.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-benchmark.html" title="Δοκιμάστε την απόδοση του σκληρού σας δίσκου"><span class="title">Δοκιμάστε την απόδοση του σκληρού σας δίσκου</span><span class="linkdiv-dash"> — </span><span class="desc">Εκτελέστε μετρήσεις επιδόσεων στον σκληρό σας δίσκο για να ελέγξετε πόσο γρήγορος είναι.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-capacity.html" title="Ελέγξτε πόσος χώρος έχει απομείνει στον δίσκο"><span class="title">Ελέγξτε πόσος χώρος έχει απομείνει στον δίσκο</span><span class="linkdiv-dash"> — </span><span class="desc">Χρησιμοποιήστε τον <span class="gui">Αναλυτή χρήσης δίσκου</span> ή την <span class="gui">Παρακολούθηση συστήματος</span> για να ελέγξετε τον χώρο και τη χωρητικότητα.</span></a></div>

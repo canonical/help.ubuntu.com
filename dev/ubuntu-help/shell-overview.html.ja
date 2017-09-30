@@ -53,10 +53,7 @@
 <div class="linkdiv "><a class="linkdiv" href="shell-introduction.html" title="GNOME 入門"><span class="title">GNOME 入門</span><span class="linkdiv-dash"> — </span><span class="desc">デスクトップ、トップバー、および<span class="gui">アクティビティ</span>画面について画像をまじえた入門。</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="アプリケーションの起動"><span class="title">アプリケーションの起動</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="gui">アクティビティ</span>画面からアプリを起動します。</span></a></div>
 </div>
-<div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="ログアウト、電源オフ、ユーザー切り替え"><span class="title">ログアウト、電源オフ、ユーザー切り替え</span><span class="linkdiv-dash"> — </span><span class="desc">ログアウト、ユーザーの切り替えなどによる、アカウントの抜け方を学びます。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-guest-session.html" title="制限付きのゲストセッションの起動"><span class="title">制限付きのゲストセッションの起動</span><span class="linkdiv-dash"> — </span><span class="desc">友人や同僚に安全な方法でコンピューターを貸す。</span></a></div>
-</div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="ログアウト、電源オフ、ユーザー切り替え"><span class="title">ログアウト、電源オフ、ユーザー切り替え</span><span class="linkdiv-dash"> — </span><span class="desc">ログアウト、ユーザーの切り替えなどによる、アカウントの抜け方を学びます。</span></a></div></div>
 </div></div></div></div>
 <div id="desktop" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Customize your desktop</span></h2></div>

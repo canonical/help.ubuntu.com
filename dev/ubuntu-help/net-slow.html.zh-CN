@@ -54,7 +54,14 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
 <p class="p"><span class="em-bold em">网络繁忙</span></p>
-<p class="p">Internet 服务提供商通常将 Internet 连接设置成在多个家庭之间共享。即使您是通过自己的电话线或宽带连接单独连接，但电话交换机上与 Internet 剩余部分的连接实际上可能处于多人共享状态。如果是这种情况，并且您的很多邻居都在同时使用 Internet，则您会发现网速变慢。当您的邻居可能也在访问 Internet(例如在晚上)时，您最有可能遇到这种情况。</p>
+<p class="p">Internet service providers commonly setup internet connections so that
+      they are shared between several households. Even though you connect
+      separately, through your own phone line or cable connection, the
+      connection to the rest of the internet at the telephone exchange might
+      actually be shared. If this is the case and lots of your neighbors are
+      using the internet at the same time as you, you might notice a slow-down.
+      You’re most likely to experience this at times when your neighbors are
+      probably on the internet (in the evenings, for example).</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">一次下载很多内容</span></p>
@@ -66,15 +73,27 @@
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">弱无线连接信号</span></p>
-<p class="p">如果您通过无线连接(wifi)访问互联网，在顶部面板的网络图标上查看信号强度是否良好。如果信号质量较差，上网也会变得很慢。</p>
+<p class="p">If you’re connected to the internet by wireless (wifi), check the
+      network icon on the top bar to see if you have good wireless signal. If
+      not, the internet may be slow because you don’t have a very strong
+      signal.</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">使用的移动网络连接速度较慢</span></p>
-<p class="p">如果您使用移动网络连接，并发现速度较慢，则您可能进入了接收信号较弱的区域。出现此情况时，Internet 连接将自动从快速“移动宽带”连接(如 3G)切换到更可靠但较慢的连接(如 GPRS)。</p>
+<p class="p">If you have a mobile internet connection and notice that it is slow,
+      you may have moved into an area where signal reception is poor. When this
+      happens, the internet connection will automatically switch from a fast
+      “mobile broadband” connection like 3G to a more reliable, but slower,
+      connection like GPRS.</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Web 浏览器有问题</span></p>
-<p class="p">有时 Web 浏览器会遇到导致速度变慢的问题。导致这种情况的原因有很多，例如，您访问了浏览器不能顺利加载的网站，或者您打开浏览器的时间太长。尝试关闭浏览器的所有窗口，然后重新打开浏览器，查看前后有无差异。</p>
+<p class="p">Sometimes web browsers encounter a problem that makes them run slow.
+      This could be for any number of reasons — you could have visited a
+      website that the browser struggled to load, or you might have had the
+      browser open for a long time, for example. Try closing all of the
+      browser’s windows and then opening the browser again to see if this makes
+      a difference.</p>
 </li>
 </ul></div></div></div>
 </div>
@@ -83,7 +102,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html" title="网络问题">网络问题</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="无线网络故障排除">解决无线连接问题</a></span>、<span class="link"><a href="net-wireless-find.html" title="我在列表中找不到我的无线网络">查看 wifi 网络</a></span>…</span>
+<a href="net-problem.html" title="网络问题">网络问题</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="无线网络故障排除">解决无线连接问题</a></span>、<span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">查看 wifi 网络</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

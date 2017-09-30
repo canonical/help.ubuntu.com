@@ -2,7 +2,7 @@
 <html lang=fi>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Olen kirjoittanut salasanan oikein, mutta yhteydenmuodostus ei onnistu</title>
+<title>I’ve entered the correct password, but I still can’t connect</title>
 <link rel="stylesheet" type="text/css" href="fi.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,30 +46,30 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » <a class="trail" href="net-wireless.html" title="Langattomat verkkoyhteydet">Langattomat verkkoyhteydet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Olen kirjoittanut salasanan oikein, mutta yhteydenmuodostus ei onnistu</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">I’ve entered the correct password, but I still can’t connect</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Jos olet varma, että kirjoitit <span class="link"><a href="net-wireless-wepwpa.html" title="Mitä WEP ja WPA tarkoittavat?">langattoman verkon salasanan</a></span> oikein, mutta et siltikään pysty yhdistämään langattomaan verkkoon, kokeile jotain seuraavista:</p>
+<p class="p">If you’re sure that you entered the correct <span class="link"><a href="net-wireless-wepwpa.html" title="Mitä WEP ja WPA tarkoittavat?">wireless password</a></span> but you still can’t successfully connect to a wireless network, try some of the following:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
 <p class="p">Double-check that you have the correct password</p>
-<p class="p">Salasanoissa välitetään Ubuntussa <span class="em">aina</span> isoista ja pienistä kirjaimista, joten tarkista aivan ensimmäisenä näiden merkkien oikeinkirjoitus.</p>
+<p class="p">Passwords are case-sensitive (it matters whether they have capital or lower-case letters), so check that you didn’t get the case of one of the letters wrong.</p>
 </li>
 <li class="list">
 <p class="p">Yritä käyttää hex- tai ASCII-salausavainta</p>
-<p class="p">Salasana on mahdollista esittää myös eri tavalla - niin sanottuna salausavaimena, eli numeroiden 0-9 ja merkkien a-f yhdistelmänä. Jokaisella salasanalla on oma salausavain. Jos tiedät sekä salasanan että salausavaimen, yritä syöttää salausavain salasanan sijaan.  Varmista, että valitset oikeanlaisen <span class="gui">langattoman tietoturvan</span> salasanaa kysyttäessä (valitse <span class="gui">WEP 40/128-bit-avain (hexa tai ASCII)</span>, jos syötät WEP-salauksen 40-merkkistä salausavainta).</p>
+<p class="p">The password you enter can also be represented in a different way — as a string of characters in hexadecimal (numbers 0-9 and letters a-f) called a pass key. Each password has an equivalent pass key. If you have access to the pass key as well as the password/passphrase, try typing the pass key instead. Make sure you select the correct <span class="gui">wireless security</span> option when asked for your password (for example, select <span class="gui">WEP 40/128-bit Key</span> if you’re typing the 40-character pass key for a WEP-encrypted connection).</p>
 </li>
 <li class="list">
 <p class="p">Kytke langaton verkkoyhteys pois päältä ja sitten takaisin päälle</p>
-<p class="p">Joskus langattomat verkkokortit jumiutuvat tai kohtaavat ongelman, josta ne eivät voi enää palautua. Kokeile kytkeä langaton verkkolaite tietokoneestasi ensin pois päältä ja sitten nollaamalla se (jos se ei ole mahdollista, käynnistä se). Lisätietoja saat ohjeesta <span class="link"><a href="net-wireless-troubleshooting.html" title="Langattoman verkon vianselvitys">Langattoman verkon vianselvitys</a></span>.</p>
+<p class="p">Sometimes wireless cards get stuck or experience a minor problem that means they won’t connect. Try turning the card off and then on again to reset it — see <span class="link"><a href="net-wireless-troubleshooting.html" title="Langattoman verkon vianselvitys">Langattoman verkon vianselvitys</a></span> for more information.</p>
 </li>
 <li class="list">
-<p class="p">Check that you're using the correct type of wireless security</p>
-<p class="p">Kun Ubuntu kysyy sinulta verkon salasanaa, voit valita myös verkon salaustyypin. Varmista että valitsemasi salaustyyppi on langattoman tukiaseman tukema. Tämän asetuksen pitäisi olla oletuksena oikea, mutta joskus se ei ole jostakin syystä. Jos et tiedä verkkosi salaustyyppiä, kannattaa kokeilla eri vaihtoehtoja ja testata niiden toimivuutta.</p>
+<p class="p">Check that you’re using the correct type of wireless security</p>
+<p class="p">When prompted for your wireless security password, you can choose which type of wireless security to use. Make sure you choose the one that is used by the router or wireless base station. This should be selected by default, but sometimes it will not be for some reason. If you don’t know which one it is, use trial and error to go through the different options.</p>
 </li>
 <li class="list">
 <p class="p">Varmista, että langaton verkkokorttisi on kunnolla tuettu</p>
-<p class="p">Joitain langattomia verkkokortteja ei tueta kovin hyvin. Ne näkyvät langattomien verkkojen listalla, mutta niillä verkkoyhteyden muodostaminen epäonnistuu yleensä ajureiden puutteiden vuoksi. Tarkista vaihtoehtoisten ajureiden saatavuus tai halutessasi voit tehdä joitain ylimääräisiä ja teknisempiä tehtäviä (kuten eri <span class="em">laiteohjelmistojen</span> asennusta). Saat lisätietoja ohjeaiheesta <span class="link"><a href="net-wireless-troubleshooting.html" title="Langattoman verkon vianselvitys">Langattoman verkon vianselvitys</a></span>.</p>
+<p class="p">Some wireless cards aren’t supported very well. They show up as a wireless connection, but they can’t connect to a network because their drivers lack the ability to do this. See if you can get an alternative wireless driver, or if you need to perform some extra set-up (like installing a different <span class="em">firmware</span>). See <span class="link"><a href="net-wireless-troubleshooting.html" title="Langattoman verkon vianselvitys">Langattoman verkon vianselvitys</a></span> for more information.</p>
 </li>
 </ul></div></div></div>
 </div>

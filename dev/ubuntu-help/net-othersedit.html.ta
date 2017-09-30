@@ -2,7 +2,7 @@
 <html lang=ta>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>மற்ற பயனர்கள் பிணைய இணைப்புகளைத் திருத்த முடியாது</title>
+<title>Other users can’t edit the network connections</title>
 <link rel="stylesheet" type="text/css" href="ta.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,10 +46,13 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html" title="பிணைய சிக்கல்கள்">பிணைய சிக்கல்கள்</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">மற்ற பயனர்கள் பிணைய இணைப்புகளைத் திருத்த முடியாது</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Other users can’t edit the network connections</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">ஒரு பிணைய இணைப்பை நீங்கள் திருத்த முடிந்து, ஆனால் உங்கள் கணினியிலான மற்ற பயனர்கள் திருத்த முடியாவிட்டால், நீங்கள் அவ்விணைப்பை <span class="em">அனைத்து பயனர்களுக்கும் கிடைக்கும்</span> என்று அமைத்திருப்பீர்கள். இப்படிச் செய்வதால், கணினியில் அனைவரும் இணைப்பை பயன்படுத்தி <span class="em">இணைக்க முடியும்</span> முடியும்.</p>
+<p class="p">If you can edit a network connection but other users on your computer
+  can’t, you may have set the connection to be <span class="em">available to all users</span>.
+  This makes it so that everyone on the computer can <span class="em">connect</span> using
+  that connection.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
       start typing <span class="gui">Network</span>.</p></li>
@@ -71,17 +74,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html" title="பிணைய சிக்கல்கள்">பிணைய சிக்கல்கள்</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">வயர்லெஸ் இணைப்புகளை சிக்கல் தீர்த்தல்</a></span>, <span class="link"><a href="net-wireless-find.html" title="பட்டியலில் என் வயர்லெஸ் பிணையத்தைப் பார்க்க முடியவில்லை">உங்கள் wifi பிணையத்தைக் கண்டறிதல்</a></span>…</span>
+<a href="net-problem.html" title="பிணைய சிக்கல்கள்">பிணைய சிக்கல்கள்</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">வயர்லெஸ் இணைப்புகளை சிக்கல் தீர்த்தல்</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">உங்கள் wifi பிணையத்தைக் கண்டறிதல்</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-explain.html" title="நிர்வாக அனுமதிகள் எப்படி வேலை செய்கின்றன?">நிர்வாக அனுமதிகள் எப்படி வேலை செய்கின்றன?</a><span class="desc"> — கணினியின் முக்கிய விஷயங்களை மாற்ற உங்களுக்கு நிர்வாக அனுமதிகள் வேண்டும்.</span>
+<a href="net-othersconnect.html" title="Other users can’t connect to the internet">Other users can’t connect to the internet</a><span class="desc"> — நீங்கள் (கடவுச்சொல் போன்றவை) அமைவுகளை சேமிக்கலாம், இதனால் கணினியைப் பயன்படுத்தும் அனைவரும் பிணையத்துடன் இணைக்க முடியும்.</span>
 </li>
 <li class="links ">
-<a href="net-othersconnect.html" title="மற்ற பயனர்கள் இணையத்துடன் இணைக்க முடியாது">மற்ற பயனர்கள் இணையத்துடன் இணைக்க முடியாது</a><span class="desc"> — நீங்கள் (கடவுச்சொல் போன்றவை) அமைவுகளை சேமிக்கலாம், இதனால் கணினியைப் பயன்படுத்தும் அனைவரும் பிணையத்துடன் இணைக்க முடியும்.</span>
+<a href="user-admin-explain.html" title="நிர்வாக அனுமதிகள் எப்படி வேலை செய்கின்றன?">நிர்வாக அனுமதிகள் எப்படி வேலை செய்கின்றன?</a><span class="desc"> — கணினியின் முக்கிய விஷயங்களை மாற்ற உங்களுக்கு நிர்வாக அனுமதிகள் வேண்டும்.</span>
 </li>
 </ul></div>
 </div></div>

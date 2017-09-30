@@ -70,7 +70,7 @@
 <div id="speakers" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Pārliecinieties, ka skaļruņi ir ieslēgti un pareizi savienoti</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Ja datoram ir ārējie skaļruņi, pārliecinieties, ka tie ir ieslēgti un ir uzgriezts skaļums. Pārliecinieties, ka skaļruņa kabelis ir droši iesprausts "izejas" audio kontaktā jūsu datorā. Parasti kontakts ir gaiši zaļā krāsā.</p>
+<p class="p">Ja datoram ir ārējie skaļruņi, pārliecinieties, ka tie ir ieslēgti un ir uzgriezts skaļums. Pārliecinieties, ka skaļruņa kabelis ir droši iesprausts “izejas” audio kontaktā jūsu datorā. Parasti kontakts ir gaiši zaļā krāsā.</p>
 <p class="p">Dažas skaņu kartes spēj pārslēgties starp kontaktiem, kuru izmanto izejai (skaļruņiem) un kontaktiem ieejai (piemēram, mikrofonam). Izejas kontakts Linux var atšķirties no tā, kurš ir, piemēram, Windows vai Mac OS. Pamēģiniet pieslēgt atskaņotāju citā kontaktā.</p>
 <p class="p">Pēdējā lieta, ko pārbaudīt ir tas, vai audio kabelis ir droši iesprausts skaļruņu aizmugurē. Dažiem skaļruņiem var būt vairāk nekā viena ieeja.</p>
 </div></div>
@@ -78,7 +78,7 @@
 <div id="device" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Pārbaudiet, vai pareizā skaņas ierīce ir izvēlēta</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Dažiem datoriem ir instalētas vairākas "skaņu ierīces".  Dažas no tām var atskaņot skaņu, bet dažas nē, tāpēc vajadzētu pārbaudīt, vai ir izvēlēta pareizā skaņas ierīce. Šeit varētu būt nepieciešami vairāki izmēģinājumi, lai atrastu pareizo.</p>
+<p class="p">Dažiem datoriem ir instalētas vairākas “skaņu ierīces”.  Dažas no tām var atskaņot skaņu, bet dažas nē, tāpēc vajadzētu pārbaudīt, vai ir izvēlēta pareizā skaņas ierīce. Šeit varētu būt nepieciešami vairāki izmēģinājumi, lai atrastu pareizo.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Skaņa</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Skaņa</span>, lai atvērtu paneli.</p></li>

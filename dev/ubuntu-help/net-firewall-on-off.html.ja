@@ -51,9 +51,14 @@
 <div class="contents">
 <p class="p">システムには、インターネット上またはネットワーク上の他のユーザーによるプログラムへのアクセスをブロックできる<span class="em">ファイアウォール</span>を設定してください。これによりコンピューターの安全性を確保することができます。</p>
 <p class="p">ネットワーク接続を使用する可能性があるアプリケーションが多々あります。たとえば、ネットワークに接続している場合、ファイルを共有したり他のユーザーに遠隔からのデスクトップの表示を許可したりすることができます。コンピューターのセットアップ方法によっては、こうしたサービスが意図した通りに動作するようファイアウォールを調整する必要があります。</p>
-<p class="p">ネットワークサービスを提供するプログラムはそれぞれ特定の<span class="em">ネットワークポート</span>を使用します。ネットワーク上の他のコンピューターにサービスへのアクセスを許可するには、場合によってそのサービスに割り当てられているポートをファイアウォール上で「開く」必要があります。</p>
+<p class="p">Each program that provides network services uses a specific <span class="em">network
+  port</span>. To enable other computers on the network to access a service, you
+  may need to “open” its assigned port on the firewall:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">画面左上にある<span class="gui">アクティビティ</span>からファイアウォールアプリケーションを起動します。ファイアウォール管理ツール (Firestarter、 GUFW など) が見つからない場合は必要に応じてインストールしえください。</p></li>
+<li class="steps"><p class="p">Go to <span class="gui">Activities</span> in the top left corner of the screen and
+      start your firewall application. You may need to install a firewall
+      manager yourself if you can’t find one (for example, Firestarter or
+      GUFW).</p></li>
 <li class="steps"><p class="p">他のユーザーにアクセスを許可するかしないかに応じて、ネットワークサービスのポートを開いたり無効にしたりします。変更が必要なポートは<span class="link"><a href="net-firewall-ports.html" title="よく使用されるネットワークポート">サービスによって異なります</a></span>。</p></li>
 <li class="steps"><p class="p">ファイアウォールツールで指定されている指示にしたがい変更を保存または適用します。</p></li>
 </ol></div></div></div>

@@ -2,7 +2,7 @@
 <html lang=sl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Moj novi iPod ne deluje</title>
+<title>My new iPod won’t work</title>
 <link rel="stylesheet" type="text/css" href="sl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,10 +46,10 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Zvok, video in slike">Zvok, video in slike</a> › <a class="trail" href="media.html#music" title="Glasba in prenosni predvajalniki zvoka">Glasba in predvajalniki</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Moj novi iPod ne deluje</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">My new iPod won’t work</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">V primeru da imate nov iPod, ki še nikoli ni bil povezan z računalnikom, ob povezavi z računalnikom Linux ne bo pravilno prepoznan. To se zgodi, ker je treba nove iPode nastaviti in posodobiti s programom <span class="app">iTunes</span>, ki deluje le na Windows ali Mac OS.</p>
+<p class="p">If you have a new iPod that has never been connected to a computer before, it won’t be recognized properly when you connect it to a Linux computer. This is because iPods need to be set up and updated using the <span class="app">iTunes</span> software, which only runs on Windows and Mac OS.</p>
 <p class="p">Za nastavitev iPoda, namestite iTunes na računalnik Windows ali Mac in ga vklopite. Vodeni boste skozi nastavitvene korake. Ko boste vprašani za <span class="gui">Obliko nosilca</span>, izberite <span class="gui">MS-DOS (FAT)</span>, <span class="gui">Windows</span> ali podobno. Druga oblika (HFS/Mac) z Linuxom ne deluje dobro.</p>
 <p class="p">Ko ste nastavitev končali, bi moral iPod ob vklopu v računalnik Linux delovati.</p>
 </div>

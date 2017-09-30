@@ -2,7 +2,7 @@
 <html lang=fr>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Absence de mon réseau sans fil dans la liste</title>
+<title>I can’t see my wireless network in the list</title>
 <link rel="stylesheet" type="text/css" href="fr.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -50,7 +50,7 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Absence de mon réseau sans fil dans la liste</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">I can’t see my wireless network in the list</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Il y a un certain nombre de raisons qui font que vous ne pouvez pas trouver votre réseau sans fil dans la liste des réseaux du menu système.</p>
@@ -68,7 +68,7 @@
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-problem.html" title="Problèmes réseau">Problèmes réseau</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Dépannage du réseau sans fil">Dépannage des connexions sans fil</a></span>, <span class="link"><a href="net-wireless-find.html" title="Absence de mon réseau sans fil dans la liste">trouver votre réseau Wifi</a></span>…</span>
+<a href="net-problem.html" title="Problèmes réseau">Problèmes réseau</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Dépannage du réseau sans fil">Dépannage des connexions sans fil</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">trouver votre réseau Wifi</a></span>…</span>
 </li>
 <li class="links ">
 <a href="net-wireless.html" title="Réseau sans fil">Réseau sans fil</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Connexion à un réseau sans fil">Se connecter au Wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Connexion à un réseau sans fil masqué">réseaux masqués</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Interruptions intempestives du réseau sans fil">déconnexion</a></span>…</span>

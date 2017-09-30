@@ -79,7 +79,11 @@
 <p class="p">Si premeu dues tecles alhora, podeu fer que les tecles enganxoses es desactivin automàticament, de forma temporal, per tal que pugueu introduir una drecera de teclat de la forma «estàndard».</p>
 <p class="p">Per exemple, si tot i tenint activades les tecles enganxoses premeu <span class="key"><kbd>Súper</kbd></span> i <span class="key"><kbd>Tabulació</kbd></span> simultàniament, les tecles enganxoses no esperaran a què premeu una altra tecla. Només l'<span class="em">esperarien</span> si haguéssiu premut una única tecla. Això és útil si sou capaços de prémer algunes dreceres de teclat alhora (aquelles en què, per exemple, les tecles estan juntes), i d'altres no.</p>
 <p class="p">Seleccioneu <span class="gui">Inhabilita si es premen dues tecles alhora</span> per activar-ho.</p>
-<p class="p">Podeu configurar l'ordinador perquè emeti un so quan comenceu a introduir una drecera de teclat tenint les tecles enganxoses activades. Això és útil si voleu saber quan les tecles enganxoses estan esperant que s'introdueixi una drecera de teclat, per tal que la següent pulsació s'interpreti com a part d'aquesta drecera. Seleccioneu <span class="gui">Fes un avís sonor quan es premi una tecla modificadora</span> per activar-ho.</p>
+<p class="p">You can have the computer make a “beep” sound when you start typing a
+  keyboard shortcut with sticky keys turned on. This is useful if you want to
+  know that sticky keys is expecting a keyboard shortcut to be typed, so the
+  next key press will be interpreted as part of a shortcut. Select <span class="gui">Beep
+  when a modifier key is pressed</span> to enable this.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

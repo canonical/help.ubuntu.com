@@ -67,7 +67,10 @@
 <p class="p">Edistä tietoturvaasi pitämällä nämä asiat mielessä:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Älä avaa sähköpostiviestejä, liitetiedostoja tai linkkejä, jotka on lähetetty tuntemattomien ihmisten toimesta.</p></li>
-<li class="list"><p class="p">Jos esimerkiksi verkkokaupan tarjous on liian hyvää ollakseen totta tai se pyytää arkaluonteisia tietoja, mieti kahdesti ennen kuin lähetät mitään arkaluonteista (esimerkiksi luottokorttitietoja) ja voivatko lähettämäsi tiedot mahdollisesti päätyä rikollisten käsiin (onko yhteys salattu?).</p></li>
+<li class="list"><p class="p">If a website’s offer is too good to be true, or asks for sensitive
+      information that seems unnecessary, then think twice about what
+      information you are submitting and the potential consequences if that
+      information is compromised by identity thieves or other criminals.</p></li>
 <li class="list"><p class="p">Be careful in providing
       <span class="link"><a href="user-admin-explain.html" title="Kuinka pääkäyttäjäoikeudet toimivat?">root level permissions</a></span> to any
       application, especially ones that you have not used before or which are

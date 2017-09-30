@@ -43,15 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Install &amp; remove software">Přidat/odebrat software</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Instalace a odstranění softwaru">Přidat/odebrat software</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Odstranění aplikace</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">An application is software that has a graphical user interface (GUI).
-    You can use <span class="app">Ubuntu Software</span> to remove applications that you 
-    no longer use.</p>
+<p class="p">Aplikace je software, který má grafické uživatelské rozhraní (GUI). K odstranění aplikací, které již nepoužíváte můžete použít <span class="app">Ubuntu Software</span>.</p>
 <p class="p">Applications are available in two formats: snap packages and Debian packages. 
    An application available as a snap package is from now on referred to as a <span class="em">snap</span>.
    In order to remove (or install) a snap you have to log on to the Snap Store/Ubuntu One.
@@ -63,13 +61,10 @@
 <p class="p">To remove an application:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">
-        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Launcher</span>, or search
-        for <span class="input">Software</span> in the search bar of the <span class="gui">Dash</span>.
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
       </p></li>
-<li class="steps"><p class="p">
-        When <span class="app">Ubuntu Software</span> opens, click the <span class="gui">Installed</span> button at 
-        the top.
-      </p></li>
+<li class="steps"><p class="p">Když se <span class="app">Ubuntu Software</span> otevře, klikněte na tlačítko <span class="gui">Nainstalované</span> umístěné nahoře.</p></li>
 <li class="steps"><p class="p">Nalezněte aplikaci, kterou chcete odinstalovat, za použití vyhledávání nebo se podívejte do seznamu nainstalovaných aplikací.</p></li>
 <li class="steps"><p class="p">Vyberte aplikaci a klikněte na <span class="gui">Odstranit</span>.</p></li>
 <li class="steps"><p class="p">
@@ -91,29 +86,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html" title="Odstranění aplikace">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html" title="Add software repositories">add repositories</a></span>…
-    </span>
+<a href="addremove.html" title="Instalace a odstranění softwaru">Instalace a odstranění softwaru</a><span class="desc"> — <span class="link"><a href="addremove-install.html" title="Instalace dodatečných aplikací">Instalace aplikací</a></span>, <span class="link"><a href="addremove-remove.html" title="Odstranění aplikace">odstranění aplikací</a></span>, <span class="link"><a href="addremove-sources.html" title="Přidávání zdrojů softwaru">přidání zdrojů softwaru</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install.html" title="Install additional applications">
-    Install additional applications
-  </a><span class="desc"> — 
-      Use <span class="app">Ubuntu Software</span> to install additional applications and make Ubuntu more 
-      useful.
-    </span>
+<a href="addremove-install.html" title="Instalace dodatečných aplikací">Instalace dodatečných aplikací</a><span class="desc"> — Použijte <span class="app">Ubuntu Software</span> k instalaci dodatečných aplikací a vylepšete své Ubuntu.</span>
 </li>
 <li class="links ">
-<a href="addremove-install-synaptic.html" title="Použití Synaptic pro pokročilejší správu softwaru">Použití Synaptic pro pokročilejší správu softwaru</a><span class="desc"> — 
-      Synaptic is a powerful but complicated software management alternative to 
-      <span class="app">Ubuntu Software</span>.
-    </span>
+<a href="addremove-install-synaptic.html" title="Použití Synaptic pro pokročilejší správu softwaru">Použití Synaptic pro pokročilejší správu softwaru</a><span class="desc"> — Synaptic je efektivní, ale komplikovanou alternativou k <span class="app">Ubuntu Software</span>.</span>
 </li>
 </ul></div>
 </div></div>

@@ -60,15 +60,15 @@
 <div class="hgroup"><h2 class="title"><span class="title">Parar la suspensión del equipo cuando se cierra la tapa</span></h2></div>
 <div class="region"><div class="contents">
 <div class="note note-important" title="Importante"><div class="inner"><div class="region"><div class="contents"><p class="p">Estas instrucciones sólo funcionarán si está usando <span class="app">systemd</span>. Consulte su distribución para obtener más información.</p></div></div></div></div>
-<div class="note note-important" title="Importante"><div class="inner"><div class="region"><div class="contents"><p class="p">Necesita tener instalada la <span class="app">Herramienta de retoques</span> para modificar esta opción.</p></div></div></div></div>
+<div class="note note-important" title="Importante"><div class="inner"><div class="region"><div class="contents"><p class="p">Necesita tener instalado <span class="app">Retoques</span> en su equipo para modificar esta opción.</p></div></div></div></div>
 <p class="p">Si no quiere que el equipo se suspenda al cerrar la tapa, puede cambiar la configuración de ese comportamiento.</p>
 <div class="note note-warning" title="Advertencia"><div class="inner"><div class="region"><div class="contents"><p class="p">Tenga cuidado si cambia esta configuración. Algunos portátiles se pueden sobrecalentar si se dejan encendidos con la tapa cerrada, especialmente si están en un lugar cerrado como una mochila.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Herramienta de retoques</span>.</p></li>
-<li class="steps"><p class="p">Pulse en <span class="gui">Herramienta de retoques</span> para abrir la aplicación.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Retoques</span>.</p></li>
+<li class="steps"><p class="p">Pulse en <span class="gui">Retoques</span> para abrir la aplicación.</p></li>
 <li class="steps"><p class="p">Pulse en la pestaña <span class="gui">Energía</span>.</p></li>
 <li class="steps"><p class="p">Active la <span class="gui">No suspender al cerrar la tapa</span> (<span class="gui">Encendido</span>).</p></li>
-<li class="steps"><p class="p">Cierre la ventana de la <span class="gui">Herramienta de retoques</span>.</p></li>
+<li class="steps"><p class="p">Cierre la ventana de la <span class="gui">Retoques</span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>

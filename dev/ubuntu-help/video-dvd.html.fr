@@ -2,7 +2,7 @@
 <html lang=fr>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Pourquoi les DVD ne se lisent-ils pas ?</title>
+<title>Why won’t DVDs play?</title>
 <link rel="stylesheet" type="text/css" href="fr.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,21 +46,34 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Son, images et vidéos">Son, images et vidéos</a> › <a class="trail" href="media.html#videos" title="Vidéos et caméras">Vidéos</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Pourquoi les DVD ne se lisent-ils pas ?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Why won’t DVDs play?</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">Si vous insérez un DVD dans votre ordinateur et qu'il ne fonctionne pas, il se peut que vous n'ayez pas les codecs DVD nécessaires installés, ou que votre DVD n'appartienne pas à la bonne <span class="em">zone</span>.</p></div>
+<div class="contents"><p class="p">If you insert a DVD into your computer and it doesn’t play, you may not
+  have the right DVD <span class="em">codecs</span> installed, or the DVD might be from a
+  different <span class="em">region</span>.</p></div>
 <div id="codecs" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Installation des codecs nécessaires pour la lecture de DVD</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Pour lire des DVD, les <span class="em">codecs</span> nécessaires doivent être installés. Un codec est un élément logiciel qui permet aux applications de lire les formats audio ou vidéo. Si votre lecteur vidéo ne trouve pas les codecs nécessaires, il peut vous proposer de les installer pour vous. Si ce n'est pas le cas, vous devrez les installer manuellement. Pour obtenir de l'aide, consultez les forums d'aide de votre distribution Linux.</p>
+<p class="p">In order to play DVDs, you need to have the right <span class="em">codecs</span>
+  installed.  A codec is a piece of software that allows applications to read a
+  video or audio format. If your movie player software doesn’t find the right
+  codecs, it may offer to install them for you. If not, you’ll have to install
+  the codecs manually — ask for help on how to do this, for example on your
+  Linux distribution’s support forums.</p>
 <p class="p">Les DVD sont également <span class="em">protégés contre la copie</span> grâce à un système appelé CSS. Il vous empêche de copier les DVD, mais également de les lire sans un logiciel supplémentaire qui gère cette protection contre la copie. Ce logiciel est disponible avec certaines distributions Linux, mais ne peut pas être utilisé légalement dans tous les pays. Vous pouvez aussi acheter un décodeur de DVD commercial chez <span class="link"><a href="http://www.fluendo.com/shop/product/fluendo-dvd-player/" title="http://www.fluendo.com/shop/product/fluendo-dvd-player/">Fluendo</a></span>. Il fonctionne avec Linux et est légal dans tous les pays.</p>
 </div></div>
 </div></div>
 <div id="region" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Vérification de la zone de votre DVD</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Les DVD possèdent un <span class="em">code de région</span> qui définit dans quels pays du monde ils sont autorisés à être lus. Si la région du lecteur vidéo de votre ordinateur ne correspond pas à la région du DVD que vous essayer de lire, vous ne pourrez pas lire le DVD. Par exemple, si vous possédez un lecteur vidéo de région 1, vous ne pourrez lire que les DVD d'Amérique du Nord.</p>
-<p class="p">Il est souvent possible de changer la zone de votre lecteur vidéo, mais cela ne peut être fait qu'un certain nombre de fois avant que cela ne se bloque sur une zone. Pour changer la zone de votre lecteur vidéo, utilisez la page <span class="link"><a href="http://linvdr.org/projects/regionset/" title="http://linvdr.org/projects/regionset/">Réglage de la zone</a></span> (en anglais).</p>
+<p class="p">DVDs have a <span class="em">region code</span>, which tells you in which region of the
+  world they are allowed to be played. If the region of your computer’s DVD
+  player does not match the region of the DVD you are trying to play, you won’t
+  be able to play the DVD. For example, if you have a Region 1 DVD player, you
+  will only be allowed to play DVDs from North America.</p>
+<p class="p">It is often possible to change the region used by your DVD player, but it
+  can only be done a few times before it locks into one region permanently. To
+  change the DVD region of your computer’s DVD player, use <span class="link"><a href="http://linvdr.org/projects/regionset/" title="http://linvdr.org/projects/regionset/">regionset</a></span>.</p>
 <p class="p">Vous trouverez <span class="link"><a href="https://fr.wikipedia.org/wiki/Code_de_r%C3%A9gion_DVD" title="https://fr.wikipedia.org/wiki/Code_de_région_DVD">davantage d'informations sur les codes régions des DVD sur Wikipédia</a></span>.</p>
 </div></div>
 </div></div>

@@ -80,8 +80,10 @@
 <div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-basic.html" title="ファイルプロパティ"><span class="title">ファイルプロパティ</span><span class="linkdiv-dash"> — </span><span class="desc">基本的なファイル情報の表示、アクセス権の設定、およびデフォルトのアプリケーションの選択を行います。</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="nautilus-prefs.html" title="ファイルマネージャーの設定"><span class="title">ファイルマネージャーの設定</span><span class="linkdiv-dash"> — </span><span class="desc">View and set preferences for the file browser.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-share.html" title="メールを使ってファイルを共有する"><span class="title">メールを使ってファイルを共有する</span><span class="linkdiv-dash"> — </span><span class="desc">ファイルマネージャーから、メールの相手先へファイルを簡単に転送できます。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-open.html" title="別のアプリケーションでファイルを開く"><span class="title">別のアプリケーションでファイルを開く</span><span class="linkdiv-dash"> — </span><span class="desc">ファイルの種類に関連付けされたデフォルトのものではないアプリケーションでファイルを開く。デフォルトを変えることも可能。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-lost.html" title="見失ったファイルを探し出す"><span class="title">見失ったファイルを探し出す</span><span class="linkdiv-dash"> — </span><span class="desc">作成した、あるいはダウンロードしたファイルが見つけられない場合は、このヒントを参考にしてください。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-open.html" title="別のアプリケーションでファイルを開く"><span class="title">別のアプリケーションでファイルを開く</span><span class="linkdiv-dash"> — </span><span class="desc">Open files using an application that isn’t the default one for that
+    type of file. You can change the default too.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-lost.html" title="見失ったファイルを探し出す"><span class="title">見失ったファイルを探し出す</span><span class="linkdiv-dash"> — </span><span class="desc">Follow these tips if you can’t find a file you created or
+    downloaded.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>

@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Disks &amp; storage</title>
+<title>Schijven &amp; opslag</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,35 +43,28 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Disks &amp; storage</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Schijven &amp; opslag</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="disk-capacity.html" title="Check how much disk space is left"><span class="title">Check how much disk space is left</span><span class="linkdiv-dash"> — </span><span class="desc">Use <span class="gui">Disk Usage Analyzer</span> or <span class="gui">System Monitor</span> to
-    check space and capacity.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-check.html" title="Check your hard disk for problems"><span class="title">Check your hard disk for problems</span><span class="linkdiv-dash"> — </span><span class="desc">Test your hard disk for problems to make sure that it's healthy.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-resize.html" title="Adjust the size of a filesystem"><span class="title">Adjust the size of a filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Shrink or grow a filesystem and its partition.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-format.html" title="Alles van een verwijderbare schijf wissen"><span class="title">Alles van een verwijderbare schijf wissen</span><span class="linkdiv-dash"> — </span><span class="desc">Verwijder alle bestanden en mappen van een externe harde schijf of usb-stick door te formatteren.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-capacity.html" title="Controleer hoeveel schijfruimte er nog besschikbaar is"><span class="title">Controleer hoeveel schijfruimte er nog besschikbaar is</span><span class="linkdiv-dash"> — </span><span class="desc">Gebruik <span class="gui">Schijfgebruik</span> of <span class="gui">Systeemmonitor</span> om ruimte en capaciteit te controleren.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-check.html" title="Controleer of er problemen zijn met u harde schijf"><span class="title">Controleer of er problemen zijn met u harde schijf</span><span class="linkdiv-dash"> — </span><span class="desc">Test your hard disk for problems to make sure that it’s healthy.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-benchmark.html" title="De prestaties van u harde schijf testen"><span class="title">De prestaties van u harde schijf testen</span><span class="linkdiv-dash"> — </span><span class="desc">Prestatiemetingen (benchmarks) uitvoeren op uw harde schijf om te controleren hoe snel die is.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="addremove-creator.html" title="Een opstartschijf aanmaken"><span class="title">Een opstartschijf aanmaken</span><span class="linkdiv-dash"> — </span><span class="desc">Maak van een usb-stick een volume van waaruit u kunt opstarten en Ubuntu installeren.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-partitions.html" title="Manage volumes and partitions"><span class="title">Manage volumes and partitions</span><span class="linkdiv-dash"> — </span><span class="desc">Understand what volumes and partitions are and use the disk utility
-    to manage them.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-benchmark.html" title="Test the performance of your hard disk"><span class="title">Test the performance of your hard disk</span><span class="linkdiv-dash"> — </span><span class="desc">Run benchmarks on your hard disk to check how fast it is.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-format.html" title="Wipe everything off a removable disk"><span class="title">Wipe everything off a removable disk</span><span class="linkdiv-dash"> — </span><span class="desc">Remove all of the files and folders from an external hard disk or USB
-    flash drive by formatting it.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-repair.html" title="Repair a damaged filesystem"><span class="title">Repair a damaged filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Check if a filesystem is damaged and bring it back into a usable
+          state.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-partitions.html" title="Volumes en partities beheren"><span class="title">Volumes en partities beheren</span><span class="linkdiv-dash"> — </span><span class="desc">Begrijpen wat Volumen en partities zijn en hoe het schijfgereedschap te gebruiken om ze te beheren.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="Hardware &amp; drivers">Hardware &amp; drivers</a><span class="desc"> — 
-      <span class="link"><a href="hardware.html#problems" title="Common problems">Hardware problems</a></span>,
-      <span class="link"><a href="printing.html" title="Afdrukken">printers</a></span>,
-      <span class="link"><a href="power.html" title="Power &amp; battery">power settings</a></span>,
-      <span class="link"><a href="color.html" title="Color management">color management</a></span>,
-      <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>,
-      <span class="link"><a href="disk.html" title="Disks &amp; storage">disks</a></span>…
-    </span>
+<a href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware &amp; stuurprogramma's</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Veel voorkomende problemen">Hardware problemen</a></span>, <span class="link"><a href="printing.html" title="Afdrukken">printers</a></span>, <span class="link"><a href="power.html" title="Voeding &amp; accu">energie-instellingen</a></span>, <span class="link"><a href="color.html" title="Kleurbeheer">kleurbeheer</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disks.html" title="disks">schijven</a></span>...</span>
 </li></ul></div>
 </div></div></div>
 </div>

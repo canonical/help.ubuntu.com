@@ -49,13 +49,14 @@
 <div class="hgroup"><h1 class="title"><span class="title">什么是 IP 地址？</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">IP 地址代表<span class="em">Internet 协议地址</span>，连接到网络(如 Internet)的每个设备都有一个 IP 地址。</p>
+<p class="p">“IP address” stands for <span class="em">Internet Protocol address</span>, and each
+  device that is connected to a network (like the internet) has one.</p>
 <p class="p">IP 地址类似于您的电话号码，它是唯一的，这样别人就能找到您。同样，IP 地址也是惟一地标识您计算机的一组数字，这样它就可以发送和接收别的计算机数据。</p>
 <p class="p">当前，绝大多数 IP 地址由四组数字组成，由点分开。例如 <span class="code">192.168.1.42</span> 就是一个 IP 地址。</p>
 <div class="note note-tip" title="提示"><div class="inner"><div class="region"><div class="contents"><p class="p">An IP address can either be <span class="em">dynamic</span> or <span class="em">static</span>. Dynamic
     IP addresses are temporarily assigned each time your computer connects to a
     network. Static IP addresses are fixed, and do not change. Dynamic IP
-    addresses are more common that static addresses - static addresses are
+    addresses are more common that static addresses — static addresses are
     typically only used when there is a special need for them, such as in the
     administration of a server.</p></div></div></div></div>
 </div>

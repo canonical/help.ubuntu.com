@@ -70,12 +70,8 @@
 <div class="desc"><span class="desc"><span class="link"><a href="files-search.html" title="Buscar archivos">Buscar</a></span>, <span class="link"><a href="files-delete.html" title="Eliminar archivos y carpetas">eliminar archivos</a></span>, <span class="link"><a href="files.html#backup" title="Hacer copias de respaldo">copias de respaldo</a></span>, <span class="link"><a href="files.html#removable" title="Dispositivos extraíbles y discos externos">dispositivos extraíbles</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="addremove.html" title="Install &amp; remove software">Install &amp; remove software</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="addremove-install.html" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html" title="Desinstalar una aplicación">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html" title="Add software repositories">add repositories</a></span>…
-    </span></div>
+<div class="links-grid-link"><a href="addremove.html" title="Instalar y eliminar software">Instalar y eliminar software</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="addremove-install.html" title="Instalar aplicaciones adicionales">Instalar aplicaciones</a></span>, <span class="link"><a href="addremove-remove.html" title="Desinstalar una aplicación">desinstalar aplicaciones</a></span>, <span class="link"><a href="addremove-sources.html" title="Añadir repositorios de software">añadir repositorios</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs.html" title="Usuario y configuración del sistema">Usuario y configuración del sistema</a></div>

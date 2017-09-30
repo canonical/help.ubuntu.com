@@ -55,7 +55,13 @@
 <div class="contents">
 <p class="p">获取配置文件的最佳方式是自行生成，尽管这确实需要一些初始费用。</p>
 <p class="p">很多制造商都尽力为设备提供色彩配置文件，只不过有时它们被打包在<span class="em">驱动程序软件包</span>内，您可能需要下载、提取，然后搜索色彩配置文件。</p>
-<p class="p">有些制造商不为硬件提供准确的配置文件，配置文件被尽量避免使用。一个好思路是下载配置文件，但如果创建日期在设备购买日期之前一年以上，则可能是由无用的虚拟数据生成的。</p>
+<p class="p">
+    Some manufacturers do not provide accurate profiles for the hardware
+    and the profiles are best avoided.
+    A good clue is to download the profile, and if the creation date is
+    more than a year before the date you bought the device then it’s
+    likely dummy data generated that is useless.
+  </p>
 <p class="p">请参阅<span class="link"><a href="color-why-calibrate.html" title="为何需要自己进行校准？">为何需要自己进行校准？</a></span>了解有关为什么厂商提供的配置文件常常有害无益的信息。</p>
 </div>
 <div class="sect sect-links" role="navigation">

@@ -54,7 +54,14 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
 <p class="p"><span class="em-bold em">Busy time of day</span></p>
-<p class="p">インターネットサービスプロバイダーは複数世帯でインターネット共有されるよう接続の設定を行うのが一般的です。専用の電話回線やケーブル接続を使用している場合であっても、電話交換器から先の接続は実際には共有されている可能性があります。このような場合、インターネットが近隣世帯で同時に使用されると、インターネットが遅くなったと感じることがあります。たとえば、隣の人が夕方などの同時刻にインターネットを使用していると遅くなったと感じることもあるでしょう。</p>
+<p class="p">Internet service providers commonly setup internet connections so that
+      they are shared between several households. Even though you connect
+      separately, through your own phone line or cable connection, the
+      connection to the rest of the internet at the telephone exchange might
+      actually be shared. If this is the case and lots of your neighbors are
+      using the internet at the same time as you, you might notice a slow-down.
+      You’re most likely to experience this at times when your neighbors are
+      probably on the internet (in the evenings, for example).</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">多くのものを同時にダウンロードする</span></p>
@@ -66,15 +73,27 @@
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">ワイヤレス接続信号が弱い</span></p>
-<p class="p">無線 (wifi) でインターネット接続している場合はトップバーのネットワークアイコンで十分なワイヤレス信号を受信しているか確認します。十分な信号を受信していない場合、受け取っている信号に十分な強度がないためインターネット通信が遅くなる場合があります。</p>
+<p class="p">If you’re connected to the internet by wireless (wifi), check the
+      network icon on the top bar to see if you have good wireless signal. If
+      not, the internet may be slow because you don’t have a very strong
+      signal.</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">使用しているモバイルインターネット接続が遅い</span></p>
-<p class="p">モバイルインターネット接続を使用していて遅いと感じた場合、信号の受信状態が悪い地域に移動したことが原因の場合があります。こうした状況の場合には、接続が 3G のような高速な「モバイルブロードバンド」から GPRS のような低速ながら安定した接続に自動的に切り替わります。</p>
+<p class="p">If you have a mobile internet connection and notice that it is slow,
+      you may have moved into an area where signal reception is poor. When this
+      happens, the internet connection will automatically switch from a fast
+      “mobile broadband” connection like 3G to a more reliable, but slower,
+      connection like GPRS.</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Web ブラウザーに問題がある</span></p>
-<p class="p">web ブラウザーの動作速度が低下するような問題に遭遇する場合があります。読み込みが困難な web サイトに移動したり、ブラウザーを長時間開いたままにしていた場合など、原因は多々考えられます。まずブラウザーのウィンドウをすべて閉じてから再度開きなおし、動作速度に違いが見られるかどうか試してみてください。</p>
+<p class="p">Sometimes web browsers encounter a problem that makes them run slow.
+      This could be for any number of reasons — you could have visited a
+      website that the browser struggled to load, or you might have had the
+      browser open for a long time, for example. Try closing all of the
+      browser’s windows and then opening the browser again to see if this makes
+      a difference.</p>
 </li>
 </ul></div></div></div>
 </div>
@@ -83,7 +102,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html" title="ネットワーク関連の問題">ネットワーク関連の問題</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="無線ネットワークトラブルシューティング">無線接続トラブルシューティング</a></span>、<span class="link"><a href="net-wireless-find.html" title="一覧に自分の無線ネットワークが表示されません">wifi ネットワーク検索</a></span>…</span>
+<a href="net-problem.html" title="ネットワーク関連の問題">ネットワーク関連の問題</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="無線ネットワークトラブルシューティング">無線接続トラブルシューティング</a></span>、<span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">wifi ネットワーク検索</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

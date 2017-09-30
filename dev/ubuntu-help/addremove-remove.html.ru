@@ -57,7 +57,10 @@
 <p class="p">Вам может также понадобиться удалить программы, не имеющих графического интерфейса. Для удаления таких программ можно воспользоваться <span class="link"><a href="addremove-install-synaptic.html" title="Используйте Synaptic для более продвинутого управления программным обеспечением">Synaptic</a></span>. Обратите внимание, что в <span class="app">Synaptic</span> не отображаются snap-пакеты.</p>
 <p class="p">Для того, чтобы удалить приложение:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Щёлкните на значке <span class="app">Менеджера приложений Ubuntu</span> в <span class="gui">панели запуска</span> или наберите слово <span class="input">«приложений»</span> в строке поиска <span class="gui">главного меню</span>.</p></li>
+<li class="steps"><p class="p">
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">После открытия <span class="app">Менеджера приложений Ubuntu</span> нажмите кнопку <span class="gui">Установлено</span> в верхней части окна.</p></li>
 <li class="steps"><p class="p">Найдите приложение, которое нужно удалить, используя строку поиска или просматривая список установленных приложений.</p></li>
 <li class="steps"><p class="p">Выберите приложение и щёлкните <span class="gui">Удалить</span>.</p></li>

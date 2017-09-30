@@ -54,7 +54,14 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
 <p class="p"><span class="em-bold em">Zaposleni čas dneva</span></p>
-<p class="p">Ponudniki internetnih storitev internetne povezave pogosto nastavijo tako, da si jih deli več gospodinjstev. Čeprav se povežete ločeno s svojo telefonsko ali kabelsko povezavo, si morda povezavo do preostanka interneta delite z drugimi. Če je to res in hkrati z vami internet uporablja več sosedov, lahko opazite upočasnitev. To upočasnitev lahko opazite, ko so sosedje na internetu (na primer zvečer).</p>
+<p class="p">Internet service providers commonly setup internet connections so that
+      they are shared between several households. Even though you connect
+      separately, through your own phone line or cable connection, the
+      connection to the rest of the internet at the telephone exchange might
+      actually be shared. If this is the case and lots of your neighbors are
+      using the internet at the same time as you, you might notice a slow-down.
+      You’re most likely to experience this at times when your neighbors are
+      probably on the internet (in the evenings, for example).</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Prejemanje več stvari hkrati</span></p>
@@ -66,15 +73,27 @@
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Šibek signal brezžične povezave</span></p>
-<p class="p">V primeru da ste povezani z internetom preko brezžične povezave (wifi), kliknite na ikono omrežja v vrhnji vrstici in preverite, če imate dober brezžični signal. Če ga nimate, je internet morda počasen, ker nimate močnega signala.</p>
+<p class="p">If you’re connected to the internet by wireless (wifi), check the
+      network icon on the top bar to see if you have good wireless signal. If
+      not, the internet may be slow because you don’t have a very strong
+      signal.</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Uporaba počasne mobilne internetne povezave</span></p>
-<p class="p">V primeru da imate mobilno internetno povezavo in opazite, da je počasna, ste se morda premaknili na področje, kjer je sprejem signala šibek. Ko se to zgodi, bo internetna povezava samodejno preklopila s hitre "mobilne širokopasovne" povezave kot je 3G na zanesljivejšo, toda počasnejšo povezavo kot je GPRS.</p>
+<p class="p">If you have a mobile internet connection and notice that it is slow,
+      you may have moved into an area where signal reception is poor. When this
+      happens, the internet connection will automatically switch from a fast
+      “mobile broadband” connection like 3G to a more reliable, but slower,
+      connection like GPRS.</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Spletni brskalnik ima težavo</span></p>
-<p class="p">Včasih spletni brskalniki naletijo na težave, ki jih upočasnijo. To se lahko zgodi zaradi različnih vzrokov - lahko ste obiskali spletišče, ki ga brskalnik ni mogel naložiti, ali pa ste imeli brskalnik odprt dolg čas. Poskusite zapreti vsa okna brskalnika in znova odprite brskalnik in preverite, če to naredi razliko.</p>
+<p class="p">Sometimes web browsers encounter a problem that makes them run slow.
+      This could be for any number of reasons — you could have visited a
+      website that the browser struggled to load, or you might have had the
+      browser open for a long time, for example. Try closing all of the
+      browser’s windows and then opening the browser again to see if this makes
+      a difference.</p>
 </li>
 </ul></div></div></div>
 </div>
@@ -83,7 +102,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html" title="Težave z omrežjem">Težave z omrežjem</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Odpravljanje težav z brezžičnimi omrežji">Odpravljanje težav z brezžičnimi povezavami</a></span>, <span class="link"><a href="net-wireless-find.html" title="Svojega brezžičnega omrežja ne morem videti na seznamu">iskanje brezžične povezave</a></span> …</span>
+<a href="net-problem.html" title="Težave z omrežjem">Težave z omrežjem</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Odpravljanje težav z brezžičnimi omrežji">Odpravljanje težav z brezžičnimi povezavami</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">iskanje brezžične povezave</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

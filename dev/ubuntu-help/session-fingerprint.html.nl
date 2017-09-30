@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Log in with a fingerprint</title>
+<title>Aanmelden met een vingerafdruk</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,15 +43,15 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="hardware-auth.html" title="Fingerprints &amp; smart cards">Fingerprints &amp; smart cards</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="hardware-auth.html" title="Vingerafdruk &amp; smartcards">Vingerafdruk &amp; smartcards</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Log in with a fingerprint</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Aanmelden met een vingerafdruk</span></h1></div>
 <div class="region">
 <div class="contents"><p class="p">If your system has a supported fingerprint scanner, you can record your
   fingerprint and use it to log in.</p></div>
 <div id="record" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Record a fingerprint</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Een vingerafdruk vastleggen</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Before you can log in with your fingerprint, you need to record it so that
   the system can use it to identify you.</p>
@@ -61,9 +61,8 @@
 <p class="p">You need <span class="link"><a href="user-admin-explain.html" title="Hoe werken beheerdersrechten?">administrator privileges</a></span>
   to edit user accounts other than your own.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Users</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Users</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Gebruikers</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Gebruikers</span> om het paneel te openen.</p></li>
 <li class="steps"><p class="p">Press on <span class="gui">Disabled</span>, next to <span class="gui">Fingerprint Login</span> to
       add a fingerprint for the selected account. If you are adding the
       fingerprint for a different user, you will first need to
@@ -81,7 +80,7 @@
 </div></div>
 </div></div>
 <div id="verify" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Check that your fingerprint works</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Controleren of uw vingerafdruk werkt</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Now check that your new fingerprint login works. If you register a
   fingerprint, you still have the option to log in with your password.</p>
@@ -100,11 +99,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-auth.html" title="Fingerprints &amp; smart cards">Fingerprints &amp; smart cards</a><span class="desc"> — 
-    <span class="link"><a href="session-fingerprint.html" title="Log in with a fingerprint">Fingerprint readers</a></span>,
-
-    smart cards…
-  </span>
+<a href="hardware-auth.html" title="Vingerafdruk &amp; smartcards">Vingerafdruk &amp; smartcards</a><span class="desc"> — <span class="link"><a href="session-fingerprint.html" title="Aanmelden met een vingerafdruk">Vingerafdruk-lezers</a></span>, smartcards…</span>
 </li></ul></div>
 </div></div></div>
 </div>

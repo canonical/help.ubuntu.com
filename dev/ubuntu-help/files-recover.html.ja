@@ -61,8 +61,15 @@
 <li class="steps"><p class="p">削除したファイルがゴミ箱にあれば、それをクリックして<span class="gui">元に戻す</span>を選択します。削除時の元にあった場所にファイルが戻ります。</p></li>
 </ol></div>
 </div></div>
-<p class="p">ファイルを削除するのに、<span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Delete</kbd></span></span> を押したり、あるいはコマンドラインを使ったりした場合は、そのファイルは完全に削除されます。完全に削除したファイルは、<span class="gui">ゴミ箱</span>から元に戻すことはできません。</p>
-<p class="p">完全に削除したファイルを場合によって元に戻すことができる復旧ツールは数多く存在します。しかしながら、こうしたツールは一般にあまり簡単に扱えるものではありません。誤ってファイルを削除してしまった場合は、復旧方法についてサポートフォーラムなどで助言を求めると良いでしょう。</p>
+<p class="p">If you deleted the file by pressing <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Delete
+  </kbd></span></span>, or by using the command line, the file has been permanently
+  deleted. Files that have been permanently deleted can’t be recovered from the
+  <span class="gui">Trash</span>.</p>
+<p class="p">There are a number of recovery tools available that are sometimes able to
+  recover files that were permanently deleted. These tools are generally not
+  very easy to use, however. If you accidentally permanently deleted a file,
+  it’s probably best to ask for advice on a support forum to see if you can
+  recover it.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -78,7 +85,8 @@
 <a href="files-delete.html" title="ファイル、フォルダーを削除する">ファイル、フォルダーを削除する</a><span class="desc"> — 不要なファイルやフォルダーを削除します。</span>
 </li>
 <li class="links ">
-<a href="files-lost.html" title="見失ったファイルを探し出す">見失ったファイルを探し出す</a><span class="desc"> — 作成した、あるいはダウンロードしたファイルが見つけられない場合は、このヒントを参考にしてください。</span>
+<a href="files-lost.html" title="見失ったファイルを探し出す">見失ったファイルを探し出す</a><span class="desc"> — Follow these tips if you can’t find a file you created or
+    downloaded.</span>
 </li>
 </ul></div>
 </div></div>

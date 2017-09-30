@@ -53,7 +53,8 @@
   files at your discretion. When a file is hidden, it is not displayed by the
   file manager, but it is still there in its folder.</p>
 <p class="p">ஒரு கோப்பை மறைக்க, அதன் பெயரின் முன்பு ஒரு <span class="file">.</span> ஐ சேர்த்து அதை <span class="link"><a href="files-rename.html" title="ஒரு கோப்பு அல்லது கோப்புறையை மறுபெயரிடுதல்">மறுபெயரிடவும்</a></span>. உதாரணமாக <span class="file"> example.txt</span> எனும் பெயருள்ள ஒரு கோப்பை மறைக்க, நீங்கள் அதை <span class="file">.example.txt</span> என மறுபெயரிட வேண்டும்.</p>
-<div class="note" title="குறிப்பு"><div class="inner"><div class="region"><div class="contents"><p class="p">நீங்கள் கோப்புகளை மறைக்கும் அதே வழியைப் பயன்படுத்தி கோப்புறைகளையும் மறைக்கலாம். ஒரு கோப்புறையின் பெயரின் தொடக்கத்தில் ஒரு <span class="file">.</span> ஐச் சேர்ப்பதன் மூலம் அதனை மறைக்கலாம்.</p></div></div></div></div>
+<div class="note" title="குறிப்பு"><div class="inner"><div class="region"><div class="contents"><p class="p">You can hide folders in the same way that you can hide files. Hide a
+  folder by placing a <span class="file">.</span> at the beginning of the folder’s name.</p></div></div></div></div>
 </div>
 <div id="show-hidden" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">மறைக்கப்பட்ட கோப்புகள் அனைத்தையும் காட்டுதல்</span></h2></div>

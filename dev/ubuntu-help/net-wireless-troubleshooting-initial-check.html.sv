@@ -59,7 +59,7 @@
 </div>
 <div class="region">
 <div class="contents">
-<p class="p">I detta steget kommer du att kontrollera viss grundläggande information om din trådlösa nätverksanslutning. Detta är för att säkerställa att ditt nätverksproblem inte orsakats av relativt enkla fel som att den trådlösa anslutningen är avstängd, och för att förbereda för nästa felsökningssteg.</p>
+<p class="p">I detta steg kommer du att kontrollera viss grundläggande information om din trådlösa nätverksanslutning. Detta är för att säkerställa att ditt nätverksproblem inte orsakats av relativt enkla fel som att den trådlösa anslutningen är avstängd, och för att förbereda för nästa felsökningssteg.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Säkerställ att din bärbara dator inte är ansluten till en <span class="em">trådburen</span> internetanslutning.</p></li>
 <li class="steps"><p class="p">Om du har en extern trådlös adapter (som en USB-adapter, eller ett PCMCIA-kort som sätts in i din bärbara dator), säkerställ att den är ordentligt isatt i rätt lucka på din dator.</p></li>

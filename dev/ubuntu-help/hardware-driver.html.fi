@@ -49,7 +49,9 @@
 <div class="hgroup"><h1 class="title"><span class="title">Mikä ajuri on?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Laitteet ovat tietokoneesi fyysisiä osia. Ne voivat olla <span class="em">ulkoisia</span> kuten tulostimet ja näytöt tai <span class="em">sisäisiä</span> kuten näytönohjain ja äänikortti.</p>
+<p class="p">Devices are the physical “parts” of your computer. They may be
+<span class="em">external</span> like printers and monitor or <span class="em">internal</span> like graphics
+and audio cards.</p>
 <p class="p">Jotta tietokoneesi voi käyttää näitä laitteita, sen täytyy tietää, miten niiden kanssa kommunikoidaan. Tämä hoituu <span class="em">laiteajureiden</span> avulla.</p>
 <p class="p">When you attach a device to your computer, you must have the correct driver
 installed for that device to work. For example, if you plug in a printer but

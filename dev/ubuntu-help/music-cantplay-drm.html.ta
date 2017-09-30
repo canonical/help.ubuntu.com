@@ -2,7 +2,7 @@
 <html lang=ta>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>நான் ஒரு ஆன்லைன் மியூசிக் ஸ்டோரில் இருந்து வாங்கிய பாடல்களை இயக்க முடியவில்லை</title>
+<title>I can’t play the songs I bought from an online music store</title>
 <link rel="stylesheet" type="text/css" href="ta.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,12 +46,12 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="ஒலி, வீடியோ &amp; படங்கள்">ஒலி, வீடியோ &amp;  படங்கள்</a> › <a class="trail" href="media.html#music" title="இசை மற்றும் சிறிய ஆடியோ பிளேயர்கள்">இசை மற்றும் பிளேயர்கள்</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">நான் ஒரு ஆன்லைன் மியூசிக் ஸ்டோரில் இருந்து வாங்கிய பாடல்களை இயக்க முடியவில்லை</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">I can’t play the songs I bought from an online music store</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">நீங்கள் ஒரு ஆன்லைன் ஸ்டோரில் இருந்து பதிவிறக்கம் செய்யும் சில இசைக் கோப்புகள், குறிப்பாக நீங்கள் அவற்றை ஒரு Windows அல்லது Mac OS கணினியில் வாங்கி பிறகு அதை நகலெடுத்திருந்தால், அவை உங்கள் கணினியில் இயக்கப்படாமல் போகலாம்.</p>
-<p class="p">அந்த இசைக் கோப்பு உங்கள் கணினி அடையாளம் காணும் ஒரு வடிவத்தில் இல்லாததால் இப்படி நடக்கலாம். ஒரு பாடலை உங்கள் கணினி இயக்க வேண்டுமானால், கணினியில் அதற்கு தேவையான சரியான ஆடியோ வடிவமப்புகளுக்கான ஆதரவு நிறுவப்பட்டிருக்க வேண்டும் - உதாரணமாக நீங்கள் MP3 கோப்புகளை இயக்க வேண்டும் என்றால், கணினியில் MP3 ஆதரவு நிறுவப்பட்டிருக்க வேண்டும். ஒரு குறிப்பிட்ட ஆடியோ வடிவமைப்புக்கான ஆதரவு உங்கள் கணினியில் இல்லை என்றால், நீங்கள் ஒரு பாடலை இயக்க முயற்சிக்கும் போது அதை ஒரு செய்தி கூறும். அந்த செய்தியில் நீங்கள் அந்தப் பாடலை இயக்க தேவையான அந்த வடிவமைப்புக்கான ஆதரவை எப்படி நிறுவுவது என்ற வழிமுறைகளும் இருக்கலாம்.</p>
-<p class="p">ஒரு பாடலின் ஆடியோ வடிவமைப்புக்கான ஆதரவு உங்கள் கணினியில் நிறுவப்பட்டிருந்தும் அதை இயக்க முடியாது போனால், அந்தப் பாடல் <span class="em">பதிப்புரிமையால் பாதுகாக்கப்பட்டதாக</span> இருக்கலாம் (<span class="em">DRM கட்டுப்பாடு கொண்டது</span> என்றும் கூறப்படும்). DRM என்பது ஒரு பாடலை யார் இயக்க முடியும், மற்றும் எந்த சாதனங்களில் இயக்க முடியும் என்பதையெல்லாம் கட்டுப்படுத்தும் ஒரு முறையாகும். இது பாடலை உங்களுக்கு விற்ற நிறுவனத்தின் கட்டுப்பாட்டில் உள்ள ஒரு விஷயமாகும். ஒரு இசைக் கோப்பு DRM கட்டுப்பாடு கொண்டது என்றால், அநேகமாக நீங்கள் அதை இயக்க முடியாது போகலாம். வழக்கமாக DRM கட்டுப்பாடு கொண்ட கோப்புகளை இயக்க அந்த விற்பனையாளரே வழங்கும் சிறப்பு மென்பொருள் தேவை, ஆனால் இந்த மென்பொருள் பெரும்பாலும் Linux இல் ஆதரிக்கப்படாது.</p>
+<p class="p">If you downloaded some music from an online store you may find that it won’t play on your computer, especially if you bought it on a Windows or Mac OS computer and then copied it over.</p>
+<p class="p">This could be because the music is in a format that is not recognized by your computer. To be able to play a song you need to have support for the right audio formats installed — for example, if you want to play MP3 files, you need MP3 support installed. If you don’t have support for a given audio format, you should see a message telling you so when you try to play a song. The message should also provide instructions for how to install support for that format so that you can play it.</p>
+<p class="p">If you do have support installed for the song’s audio format but still can’t play it, the song might be <span class="em">copy protected</span> (also known as being <span class="em">DRM restricted</span>). DRM is a way of restricting who can play a song and on what devices they can play it. The company that sold the song to you is in control of this, not you. If a music file has DRM restrictions, you will probably not be able to play it — you generally need special software from the vendor to play DRM restricted files, but this software is often not supported on Linux.</p>
 <p class="p">நீங்கள் <span class="link"><a href="http://www.eff.org/issues/drm" title="http://www.eff.org/issues/drm">எலக்ட்ரானிக் ஃப்ரான்ட்டியர் ஃபவுன்டேஷனில்</a></span> இருந்து DRM பற்றி மேலும் அறியலாம்.</p>
 </div>
 <div class="sect sect-links" role="navigation">

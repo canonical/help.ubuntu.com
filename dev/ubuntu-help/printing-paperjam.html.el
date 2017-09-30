@@ -50,8 +50,14 @@
 <div class="region">
 <div class="contents">
 <p class="p">Μερικές φορές οι εκτυπωτές τροφοδοτούν λαθεμένα φύλλα χαρτί και κολλάνε.</p>
-<p class="p">Το εγχειρίδιο του εκτυπωτή σας παρέχει συνήθως λεπτομερείς οδηγίες πώς να αφαιρέσετε κολλημένα χαρτιά. Συνήθως, θα χρειαστείτε να ανοίξετε ένα από τα πλαίσια του εκτυπωτή για να βρείτε το κολλημένο μέσα και έπειτα σταθερά (αλλά προσεκτικά!) θα αφαιρέσετε το κολλημένο χαρτί από τον μηχανισμό τροφοδοσίας του εκτυπωτή.</p>
-<p class="p">Μόλις το κολλημένο χαρτί έχει αφαιρεθεί μπορεί να χρειαστεί να πατήσετε το κουμπί του εκτυπωτή <span class="em">συνέχεια</span> για να ξεκινήσει ξανά η εκτύπωση. Με μερικούς εκτυπωτές, μπορεί ακόμα να χρειαστείτε να σβήσετε και έπειτα να ξανανοίξετε τον εκτυπωτή για να αρχίσετε την εργασία εκτύπωσης.</p>
+<p class="p">The manual for your printer will usually provide detailed instructions on
+  how to clear paper jams. Usually, you will need to open one of the printer’s
+  panels to find the jam inside and then firmly (but carefully!) pull the
+  jammed paper out of the printer’s feeding mechanism.</p>
+<p class="p">Once the jam has been cleared you may need to press the printer’s
+  <span class="em">resume</span> button to start printing again. With some printers, you may
+  even need to turn the printer off and then on again, and then start the print
+  job again.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

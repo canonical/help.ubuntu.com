@@ -93,7 +93,11 @@
   some keyboard shortcuts simultaneously (for example, keys that are close
   together), but not others.</p>
 <p class="p">Za omogočitev tega izberite <span class="gui">Onemogoči, če sta dve tipki pritisnjeni skupaj</span>.</p>
-<p class="p">Računalnik lahko proizvede zvok piska, ko začnete vnašati tipkovno bližnjico z vklopljenimi lepljivimi tipkami. To je uporabno, če želite vedeti ali lepljive tipke pričakujejo vnos tipkovne bližnjice in bodo naslednji pritiski tipk obravnavani kot del bližnjice. Za omogočitev tega izberite <span class="gui">Zapiskaj, ko je pritisnjena spremenilna tipka</span>.</p>
+<p class="p">You can have the computer make a “beep” sound when you start typing a
+  keyboard shortcut with sticky keys turned on. This is useful if you want to
+  know that sticky keys is expecting a keyboard shortcut to be typed, so the
+  next key press will be interpreted as part of a shortcut. Select <span class="gui">Beep
+  when a modifier key is pressed</span> to enable this.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -102,7 +106,7 @@
 <div class="region"><ul>
 <li class="links "><a href="a11y.html#mobility" title="Težave z gibanjem">Težave z gibanjem</a></li>
 <li class="links ">
-<a href="keyboard.html" title="Tipkovnica">Tipkovnica</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Razporeditve tipkovnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Ali naj vrivnik tipkovnice utripa">utripanje vrivnka</a></span>, <span class="link"><a href="a11y.html#mobility" title="Težave z gibanjem">dostopnost tipkovnice </a></span> ...</span>
+<a href="keyboard.html" title="Tipkovnica">Tipkovnica</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Uporaba nadomestnih razporeditev tipk">Razporeditve tipkovnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Ali naj vrivnik tipkovnice utripa">utripanje vrivnka</a></span>, <span class="link"><a href="a11y.html#mobility" title="Težave z gibanjem">dostopnost tipkovnice </a></span> ...</span>
 </li>
 </ul></div>
 </div></div></div>

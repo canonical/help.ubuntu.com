@@ -51,9 +51,14 @@
 <div class="contents">
 <p class="p">Ваша система должна быть оснащена <span class="em">межсетевым экраном</span>, который позволяет защищать программы от доступа посторонних людей через Интернет или локальную сеть. Это помогает сделать компьютер более защищённым.</p>
 <p class="p">Многие приложения используют подключение к сети. Например, вы можете предоставить общий доступ к своим файлам в сети или позволить кому-либо удалённо просматривать ваш рабочий стол. В зависимости от настроек компьютера, возможно, вам понадобится настроить межсетевой экран, чтобы обеспечить нормальную работу этих сетевых сервисов.</p>
-<p class="p">Каждая предоставляющая сетевые услуги программа использует определённый <span class="em">сетевой порт</span>. Чтобы разрешить другим компьютерам в сети доступ к услуге, может понадобиться «открыть» этот порт в межсетевом экране:</p>
+<p class="p">Each program that provides network services uses a specific <span class="em">network
+  port</span>. To enable other computers on the network to access a service, you
+  may need to “open” its assigned port on the firewall:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Зайдите в <span class="gui">Обзор</span> в верхнем левом углу экрана и запустите приложение для работы с межсетевым экраном. Если его там нет, нужно будет установить одно из таких приложений (например, Firestarter или GUFW).</p></li>
+<li class="steps"><p class="p">Go to <span class="gui">Activities</span> in the top left corner of the screen and
+      start your firewall application. You may need to install a firewall
+      manager yourself if you can’t find one (for example, Firestarter or
+      GUFW).</p></li>
 <li class="steps"><p class="p">Откройте или закройте порт сетевой службы, в зависимости от того, хотите ли вы, чтобы другие люди имели к ней доступ. Доступность какого порта нужно изменить, будет <span class="link"><a href="net-firewall-ports.html" title="Часто используемые сетевые порты">зависеть от службы</a></span>.</p></li>
 <li class="steps"><p class="p">Сохраните или примените изменения, следуя дополнительным инструкциям, предоставленным программой для управления межсетевым экраном.</p></li>
 </ol></div></div></div>

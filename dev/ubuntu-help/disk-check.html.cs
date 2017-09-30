@@ -59,7 +59,7 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Z přehledu <span class="gui">Činnosti</span> otevřete <span class="app">Disky</span>.</p></li>
 <li class="steps"><p class="p">V seznamu úložných zařízení nalevo vyberte disk, který chcete zkontrolovat. Zobrazí se informace a stav disku.</p></li>
-<li class="steps"><p class="p">Klikněte na nabídkové tlačítko a vyberte <span class="gui">Data SMART a autokontroly…</span>. <span class="gui">Souhrnné posouzení</span> by mělo sdělovat „Disk je v pořádku“.</p></li>
+<li class="steps"><p class="p">Klikněte na tlačítko s nabídkou a vyberte <span class="gui">Data SMART a autokontroly…</span>. <span class="gui">Souhrnné posouzení</span> by mělo sdělovat „Disk je v pořádku“.</p></li>
 <li class="steps"><p class="p">Podívejte se na informace v <span class="gui">Příznacích SMART</span> nebo klikněte na tlačítko <span class="gui">Spustit autokontrolu</span>, aby se provedla autokontrola disku.</p></li>
 </ol></div>
 </div></div>
@@ -68,7 +68,7 @@
 <div id="disk-not-healthy" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Co dělat, když disk není v pořádku?</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Když <span class="gui">Souhrnné posouzení</span> naznačuje, že disk <span class="em">není</span> v pořádku, nemusí tu být nutně důvod k panice. Ale rozhodně je lepší připravit si <span class="link"><a href="backup-why.html" title="Záloha vašich důležitých souborů">zálohu</a></span>, abyste předešli ztrátě dat.</p>
+<p class="p">I když <span class="gui">Souhrnné posouzení</span> naznačuje, že disk <span class="em">není</span> v pořádku, nemusí tu být ještě nutně důvod k panice. Ale rozhodně je lepší připravit si <span class="link"><a href="backup-why.html" title="Záloha vašich důležitých souborů">zálohu</a></span>, abyste předešli ztrátě dat.</p>
 <p class="p">Když stav oznamuje „Předzvěst selhání“, je disk stále normálně použitelný, ale byly u něj zjištěny náznaky opotřebení, které naznačují, že v brzké době může selhat. Pokud je váš pevný disk (nebo počítač) starý několik let, dost možná se s touto zprávou setkáte při některé z kontrol stavu. V takové případě byste měli <span class="link"><a href="backup-how.html" title="Jak zálohovat">průběžně zálohovat důležité soubory</a></span> a pravidelně kontrolovat stav disku, jestli se nezhoršuje.</p>
 <p class="p">Jestliže se zhoršuje, asi byste měli vzít počítač/pevný disk k odborníkovi na podrobnější kontrolu nebo opravu.</p>
 </div></div>

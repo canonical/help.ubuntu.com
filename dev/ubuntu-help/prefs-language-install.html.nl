@@ -51,8 +51,11 @@
 <div class="contents">
 <p class="p">Wanneer u Ubuntu installeert, wordt de taal die u bij het installeren kiest geïnstalleerd naast het Engels, maar u kunt meer talen toevoegen.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the <span class="em">system menu</span> and select <span class="gui">System Settings</span>.</p></li>
-<li class="steps"><p class="p">Klik onder Persoonlijk op <span class="gui">Taalondersteuning</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activities</a></span> overview and
+      start typing <span class="gui">Region &amp; Language</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Manage Installed Languages</span> button to open <span class="gui">Language
+      Support</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Talen toevoegen / verwijderen…</span>.  Het venster <span class="gui">Geïnstalleerde talen</span> bevat een lijst met alle beschikbare talen, waarbij de huidig geïnstalleerde talen van een vinkje zijn voorzien.</p></li>
 <li class="steps"><p class="p">Plaats een vinkje bij de talen die u wilt installeren en haal het vinkje weg bij de geïnstalleerde talen die u wilt verwijderen.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Wijzigingen doorvoeren</span></p></li>
@@ -77,10 +80,10 @@
 <a href="addremove-install.html" title="Extra toepassingen installeren">Extra toepassingen installeren</a><span class="desc"> — Gebruik <span class="app">Ubuntu Software</span> om toepassingen toe te voegen en Ubuntu bruikbaarder te maken.</span>
 </li>
 <li class="links ">
-<a href="prefs-language.html" title="Region &amp; Language">Region &amp; Language</a><span class="desc"> — 
-      <span class="link"><a href="session-language.html" title="Change which language you use">Language</a></span>,
-      <span class="link"><a href="session-formats.html" title="Change date and measurement formats">region and formats</a></span>,
-      <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">keyboard layouts</a></span>…
+<a href="prefs-language.html" title="Regio &amp; taal">Regio &amp; taal</a><span class="desc"> — 
+      <span class="link"><a href="session-language.html" title="Een andere taal kiezen voor uzelf">Language</a></span>,
+      <span class="link"><a href="session-formats.html" title="Formaat voor datum en maten wijzigen">region and formats</a></span>,
+      <span class="link"><a href="keyboard-layouts.html" title="Alternatieve toetsenbordindelingen gebruiken">keyboard layouts</a></span>…
     </span>
 </li>
 </ul></div>

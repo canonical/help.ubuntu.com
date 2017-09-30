@@ -68,8 +68,8 @@
 <div id="disk-not-healthy" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Vad gör jag om disken inte mår bra?</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Även om <span class="gui">Övergripande bedömning</span> indikerar att disken <span class="em">inte</span> mår bra så behöver det inte innebära panik. Det är dock bra att bara förberedd med en <span class="link"><a href="backup-why.html" title="Säkerhetskopiera dina viktiga filer">säkerhetskopia</a></span> för att undvika dataförlust.</p>
-<p class="p">Om tillståndet visar "Pre-fail" mår disken fortfarande ganska bra men visar tecken på slitage, vilket innebär att den kan krascha inom en nära framtid. Om din hårddisk (eller dator) har några år på nacken kommer du antagligen se det här meddelandet för åtminstone ett par hälsokontroller. Du bör <span class="link"><a href="backup-how.html" title="Hur man skapar en säkerhetskopia">säkerhetskopiera dina viktiga filer regelbundet</a></span> och kontrollera disktillståndet med jämna mellanrum för att se om det förvärras.</p>
+<p class="p">Även om <span class="gui">Övergripande bedömning</span> indikerar att disken <span class="em">inte</span> mår bra så behöver det inte innebära panik. Det är dock bra att vara förberedd med en <span class="link"><a href="backup-why.html" title="Säkerhetskopiera dina viktiga filer">säkerhetskopia</a></span> för att undvika dataförlust.</p>
+<p class="p">Om tillståndet visar ”Pre-fail” mår disken fortfarande ganska bra men visar tecken på slitage, vilket innebär att den kan krascha inom en nära framtid. Om din hårddisk (eller dator) har några år på nacken kommer du antagligen se det här meddelandet för åtminstone ett par hälsokontroller. Du bör <span class="link"><a href="backup-how.html" title="Hur man skapar en säkerhetskopia">säkerhetskopiera dina viktiga filer regelbundet</a></span> och kontrollera disktillståndet med jämna mellanrum för att se om det förvärras.</p>
 <p class="p">Om det blir värre så kan det vara bra att ta med datorn/hårddisken till en reparatör för ytterligare diagnos eller reparation.</p>
 </div></div>
 </div></div>

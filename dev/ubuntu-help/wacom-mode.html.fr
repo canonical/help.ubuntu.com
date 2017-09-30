@@ -2,7 +2,7 @@
 <html lang=fr>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Définition du mode de recherche de la tablette Wacom</title>
+<title>Set the Wacom tablet’s tracking mode</title>
 <link rel="stylesheet" type="text/css" href="fr.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,7 +46,7 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="wacom.html" title="Tablette graphique Wacom">Tablette graphique Wacom</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Définition du mode de recherche de la tablette Wacom</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Set the Wacom tablet’s tracking mode</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Le <span class="gui">mode de recherche</span> détermine la correspondance entre le pointeur et l'écran.</p>
@@ -55,14 +55,16 @@
     start typing <span class="gui">Wacom Tablet</span>.</p></li>
 <li class="steps">
 <p class="p">Cliquez sur <span class="gui">Tablette Wacom</span> pour ouvrir le panneau.</p>
-<div class="note note-tip" title="Astuce"><div class="inner"><div class="region"><div class="contents"><p class="p">Si aucune tablette n'est détectée, il vous est demandé <span class="gui">Veuillez connecter ou allumer votre tablette Wacom</span>. Cliquez sur le lien <span class="gui">Paramètres Bluetooth</span> pour connecter une tablette sans fil.</p></div></div></div></div>
+<div class="note note-tip" title="Astuce"><div class="inner"><div class="region"><div class="contents"><p class="p">If no tablet is detected, you’ll be asked to
+    <span class="gui">Please plug in or turn on your Wacom tablet</span>. Click the
+    <span class="gui">Bluetooth Settings</span> link to connect a wireless tablet.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">À côté de <span class="gui">mode de recherche</span>, sélectionnez <span class="gui">Tablette (absolu)</span> ou <span class="gui">Pavé tactile (relatif)</span>.</p></li>
 </ol></div></div></div>
 <div class="note" title="Note"><div class="inner"><div class="region"><div class="contents">
 <p class="p">Dans le mode <span class="em">absolu</span>, chaque point de la tablette correspond à un point de l'écran. Le coin supérieur gauche de l'écran, par exemple, correspond toujours au même point sur la tablette.</p>
 <p class="p">In <span class="em">relative</span> mode, if you lift the pointer off the tablet and put it
- down in a different position, the cursor on the screen doesn't move. This is
+ down in a different position, the cursor on the screen doesn’t move. This is
     the way a mouse operates.</p>
 </div></div></div></div>
 </div>

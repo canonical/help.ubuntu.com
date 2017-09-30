@@ -46,6 +46,7 @@
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Ubuntu Logo"></span></span> Ubuntu Desktop Guide</span></h1></div>
 <div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 17.10</span></div><div class="region"><div class="contents">
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html" title="Почетак коришћења"><span class="title">Почетак коришћења Гнома</span><span class="linkdiv-dash"> — </span><span class="desc">Први пут користите Гном? Научите да га користите.</span></a></div></div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Одјављивање, гашење, промена корисника"><span class="title">Одјављивање, гашење, промена корисника</span><span class="linkdiv-dash"> — </span><span class="desc">Сазнајте како да напустите ваш кориснички налог, одјављивањем, променом корисника, и тако даље.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Почетни програми"><span class="title">Почетни програми</span><span class="linkdiv-dash"> — </span><span class="desc">Покрените програме из прегледа <span class="gui">Активности</span>.</span></a></div>

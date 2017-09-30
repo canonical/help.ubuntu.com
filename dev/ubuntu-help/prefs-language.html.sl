@@ -51,7 +51,7 @@
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="linkdiv "><a class="linkdiv" href="session-language.html" title="Izbira jezika, ki ga uporabljate"><span class="title">Izbira jezika, ki ga uporabljate</span><span class="linkdiv-dash"> — </span><span class="desc">Preklopite na drug jezik za uporabniški vmesnik in besedilo pomoči.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="session-formats.html" title="Sprememba datuma in oblik merjenja"><span class="title">Sprememba datuma in oblik merjenja</span><span class="linkdiv-dash"> — </span><span class="desc">Izberite regijo, ki naj se uporablja za datum in čas, števila, valuto in merske enote.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="keyboard-layouts.html" title="Use alternative keyboard layouts"><span class="title">Use alternative keyboard layouts</span><span class="linkdiv-dash"> — </span><span class="desc">Add keyboard layouts and switch between them.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="keyboard-layouts.html" title="Uporaba nadomestnih razporeditev tipk"><span class="title">Uporaba nadomestnih razporeditev tipk</span><span class="linkdiv-dash"> — </span><span class="desc">Dodajte razporeditev tipk in preklapljajte med njimi.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

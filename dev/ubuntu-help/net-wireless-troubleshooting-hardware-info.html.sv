@@ -59,13 +59,13 @@
 </div>
 <div class="region">
 <div class="contents">
-<p class="p">I detta steget, kommer du att samla ihop information om din trådlösa nätverksenhet. Sättet som du fixar många trådlösa problem beror på tillverkare och modellnummer för den trådlösa adaptern, så du kommer att behöva skriva ner dessa detaljer. Det kan också vara bra att ha tillgång till några av sakerna som levererades med din dator, som installationsdiskar för enhetsdrivrutiner. Leta efter följande saker, och se om du fortfarande har kvar dem:</p>
+<p class="p">I detta steg, kommer du att samla ihop information om din trådlösa nätverksenhet. Sättet som du fixar många trådlösa problem beror på tillverkare och modellnummer för den trådlösa adaptern, så du kommer att behöva skriva ner dessa detaljer. Det kan också vara bra att ha tillgång till några av sakerna som levererades med din dator, som installationsdiskar för enhetsdrivrutiner. Leta efter följande saker, och se om du fortfarande har kvar dem:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Förpackning och instruktioner för dina trådlösa enheter (speciellt användarguiden för din router)</p></li>
 <li class="list"><p class="p">Disken som innehåller drivrutiner för din trådlösa adapter (även om den bara innehåller Windows-drivrutiner)</p></li>
 <li class="list"><p class="p">Tillverkare och modellnummer för din dator, trådlösa adapter och router. Denna information kan vanligtvis hittas på undersidan eller baksidan av enheten.</p></li>
 <li class="list"><p class="p">Versions- eller revisionsnummer som står tryckta på dina trådlösa nätverksenheter eller deras förpackningar. Dessa kan vara speciellt användbara, så leta noggrant.</p></li>
-<li class="list"><p class="p">Något på drivrutinsdisken som identifierar antingen enheten i sig, dess version av ”fast program” (firmware) eller komponenter (chipset) som det använder.</p></li>
+<li class="list"><p class="p">Något på drivrutinsdisken som identifierar antingen enheten i sig, dess version av ”fast programvara” (firmware) eller komponenter (chipset) som det använder.</p></li>
 </ul></div></div></div>
 <p class="p">Om möjligt, försök att gå åtkomst till en fungerande, alternativ internetanslutning så du kan ladda ner programvara och drivrutiner om det behövs. (Att ansluta din dator direkt till routern med en Ethernetkabel är ett sätt att åstadkomma detta, men anslut den bara när du behöver.)</p>
 <p class="p">När du har så många som möjligt av dessa saker, klicka <span class="gui">Nästa</span>.</p>

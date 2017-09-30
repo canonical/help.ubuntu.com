@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Use less power and improve battery life</title>
+<title>Gebruik minder stroom en verbeter de levensduur van de accu</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,65 +44,53 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="power.html" title="Power &amp; battery">Power &amp; battery</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="power.html" title="Voeding &amp; accu">Voeding &amp; accu</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="power.html" title="Power &amp; battery">Power &amp; battery</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="power.html" title="Voeding &amp; accu">Voeding &amp; accu</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Use less power and improve battery life</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Gebruik minder stroom en verbeter de levensduur van de accu</span></h1></div>
 <div class="region">
 <div class="contents"><p class="p">Computers can use a lot of power. By using some simple energy-saving
   strategies, you can reduce your energy bill and help the environment.</p></div>
 <div id="general" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">General tips</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Algemene tips</span></h2></div>
 <div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="link"><a href="shell-exit.html#suspend" title="Suspend">Suspend your computer</a></span> when you
-    are not using it. This significantly reduces the amount of power it uses,
-    and it can be woken up very quickly.</p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-exit.html#shutdown" title="Power off or restart">Turn off</a></span> the computer when you
-    will not be using it for longer periods. Some people worry that turning off
-    a computer regularly may cause it to wear out faster, but this is not the
-    case.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-exit.html#suspend" title="Pauzestand">Zet uw computer in de pauzestand</a></span> wanneer u deze niet gebruikt. Dit vermindert het stroomverbuik aanmerkelijk en en de computer kan snel weer geactiveerd worden.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-exit.html#shutdown" title="Afsluiten of opnieuw opstarten">Schakel de computer uit</a></span> als u het voor een langere tijd niet zal gebruiken. Sommige mensen vrezen dat het regelmatig uitschakelen van een computer ervoor zal zorgen dat de computer sneller verslijt. Dit is echter niet het geval.</p></li>
 <li class="list"><p class="p">Use the <span class="gui">Power</span> panel in <span class="app">Settings</span> to change your
     power settings. There are a number of options that will help to save power:
-    you can <span class="link"><a href="display-blank.html" title="Set screen blanking time">automatically blank the screen</a></span>
-    after a certain time, reduce the <span class="link"><a href="display-brightness.html" title="Set screen brightness">screen
+    you can <span class="link"><a href="display-blank.html" title="De tijd voordat het scherm zwart wordt instellen">automatically blank the screen</a></span>
+    after a certain time, reduce the <span class="link"><a href="display-brightness.html" title="De helderheid van het scherm instellen">screen
     brightness</a></span>, and have the computer
-    <span class="link"><a href="power-autosuspend.html" title="Set up automatic suspend">automatically suspend</a></span> if you have not
+    <span class="link"><a href="power-autosuspend.html" title="Automatische pauzestand instellen">automatically suspend</a></span> if you have not
     used it for a certain period of time.</p></li>
-<li class="list"><p class="p">Turn off any external devices (like printers and scanners) when you are
-    not using them.</p></li>
+<li class="list"><p class="p">Schakel alle externe apparaten uit (zoals printers en scanners) uit als u ze niet gebruikt.</p></li>
 </ul></div></div></div></div></div>
 </div></div>
 <div id="laptop" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Laptops, netbooks, and other devices with batteries</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Laptops, netbooks en andere apparaten met accu's</span></h2></div>
 <div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
-<p class="p">Reduce the <span class="link"><a href="display-brightness.html" title="Set screen brightness">screen
+<p class="p">Reduce the <span class="link"><a href="display-brightness.html" title="De helderheid van het scherm instellen">screen
      brightness</a></span>. Powering the screen accounts for a significant fraction
      of a laptop power consumption.</p>
-<p class="p">Most laptops have buttons on the keyboard (or a keyboard shortcut) that
-     you can use to reduce the brightness.</p>
+<p class="p">De meeste laptops hebben toetsen op het toetsenbord (of sneltoetsen) waarmee u de helderheid kunt verlagen.</p>
 </li>
 <li class="list">
 <p class="p">If you do not need an Internet connection for a little while, turn off
      the wireless or Bluetooth cards. These devices work by broadcasting radio
      waves, which takes quite a bit of power.</p>
-<p class="p">Some computers have a physical switch that can be used to turn it off,
-     whereas others have a keyboard shortcut that you can use instead. You can
-     turn it on again when you need it.</p>
+<p class="p">Sommige computers hebben een fysieke schakelaar waarmee de kaart uitgeschakeld kan worden, terwijl andere sneltoetsen hebben die daarvoor gebruikt kunnen worden. U kunt de kaart weer inschakelen wanneer u hem nodig heeft.</p>
 </li>
 </ul></div></div></div></div></div>
 </div></div>
 <div id="advanced" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">More advanced tips</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Geavanceerde tips</span></h2></div>
 <div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list"><li class="list">
-<p class="p">Reduce the number of tasks that are running in the background.
-     Computers use more power when they have more work to do.</p>
-<p class="p">Most of your running applications do very little when you are not
-     actively using them. However, applications that frequently grab data from
-     the internet or play music or movies can impact your power consumption.</p>
+<p class="p">Beperk het aantal taken dat op de achtergrond draait. Computers gebruiken meer energie wanneer ze meer werk te doen hebben.</p>
+<p class="p">De meeste van uw openstaande toepassingen doen zeer weinig als u ze niet actief gebruikt. Maar toepassingen die regelmatig gegevens van het internet ophalen, muziek of video's afspelen, of berekeningen maken kunnen van invloed zijn op het energieverbruik.</p>
 </li></ul></div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -111,36 +99,31 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Power &amp; battery">Power &amp; battery</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="What happens when I suspend my computer?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="Waarom wordt mijn scherm na enige tijd zwart?">screen dimming</a></span>…
-    </span>
+<a href="power.html" title="Voeding &amp; accu">Voeding &amp; accu</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Controleer de accustatus">Accustatus</a></span>, <span class="link"><a href="power-suspend.html" title="Wat gebeurt er wanneer ik mijn computer in de pauzestand zet?">pauzestand</a></span>, <span class="link"><a href="power-whydim.html" title="Waarom wordt mijn scherm na enige tijd zwart?">scherm dimmen</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
+<li class="links "><a href="shell-exit.html#shutdown" title="Afsluiten of opnieuw opstarten">Afsluiten of opnieuw opstarten</a></li>
 <li class="links ">
-<a href="power-status.html" title="Check the battery status">Check the battery status</a><span class="desc"> — Display the status of the battery and connected devices.</span>
+<a href="power-status.html" title="Controleer de accustatus">Controleer de accustatus</a><span class="desc"> — Display the status of the battery and connected devices.</span>
 </li>
 <li class="links ">
-<a href="power-batterywindows.html" title="Hoe komt het dat de levensduur van de accu lager is dan onder Windows/Mac OS?">Hoe komt het dat de levensduur van de accu lager is dan onder Windows/Mac OS?</a><span class="desc"> — Tweaks van de fabrikant en verschillende schattingen van de levensduur van de accu kunnen de oorzaak zijn van dit probleem.</span>
+<a href="display-brightness.html" title="De helderheid van het scherm instellen">De helderheid van het scherm instellen</a><span class="desc"> — De helderheid van het scherm verhogen om het beter leesbaar te maken bij fel licht.</span>
 </li>
-<li class="links "><a href="shell-exit.html#shutdown" title="Power off or restart">Power off or restart</a></li>
 <li class="links ">
-<a href="display-brightness.html" title="Set screen brightness">Set screen brightness</a><span class="desc"> — Change the screen brightness to make it more readable in bright
-    light.</span>
+<a href="power-batterywindows.html" title="Hoe komt het dat de accuduur lager is dan onder Windows/Mac OS?">Hoe komt het dat de accuduur lager is dan onder Windows/Mac OS?</a><span class="desc"> — Tweaks van de fabrikant en verschillende schattingen van de accuduur kunnen de oorzaak zijn van dit probleem.</span>
 </li>
-<li class="links "><a href="shell-exit.html#suspend" title="Suspend">Suspend</a></li>
 <li class="links ">
-<a href="power-wireless.html" title="Switch off unused wireless technologies">Switch off unused wireless technologies</a><span class="desc"> — Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span>
+<a href="power-wireless.html" title="Ongebruikte draadloze technieken uitschakelen">Ongebruikte draadloze technieken uitschakelen</a><span class="desc"> — Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span>
 </li>
+<li class="links "><a href="shell-exit.html#suspend" title="Pauzestand">Pauzestand</a></li>
 <li class="links ">
 <a href="power-whydim.html" title="Waarom wordt mijn scherm na enige tijd zwart?">Waarom wordt mijn scherm na enige tijd zwart?</a><span class="desc"> — The screen will dim when the computer is idle in order to save power.</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html" title="What happens when I suspend my computer?">What happens when I suspend my computer?</a><span class="desc"> — Suspend sends your computer to sleep so it uses less power.</span>
+<a href="power-suspend.html" title="Wat gebeurt er wanneer ik mijn computer in de pauzestand zet?">Wat gebeurt er wanneer ik mijn computer in de pauzestand zet?</a><span class="desc"> — Dit betekent dat uw computer in pauzestand wordt gezet zodat deze minder stroom verbruikt.</span>
 </li>
 </ul></div>
 </div></div>

@@ -50,13 +50,13 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-othersconnect.html" title="Altri utenti non sono in grado di connettersi a Internet"><span class="title">Altri utenti non sono in grado di connettersi a Internet</span><span class="linkdiv-dash"> — </span><span class="desc">Le impostazioni di una connessione di rete (come la password) possono essere salvate in modo tale da consentire la connessione a chiunque usi il computer.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-othersedit.html" title="Gli altri utenti non possono modificare le connessioni di rete"><span class="title">Gli altri utenti non possono modificare le connessioni di rete</span><span class="linkdiv-dash"> — </span><span class="desc">È necessario deselezionare l'opzione <span class="gui">Disponibile per tutti gli utenti</span> nelle impostazioni della connessione di rete.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html" title="I can’t see my wireless network in the list"><span class="title">I can’t see my wireless network in the list</span><span class="linkdiv-dash"> — </span><span class="desc">The wireless could be turned off or broken, or you may be trying to
+    connect to a hidden network.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-slow.html" title="La connessione Internet sembra lenta"><span class="title">La connessione Internet sembra lenta</span><span class="linkdiv-dash"> — </span><span class="desc">Si stanno scaricando altri elementi, la connessione è scadente o la linea è congestionata.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-othersconnect.html" title="Other users can’t connect to the internet"><span class="title">Other users can’t connect to the internet</span><span class="linkdiv-dash"> — </span><span class="desc">Le impostazioni di una connessione di rete (come la password) possono essere salvate in modo tale da consentire la connessione a chiunque usi il computer.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html" title="Non è possibile visualizzare la propria rete senza fili nell'elenco"><span class="title">Non è possibile visualizzare la propria rete senza fili nell'elenco</span><span class="linkdiv-dash"> — </span><span class="desc">The wireless could be turned off or broken, or you may be trying to
-    connect to a hidden network.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-othersedit.html" title="Other users can’t edit the network connections"><span class="title">Other users can’t edit the network connections</span><span class="linkdiv-dash"> — </span><span class="desc">È necessario deselezionare l'opzione <span class="gui">Disponibile per tutti gli utenti</span> nelle impostazioni della connessione di rete.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-disconnecting.html" title="Perché la connessione senza fili continua a disconnettersi?"><span class="title">Perché la connessione senza fili continua a disconnettersi?</span><span class="linkdiv-dash"> — </span><span class="desc">Il segnale può essere debole o la rete non consente una corretta connessione.</span></a></div>
 </div>
 </div></div></div></div>

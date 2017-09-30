@@ -51,8 +51,11 @@
 <div class="contents">
 <p class="p">Az Ubuntu telepítésekor az angol mellett a kiválasztott nyelv is telepítésre kerül, de további nyelvek telepíthetők.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the <span class="em">system menu</span> and select <span class="gui">System Settings</span>.</p></li>
-<li class="steps"><p class="p">A Személyes szakaszban válassza a <span class="gui">Nyelvi támogatás</span> ikont.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Activities</a></span> overview and
+      start typing <span class="gui">Region &amp; Language</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Manage Installed Languages</span> button to open <span class="gui">Language
+      Support</span>.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Nyelvek telepítése/eltávolítása</span> ikonra. A <span class="gui">Telepített nyelvek</span> ablak felsorol minden elérhető nyelvet, az aktuálisan telepítettek itt be lesznek jelölve.</p></li>
 <li class="steps"><p class="p">Jelölje be a telepíteni kívánt nyelveket, és törölje az eltávolítani kívántak jelölését.</p></li>
 <li class="steps"><p class="p">Nyomja meg a <span class="gui">Változtatások alkalmazása</span> gombot.</p></li>
@@ -86,7 +89,7 @@
     </span>
 </li>
 <li class="links ">
-<a href="prefs-language.html" title="Terület és nyelv">Terület és nyelv</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Nyelv megváltoztatása">Nyelv</a></span>, <span class="link"><a href="session-formats.html" title="Dátum és mértékegység-formátumok módosítása">terület és formátumok</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">billentyűzetkiosztások</a></span>…</span>
+<a href="prefs-language.html" title="Terület és nyelv">Terület és nyelv</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Nyelv megváltoztatása">Nyelv</a></span>, <span class="link"><a href="session-formats.html" title="Dátum és mértékegység-formátumok módosítása">terület és formátumok</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Alternatív billentyűzetkiosztások használata">billentyűzetkiosztások</a></span>…</span>
 </li>
 </ul></div>
 </div></div>

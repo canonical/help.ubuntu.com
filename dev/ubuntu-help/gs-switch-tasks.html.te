@@ -57,9 +57,11 @@
 <video src="figures/gnome-task-switching.webm" preload="auto" controls="controls" class="media media-block" height="394" width="700" data-play-label="ఆడించు" data-pause-label="నిలిపివేయి"></video><div class="media-ttml">
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="1" data-ttml-end="5"><div class="media-ttml-node media-ttml-p" data-ttml-begin="1" data-ttml-end="5">కర్తవ్యాలను మార్చుట</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="9" data-ttml-end="12"><div class="media-ttml-node media-ttml-p" data-ttml-begin="9" data-ttml-end="12">కర్తవ్యమునకు మారుటకు విండోను నొక్కుము.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="12" data-ttml-end="14"><div class="media-ttml-node media-ttml-p" data-ttml-begin="12" data-ttml-end="14">తెర ఎడమ వైపుకు విండోను పెద్దది చేయుటకు, విండో శీర్షికపట్టీను పట్టుకొని ఎడమవైపుకు లాగండి.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="12" data-ttml-end="14"><div class="media-ttml-node media-ttml-p" data-ttml-begin="12" data-ttml-end="14">To maximize a window along the left side of the screen, grab
+            the window’s titlebar and drag it to the left.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="14" data-ttml-end="16"><div class="media-ttml-node media-ttml-p" data-ttml-begin="14" data-ttml-end="16">తెర అర్ధభాగం ఉద్దీపనం కాగానే, విండోను వదులుము.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="16" data-ttml-end="0"><div class="media-ttml-node media-ttml-p" data-ttml-begin="16" data-ttml-end="0">కుడి వైపుకు విండోను పెద్దది చేయుటకు, విండో శీర్షికపట్టీను పట్టుకొని కుడివైపుకు లాగండి.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="16" data-ttml-end="0"><div class="media-ttml-node media-ttml-p" data-ttml-begin="16" data-ttml-end="0">To maximize a window along the right side, grab the window’s
+            titlebar and drag it to the right.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="18" data-ttml-end="20"><div class="media-ttml-node media-ttml-p" data-ttml-begin="18" data-ttml-end="20">తెర అర్ధభాగం ఉద్దీపనం కాగానే, విండోను వదులుము.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="23" data-ttml-end="27"><div class="media-ttml-node media-ttml-p" data-ttml-begin="23" data-ttml-end="27">
 <span class="gui">విండో మార్చునది</span> చూపుటకు <span class="keyseq"><span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>+<span class="key"><kbd> Tab</kbd></span></span> వత్తుము.</div></div>
@@ -83,7 +85,8 @@
 <div id="switching-tasks-tiling" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">టైల్ విండోలు</span></h2></div>
 <div class="region"><div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">తెర వెంబడి విండోను పెద్దది చేయుటకు, విండో యొక్క శీర్షికపట్టీను పట్టి దానిని తెర ఎడమ వైపుకు లేదా కుడి వైపుకు లాగుము.</p></li>
+<li class="steps"><p class="p">To maximize a window along a side of the screen, grab the window’s
+       titlebar and drag it to the left or right side of the screen.</p></li>
 <li class="steps"><p class="p">తెర అర్ధభాగం ఉద్దీపనం కాగానే, విండోను ఎంపికచేసిన తెర వైపుకు పెద్దది చేయుటకు దానిని వదులుము.</p></li>
 <li class="steps"><p class="p">వెండు విండోలను పక్క-పక్కనే పెద్దవి చేయుటకు, రెండో విండో యొక్క శీర్షిక పట్టీను పట్టీ దానిని తెరకు వ్యతిరేక దిశలో లాగుము.</p></li>
 <li class="steps"><p class="p">తెర అర్ధభాగం ఉద్దీపనం కాగానే, విండోను ఎంపికచేసిన తెర వ్యతిరేక దిశకు పెద్దది చేయుటకు దానిని వదులుము.</p></li>

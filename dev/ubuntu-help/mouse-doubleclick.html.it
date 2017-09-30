@@ -55,7 +55,10 @@
 <div class="hgroup"><h1 class="title"><span class="title">Regolare la velocità del doppio-clic</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Il doppio-clic si ottiene solo premendo il pulsante del mouse due volte abbastanza rapidamente. Se fra la prima e la seconda pressione passa troppo tempo, si otterranno solo due clic separati e non un doppio-clic. In caso di difficoltà nel premere il pulsante del mouse rapidamente, è possibile aumentare l'intervallo di tempo a disposizione.</p>
+<p class="p">Double-clicking only happens when you press the mouse button twice
+quickly enough. If the second press is too long after the first, you’ll
+just get two separate clicks, not a double click. If you have difficulty
+pressing the mouse button quickly, you should increase the timeout.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
   start typing <span class="gui">Universal Access</span>.</p></li>

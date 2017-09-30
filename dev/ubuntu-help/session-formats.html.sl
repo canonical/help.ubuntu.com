@@ -57,14 +57,14 @@
 <li class="steps"><p class="p">Click <span class="gui">Formats</span>.</p></li>
 <li class="steps"><p class="p">Select the region and language that most closely matches the formats
       you would like to use. If your region and language are not listed, click
-      <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="..."></span></span></span>
+      <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="…"></span></span></span>
       at the bottom of the list to select from all available regions and
       languages.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Done</span> to save.</p></li>
 <li class="steps"><p class="p">Respond to the prompt, <span class="gui">Your session needs to be restarted for
       changes to take effect</span> by clicking
       <span class="gui">Restart Now</span>, or click
-      <span class="gui">X</span> to restart later.</p></li>
+      <span class="gui">×</span> to restart later.</p></li>
 </ol></div></div></div>
 <p class="p">After you have selected a region, the area to the right of the list shows
   various examples of how dates and other values are shown. Although not shown
@@ -77,7 +77,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html" title="Področje in jezik">Področje in jezik</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Izbira jezika, ki ga uporabljate">Jezik</a></span>, <span class="link"><a href="session-formats.html" title="Sprememba datuma in oblik merjenja">regija in oblike</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">razporeditve tipkovnice</a></span> …</span>
+<a href="prefs-language.html" title="Področje in jezik">Področje in jezik</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Izbira jezika, ki ga uporabljate">Jezik</a></span>, <span class="link"><a href="session-formats.html" title="Sprememba datuma in oblik merjenja">regija in oblike</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Uporaba nadomestnih razporeditev tipk">razporeditve tipkovnice</a></span> …</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

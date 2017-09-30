@@ -53,22 +53,22 @@
 <div class="hgroup"><h1 class="title"><span class="title">Varför stängs min dator av när jag stänger locket?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">När du stänger locket på din bärbara dator kommer din dator att <span class="link"><a href="power-suspend.html" title="Vad händer när jag försätter min dator i vänteläge?"><span class="em">försättas i vänteläge</span></a></span> för att spara ström. Detta innebär att datorn egentligen inte är avstängd - den sover bara. Du kan väcka den igen genom att öppna locket. Om den inte väcks upp, prova att klicka med musen eller trycka på en tangent. Om det inte heller fungerar, tryck på strömknappen.</p>
-<p class="p">Vissa datorer kan inte försättas i vänteläge korrekt, vanligtvis eftersom deras hårdvara inte har komplett stöd av operativsystemet (till exempel kan Linux-drivrutinerna sakna stöd). I detta fallet kan du upptäcka att du inte kan väcka upp din dator efter att du har stängt locket. Du kan prova att <span class="link"><a href="power-suspendfail.html" title="Varför återstartar inte min dator efter att jag har försatt den i vänteläge?">fixa problemet med vänteläge</a></span> eller så kan du undvika att datorn försätts i vänteläge när du stänger locket.</p>
+<p class="p">När du stänger locket på din bärbara dator kommer din dator att <span class="link"><a href="power-suspend.html" title="Vad händer när jag försätter min dator i vänteläge?"><span class="em">försättas i vänteläge</span></a></span> för att spara ström. Detta innebär att datorn egentligen inte är avstängd — den sover bara. Du kan väcka den igen genom att öppna locket. Om den inte väcks upp, prova att klicka med musen eller trycka på en tangent. Om det inte heller fungerar, tryck på strömknappen.</p>
+<p class="p">Vissa datorer kan inte försättas i vänteläge korrekt, vanligtvis eftersom deras hårdvara inte har komplett stöd av operativsystemet (till exempel kan Linux-drivrutinerna sakna stöd). I detta fall kan du upptäcka att du inte kan väcka upp din dator efter att du har stängt locket. Du kan prova att <span class="link"><a href="power-suspendfail.html" title="Varför återstartar inte min dator efter att jag har försatt den i vänteläge?">fixa problemet med vänteläge</a></span> eller så kan du undvika att datorn försätts i vänteläge när du stänger locket.</p>
 </div>
 <div id="nosuspend" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Förhindra datorn från att försättas i vänteläge när locket stängs</span></h2></div>
 <div class="region"><div class="contents">
 <div class="note note-important" title="Viktigt"><div class="inner"><div class="region"><div class="contents"><p class="p">Dessa instruktioner kommer bara att fungera om du använder <span class="app">systemd</span>. Kontakta din distribution för mer information.</p></div></div></div></div>
-<div class="note note-important" title="Viktigt"><div class="inner"><div class="region"><div class="contents"><p class="p">Du måste ha <span class="app">Justeringsverktyg</span> installerat på din dator för att ändra denna inställning.</p></div></div></div></div>
+<div class="note note-important" title="Viktigt"><div class="inner"><div class="region"><div class="contents"><p class="p">Du måste ha <span class="app">Justering</span> installerat på din dator för att ändra denna inställning.</p></div></div></div></div>
 <p class="p">Om du inte vill att datorn ska försättas i vänteläge när du stänger locket kan du ändra inställningarna för det beteendet.</p>
 <div class="note note-warning" title="Varning"><div class="inner"><div class="region"><div class="contents"><p class="p">Var aktsam när du ändrar denna inställning. Vissa bärbara datorer kan överhettas om de lämnas körandes med locket stängt, speciellt om de befinner sig i ett slutet utrymme som till exempel en ryggsäck.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Justeringsverktyg</span>.</p></li>
-<li class="steps"><p class="p">Klicka på <span class="gui">Justeringsverktyg</span> för att öppna panelen.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Justering</span>.</p></li>
+<li class="steps"><p class="p">Klicka på <span class="gui">Justering</span> för att öppna programmet.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Ström</span>-fliken.</p></li>
 <li class="steps"><p class="p">Slå om <span class="gui">Försätt inte i vänteläge då locket stängs</span> till <span class="gui">PÅ</span>.</p></li>
-<li class="steps"><p class="p">Stäng fönstret <span class="gui">Justeringsverktyg</span>.</p></li>
+<li class="steps"><p class="p">Stäng fönstret <span class="gui">Justering</span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>

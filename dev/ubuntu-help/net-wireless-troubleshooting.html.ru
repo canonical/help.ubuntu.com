@@ -72,7 +72,11 @@
 <p class="p">Some of the instructions in this guide ask you to type commands into the
     <span class="em">command line</span> (Terminal). You can find the <span class="app">Terminal</span> application in
     the <span class="gui">Activities</span> overview.</p>
-<p class="p">Если вам не приходилось раньше пользоваться командной строкой, не волнуйтесь — это руководство будет направлять вас на каждом этапе. Всё, что нужно запомнить — это то, что команды чувствительны к регистру. Вы должны вводить их <span class="em">точно так же</span>, как они написаны здесь, и нажимать <span class="key"><kbd>Enter</kbd></span> после ввода каждой команды для её запуска.</p>
+<p class="p">If you are not familiar with using a command line, don’t worry — this
+    guide will direct you at each step. All you need to remember is that
+    commands are case-sensitive (so you must type them <span class="em">exactly</span> as they
+    appear here), and to press <span class="key"><kbd>Enter</kbd></span> after typing each command to
+    run it.</p>
 </div></div>
 </div></div>
 </div>
@@ -96,7 +100,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-connect.html" title="Подключение к беспроводной сети">Подключение к беспроводной сети</a><span class="desc"> — Подключение к Интернету — без проводов.</span>
+<a href="net-wireless-connect.html" title="Подключение к беспроводной сети">Подключение к беспроводной сети</a><span class="desc"> — Get on the internet — wirelessly.</span>
 </li></ul></div>
 </div></div>
 </div>

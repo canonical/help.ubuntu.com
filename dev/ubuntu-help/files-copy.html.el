@@ -50,7 +50,10 @@
 <div class="region">
 <div class="contents">
 <p class="p">Ένα αρχείο ή φάκελος μπορεί να αντιγραφεί ή να μετακινηθεί σε μια νέα θέση με σύρσιμο και απόθεση με το ποντίκι, χρησιμοποιώντας τις εντολές αντιγραφής και επικόλλησης, ή χρησιμοποιώντας τις συντομεύσεις πληκτρολογίου.</p>
-<p class="p">Για παράδειγμα, μπορεί να θέλετε να αντιγράψετε μια παρουσίαση σε μια μνήμη έτσι ώστε να μπορείτε να δουλέψετε μαζί της. Ή, μπορεί να κάνετε ένα αντίγραφο ασφαλείας ενός εγγράφου πριν να κάνετε αλλαγές σε αυτό (και έπειτα να χρησιμοποιήσετε το παλιό αντίγραφο εάν δεν θέλετε τις αλλαγές σας).</p>
+<p class="p">For example, you might want to copy a presentation onto a memory stick so
+ you can take it to work with you. Or, you could make a back-up copy of a
+ document before you make changes to it (and then use the old copy if you don’t
+ like your changes).</p>
 <p class="p">Αυτές οι οδηγίες εφαρμόζονται και στα αρχεία και στους φακέλους. Αντιγράφετε και μετακινείτε αρχεία και φακέλους με τον ίδιο ακριβώς τρόπο.</p>
 <div class="steps ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
@@ -85,7 +88,8 @@
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Αρχεία</span> στην πάνω γραμμή, επιλέξτε <span class="gui">Νέο παράθυρο</span> (ή πατήστε <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>N</kbd></span></span>) για να ανοίξετε ένα δεύτερο παράθυρο. Στο νέο παράθυρο, περιηγηθείτε στον φάκελο όπου θέλετε να μετακινήσετε ή να αντιγράψετε το αρχείο.</p></li>
 <li class="steps">
 <p class="p">Κάντε κλικ και σύρετε το αρχείο από ένα παράθυρο σε ένα άλλο. Αυτό θα <span class="em">το μετακινήσει</span> εάν ο προορισμός είναι στην <span class="em">ίδια</span> συσκευή, ή θα <span class="em">το αντιγράψει</span> εάν ο προορισμός είναι σε <span class="em">διαφορετική</span> συσκευή.</p>
-<p class="p">Για παράδειγμα, εάν σύρετε ένα αρχείο από μια μνήμη USB στον προσωπικό σας φάκελο, θα αντιγραφεί, επειδή μεταφέρετε από μια συσκευή σε μια άλλη.</p>
+<p class="p">For example, if you drag a file from a USB memory stick to your Home folder,
+ it will be copied, because you’re dragging from one device to another.</p>
 <p class="p">Μπορείτε να εξαναγκάσετε το αρχείο να αντιγραφεί κρατώντας πατημένο το πλήκτρο <span class="key"><kbd>Ctrl</kbd></span> ενώ σύρετε, ή εξαναγκάζοντας το να μετακινηθεί κρατώντας πατημένο το πλήκτρο <span class="key"><kbd>Shift</kbd></span> ενώ σύρετε.</p>
 </li>
 </ol></div>

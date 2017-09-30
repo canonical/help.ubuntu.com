@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Online services and applications</title>
+<title>Aplikasi dan layanan daring</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,53 +46,29 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="accounts.html" title="Akun daring">Akun daring</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Online services and applications</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Aplikasi dan layanan daring</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Once you have added an online account, any application can use that
-  account for any of the available services that you have not
-  <span class="link"><a href="accounts-disable-service.html" title="Mengendalikan agar suatu akun dapat dipakai untuk mengakses layanan daring mana">disabled</a></span>. Different
-  providers provide different services. This page lists the different
-  services and some of the applications that are known to use them.</p>
+<p class="p">Sekali Anda menambahkan suatu akun daring, sebarang aplikasi dapat memakai akun tersebut untuk sebarang layanan yang tersedia yang tidak Anda <span class="link"><a href="accounts-disable-service.html" title="Mengendalikan agar suatu akun dapat dipakai untuk mengakses layanan daring mana">nonaktifkan</a></span>. Para penyedia memberikan layanan yang berbeda-beda. Halaman ini menampilkan daftar berbagai layanan dan beberapa aplikasi yang telah diketahui menggunakan mereka.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms">Calendar</dt>
-<dd class="terms"><p class="p">The Calendar service allows you to view, add, and edit events in
-      an online calendar. It is used by applications like <span class="app">Calendar</span>,
-      <span class="app">Evolution</span>, and <span class="app">California</span>.</p></dd>
-<dt class="terms">Chat</dt>
-<dd class="terms"><p class="p">The Chat service allows you to chat with your contacts on popular
-      instant messaging platforms. It is used by the <span class="app">Empathy</span>
-      application.</p></dd>
+<dt class="terms">Kalender</dt>
+<dd class="terms"><p class="p">Layanan Kalender memungkinkan Anda melihat, menambah, dan menyunting acara dalam suatu kalender daring. Itu dipakai oleh aplikasi-aplikasi seperti <span class="app">Calendar</span>, <span class="app">Evolution</span>, dan <span class="app">California</span>.</p></dd>
+<dt class="terms">Mengobrol</dt>
+<dd class="terms"><p class="p">Layanan Mengobrol memungkinkan Anda mengobrol dengan kontak Anda pada platform pesan instan yang populer. Itu dipakai oleh aplikasi <span class="app">Empathy</span>.</p></dd>
 <dt class="terms">Kontak</dt>
-<dd class="terms"><p class="p">The Contacts service allows you to see the published details of your
-      contacts on various services. It is used by applications like
-      <span class="app">Contacts</span> and <span class="app">Evolution</span>.</p></dd>
-<dt class="terms">Documents</dt>
-<dd class="terms"><p class="p">The Documents service allows you to view your online documents
-      such as those in Google docs. You can view your documents using the
-      <span class="app">Documents</span> application.</p></dd>
+<dd class="terms"><p class="p">Layanan Kontak memungkinkan Anda melihat rincian terpublikasi dari kontak-kopntak Anda pada berbagai layanan. Itu dipakai oleh aplikasi seperti <span class="app">Kontak</span> dan <span class="app">Evolution</span>.</p></dd>
+<dt class="terms">Dokumen</dt>
+<dd class="terms"><p class="p">Layanan Dokumen memungkinkan Anda menilik dokumen daring Anda seperti yang ada pada Google docs. Anda dapat menilik dokumen Anda memakai aplikasi <span class="app">Dokumen</span>.</p></dd>
 <dt class="terms">Berkas</dt>
-<dd class="terms"><p class="p">The Files service adds a remote file location, as if you had added
-      one using the <span class="link"><a href="nautilus-connect.html" title="Browse files on a server or network share">Connect to Server</a></span>
-      functionality in the file manager. You can access remote files using
-      the file manager, as well as through file open and save dialogs in any
-      application.</p></dd>
+<dd class="terms"><p class="p">Layanan Berkas menambahkan suatu lokasi berkas jauh, seolah seperti Anda telah menambahkannya memakai fungsionalitas <span class="link"><a href="nautilus-connect.html" title="Browse files on a server or network share">Sambungkan ke Server</a></span> dalam manajer berkas. Anda dapat mengakses berkas jauh memakai manajer berkas, maupun melalui dialog buka dan simpan berkas dalam sebarang aplikasi.</p></dd>
 <dt class="terms">Surel</dt>
-<dd class="terms"><p class="p">The Mail service allows you to send and receive email through an
-      email provider like Google. It is used by <span class="app">Evolution</span>.</p></dd>
-<dt class="terms">Photos</dt>
-<dd class="terms"><p class="p">The Photos service allows you to view your online photos such as
-      those you post on Facebook. You can view your photos using the
-      <span class="app">Photos</span> application.</p></dd>
-<dt class="terms">Printers</dt>
-<dd class="terms"><p class="p">The Printers service allows you to send a PDF copy to a provider from
-      within the print dialog of any application. The provider might provide
-      print services, or it might just serve as storage for the PDF, which
-      you can download and print later.</p></dd>
-<dt class="terms">Read Later</dt>
-<dd class="terms"><p class="p">The Read Later service allows you to save a web page to external
-      services so that you can read it later on another device. No applications
-      currently use this service.</p></dd>
+<dd class="terms"><p class="p">Layanan Surat memungkinkan Anda mengirim dan menerima surel melalui penyedia surel seperti Google. Itu dipakai oleh <span class="app">Evolution</span>.</p></dd>
+<dt class="terms">Foto</dt>
+<dd class="terms"><p class="p">Layanan Foto memungkinkan Anda melihat foto daring Anda seperti yang Anda kirim ke Facebook. Anda dapat melihat foto Anda memakai aplikasi <span class="app">Foto</span>.</p></dd>
+<dt class="terms">Pencetak</dt>
+<dd class="terms"><p class="p">Layanan Pencetak memungkinkan Anda mengirim suatu salinan PDF ke penyedia dari dalam dialog cetak pada sebarang aplikasi. Penyedia mungkin memberikan layanan cetak, atau itu mungkin hanya melayani sebagai penyimpanan bagi PDF, yang nanti dapat Anda unduh dan cetak.</p></dd>
+<dt class="terms">Baca Nanti</dt>
+<dd class="terms"><p class="p">Layanan Baca Nanti memungkinkan Anda menyimpan suatu halaman web ke layanan eksternal sehingga Anda dapat membacanya nanti pada perangkat lain. Saat ini tidak ada aplikasi yang memakai layanan ini.</p></dd>
 </dl></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -101,11 +77,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Akun daring">Akun daring</a><span class="desc"> — 
-      <span class="link"><a href="accounts-add.html" title="Tambahkan akun">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html" title="Menghapus sebuah akun">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html" title="Online services and applications">Learn about services</a></span>…
-    </span>
+<a href="accounts.html" title="Akun daring">Akun daring</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Tambahkan akun">Menambahkan suatu akun daring</a></span>, <span class="link"><a href="accounts-remove.html" title="Menghapus sebuah akun">Menghapus suatu akun</a></span>, <span class="link"><a href="accounts-which-application.html" title="Aplikasi dan layanan daring">Mempelajari tentang layanan</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

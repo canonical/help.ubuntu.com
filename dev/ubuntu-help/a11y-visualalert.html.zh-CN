@@ -50,7 +50,9 @@
 <div class="region">
 <div class="contents">
 <p class="p">您的计算机将针对特定类型的消息和事件播放简单的警告声。如果您很难听到这些声音，可以在播放警告声时让整个屏幕或当前窗口闪烁。</p>
-<p class="p">如果您处在需要计算机保持静音的环境中，如图书馆，此选项非常有用。请参阅<span class="link"><a href="sound-alert.html" title="选择或禁用警报声音">选择或禁用警报声音</a></span>了解如何关闭警告声，并启用视觉警告。</p>
+<p class="p">This can also be useful if you’re in an environment where you need your
+  computer to be silent, such as in a library. See <span class="link"><a href="sound-alert.html" title="选择或禁用警报声音">选择或禁用警报声音</a></span>
+  to learn how to mute the alert sound, then enable visual alerts.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p></li>

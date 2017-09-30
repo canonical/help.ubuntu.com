@@ -55,7 +55,10 @@
 <div id="multihead" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Όταν συνδέονται πολλές οθόνες</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Εάν έχετε δύο συνδεμένες οθόνες στον υπολογιστή (για παράδειγμα, μια κανονική οθόνη και έναν προβολέα), οι οθόνες μπορεί να έχουν διαφορετικές αναλύσεις. Όμως, η κάρτα γραφικών του υπολογιστή μπορεί να εμφανίσει μόνο την οθόνη με μια ανάλυση τη φορά, έτσι τουλάχιστον μία από τις οθόνες μπορεί να δείχνει ασαφής.</p>
+<p class="p">If you have two displays connected to the computer (for example, a normal
+  monitor and a projector), the displays might have different resolutions.
+  However, the computer’s graphics card can only display the screen in one
+  resolution at a time, so at least one of the displays might look fuzzy.</p>
 <p class="p">Μπορείτε να το ορίσετε έτσι ώστε οι δύο οθόνες να έχουν διαφορετικές αναλύσεις, αλλά δεν θα μπορείτε να εμφανίσετε το ίδιο πράγμα και στις δύο οθόνες ταυτόχρονα. Στην πραγματικότητα, θα έχετε δύο ανεξάρτητες οθόνες συνδεμένες ταυτόχρονα. Μπορείτε να μετακινήσετε τα παράθυρα από τη μια οθόνη στην άλλη, αλλά δεν μπορείτε να εμφανίσετε το ίδιο παράθυρο και στις δύο οθόνες ταυτόχρονα.</p>
 <p class="p">Για να ρυθμίσετε τις οθόνες έτσι ώστε να έχουν τη δικιά τους ανάλυση:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">

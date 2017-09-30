@@ -2,7 +2,7 @@
 <html lang=sl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Drugi ljudje ne morejo predvajati mojih videoposnetkov</title>
+<title>Other people can’t play the videos I made</title>
 <link rel="stylesheet" type="text/css" href="sl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,7 +46,7 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Zvok, video in slike">Zvok, video in slike</a> › <a class="trail" href="media.html#videos" title="Videoposnetki in video kamere">Video posnetki</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Drugi ljudje ne morejo predvajati mojih videoposnetkov</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Other people can’t play the videos I made</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">V primeru, da ste naredili video na svojem računalniku z Linuxom in ga poslali nekomu, ki uporablja Windows ali Mac OS, bo morda imel težave z njegovim predvajanjem.</p>
@@ -59,9 +59,26 @@
       which <span class="gui">Codec</span> are listed under <span class="gui">Video</span> and
       <span class="gui">Audio</span> (if the video also has audio).</p></li>
 </ul></div></div></div>
-<p class="p">Osebo s težavami s predvajanjem vprašajte, če ima nameščen pravi kodek. Morda jim bo pomagalo iskanje po spletu z imenom kodeka in njihovega video programa. Na primer, če vaš video uporablja vrsto <span class="em">Theora</span> in imate prijatelja, ki uporablja Windows Media Player in si ga želite ogledati, iščite "theora windows media player". Pogosto boste lahko pravi kodek prejeli brezplačno, če še ni nameščen.</p>
-<p class="p">Če ne morete najti pravega kodeka, poskusite <span class="link"><a href="http://www.videolan.org/vlc/" title="http://www.videolan.org/vlc/">predvajalnik VLC</a></span>. Deluje na Windows, Mac OS in Linuxu in podpira veliko različnih vrst videa. Če tudi to ne deluje, poskusite svoj videoposnetek pretvoriti v drugo vrsto. To lahko stori večina urejevalnikov videa, na voljo pa so tudi namenski programi za pretvarjanje videa. Preverite namestilnik programov za ogled kaj je na voljo.  </p>
-<div class="note" title="Opomba"><div class="inner"><div class="region"><div class="contents"><p class="p">Obstaja še nekaj drugih težav, ki lahko nekomu preprečijo predvajanje vašega videoposnetka. Video je lahko bil ob pošiljanju poškodovan (včasih velike datoteke niso pravilno kopirane), lahko imajo težave s svojim programom za predvajanje videa ali pa video ni bil pravilno ustvarjen (ob shranjevanju videoposnetka je morda prišlo do nekaj napak).</p></div></div></div></div>
+<p class="p">Ask the person having problems with playback if they have the right codec
+  installed. They may find it helpful to search the web for the name of the
+  codec plus the name of their video playback application. For example, if your
+  video uses the <span class="em">Theora</span> format and you have a friend using Windows
+  Media Player to try and watch it, search for “theora windows media player”.
+  You will often be able to download the right codec for free if it’s not
+  installed.</p>
+<p class="p">If you can’t find the right codec, try the
+  <span class="link"><a href="http://www.videolan.org/vlc/" title="http://www.videolan.org/vlc/">VLC media player</a></span>. It works
+  on Windows and Mac OS as well as Linux, and supports a lot of different video
+  formats. Failing that, try converting your video into a different format.
+  Most video editors are able to do this, and specific video converter
+  applications are available. Check the software installer application to see
+  what’s available.</p>
+<div class="note" title="Opomba"><div class="inner"><div class="region"><div class="contents"><p class="p">There are a few other problems which might prevent someone from playing
+    your video. The video could have been damaged when you sent it to them
+    (sometimes big files aren’t copied across perfectly), they could have
+    problems with their video playback application, or the video may not have
+    been created properly (there could have been some errors when you saved the
+    video).</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

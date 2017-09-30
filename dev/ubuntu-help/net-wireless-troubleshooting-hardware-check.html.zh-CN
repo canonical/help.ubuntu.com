@@ -85,7 +85,11 @@
 <p class="p">查看显示的设备列表，找到标记 <span class="code">Network controller</span> 或 <span class="code">Ethernet controller</span> 的网络控制器。许多设备通过这种方法来标记，相应的无线设备可能包含像 <span class="code">wireless</span>、<span class="code">WLAN</span>、<span class="code">wifi</span> 或 <span class="code">802.11</span> 这些词。</p>
 <div class="code"><pre class="contents ">Network controller: Intel Corporation PRO/Wireless 3945ABG [Golan] Network Connection</pre></div>
 </li>
-<li class="steps"><p class="p">如果您的设备通过上述命令可以识别，接下来进入<span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="无线网络故障排除">设备驱动</a></span>页面。如果上述命令没有显示出您的无线网卡，那么参阅<span class="link"><a href="#not-recognized" title="未能识别无线适配器">下一页的指导</a></span>。</p></li>
+<li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
+      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="无线网络故障排除">Device Drivers
+      step</a></span>. If you didn’t find anything related to your wireless
+      adapter, see
+      <span class="link"><a href="#not-recognized" title="未能识别无线适配器">the instructions below</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -99,7 +103,11 @@
 <p class="p">查看显示的设备列表，找到相关的无线或网络设备，相应的无线适配器可能包含像 <span class="code">wireless</span>、<span class="code">WLAN</span>、<span class="code">wifi</span> 或 <span class="code">802.11</span>这些词。这儿有一个例子参考一下：</p>
 <div class="code"><pre class="contents ">Bus 005 Device 009: ID 12d1:140b Huawei Technologies Co., Ltd. EC1260 Wireless Data Modem HSD USB Card</pre></div>
 </li>
-<li class="steps"><p class="p">如果您的设备通过上述命令可以识别，接下来进入<span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="无线网络故障排除">设备驱动</a></span>页面。如果上述命令没有显示出您的无线网卡，那么参阅<span class="link"><a href="#not-recognized" title="未能识别无线适配器">下一页的指导</a></span>。</p></li>
+<li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
+      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="无线网络故障排除">Device Drivers
+      step</a></span>. If you didn’t find anything related to your wireless
+      adapter, see
+      <span class="link"><a href="#not-recognized" title="未能识别无线适配器">the instructions below</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -112,11 +120,17 @@
 <li class="steps">
 <p class="p">打开一个终端，输入下面的内容，然后按<span class="key"><kbd>回车键</kbd></span>：</p>
 <div class="code"><pre class="contents ">tail -f /var/log/messages</pre></div>
-<p class="p">这将显示您计算机中硬件设备的列表信息，如果硬件发生变化会自动更新。</p>
+<p class="p">This will display a list of messages related to your computer’s
+      hardware, and will automatically update if anything to do with your
+      hardware changes.</p>
 </li>
 <li class="steps"><p class="p">插入无线适配器到 PCMCIA 插槽，查看终端窗口有何变化，应当出现一些无线适配器相关的信息。找到它们看看能否标记它。</p></li>
 <li class="steps"><p class="p">要停止终端中正在运行的命令，按 <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span> 键，然后就可以关闭终端窗口了。</p></li>
-<li class="steps"><p class="p">如果之前的命令可以识别您的设备，请继续转到<span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="无线网络故障排除">设备驱动程序</a></span>页面。如果上述命令不显示与您的无线适配器相关的任何输出，请查看本页底部的说明。</p></li>
+<li class="steps"><p class="p">If you found any information about your wireless adapter, proceed to
+      the <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="无线网络故障排除">Device
+      Drivers step</a></span>. If you didn’t find anything related to your wireless
+      adapter, see <span class="link"><a href="#not-recognized" title="未能识别无线适配器">the instructions
+      below</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -127,7 +141,9 @@
   properly or the correct drivers may not be installed for it. How you check to
   see if there are any drivers you can install will depend on which Linux
   distribution you are using (like Ubuntu, Arch, Fedora or openSUSE).</p>
-<p class="p">要获得帮助，请查看您所用发行版的帮助信息。这包括对应的邮件列表、网络聊天室等。</p>
+<p class="p">To get specific help, look at the support options on your distribution’s
+  website. These might include mailing lists and web chats where you can ask
+  about your wireless adapter, for example.</p>
 </div></div>
 </div></div>
 <div class="links nextlinks">

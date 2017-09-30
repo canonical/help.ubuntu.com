@@ -50,26 +50,26 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-connect.html" title="Menyambung ke jaringan nirkabel"><span class="title">Menyambung ke jaringan nirkabel</span><span class="linkdiv-dash"> — </span><span class="desc">Memakai internet - secara nirkabel.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-connect.html" title="Menyambung ke jaringan nirkabel"><span class="title">Menyambung ke jaringan nirkabel</span><span class="linkdiv-dash"> — </span><span class="desc">Get on the internet — wirelessly.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-wepwpa.html" title="Apa arti WEP dan WPA?"><span class="title">Apa arti WEP dan WPA?</span><span class="linkdiv-dash"> — </span><span class="desc">WEP and WPA are ways of encrypting data on wireless networks.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-mobile.html" title="Connect to mobile broadband"><span class="title">Connect to mobile broadband</span><span class="linkdiv-dash"> — </span><span class="desc">Use your phone or Internet stick to connect to the mobile broadband
     network.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html" title="I can’t see my wireless network in the list"><span class="title">I can’t see my wireless network in the list</span><span class="linkdiv-dash"> — </span><span class="desc">The wireless could be turned off or broken, or you may be trying to
+    connect to a hidden network.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-noconnection.html" title="I’ve entered the correct password, but I still can’t connect"><span class="title">I’ve entered the correct password, but I still can’t connect</span><span class="linkdiv-dash"> — </span><span class="desc">Double-check the password, and other things to try.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-airplane.html" title="Matikan nirkabel (mode pesawat terbang)"><span class="title">Matikan nirkabel (mode pesawat terbang)</span><span class="linkdiv-dash"> — </span><span class="desc">Open Network Settings and switch Airplane Mode to ON.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-adhoc.html" title="Membuat hotspot nirkabel"><span class="title">Membuat hotspot nirkabel</span><span class="linkdiv-dash"> — </span><span class="desc">Use an ad-hoc network to allow other devices to connect to your
-    computer and its network connections.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-manual.html" title="Menata pengaturan jaringan secara manual"><span class="title">Menata pengaturan jaringan secara manual</span><span class="linkdiv-dash"> — </span><span class="desc">You may have to enter network settings if they don't get assigned
-    automatically.</span></a></div>
 </div>
 <div class="links-twocolumn">
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-adhoc.html" title="Membuat hotspot nirkabel"><span class="title">Membuat hotspot nirkabel</span><span class="linkdiv-dash"> — </span><span class="desc">Use an ad-hoc network to allow other devices to connect to your
+    computer and its network connections.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-manual.html" title="Menata pengaturan jaringan secara manual"><span class="title">Menata pengaturan jaringan secara manual</span><span class="linkdiv-dash"> — </span><span class="desc">You may have to enter network settings if they don’t get assigned
+    automatically.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-disconnecting.html" title="Mengapa jaringan nirkabel saya terputus terus?"><span class="title">Mengapa jaringan nirkabel saya terputus terus?</span><span class="linkdiv-dash"> — </span><span class="desc">You might have low signal, or the network might not be letting you
     connect properly.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-vpn-connect.html" title="Menyambung ke VPN"><span class="title">Menyambung ke VPN</span><span class="linkdiv-dash"> — </span><span class="desc">Set up a VPN connection to a local network over the internet.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-hidden.html" title="Menyambung ke suatu jaringan nirkabel tersembunyi"><span class="title">Menyambung ke suatu jaringan nirkabel tersembunyi</span><span class="linkdiv-dash"> — </span><span class="desc">Connect to a wireless network that is not displayed in the network
     list.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-troubleshooting.html" title="Pelacak masalah jaringan nirkabel"><span class="title">Pelacak masalah jaringan nirkabel</span><span class="linkdiv-dash"> — </span><span class="desc">Identify and fix problems with wireless connections.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html" title="Saya tak bisa melihat jaringan nirkabelku dalam daftar"><span class="title">Saya tak bisa melihat jaringan nirkabelku dalam daftar</span><span class="linkdiv-dash"> — </span><span class="desc">The wireless could be turned off or broken, or you may be trying to
-    connect to a hidden network.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-noconnection.html" title="Saya telah memasukkan sandi yang benar, tapi masih tak bisa menyambung"><span class="title">Saya telah memasukkan sandi yang benar, tapi masih tak bisa menyambung</span><span class="linkdiv-dash"> — </span><span class="desc">Double-check the password, and other things to try.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -85,7 +85,7 @@
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-problem.html" title="Masalah jaringan">Masalah jaringan</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Pelacak masalah jaringan nirkabel">Melacak masalah koneksi nirkabel</a></span>, <span class="link"><a href="net-wireless-find.html" title="Saya tak bisa melihat jaringan nirkabelku dalam daftar">menemukan jaringan wifi Anda</a></span>…</span>
+<a href="net-problem.html" title="Masalah jaringan">Masalah jaringan</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Pelacak masalah jaringan nirkabel">Melacak masalah koneksi nirkabel</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">menemukan jaringan wifi Anda</a></span>…</span>
 </li>
 <li class="links ">
 <a href="net-general.html" title="Networking terms &amp; tips">Networking terms &amp; tips</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="Temukan alamat IP Anda">Mencari tahu alamat IP Anda</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Apa arti WEP dan WPA?">keamanan WEP &amp; WPA</a></span>, <span class="link"><a href="net-macaddress.html" title="Apa itu alamat MAC?">alamat MAC</a></span>, <span class="link"><a href="net-proxy.html" title="Menentukan pengaturan proksi">proksi</a></span>…</span>

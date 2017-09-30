@@ -57,10 +57,7 @@
 <div class="linkdiv "><a class="linkdiv" href="get-involved.html" title="Doe mee om deze handleiding te verbeteren."><span class="title">Doe mee om deze handleiding te verbeteren.</span><span class="linkdiv-dash"> — </span><span class="desc">Hoe en waar u problemen kunt rapporteren met deze hulp-onderwerpen.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="report-ubuntu-bug.html" title="Een fout in Ubuntu melden"><span class="title">Een fout in Ubuntu melden</span><span class="linkdiv-dash"> — </span><span class="desc">Hoe en waar fouten in Ubuntu te melden.</span></a></div>
 </div>
-<div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="about-this-guide.html" title="Over deze handleiding"><span class="title">Over deze handleiding</span><span class="linkdiv-dash"> — </span><span class="desc">Enkele tips bij het gebruik van de Ubuntu-bureaubladhandleiding.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="translate.html" title="Participate to improve translations"><span class="title">Participate to improve translations</span><span class="linkdiv-dash"> — </span><span class="desc">How and where to help translate these topics.</span></a></div>
-</div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="about-this-guide.html" title="Over deze handleiding"><span class="title">Over deze handleiding</span><span class="linkdiv-dash"> — </span><span class="desc">Enkele tips bij het gebruik van de Ubuntu-bureaubladhandleiding.</span></a></div></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">

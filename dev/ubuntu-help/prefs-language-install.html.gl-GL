@@ -51,8 +51,11 @@
 <div class="contents">
 <p class="p">Cando instala Ubuntu, o idioma que selecciona instálase xunto co inglés, pero ten a posibilidade de engadir máis idiomas.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the <span class="em">system menu</span> and select <span class="gui">System Settings</span>.</p></li>
-<li class="steps"><p class="p">Na sección «Persoal» prema en <span class="gui">Compatibilidade de idiomas</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+      start typing <span class="gui">Region &amp; Language</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Manage Installed Languages</span> button to open <span class="gui">Language
+      Support</span>.</p></li>
 <li class="steps"><p class="p">Prema <span class="gui">Instalar / Eliminar idiomas...</span>. A xanela cos <span class="gui">idiomas instalados</span> mostra as opcións dispoñíbeis, cos idiomas actualmente instalados marcados.</p></li>
 <li class="steps"><p class="p">Comprobe os idiomas que desexa instalar e desmarque os idiomas instalados que desexa eliminar.</p></li>
 <li class="steps"><p class="p">Prema <span class="gui">Aplicar cambios</span>.</p></li>
@@ -77,7 +80,7 @@
 <a href="addremove-install.html" title="Instalar aplicativos adicionais">Instalar aplicativos adicionais</a><span class="desc"> — Use <span class="app">Ubuntu Software</span> para instalar aplicativos adicionais e facer o Ubuntu máis útil.</span>
 </li>
 <li class="links ">
-<a href="prefs-language.html" title="Rexión e idioma">Rexión e idioma</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Cambiar o idioma que usa">Idioma</a></span>, <span class="link"><a href="session-formats.html" title="Cambiar a hora e data">rexión e formatos</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">distribucións de teclado</a></span>…</span>
+<a href="prefs-language.html" title="Rexión e idioma">Rexión e idioma</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Cambiar o idioma que usa">Idioma</a></span>, <span class="link"><a href="session-formats.html" title="Cambiar a hora e data">rexión e formatos</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Usar distribucións de teclado alternativas">distribucións de teclado</a></span>…</span>
 </li>
 </ul></div>
 </div></div>

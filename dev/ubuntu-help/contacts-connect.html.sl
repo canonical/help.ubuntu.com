@@ -54,7 +54,8 @@
 <li class="steps"><p class="p">Select the contact from your contact list.</p></li>
 <li class="steps"><p class="p">Press on the <span class="em">detail</span> that you want to use. For example, to
       email your contact, press the email address.</p></li>
-<li class="steps"><p class="p">Zagnal se bo ustrezen program, ki bo uporabljal podrobnosti stika.</p></li>
+<li class="steps"><p class="p">The corresponding application will be launched using the contact’s
+      details.</p></li>
 </ol></div></div></div>
 <div class="note" title="Opomba"><div class="inner"><div class="region"><div class="contents"><p class="p">If there is no available application for the detail that you wish to
     use, you will not be able to select it.</p></div></div></div></div>

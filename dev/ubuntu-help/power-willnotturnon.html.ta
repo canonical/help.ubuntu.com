@@ -66,7 +66,13 @@
 </div></div>
 <div id="beeps" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">கணினி பீப் ஒலி எழுப்பி அணைந்துவிடுகிறது</span></h2></div>
-<div class="region"><div class="contents"><p class="p">கணினியை இயக்கும் போது சில முறை பீப் ஒலி எழுப்பி மீண்டும் அணைந்துவிட்டால் (துவங்காவிட்டால்) கணினி ஏதோ சிக்கலைக் கண்டறிந்திருக்கலாம். இந்த பீப் ஒலிகள் <span class="em">பீப் குறியீடுகள்</span> எனவும் அழைக்கப்படும், பீப் ஒலியின் விதத்தைப் பொறுத்து என்ன சிக்கல் எனக் கண்டறியலாம். பீப் குறியீடுகள் நிறுவனத்திற்கு ஏற்ப மாறும், ஆகவே உங்கள் கணினி மதர்போர்டுக்கான கையேட்டைப் பார்க்க வேண்டும் அல்லது கணினியை பழுதுபார்க்க கொண்டு செல்ல வேண்டும்.</p></div></div>
+<div class="region"><div class="contents"><p class="p">If the computer beeps several times when you turn it on and then turns off
+  (or fails to start), it may be indicating that it has detected a problem.
+  These beeps are sometimes referred to as <span class="em">beep codes</span>, and the pattern
+  of beeps is intended to tell you what the problem with the computer is.
+  Different manufacturers use different beep codes, so you will have to consult
+  the manual for your computer’s motherboard, or take your computer in for
+  repairs.</p></div></div>
 </div></div>
 <div id="fans" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">கணினி விசிறிகள் சுழல்கின்றன ஆனால் திரையில் எதுவும் வரவில்லை</span></h2></div>

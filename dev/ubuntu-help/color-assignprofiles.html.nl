@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>How do I assign profiles to devices?</title>
+<title>Hoe kan ik profielen toewijzen aan apparaten?</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,33 +44,25 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="color.html" title="Color management">Color management</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="color.html" title="Color management">Color management</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">How do I assign profiles to devices?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Hoe kan ik profielen toewijzen aan apparaten?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You may want to assign a color profile for your screen or printer so that
-  the colors which it shows are more accurate.</p>
+<p class="p">Misschien wilt u een kleurprofiel toewijzen voor uw scherm of printer, zodat de kleuren die ermee getoond worden nauwkeuriger zijn.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Color</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Color</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Select the device for which you want to add a profile.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Add profile</span> to select an existing profile or import
-      a new profile.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Add</span> to confirm your selection.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Kleur</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Kleur</span> om het venster te openen.</p></li>
+<li class="steps"><p class="p">Selecteer het apparaat waarvoor u een profiel wilt toevoegen.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Profiel toevoegen</span> om een bestaand profiel te selecteren of een nieuw profiel te importeren.</p></li>
+<li class="steps"><p class="p">Druk op <span class="gui">Toevoegen</span> om uw selectie te bevestigen.</p></li>
 </ol></div></div></div>
-<p class="p">Each device can have multiple profiles assigned to it, but only one
-  profile can be the <span class="em">default</span> profile. The default profile is used when
-  there is no extra information to allow the profile to be chosen
-  automatically. An example of this automatic selection would be if one profile
-  was created for glossy paper and another plain paper.</p>
-<p class="p">If calibration hardware is connected, the <span class="gui">Calibrate…</span> button
-  will create a new profile.</p>
+<p class="p">Elk apparaat kan meerdere profielen toegewezen krijgen, maar slechts één profiel kan het <span class="em">standaard</span> profiel zijn. Het standaard profiel wordt gebruikt wanneer er geen extra informatie is om het profiel automatisch te laten kiezen. Een voorbeeld van deze automatische selectie is als er één profiel aangemaakt is voor glanspapier en een ander voor  gewoon papier.</p>
+<p class="p">Als er kalibratiehardware is aangesloten zal de knop <span class="gui">Kalibreren…</span> een nieuw profiel aanmaken.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -78,24 +70,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="color.html" title="Color management">Color management</a><span class="desc"> — 
-      <span class="link"><a href="color-whyimportant.html" title="Why is color management important?">Why is this important</a></span>,
-      <span class="link"><a href="color.html#profiles" title="Color profiles">Color profiles</a></span>,
-      <span class="link"><a href="color.html#calibration" title="Calibration">How to calibrate a device</a></span>…
-    </span>
+<a href="color.html" title="Kleurbeheer">Kleurbeheer</a><span class="desc"> — <span class="link"><a href="color-whyimportant.html" title="Waarom is kleurbeheer belangrijk?">Waarom is dit belangrijk</a></span>, <span class="link"><a href="color.html#profiles" title="Kleurprofielen">Kleurprofielen</a></span>, <span class="link"><a href="color.html#calibration" title="Kalibratie">Hoe kan ik een apparaat kalibreren</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-howtoimport.html" title="How do I import color profiles?">How do I import color profiles?</a><span class="desc"> — Color profiles can be imported by opening them.</span>
+<a href="color-howtoimport.html" title="Hoe importeer ik kleurprofielen?">Hoe importeer ik  kleurprofielen?</a><span class="desc"> — Kleurprofielen kunnen geïmporteerd worden door ze te openen.</span>
 </li>
 <li class="links ">
-<a href="color-whatisprofile.html" title="What is a color profile?">What is a color profile?</a><span class="desc"> — A color profile is a simple file that expresses a color space or device response.</span>
+<a href="color-why-calibrate.html" title="Waarom moet ik zelf kalibreren?">Waarom moet ik zelf kalibreren?</a><span class="desc"> — Kalibreren is belangrijk als u geeft om de weergave of het afdrukken van kleuren.</span>
 </li>
 <li class="links ">
-<a href="color-why-calibrate.html" title="Why do I need to do calibration myself?">Why do I need to do calibration myself?</a><span class="desc"> — Calibrating is important if you care about the colors you display or print.</span>
+<a href="color-whatisprofile.html" title="Wat is een kleurprofiel?">Wat is een kleurprofiel?</a><span class="desc"> — Een kleurprofiel is een eenvoudig bestand dat een kleurruimte of de respons van een apparaat uitdrukt.</span>
 </li>
 </ul></div>
 </div></div>

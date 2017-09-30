@@ -66,7 +66,9 @@
       the name your computer displays on the network.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p"><span class="gui">画面共有</span>を選択します。</p></li>
-<li class="steps"><p class="p">あなたのデスクトップを表示するのを他のユーザーに許可するには、<span class="gui">画面共有</span>のスイッチを<span class="gui">オン</span>に切り替えます。これにより、他のユーザーがあなたのデスクトップに接続して画面の閲覧を試みることができるようになります。</p></li>
+<li class="steps"><p class="p">To let others view your desktop, switch <span class="gui">Screen Sharing</span> to
+      <span class="gui">ON</span>. This means that other people will be able to attempt to
+      connect to your computer and view what’s on your screen.</p></li>
 <li class="steps">
 <p class="p">To let others interact with your desktop, switch
       <span class="gui">Allow Remote Control</span> to <span class="gui">ON</span>. This may allow the

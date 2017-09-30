@@ -58,7 +58,10 @@
 </p>
 <p class="p">Pour ajouter un dépôt :</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Cliquez sur l’icône de <span class="app">Logiciels Ubuntu</span> dans le <span class="gui">Lanceur</span> ou recherchez <span class="input">Logiciels</span> dans le <span class="gui">Tableau de bord</span>.</p></li>
+<li class="steps"><p class="p">
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">Lorsque <span class="app">Logiciels Ubuntu</span> se lance, cliquez sur <span class="guiseq"><span class="gui">Modifier</span> ▸ <span class="gui">Logiciels &amp; mises à jour</span></span></p></li>
 <li class="steps"><p class="p">Vous allez être invité à entrer votre mot de passe. Ceci fait, basculez sur l'onglet <span class="gui">Autres logiciels</span>.</p></li>
 <li class="steps">

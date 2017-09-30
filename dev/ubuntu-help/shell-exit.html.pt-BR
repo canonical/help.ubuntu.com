@@ -53,7 +53,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Encerrar sessão ou alternar usuários</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Para permitir que outros usuários usem o seu computador, você pode encerrar a sessão ou deixar sua sessão aberta e apenas alterar usuários. Se você alternar usuários, todos os seus aplicativos continuarão em execução e tudo estará onde você deixou quando voltar.</p>
-<p class="p">Para <span class="gui">Encerrar sessão</span> ou <span class="gui">Alternar usuário</span>, clique no  <span class="link"><a href="shell-introduction.html#yourname" title="Você e seu computador">menu de sistema</a></span> no lado direito da barra superior, clique no seu nome e, então, escolha a opção correta.</p>
+<p class="p">Para <span class="gui">Encerrar sessão</span> ou <span class="gui">Alternar usuário</span>, clique no <span class="link"><a href="shell-introduction.html#yourname" title="Você e seu computador">menu de sistema</a></span> no lado direito da barra superior, clique no seu nome e, então, escolha a opção correta.</p>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">As entradas <span class="gui">Encerrar sessão</span> e <span class="gui">Alternar usuários</span> aparecem apenas no menu se você tiver mais de uma conta de usuário no seu sistema.</p></div></div></div></div>
 </div></div>
 </div></div>
@@ -86,7 +86,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Para economizar energia, suspenda o seu computador quando você não está usando-o. Se você usa um notebook, o GNOME, por padrão, suspende seu computador automaticamente quando você fecha a tampa. Isso salva o estado da memória do seu computador e desliga a maioria de suas funções. Uma pequena quantidade de energia ainda é usada durante a suspensão.</p>
-<p class="p">Para suspender o seu computador manualmente, clique no menu de sistema no lado direito da barra superior e mantenha pressionada a tecla <span class="key"><kbd>Alt</kbd></span>. O botão de desligar será alterado para o de suspender. Pressione o botão.</p>
+<p class="p">Para suspender o seu computador manualmente, clique no menu de sistema no lado direito da barra superior. Então, você pode manter pressionada a tecla <span class="key"><kbd>Alt</kbd></span> e clicar no botão de desligar, ou fazer um clique longo no botão de desligar.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

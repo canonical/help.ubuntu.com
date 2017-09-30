@@ -49,9 +49,9 @@
 <div class="hgroup"><h1 class="title"><span class="title">Язык и регион</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="keyboard-layouts.html" title="Use alternative keyboard layouts"><span class="title">Use alternative keyboard layouts</span><span class="linkdiv-dash"> — </span><span class="desc">Add keyboard layouts and switch between them.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="session-formats.html" title="Изменение форматов даты и единиц измерения"><span class="title">Изменение форматов даты и единиц измерения</span><span class="linkdiv-dash"> — </span><span class="desc">Выберите региональный формат даты и времени, чисел, валюты и единиц измерения.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="session-language.html" title="Изменение языка"><span class="title">Изменение языка</span><span class="linkdiv-dash"> — </span><span class="desc">Переключение пользовательского интерфейса и текста справочной системы на другой язык.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="keyboard-layouts.html" title="Использование альтернативных раскладок клавиатуры"><span class="title">Использование альтернативных раскладок клавиатуры</span><span class="linkdiv-dash"> — </span><span class="desc">Добавьте раскладки клавиатуры и переключайтесь между ними.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

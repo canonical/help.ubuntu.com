@@ -49,13 +49,14 @@
 <div class="hgroup"><h1 class="title"><span class="title">Kaj je naslov IP?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">"Naslov IP" pomeni <span class="em">Naslov internetnega protokola</span>. Vsaka naprava, ki je povezana z omrežjem (kot je na primer Internet), jo ima.</p>
+<p class="p">“IP address” stands for <span class="em">Internet Protocol address</span>, and each
+  device that is connected to a network (like the internet) has one.</p>
 <p class="p">IP naslov je podoben vaši telefonski številki. Vaša telefonska številka je edinstveno zaporedje števil, ki vaš telefon določi tako, da vas drugi ljudje lahko pokličejo. Podobno je IP naslov edinstveno zaporedje števil, ki določi vaš računalnik tako, da lahko pošlje in prejme podatke z drugih računalnikov.</p>
 <p class="p">Trenutno je večina naslovov IP sestavljena iz štirih zaporedij števil, ki so ločena s piko. Primer naslova IP je <span class="code">192.168.1.42</span>.</p>
 <div class="note note-tip" title="Namig"><div class="inner"><div class="region"><div class="contents"><p class="p">An IP address can either be <span class="em">dynamic</span> or <span class="em">static</span>. Dynamic
     IP addresses are temporarily assigned each time your computer connects to a
     network. Static IP addresses are fixed, and do not change. Dynamic IP
-    addresses are more common that static addresses - static addresses are
+    addresses are more common that static addresses — static addresses are
     typically only used when there is a special need for them, such as in the
     administration of a server.</p></div></div></div></div>
 </div>

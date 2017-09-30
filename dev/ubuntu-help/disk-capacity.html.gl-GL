@@ -74,7 +74,9 @@
 <p class="p">Comprobar o espazo libre do disco e a súa capacidade co <span class="gui">Monitor do sistema</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra o aplicativo <span class="app">Ficheiros</span> desde a vista de <span class="gui">Actividades</span>.</p></li>
-<li class="steps"><p class="p">Para cada dispositivo, a xanela do <span class="gui">Monitor do sistema</span> mostra o espazo total, o libre, o dispoñíbel e o usado.</p></li>
+<li class="steps"><p class="p">Select the <span class="gui">File Systems</span> tab to view the system’s partitions and
+  disk space usage.  The information is displayed according to <span class="gui">Total</span>,
+  <span class="gui">Free</span>, <span class="gui">Available</span> and <span class="gui">Used</span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -83,8 +85,9 @@
 <div class="region"><div class="contents">
 <p class="p">Se o disco está moi cheo, pode:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Eliminar ficheiros que non son importantes ou que non vai empregar máis.</p></li>
-<li class="list"><p class="p">Faga <span class="link"><a href="backup-why.html" title="Facer unha copia de seguranza dos seus ficheiros importantes">copias de respaldo</a></span> dos ficheiros importantes que non vaia precisar durante un tempo e elimíneos do disco duro.</p></li>
+<li class="list"><p class="p">Delete files that aren’t important or that you won’t use anymore.</p></li>
+<li class="list"><p class="p">Make <span class="link"><a href="backup-why.html" title="Facer unha copia de seguranza dos seus ficheiros importantes">backups</a></span> of the important files that
+   you won’t need for a while and delete them from the hard drive.</p></li>
 </ul></div></div></div>
 </div></div>
 </div></div>

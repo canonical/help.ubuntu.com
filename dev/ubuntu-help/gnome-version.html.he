@@ -57,7 +57,7 @@
 <li class="steps">
 <p class="p">Click on <span class="gui">Details</span> to open the panel.</p>
 <p class="p">A window appears showing information about your system, including your
-      distribution's name and the GNOME version.</p>
+      distribution’s name and the GNOME version.</p>
 </li>
 </ol></div></div></div>
 </div>

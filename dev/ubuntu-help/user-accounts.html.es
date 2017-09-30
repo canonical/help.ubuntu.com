@@ -55,11 +55,10 @@
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="user-add.html" title="Añadir una cuenta de usuario nueva"><span class="title">Añadir una cuenta de usuario nueva</span><span class="linkdiv-dash"> — </span><span class="desc">Añadir usuarios nuevos de manera que otras personas puedan iniciar sesión en el equipo.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="user-changepicture.html" title="Cambiar la imagen de inicio de sesión"><span class="title">Cambiar la imagen de inicio de sesión</span><span class="linkdiv-dash"> — </span><span class="desc">Añadir su foto a las pantallas de inicio de sesión y usuario.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-delete.html" title="Eliminar una cuenta de usuario"><span class="title">Eliminar una cuenta de usuario</span><span class="linkdiv-dash"> — </span><span class="desc">Eliminar usuarios que ya no usan su equipo</span></a></div>
 </div>
 <div class="links-twocolumn">
+<div class="linkdiv "><a class="linkdiv" href="user-delete.html" title="Eliminar una cuenta de usuario"><span class="title">Eliminar una cuenta de usuario</span><span class="linkdiv-dash"> — </span><span class="desc">Eliminar usuarios que ya no usan su equipo</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="user-autologin.html" title="Iniciar sesión automáticamente"><span class="title">Iniciar sesión automáticamente</span><span class="linkdiv-dash"> — </span><span class="desc">Configurar el inicio de sesión automático para cuando enciende el equipo.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-guest-session.html" title="Lanzar una sesión de invitado restringida"><span class="title">Lanzar una sesión de invitado restringida</span><span class="linkdiv-dash"> — </span><span class="desc">Permite a un amigo o colega compartir su equipo de una manera segura.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>

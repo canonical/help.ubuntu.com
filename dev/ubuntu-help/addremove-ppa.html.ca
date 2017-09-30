@@ -62,7 +62,10 @@
 <div class="title title-steps"><h2><span class="title">Instal·leu un PPA</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">A la pàgina de detalls dels PPA, busqueu la capçalera <span class="gui">Afegeix aquest PPA al vostre sistema</span>. Feu una nota sobre la ubicació del PPA, que hauríeu de ser semblant a: <span class="code">ppa:mozillateam/firefox-next</span>.</p></li>
-<li class="steps"><p class="p">Cliqueu la icona del <span class="app">Programari de l'Ubuntu</span> en el <span class="gui">Llançador</span>, o busqueu <span class="input">Programari</span> a la barra de cerca del <span class="gui">Quadre d'aplicacions</span>.</p></li>
+<li class="steps"><p class="p">
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">Quan s'iniciï el <span class="app">Programari de l'Ubuntu</span>, cliqueu <span class="gui">Programari i actualitzacions</span></p></li>
 <li class="steps"><p class="p">Canvieu a la pestanya <span class="gui">Altre programari</span>.</p></li>
 <li class="steps"><p class="p">

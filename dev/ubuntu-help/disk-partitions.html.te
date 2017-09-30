@@ -55,7 +55,8 @@
 <div id="manage" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">డిస్కు సౌలభ్యం వుపయోగించి వాల్యూమ్లు మరియు విభజనలు దర్శించండి మరియు నిర్వహించండి</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">డిస్కు సౌలభ్యం వుపయోగించి మీరు మీ కంప్యూటర్ నిల్వ వాల్యూమ్లను పరిశీలించవచ్చు మరియు సవరించవచ్చు.</p>
+<p class="p">You can check and modify your computer’s storage volumes with the disk
+ utility.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui">Activities</span> overview and start <span class="app">Disks</span>.</p></li>
 <li class="steps"><p class="p">In the list of storage devices on the left, you will find hard disks,

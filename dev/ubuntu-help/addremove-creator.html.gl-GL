@@ -57,7 +57,9 @@
 <p class="p">Asúmese que descargou unha imaxe ISO do Ubuntu.</p>
 <p class="p">Para crear un disco de arranque dunha imaxe ISO de Ubuntu:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o <span class="app">Creador de discos de arranque</span> desde o <span class="gui">Panel</span>.</p></li>
+<li class="steps"><p class="p">
+        Open <span class="app">Startup Disk Creator</span> via the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">Se a imaxe ISO está no cartafol de <span class="gui">Descargas</span> e hai unha única imaxe ISO, o <span class="app">Creador de discos de arranque</span> teraa seleccionada. Noutro caso seleccione manualmente a imaxe ISO correcta.</p></li>
 <li class="steps"><p class="p">Se o computador só ten un dispositivo flash USB, o <span class="app">Creador de discos de arranque</span> terao seleccionado, noutro caso terá que seleccionar o dispositivo correcto manualmente.</p></li>
 <li class="steps"><p class="p">Prema <span class="gui">Crear disco de arranque</span>.</p></li>

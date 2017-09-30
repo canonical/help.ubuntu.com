@@ -70,13 +70,15 @@
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="nautilus-connect.html" title="Brskanje datotek na strežniku ali omrežni souporabi"><span class="title">Brskanje datotek na strežniku ali omrežni souporabi</span><span class="linkdiv-dash"> — </span><span class="desc">Ogled in urejanje datotek na drugem računalniku preko FTP, SSH, souporab Windows ali WebDAV.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-lost.html" title="Iskanje izgubljene datoteke"><span class="title">Iskanje izgubljene datoteke</span><span class="linkdiv-dash"> — </span><span class="desc">Sledit tem namigom, če ne morete najti datoteke, ki ste jo ustvarili ali prejeli.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-lost.html" title="Iskanje izgubljene datoteke"><span class="title">Iskanje izgubljene datoteke</span><span class="linkdiv-dash"> — </span><span class="desc">Follow these tips if you can’t find a file you created or
+    downloaded.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-basic.html" title="Lastnosti datoteke"><span class="title">Lastnosti datoteke</span><span class="linkdiv-dash"> — </span><span class="desc">Ogled osnovnih podatkov, nastavitev dovoljenj in izbira privzetih programov.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="nautilus-prefs.html" title="Možnosti upravljalnika datotek"><span class="title">Možnosti upravljalnika datotek</span><span class="linkdiv-dash"> — </span><span class="desc">View and set preferences for the file browser.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-recover.html" title="Obnovitev datoteke iz Smeti"><span class="title">Obnovitev datoteke iz Smeti</span><span class="linkdiv-dash"> — </span><span class="desc">Izbrisane datoteke so običajno poslane v Smeti. Datoteke lahko iz Smeti dobite nazaj.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-open.html" title="Odpiranje datotek z drugimi programi"><span class="title">Odpiranje datotek z drugimi programi</span><span class="linkdiv-dash"> — </span><span class="desc">Odprite datoteke s programom, ki ni privzet program za to vrsto datotek. Spremenite lahko tudi privzet program za odpiranje datotek.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-open.html" title="Odpiranje datotek z drugimi programi"><span class="title">Odpiranje datotek z drugimi programi</span><span class="linkdiv-dash"> — </span><span class="desc">Open files using an application that isn’t the default one for that
+    type of file. You can change the default too.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="privacy-purge.html" title="Purge trash &amp; temporary files"><span class="title">Purge trash &amp; temporary files</span><span class="linkdiv-dash"> — </span><span class="desc">Set how often your trash and temporary files will be cleared
     from your computer.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-share.html" title="Share files by email"><span class="title">Share files by email</span><span class="linkdiv-dash"> — </span><span class="desc">Easily transfer files to your email contacts from the file

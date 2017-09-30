@@ -56,7 +56,7 @@
 <div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents">
 <p class="p">Для этого необходимо использовать календарь <span class="app">Evolution</span> или нужно иметь сетевую учётную запись с поддержкой <span class="gui">Календаря</span>.</p>
 <p class="p">Most distributions come with <span class="app">Evolution</span> installed by default.
-    If yours does not, you may need to install it using your distribution's
+    If yours does not, you may need to install it using your distribution’s
     package manager.</p>
 </div></div></div></div>
 <p class="p">Чтобы просмотреть события:</p>
@@ -67,7 +67,7 @@
 <div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents"><p class="p">A dot is shown under each date that has an appointment.</p></div></div></div></div>
 <p class="p">Existing appointments will be displayed to the left of the calendar.
       As appointments are added to your <span class="app">Evolution</span> calendar, they
-      will appear in the clock's appointment list.</p>
+      will appear in the clock’s appointment list.</p>
 </li>
 </ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="figures/shell-appts.png" width="500" class="media media-block" alt="Часы, календарь и события"></div></div>

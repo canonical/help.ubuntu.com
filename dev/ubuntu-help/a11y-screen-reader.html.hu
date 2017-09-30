@@ -50,9 +50,9 @@
 <div class="region">
 <div class="contents">
 <p class="p">A GNOME alatt az <span class="app">Orka</span> képernyőolvasó segítségével olvastatható fel a felhasználói felület. A GNOME telepítésének módjától függően lehet, hogy az Orka nincs telepítve. Ebben az esetben előbb telepítse az Orkát.</p>
-<p class="p">To start <span class="app">Orca</span> using the keyboard:</p>
-<div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps"><p class="p">Press <span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>S</kbd></span>.</p></li></ol></div></div></div>
-<p class="p">Or to start <span class="app">Orca</span> using a mouse and keyboard:</p>
+<p class="p">Az <span class="app">Orka</span> indításához a billentyűzet használatával:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps"><p class="p">Nyomja meg a <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+++<span class="key"><kbd>Alt</kbd></span>+++<span class="key"><kbd>S</kbd></span></span> kombinációt.</p></li></ol></div></div></div>
+<p class="p">Vagy az <span class="app">Orka</span> elindítható billentyűzettel és egérrel is:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni az <span class="gui">Akadálymentesítés</span> szót.</p></li>
 <li class="steps"><p class="p">Kattintson az <span class="gui">Akadálymentesítés</span> ikonra a panel megnyitásához.</p></li>

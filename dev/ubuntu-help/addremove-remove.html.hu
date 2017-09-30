@@ -62,7 +62,10 @@
   </p>
 <p class="p">To remove an application:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Kattintson az <span class="app">Ubuntu Szoftverek</span> ikonjára az <span class="gui">Indítón</span>, vagy keressen rá a <span class="input">szoftverek</span> szóra a <span class="app">Dash</span> keresősávjában.</p></li>
+<li class="steps"><p class="p">
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">Az <span class="app">Ubuntu Szoftverek</span> megnyílása után kattintson a fenti <span class="gui">Telepített</span> gombra.</p></li>
 <li class="steps"><p class="p">Keresse meg az eltávolítani kívánt alkalmazást a keresőmezővel vagy a telepített alkalmazások listájában.</p></li>
 <li class="steps"><p class="p">Válassza ki az eltávolítani kívánt alkalmazást, és nyomja meg az <span class="gui">Eltávolítás</span> gombot.</p></li>

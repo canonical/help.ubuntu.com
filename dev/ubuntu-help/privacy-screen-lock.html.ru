@@ -52,9 +52,9 @@
 <p class="p">When you leave your computer, you should
   <span class="link"><a href="shell-exit.html#lock-screen" title="Блокирование экрана">lock the screen</a></span> to prevent
   other people from using your desktop and accessing your files. If you
-  sometimes forget to lock your screen, you may wish to have your computerʼs
+  sometimes forget to lock your screen, you may wish to have your computer’s
   screen lock automatically after a set period of time. This will help to
-  secure your computer when you arenʼt using it.</p>
+  secure your computer when you aren’t using it.</p>
 <div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents"><p class="p">При заблокированном экране приложения и системные процессы не выключаются, но вам понадобится ввести пароль чтобы возобновить работу с ними.</p></div></div></div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Чтобы установить промежуток времени перед автоматической блокировкой экрана:</span></h2></div>
@@ -69,7 +69,7 @@
 </div></div>
 <div class="note note-tip" title="Подсказка"><div class="inner"><div class="region"><div class="contents"><p class="p">Applications can present notifications to you that are still displayed
     on your lock screen. This is convenient, for example, to see if you have
-    any email without unlocking your screen. If youʼre concerned about other
+    any email without unlocking your screen. If you’re concerned about other
     people seeing these notifications, switch <span class="gui">Show Notifications</span>
     off.</p></div></div></div></div>
 <p class="p">Если экран заблокирован, и вы хотите разблокировать его, нажмите клавишу <span class="key"><kbd>Esc</kbd></span> или потяните экран снизу вверху с помощью мыши. Затем введите свой пароль и нажмите клавишу <span class="key"><kbd>Enter</kbd></span> или нажмите кнопку <span class="gui">Разблокировать</span>. Вы также можете просто начать вводить свой пароль, экран блокировки будет автоматически убран.</p>

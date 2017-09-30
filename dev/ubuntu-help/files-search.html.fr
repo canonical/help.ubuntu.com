@@ -58,14 +58,20 @@
       <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview.</p></li>
 <li class="steps"><p class="p">Si vous connaissez le nom du dossier contenant les fichiers que vous recherchez, allez à ce dossier.</p></li>
 <li class="steps">
-<p class="p">Saisissez un ou plusieurs mots qui devraient faire partie du nom du fichier et ils s'affichent dans le champ de recherche. Par exemple, si vous nommez toutes vos factures avec le mot « facture », saisissez <span class="input">facture</span>. Les mots sont recherchés sans tenir compte de la casse.</p>
+<p class="p">Type a word or words that you know appear in the file name, and they
+      will be shown in the search bar. For example, if you name all your
+      invoices with the word “Invoice”, type <span class="input">invoice</span>. Words are
+      matched regardless of case.</p>
 <div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">Plutôt que saisir les mots pour faire apparaître le champ de recherche, cliquez sur la loupe dans la barre d'outils, ou appuyez sur <span class="keyseq"><span class="key"><kbd>Ctrl </kbd></span>+<span class="key"><kbd>F</kbd></span></span>.</p></div></div></div></div>
 </li>
 <li class="steps">
 <p class="p">Vous pouvez réduire les résultats par emplacement et par type de fichier. </p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Cliquez sur <span class="gui">Dossier personnel</span> pour limiter la recherche à ce dossier, ou sur <span class="gui">Tous les fichiers</span> pour rechercher partout.</p></li>
-<li class="list"><p class="p">Cliquez sur <span class="gui">+</span> et choisissez un <span class="gui">Type de fichier</span> dans la liste déroulante pour limiter la recherche à ce type de fichier. Cliquez sur le bouton <span class="gui">x</span> pour supprimer cette option et élargir le champ de recherche.</p></li>
+<li class="list"><p class="p">Click the <span class="gui">+</span> button and pick a <span class="gui">File Type</span> from
+	  the drop-down list to narrow the search results based on file type.
+	  Click the <span class="gui">×</span> button to remove this option and widen the
+	  search results.</p></li>
 </ul></div></div></div>
 </li>
 <li class="steps"><p class="p">Vous pouvez ouvrir, copier, supprimer ou même travaillez avec les fichiers à partir des résultats de la recherche, comme si vous étiez dans n'importe quel dossier du gestionnaire de fichiers.</p></li>

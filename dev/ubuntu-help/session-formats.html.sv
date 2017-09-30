@@ -56,7 +56,7 @@
 <li class="steps"><p class="p">Klicka på <span class="gui">Format</span>.</p></li>
 <li class="steps"><p class="p">Välj den region som bäst passar formaten som du önskar använda. Om din region och språk inte är listade, klicka på <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="…"></span></span></span> längst ner i listan för att välja bland alla tillgängliga regioner och språk.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Färdig</span> för att spara.</p></li>
-<li class="steps"><p class="p">Svara på frågan <span class="gui">Din session behöver startas om för att ändringar ska genomföras</span> genom att klicka på <span class="gui">Starta om nu</span> eller klicka på <span class="gui">X</span> för att starta om senare.</p></li>
+<li class="steps"><p class="p">Svara på frågan <span class="gui">Din session behöver startas om för att ändringar ska genomföras</span> genom att klicka på <span class="gui">Starta om nu</span> eller klicka på <span class="gui">×</span> för att starta om senare.</p></li>
 </ol></div></div></div>
 <p class="p">Efter att du valt en region, kommer ytan till höger om listan att visa olika exempel på hur datum och andra värden visas. Även om det inte visas i exemplen styr din region även vilken veckodag i veckan som först i kalendrar.</p>
 </div>

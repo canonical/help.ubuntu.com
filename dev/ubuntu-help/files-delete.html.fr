@@ -61,7 +61,10 @@
 <li class="steps"><p class="p">appuyez sur la touche <span class="key"><kbd>Suppr</kbd></span> de votre clavier ou faites glisser l'élément jusque dans la <span class="gui">Corbeille</span> du panneau latéral.</p></li>
 </ol></div>
 </div></div>
-<p class="p">Le fichier est mis à la corbeille et une option pour <span class="gui">Rétablir</span> l'action vous est proposée. Le bouton <span class="gui">Rétablir</span> ne s'affiche que quelques secondes. Si vous appuyez dessus, le fichier supprimé est restauré à son emplacement d'origine.</p>
+<p class="p">The file will be moved to the trash, and you’ll be presented with an
+  option to <span class="gui">Undo</span> the deletion. The <span class="gui">Undo</span> button will appear
+  for a few seconds. If you select <span class="gui">Undo</span>, the file will be restored
+  to its original location.</p>
 <p class="p">Pour effacer les fichiers définitivement et libérer de l'espace disque sur votre ordinateur, vous devez vider la corbeille. Pour vider la corbeille, effectuez un clic-droit sur la <span class="gui">Corbeille</span> dans la barre latérale et sélectionnez <span class="gui">Vider la corbeille</span>.</p>
 </div>
 <div id="permanent" class="sect"><div class="inner">

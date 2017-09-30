@@ -51,8 +51,11 @@
 <div class="contents">
 <p class="p">安装 Ubuntu 时，会同时安装选择的语言和英语，但是可以添加其他语言。</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the <span class="em">system menu</span> and select <span class="gui">System Settings</span>.</p></li>
-<li class="steps"><p class="p">在“个人”部分，单击<span class="gui">语言支持</span>。</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+      start typing <span class="gui">Region &amp; Language</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Manage Installed Languages</span> button to open <span class="gui">Language
+      Support</span>.</p></li>
 <li class="steps"><p class="p">点击 <span class="gui">安装/移除语言...</span>。<span class="gui">已安装语言</span>窗口列出所有可用的语言，并选中了其中已安装的语言。</p></li>
 <li class="steps"><p class="p">选择要安装的语言，取消选择已安装但要删除的语言。</p></li>
 <li class="steps"><p class="p">点击 <span class="gui">应用变更</span>。</p></li>

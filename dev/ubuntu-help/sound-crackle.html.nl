@@ -44,16 +44,16 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Common problems">Problems</a> » <a class="trail" href="sound-broken.html" title="Sound problems">Sound problems</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="media.html#sound" title="Basisgeluid">Geluid</a> » <a class="trail" href="sound-broken.html" title="Geluidsproblemen">Geluidsproblemen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="media.html#sound" title="Basic sound">Sound</a> » <a class="trail" href="sound-broken.html" title="Sound problems">Sound problems</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="sound-broken.html" title="Geluidsproblemen">Geluidsproblemen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ik hoor gekraak of gezoem wanneer er geluid wordt afgespeeld</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">als u gekraak of gezoem hoort wanneer er geluid wordt afgespeeld op uw computer, dan kan het zijn dat u een probleem heeft met de audiokabels of connectoren, of een probleem met het stuurprogramma voor de geluidskaart.</p>
+<p class="p">Als u gekraak of gezoem hoort wanneer er geluid wordt afgespeeld op uw computer, dan kan het zijn dat u een probleem heeft met de audiokabels of connectoren, of een probleem met het stuurprogramma voor de geluidskaart.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
 <p class="p">Zorg ervoor dat de luidsprekers op de juiste manier zijn aangesloten.</p>
@@ -69,7 +69,7 @@
 <p class="p">Some sound cards do not work very well on Linux because they do not have very
   good drivers. This problem is more difficult to identify. Try searching for
   the make and model of your sound card on the internet, plus the search term
-  "Linux", to see if other people are having the same problem.</p>
+  “Linux”, to see if other people are having the same problem.</p>
 <p class="p">You can use the <span class="cmd">lspci</span> command to get more information about your
   sound card.</p>
 </li>
@@ -80,7 +80,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-broken.html" title="Sound problems">Sound problems</a><span class="desc"> — Problemen zoals het niet hebben van geluid of geluid van slechte kwaliteit oplossen.</span>
+<a href="sound-broken.html" title="Geluidsproblemen">Geluidsproblemen</a><span class="desc"> — Problemen zoals het niet hebben van geluid of geluid van slechte kwaliteit oplossen.</span>
 </li></ul></div>
 </div></div></div>
 </div>

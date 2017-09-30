@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Sharing</title>
+<title>Delen</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,21 +43,19 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Sharing</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Delen</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="nautilus-connect.html" title="Browse files on a server or network share"><span class="title">Browse files on a server or network share</span><span class="linkdiv-dash"> — </span><span class="desc">View and edit files on another computer over FTP, SSH, Windows
-    shares, or WebDAV.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html" title="Control sharing over Bluetooth"><span class="title">Control sharing over Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Allow files to be uploaded to your computer over Bluetooth.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-send-file.html" title="Send files to a Bluetooth device"><span class="title">Send files to a Bluetooth device</span><span class="linkdiv-dash"> — </span><span class="desc">Share files to Bluetooth devices such as your phone.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-share.html" title="Share files by email"><span class="title">Share files by email</span><span class="linkdiv-dash"> — </span><span class="desc">Easily transfer files to your email contacts from the file
-    manager.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-desktop.html" title="Share your desktop"><span class="title">Share your desktop</span><span class="linkdiv-dash"> — </span><span class="desc">Let other people view and interact with your desktop using VNC.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-media.html" title="Share your music, photos and videos"><span class="title">Share your music, photos and videos</span><span class="linkdiv-dash"> — </span><span class="desc">Share media on your local network using UPnP.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-personal.html" title="Share your personal files"><span class="title">Share your personal files</span><span class="linkdiv-dash"> — </span><span class="desc">Let other people access files in your <span class="file">Public</span>
+<div class="linkdiv "><a class="linkdiv" href="files-share.html" title="Bestanden delen per e-mail"><span class="title">Bestanden delen per e-mail</span><span class="linkdiv-dash"> — </span><span class="desc">Bestanden eenvoudig overbrengen naar uw e-mailcontacten vanuit bestandsbeheer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-send-file.html" title="Bestanden sturen naar een Bluetooth-apparaat"><span class="title">Bestanden sturen naar een Bluetooth-apparaat</span><span class="linkdiv-dash"> — </span><span class="desc">Bestanden delen met Bluetooth-apparaten, zoals uw telefoon.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-desktop.html" title="Deel uw desktop"><span class="title">Deel uw desktop</span><span class="linkdiv-dash"> — </span><span class="desc">Laat andere mensen meekijken en uw computer bedienen met behulp van VNC.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html" title="Delen van besturing via Bluetooth"><span class="title">Delen van besturing via Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Allow files to be uploaded to your computer over Bluetooth.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-connect.html" title="Door bestanden op een server of netwerk bladeren"><span class="title">Door bestanden op een server of netwerk bladeren</span><span class="linkdiv-dash"> — </span><span class="desc">Bestanden bekijken en bewerken op een andere computer via FTP, SSH, Windows shares, of WebDAV.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-media.html" title="Uw muziek, foto's en video's delen"><span class="title">Uw muziek, foto's en video's delen</span><span class="linkdiv-dash"> — </span><span class="desc">Share media on your local network using UPnP.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-personal.html" title="Uw persoonlijke bestanden delen"><span class="title">Uw persoonlijke bestanden delen</span><span class="linkdiv-dash"> — </span><span class="desc">Let other people access files in your <span class="file">Public</span>
     folder.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -65,12 +63,12 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless.html" title="Wireless Networking">Wireless</a></span>,
-      <span class="link"><a href="net-wired.html" title="Wired Networking">wired</a></span>,
-      <span class="link"><a href="net-problem.html" title="Network problems">connection problems</a></span>,
-      <span class="link"><a href="net-browser.html" title="Web Browsers">web browsing</a></span>,
-      <span class="link"><a href="net-email.html" title="Email &amp; email software">email accounts</a></span>…
+<a href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a><span class="desc"> — 
+      <span class="link"><a href="net-wireless.html" title="Draadloos netwerk">Wireless</a></span>,
+      <span class="link"><a href="net-wired.html" title="Bekabeld netwerk">wired</a></span>,
+      <span class="link"><a href="net-problem.html" title="Netwerkproblemen">connection problems</a></span>,
+      <span class="link"><a href="net-browser.html" title="Webbrowsers">web browsing</a></span>,
+      <span class="link"><a href="net-email.html" title="E mail &amp; e-mailsoftware">email accounts</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

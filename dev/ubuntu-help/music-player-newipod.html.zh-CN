@@ -2,7 +2,7 @@
 <html lang=zh-CN>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>我的新 iPod 不能工作</title>
+<title>My new iPod won’t work</title>
 <link rel="stylesheet" type="text/css" href="zh-CN.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,10 +46,10 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="声音、视频 &amp; 图片">声音、视频 &amp; 图片</a> › <a class="trail" href="media.html#music" title="音乐和便携式音乐播放器">音乐和播放器</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">我的新 iPod 不能工作</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">My new iPod won’t work</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">如果您有一个从未使用过的 iPod 新产品，当它接入 Linux 计算机时将不能被正确识别，这是因为 iPod 需要使用 <span class="app">iTunes</span> 程序来设置和更新，但它只能运行在 Windows 和 Mac OS 系统上。</p>
+<p class="p">If you have a new iPod that has never been connected to a computer before, it won’t be recognized properly when you connect it to a Linux computer. This is because iPods need to be set up and updated using the <span class="app">iTunes</span> software, which only runs on Windows and Mac OS.</p>
 <p class="p">要设置您的 iPod，在 Windows 或 Mac  系统上安装 iTunes，然后插入设备。通过一系列步骤就可以安装好。当询问<span class="gui">卷格式</span>时，选择 <span class="gui">MS-DOS(FAT)</span>、<span class="gui">Windows</span> 或类似的，其他格式(HFS/Mac) 在 Linux 上工作的不好。</p>
 <p class="p">一旦完成安装，当您把 iPod 接入一个 Linux 系统计算机，它应该就可以在 Linux 系统上正常工作了。</p>
 </div>

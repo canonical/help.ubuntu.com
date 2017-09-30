@@ -50,7 +50,10 @@
 <div class="region">
 <div class="contents">
 <p class="p">ஒரு கோப்பு அல்லது கோப்புறையை சொடுக்கி மூலம் இழுத்து விடுவதன் மூலம், நகலெடு மற்றும் ஒட்டு கட்டளைகள் மூலம் அல்லது விசைப்பலகை குறுக்குவழிகளை பயன்படுத்தி ஒரு புதிய இடத்திற்கு நகலெடுக்கலாம் அல்லது நகர்த்தலாம்.</p>
-<p class="p">உதாரணமாக, நீங்கள் விளக்கக்காட்சி கோப்பை உங்கள் அலுவலகத்திற்கு எடுத்துச் செல்ல ஏதுவாக அதை ஒரு மெமரி ஸ்டிக்கில் நகலெடுக்க விரும்பலாம். அல்லது, நீங்கள் அதில் மாற்றங்களைச் செய்யும் முன் ஒரு மறுபிரதி எடுத்துக்கொள்ள விரும்பலாம் (நீங்கள் உங்கள் மாற்றங்களை விரும்பாவிட்டால், பிறகு பழைய நகலையே பயன்படுத்தலாம் என்ற யோசனையில்).</p>
+<p class="p">For example, you might want to copy a presentation onto a memory stick so
+ you can take it to work with you. Or, you could make a back-up copy of a
+ document before you make changes to it (and then use the old copy if you don’t
+ like your changes).</p>
 <p class="p">இந்த வழிமுறைகள் கோப்புகள் மற்றும் கோப்புறைகள் இரண்டுக்கும் பொருந்தும். நீங்கள் கோப்புகளை நகலெடுப்பது மற்றும் நகர்த்துவது போலவே கோப்புறைகளையும் நகலெடுப்பீர்கள் நகர்த்துவீர்கள்.</p>
 <div class="steps ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
@@ -91,7 +94,8 @@
 <li class="steps"><p class="p">இரண்டாவது சாளரத்தைத் திறக்க, மேல் பட்டியில் உள்ள <span class="gui">கோப்புகள்</span> என்பதை சொடுக்கி <span class="gui">புதிய சாளரம்</span> என்பதைத் தேர்ந்தெடுக்கவும் (அல்லது <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>N</kbd></span></span> ஐ அழுத்தவும்). புதிய சாளரத்தில் நீங்கள் கோப்பை நகலெடுக்க அல்லது நகர்த்த விரும்பும் கோப்புறைக்குச் செல்லவும்.</p></li>
 <li class="steps">
 <p class="p">கோப்பை சொடுக்கி ஒரு சாளரத்தில் இருந்து மற்றொன்றுக்கு இழுத்து இடவும். இப்படிச் செய்வவதால் இலக்கு கோப்புறை <span class="em">அதே</span> சாதனத்தில் இருந்தால் கோப்பு <span class="em">நகர்த்தப்படும்</span> அல்லது இலக்கு கோப்புறை <span class="em">வேறு</span> சாதனத்தில் இருந்தால் கோப்பு <span class="em">நகலெடுக்கப்படும்</span>.</p>
-<p class="p">உதாரணமாக, நீங்கள் ஒரு கோப்பை ஒரு USB மெமரி ஸ்டிக்கில் இருந்து இழுத்து உங்கள் இல்லக் கோப்புறையில் இட்டால், அது நகலெடுக்கப்படும், ஏனெனில் அப்போது நீங்கள் அதை ஒரு சாதனத்திலிருந்து மற்றொன்றுக்கு இழுத்து விடுகிறீர்கள்.</p>
+<p class="p">For example, if you drag a file from a USB memory stick to your Home folder,
+ it will be copied, because you’re dragging from one device to another.</p>
 <p class="p">நீங்கள் கோப்பை கட்டாயப்படுத்தி நகலெடுக்க அதனை இழுத்து இடும் போது <span class="key"><kbd>Ctrl</kbd></span> விசையைப் பிடித்திருக்கலாம், அல்லது கட்டாயப்படுத்தி நகர்த்த அதனை இழுத்து இடும் போது <span class="key"><kbd>Shift</kbd></span> விசையைப் பிடித்திருக்கலாம்.</p>
 </li>
 </ol></div>

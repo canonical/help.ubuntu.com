@@ -49,7 +49,9 @@
 <div class="hgroup"><h1 class="title"><span class="title">ドライバーとはなんですか?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">デバイスとはコンピューターの物理的な"部品"です。デバイスは<span class="em">外部デバイス</span>であればプリンターやモニター、<span class="em">内部デバイス</span>であればグラフィックカードやオーディオカードのようなものを指します。</p>
+<p class="p">Devices are the physical “parts” of your computer. They may be
+<span class="em">external</span> like printers and monitor or <span class="em">internal</span> like graphics
+and audio cards.</p>
 <p class="p">これらのデバイスをコンピューターで利用できるようにするには、デバイスとどのように通信するかを知る必要があります。これを<span class="em">デバイスドライバー</span>と呼ばれるソフトウェアが行います。</p>
 <p class="p">When you attach a device to your computer, you must have the correct driver
 installed for that device to work. For example, if you plug in a printer but

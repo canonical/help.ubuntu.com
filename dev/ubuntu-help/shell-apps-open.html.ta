@@ -54,12 +54,13 @@
   <span class="gui"><a href="shell-introduction.html#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview. This is where you
   can find all of your applications. You can also open the overview by pressing
   the <span class="key"><a href="keyboard-key-super.html" title="Super என்பது என்ன?"><kbd>Super</kbd></a></span> key.</p>
-<p class="p"><span class="gui">செயல்பாடுகள்</span> மேலோட்டத்தில் இருந்து ஒரு பயன்பாட்டைத் திறக்க பல வழிகள் உள்ளன:</p>
+<p class="p">There are several ways of opening an application once you’re in the
+  <span class="gui">Activities</span> overview:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Start typing the name of an application - searching begins instantly.
-      (If this doesn't happen, click the search bar at the top of the screen
-      and start typing.) If you don't know the exact name of an application, try
-      to type an related term. Click the application's icon to start it.</p></li>
+<li class="list"><p class="p">Start typing the name of an application — searching begins instantly.
+      (If this doesn’t happen, click the search bar at the top of the screen
+      and start typing.) If you don’t know the exact name of an application, try
+      to type an related term. Click the application’s icon to start it.</p></li>
 <li class="list">
 <p class="p">சில பயன்பாடுகளின் சின்னங்கள் <span class="em">டேஷில்</span> இருக்கும், <span class="gui">செயல்பாடுகள்</span> மேலோட்டத்தின் இடப்புறம் உள்ள சின்னங்கள் நிரம்பிய பட்டையே டேஷ் ஆகும். பயன்பாடு ஒன்றை தொடங்க அதன் சின்னத்தை அங்கு சொடுக்கவும்.</p>
 <p class="p">நீங்கள் சில பயன்பாடுகளை மிக அடிக்கடி பயன்படுத்தினால், <span class="link"><a href="shell-apps-favorites.html" title="உங்களுக்கு பிடித்த பயன்பாடுகளை டேஷில் இணைத்தல்">அவற்றை டேஷில் சேர்க்கலாம்</a></span>.</p>
@@ -82,7 +83,7 @@
 <p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> ஐ அழுத்தி ஒரு பயன்பாட்டின் <span class="em">கட்டளைப் பெயரை</span> தட்டச்சு செய்து பிறகு <span class="key"><kbd>Enter</kbd></span> விசையை அழுத்தியும் ஒரு பயன்பாட்டைத் திறக்கலாம்.</p>
 <p class="p">For example, to launch <span class="app">Rhythmbox</span>, press
     <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> and type
-    '<span class="cmd">rhythmbox</span>' (without the single-quotes). The name of the app is
+    ‘<span class="cmd">rhythmbox</span>’ (without the single-quotes). The name of the app is
     the command to launch the program.</p>
 </div></div>
 </div></div>

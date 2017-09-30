@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Wipe everything off a removable disk</title>
+<title>Alles van een verwijderbare schijf wissen</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,50 +43,36 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="disk.html" title="Disks &amp; storage">Disks &amp; storage</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="disk.html" title="Schijven &amp; opslag">Schijven &amp; opslag</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Wipe everything off a removable disk</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Alles van een verwijderbare schijf wissen</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">If you have a removable disk, like a USB memory stick or an external hard
  disk, you may sometimes wish to completely remove all of its files and
- folders. You can do this by <span class="em">formatting</span> the disk - this deletes all
+ folders. You can do this by <span class="em">formatting</span> the disk — this deletes all
  of the files on the disk and leaves it empty.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Format a removable disk</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Formatteer de verwijderbare schijf</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open <span class="app">Disks</span> from the <span class="gui">Activities</span> overview.</p></li>
+<li class="steps"><p class="p">Open <span class="app">Schijven</span> vanuit het <span class="gui">Activiteiten</span>-overzicht.</p></li>
 <li class="steps">
-<p class="p">Select the disk you want to wipe from the list of storage devices on the
-    left.</p>
-<div class="note note-warning" title="Waarschuwing"><div class="inner"><div class="region"><div class="contents"><p class="p">Make sure that you have selected the correct disk! If you choose the
-      wrong disk, all of the files on the other disk will be deleted!</p></div></div></div></div>
+<p class="p">Selecteer de schijf die u wilt leegmaken in de de lijst met opslagapparaten aan de linkerkant.</p>
+<div class="note note-warning" title="Waarschuwing"><div class="inner"><div class="region"><div class="contents"><p class="p">Zorg ervoor dat u de juiste schijf selecteert! Als u de verkeerde schijf kiest, worden alle bestanden op de deze schijf verwijderd!</p></div></div></div></div>
 </li>
-<li class="steps"><p class="p">In the toolbar underneath the <span class="gui">Volumes</span> section, click the
-    menu button. Then click <span class="gui">Format…</span>.</p></li>
+<li class="steps"><p class="p">Klik in de werkbalk onder de sectie <span class="gui">Volumen</span> op de menuknop. Klik daarna op <span class="gui">Volume formatteren</span>.</p></li>
 <li class="steps">
-<p class="p">In the window that pops up, choose a file system <span class="gui">Type</span> for the
-    disk.</p>
-<p class="p">If you use the disk on Windows and Mac OS computers in addition to Linux
-   computers, choose <span class="gui">FAT</span>. If you only use it on Windows, <span class="gui">NTFS</span>
-   may be a better option. A brief description of the <span class="gui">file system type</span>
-   will be presented as a label.</p>
+<p class="p">Kies een bestandssysteem voor de schijf  in het <span class="gui">Type</span>-veld in het venster dat verschijnt.</p>
+<p class="p">Indien u de schijf naast Linux ook op Windows en Mac computers gebruikt, kies dan <span class="gui">FAT</span>. Indien u hem alleen in Windows gebruikt, dan is <span class="gui">NTFS</span> wellicht een betere keus. Een korte beschrijving van het <span class="gui">bestandssysteemtype</span> zal als label gepresenteerd worden.</p>
 </li>
-<li class="steps"><p class="p">Give the disk a name and click <span class="gui">Format…</span> to continue and show a
-    confirmation window. Check the details carefully, and click
-    <span class="gui">Format</span> to wipe the disk.</p></li>
-<li class="steps"><p class="p">Once the formatting has finished, click the eject icon to safely remove
-    the disk. It should now be blank and ready to use again.</p></li>
+<li class="steps"><p class="p">Geef de schijf een naam en klik op <span class="gui">Formatteren…</span> om door te gaan en een bevestigingsvenster te tonen. Lees de details nauwkeurig en klik op  <span class="gui">Formatteren</span> om de schijf leeg te maken.</p></li>
+<li class="steps"><p class="p">Als het formatteren voltooid is, klik dan op het uitwerpen-pictogram om de schijf veilig te verwijderen. De schijf zou nu leeg moeten zijn, en klaar voor gebruik.</p></li>
 </ol></div>
 </div></div>
 <div class="note note-warning" title="Waarschuwing"><div class="inner">
-<div class="title title-note"><h2><span class="title">Formatting a disk does not securely delete your files</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Formatting a disk is not a completely secure way of wiping all of its
- data. A formatted disk will not appear to have files on it, but it is
- possible that special recovery software could retrieve the files. If you
- need to securely delete the files, you will need to use a command-line
- utility, such as <span class="app">shred</span>.</p></div></div>
+<div class="title title-note"><h2><span class="title">Formatteren van een schijf verwijdert niet veilig u bestanden</span></h2></div>
+<div class="region"><div class="contents"><p class="p">Het formatteren van een schiijf is niet een geheel veilige manier om alle gegevens erop te wissen. Op een geformatteerde schijf lijkt het alsof er geen bestanden op staan, maar bestanden kunnen mogelijk teruggehaald worden met speciale software. Als u veilig bestanden wilt verwijderen, dan heeft u een opdrachtregelhulpmiddel nodig zoals <span class="app">shred</span>.</p></div></div>
 </div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -94,12 +80,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html" title="Disks &amp; storage">Disks &amp; storage</a><span class="desc"> — 
-    <span class="link"><a href="disk-capacity.html" title="Check how much disk space is left">Disk space</a></span>,
-    <span class="link"><a href="disk-benchmark.html" title="Test the performance of your hard disk">performance</a></span>,
-    <span class="link"><a href="disk-check.html" title="Check your hard disk for problems">problems</a></span>,
-    <span class="link"><a href="disk-partitions.html" title="Manage volumes and partitions">volumes and partitions</a></span>…
-  </span>
+<a href="disk.html" title="Schijven &amp; opslag">Schijven &amp; opslag</a><span class="desc"> — <span class="link"><a href="disk-capacity.html" title="Controleer hoeveel schijfruimte er nog besschikbaar is">Schijfruimte</a></span>, <span class="link"><a href="disk-benchmark.html" title="De prestaties van u harde schijf testen">presentatie</a></span>, <span class="link"><a href="disk-check.html" title="Controleer of er problemen zijn met u harde schijf">problemen</a></span>, <span class="link"><a href="disk-partitions.html" title="Volumes en partities beheren">volumes en partities</a></span>...</span>
 </li></ul></div>
 </div></div></div>
 </div>

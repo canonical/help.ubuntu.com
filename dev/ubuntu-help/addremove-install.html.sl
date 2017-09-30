@@ -76,7 +76,10 @@
     To install an application:
   </p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Kliknite na ikono <span class="app">Programi Ubuntu</span> v zaganjalniku ali pa v iskalni vrstici <span class="app">Pregledne plošče</span> poiščite <span class="input">Programi</span>.</p></li>
+<li class="steps"><p class="p">
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">Ko se <span class="app">Programi Ubuntu</span> zažene, poiščite program ali izberite kategorijo in najdite program na seznamu.</p></li>
 <li class="steps"><p class="p">
         Select the application that you want to install and click 

@@ -69,10 +69,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Piltangenter</p></td>
-<td style="border-top-style: solid;">
-<p class="p">Flytta markering mellan objekt inom en kontroll, eller mellan en mängd av relaterade kontroller. Använd piltangenterna för att fokusera på knappar i en verktygsfält, markera objekt i en lista eller ikonvy eller markera radioknappar från en grupp.</p>
-<p class="p">I en trädvy, använd vänster och höger piltangent för att fälla ut och ihop objekt med underordnade objekt.</p>
-</td>
+<td style="border-top-style: solid;"><p class="p">Flytta markering mellan objekt inom en kontroll, eller mellan en mängd av relaterade kontroller. Använd piltangenterna för att fokusera på knappar i en verktygsfält, markera objekt i en lista eller ikonvy eller markera radioknappar från en grupp.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+Piltangenter</span></p></td>
@@ -80,7 +77,11 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+Piltangenter</span></p></td>
-<td style="border-top-style: solid;"><p class="p">I en list- eller ikon-vy, markera alla objekt från och med den för närvarande valda objektet till och med det nyligen fokuserade objektet.</p></td>
+<td style="border-top-style: solid;"><p class="p">I en list- eller ikonvy, markera alla objekt från och med det för närvarande valda objektet till och med det nyligen fokuserade objektet.</p></td>
+<td style="border-top-style: solid;"><p class="p">In a tree view, items that have children can be expanded or collapsed,
+    to show or hide their children: expand by pressing
+    <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>→</kbd></span></span>, and collapse by
+    pressing <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>←</kbd></span></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Blanksteg</kbd></span></p></td>

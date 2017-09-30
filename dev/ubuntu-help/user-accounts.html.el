@@ -54,7 +54,6 @@
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="user-add.html" title="Προσθήκη νέου λογαριασμού χρήστη"><span class="title">Προσθήκη νέου λογαριασμού χρήστη</span><span class="linkdiv-dash"> — </span><span class="desc">Προσθήκη νέων χρηστών έτσι ώστε τα άλλα άτομα να μπορούν να συνδεθούν στον υπολογιστή.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-guest-session.html" title="Έναρξη μιας περιορισμένης συνεδρίας επισκέπτη"><span class="title">Έναρξη μιας περιορισμένης συνεδρίας επισκέπτη</span><span class="linkdiv-dash"> — </span><span class="desc">ΕΠιτρέψτε σε έναν φίλο ή συνάδελφο να δανειστεί τον υπολογιστή σας με ασφαλή τρόπο.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="user-changepicture.html" title="Αλλαγή της φωτογραφίας οθόνης εισόδου"><span class="title">Αλλαγή της φωτογραφίας οθόνης εισόδου</span><span class="linkdiv-dash"> — </span><span class="desc">Προσθέστε την φωτογραφία σας στη σύνδεση και τις οθόνες των χρηστών.</span></a></div>
 </div>
 <div class="links-twocolumn">

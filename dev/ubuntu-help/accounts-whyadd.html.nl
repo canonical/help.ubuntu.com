@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Why add an account?</title>
+<title>Waarom zou ik een account toevoegen?</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,32 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="accounts.html" title="Online accounts">Online accounts</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="accounts.html" title="Online-accounts">Online-accounts</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Why add an account?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Waarom zou ik een account toevoegen?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Adding your online accounts brings your choice of services like calendar,
-  chat, and e-mail straight to your desktop and makes the information of the
-  services a seamless part of your user experience. By adding accounts you can
-  easily keep in touch using services from different accounts, like chats, at
-  the same time. Just set up your online accounts once and every time you start
-  your computer all the accounts and services that you have added are ready to
-  use.</p>
-<p class="p">See <span class="link"><a href="accounts-which-application.html" title="Online services and applications">Online services and applications</a></span> for information on which
-  applications can access which online services.</p>
+<p class="p">Door het toevoegen van uw accounts krijgt u een keur aan diensten zoals agenda, chatten en e-mail direct op uw bureaublad; deze diensten worden naadloos deel van het gebruikersgemak gemaakt. Door het toevoegen van accounts kunt u tegelijk contact houden met diensten van verschillende accounts, zoals chats. Stel uw online accounts eenmalig in en elke keer dat u uw computer start zullen alle accounts en diensten die u toegevoegd heeft voor u klaar staan.</p>
+<p class="p">Zie <span class="link"><a href="accounts-which-application.html" title="Online-services en -toepassingen">Online-services en -toepassingen</a></span> voor informatie welke toepassingen welke online-diensten kunnen gebruiken.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Online accounts">Online accounts</a><span class="desc"> — 
-      <span class="link"><a href="accounts-add.html" title="Add an account">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html" title="Remove an account">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html" title="Online services and applications">Learn about services</a></span>…
-    </span>
+<a href="accounts.html" title="Online-accounts">Online-accounts</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Een account toevoegen">Een online-account toevoegen</a></span>, <span class="link"><a href="accounts-remove.html" title="Een account verwijderen">Een account verwijderen</a></span>, <span class="link"><a href="accounts-which-application.html" title="Online-services en -toepassingen">Meer te weten komen over diensten</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -57,9 +57,11 @@
 <video src="figures/gnome-task-switching.webm" preload="auto" controls="controls" class="media media-block" height="394" width="700" data-play-label="ಚಾಲನೆ ಮಾಡು" data-pause-label="ವಿರಮಿಸು"></video><div class="media-ttml">
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="1" data-ttml-end="5"><div class="media-ttml-node media-ttml-p" data-ttml-begin="1" data-ttml-end="5">ಕಾರ್ಯಗಳನ್ನು ಬದಲಾಯಿಸುವಿಕೆ</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="9" data-ttml-end="12"><div class="media-ttml-node media-ttml-p" data-ttml-begin="9" data-ttml-end="12">ಆ ಕಾರ್ಯಕ್ಕೆ ಬದಲಾಯಿಸಲು ಒಂದು ಕಿಟಕಿ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="12" data-ttml-end="14"><div class="media-ttml-node media-ttml-p" data-ttml-begin="12" data-ttml-end="14">ತೆರೆಯ ಎಡಭಾಗ ಮುಖಾಂತರ ಕಿಟಕಿಯನ್ನು ಹಿಗ್ಗಿಸಲು, ಕಿಟಕಿಯ ಶೀರ್ಷಿಕೆಪಟ್ಟಿಯನ್ನು ಹಿಡಿದುಕೊಳ್ಳಿ ನಂತರ ಎಡಕ್ಕೆ ಎಳೆತನ್ನಿ.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="12" data-ttml-end="14"><div class="media-ttml-node media-ttml-p" data-ttml-begin="12" data-ttml-end="14">To maximize a window along the left side of the screen, grab
+            the window’s titlebar and drag it to the left.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="14" data-ttml-end="16"><div class="media-ttml-node media-ttml-p" data-ttml-begin="14" data-ttml-end="16">ತೆರೆಯನ್ನು ಅರ್ಧ ಹೈಲೈಟ್ ಮಾಡಿದಾಗ, ಕಿಟಕಿಯನ್ನು ಮುಕ್ತಗೊಳಿಸಿ.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="16" data-ttml-end="0"><div class="media-ttml-node media-ttml-p" data-ttml-begin="16" data-ttml-end="0">ಬಲಭಾಗದ ಮುಖಾಂತರ ಕಿಟಕಿಯನ್ನು ಹಿಗ್ಗಿಸಲು, ಕಿಟಕಿಯ ಶೀರ್ಷಿಕೆಪಟ್ಟಿಯನ್ನು ಹಿಡಿದುಕೊಳ್ಳಿ ನಂತರ ಬಲಕ್ಕೆ ಎಳೆತನ್ನಿ.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="16" data-ttml-end="0"><div class="media-ttml-node media-ttml-p" data-ttml-begin="16" data-ttml-end="0">To maximize a window along the right side, grab the window’s
+            titlebar and drag it to the right.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="18" data-ttml-end="20"><div class="media-ttml-node media-ttml-p" data-ttml-begin="18" data-ttml-end="20">ತೆರೆಯನ್ನು ಅರ್ಧ ಹೈಲೈಟ್ ಮಾಡಿದಾಗ, ಕಿಟಕಿಯನ್ನು ಮುಕ್ತಗೊಳಿಸಿ.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="23" data-ttml-end="27"><div class="media-ttml-node media-ttml-p" data-ttml-begin="23" data-ttml-end="27">
 <span class="gui">ಕಿಟಕಿ ಬದಲಾವಣೆಗಾರ</span>ನನ್ನು ತೋರಿಸಲು <span class="keyseq"><span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>+<span class="key"><kbd> Tab</kbd></span></span> ಅನ್ನು ಒತ್ತಿ.</div></div>
@@ -83,7 +85,8 @@
 <div id="switching-tasks-tiling" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">ಕಿಟಕಿಗಳನ್ನು ಟೈಲ್ ಮಾಡಿ</span></h2></div>
 <div class="region"><div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">ತೆರೆಯ ಒಂದು ಬದಿಯ ಮುಖಾಂತರ ಕಿಟಕಿಯನ್ನು ಹಿಗ್ಗಿಸಲು, ಕಿಟಕಿಯ ಶೀರ್ಷಿಕೆಪಟ್ಟಿಯನ್ನು ಹಿಡಿದುಕೊಳ್ಳಿ ನಂತರ ತೆರೆಯ ಎಡ ಅಥವ ಬಲಭಾಗಕ್ಕೆ ಎಳೆತನ್ನಿ.</p></li>
+<li class="steps"><p class="p">To maximize a window along a side of the screen, grab the window’s
+       titlebar and drag it to the left or right side of the screen.</p></li>
 <li class="steps"><p class="p">ತೆರೆಯ ಅರ್ಧ ಭಾಗವನ್ನು ಹೈಲೈಟ್ ಮಾಡಿದಾಗ, ತೆರೆಯ ಆಯ್ದ ಬದಿಯಲ್ಲಿ ಕಿಟಕಿಯನ್ನು ಹಿಗ್ಗಿಸಲು ಅದನ್ನು ಮುಕ್ತಗೊಳಿಸಿ.</p></li>
 <li class="steps"><p class="p">ಒಂದರ-ಪಕ್ಕ-ಇನ್ನೊಂದು ಇರುವ ಎರಡು ಕಿಟಕಿಗಳನ್ನು ಹಿಗ್ಗಿಸಲು, ಎರಡನೆಯ ಕಿಟಕಿಯ ಶೀರ್ಷಿಕೆಪಟ್ಟಿಯನ್ನು ಎಳೆದುಹಿಡಿಯಿರಿ ನಂತರ ಅದನ್ನು ತೆರೆಯ ವಿರುದ್ಧ ದಿಕ್ಕಿಗೆ ಎಳೆಯಿರಿ.</p></li>
 <li class="steps"><p class="p">ತೆರೆಯ ಅರ್ಧ ಭಾಗವನ್ನು ಹೈಲೈಟ್ ಮಾಡಿದಾಗ, ತೆರೆಯ ಎದುರಿನ ಬದಿಯಲ್ಲಿ ಕಿಟಕಿಯನ್ನು ಹಿಗ್ಗಿಸಲು ಅದನ್ನು ಮುಕ್ತಗೊಳಿಸಿ.</p></li>

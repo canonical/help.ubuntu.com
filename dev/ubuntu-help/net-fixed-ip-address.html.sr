@@ -55,17 +55,9 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Мрежа</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Мрежа</span> да отворите панел.</p></li>
-<li class="steps"><p class="p">In the left pane, select the network connection that you want to have
-      a fixed address. If you plug in to the network with a cable, click
-      <span class="gui">Wired</span>, then click the
-      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span> button in the lower right corner of
-      the panel. For a <span class="gui">Wi-Fi</span> connection, the 
-      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>
-      button will be located next to the active network.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">IPv4</span> or <span class="gui">IPv6</span> in the left pane
-      and change the <span class="gui">Addresses</span> to <span class="em">Manual</span>.</p></li>
-<li class="steps"><p class="p">Type in the <span class="gui"><a href="net-what-is-ip-address.html" title="Шта је то ИП адреса?">IP Address</a></span> and
-      <span class="gui">Gateway</span>, as well as the appropriate <span class="gui">Netmask</span>.</p></li>
+<li class="steps"><p class="p">У левом окну, изаберите мрежну везу за коју желите да има сталну адресу. Ако се каблом прикључите на мрежу, кликните <span class="gui">Жичана</span>, затим кликните на дугме <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="подешавања"></span></span> у доњем десном углу панела. За <span class="gui">Бежичну</span> везу, дугме <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="подешавања"></span></span> ће се налазити поред радне мреже.</p></li>
+<li class="steps"><p class="p">Кликните на <span class="gui">ИПв4</span> или <span class="gui">ИПв6</span> у левом окну и измените <span class="gui">Адресе</span> на <span class="em">Ручно</span>.</p></li>
+<li class="steps"><p class="p">Укуцајте <span class="gui"><a href="net-what-is-ip-address.html" title="Шта је то ИП адреса?">ИП адресу</a></span> и <span class="gui">Мрежни пролаз</span>, као и одговарајућу <span class="gui">Мрежну маску</span>.</p></li>
 <li class="steps"><p class="p">У одељку <span class="gui">ДНС</span>, пребаците <span class="gui">Самостално</span> на <span class="gui">ИСКЉ.</span>. Унесите ИП адресу ДНС сервера који желите да користите. Унесите додатне адресе ДНС сервера користећи дугме <span class="gui">+</span>.</p></li>
 <li class="steps"><p class="p">У одељку <span class="gui">Руте</span>, пребаците <span class="gui">Самостално</span> на <span class="gui">ИСКЉ.</span>. Унесите <span class="gui">Адресу</span>, <span class="gui">Мрежну маску</span>, <span class="gui">Мрежни пролаз</span> и <span class="gui">Метрички</span> за руту коју желите да користите. Унесите додатне руте користећи дугме <span class="gui">+</span>.</p></li>
 <li class="steps"><p class="p">Притисните <span class="gui">Примени</span>. Мрежна веза ће сада имати сталну ИП адресу.</p></li>

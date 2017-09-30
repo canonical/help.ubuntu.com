@@ -65,7 +65,12 @@
 <p class="p">Barvi prostor sRGB je najmanjši prostor, ki lahko kodira najmanj barv. Je ocena 10 let starega zaslona CRT, zato lahko večina modernih zaslonov z lahko prikaže več barv. sRGB je <span class="em">najmanjši skupni standard</span>, ki se uporablja v veliko primerih (vključno z Internetom).</p>
 <p class="p">AbodeRGB se pogosto uporablja kot <span class="em">urejevalni prostor</span>. Kodira lahko več barv kot sRGB. To pomeni, da lahko barve na fotografiji prilagodite brez skrbi o odstranitvi najbolj živih barv ali črnine.</p>
 <p class="p">ProPhoto je največji razpoložljivi prostor, ki se pogosto uporablja za arhiviranje dokumentov. Kodira lahko skoraj celoten obseg barv, ki jih lahko zazna človeško oko in tudi barve, ki jih človeško oko ne more zaznati.</p>
-<p class="p">Zakaj se ProPhoto ne uporablja za povsod, če je najboljši? Odgovor je <span class="em">kvantizacija</span>. Če imate samo 8 bitov (256 stopenj) za kodiranje vsakega kanala, potem ima večji obseg večje korake med posameznimi vrednostmi.</p>
+<p class="p">
+    Now, if ProPhoto is clearly better, why don’t we use it for everything?
+    The answer is to do with <span class="em">quantization</span>.
+    If you only have 8 bits (256 levels) to encode each channel, then a
+    larger range is going to have bigger steps between each value.
+  </p>
 <p class="p">Večji koraki pomenijo večjo napako med zajeto in shranjeno barvo, kar je za nekatere barve velika težava. Za nekatere ključne barve kot so kožne barve bodo že majhne napake opazne.</p>
 <p class="p">Uporaba 16 bitne slike bo zagotovila več korakov in veliko manjšo napako zaradi kvantizacije slike, vendar to podvoji velikost vsake slikovne datoteke. Večina današnje vsebine vsebuje 8 bitov za točko.</p>
 <p class="p">Upravljenje barv je opravilo pretvarjanja iz enega barvnega prostora v drugega, kjer je barvni prostor lahko splošno določen kot je sRGB ali osebni profil kot je profil vašega zaslona ali tiskalnika.</p>

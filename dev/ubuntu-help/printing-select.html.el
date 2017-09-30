@@ -56,7 +56,8 @@
 <li class="steps"><p class="p">Πληκτρολογήστε τους αριθμούς των σελίδων, που θέλετε να εκτυπώσετε στο πλαίσιο του κειμένου, διαχωρισμένους με κόμματα. Χρησιμοποιήστε μια παύλα για να δηλώσετε περιοχή σελίδων.</p></li>
 </ol></div></div></div>
 <div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents">
-<p class="p">Για παράδειγμα, εάν εισάγετε "1,3,5-7,9" στο πλαίσιο κειμένου <span class="gui">σελίδες</span>, θα τυπωθούν οι σελίδες 1,3,5,6,7 και 9.</p>
+<p class="p">For example, if you enter “1,3,5-7,9” in the <span class="gui">Pages</span> text box,
+    pages 1,3,5,6,7 and 9 will be printed.</p>
 <div class="media media-image"><div class="inner"><img src="figures/printing-select.png" class="media media-block" alt=""></div></div>
 </div></div></div></div>
 </div>

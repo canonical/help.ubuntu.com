@@ -53,7 +53,9 @@
     start typing <span class="gui">Wacom Tablet</span>.</p></li>
 <li class="steps">
 <p class="p">Нажмите <span class="gui">Планшет Wacom</span>, чтобы открыть этот раздел настроек.</p>
-<div class="note note-tip" title="Подсказка"><div class="inner"><div class="region"><div class="contents"><p class="p">Если планшет не обнаружен, вы увидите сообщение <span class="gui">Подключите или включите планшет Wacom</span>. Нажмите <span class="gui">Настройки Bluetooth</span> чтобы подключить беспроводной планшет.</p></div></div></div></div>
+<div class="note note-tip" title="Подсказка"><div class="inner"><div class="region"><div class="contents"><p class="p">If no tablet is detected, you’ll be asked to
+    <span class="gui">Please plug in or turn on your Wacom tablet</span>. Click the
+    <span class="gui">Bluetooth Settings</span> link to connect a wireless tablet.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Отображение на экран…</span></p></li>
 <li class="steps"><p class="p">Включите <span class="gui">Отображение на один экран</span>.</p></li>

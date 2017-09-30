@@ -51,8 +51,11 @@
 <div class="contents">
 <p class="p">Kun asennat Ubuntun, valitsemasi kieli sekä englanninkieli asentuvat. Voit halutessasi lisätä käytössä olevaa kielivalikoimaa.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the <span class="em">system menu</span> and select <span class="gui">System Settings</span>.</p></li>
-<li class="steps"><p class="p">Valitse <span class="gui">Kieliasetukset</span> Henkilökohtaiset-osiosta.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
+      start typing <span class="gui">Region &amp; Language</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Manage Installed Languages</span> button to open <span class="gui">Language
+      Support</span>.</p></li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Asenna tai poista kieliä...</span>. <span class="gui">Asennetut kielet</span> -ikkuna listaa kaikki saatavilla olevat kielet. Asennettujen kielien kohdalla on "Asennettu"-valinta.</p></li>
 <li class="steps"><p class="p">Valitse kielet, jotka haluat asentaa. Jos haluat poistaa jo asennetun kielen, poista valinta kyseisen kielen kohdalta.</p></li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Toteuta muutokset</span>.</p></li>

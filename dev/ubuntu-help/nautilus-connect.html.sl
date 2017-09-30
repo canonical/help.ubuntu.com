@@ -59,7 +59,7 @@ application from the <span class="gui">Activities</span> overview, and click
 <span class="gui">Other Locations</span> in the sidebar. The file manager
 will find any computers on your local area network that advertize
 their ability to serve files. If you want to connect to a server
-on the internet, or if you do not see the computer you're looking
+on the internet, or if you do not see the computer you’re looking
 for, you can manually connect to a server by typing in its
 internet/network address.</p>
 <div class="steps"><div class="inner">
@@ -114,7 +114,8 @@ internet/network address.</p>
   require you to log in.</p>
 <p class="p">Običajno je URL za SSH naslednje oblike:</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ssh://uporabniškoime@imestrežnika.primer.si/mapa</span></p></div></div></div></div>
-<p class="p">Pri uporabi SSH bodo vsi poslani podatki (vključno z vašim geslom) šifrirani zato, da jih drugi uporabniki na omrežju ne morejo videti.</p>
+<p class="p">When using SSH, all the data you send (including your password)
+  is encrypted so that other users on your network can’t see it.</p>
 </dd>
 <dt class="terms">FTP (s prijavo)</dt>
 <dd class="terms">
@@ -144,7 +145,11 @@ internet/network address.</p>
 </dd>
 <dt class="terms">WebDAV in Varen WebDAV</dt>
 <dd class="terms">
-<p class="p">WebDAV je osnovan na protokolu HTTP in se včasih uporablja za deljenje datotek preko krajevnega omrežja in za shranjevanje datotek na internetu. V primeru da strežnik na katerega se povezujete podpira varne povezave, izberite to možnost. Varni WebDAV uporablja močno šifriranje SSL zato, da drugi uporabniki ne morejo videti vašega gesla.</p>
+<p class="p">Based on the HTTP protocol used on the web, WebDAV is sometimes used to
+  share files on a local network and to store files on the internet. If the
+  server you’re connecting to supports secure connections, you should choose
+  this option. Secure WebDAV uses strong SSL encryption, so that other users
+  can’t see your password.</p>
 <p class="p">A WebDAV URL looks like this:</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">dav://example.hostname.com/path</span></p></div></div></div></div>
 </dd>

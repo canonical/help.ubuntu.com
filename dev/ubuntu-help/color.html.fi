@@ -60,7 +60,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Väriprofiilit</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-howtoimport.html" title="Kuinka tuon väriprofiileja?"><span class="title">Kuinka tuon väriprofiileja?</span><span class="linkdiv-dash"> — </span><span class="desc">Color profiles can be imported by opening them.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-howtoimport.html" title="Kuinka tuon väriprofiileja?"><span class="title">Kuinka tuon väriprofiileja?</span><span class="linkdiv-dash"> — </span><span class="desc">Väriprofiilit on helppo tuoda avaamalle ne.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-gettingprofiles.html" title="Mistä saan väriprofiileja?"><span class="title">Mistä saan väriprofiileja?</span><span class="linkdiv-dash"> — </span><span class="desc">Väriprofiileja tarjoavat laitevalmistaja ja lisäksi niitä on mahdollista luoda itse.</span></a></div>
 </div>
 <div class="links-twocolumn">
@@ -82,8 +82,8 @@
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="color-calibrationtargets.html" title="Mitkä kohteet ovat tuettuja?"><span class="title">Mitkä kohteet ovat tuettuja?</span><span class="linkdiv-dash"> — </span><span class="desc">Kuvanlukijan ja kameran profilointi vaatii kalibrointikohteen.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-calibrationdevices.html" title="Mitkä värinmäärityslaitteet ovat tuettuja?"><span class="title">Mitkä värinmäärityslaitteet ovat tuettuja?</span><span class="linkdiv-dash"> — </span><span class="desc">Tuettuna on suuri määrä kalibrointilaitteita.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrationcharacterization.html" title="Mitä eroa on kalibroinnilla ja profiloinnilla?"><span class="title">Mitä eroa on kalibroinnilla ja profiloinnilla?</span><span class="linkdiv-dash"> — </span><span class="desc">Kalibrointi ja profilointi ovat täysin eri asioita.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-canshareprofiles.html" title="Voinko jakaa väriprofiilini?"><span class="title">Voinko jakaa väriprofiilini?</span><span class="linkdiv-dash"> — </span><span class="desc">Väriprofiilien jako ei ole hyvä idea, sillä laitteisto muuttuu ajan myötä.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrationcharacterization.html" title="What’s the difference between calibration and characterization?"><span class="title">What’s the difference between calibration and characterization?</span><span class="linkdiv-dash"> — </span><span class="desc">Kalibrointi ja profilointi ovat täysin eri asioita.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -97,7 +97,7 @@
 </div>
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="color-missingvcgt.html" title="Puuttuvat tiedot koko näytön värinkorjausta varten?"><span class="title">Puuttuvat tiedot koko näytön värinkorjausta varten?</span><span class="linkdiv-dash"> — </span><span class="desc">Koko näytön värinkorjaus muokkaa kaikkia ruudun värejä kaikissa ikkunoissa.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-notspecifiededid.html" title="Why don't the default monitor profiles have a calibration expiry?"><span class="title">Why don't the default monitor profiles have a calibration expiry?</span><span class="linkdiv-dash"> — </span><span class="desc">Default monitor profiles do not have a calibration date.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-notspecifiededid.html" title="Why don’t the default monitor profiles have a calibration expiry?"><span class="title">Why don’t the default monitor profiles have a calibration expiry?</span><span class="linkdiv-dash"> — </span><span class="desc">Default monitor profiles do not have a calibration date.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>

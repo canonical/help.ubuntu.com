@@ -66,7 +66,13 @@
 </div></div>
 <div id="beeps" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Компьютер подаёт звуковые сигналы и отключается</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Если при включении компьютер несколько раз подаёт звуковой сигнал, а затем отключается (или отказывается загружаться), это может указывать на то, что он обнаружил неисправность. Такие сигналы называют <span class="em">звуковым кодом</span>, который сообщает, в чём заключается проблема. Разные производители используют разные звуковые коды, так что вам следует обратиться к руководству по материнской плате или отнести компьютер в ремонт.</p></div></div>
+<div class="region"><div class="contents"><p class="p">If the computer beeps several times when you turn it on and then turns off
+  (or fails to start), it may be indicating that it has detected a problem.
+  These beeps are sometimes referred to as <span class="em">beep codes</span>, and the pattern
+  of beeps is intended to tell you what the problem with the computer is.
+  Different manufacturers use different beep codes, so you will have to consult
+  the manual for your computer’s motherboard, or take your computer in for
+  repairs.</p></div></div>
 </div></div>
 <div id="fans" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Вентиляторы компьютера крутятся, но изображение на экране отсутствует</span></h2></div>

@@ -70,7 +70,12 @@
       <span class="gui">Rename…</span>.</p></li>
 <li class="steps">
 <p class="p"><span class="gui">பெயர்</span> உரை பெட்டியில், புத்தகக்குறியின் புதிய பெயரை தட்டச்சு செய்யவும்.</p>
-<div class="note" title="குறிப்பு"><div class="inner"><div class="region"><div class="contents"><p class="p">ஒரு புத்தகக்குறியை மறுபெயரிடுவதால் கோப்புறை மறுபெயரிடப்படாது. நீங்கள் இரண்டு வெவ்வேறு இடங்களில் உள்ள இரண்டு வெவ்வேறு கோப்புறைகளுக்கு புத்தகக்குறிகளைக் கொண்டிருந்து, ஆனால் அவை ஒவ்வொன்றும் ஒரே பெயரைக் கொண்டிருந்தால், அவற்றின் புத்தகக்குறிகளும் அதே பெயரையே கொண்டிருக்கும், நீங்கள் அவற்றை வெவ்வேறாக அடையாளம் காண முடியாது. இத்தகைய சூழ்நிலைகளில், ஒரு புத்தகக்குறிக்கு, அது சுட்டும் கோப்புறையின் பெயரல்லாமல் வேறு பெயரை வைப்பது உதவும்.</p></div></div></div></div>
+<div class="note" title="குறிப்பு"><div class="inner"><div class="region"><div class="contents"><p class="p">Renaming a bookmark does not rename the folder. If you have
+        bookmarks to two different folders in two different locations, but
+        which each have the same name, the bookmarks will have the same name,
+        and you won’t be able to tell them apart. In these cases, it is useful
+        to give a bookmark a name other than the name of the folder it points
+        to.</p></div></div></div></div>
 </li>
 </ol></div>
 </div></div>

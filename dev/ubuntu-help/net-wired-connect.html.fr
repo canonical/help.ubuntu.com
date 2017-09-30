@@ -55,7 +55,10 @@
   on the top bar with three dots while the connection is being established. The
   dots disappear when you are connected.</p>
 <p class="p">Si cela ne se passe pas de cette façon, commencez par vérifier que votre câble réseau est correctement branché. L'une de ses extrémités doit être branchée dans le port Ethernet rectangulaire de votre ordinateur, l'autre extrémité va dans un commutateur, la prise d'un routeur ou d'un connecteur réseau mural, ou quelque chose d'équivalent (en fonction de votre configuration réseau). Parfois, une lumière à côté du port Ethernet indique qu'il est connecté et actif.</p>
-<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">Vous ne pouvez pas brancher directement un ordinateur à un autre avec un câble réseau (du moins pas sans quelques paramétrages supplémentaires). La bonne manière de procéder est de brancher les deux ordinateurs sur un hub réseau, un routeur ou un commutateur.</p></div></div></div></div>
+<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">You can’t plug one computer directly into another one with a network
+    cable (at least, not without some extra setting-up). To connect two
+    computers, you should plug them both into a network hub, router or
+    switch.</p></div></div></div></div>
 <p class="p">Si vous n'avez toujours pas de connexion, c'est sans doute que votre réseau ne prend pas en charge la configuration automatique (DHCP). Dans ce cas, vous devez la <span class="link"><a href="net-manual.html" title="Configuration manuelle des paramètres réseau">configurer manuellement</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">

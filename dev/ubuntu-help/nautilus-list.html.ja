@@ -101,7 +101,7 @@
 <dd class="terms"><p class="p">アイテムの MIME 型が表示されます。</p></dd>
 <dt class="terms"><span class="gui">場所</span></dt>
 <dd class="terms"><p class="p">ファイルの場所を示すパスが表示されます。</p></dd>
-<dt class="terms"><span class="gui">Modified – Time</span></dt>
+<dt class="terms"><span class="gui">Modified — Time</span></dt>
 <dd class="terms"><p class="p">最後にファイルを更新した日時が表示されます。</p></dd>
 <dt class="terms"><span class="gui">アクセス日時</span></dt>
 <dd class="terms"><p class="p">Gives the date or time of the last time the file was modified.</p></dd>

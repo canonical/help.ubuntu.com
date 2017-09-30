@@ -67,7 +67,12 @@
 <div id="network" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Omrežna povezava ni bila ustrezno vzpostavljena</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Včasih je ob poskusu povezave z brezžičnim omrežjem morda najprej videti, da ste se uspešno povezali, vendar bo nato povezava prekinjena. To se običajno zgodi, ker je bil vaš računalnik le delno uspešen pri povezovanju z omrežjem. Računalnik je uspel vzpostaviti povezavo, vendar povezave ni mogel zaključiti in je zato povezavo prekinil.</p>
+<p class="p">Sometimes, when you connect to a wireless network, it may appear that you
+ have successfully connected at first, but then you will be disconnected soon
+ after. This normally happens because your computer was only partially
+ successful in connecting to the network — it managed to establish a connection,
+ but was unable to finalize the connection for some reason and so was
+ disconnected.</p>
 <p class="p">Mogoč vzrok za to je, da ste vnesli napačno šifrirno frazo ali pa da vaš računalnik ni dovoljen na omrežju (ker omrežje za prijavo zahteva uporabniško ime).</p>
 </div></div>
 </div></div>
@@ -93,14 +98,14 @@
     </span>
 </li>
 <li class="links ">
-<a href="net-problem.html" title="Težave z omrežjem">Težave z omrežjem</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Odpravljanje težav z brezžičnimi omrežji">Odpravljanje težav z brezžičnimi povezavami</a></span>, <span class="link"><a href="net-wireless-find.html" title="Svojega brezžičnega omrežja ne morem videti na seznamu">iskanje brezžične povezave</a></span> …</span>
+<a href="net-problem.html" title="Težave z omrežjem">Težave z omrežjem</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Odpravljanje težav z brezžičnimi omrežji">Odpravljanje težav z brezžičnimi povezavami</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">iskanje brezžične povezave</a></span> …</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-connect.html" title="Povezava z brezžičnim omrežjem">Povezava z brezžičnim omrežjem</a><span class="desc"> — Povežite se na internet - brezžično.</span>
+<a href="net-wireless-connect.html" title="Povezava z brezžičnim omrežjem">Povezava z brezžičnim omrežjem</a><span class="desc"> — Get on the internet — wirelessly.</span>
 </li></ul></div>
 </div></div>
 </div>

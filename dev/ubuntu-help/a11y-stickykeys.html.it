@@ -79,7 +79,11 @@
 <p class="p">Se vengono premuti due tasti assieme, è possibile disattivare momentaneamente i tasti singoli per poter digitare le scorciatoie da tastiera nella maniera "standard".</p>
 <p class="p">Per esempio, con questa opzione attivata, se i tasti lenti sono attivati e vengono premuti assieme <span class="key"><kbd>Super</kbd></span> e <span class="key"><kbd>Tab</kbd></span>, non verrà attesa la pressione di un altro tasto. Viene attesa la pressione di un altro tasto <span class="em">solamente</span> se ne viene premuto uno prima. Ciò risulta utile alle persone che possono premere facilmente alcune combinazioni (tasti che risultano vicini sulla tastiera), ma non altre.</p>
 <p class="p">Selezionare <span class="gui">Disabilitare se due tasti sono premuti insieme</span> per poter sfruttare questa funzionalità.</p>
-<p class="p">È possibile fare in modo che il computer riproduca un suono quando si digita una combinazione di tasti con la funzionalità dei tasti singoli attivata. Opzione utile per sapere quando il sistema attende la pressione di un altro tasto che verrà interpretato come parte di una scorciatoia da tastiera. Selezionare <span class="gui">Avviso sonoro quando viene premuto un tasto modificatore</span> per attivare questa opzione.</p>
+<p class="p">You can have the computer make a “beep” sound when you start typing a
+  keyboard shortcut with sticky keys turned on. This is useful if you want to
+  know that sticky keys is expecting a keyboard shortcut to be typed, so the
+  next key press will be interpreted as part of a shortcut. Select <span class="gui">Beep
+  when a modifier key is pressed</span> to enable this.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -89,7 +93,7 @@
 <li class="links "><a href="a11y.html#mobility" title="Difficoltà motorie">Difficoltà motorie</a></li>
 <li class="links ">
 <a href="keyboard.html" title="Tastiera">Tastiera</a><span class="desc"> — 
-      <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Keyboard layouts</a></span>,
+      <span class="link"><a href="keyboard-layouts.html" title="Usare disposizioni di tastiera alternative">Keyboard layouts</a></span>,
       <span class="link"><a href="keyboard-cursor-blink.html" title="Rendere il cursore intermittente">cursor blinking</a></span>,
       <span class="link"><a href="a11y.html#mobility" title="Difficoltà motorie">keyboard accessibility</a></span>…
     </span>

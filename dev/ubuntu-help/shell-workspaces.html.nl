@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Desktop</a> › <a class="trail" href="shell-overview.html#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » <a class="trail" href="shell-windows.html" title="Vensters en werkbladen">Vensters en werkbladen</a> › <a class="trail" href="shell-windows.html#working-with-workspaces" title="Werken met werkbladen">Workspaces</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » <a class="trail" href="shell-windows.html" title="Vensters en werkbladen">Vensters en werkbladen</a> › <a class="trail" href="shell-windows.html#working-with-workspaces" title="Werken met werkbladen">Werkbladen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Wat is een werkblad en hoe kan ik het gebruiken?</span></h1></div>
@@ -54,14 +54,11 @@
   windows on your desktop. You can create multiple workspaces, which act like
   virtual desktops. Workspaces are meant to reduce clutter and make the desktop
   easier to navigate.</p>
-<p class="p">Workspaces can be used to organize your work. For example, you could have
-  all your communication windows, such as e-mail and your chat program, on one
-  workspace, and the work you are doing on a different workspace. Your music
-  manager could be on a third workspace.</p>
+<p class="p">U zou werkbladen kunnen gebruiken om uw werk te organiseren. Zo zou u alle communicatievensters, zoals e-mail en chattoepassingen in één werkblad kunnen plaatsen en het werk waar u mee bezig bent op een ander werkblad. Uw muziekprogramma zou u in een derde werkblad kunnen plaatsen.</p>
 <p class="p">Using workspaces:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">In the
-    <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview, move your cursor
+    <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activities</a></span> overview, move your cursor
     to the right-most side of the screen.</p></li>
 <li class="list"><p class="p">A vertical panel will appear showing
     workspaces in use, plus an empty workspace. This is the
@@ -86,11 +83,10 @@
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-workspaces-movewindow.html" title="Move a window to a different workspace">Move a window to a different workspace</a><span class="desc"> — Go to the <span class="gui">Activities</span> overview and drag the window to a
-    different workspace.</span>
+<a href="shell-workspaces-movewindow.html" title="Een venster verplaatsen naar een ander werkblad">Een venster verplaatsen naar een ander werkblad</a><span class="desc"> — Ga naar het <span class="gui">Activiteiten</span>-overzicht en sleep het venster naar een ander werkblad.</span>
 </li>
 <li class="links ">
-<a href="shell-workspaces-switch.html" title="Wisselen tussen werkbladen">Wisselen tussen werkbladen</a><span class="desc"> — Use the workspace selector.</span>
+<a href="shell-workspaces-switch.html" title="Wisselen tussen werkbladen">Wisselen tussen werkbladen</a><span class="desc"> — De werkbladwisselaar gebruiken.</span>
 </li>
 </ul></div>
 </div></div>

@@ -59,7 +59,7 @@ application from the <span class="gui">Activities</span> overview, and click
 <span class="gui">Other Locations</span> in the sidebar. The file manager
 will find any computers on your local area network that advertize
 their ability to serve files. If you want to connect to a server
-on the internet, or if you do not see the computer you're looking
+on the internet, or if you do not see the computer you’re looking
 for, you can manually connect to a server by typing in its
 internet/network address.</p>
 <div class="steps"><div class="inner">
@@ -115,7 +115,8 @@ internet/network address.</p>
   require you to log in.</p>
 <p class="p">A typical SSH URL looks like this:</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ssh://username@servername.example.com/folder</span></p></div></div></div></div>
-<p class="p">Quando si usa SSH, tutti i dati inviati (inclusa la password iniziale) sono cifrati, in modo che altri utenti sulla rete non riescano a intercettarli.</p>
+<p class="p">When using SSH, all the data you send (including your password)
+  is encrypted so that other users on your network can’t see it.</p>
 </dd>
 <dt class="terms">FTP (con login)</dt>
 <dd class="terms">
@@ -145,7 +146,11 @@ internet/network address.</p>
 </dd>
 <dt class="terms">WebDAV e WebDAV sicuro</dt>
 <dd class="terms">
-<p class="p">Basato sul protocollo HTTP, utilizzato largamente sul web, WebDAV è spesso utilizzato per condividere file su una rete locale o per memorizzarli su un server Internet. Se il server a cui si è connessi supporta connessioni cifrate, è meglio selezionare quest'ultima opzione. WebDAV sicuro utilizza un robusto sistema di cifratura SSL per nascondere la password agli altri utenti.</p>
+<p class="p">Based on the HTTP protocol used on the web, WebDAV is sometimes used to
+  share files on a local network and to store files on the internet. If the
+  server you’re connecting to supports secure connections, you should choose
+  this option. Secure WebDAV uses strong SSL encryption, so that other users
+  can’t see your password.</p>
 <p class="p">A WebDAV URL looks like this:</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">dav://example.hostname.com/path</span></p></div></div></div></div>
 </dd>

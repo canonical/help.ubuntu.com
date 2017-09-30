@@ -58,7 +58,10 @@
 </p>
 <p class="p">Om een softwarebron toe te voegen:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Klik op het <span class="app">Ubuntu Software</span>-pictogram in de <span class="gui">Starter</span>, of zoek naar <span class="input">Software</span> in de zoekbalk van de <span class="gui">Snelzoeker</span>.</p></li>
+<li class="steps"><p class="p">
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">Klik, nadat <span class="app">Ubuntu Software</span> geopend is, op <span class="gui">Software &amp; Updates</span></p></li>
 <li class="steps"><p class="p">Er zal gevraagd worden naar uw wachtwoord. Ga, nadat u dit heeft ingevoerd, naar het tabblad <span class="gui">Overige software</span></p></li>
 <li class="steps">

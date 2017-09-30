@@ -64,8 +64,8 @@
 <li class="steps"><p class="p">På PPA'ets oversigtsside, se efter overskriften <span class="gui">Tilføjelse af denne PPA til dit system</span>. Notér PPA'ets placering, som bør ligne: <span class="code">ppa:mozillateam/firefox-next</span>.
 Tredjeparts software repositories ikke kontrolleres for sikkerhed eller pålidelighed af Ubuntu-medlemmer, og kan indeholde software, som er skadeligt for din computer.</p></li>
 <li class="steps"><p class="p">
-        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Launcher</span>, or search
-        for <span class="input">Software</span> in the search bar of the <span class="gui">Dash</span>.
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
       </p></li>
 <li class="steps"><p class="p">
         When <span class="app">Ubuntu Software</span> launches, click <span class="gui">Software &amp; Updates</span>

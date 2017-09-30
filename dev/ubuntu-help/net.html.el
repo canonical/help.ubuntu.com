@@ -87,7 +87,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-problem.html" title="Προβλήματα δικτύου">Προβλήματα δικτύου</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Αντιμετώπιση προβλημάτων ασύρματων συνδέσεων</a></span>, <span class="link"><a href="net-wireless-find.html" title="Δεν μπορώ να δω το ασύρματο δίκτυό μου στη λίστα">Εύρεση του δικτύου wifi</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Αντιμετώπιση προβλημάτων ασύρματων συνδέσεων</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">Εύρεση του δικτύου wifi</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-chat.html" title="Συνομιλία &amp; Κοινωνική δικτύωση">Συνομιλία &amp; Κοινωνική δικτύωση</a></div>

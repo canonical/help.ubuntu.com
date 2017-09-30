@@ -55,10 +55,7 @@
 <p class="p">Lai pārbaudītu brīvo diska vietu un diska kapacitāti, izmantojiet <span class="app">Diska izmantošanas analizatoru</span>:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Atveriet <span class="app">Disku izmantošanas analizatoru</span> no <span class="gui">Aktivitāšu</span> pārskata. Logā parādīsies saraksts ar datņu atrašanās vietām, kopā ar to izmantojumu un ietilpību.</p></li>
-<li class="list"><p class="p">Click one of the items in the list to view a detailed summary of the
-      usage for that item. Click the menu button, and then <span class="gui">Scan
-      Folder…</span> or <span class="gui">Scan Remote Folder…</span> to scan a different
-      location.</p></li>
+<li class="list"><p class="p">Spiediet uz vienu no vienumiem sarakstā, lai skatītu attiecīgā vienuma detalizētu lietojuma kopsavilkumu. Spiediet uz izvēlnes pogas un tad uz <span class="gui">Skenēt mapi…</span> vai <span class="gui">Skenēt attālinātu mapi…</span>, lai skenēt dažādas vietas.</p></li>
 </ul></div></div></div>
 <p class="p">Informācija ir attēlota pēc <span class="gui">Mapes</span>, <span class="gui">Izmēra</span>, <span class="gui">Satura</span> un pēc tā, kad dati ir pēdējo reizi <span class="gui">Mainīti</span>. Uzziniet vairāk <span class="link"><a href="https://help.gnome.org/users/baobab/stable/" title="https://help.gnome.org/users/baobab/stable/"><span class="app">Diska izmantošanas analizatora</span> palīdzības lapās</a></span>.</p>
 </div></div>

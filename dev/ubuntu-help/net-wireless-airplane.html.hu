@@ -49,20 +49,15 @@
 <div class="hgroup"><h1 class="title"><span class="title">Vezeték nélküli csatoló kikapcsolása (repülő mód)</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you have your computer on an airplane (or some other area where wireless
- connections are not allowed), you should switch off your wireless. You may
- also want to switch off your wireless for other reasons (to save battery power,
- for example).</p>
+<p class="p">Ha számítógépét repülőgépen (vagy más olyan területen, ahol a vezeték nélküli kapcsolatok tiltottak) használja, akkor ki kell kapcsolnia a vezeték nélküli kártyát. Más okból is hasznos lehet a kártya kikapcsolása, például energiatakarékossági okból. Ehhez:</p>
 <div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents"><p class="p">A <span class="em">Repülő mód</span> használata teljesen kikapcsolja az összes vezeték nélküli kapcsolatot, beleértve a Wi-Fi, 3G és Bluetooth kapcsolatokat.</p></div></div></div></div>
-<p class="p">To turn on airplane mode:</p>
+<p class="p">Repülőgép üzemmód bekapcsolása:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Hálózat</span> szót.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Hálózat</span> ikonra a panel megnyitásához.</p></li>
 <li class="steps"><p class="p">Kapcsolja be a <span class="gui">Repülő módot</span>. Ez addig kikapcsolja a vezeték nélküli csatolót, amíg a repülő módot ki nem kapcsolja.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">You can turn off your WiFi connection from the 
-    <span class="gui"><a href="shell-introduction.html#yourname" title="Ön és a számítógépe">system menu</a></span> by clicking on 
-    the connection name and choosing <span class="gui">Turn Off</span>.</p></div></div></div></div>
+<div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">A Wi-Fi kapcsolatot kikapcsolhatja a <span class="gui"><a href="shell-introduction.html#yourname" title="Ön és a számítógépe">rendszer menüben</a></span> a kapcsolat nevére kattintással, majd a <span class="gui">Kikapcsolás</span> menüpont kiválasztásával.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

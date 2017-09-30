@@ -2,7 +2,7 @@
 <html lang=zh-CN>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>别人不能播放我制作的视频文件</title>
+<title>Other people can’t play the videos I made</title>
 <link rel="stylesheet" type="text/css" href="zh-CN.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,7 +46,7 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="声音、视频 &amp; 图片">声音、视频 &amp; 图片</a> › <a class="trail" href="media.html#videos" title="视频和摄像机">视频</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">别人不能播放我制作的视频文件</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Other people can’t play the videos I made</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">如果您在 Linux 系统上制作了一个视频，并把它发送到 Windows 或 Mac OS 机子上，您可能会碰到视频播放问题。</p>
@@ -59,9 +59,26 @@
       which <span class="gui">Codec</span> are listed under <span class="gui">Video</span> and
       <span class="gui">Audio</span> (if the video also has audio).</p></li>
 </ul></div></div></div>
-<p class="p">询问对方是否安装了正确的编解码器，也可以在网络中搜索编解码器加上播放器的名称，比如您的视频使用 <span class="em">Theora</span> 格式，您的朋友使用 Windows Media Player 播放器，就可以尝试搜索“theora windows media player”。一般您可以免费下载到合适的解码器。</p>
-<p class="p">如果您还是没有找到恰当的编解码器，可以试一试 <span class="link"><a href="http://www.videolan.org/vlc/" title="http://www.videolan.org/vlc/">VLC media player</a></span> 播放器，它既可以运行在 Windows 和 Mac OS 平台上，也可以运行在 Linux 平台上，并且支持各种不同的视频格式。如果还是不行，请尝试将视频转换成其他格式，大多数视频编辑器都可以进行转换操作，详细列出了可用的格式。查看软件的安装程序，看一看哪些是可能的。</p>
-<div class="note" title="备注"><div class="inner"><div class="region"><div class="contents"><p class="p">在播放您的视频时，还可能会出现一些别的问题。像视频文件在您发送过程中损坏(有时大文件不能很好地完成复制)，也可能对方的播放器出现问题，或者文件没有正确地创建(在保存时出现了错误)。</p></div></div></div></div>
+<p class="p">Ask the person having problems with playback if they have the right codec
+  installed. They may find it helpful to search the web for the name of the
+  codec plus the name of their video playback application. For example, if your
+  video uses the <span class="em">Theora</span> format and you have a friend using Windows
+  Media Player to try and watch it, search for “theora windows media player”.
+  You will often be able to download the right codec for free if it’s not
+  installed.</p>
+<p class="p">If you can’t find the right codec, try the
+  <span class="link"><a href="http://www.videolan.org/vlc/" title="http://www.videolan.org/vlc/">VLC media player</a></span>. It works
+  on Windows and Mac OS as well as Linux, and supports a lot of different video
+  formats. Failing that, try converting your video into a different format.
+  Most video editors are able to do this, and specific video converter
+  applications are available. Check the software installer application to see
+  what’s available.</p>
+<div class="note" title="备注"><div class="inner"><div class="region"><div class="contents"><p class="p">There are a few other problems which might prevent someone from playing
+    your video. The video could have been damaged when you sent it to them
+    (sometimes big files aren’t copied across perfectly), they could have
+    problems with their video playback application, or the video may not have
+    been created properly (there could have been some errors when you saved the
+    video).</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

@@ -49,7 +49,12 @@
 <div class="hgroup"><h1 class="title"><span class="title">Что такое WEP и WPA?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">WEP и WPA (а также WPA2) — это названия способов шифрования, используемых для защиты беспроводных соединений. Они позволяют зашифровать соединение, чтобы никто не мог «прослушать» его и узнать, например, какие веб-страницы вы посещаете. WEP — это сокращение от <span class="em">Wired Equivalent Privacy</span>, а WPA — от <span class="em">Wireless Protected Access</span>. WPA2 является второй версией стандарта WPA.</p>
+<p class="p">WEP and WPA (along with WPA2) are names for different encryption tools
+  used to secure your wireless connection. Encryption scrambles the network
+  connection so that no one can “listen in” to it and look at which web pages
+  you are viewing, for example. WEP stands for <span class="em">Wired Equivalent
+  Privacy</span>, and WPA stands for <span class="em">Wireless Protected Access</span>. WPA2 is
+  the second version of the WPA standard.</p>
 <p class="p">Использовать <span class="em">какое-нибудь</span> шифрование всегда лучше, чем не использовать никакого, но WEP — наименее надёжный из этих стандартов, и вам не следует пользоваться им, если этого можно избежать. WPA2 — наиболее надёжный из этих трёх стандартов. Если ваша беспроводная карта и маршрутизатор поддерживают WPA2, то рекомендуется выбрать именно его при настройке беспроводной сети.</p>
 </div>
 <div class="sect sect-links" role="navigation">

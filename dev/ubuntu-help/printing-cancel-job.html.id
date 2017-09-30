@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Cancel, pause or release a print job</title>
+<title>Membatalkan, mengistirahakan, atau melepas suatu tugas pencetakan</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,7 +46,7 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Perangkat keras &amp; penggerak">Perangkat keras</a> › <a class="trail" href="hardware.html#problems" title="Masalah umum">Masalah</a> » <a class="trail" href="printing.html#problems" title="Masalah pencetak">Masalah pencetak</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Cancel, pause or release a print job</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Membatalkan, mengistirahakan, atau melepas suatu tugas pencetakan</span></h1></div>
 <div class="region">
 <div class="contents"><p class="p">You can cancel a pending print job and remove it from the queue in the
   printer settings.</p></div>
@@ -58,22 +58,21 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Bagaimana membatalkan tugas pencetakan:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span> overview and
-      start typing <span class="gui">Printers</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Printers</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Pencetak</span>.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Pencetak</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Show Jobs</span> button on the right-hand side of the
       <span class="gui">Printers</span> dialog.</p></li>
-<li class="steps"><p class="p">Cancel the print job by clicking the stop button.</p></li>
+<li class="steps"><p class="p">Batalkan tugas pencetakan dengan mengklik tombol berhenti.</p></li>
 </ol></div>
 </div></div>
 <p class="p">If this does not cancel the print job like you expected, try holding down
   the <span class="em">cancel</span> button on your printer.</p>
 <p class="p">As a last resort, especially if you have a big print job with a lot of
-  pages that will not cancel, remove the paper from the printer's paper input
+  pages that will not cancel, remove the paper from the printer’s paper input
   tray. The printer should realize that there is no paper and will stop
   printing. You can then try canceling the print job again, or try turning the
   printer off and then on again.</p>
-<div class="note note-warning" title="Peringatan"><div class="inner"><div class="region"><div class="contents"><p class="p">Be careful that you don't damage the printer when removing the paper,
+<div class="note note-warning" title="Peringatan"><div class="inner"><div class="region"><div class="contents"><p class="p">Be careful that you don’t damage the printer when removing the paper,
     though. If you would have to pull hard on the paper to remove it, you
     should probably just leave it where it is.</p></div></div></div></div>
 </div></div>
@@ -84,9 +83,8 @@
 <p class="p">If you want to pause or release a print job, you can do so by going to the
   jobs dialog in the printer settings and click the appropriate button.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span> overview and
-      start typing <span class="gui">Printers</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Printers</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Pencetak</span>.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Pencetak</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Show Jobs</span> button on the right-hand side of the
       <span class="gui">Printers</span> dialog and either pause or release the print job
       based on your needs.</p></li>
@@ -98,7 +96,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing.html#problems" title="Masalah pencetak">Masalah pencetak</a><span class="desc"> — Pencetak yang tak terdeteksi, kertas menyangkut, hasil pencetakan yang nampak salah...</span>
+<a href="printing.html#problems" title="Masalah pencetak">Masalah pencetak</a><span class="desc"> — Pencetak yang tak terdeteksi, kertas menyangkut, hasil pencetakan yang nampak salah…</span>
 </li></ul></div>
 </div></div></div>
 </div>

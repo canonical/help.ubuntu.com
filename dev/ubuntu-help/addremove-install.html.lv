@@ -76,7 +76,10 @@
     To install an application:
   </p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Spiediet ikonu <span class="app">Ubuntu programmatūra</span> <span class="gui">Palaidējā</span>, vai meklējiet <span class="input">Programmatūra</span> meklēšanas joslā <span class="gui">Panelī</span>.</p></li>
+<li class="steps"><p class="p">
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">Kad ir palaista <span class="app">Ubuntu programmatūra</span>, meklējiet lietotni vai izvēlieties kategoriju un lietotni to sarakstā.</p></li>
 <li class="steps"><p class="p">
         Select the application that you want to install and click 

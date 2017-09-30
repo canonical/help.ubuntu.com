@@ -52,9 +52,9 @@
 <p class="p">When you leave your computer, you should
   <span class="link"><a href="shell-exit.html#lock-screen" title="திரையைப் பூட்டுதல்">lock the screen</a></span> to prevent
   other people from using your desktop and accessing your files. If you
-  sometimes forget to lock your screen, you may wish to have your computerʼs
+  sometimes forget to lock your screen, you may wish to have your computer’s
   screen lock automatically after a set period of time. This will help to
-  secure your computer when you arenʼt using it.</p>
+  secure your computer when you aren’t using it.</p>
 <div class="note" title="குறிப்பு"><div class="inner"><div class="region"><div class="contents"><p class="p">உங்கள் திரை பூட்டியிருக்கும் போது, உங்கள் பயன்பாடுகளும் கணினி செயல்களும் தொடர்ந்து இயங்கிக்கொண்டே இருக்கும், ஆனால் மீண்டும் அவற்றைப் பயன்படுத்த நீங்கள் உங்கள் கடவுச்சொல்லை உள்ளிட வேண்டும்.</p></div></div></div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">எவ்வளவு நேரத்திற்குப் பிறகு திரை தானாக பூட்டிக்கொள்ள வேண்டும் என்பதை அமைக்க:</span></h2></div>
@@ -69,7 +69,7 @@
 </div></div>
 <div class="note note-tip" title="துணுக்கு"><div class="inner"><div class="region"><div class="contents"><p class="p">Applications can present notifications to you that are still displayed
     on your lock screen. This is convenient, for example, to see if you have
-    any email without unlocking your screen. If youʼre concerned about other
+    any email without unlocking your screen. If you’re concerned about other
     people seeing these notifications, switch <span class="gui">Show Notifications</span>
     off.</p></div></div></div></div>
 <p class="p">When your screen is locked, and you want to unlock it, press

@@ -62,7 +62,14 @@
 <li class="steps"><p class="p">Cliquez sur l'icône <span class="gui">Accès universel</span> pour afficher le panneau.</p></li>
 <li class="steps"><p class="p">Basculez l'interrupteur <span class="gui">Toujours afficher le menu Accès universel</span> sur <span class="gui">Activé</span>.</p></li>
 </ol></div></div></div>
-<p class="p">Pour accéder à ce menu en utilisant le clavier au lieu de la souris, appuyez sur les touches <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> pour activer la barre supérieure. Une ligne blanche s'affiche sous le bouton <span class="gui">Activités</span>, elle vous indique l'élément sélectionné dans la barre supérieure. Utilisez les touches fléchées du clavier pour déplacer la ligne blanche sous l'icône du menu Accès universel et appuyez sur <span class="gui">Entrée</span> pour l'ouvrir. Servez-vous des touches flèches haut et bas pour sélectionner des éléments dans le menu. Appuyez sur <span class="key"><kbd>Entrée</kbd></span> pour activer ou désactiver l'élément sélectionné.</p>
+<p class="p">To access this menu using the keyboard rather than the mouse, press
+  <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> to move the
+  keyboard focus to the top bar. A white line will appear underneath the
+  <span class="gui">Activities</span> button — this tells you which item on the top bar is
+  selected. Use the arrow keys on the keyboard to move the white line under the
+  universal access menu icon and then press <span class="key"><kbd>Enter</kbd></span> to open it. You
+  can use the up and down arrow keys to select items in the menu. Press
+  <span class="key"><kbd>Enter</kbd></span> to toggle the selected item.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

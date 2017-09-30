@@ -50,9 +50,13 @@
 <div class="region">
 <div class="contents">
 <p class="p">Μετακινήστε τον δείκτη ποντικιού στη γωνία <span class="gui">Δραστηριότητες</span> πάνω αριστερά στην οθόνη για να εμφανίσετε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span>. Από εκεί μπορείτε να βρείτε όλες τις εφαρμογές σας. Μπορείτε επίσης να ανοίξετε την επισκόπηση πατώντας το πλήκτρο <span class="key"><a href="keyboard-key-super.html" title="Τι είναι το πλήκτρο Λογότυπο;"><kbd>Λογότυπο</kbd></a></span></p>
-<p class="p">Υπάρχουν πολλοί τρόποι να ανοίξετε μια εφαρμογή μόλις είσαστε στην επισκόπηση <span class="gui">Δραστηριότητες</span>:</p>
+<p class="p">There are several ways of opening an application once you’re in the
+  <span class="gui">Activities</span> overview:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Αρχίστε πληκτρολογώντας το όνομα μιας εφαρμογής - η αναζήτηση ξεκινά αμέσως. (Εάν αυτό δεν συμβεί, κάντε κλικ στη γραμμή αναζήτησης στο πάνω μέρος της οθόνης και αρχίστε την πληκτρολόγηση.) Αν δεν γνωρίζετε το ακριβές όνομα της εφαρμογής, πληκτρολογήστε ένα σχετικό όρο. Κάντε κλικ στο εικονίδιο της εφαρμογής για να ξεκινήσετε.</p></li>
+<li class="list"><p class="p">Start typing the name of an application — searching begins instantly.
+      (If this doesn’t happen, click the search bar at the top of the screen
+      and start typing.) If you don’t know the exact name of an application, try
+      to type an related term. Click the application’s icon to start it.</p></li>
 <li class="list">
 <p class="p">Μερικές εφαρμογές έχουν εικονίδια στο <span class="em">ταμπλό</span>, την κάθετη λουρίδα εικονιδίων στα αριστερά της επισκόπησης <span class="gui">Δραστηριότητες</span>. Κάντε κλικ σε ένα από αυτά για να ξεκινήσετε την αντίστοιχη εφαρμογή.</p>
 <p class="p">Εάν έχετε εφαρμογές που χρησιμοποιείτε πολύ συχνά, μπορείτε να <span class="link"><a href="shell-apps-favorites.html" title="Βάλτε τις αγαπημένες σας εφαρμογές στο ταμπλό">τις προσθέσετε στο ταμπλό</a></span>.</p>
@@ -67,7 +71,10 @@
 <div class="title title-note"><h2><span class="title">Γρήγορη εκτέλεση μιας εντολής</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Ένας άλλος τρόπος εκκίνησης μιας εφαρμογής είναι πατώντας <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span>, εισάγετε το <span class="em">όνομα εντολής</span> του και έπειτα πατήστε το πλήκτρο <span class="key"><kbd>Enter</kbd></span>.</p>
-<p class="p">Για παράδειγμα, για να ξεκινήσετε το <span class="app">Rhythmbox</span>, πατήστε <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> και πληκτρολογήστε <span class="cmd">rhythmbox</span>. Το όνομα της εφαρμογής είναι η εντολή εκκίνησης του προγράμματος.</p>
+<p class="p">For example, to launch <span class="app">Rhythmbox</span>, press
+    <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> and type
+    ‘<span class="cmd">rhythmbox</span>’ (without the single-quotes). The name of the app is
+    the command to launch the program.</p>
 </div></div>
 </div></div>
 </div>

@@ -85,7 +85,11 @@
 <p class="p">Κοιτάξτε τη λίστα των συσκευών που προβάλλονται και βρείτε οποιαδήποτε είναι σημειωμένη ως <span class="code">ελεγκτής δικτύου</span> ή <span class="code">ελεγκτής Ethernet</span>. Αρκετές συσκευές μπορεί να είναι σημειωμένες με αυτόν τον τρόπο· αυτή που αντιστοιχεί στον ασύρματο προσαρμογέα μπορεί να περιλαμβάνει λέξεις όπως <span class="code">ασύρματο</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> ή <span class="code">802.11</span>. Ιδού ένα παράδειγμα πώς μπορεί να μοιάζει η καταχώριση:</p>
 <div class="code"><pre class="contents ">Network controller: Intel Corporation PRO/Wireless 3945ABG [Golan] Network Connection</pre></div>
 </li>
-<li class="steps"><p class="p">Εάν βρήκατε τον ασύρματο προσαρμογέα σας στη λίστα, συνεχίστε στο <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Βήμα οδηγών συσκευής</a></span>. Εάν δεν βρήκατε τίποτα σχετικό με τον ασύρματο προσαρμογέα σας, δείτε <span class="link"><a href="#not-recognized" title="Δεν αναγνωρίστηκε ο ασύρματος προσαρμογέας">τις παρακάτω οδηγίες</a></span>.</p></li>
+<li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
+      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Device Drivers
+      step</a></span>. If you didn’t find anything related to your wireless
+      adapter, see
+      <span class="link"><a href="#not-recognized" title="Δεν αναγνωρίστηκε ο ασύρματος προσαρμογέας">the instructions below</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -99,7 +103,11 @@
 <p class="p">Κοιτάξτε τη λίστα των συσκευών που προβάλλονται και βρείτε οποιαδήποτε φαίνεται να αναφέρεται σε μια ασύρματη ή δικτυακή συσκευή. Αυτή που αντιστοιχεί στον ασύρματο προσαρμογέα μπορεί να περιλαμβάνει λέξεις όπως <span class="code">ασύρματο</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> ή <span class="code">802.11</span>. Ιδού ένα παράδειγμα πώς μπορεί να μοιάζει η καταχώριση:</p>
 <div class="code"><pre class="contents ">Bus 005 Device 009: ID 12d1:140b Huawei Technologies Co., Ltd. EC1260 Wireless Data Modem HSD USB Card</pre></div>
 </li>
-<li class="steps"><p class="p">Εάν βρήκατε τον ασύρματο προσαρμογέα σας στη λίστα, συνεχίστε στο <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Βήμα οδηγών συσκευής</a></span>. Εάν δεν βρήκατε τίποτα σχετικό με τον ασύρματο προσαρμογέα σας, δείτε <span class="link"><a href="#not-recognized" title="Δεν αναγνωρίστηκε ο ασύρματος προσαρμογέας">τις παρακάτω οδηγίες</a></span>.</p></li>
+<li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
+      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Device Drivers
+      step</a></span>. If you didn’t find anything related to your wireless
+      adapter, see
+      <span class="link"><a href="#not-recognized" title="Δεν αναγνωρίστηκε ο ασύρματος προσαρμογέας">the instructions below</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -112,11 +120,17 @@
 <li class="steps">
 <p class="p">Ανοίξτε ένα τερματικό και πληκτρολογήστε τα παρακάτω, έπειτα πατήστε <span class="key"><kbd>Enter</kbd></span>:</p>
 <div class="code"><pre class="contents ">tail -f /var/log/messages</pre></div>
-<p class="p">Αυτό θα εμφανίσει μια λίστα μηνυμάτων σχετικών με το υλικό του υπολογιστή σας και θα ενημερωθεί αυτόματα εάν κάτι με το υλικό σας άλλαξε.</p>
+<p class="p">This will display a list of messages related to your computer’s
+      hardware, and will automatically update if anything to do with your
+      hardware changes.</p>
 </li>
 <li class="steps"><p class="p">Εισάγετε τον ασύρματο προσαρμογέα σας στη σχισμή PCMCIA και δείτε τι αλλάζει στο παράθυρο τερματικού. Οι αλλαγές πρέπει να περιλαμβάνουν κάποιες πληροφορίες για τον ασύρματο προσαρμογέα σας. Κοιτάξτε τις και δείτε αν μπορείτε να τις ταυτοποιήσετε.</p></li>
 <li class="steps"><p class="p">Για να μην εκτελεστεί η εντολή στο τερματικό, πατήστε <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span>. Αφού έχετε κάνει αυτό, μπορείτε να κλείσετε το τερματικό εάν θέλετε.</p></li>
-<li class="steps"><p class="p">Εάν βρήκατε οποιαδήποτε πληροφορία για τον ασύρματο προσαρμογέα σας, συνεχίστε στο <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">βήμα οδηγών συσκευής</a></span>. Εάν δεν βρήκατε τίποτα σχετικό με τον ασύρματο προσαρμογέα σας, δείτε <span class="link"><a href="#not-recognized" title="Δεν αναγνωρίστηκε ο ασύρματος προσαρμογέας">τις παρακάτω οδηγίες</a></span>.</p></li>
+<li class="steps"><p class="p">If you found any information about your wireless adapter, proceed to
+      the <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Device
+      Drivers step</a></span>. If you didn’t find anything related to your wireless
+      adapter, see <span class="link"><a href="#not-recognized" title="Δεν αναγνωρίστηκε ο ασύρματος προσαρμογέας">the instructions
+      below</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -124,7 +138,9 @@
 <div class="hgroup"><h2 class="title"><span class="title">Δεν αναγνωρίστηκε ο ασύρματος προσαρμογέας</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Εάν ο ασύρματος προσαρμογέας δεν αναγνωρίστηκε, μπορεί να μην δουλεύει σωστά ή οι σωστοί οδηγοί ενδέχεται να μην είναι εγκατεστημένοι για αυτόν. Για να δείτε εάν υπάρχουν οδηγοί που μπορείτε να εγκαταστήσετε εξαρτάται από ποια διανομή Linux χρησιμοποιείτε (όπως Ubuntu, Arch, Fedora ή openSUSE).</p>
-<p class="p">Για να πάρετε συγκεκριμένη βοήθεια, κοιτάξτε τις επιλογές υποστήριξης στον ιστότοπο της διανομή σας. Αυτές μπορεί να περιλαμβάνουν λίστες αλληλογραφίας και συνομιλίες ιστού όπου μπορείτε να ρωτήσετε για τον προσαρμογέα ασυρμάτου, για παράδειγμα.</p>
+<p class="p">To get specific help, look at the support options on your distribution’s
+  website. These might include mailing lists and web chats where you can ask
+  about your wireless adapter, for example.</p>
 </div></div>
 </div></div>
 <div class="links nextlinks">

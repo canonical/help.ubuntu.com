@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Restore a backup</title>
+<title>Een reservekopie terugzetten</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,29 +43,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html#backup" title="Backing up">Backing up</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#backup" title="Reservekopieën maken">Reservekopieën maken</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Restore a backup</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Een reservekopie terugzetten</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you lost or deleted some of your files, but you have a backup of them,
- you can restore them from the backup: </p>
+<p class="p">Als u sommige van uw bestanden kwijt bent of gewist heeft, maar u heeft er een reservekopie van, dan kunt u die vanaf de reservekopie terugzetten:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">If you want to restore your backup from a device such as external
- hard drive, USB drive or another computer on the network, you can
- <span class="link"><a href="files-copy.html" title="Copy or move files and folders">copy them</a></span> back to your computer.</p></li>
-<li class="list"><p class="p">If you created your backup using a backup application such as
- <span class="app">Déjà Dup</span>, it is recommended that you use the same application to
- restore your backup. Review the application help for your backup program: it
- will provide specific instructions on how to restore your files.</p></li>
+<li class="list"><p class="p">Om uw reservekopie terug te zetten vanaf een apparaat zoals een externe harde schijf, USB-stick of een andere computer in het netwerk kunt u de bestanden terug<span class="link"><a href="files-copy.html" title="Bestanden en mappen kopiëren of verplaatsen">kopiëren</a></span> naar uw computer.</p></li>
+<li class="list"><p class="p">Als u uw reservekopie gemaakt heeft met behulp van een reservekopietoepassing zoals <span class="app">Déjà Dup</span>, dan is het aan te bevelen dezelfde toepassing te gebruiken om uw reservekopie terug te zetten. Raadpleeg het hulpdocument bij uw reservekopietoepassing: u vindt er de nodige instructies over hoe u uw bestanden kunt terugzetten.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#backup" title="Backing up">Backing up</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html#backup" title="Reservekopieën maken">Reservekopieën maken</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

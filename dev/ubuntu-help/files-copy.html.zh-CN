@@ -50,7 +50,10 @@
 <div class="region">
 <div class="contents">
 <p class="p">通过鼠标的拖放操作、使用复制粘贴命令，或者使用键盘快捷键，可以将文件或文件夹复制或移动到另一个文件夹。</p>
-<p class="p">例如，您可能需要把演示文稿复制一份放进 U 盘以便随身携带和修改。或者，您也可能需要在修改文档之前先复制一份(这样如果您不喜欢更改后的，可以使用旧的备份文档)。</p>
+<p class="p">For example, you might want to copy a presentation onto a memory stick so
+ you can take it to work with you. Or, you could make a back-up copy of a
+ document before you make changes to it (and then use the old copy if you don’t
+ like your changes).</p>
 <p class="p">这些做法对文件和文件夹都有效，您可以用同样的方式移动和复制文件和文件夹。</p>
 <div class="steps ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
@@ -91,7 +94,8 @@
 <li class="steps"><p class="p">点击顶部面板上的<span class="gui">文件</span>菜单，选择<span class="gui">新建窗口</span>(或者按组合键 <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>N</kbd></span></span>)，打开第二个窗口。在新窗口中，找到您想要存放复制或移动项目的文件夹。</p></li>
 <li class="steps">
 <p class="p">单击并将该项目从一个窗口拖动至另一个。默认情况下，如果目的地在<span class="em">同一</span>设备上(即如果两个文件夹都在计算机的同一个分区)，拖动项目将<span class="em">移动</span>该项目。如果目标文件夹在<span class="em">不同</span>的设备分区中，这将会<span class="em">复制它</span></p>
-<p class="p">例如，如果您将一个文件从 U 盘拖动到主文件夹，这份文件将被复制，因为您是在不同的设备中进行拖动。</p>
+<p class="p">For example, if you drag a file from a USB memory stick to your Home folder,
+ it will be copied, because you’re dragging from one device to another.</p>
 <p class="p">您可以在拖动时按住 <span class="key"><kbd>Ctrl</kbd></span> 键来强制要求复制，或者按住 <span class="key"><kbd>Shift</kbd></span> 键来强制要求移动。</p>
 </li>
 </ol></div>

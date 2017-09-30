@@ -61,7 +61,10 @@
 <p class="p">Чтобы оставаться в безопасности, следуйте приведённым ниже советам:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Будьте осторожны с почтовыми сообщениями, вложениями и ссылками, которые вы получили от незнакомых людей.</p></li>
-<li class="list"><p class="p">Если веб-сайт предлагает нечто слишком заманчивое или запрашивает секретную информацию, которая не кажется необходимой, подумайте дважды о том, какие данные вы отправляете и о возможных последствиях их компрометации людьми, занимающимися кражами личности, или другими преступниками.</p></li>
+<li class="list"><p class="p">If a website’s offer is too good to be true, or asks for sensitive
+      information that seems unnecessary, then think twice about what
+      information you are submitting and the potential consequences if that
+      information is compromised by identity thieves or other criminals.</p></li>
 <li class="list"><p class="p">Be careful in providing
       <span class="link"><a href="user-admin-explain.html" title="Как работают административные полномочия?">root level permissions</a></span> to any
       application, especially ones that you have not used before or which are

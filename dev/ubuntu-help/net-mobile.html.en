@@ -50,7 +50,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">You can set up a connection to a cellular (3G) network with your
-  computer's built-in 3G modem, your mobile phone, or an Internet stick.</p>
+  computer’s built-in 3G modem, your mobile phone, or an Internet stick.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">If you do not have a built-in 3G modem, connect your phone or
     Internet stick to a USB port on your computer.</p></li>
@@ -69,7 +69,7 @@
     time, the <span class="gui">Set up a Mobile Broadband Connection</span> wizard is
     launched. The opening screen displays a list of required information. Click
     <span class="gui">Next</span>.</p></li>
-<li class="steps"><p class="p">Choose your provider's country or region from the list. Click
+<li class="steps"><p class="p">Choose your provider’s country or region from the list. Click
     <span class="gui">Next</span>.</p></li>
 <li class="steps"><p class="p">Choose your provider from the list. Click
     <span class="gui">Next</span>.</p></li>

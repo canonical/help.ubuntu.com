@@ -2,7 +2,7 @@
 <html lang=el>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Πώς μπορώ να ελέγξω τις στάθμες μελανιού/γραφίτη του εκτυπωτή μου;</title>
+<title>How can I check my printer’s ink or toner levels?</title>
 <link rel="stylesheet" type="text/css" href="el.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,7 +46,7 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="printing.html" title="Εκτύπωση">Εκτύπωση</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Πώς μπορώ να ελέγξω τις στάθμες μελανιού/γραφίτη του εκτυπωτή μου;</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">How can I check my printer’s ink or toner levels?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Πώς ελέγχετε πόσο μελάνι ή γραφίτης απομένει στον εκτυπωτή σας εξαρτάται από το μοντέλο και τον κατασκευαστή του εκτυπωτή σας και τους εγκατεστημένους οδηγούς και εφαρμογές στον υπολογιστή σας.</p>

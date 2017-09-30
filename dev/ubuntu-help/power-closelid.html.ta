@@ -53,7 +53,12 @@
 <div class="hgroup"><h1 class="title"><span class="title">நான், மூடியை மூடும் போது என் கணினி ஏன் அணைகிறது?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">உங்கள் மடிக்கணினி மூடியை நீங்கள் மூடும் போது, கணினி மின் சக்தியை சேமிப்பதற்காக <span class="link"><a href="power-suspend.html" title="என் கணினியை இடைநிறுத்தும் போது என்ன நடக்கும்?"><span class="em">இடைநிறுத்தப்படும்</span></a></span>. அதாவது கணினி முழுதும் அணைக்கப்படுவதில்லை, உறக்க நிலைக்கு மட்டுமே செல்கிறது. மூடியை திறந்தால் மீண்டும் விழித்துக்கொள்ளும். மூடியைத் திறந்தும் விழிக்காவிட்டால்  சொடுக்கியை சொடுக்கவும் அல்லது ஒரு விசையை அழுத்தவும். அப்போதும் இயங்காவிட்டால் பவர் பொத்தானை அழுத்தவும்.</p>
+<p class="p">When you close the lid of your laptop, your computer will
+  <span class="link"><a href="power-suspend.html" title="என் கணினியை இடைநிறுத்தும் போது என்ன நடக்கும்?"><span class="em">suspend</span></a></span> in order to save power.
+  This means that the computer is not actually turned off — it has just gone to
+  sleep. You can resume it by opening the lid. If it does not resume, try
+  clicking the mouse or pressing a key. If that still does not work, press the
+  power button.</p>
 <p class="p">சில கணினிகள் சரியாக இடைநிறுத்தப்பட முடியாமல் இருக்கலாம், அவற்றின் வன்பொருளை அவற்றின் இயக்க முறைமை முழுமையாக ஆதரிக்காதது இதற்குக் காரணமாக இருக்கலாம் (உதாரணம் Linux இயக்கிகள் முழுமையாக இல்லாமலிருக்கலாம்). இச்சூழ்நிலையில் மூடியை மூடிய பிறகு மீண்டும் கணினியை இயக்க முடியாமல் போகலாம். அப்போது நீங்கள் <span class="link"><a href="power-suspendfail.html" title="என் கணினியை இடைநிறுத்திய பிறகு ஏன் மீண்டும் இயங்க மாட்டேனென்கிறது?">இடைநிறுத்துதல் தொடர்பான சிக்கலை சரி செய்ய</a></span> முயற்சிக்கலாம் அல்லது மூடியை மூடும் போது கணினி இடைநிறுத்த முயற்சிக்காமல் தடுக்கலாம்.</p>
 </div>
 <div id="nosuspend" class="sect"><div class="inner">
@@ -61,18 +66,18 @@
 <div class="region"><div class="contents">
 <div class="note note-important" title="முக்கியமானது"><div class="inner"><div class="region"><div class="contents"><p class="p">These instructions will only work if you are using <span class="app">systemd</span>.
     Contact your distribution for more information.</p></div></div></div></div>
-<div class="note note-important" title="முக்கியமானது"><div class="inner"><div class="region"><div class="contents"><p class="p">You need to have the <span class="app">Tweak Tool</span> installed on your computer to
+<div class="note note-important" title="முக்கியமானது"><div class="inner"><div class="region"><div class="contents"><p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
     change this setting.</p></div></div></div></div>
 <p class="p">If you do not want the computer to suspend when you close the lid, you can
   change the setting for that behavior.</p>
 <div class="note note-warning" title="எச்சரிக்கை"><div class="inner"><div class="region"><div class="contents"><p class="p">இந்த அமைவை மாற்றினால் கவனமாக இருக்கவும். சில மடிக்கணினிகள் மூடி மூடியபடி இயங்கினால் அதிக வெப்பமாகலாம், குறிப்பாக அவை முதுகுப்பை போன்ற அடைபட்ட இடத்தில் இருந்தால் இதற்கு வாய்ப்பு அதிகம்.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
-      start typing <span class="gui">Tweak Tool</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Tweak Tool</span> to open the application.</p></li>
+      start typing <span class="gui">Tweaks</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Tweaks</span> to open the application.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Power</span> tab.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Don't suspend on lid close</span> to <span class="gui">ON</span>.</p></li>
-<li class="steps"><p class="p">Close the <span class="gui">Tweak Tool</span> window.</p></li>
+<li class="steps"><p class="p">Switch <span class="gui">Don’t suspend on lid close</span> to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Close the <span class="gui">Tweaks</span> window.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>

@@ -63,7 +63,7 @@
 <p class="p">Puede acotar los resultados por ubicación y tipo de archivo.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Pulse <span class="gui">Carpeta personal</span> para restringir los resultados de la búsqueda a su <span class="file">Carpeta personal</span> o <span class="gui">Todos los archivos</span> para buscar en todos los sitios.</p></li>
-<li class="list"><p class="p">Pulse el botón <span class="key"><kbd>+</kbd></span> y elija un <span class="gui">Tipo de archivo</span> de la lista desplegable para acotar el resultado de la búsqueda basándose en este tipo de archivo. Pulse el botón <span class="key"><kbd>x</kbd></span> para quitar esta opción y ampliar el resultado de la búsqueda.</p></li>
+<li class="list"><p class="p">Pulse el botón <span class="key"><kbd>+</kbd></span> y elija un <span class="gui">Tipo de archivo</span> de la lista desplegable para acotar el resultado de la búsqueda basándose en este tipo de archivo. Pulse el botón <span class="key"><kbd>×</kbd></span> para quitar esta opción y ampliar el resultado de la búsqueda.</p></li>
 </ul></div></div></div>
 </li>
 <li class="steps"><p class="p">Puede abrir, copiar, eliminar o trabajar con sus archivos desde los resultados de búsqueda, igual como si estuviera en cualquier carpeta en el gestor de archivos.</p></li>

@@ -93,7 +93,11 @@
   some keyboard shortcuts simultaneously (for example, keys that are close
   together), but not others.</p>
 <p class="p">この機能を有効にするには「<span class="gui">同時に2つのキーを押下したら無効にする</span>」を選択してください。</p>
-<p class="p">固定キーを有効にして、キーボードショートカットの入力を始めたときに「ビープ」音を鳴らすことができます。ショートカットが入力されるのを固定キーが待ち受けていることを知りたい場合に役に立ちます。これを確認すれば、次に押されるキーがショートカットの一部として認識されます。この機能を有効にするには「<span class="gui">修飾キーを押したらビープ音を鳴らす</span>」を選択してください。</p>
+<p class="p">You can have the computer make a “beep” sound when you start typing a
+  keyboard shortcut with sticky keys turned on. This is useful if you want to
+  know that sticky keys is expecting a keyboard shortcut to be typed, so the
+  next key press will be interpreted as part of a shortcut. Select <span class="gui">Beep
+  when a modifier key is pressed</span> to enable this.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

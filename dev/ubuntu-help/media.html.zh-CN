@@ -78,12 +78,12 @@
 <div class="hgroup"><h2 class="title"><span class="title">音乐和便携式音乐播放器</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="当您插入某个设备时自动打开应用程序"><span class="title">当您插入某个设备时自动打开应用程序</span><span class="linkdiv-dash"> — </span><span class="desc">插入 CD、DVD、数码相机、音乐播放器和其他设备和媒体时，自动运行相关应用程序。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="music-player-ipodtransfer.html" title="当我往 iPod 中复制歌曲后，它们没有出现"><span class="title">当我往 iPod 中复制歌曲后，它们没有出现</span><span class="linkdiv-dash"> — </span><span class="desc">使用媒体播放器复制音乐，之后安全移除 iPod 设备。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-cantplay-drm.html" title="I can’t play the songs I bought from an online music store"><span class="title">I can’t play the songs I bought from an online music store</span><span class="linkdiv-dash"> — </span><span class="desc">Support for that file format might not be installed or the songs could be “copy protected”.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-player-newipod.html" title="My new iPod won’t work"><span class="title">My new iPod won’t work</span><span class="linkdiv-dash"> — </span><span class="desc">新一代 iPod 需要安装 iTunes 程序后才能使用它。</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="music-cantplay-drm.html" title="我不能播放从网上音乐商店中购买的音乐"><span class="title">我不能播放从网上音乐商店中购买的音乐</span><span class="linkdiv-dash"> — </span><span class="desc">文件格式不支持，或者音乐可能“防复制”。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="music-player-newipod.html" title="我的新 iPod 不能工作"><span class="title">我的新 iPod 不能工作</span><span class="linkdiv-dash"> — </span><span class="desc">新一代 iPod 需要安装 iTunes 程序后才能使用它。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-player-ipodtransfer.html" title="Songs don’t appear on my iPod when I copy them onto it"><span class="title">Songs don’t appear on my iPod when I copy them onto it</span><span class="linkdiv-dash"> — </span><span class="desc">使用媒体播放器复制音乐，之后安全移除 iPod 设备。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="当您插入某个设备时自动打开应用程序"><span class="title">当您插入某个设备时自动打开应用程序</span><span class="linkdiv-dash"> — </span><span class="desc">插入 CD、DVD、数码相机、音乐播放器和其他设备和媒体时，自动运行相关应用程序。</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -98,9 +98,9 @@
 <div class="hgroup"><h2 class="title"><span class="title">视频和摄像机</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="video-dvd.html" title="为什么不能播放 DVD？"><span class="title">为什么不能播放 DVD？</span><span class="linkdiv-dash"> — </span><span class="desc">您可能没有安装合适的编解码器，或者 DVD 区域设置错误。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-sending.html" title="Other people can’t play the videos I made"><span class="title">Other people can’t play the videos I made</span><span class="linkdiv-dash"> — </span><span class="desc">检查是否正确安装视频编解码器。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-dvd.html" title="Why won’t DVDs play?"><span class="title">Why won’t DVDs play?</span><span class="linkdiv-dash"> — </span><span class="desc">您可能没有安装合适的编解码器，或者 DVD 区域设置错误。</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="app-cheese.html" title="使用摄像头创建有趣的照片和视频"><span class="title">使用摄像头创建有趣的照片和视频</span><span class="linkdiv-dash"> — </span><span class="desc">它就像您自己的个人照相馆。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="video-sending.html" title="别人不能播放我制作的视频文件"><span class="title">别人不能播放我制作的视频文件</span><span class="linkdiv-dash"> — </span><span class="desc">检查是否正确安装视频编解码器。</span></a></div>
 </div>
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="当您插入某个设备时自动打开应用程序"><span class="title">当您插入某个设备时自动打开应用程序</span><span class="linkdiv-dash"> — </span><span class="desc">插入 CD、DVD、数码相机、音乐播放器和其他设备和媒体时，自动运行相关应用程序。</span></a></div>

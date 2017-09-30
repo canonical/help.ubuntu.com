@@ -49,7 +49,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Ta bort allt från en flyttbar disk</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Om du har en flyttbar disk, exempelvis en USB-minne eller en extern hårddisk kan du ibland vilja att ta bort alla filer och mappar helt från den. Du kan göra detta genom att <span class="em">formatera</span> disken - detta tar bort alla filer på disken och gör den tom.</p>
+<p class="p">Om du har en flyttbar disk, exempelvis en USB-minne eller en extern hårddisk kan du ibland vilja ta bort alla filer och mappar helt från den. Du kan göra detta genom att <span class="em">formatera</span> disken — detta tar bort alla filer på disken och gör den tom.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Att formatera en flyttbar disk</span></h2></div>
 <div class="region"><ol class="steps">

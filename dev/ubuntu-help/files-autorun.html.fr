@@ -78,7 +78,7 @@
 <dt class="terms">Disques audio</dt>
 <dd class="terms"><p class="p">Choisissez votre lecteur de musique ou extracteur préféré pour gérer les CD audio. Si vous utilisez des DVD audio (DVD-A), définissez dans <span class="gui">Autres médias…</span> comment les ouvrir. Si vous ouvrez un disque audio avec le gestionnaire de fichiers, les pistes s'affichent au format WAV ; vous pouvez les lire avec n'importe quelle application audio.</p></dd>
 <dt class="terms">Disques vidéo</dt>
-<dd class="terms"><p class="p">Choisissez votre lecteur vidéo préféré pour gérer les DVD vidéo. Cliquez sur <span class="gui">Autres médias…</span> pour choisir une application qui gère les Blu-ray, HD DVD, CD vidéo (VCD) et CD super vidéo (SVCD). Si des DVD ou d'autres disques vidéo ne fonctionnent pas correctement quand vous les insérer, veuillez consulter <span class="link"><a href="video-dvd.html" title="Pourquoi les DVD ne se lisent-ils pas ?">Pourquoi les DVD ne se lisent-ils pas ?</a></span>.</p></dd>
+<dd class="terms"><p class="p">Choisissez votre lecteur vidéo préféré pour gérer les DVD vidéo. Cliquez sur <span class="gui">Autres médias…</span> pour choisir une application qui gère les Blu-ray, HD DVD, CD vidéo (VCD) et CD super vidéo (SVCD). Si des DVD ou d'autres disques vidéo ne fonctionnent pas correctement quand vous les insérer, veuillez consulter <span class="link"><a href="video-dvd.html" title="Why won’t DVDs play?">Why won’t DVDs play?</a></span>.</p></dd>
 <dt class="terms">Disques vierges</dt>
 <dd class="terms"><p class="p">Cliquez sur le bouton <span class="gui">Autres médias…</span> pour choisir une application de gravure sur CD, DVD, disques Blu-ray et HD DVD vierges.</p></dd>
 <dt class="terms">Appareils photos et photos</dt>
@@ -96,7 +96,7 @@
 <dt class="terms">Logiciels</dt>
 <dd class="terms">
 <p class="p">Certains disques et médias amovibles contiennent des logiciels qui sont sensés se lancer automatiquement quand vous les insérez. Utilisez l'option <span class="gui">Logiciels</span> pour contrôler quoi faire quand un média contenant des logiciels à démarrage automatique est inséré. Il vous sera ainsi toujours demandé une confirmation avant que le logiciel ne soit exécuté.</p>
-<div class="note note-warning" title="Avertissement"><div class="inner"><div class="region"><div class="contents"><p class="p">N'exécutez jamais le logiciel d'un média en qui vous n'avez pas confiance.</p></div></div></div></div>
+<div class="note note-warning" title="Avertissement"><div class="inner"><div class="region"><div class="contents"><p class="p">Never run software from media you don’t trust.</p></div></div></div></div>
 </dd>
 </dl></div></div></div></div></div>
 </div></div>

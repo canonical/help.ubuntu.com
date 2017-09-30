@@ -53,15 +53,16 @@
 <div class="hgroup"><h2 class="title"><span class="title">வன் வட்டை சோதித்தல்</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">வன் வட்டுகளில் <span class="app"> SMART</span> (சுய கண்காணிப்பு, பகுப்பாய்வு மற்றும் அறிக்கையிடுதல் தொழில்நுட்பம்) எனப்படும் ஒரு உள்ளமைக்கப்பட்ட ஆரோக்கிய பரிசோதனைக் கருவி உள்ளது, அது வட்டில் ஏதேனும் சிக்கல்கள் ஏற்பட வாய்ப்புள்ளதா என தொடர்ந்து சோதிக்கிறது. அது உங்கள் வட்டு செயலிழக்கும் நிலையில் இருந்தால் எச்சரித்து முக்கியமான தரவு இழப்புகளைத் தவிர்க்க உதவுகிறது.</p>
-<p class="p">SMART தானாக இயங்கும் என்றாலும், நீங்கள் <span class="app">வட்டுகள்</span> பயன்பாட்டை இயக்கி உங்கள் வட்டின் ஆரோக்கியத்தை சரிபார்த்துக்கொள்ளலாம்:</p>
+<p class="p">Although SMART runs automatically, you can also check your disk’s
+ health by running the <span class="app">Disks</span> application:</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">வட்டுகள் பயன்பாட்டைப் பயன்படுத்தி உங்கள் வட்டின் ஆரோக்கியத்தை சரிபார்த்தல்</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Check your disk’s health using the Disks application</span></h3></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open <span class="app">Disks</span> from the <span class="gui">Activities</span> overview.</p></li>
 <li class="steps"><p class="p">Select the disk you want to check from the list of storage devices on
     the left. Information and status of the disk will be shown.</p></li>
 <li class="steps"><p class="p">Click the menu button and select <span class="gui">SMART Data &amp; Self-Tests…</span>.
-    The <span class="gui">Overall Assessment</span> should say "Disk is OK".</p></li>
+    The <span class="gui">Overall Assessment</span> should say “Disk is OK”.</p></li>
 <li class="steps"><p class="p">See more information under <span class="gui">SMART Attributes</span>, or click the
     <span class="gui">Start Self-test</span> button to run a self-test.</p></li>
 </ol></div>
@@ -69,13 +70,18 @@
 </div></div>
 </div></div>
 <div id="disk-not-healthy" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">வட்டு ஆரோக்கியமான இல்லாவிட்டால் என்ன ஆகும்?</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">What if the disk isn’t healthy?</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Even if the <span class="gui">Overall Assessment</span> indicates that the disk
-  <span class="em">isn't</span> healthy, there may be no cause for alarm. However, it's better
+  <span class="em">isn’t</span> healthy, there may be no cause for alarm. However, it’s better
   to be prepared with a <span class="link"><a href="backup-why.html" title="உங்கள் முக்கியமான கோப்புகளை மறுபிரதி எடுக்கவும்">backup</a></span> to prevent data
   loss.</p>
-<p class="p">நிலை "தோல்விக்கு முந்தையது" எனக் கூறினால், வட்டு போதுமான அளவு ஆரோக்கியமாக உள்ளது, ஆனால் விரைவில் அது தோல்வியடையக்கூடிய அறிகுறிகள் உள்ளன எனப் பொருள். உங்கள் வன் வட்டு (அல்லது கணினி) சில வருடங்கள் பழையது எனில், நலச் சோதனைகளில் சிலவற்றிலேனும் இந்த செய்தி காண்பிக்கப்படும். அப்போது நீங்கள் <span class="link"><a href="backup-how.html" title="எப்படி மறுபிரதியெடுப்பது">வழக்கமாக உங்கள் முக்கியக் கோப்புகளை மறுபிரதி எடுக்க வேண்டும்</a></span> மற்றும் இது இன்னும் மோசமாகிறதா எனப் பார்க்க வட்டு நிலையை அவ்வப்போது சோதிக்க வேண்டும்.</p>
+<p class="p">If the status says “Pre-fail”, the disk is still reasonably healthy but
+ signs of wear have been detected which mean it might fail in the near future.
+ If your hard disk (or computer) is a few years old, you are likely to see
+ this message on at least some of the health checks. You should
+ <span class="link"><a href="backup-how.html" title="எப்படி மறுபிரதியெடுப்பது">backup your important files regularly</a></span> and check
+ the disk status periodically to see if it gets worse.</p>
 <p class="p">அது இன்னும் மோசமாகிப் போனால், கணினியை அல்லது வன் வட்டின் பிரச்சனையைக் கண்டறிய அல்லது சரி செய்ய அதை ஒரு தொழில்முறை வல்லுநரிடம் கொண்டு செல்ல வேண்டும்.</p>
 </div></div>
 </div></div>

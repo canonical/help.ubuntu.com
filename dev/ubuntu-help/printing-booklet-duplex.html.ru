@@ -58,7 +58,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Откройте диалоговое окно печати. Обычно это можно сделать нажав на <span class="gui">Печать</span> в меню или с помощью комбинации клавиш <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
 <li class="steps">
-<p class="p">Click the <span class="gui">Properties...</span> button </p>
+<p class="p">Click the <span class="gui">Properties…</span> button </p>
 <p class="p">In the <span class="gui">Orientation</span> drop-down list, make sure that
       <span class="gui">Landscape</span> is selected.</p>
 <p class="p">In the <span class="gui">Duplex</span> drop-down list, select <span class="gui">Short Edge</span>.

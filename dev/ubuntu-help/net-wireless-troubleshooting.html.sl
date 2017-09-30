@@ -72,7 +72,11 @@
 <p class="p">Some of the instructions in this guide ask you to type commands into the
     <span class="em">command line</span> (Terminal). You can find the <span class="app">Terminal</span> application in
     the <span class="gui">Activities</span> overview.</p>
-<p class="p">Če vam uporaba ukazne vrstice ni znana ne skrbite - ta vodnik vas bo vodil ob vsakem koraku. Vse, kar si morate zapomniti, je, da so ukazi občutljivi na velikost črk (zato jih morate vnesti <span class="em">natanko</span> kot so videti tukaj) in da morate za zagon ukaza po njegovem vnosu pritisniti <span class="key"><kbd>Enter</kbd></span>.</p>
+<p class="p">If you are not familiar with using a command line, don’t worry — this
+    guide will direct you at each step. All you need to remember is that
+    commands are case-sensitive (so you must type them <span class="em">exactly</span> as they
+    appear here), and to press <span class="key"><kbd>Enter</kbd></span> after typing each command to
+    run it.</p>
 </div></div>
 </div></div>
 </div>
@@ -96,7 +100,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-connect.html" title="Povezava z brezžičnim omrežjem">Povezava z brezžičnim omrežjem</a><span class="desc"> — Povežite se na internet - brezžično.</span>
+<a href="net-wireless-connect.html" title="Povezava z brezžičnim omrežjem">Povezava z brezžičnim omrežjem</a><span class="desc"> — Get on the internet — wirelessly.</span>
 </li></ul></div>
 </div></div>
 </div>

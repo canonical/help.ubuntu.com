@@ -69,7 +69,8 @@
 <li class="list"><p class="p">Any version or revision numbers that may be printed on your wireless
       network devices or their packaging. These can be especially helpful, so
       look carefully.</p></li>
-<li class="list"><p class="p">Всё на диске с драйверами, что может помочь идентифицировать либо само устройство, его версию прошивки, либо используемые в нём компоненты (чипсет).</p></li>
+<li class="list"><p class="p">Anything on the driver disc that identifies either the device itself,
+      its “firmware” version, or the components (chipset) it uses.</p></li>
 </ul></div></div></div>
 <p class="p">Если возможно, попробуйте получить доступ к другому работающему соединению с Интернетом, чтобы можно было скачать нужные программы и драйверы. (Одним из вариантов может быть непосредственное подключение компьютера к маршрутизатору кабелем Ethernet, но подключайтесь только когда в этом возникнет необходимость.)</p>
 <p class="p">Как только у вас наберётся как можно больше этих элементов, нажмите <span class="gui">Далее</span>.</p>

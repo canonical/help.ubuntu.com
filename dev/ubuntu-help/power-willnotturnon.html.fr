@@ -66,7 +66,13 @@
 </div></div>
 <div id="beeps" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Bips et extinction de l'ordinateur</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Si votre ordinateur émet plusieurs bips quand vous l'allumez et s'éteint tout de suite après, il indique qu'il y a un problème matériel. Ces bips sont un <span class="em">code</span> utilisé par l'ordinateur et dont l'architecture est sensée indiquer la nature du problème. Ce code varie en fonction du fabricant de l'ordinateur, consultez donc le manuel de la carte mère de votre ordinateur ou emmenez-le chez un réparateur.</p></div></div>
+<div class="region"><div class="contents"><p class="p">If the computer beeps several times when you turn it on and then turns off
+  (or fails to start), it may be indicating that it has detected a problem.
+  These beeps are sometimes referred to as <span class="em">beep codes</span>, and the pattern
+  of beeps is intended to tell you what the problem with the computer is.
+  Different manufacturers use different beep codes, so you will have to consult
+  the manual for your computer’s motherboard, or take your computer in for
+  repairs.</p></div></div>
 </div></div>
 <div id="fans" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Ventilateurs en fonctionnement, mais pas d'affichage</span></h2></div>

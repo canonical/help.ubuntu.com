@@ -55,19 +55,25 @@
 <div class="hgroup"><h1 class="title"><span class="title">Нажатие средней кнопки мыши</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">У многих мышей и некоторых сенсорных панелей имеется средняя кнопка. На мыши с колёсиком прокрутки роль нажатия средней кнопкой выполняет нажатие на колёсико. Если у мыши нет средней кнопки, вместо неё можно нажать левую и правую кнопки одновременно.</p>
+<p class="p">Many mice and some touchpads have a middle mouse button. On a mouse
+with a scroll wheel, you can usually press directly down on the scroll
+wheel to middle-click. If you don’t have a middle mouse button, you
+can press the left and right mouse buttons at the same time to
+middle-click.</p>
 <p class="p">На сенсорных панелях с поддержкой многопальцевого касания для воспроизведения нажатия колёсиком мышки, используется одновременное касание тремя пальцами. Чтобы включить эту возможность, отметьте параметр <span class="link"><a href="mouse-touchpad-click.html" title="Нажатия, перетаскивание и прокрутка с помощью сенсорной панели">щелчок при касании</a></span> в настройках сенсорной панели.</p>
 <p class="p">Многие приложения используют нажатие средней кнопки мыши для дополнительных действий.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">In the <span class="gui">Activities</span> overview, you can quickly open a new
   window for an application in its own new workspace with middle-click. Simply
-  middle-click on the application's icon, either in the dash on the left, or in
+  middle-click on the application’s icon, either in the dash on the left, or in
   the applications overview. The applications overview is displayed using the
   grid button in the dash.</p></li>
 <li class="list"><p class="p">Большинство веб-браузеров позволяет быстро открывать ссылки во вкладках с помощью средней кнопки мыши. Просто нажмите на любой ссылке средней кнопкой, и она откроется в новой вкладке. Однако, будьте осторожны, нажимая на ссылки в браузере <span class="app">Firefox</span>. В <span class="app">Firefox</span> при нажатии средней кнопкой где-нибудь, помимо ссылки, выделенный текст вставляется как адрес, как если бы его вставили в адресную строку и нажали <span class="key"><kbd>Enter</kbd></span>.</p></li>
 <li class="list"><p class="p">В менеджере файлов нажатие средней кнопкой выполняет две роли. При нажатии средней кнопкой на папке она открывается в новой вкладке (как в веб-браузерах). Если же нажать средней кнопкой на файл, он будет открыт, как если бы было выполнено обычное двойное нажатие.</p></li>
 </ul></div></div></div>
-<p class="p">Некоторые специализированные приложения позволяют использовать среднюю кнопку мыши для других действий. Поищите в справке приложения фразы <span class="em">нажатие средней кнопкой</span> или <span class="em">средняя кнопка мыши</span>.</p>
+<p class="p">Some specialized applications allow you to use the middle mouse
+button for other functions. Search your application’s help for
+<span class="em">middle-click</span> or <span class="em">middle mouse button</span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

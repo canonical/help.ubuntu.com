@@ -53,7 +53,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Menata pengaturan jaringan secara manual</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If your network doesn't automatically assign network settings to your
+<p class="p">If your network doesn’t automatically assign network settings to your
   computer, you may have to manually enter the settings yourself. This topic
   assumes that you already know the correct settings to use. If not, you may
   need to ask your network administrator or look at the settings of your router
@@ -61,8 +61,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Untuk menata pengaturan jaringan secara manual:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span> overview and
-      start typing <span class="gui">Network</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Jaringan</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Jaringan</span> untuk membuka panel.</p></li>
 <li class="steps">
 <p class="p">In the left pane, select the network connection that you want to set
@@ -102,11 +101,7 @@
 <a href="net-wired.html" title="Jaringan Kabel">Jaringan Kabel</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html" title="Menyambung ke suatu jaringan (Ethernet) kabel">Koneksi internet melalui kabel</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Buat suatu koneksi dengan suatu alamat IP yang tetap">Alamat IP tetap</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-wireless.html" title="Jaringan Nirkabel">Jaringan Nirkabel</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html" title="Menyambung ke jaringan nirkabel">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="Menyambung ke suatu jaringan nirkabel tersembunyi">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="Mengapa jaringan nirkabel saya terputus terus?">Disconnecting</a></span>…
-    </span>
+<a href="net-wireless.html" title="Jaringan Nirkabel">Jaringan Nirkabel</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Menyambung ke jaringan nirkabel">Menyambung ke wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Menyambung ke suatu jaringan nirkabel tersembunyi">Jaringan tersembunyi</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Mengapa jaringan nirkabel saya terputus terus?">Memutus</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

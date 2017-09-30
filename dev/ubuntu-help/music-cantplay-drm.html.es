@@ -2,7 +2,7 @@
 <html lang=es>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>No puedo reproducir las canciones que he comprado en una tienda de música en linea</title>
+<title>No puedo reproducir las canciones que he comprado en una tienda de música en línea</title>
 <link rel="stylesheet" type="text/css" href="es.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,7 +46,7 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Sonido, vídeo e imágenes">Sonido, vídeo e imágenes</a> › <a class="trail" href="media.html#music" title="Música y reproductores de sonido portátiles">Música y reproductores</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">No puedo reproducir las canciones que he comprado en una tienda de música en linea</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">No puedo reproducir las canciones que he comprado en una tienda de música en línea</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Si descarga música de una tienda en línea, es posible que no pueda reproducirla en su equipo, especialmente si la compró desde un equipo Windows o Mac OS y luego la copió.</p>

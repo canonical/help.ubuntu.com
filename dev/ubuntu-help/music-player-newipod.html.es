@@ -49,7 +49,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Mi iPod nuevo no funciona</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Si tiene un iPod nuevo que no se haya conectado nunca antes a un equipo, no se reconocerá correctamente cuando lo conecte a un equipo Linux. Esto es debido a que los iPods necesitan configurarse y actualizarse usando el programa <span class="app">iTunes</span>, que sólo funciona en Windows y en Mac OS X.</p>
+<p class="p">Si tiene un iPod nuevo que no se haya conectado nunca antes a un equipo, no se reconocerá correctamente cuando lo conecte a un equipo Linux. Esto es debido a que los iPod necesitan configurarse y actualizarse usando el programa <span class="app">iTunes</span>, que sólo funciona en Windows y en Mac OS X.</p>
 <p class="p">Para configurar su iPod, instale iTunes en un equipo Windows o Mac y conéctelo. Tendrá que seguir unos cuantos pasos. Cuando se le pregunte por el <span class="gui">Formato del volumen</span>, seleccione <span class="gui">MS-DOS (FAT)</span>, <span class="gui">Windows</span> o similar. Los demás formatos (HFS/Mac) no funcionan tan bien en GNU/Linux.</p>
 <p class="p">Una vez que termine de configurarlo, el iPod debería funcionar normalmente cuando lo enchufe en un equipo Linux.</p>
 </div>

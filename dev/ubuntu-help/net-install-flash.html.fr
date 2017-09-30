@@ -49,52 +49,41 @@
 <div class="hgroup"><h1 class="title"><span class="title">Installation du greffon Flash</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Flash is a <span class="em">plug-in</span> for your web browser that allows you to watch videos and use
-interactive web pages on some websites. While HTML5, which is a more modern solution, is increasingly
-offered, there are still some websites which won't work without Flash.</p>
+<p class="p">Flash est un <span class="em">module complémentaire</span> pour votre navigateur Internet qui vous permet de voir des vidéos et d'utiliser des pages interactives sur certains sites. Même si le HTML5, qui est une solution plus moderne, est de plus en plus proposée, il existe toujours certains sites Internet qui ne fonctionneront pas sans Flash.</p>
 <p class="p">Si vous n'avez pas Flash installé, vous verrez certainement un message vous en informant lorsque vous visitez des sites web qui le requiert. Flash est disponible gratuitement (mais pas sous licence libre) au téléchargement pour la plupart des navigateurs.</p>
-<p class="p">There are two kinds of plug-ins available:</p>
+<p class="p">Il existe deux types de modules complémentaires :</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="em">NPAPI</span> for <span class="app">Firefox</span> and other Gecko-based web browsers</p></li>
-<li class="list"><p class="p"><span class="em">PPAPI</span> for <span class="app">Chromium</span> and other Blink-based web browsers including <span class="app">Opera</span> and
-  <span class="app">Vivaldi</span></p></li>
+<li class="list"><p class="p"><span class="em">NPAPI</span> pour <span class="app">Firefox</span> et les autres navigateurs Internet basés sur Gecko</p></li>
+<li class="list"><p class="p"><span class="em">PPAPI</span> pour <span class="app">Chromium</span> et les autres navigateurs Internet basés sur Blink, dont <span class="app">Opera</span> et <span class="app">Vivaldi</span></p></li>
 </ul></div></div></div>
-<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">The <span class="app">Google Chrome</span> browser is shipped with Flash bundled, and does not need a plug-in.</p></div></div></div></div>
+<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">Le navigateur <span class="app">Google Chrome</span> est livré avec Flash intégré et ne nécessite pas un module complémentaire.</p></div></div></div></div>
 </div>
 <div id="flashplugin-installer" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">flashplugin-installer</span></h2></div>
-<div class="region"><div class="contents"><p class="p">The <span class="app">flashplugin-installer</span> package provides the NPAPI plug-in for Firefox. If you chose
- to install certain third-party software when you installed Ubuntu, <span class="app">flashplugin-installer</span> is
- probably installed already. Otherwise you can <span class="link"><a href="https://apps.ubuntu.com/cat/applications/flashplugin-installer" title="https://apps.ubuntu.com/cat/applications/flashplugin-installer">install it</a></span>
- and restart your browser.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Le paquet <span class="app">flashplugin-installer</span> fournit le module complémentaire NPAPI pour Firefox. Si vous avez choisi d'installer certains logiciels tiers lors de l'installation d'Ubuntu, <span class="app">flashplugin-installer</span> est probablement déjà installé. Sinon, vous pouvez <span class="link"><a href="https://apps.ubuntu.com/cat/applications/flashplugin-installer" title="https://apps.ubuntu.com/cat/applications/flashplugin-installer">l'installer</a></span> et redémarrer votre ordinateur.</p></div></div>
 </div></div>
 <div id="adobe-flashplugin" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">adobe-flashplugin</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">The <span class="app">adobe-flashplugin</span> package provides both the NPAPI and PPAPI plug-ins, i.e. it provides
- Flash for both Firefox and Chromium like web browsers.</p>
+<p class="p">Le paquet <span class="app">adobe-flashplugin</span> fournit les modules complémentaires NPAPI et PPAPI, c'est à dire Flash à la fois pour des navigateurs de type Firefox et de type Chromium.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Assurez-vous que le <span class="link"><a href="addremove-sources.html#canonical-partner" title="Activer le dépôt des partenaires de Canonical">dépôt Partenaires de Canonical est activé</a></span>.</p></li>
 <li class="steps"><p class="p">Installer le paquet <span class="link"><a href="https://apps.ubuntu.com/cat/applications/adobe-flashplugin" title="https://apps.ubuntu.com/cat/applications/adobe-flashplugin">adobe-flashplugin</a></span>.</p></li>
-<li class="steps"><p class="p">Restart your browser.</p></li>
+<li class="steps"><p class="p">Redémarrez votre navigateur.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
 <div id="browser-plugin-freshplayer-pepperflash" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">browser-plugin-freshplayer-pepperflash</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Some features of the PPAPI plug-in, such as 3D acceleration and premium video DRM, are not available
- in the NPAPI plugin. If you use Firefox or some other Gecko-based browser and need those features, you
- can install the <span class="app">browser-plugin-freshplayer-pepperflash</span> package. It's a wrapper which makes
- Firefox use the PPAPI plug-in.</p>
+<p class="p">Certaines fonctionnalités du module complémentaire PPAPI, telles que l'accélération 3D et les DRM sur les vidéos payantes, ne sont pas disponibles dans le module complémentaire NPAPI. Si vous utilisez Firefox ou d'autres navigateurs Internet basés sur Gecko et que vous avez besoin de ces fonctionnalités, vous pouvez installer le paquet <span class="app">browser-plugin-freshplayer-pepperflash</span>. Il s'agit d'un conteneur qui permet à Firefox d'utiliser le module complémentaire PPAPI.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Make sure that <span class="app">adobe-flashplugin</span> is installed.</p></li>
+<li class="steps"><p class="p">Assurez-vous que <span class="app">adobe-flashplugin</span> est installé.</p></li>
 <li class="steps">
-<p class="p">Open a terminal window by pressing <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span> and
-   install the <span class="app">browser-plugin-freshplayer-pepperflash</span> package:</p>
+<p class="p">Ouvrez une fenêtre de terminal en appuyant sur <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span> et installez le paquet <span class="app">browser-plugin-freshplayer-pepperflash</span> :</p>
 <p class="p"><span class="cmd">sudo apt install browser-plugin-freshplayer-pepperflash</span></p>
 </li>
-<li class="steps"><p class="p">Restart your browser.</p></li>
+<li class="steps"><p class="p">Redémarrez votre navigateur.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>

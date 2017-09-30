@@ -55,7 +55,8 @@
 <div id="manage" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Просмотр и управление томами и разделами с помощью дисковой утилиты</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Проверить и изменить запоминающие устройства вашего компьютера можно с помощью дисковой утилиты.</p>
+<p class="p">You can check and modify your computer’s storage volumes with the disk
+ utility.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Откройте <span class="gui">Обзор</span> и запустите приложение <span class="app">Диски</span>.</p></li>
 <li class="steps"><p class="p">В списке устройств хранения данных слева находятся жёсткие диски, приводы CD и DVD и другие физические устройства. Чтобы получить информацию об устройстве, нажмите на это устройство в списке.</p></li>

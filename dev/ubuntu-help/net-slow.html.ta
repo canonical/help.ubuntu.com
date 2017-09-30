@@ -54,7 +54,14 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
 <p class="p"><span class="em-bold em">பணிமிகுதியான நேரம்</span></p>
-<p class="p">இணைய வழங்குநர்கள் இணைய இணைப்பைப் பகிர்ந்து அமைத்துள்ளனர், அதனால் தான் அதை பல வீடுகளுக்குக் கொடுக்க முடிகிறது. நீங்கள் தனி இணைப்பைக் கொண்டிருந்தாலும், தனியாக தொலைபேசி அல்லது கேபிள் இணைப்பைக் கொண்டிருந்தாலும், தொலைபேசி இணைப்பகத்தில் உள்ள இணையத்தின் மற்ற மீத இணைப்பு பகிரப்பட்டிருக்கலாம். இப்படி இருந்தால் நீங்கள் பயன்படுத்தும் அதே நேரத்தில் உங்கள் விட்டுக்கு அருகில் உள்ள பல பயனர்களும் இணையத்தைப் பயன்படுத்திக் கொண்டிருக்கலாம், அப்போது உங்கள் இணைப்பு வேகம் குறையலாம். உங்கள் வீட்டு அருகாமையில் உள்ளவர்கள் இணையத்தைப் பயன்படுத்தும் நேரத்தில் (உதாரணமாக மாலை நேரம்) உங்களுக்கு இந்த வேகம் குறைவு ஏற்படலாம்.</p>
+<p class="p">Internet service providers commonly setup internet connections so that
+      they are shared between several households. Even though you connect
+      separately, through your own phone line or cable connection, the
+      connection to the rest of the internet at the telephone exchange might
+      actually be shared. If this is the case and lots of your neighbors are
+      using the internet at the same time as you, you might notice a slow-down.
+      You’re most likely to experience this at times when your neighbors are
+      probably on the internet (in the evenings, for example).</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">ஒரே சமயத்தில் பல பதிவிறக்கங்கள் செய்வது</span></p>
@@ -66,15 +73,27 @@
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">வயர்லெஸ் இணைப்பு சிக்னல் குறைவு</span></p>
-<p class="p">நீங்கள் வயர்லெஸ் இணைப்பை (wifi) பயன்படுத்தினால், சிக்னல் நன்றாக உள்ளதா என அறிய மேல் பட்டியில் உள்ள பிணைய சின்னத்தைப் பார்க்கவும். சிக்னல் சரியாக இல்லாவிட்டால் இணையம் வேகம் குறைவாக இருக்கலாம்.</p>
+<p class="p">If you’re connected to the internet by wireless (wifi), check the
+      network icon on the top bar to see if you have good wireless signal. If
+      not, the internet may be slow because you don’t have a very strong
+      signal.</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">வேகம் குறைவான மொபைல் இணைய இணைப்பைப் பயன்படுத்துதல்</span></p>
-<p class="p">உங்களிடம் இருப்பது மொபைல் இணைய இணைப்பு எனில், அது வேகம் குறைவாக இருந்தால் மொபைல் சிக்னல் சரியாக இடத்தில் நீங்கள் இருக்கலாம். இப்படி நடந்தால், இணைப்பானது 3G அல்லது பிற நம்பகமான இணைப்பு போன்ற "மொபைல் பிராட் பேன்ட்" இணைப்பிலிருந்து GPRS போன்ற வேகம் குறைவான இணைப்புக்கு தானாக மாறும்.</p>
+<p class="p">If you have a mobile internet connection and notice that it is slow,
+      you may have moved into an area where signal reception is poor. When this
+      happens, the internet connection will automatically switch from a fast
+      “mobile broadband” connection like 3G to a more reliable, but slower,
+      connection like GPRS.</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">வலை உலாவியில் சிக்கல் இருக்கலாம்</span></p>
-<p class="p">சில சமயம் வலை உலாவியில் ஏற்படும் சிக்கல் அவற்றின் வேகத்தைக் குறைக்கலாம். இதற்கு பல காரணங்கள் இருக்கலாம். உதாரணம் - நீங்கள் உலாவியால் ஏற்ற முடியாத வலைப் பக்கத்திற்கு சென்றிருக்கலாம், அல்லது உலாவி நீண்ட நேரம் திறந்து வைத்திருக்கலாம். உலாவியின் எல்லா சாளரங்களையும் மூடி மீண்டும் உலாவியை திறந்து ஏதேனும் மாற்றம் உள்ளதா எனப் பார்க்கவும்.</p>
+<p class="p">Sometimes web browsers encounter a problem that makes them run slow.
+      This could be for any number of reasons — you could have visited a
+      website that the browser struggled to load, or you might have had the
+      browser open for a long time, for example. Try closing all of the
+      browser’s windows and then opening the browser again to see if this makes
+      a difference.</p>
 </li>
 </ul></div></div></div>
 </div>
@@ -83,7 +102,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html" title="பிணைய சிக்கல்கள்">பிணைய சிக்கல்கள்</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">வயர்லெஸ் இணைப்புகளை சிக்கல் தீர்த்தல்</a></span>, <span class="link"><a href="net-wireless-find.html" title="பட்டியலில் என் வயர்லெஸ் பிணையத்தைப் பார்க்க முடியவில்லை">உங்கள் wifi பிணையத்தைக் கண்டறிதல்</a></span>…</span>
+<a href="net-problem.html" title="பிணைய சிக்கல்கள்">பிணைய சிக்கல்கள்</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">வயர்லெஸ் இணைப்புகளை சிக்கல் தீர்த்தல்</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">உங்கள் wifi பிணையத்தைக் கண்டறிதல்</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

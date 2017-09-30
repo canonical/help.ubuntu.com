@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Wireless network troubleshooter</title>
+<title>Probleemoplosser draadloos netwerk</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,38 +44,35 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="Wireless Networking">Wireless Networking</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html" title="Draadloos netwerk">Draadloos netwerk</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Common problems">Problems</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Veel voorkomende problemen">Problemen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="links nextlinks"><a class="nextlinks-next" href="net-wireless-troubleshooting-initial-check.html" title="Wireless network troubleshooter">Volgende</a></div>
-<div class="hgroup"><h1 class="title"><span class="title">Wireless network troubleshooter</span></h1></div>
+<div class="links nextlinks"><a class="nextlinks-next" href="net-wireless-troubleshooting-initial-check.html" title="Probleemoplosser draadloos netwerk">Volgende</a></div>
+<div class="hgroup"><h1 class="title"><span class="title">Probleemoplosser draadloos netwerk</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">This is a step-by-step troubleshooting guide to help you identify and fix
   wireless problems. If you cannot connect to a wireless network for some
   reason, try following the instructions here.</p>
-<p class="p">We will proceed through the following steps to get your computer connected
-  to the internet:</p>
+<p class="p">We zullen de volgende stappen doorlopen om uw computer te verbinden met het internet:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
-<li class="list"><p class="p">Performing an initial check</p></li>
-<li class="list"><p class="p">Gathering information about your hardware</p></li>
-<li class="list"><p class="p">Checking your hardware</p></li>
-<li class="list"><p class="p">Attempting to create a connection to your wireless router</p></li>
-<li class="list"><p class="p">Performing a check of your modem and router</p></li>
+<li class="list"><p class="p">Uitvoeren van een initiële controle.</p></li>
+<li class="list"><p class="p">Informatie verzamelen over uw hardware</p></li>
+<li class="list"><p class="p">Uw hardware controleren</p></li>
+<li class="list"><p class="p">Proberen om een verbinding te maken met uw draadloze router</p></li>
+<li class="list"><p class="p">Uw modem en router controleren</p></li>
 </ul></div></div></div>
-<p class="p">To get started, click on the <span class="em">Next</span> link at the top right of the
-  page. This link, and others like it on following pages, will take you through
-  each step in the guide.</p>
+<p class="p">Om te beginnen klikt u op de koppeling <span class="em">Volgende</span> rechtsboven op de pagina. Deze koppeling, evenals andere zoals deze op volgende pagina's, leidt u door elke stap in de handleiding.</p>
 <div class="note" title="Opmerking"><div class="inner">
-<div class="title title-note"><h2><span class="title">Using the command line</span></h2></div>
+<div class="title title-note"><h2><span class="title">De opdrachtregel gebruiken</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Some of the instructions in this guide ask you to type commands into the
     <span class="em">command line</span> (Terminal). You can find the <span class="app">Terminal</span> application in
     the <span class="gui">Activities</span> overview.</p>
-<p class="p">If you are not familiar with using a command line, don't worry - this
+<p class="p">If you are not familiar with using a command line, don’t worry — this
     guide will direct you at each step. All you need to remember is that
     commands are case-sensitive (so you must type them <span class="em">exactly</span> as they
     appear here), and to press <span class="key"><kbd>Enter</kbd></span> after typing each command to
@@ -83,27 +80,27 @@
 </div></div>
 </div></div>
 </div>
-<div class="links nextlinks"><a class="nextlinks-next" href="net-wireless-troubleshooting-initial-check.html" title="Wireless network troubleshooter">Volgende</a></div>
+<div class="links nextlinks"><a class="nextlinks-next" href="net-wireless-troubleshooting-initial-check.html" title="Probleemoplosser draadloos netwerk">Volgende</a></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="hardware.html#problems" title="Common problems">Hardware problems</a></li>
 <li class="links ">
-<a href="net-wireless.html" title="Wireless Networking">Wireless Networking</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html" title="Connect to a wireless network">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="Connect to a hidden wireless network">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="Why does my wireless network keep disconnecting?">Disconnecting</a></span>…
+<a href="net-wireless.html" title="Draadloos netwerk">Draadloos netwerk</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html" title="Verbinding maken met een draadloos netwerk">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html" title="Met een verborgen draadloos netwerk verbinden">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Disconnecting</a></span>…
     </span>
 </li>
+<li class="links "><a href="hardware.html#problems" title="Veel voorkomende problemen">Hardwareproblemen</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-connect.html" title="Connect to a wireless network">Connect to a wireless network</a><span class="desc"> — Get on the internet - wirelessly.</span>
+<a href="net-wireless-connect.html" title="Verbinding maken met een draadloos netwerk">Verbinding maken met een draadloos netwerk</a><span class="desc"> — Get on the internet — wirelessly.</span>
 </li></ul></div>
 </div></div>
 </div>

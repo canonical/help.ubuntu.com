@@ -63,7 +63,14 @@
 <li class="steps"><p class="p">Нажмите <span class="gui">Универсальный доступ</span>, чтобы открыть этот раздел настроек.</p></li>
 <li class="steps"><p class="p">Измените переключатель <span class="gui">Всегда показывать меню универсального доступа</span> в положение <span class="gui">Включено</span>.</p></li>
 </ol></div></div></div>
-<p class="p">Чтобы получить доступ к этому меню с помощью клавиатуры, нажмите <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> для перемещения фокуса клавиатуры на верхнюю панель. Под кнопкой <span class="gui">Обзор</span> появится белая полоса, показывающая, какой элемент верхней панели выбран. С помощью клавиш со стрелками переместите белую полосу под меню специальных возможностей и нажмите <span class="key"><kbd>Enter</kbd></span>, чтобы открыть меню. Для выбора пунктов меню используйте клавиши со стрелками вверх и вниз. Чтобы переключить выбранный пункт меню, нажмите <span class="key"><kbd>Enter</kbd></span>.</p>
+<p class="p">To access this menu using the keyboard rather than the mouse, press
+  <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> to move the
+  keyboard focus to the top bar. A white line will appear underneath the
+  <span class="gui">Activities</span> button — this tells you which item on the top bar is
+  selected. Use the arrow keys on the keyboard to move the white line under the
+  universal access menu icon and then press <span class="key"><kbd>Enter</kbd></span> to open it. You
+  can use the up and down arrow keys to select items in the menu. Press
+  <span class="key"><kbd>Enter</kbd></span> to toggle the selected item.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

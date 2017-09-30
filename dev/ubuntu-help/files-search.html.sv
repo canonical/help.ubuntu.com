@@ -56,14 +56,14 @@
 <li class="steps"><p class="p">Öppna programmet <span class="app">Filer</span> från översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span>.</p></li>
 <li class="steps"><p class="p">Om du vet att filerna du letar efter finns i en viss mapp, gå till den mappen.</p></li>
 <li class="steps">
-<p class="p">Skriv ett eller flera ord som du vet förekommer i filnamnet så kommer de att visas i sökraden. Om du till exempel ger namn på alla dina fakturor med order ”Faktura”, skriv <span class="input">faktura</span>. Ord matchar oberoende av skiftläge.</p>
+<p class="p">Skriv ett eller flera ord som du vet förekommer i filnamnet så kommer de att visas i sökraden. Om du till exempel ger namn på alla dina fakturor med ordet ”Faktura”, skriv <span class="input">faktura</span>. Ord matchar oberoende av skiftläge.</p>
 <div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">Istället för att skriva ord direkt för att visa sökraden, kan du klicka på förstoringsglaset i verktygsfältet eller trycka <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>F</kbd></span></span>.</p></div></div></div></div>
 </li>
 <li class="steps">
 <p class="p">Du kan förfina dina sökresultat med hjälp av plats och filtyp.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Klicka på <span class="gui">Hem</span> för att begränsa sökresultaten till din <span class="file">Hem</span>-mapp, eller <span class="gui">Alla filer</span> för att söka överallt.</p></li>
-<li class="list"><p class="p">Klicka på <span class="gui">+</span>-knappen och välj en <span class="gui">Filtyp</span> från rullgardinsmenyn för att begränsa sökresultaten baserat på filtyp. Klicka på <span class="gui">x</span>-knappen för att ta bort detta alternativ och utöka sökresultaten.</p></li>
+<li class="list"><p class="p">Klicka på <span class="gui">+</span>-knappen och välj en <span class="gui">Filtyp</span> från rullgardinsmenyn för att begränsa sökresultaten baserat på filtyp. Klicka på <span class="gui">×</span>-knappen för att ta bort detta alternativ och utöka sökresultaten.</p></li>
 </ul></div></div></div>
 </li>
 <li class="steps"><p class="p">Du kan öppna, kopiera, ta bort eller på annat sätt arbeta med dina filer från sökresultatet, precis som du skulle ha gjort från vilken mapp som helst i filhanteraren.</p></li>

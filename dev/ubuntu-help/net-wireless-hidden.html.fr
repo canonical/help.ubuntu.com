@@ -49,7 +49,9 @@
 <div class="hgroup"><h1 class="title"><span class="title">Connexion à un réseau sans fil masqué</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Il est possible de configurer un réseau sans fil pour qu'il soit « masqué ». Les réseaux sans fil masqués ne s'affichent pas dans les paramètres <span class="gui">Réseau</span>. Pour vous connecter à un réseau sans fil masqué :</p>
+<p class="p">It is possible to set up a wireless network so that it is “hidden.” Hidden
+ networks won’t show up in the list of wireless networks displayed in the
+ <span class="gui">Network</span> settings. To connect to a hidden wireless network:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#yourname" title="Vous et votre ordinateur">system menu</a></span> from the right
     side of the top bar.</p></li>
@@ -63,9 +65,16 @@
 <li class="steps"><p class="p">Saisissez le mot de passe ou autre information de sécurité.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Connexion</span>.</p></li>
 </ol></div></div></div>
-<p class="p">Pour connaître le nom de réseau à saisir, regardez sur l'étiquette du point d'accès ou du routeur. Si vous n'avez pas le nom du réseau (SSID), vous pouvez utiliser le <span class="gui">BSSID</span> (Basic Service Set Identifier) qui ressemble à ceci <span class="gui">02:00:01:02:03:04</span> et qui se trouve en général sous la station.</p>
+<p class="p">You may have to check the settings of the wireless access point or router
+  to see what the network name is. If you don’t have the network name (SSID),
+  you can use the <span class="em">BSSID</span> (Basic Service Set Identifier, the access
+  point’s MAC address), which looks something like <span class="gui">02:00:01:02:03:04</span>
+  and can usually be found on the underside of the access point.</p>
 <p class="p">Il vous faut aussi vérifier les paramètres de sécurité que la station émettrice sans fil utilise. Recherchez des termes comme WEP et WPA.</p>
-<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">Vous pouvez penser que masquer votre réseau sans fil améliore sa sécurité en empêchant les personnes qui ne savent pas qu'il existe de s'y connecter. En fait, ce n'est pas le cas ; ce réseau est un peu plus difficile à trouver, mais il reste néanmoins détectable.</p></div></div></div></div>
+<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">You may think that hiding your wireless network will improve security by
+ preventing people who don’t know about it from connecting. In practice, this
+ is not the case; the network is slightly harder to find but it is still
+ detectable.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -79,7 +88,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-find.html" title="Absence de mon réseau sans fil dans la liste">Absence de mon réseau sans fil dans la liste</a><span class="desc"> — Liaison sans fil arrêtée ou cassée, ou tentative de connexion à un réseau masqué.</span>
+<a href="net-wireless-find.html" title="I can’t see my wireless network in the list">I can’t see my wireless network in the list</a><span class="desc"> — Liaison sans fil arrêtée ou cassée, ou tentative de connexion à un réseau masqué.</span>
 </li></ul></div>
 </div></div>
 </div>

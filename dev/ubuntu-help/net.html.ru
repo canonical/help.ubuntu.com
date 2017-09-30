@@ -82,7 +82,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-problem.html" title="Проблемы с сетью">Проблемы с сетью</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html" title="Устранение неполадок с беспроводной сетью">Проблемы с беспроводными соединениями</a></span>, <span class="link"><a href="net-wireless-find.html" title="Моей беспроводной сети нет в списке">поиск сети wifi</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html" title="Устранение неполадок с беспроводной сетью">Проблемы с беспроводными соединениями</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">поиск сети wifi</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-wired.html" title="Проводные сети">Проводные сети</a></div>

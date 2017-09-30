@@ -58,11 +58,10 @@
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="user-add.html" title="Dodajanje novega uporabniškga računa"><span class="title">Dodajanje novega uporabniškga računa</span><span class="linkdiv-dash"> — </span><span class="desc">Dodajaje novih uporabnikov da se lahko na računalnik prijavijo tudi drugi ljudje.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="user-delete.html" title="Izbris uporabniškega računa"><span class="title">Izbris uporabniškega računa</span><span class="linkdiv-dash"> — </span><span class="desc">Odstranitev uporabnikov, ki ne uporabljajo več vašega računalnika.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-autologin.html" title="Log in automatically"><span class="title">Log in automatically</span><span class="linkdiv-dash"> — </span><span class="desc">Set up automatic login for when you switch on your computer.</span></a></div>
 </div>
 <div class="links-twocolumn">
+<div class="linkdiv "><a class="linkdiv" href="user-autologin.html" title="Log in automatically"><span class="title">Log in automatically</span><span class="linkdiv-dash"> — </span><span class="desc">Set up automatic login for when you switch on your computer.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="user-changepicture.html" title="Spremenite svojo fotografijo v prijavnem zaslonu."><span class="title">Spremenite svojo fotografijo v prijavnem zaslonu.</span><span class="linkdiv-dash"> — </span><span class="desc">Dodajanje fotografije prijavnemu in uporabniškim zaslonom.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-guest-session.html" title="Zagon omejene seje za goste"><span class="title">Zagon omejene seje za goste</span><span class="linkdiv-dash"> — </span><span class="desc">Posodite računalnik prijatelju ali znancu na varen način.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>

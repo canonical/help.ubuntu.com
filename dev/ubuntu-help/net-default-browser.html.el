@@ -56,7 +56,10 @@
 <li class="steps"><p class="p">Επιλέξτε <span class="gui">Προεπιλεγμένες εφαρμογές</span> από τον κατάλογο στα αριστερά του παραθύρου.</p></li>
 <li class="steps"><p class="p">Επιλέξτε ποιος θα είναι ο περιηγητής διαδικτύου που θα θέλατε να ανοίγει τις ιστοσελίδες σας, αλλάζοντας την επιλογή <span class="gui">Ιστός</span>.</p></li>
 </ol></div></div></div>
-<p class="p">Όταν ανοίγετε έναν διαφορετικό περιηγητή ιστού, μπορεί να σας πει ότι δεν είναι ο προεπιλεγμένος περιηγητής πια. Εάν αυτό συμβεί, κάντε κλικ στο κουμπί <span class="gui">Ακύρωση</span> (ή παρόμοιο) έτσι ώστε να μην δοκιμάσει να ορίσει τον ίδιο ως τον προεπιλεγμένο περιηγητή ξανά.</p>
+<p class="p">When you open up a different web browser, it might tell you that it’s not
+  the default browser any more. If this happens, click the <span class="gui">Cancel</span>
+  button (or similar) so that it does not try to set itself as the default
+  browser again.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

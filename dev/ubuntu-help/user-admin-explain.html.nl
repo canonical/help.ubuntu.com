@@ -43,64 +43,42 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="user-accounts.html" title="User accounts">Users</a> › <a class="trail" href="user-accounts.html#privileges" title="User privileges">Privileges</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="user-accounts.html" title="Gebruikersaccounts">Gebruikers</a> › <a class="trail" href="user-accounts.html#privileges" title="Gebruikersrechten">Rechten</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Hoe werken beheerdersrechten?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">As well as the files that <span class="em">you</span> create, your computer has a number
-  of files which are needed by the system for it to work properly. If these
-  important <span class="em">system files</span> are changed incorrectly they can cause
-  various things to break, so they are protected from changes by default.
-  Certain applications also modify important parts of the system, and so are
-  also protected.</p>
-<p class="p">The way that they are protected is by only allowing users with
-  <span class="em">administrative privileges</span> to change the files or use the
-  applications. In day-to-day use, you will not need to change any system files
-  or use these applications, so by default you do not have administrative
-  privileges.</p>
-<p class="p">Sometimes you need to use these applications, so you may be able to
-  temporarily get administrative privileges to allow you to make the changes.
-  If an application needs administrative privileges, it will ask for your
-  password. For example, if you want to install some new software, the software
-  installer (package manager) will ask for your administrator password so it
-  can add the new application to the system. Once it has finished, your
-  administrative privileges will be taken away again.</p>
+<p class="p">Naast de bestanden die <span class="em">u</span> aanmaakt, heeft uw computer ook een aantal bestanden die het systeem nodig heeft om goed te kunnen werken. Als deze belangrijke <span class="em">systeembestanden</span> op een verkeerde manier worden gewijzigd, dan kunnen er verschillende dingen stuk gaan, vandaar dat ze standaard tegen wijzigingen beschermd worden. Bepaalde toepassingen wijzigen ook belangrijke delen van het systeem en zijn daarom dus ook beschermd.</p>
+<p class="p">De manier waarop ze beschermd worden, is door alleen gebruikers met <span class="em">beheerdersrechten</span> toe te staan de bestanden te wijzigen of de toepassingen te gebruiken. In het dagelijkse gebruik hoeft u geen systeembestanden te wijzigen of deze toepassingen te gebruiken, dus hoeft u standaard geen beheerdersrechten te hebben.</p>
+<p class="p">Soms wilt u deze toepassingen toch gebruiken; daarom kunt u tijdelijke beheerdersrechten krijgen om wijzigingen aan te kunnen brengen. Als een toepassing beheerdersrechten nodig heeft, dan wordt u naar uw wachtwoord gevraagd. Als u bijvoorbeeld nieuwe software wilt installeren, dan zal het software-installatieprogramma (pakketbeheer) u naar uw beheerderswachtwoord vragen zodat de nieuwe toepassing op uw systeem kan worden geïnstalleerd . Eenmaal voltooid zullen uw beheerdersrechten weer ingetrokken worden.</p>
 <p class="p">Administrative privileges are associated with your user account.
   <span class="gui">Administrator</span> users are allowed to have these privileges while
   <span class="gui">Standard</span> users are not. Without administrative privileges you will
-  not be able to install software. Some user accounts (for example, the "root"
+  not be able to install software. Some user accounts (for example, the “root”
   account) have permanent administrative privileges. You should not use
   administrative privileges all of the time, because you might accidentally
   change something you did not intend to (like delete a needed system file, for
   example).</p>
-<p class="p">In summary, administrative privileges allow you to change important parts
-  of your system when needed, but prevent you from doing it accidentally.</p>
+<p class="p">Samengevat stellen beheerdersrechten u in staat belangrijke delen van uw systeem te wijzigen indien nodig, maar ze voorkomen dat u het per ongeluk doet.</p>
 <div class="note" title="Opmerking"><div class="inner">
-<div class="title title-note"><h2><span class="title">Wat betekent "super user"?</span></h2></div>
+<div class="title title-note"><h2><span class="title">What does “super user” mean?</span></h2></div>
 <div class="region"><div class="contents"><p class="p">A user with administrative privileges is sometimes called a <span class="em">super
     user</span>. This is simply because that user has more privileges than normal
     users. You might see people discussing things like <span class="cmd">su</span> and
-    <span class="cmd">sudo</span>; these are programs for temporarily giving you "super user"
+    <span class="cmd">sudo</span>; these are programs for temporarily giving you “super user”
     (administrative) privileges.</p></div></div>
 </div></div>
 </div>
 <div id="advantages" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Why are administrative privileges useful?</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Waarom zijn beheerdersrechten nuttig?</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Requiring users to have administrative privileges before important system
-  changes are made is useful because it helps to prevent your system from being
-  broken, intentionally or unintentionally.</p>
-<p class="p">If you had administrative privileges all of the time, you might
-  accidentally change an important file, or run an application which changes
-  something important by mistake. Only getting administrative privileges
-  temporarily, when you need them, reduces the risk of these mistakes
-  happening.</p>
+<p class="p">Eisen dat gebruikers beheerdersrechten hebben voordat er belangrijke wijzigingen in het systeem worden aangebracht is nuttig omdat het helpt te voorkomen dat uw systeem, al dan niet opzettelijk, stuk gaat.</p>
+<p class="p">Als u altijd beheerdersrechten zou hebben, dan zou u per ongeluk een belangrijk bestand kunnen wijzigen of een toepassing draaien die per abuis iets belangrijks wijzigt. Het tijdelijk verkrijgen van beheerdersrechten, wanneer u ze nodig heeft, vermindert het risico dat dergelijke vergissingen gebeuren.</p>
 <p class="p">Only certain trusted users should be allowed to have administrative
   privileges. This prevents other users from messing with the computer and
   doing things like uninstalling applications that you need, installing
-  applications that you don't want, or changing important files. This is useful
+  applications that you don’t want, or changing important files. This is useful
   from a security standpoint.</p>
 </div></div>
 </div></div>
@@ -109,34 +87,32 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#privileges" title="User privileges">User privileges</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html#privileges" title="Gebruikersrechten">Gebruikersrechten</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="printing-name-location.html" title="Change the name or location of a printer">Change the name or location of a printer</a><span class="desc"> — Change the name or location of a printer in the printer
+<a href="user-changepicture.html" title="De foto op uw aanmeldscherm wijzigen">De foto op uw aanmeldscherm wijzigen</a><span class="desc"> — Uw foto toevoegen aan het aanmeld- en gebruikersscherm.</span>
+</li>
+<li class="links ">
+<a href="printing-name-location.html" title="De naam of locatie van een printer wijzigen">De naam of locatie van een printer wijzigen</a><span class="desc"> — Change the name or location of a printer in the printer
     settings.</span>
 </li>
 <li class="links ">
-<a href="user-changepicture.html" title="De foto op uw aanmeldscherm wijzigen">De foto op uw aanmeldscherm wijzigen</a><span class="desc"> — Add your photo to the login and user screens.</span>
+<a href="user-admin-change.html" title="De persoon met beheersrechten wijzigen">De persoon met beheersrechten wijzigen</a><span class="desc"> — U kunt wijzigen welke gebruikers wijzigingen in het systeem mogen aanbrengen door hen beheerdersrechten te verlenen.</span>
 </li>
 <li class="links ">
-<a href="user-admin-change.html" title="De persoon met beheersrechten wijzigen">De persoon met beheersrechten wijzigen</a><span class="desc"> — You can allow users to make changes to the system by giving them
-    administrative privileges.</span>
-</li>
-<li class="links ">
-<a href="printing-setup-default-printer.html" title="De standaard printer instellen">De standaard printer instellen</a><span class="desc"> — Kies de printer die u het meest gebruikt.</span>
+<a href="printing-setup-default-printer.html" title="De standaardprinter instellen">De standaardprinter instellen</a><span class="desc"> — Kies de printer die u het meest gebruikt.</span>
 </li>
 <li class="links ">
 <a href="user-delete.html" title="Een gebruikersaccount verwijderen">Een gebruikersaccount verwijderen</a><span class="desc"> — Verwijder gebruikers die niet langer gebruik maken van uw computer.</span>
 </li>
 <li class="links ">
-<a href="net-othersedit.html" title="Other users can't edit the network connections">Other users can't edit the network connections</a><span class="desc"> — You need to uncheck the <span class="gui">Available to all users</span> option in the network connection settings.</span>
+<a href="net-othersedit.html" title="Other users can’t edit the network connections">Other users can’t edit the network connections</a><span class="desc"> — U moet het vinkje bij de optie <span class="gui">Beschikbaar voor alle gebruikers</span> in de netwerkverbindingsinstellingen weghalen.</span>
 </li>
 <li class="links ">
-<a href="user-admin-problems.html" title="Problemen veroorzaakt door beheerbeperkingen">Problemen veroorzaakt door beheerbeperkingen</a><span class="desc"> — You can do some things, like installing applications, only if you
-    have administrative privileges.</span>
+<a href="user-admin-problems.html" title="Problemen veroorzaakt door beheerbeperkingen">Problemen veroorzaakt door beheerbeperkingen</a><span class="desc"> — U kunt een aantal dingen, zoals het installeren van toepassingen, alleen doen als u beheersrechten heeft.</span>
 </li>
 <li class="links ">
 <a href="user-changepassword.html" title="Uw wachtwoord wijzigen">Uw wachtwoord wijzigen</a><span class="desc"> — Houd uw account veilig door uw wachtwoord regelmatig te wijzigen in uw accountinstellingen.</span>

@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Print to file</title>
+<title>Naar bestand afdrukken</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,10 +43,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="printing.html" title="Afdrukken">Afdrukken</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="printing.html" title="Afdrukken">Afdrukken</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Print to file</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Naar bestand afdrukken</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">You can choose to print a document to a file instead of sending it to
@@ -55,7 +55,7 @@
   This can be useful if you want to transfer the document to another machine
   or to share it with someone.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">To print to file:</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Om naar bestand af te drukken:</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the print dialog by pressing
       <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
@@ -77,12 +77,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing.html" title="Afdrukken">Afdrukken</a><span class="desc"> — 
-      <span class="link"><a href="printing-setup.html" title="Een lokale printer instellen">Local setup</a></span>,
-      
-      <span class="link"><a href="printing-order.html" title="Pagina's in een andere volgorde laten afdrukken">order and collate</a></span>,
-      <span class="link"><a href="printing-2sided.html" title="Tweezijdig afdrukken en multipagina-opmaak">two-sided and multi-page</a></span>…
-    </span>
+<a href="printing.html" title="Afdrukken">Afdrukken</a><span class="desc"> — <span class="link"><a href="printing-setup.html" title="Een lokale printer instellen">Lokale installatie</a></span>, <span class="link"><a href="printing-order.html" title="Pagina's in een andere volgorde laten afdrukken">ordenen en sorteren</a></span>, <span class="link"><a href="printing-2sided.html" title="Tweezijdig afdrukken en multipagina-opmaak">dubbelzijdig en meerdere pagina's</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

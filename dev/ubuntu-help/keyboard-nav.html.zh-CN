@@ -69,10 +69,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">方向键</p></td>
-<td style="border-top-style: solid;">
-<p class="p">要在单个或多个相关控件之间移动选择项，您可以使用上下左右方向键。例如在文件管理器的列表视图中选择项目等等。</p>
-<p class="p">在树状列表中，用左右方向键来折叠或扩展各个层次。</p>
-</td>
+<td style="border-top-style: solid;"><p class="p">要在单个或多个相关控件之间移动选择项，您可以使用上下左右方向键。例如在文件管理器的列表视图中选择项目等等。</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+方向键</span></p></td>
@@ -81,6 +78,10 @@
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+方向键</span></p></td>
 <td style="border-top-style: solid;"><p class="p">在列表或图标视图中，选中当前选中项到新焦点项之间的所有项目。</p></td>
+<td style="border-top-style: solid;"><p class="p">In a tree view, items that have children can be expanded or collapsed,
+    to show or hide their children: expand by pressing
+    <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>→</kbd></span></span>, and collapse by
+    pressing <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>←</kbd></span></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>空格键</kbd></span></p></td>

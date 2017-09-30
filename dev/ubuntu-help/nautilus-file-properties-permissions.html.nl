@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Set file permissions</title>
+<title>Bestandsrechten instellen</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,69 +43,50 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html#faq" title="Tips and questions">Tips and questions</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#faq" title="Tips en vragen">Tips en vragen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Set file permissions</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Bestandsrechten instellen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can use file permissions to control who can view and edit files that
-  you own. To view and set the permissions for a file, right click it and
-  select <span class="gui">Properties</span>, then select the <span class="gui">Permissions</span> tab.</p>
-<p class="p">See <span class="link"><a href="#files" title="Files">Files</a></span> and <span class="link"><a href="#folders" title="Folders">Folders</a></span> below for details
-  on the types of permissions you can set.</p>
+<p class="p">U kunt bestandsrechten gebruiken om te bepalen wie uw bestanden mogen bekijken en bewerken. Om de rechten voor een bestand te bekijken en in te stellen klikt u er met de rechtermuisknop op; kies <span class="gui">Eigenschappen</span> en ga daarna naar het tabblad <span class="gui">Rechten</span>.</p>
+<p class="p">Zie <span class="link"><a href="#files" title="Bestanden">Bestanden</a></span> en <span class="link"><a href="#folders" title="Mappen">Mappen</a></span> hieronder voor details over de soorten rechten die u kunt instellen.</p>
 </div>
 <div id="files" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Files</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Bestanden</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">You can set the permissions for the file owner, the group owner,
     and all other users of the system. For your files, you are the owner,
     and you can give yourself read-only or read-and-write permission.
-    Set a file to read-only if you don't want to accidentally change it.</p>
+    Set a file to read-only if you don’t want to accidentally change it.</p>
 <p class="p">Every user on your computer belongs to a group. On home computers,
     it is common for each user to have their own group, and group permissions
     are not often used. In corporate environments, groups are sometimes used
     for departments or projects. As well as having an owner, each file belongs
-    to a group. You can set the file's group and control the permissions for
-    all users in that group. You can only set the file's group to a group you
+    to a group. You can set the file’s group and control the permissions for
+    all users in that group. You can only set the file’s group to a group you
     belong to.</p>
 <p class="p">You can also set the permissions for users other than the owner and
-    those in the file's group.</p>
-<p class="p">If the file is a program, such as a script, you must select <span class="gui">Allow
-    executing file as program</span> to run it. Even with this option selected,
-    the file manager may still open the file in an application or ask you
-    what to do. See <span class="link"><a href="nautilus-behavior.html#executable" title="Executable text files">Executable text files</a></span> for more
-    information.</p>
+    those in the file’s group.</p>
+<p class="p">Als het bestand een programma is, zoals een script, dan moet u <span class="gui">Uitvoeren van bestand toestaan</span> aanvinken om het te draaien. Zelfs als deze optie aangevinkt is kan het nog steeds zo zijn dat bestandsbeheer het bestand in een toepassing opent of u vraagt wat er gedaan moet worden. Zie <span class="link"><a href="nautilus-behavior.html#executable" title="Uitvoerbare tekstbestanden">Uitvoerbare tekstbestanden</a></span> voor meer informatie.</p>
 </div></div>
 </div></div>
 <div id="folders" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Folders</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Mappen</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">You can set permissions on folders for the owner, group, and other users.
-    See the details of file permissions above for an explanation of owners,
-    groups, and other users.</p>
-<p class="p">The permissions you can set for a folder are different from those you
-    can set for a file.</p>
+<p class="p">Voor mappen kunt u de rechten instellen voor de eigenaar, groep en andere gebruikers. Zie de informatie over bestandsrechten hierboven voor uitleg over eigenaren, groepen en andere gebruikers.</p>
+<p class="p">De rechten die u kunt instellen voor een map zijn anders dan die voor bestanden.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">None</span></dt>
-<dd class="terms"><p class="p">The user will not even be able to see what files are in
-        the folder.</p></dd>
-<dt class="terms"><span class="gui">List files only</span></dt>
-<dd class="terms"><p class="p">The user will be able to see what files are in the folder,
-        but will not be able to open, create, or delete files.</p></dd>
-<dt class="terms"><span class="gui">Access files</span></dt>
-<dd class="terms"><p class="p">The user will be able to open files in the folder (provided
-        they have permission to do so on the particular file), but will
-        not be able to create new files or delete files.</p></dd>
-<dt class="terms"><span class="gui">Create and delete files</span></dt>
-<dd class="terms"><p class="p">The user will have full access to the folder, including
-        opening, creating, and deleting files.</p></dd>
+<dt class="terms"><span class="gui">Geen</span></dt>
+<dd class="terms"><p class="p">De gebruiker zal niet eens kunnen zien welke bestanden er in de map zitten.</p></dd>
+<dt class="terms"><span class="gui">Alleen inventariseren</span></dt>
+<dd class="terms"><p class="p">De gebruiker zal kunnen zien welke bestanden er in de map zitten, maar zal geen bestanden kunnen openen, aanmaken of verwijderen.</p></dd>
+<dt class="terms"><span class="gui">Bestanden gebruiken</span></dt>
+<dd class="terms"><p class="p">De gebruiker zal bestanden in de map kunnen openen (mits hij daar toestemming voor heeft voor dat bepaalde bestand), maar hij kan geen nieuwe bestanden aanmaken of bestanden verwijderen.</p></dd>
+<dt class="terms"><span class="gui">Bestanden aanmaken en verwijderen</span></dt>
+<dd class="terms"><p class="p">De gebruiker zal volledige toegang hebben tot de map, inclusief het openen, aanmaken en verwijderen van bestanden.</p></dd>
 </dl></div></div></div>
-<p class="p">You can also quickly set the file permissions for all the files
-    in the folder by clicking <span class="gui">Change Permissions for Enclosed Files</span>.
-    Use the drop-down lists to adjust the permissions of contained files or
-    folders, and click <span class="gui">Change</span>. Permissions are applied to files and
-    folders in subfolders as well, to any depth.</p>
+<p class="p">U kunt ook snel bestandsrechten voor alle bestanden in de map instellen door op <span class="gui">Rechten wijzigen voor ingesloten bestanden</span> te klikken. Gebruik de keuzemenu's om de rechten van de ingesloten bestanden of mappen aan te passen, en klik op <span class="gui">Wijzigen</span>. Rechten kunnen ook op bestanden en mappen in submappen op elk niveau worden toegepast.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -113,13 +94,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Tips and questions">Tips and questions</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html#faq" title="Tips en vragen">Tips en vragen</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-file-properties-basic.html" title="File properties">File properties</a><span class="desc"> — View basic file information, set permissions, and choose
-    default applications.</span>
+<a href="nautilus-file-properties-basic.html" title="Bestandseigenschappen">Bestandseigenschappen</a><span class="desc"> — Basis-bestandsinformatie bekijken, rechten instellen en standaardtoepassingen kiezen.</span>
 </li></ul></div>
 </div></div>
 </div>

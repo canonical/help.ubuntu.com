@@ -63,10 +63,7 @@
 <li class="steps"><p class="p">Wählen Sie einen Tarif entsprechend dem Gerät, das Sie verbinden wollen. Dadurch wird der Name des Zugangspunkts bestimmt. Klicken Sie auf <span class="gui">Weiter</span>.</p></li>
 <li class="steps"><p class="p">Bestätigen Sie die gewählten Einstellungen durch einen Klick auf <span class="gui">Anwenden</span>. Der Assistent wird geschlossen und das <span class="gui">Netzwerk</span>-Panel zeigt die Eigenschaften Ihrer Verbindung an.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">Some phones have a setting called <span class="em">USB tethering</span> that requires
-      no setup on the computer. When the setting is activated on the phone, the
-      connection will show up as <span class="gui">Ethernet Connected</span> in the system
-      menu and <span class="gui">USB ethernet</span> in the network panel.</p></div></div></div></div>
+<div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">Einige Telefone verfügen über eine Einstellung namens <span class="em">USB-Tethering</span>, die keinerlei Einrichtung auf dem Rechner erfordert. Wenn diese Einstellung auf dem Telefon aktiviert ist, wird die Verbindung als <span class="gui">Kabelnetzwerk verbunden</span> im Systemmenü und <span class="gui">USB-Kabelnetzwerk</span> in der Netzwerkleiste angezeigt.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

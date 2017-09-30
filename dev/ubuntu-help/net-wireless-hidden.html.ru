@@ -49,7 +49,9 @@
 <div class="hgroup"><h1 class="title"><span class="title">Подключение к скрытой беспроводной сети</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Возможно также настроить «скрытую» беспроводную сеть. Скрытые сети не показываются в списке доступных сетей в окне настроек <span class="gui">Сеть</span>.Чтобы подключиться к скрытой беспроводной сети:</p>
+<p class="p">It is possible to set up a wireless network so that it is “hidden.” Hidden
+ networks won’t show up in the list of wireless networks displayed in the
+ <span class="gui">Network</span> settings. To connect to a hidden wireless network:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#yourname" title="Вы и ваш компьютер">system menu</a></span> from the right
     side of the top bar.</p></li>
@@ -63,9 +65,16 @@
 <li class="steps"><p class="p">Введите свой пароль или другие параметры безопасности.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Подключиться</span>.</p></li>
 </ol></div></div></div>
-<p class="p">Возможно, вам понадобится проверить параметры беспроводной точки доступа или маршрутизатора, чтобы узнать имя сети. Если этого имени (SSID) у вас нет, то можно использовать <span class="em">BSSID</span> (Basic Service Set Identifier, аппаратный или MAC-адрес точки доступа), который выглядит примерно как <span class="gui">02:00:01:02:03:04</span>. Обычно его можно найти на нижней стороне точки доступа.</p>
+<p class="p">You may have to check the settings of the wireless access point or router
+  to see what the network name is. If you don’t have the network name (SSID),
+  you can use the <span class="em">BSSID</span> (Basic Service Set Identifier, the access
+  point’s MAC address), which looks something like <span class="gui">02:00:01:02:03:04</span>
+  and can usually be found on the underside of the access point.</p>
 <p class="p">Следует также проверить параметры защиты беспроводной базовой станции. Ищите такие термины, как WEP и WPA.</p>
-<div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents"><p class="p">Некоторые считают, что скрытие беспроводной сети улучшает её защиту, не позволяя подключиться людям, которые о ней не знают. На практике, это не так: обнаружить сеть немного сложнее, но всё же возможно.</p></div></div></div></div>
+<div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents"><p class="p">You may think that hiding your wireless network will improve security by
+ preventing people who don’t know about it from connecting. In practice, this
+ is not the case; the network is slightly harder to find but it is still
+ detectable.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -83,7 +92,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-find.html" title="Моей беспроводной сети нет в списке">Моей беспроводной сети нет в списке</a><span class="desc"> — The wireless could be turned off or broken, or you may be trying to
+<a href="net-wireless-find.html" title="I can’t see my wireless network in the list">I can’t see my wireless network in the list</a><span class="desc"> — The wireless could be turned off or broken, or you may be trying to
     connect to a hidden network.</span>
 </li></ul></div>
 </div></div>

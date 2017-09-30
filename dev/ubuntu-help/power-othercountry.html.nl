@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Will my computer work with a power supply in another country?</title>
+<title>Zal mijn computer werken in een land met een andere stroomvoorziening?</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,27 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Common problems">Problems</a> » <a class="trail" href="power.html#problems" title="Problemen">Power problems</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="power.html#problems" title="Problemen">Stroomproblemen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Will my computer work with a power supply in another country?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Zal mijn computer werken in een land met een andere stroomvoorziening?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Different countries use power supplies at different voltages (usually 110V
-or 220-240V) and AC frequencies (usually 50 Hz or 60 Hz). Your computer should
-work with a power supply in a different country as long as you have
-an appropriate power adapter. You may also need to flip a switch.</p>
-<p class="p">If you have a laptop, all you should need to do is get the right plug for
-your power adapter. Some laptops come packaged with more than one plug for
-their adapter, so you may already have the right one. If not, plugging your
-existing one into a standard travel adapter will suffice.</p>
+<p class="p">Verschillende landen gebruiken verschillende voltages (meestal 110V of 220-240V) en AC-frequenties (meestal 50 Hz of 60 Hz). Uw computer zou moeten werken in landen met een andere stroomvoorziening mits u de juiste adapter heeft. Het kan ook zijn dat u een schakelaar moet omzetten.</p>
+<p class="p">Als u een laptop heeft, dan hoeft u alleen maar de juiste stekker voor uw voedingsadapter te hebben. Bij sommige laptops worden meerdere stekkers voor hun adapter meegeleverd, dus misschien heeft u de juiste al. Zo niet, dan is het voldoende een standaard reisadapter te gebruiken.</p>
 <p class="p">If you have a desktop computer, you can also get a cable with a different
 plug, or use a travel adapter. In this case, however, you may need to change
-the voltage switch on the computer's power supply, if there is one. Many
+the voltage switch on the computer’s power supply, if there is one. Many
 computers do not have a switch like this, and will happily work with either
 voltage. Look at the back of the computer and find the socket that the power
-cable plugs into. Somewhere nearby, there may be a small switch marked "110V"
-or "230V" (for example). Switch it if you need to.</p>
+cable plugs into. Somewhere nearby, there may be a small switch marked “110V”
+or “230V” (for example). Switch it if you need to.</p>
 <div class="note note-warning" title="Waarschuwing"><div class="inner"><div class="region"><div class="contents"><p class="p">Wees voorzichtig bij het wisselen van stroomkabels of het gebruik van reisadapters. Schakel eerst alles uit als dat kan.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -71,7 +65,7 @@ or "230V" (for example). Switch it if you need to.</p>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html#problems" title="Problemen">Power problems</a><span class="desc"> — Troubleshoot problems with power and batteries.</span>
+<a href="power.html#problems" title="Problemen">Stroomproblemen</a><span class="desc"> — Problemen met stroom en accu's oplossen.</span>
 </li></ul></div>
 </div></div></div>
 </div>

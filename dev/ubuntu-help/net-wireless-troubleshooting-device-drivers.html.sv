@@ -65,7 +65,7 @@
 </li>
 <li class="list">
 <p class="p">Leta efter begränsade (binära) drivrutiner.</p>
-<p class="p">Många Linux-distributioner har bara enhetsdrivrutiner som är <span class="em">fria</span> och <span class="em">öppen källkod</span>. Detta är på grund av att de inte kan distribuera drivrutiner som är proprietära, eller stängd källkod. Om den rätta drivrutinen för din trådlösa adapter bara finns som en icke-fri- eller ”enbart binär”-version, kanske den inte installeras som standard. Om detta är fallet titta på den trådlösa adapterns tillverkarens hemsida för att se om de har några Linux-drivrutiner.</p>
+<p class="p">Många Linux-distributioner har bara enhetsdrivrutiner som är <span class="em">fria</span> och <span class="em">öppen källkod</span>. Detta är på grund av att de inte kan distribuera drivrutiner som är proprietära, eller stängd källkod. Om den rätta drivrutinen för din trådlösa adapter bara finns som en icke-fri- eller ”enbart binär”-version, kanske den inte installeras som standard. Om detta är fallet titta på den trådlösa adapterns tillverkares hemsida för att se om de har några Linux-drivrutiner.</p>
 <p class="p">Vissa Linux-distributioner har ett verktyg som kan hämta ner begränsade drivrutiner åt dig. Om din distribution har ett sådant, använd det för att se om det kan hitta några trådlösa drivrutiner åt dig.</p>
 </li>
 <li class="list">

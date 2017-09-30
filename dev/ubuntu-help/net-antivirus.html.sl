@@ -50,13 +50,14 @@
 <div class="region">
 <div class="contents">
 <p class="p">Če ste navajeni uporabljati Windows ali Mac OS, ste verjetno navajeni, da protivirusni se program izvaja ves čas. Protivirusni program se izvaja v ozadju ter nenehno preverja za obstoj računalniških virusov, ki bi lahko našli svojo pot na vaš računalnik in povzročili težave.</p>
-<p class="p">Anti-virus software does exist for Linux, but you probably don't need to
+<p class="p">Anti-virus software does exist for Linux, but you probably don’t need to
   use it. Viruses that affect Linux are still very rare. Some argue that this
   is because Linux is not as widely used as other operating systems, so no one
   writes viruses for it. Others argue that Linux is intrinsically more secure,
   and security problems that viruses could make use of are fixed very
   quickly.</p>
-<p class="p">Ne glede na razlog, so virusi za Linux tako redki, da vam trenutno glede njih ni treba skrbeti.</p>
+<p class="p">Whatever the reason, Linux viruses are so rare that you don’t really need
+  to worry about them at the moment.</p>
 <p class="p">V primeru da želite biti dodatno varni ali želite preveriti za obstoj virusov v datotekah, ki jih pošiljate ljudem, ki uporabljajo Windows in Mac OS, lahko še vedno namestite protivirusni program. Preverite namestilnik programov ali iščite na spletu - na voljo so številni programi.</p>
 </div>
 <div class="sect sect-links" role="navigation">

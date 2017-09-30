@@ -101,7 +101,7 @@
 <dd class="terms"><p class="p">Prikaže predmetovo vrsto MIME.</p></dd>
 <dt class="terms"><span class="gui">Mesto</span></dt>
 <dd class="terms"><p class="p">Pot do mesta datoteke.</p></dd>
-<dt class="terms"><span class="gui">Modified – Time</span></dt>
+<dt class="terms"><span class="gui">Modified — Time</span></dt>
 <dd class="terms"><p class="p">Poda datum in čas zadnje spremembe datoteke.</p></dd>
 <dt class="terms"><span class="gui">Dostopano</span></dt>
 <dd class="terms"><p class="p">Gives the date or time of the last time the file was modified.</p></dd>

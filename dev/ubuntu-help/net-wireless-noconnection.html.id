@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Saya telah memasukkan sandi yang benar, tapi masih tak bisa menyambung</title>
+<title>I’ve entered the correct password, but I still can’t connect</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,30 +46,30 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="Jaringan Nirkabel">Jaringan Nirkabel</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Saya telah memasukkan sandi yang benar, tapi masih tak bisa menyambung</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">I’ve entered the correct password, but I still can’t connect</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you're sure that you entered the correct <span class="link"><a href="net-wireless-wepwpa.html" title="Apa arti WEP dan WPA?">wireless password</a></span> but you still can't successfully connect to a wireless network, try some of the following:</p>
+<p class="p">If you’re sure that you entered the correct <span class="link"><a href="net-wireless-wepwpa.html" title="Apa arti WEP dan WPA?">wireless password</a></span> but you still can’t successfully connect to a wireless network, try some of the following:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
 <p class="p">Double-check that you have the correct password</p>
-<p class="p">Passwords are case-sensitive (it matters whether they have capital or lower-case letters), so check that you didn't get the case of one of the letters wrong.</p>
+<p class="p">Passwords are case-sensitive (it matters whether they have capital or lower-case letters), so check that you didn’t get the case of one of the letters wrong.</p>
 </li>
 <li class="list">
 <p class="p">Coba kunci heksa atau ASCII</p>
-<p class="p">The password you enter can also be represented in a different way - as a string of characters in hexadecimal (numbers 0-9 and letters a-f) called a pass key. Each password has an equivalent pass key. If you have access to the pass key as well as the password/passphrase, try typing the pass key instead. Make sure you select the correct <span class="gui">wireless security</span> option when asked for your password (for example, select <span class="gui">WEP 40/128-bit Key</span> if you're typing the 40-character pass key for a WEP-encrypted connection).</p>
+<p class="p">The password you enter can also be represented in a different way — as a string of characters in hexadecimal (numbers 0-9 and letters a-f) called a pass key. Each password has an equivalent pass key. If you have access to the pass key as well as the password/passphrase, try typing the pass key instead. Make sure you select the correct <span class="gui">wireless security</span> option when asked for your password (for example, select <span class="gui">WEP 40/128-bit Key</span> if you’re typing the 40-character pass key for a WEP-encrypted connection).</p>
 </li>
 <li class="list">
 <p class="p">Cobalah mematikan kartu nirkabel Anda dan menyalakannya lagi</p>
-<p class="p">Sometimes wireless cards get stuck or experience a minor problem that means they won't connect. Try turning the card off and then on again to reset it - see <span class="link"><a href="net-wireless-troubleshooting.html" title="Pelacak masalah jaringan nirkabel">Pelacak masalah jaringan nirkabel</a></span> for more information.</p>
+<p class="p">Sometimes wireless cards get stuck or experience a minor problem that means they won’t connect. Try turning the card off and then on again to reset it — see <span class="link"><a href="net-wireless-troubleshooting.html" title="Pelacak masalah jaringan nirkabel">Pelacak masalah jaringan nirkabel</a></span> for more information.</p>
 </li>
 <li class="list">
-<p class="p">Check that you're using the correct type of wireless security</p>
-<p class="p">When prompted for your wireless security password, you can choose which type of wireless security to use. Make sure you choose the one that is used by the router or wireless base station. This should be selected by default, but sometimes it will not be for some reason. If you don't know which one it is, use trial and error to go through the different options.</p>
+<p class="p">Check that you’re using the correct type of wireless security</p>
+<p class="p">When prompted for your wireless security password, you can choose which type of wireless security to use. Make sure you choose the one that is used by the router or wireless base station. This should be selected by default, but sometimes it will not be for some reason. If you don’t know which one it is, use trial and error to go through the different options.</p>
 </li>
 <li class="list">
 <p class="p">Periksalah apakah dukungan atas kartu nirkabel Anda sudah sesuai</p>
-<p class="p">Some wireless cards aren't supported very well. They show up as a wireless connection, but they can't connect to a network because their drivers lack the ability to do this. See if you can get an alternative wireless driver, or if you need to perform some extra set-up (like installing a different <span class="em">firmware</span>). See <span class="link"><a href="net-wireless-troubleshooting.html" title="Pelacak masalah jaringan nirkabel">Pelacak masalah jaringan nirkabel</a></span> for more information.</p>
+<p class="p">Some wireless cards aren’t supported very well. They show up as a wireless connection, but they can’t connect to a network because their drivers lack the ability to do this. See if you can get an alternative wireless driver, or if you need to perform some extra set-up (like installing a different <span class="em">firmware</span>). See <span class="link"><a href="net-wireless-troubleshooting.html" title="Pelacak masalah jaringan nirkabel">Pelacak masalah jaringan nirkabel</a></span> for more information.</p>
 </li>
 </ul></div></div></div>
 </div>
@@ -78,11 +78,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Jaringan Nirkabel">Jaringan Nirkabel</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html" title="Menyambung ke jaringan nirkabel">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="Menyambung ke suatu jaringan nirkabel tersembunyi">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="Mengapa jaringan nirkabel saya terputus terus?">Disconnecting</a></span>…
-    </span>
+<a href="net-wireless.html" title="Jaringan Nirkabel">Jaringan Nirkabel</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Menyambung ke jaringan nirkabel">Menyambung ke wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Menyambung ke suatu jaringan nirkabel tersembunyi">Jaringan tersembunyi</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Mengapa jaringan nirkabel saya terputus terus?">Memutus</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

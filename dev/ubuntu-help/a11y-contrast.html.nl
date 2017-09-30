@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Adjust the contrast</title>
+<title>Contrast aanpassen</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,28 +43,24 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Universal access">Universal access</a> › <a class="trail" href="a11y.html#vision" title="Visual impairments">Visual impairments</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Universele toegang">Universele toegang</a> › <a class="trail" href="a11y.html#vision" title="Visuele beperkingen">Visuele beperkingen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Adjust the contrast</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Contrast aanpassen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can adjust the contrast of windows and buttons so that they're easier
+<p class="p">You can adjust the contrast of windows and buttons so that they’re easier
   to see. This is not the same as 
   changing the brightness of the whole screen; only parts of the
   <span class="em">user interface</span> will change.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Universal Access</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Universal Access</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">High Contrast</span> to <span class="gui">ON</span> in the
-      <span class="gui">Seeing</span> section.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Universele toegang</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Universele toegang</span> om het paneel te openen.</p></li>
+<li class="steps"><p class="p">Zet <span class="gui">Hoog contrast</span> <span class="gui">AAN</span> onder het kopje <span class="gui">Zicht</span>.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Tip"><div class="inner">
-<div class="title title-note"><h2><span class="title">Quickly turn high contrast on and off</span></h2></div>
-<div class="region"><div class="contents"><p class="p">You can turn high contrast on and off by clicking the
-    <span class="link"><a href="a11y-icon.html" title="Find the universal access menu">accessibility icon</a></span> on the top bar and
-    selecting <span class="gui">High Contrast</span>.</p></div></div>
+<div class="title title-note"><h2><span class="title">Hoog contrast snel in- of uitschakelen</span></h2></div>
+<div class="region"><div class="contents"><p class="p">U kunt hoog contrast aan- en uitzetten door te klikken op het <span class="link"><a href="a11y-icon.html" title="Het menu Universele toegang vinden">toegankelijkheidspictogram</a></span> in de bovenste balk en <span class="gui">Hoog contrast</span> te selecteren. </p></div></div>
 </div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -72,13 +68,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#vision" title="Visual impairments">Visual impairments</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html#vision" title="Visuele beperkingen">Visuele beperkingen</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="display-brightness.html" title="Set screen brightness">Set screen brightness</a><span class="desc"> — Change the screen brightness to make it more readable in bright
-    light.</span>
+<a href="display-brightness.html" title="De helderheid van het scherm instellen">De helderheid van het scherm instellen</a><span class="desc"> — De helderheid van het scherm verhogen om het beter leesbaar te maken bij fel licht.</span>
 </li></ul></div>
 </div></div>
 </div>

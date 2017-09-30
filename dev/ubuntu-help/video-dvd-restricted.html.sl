@@ -78,7 +78,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="video-dvd.html" title="Zakaj ne morem predvajati DVD-jev?">Zakaj ne morem predvajati DVD-jev?</a><span class="desc"> — Morda nimate nameščenih pravih kodekov ali pa je DVD iz napačne regije.</span>
+<a href="video-dvd.html" title="Why won’t DVDs play?">Why won’t DVDs play?</a><span class="desc"> — Morda nimate nameščenih pravih kodekov ali pa je DVD iz napačne regije.</span>
 </li></ul></div>
 </div></div>
 </div>

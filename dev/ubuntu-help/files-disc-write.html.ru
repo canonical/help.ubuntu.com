@@ -72,9 +72,11 @@
 </ol></div></div></div>
 </div>
 <div id="problem" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Если диск записан неправильно</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">If the disc wasn’t burned properly</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Иногда запись на диск происходит неправильно, и вы не увидите на записанном диске файлы, когда вставите его привод.</p>
+<p class="p">Sometimes the computer doesn’t record the data correctly, and you won’t be
+  able to see the files you put onto the disc when you insert it into a
+  computer.</p>
 <p class="p">В этом случае попробуйте записать диск ещё раз, но на меньшей скорости, например 12x вместо 48x. Прожиг на меньшей скорости более надёжен. Выбрать скорость можно, нажав кнопку <span class="gui">Свойства</span> в окне <span class="gui">Создание CD/DVD</span>.</p>
 </div></div>
 </div></div>

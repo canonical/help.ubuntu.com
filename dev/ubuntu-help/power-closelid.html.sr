@@ -64,8 +64,8 @@
 <p class="p">Ако не желите да рачунар обустави рад када затворите поклопац, можете да измените подешавање тог понашања.</p>
 <div class="note note-warning" title="Упозорење"><div class="inner"><div class="region"><div class="contents"><p class="p">Будите веома пажљиви ако мењате ово подешавање. Неки преносни рачунари мог да се прегреју ако су остављени да раде са спуштеним поклопцем, поготово ако су у затвореном простору као што је ранац.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Детаљи</span>.</p></li>
-<li class="steps"><p class="p">Притисните на <span class="gui">Алат за лицкање</span> да га отворите.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Tweaks</span>.</p></li>
+<li class="steps"><p class="p">Кликните на <span class="gui">Алат за лицкање</span> да га отворите.</p></li>
 <li class="steps"><p class="p">Притисните на језичак <span class="gui">Напајање</span>.</p></li>
 <li class="steps"><p class="p">Пребаците <span class="gui">Не обустављај при спуштању поклопца</span> на <span class="gui">УКЉ.</span>.</p></li>
 <li class="steps"><p class="p">Затворите прозор <span class="gui">Алата за лицкање</span>.</p></li>

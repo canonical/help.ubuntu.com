@@ -49,16 +49,14 @@
 <div class="hgroup"><h1 class="title"><span class="title">Disky a úložiště</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html" title="Create a startup disk"><span class="title">
-    Create a startup disk
-  </span><span class="linkdiv-dash"> — </span><span class="desc"> 
-    Convert a USB flash drive into a volume from which you can startup and install Ubuntu.
-    </span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-check.html" title="Kontrola problémů s pevným diskem"><span class="title">Kontrola problémů s pevným diskem</span><span class="linkdiv-dash"> — </span><span class="desc">Jak otestovat, jestli váš pevný disk nemá problémy, abyste měli jistotu, že bude fungovat.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-check.html" title="Kontrola problémů s pevným diskem"><span class="title">Kontrola problémů s pevným diskem</span><span class="linkdiv-dash"> — </span><span class="desc">Jak otestovat, jestli váš pevný disk nemá problémy, abyste měli jistotu, že je v pořádku.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-capacity.html" title="Kontrola volného místa na disku"><span class="title">Kontrola volného místa na disku</span><span class="linkdiv-dash"> — </span><span class="desc">Jak použít <span class="gui">Analyzátor využití disku</span> nebo <span class="gui">Sledování systému</span> ke zjištění volného místa a kapacity.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-repair.html" title="Oprava poškozeného souborového systému"><span class="title">Oprava poškozeného souborového systému</span><span class="linkdiv-dash"> — </span><span class="desc">Jak zkontrolovat, jestli není souborový systém poškozený a jak jej případně dostat do použitelného stavu.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-partitions.html" title="Správa svazků a oddílů"><span class="title">Správa svazků a oddílů</span><span class="linkdiv-dash"> — </span><span class="desc">Vysvětlení, co jsou to svazky a oddíly a použití diskového nástroje k jejich správě.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-benchmark.html" title="Test výkonnosti vašeho pevného disku"><span class="title">Test výkonnosti vašeho pevného disku</span><span class="linkdiv-dash"> — </span><span class="desc">Jak provést test výkonnosti vašeho pevného disku, abyste zkontrolovali, jak je rychlý.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html" title="Tvorba spouštěcího disku"><span class="title">Tvorba spouštěcího disku</span><span class="linkdiv-dash"> — </span><span class="desc">Převeďte jednotku USB flash do svazku, ze kterého budete moci spustit a instalovat Ubuntu.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-format.html" title="Úplně vymazání výměnného média"><span class="title">Úplně vymazání výměnného média</span><span class="linkdiv-dash"> — </span><span class="desc">Jak odstranit všechny soubory a složky z externího pevného disku nebo flashdisku jeho naformátováním.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-resize.html" title="Úprava velikost souborového systému"><span class="title">Úprava velikost souborového systému</span><span class="linkdiv-dash"> — </span><span class="desc">Jak zmenšit nebo zvětšit souborový systém a jeho oddíl.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

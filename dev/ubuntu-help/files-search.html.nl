@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Search for files</title>
+<title>Zoeken naar bestanden</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,47 +43,37 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html#common-file-tasks" title="Common tasks">Common tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Search for files</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Zoeken naar bestanden</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can search for files based on their name or file type directly
-  within the file manager.</p>
+<p class="p">U kunt in bestandsbeheer direct zoeken naar bestanden op basis van hun naam of bestandstype.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Search</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Zoeken</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="app">Files</span> application from the
-      <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview.</p></li>
-<li class="steps"><p class="p">If you know the files you want are under a particular folder, go to
-      that folder.</p></li>
+<li class="steps"><p class="p">Open <span class="app">Bestanden</span> vanuit het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht.</p></li>
+<li class="steps"><p class="p">Als u weet dat de bestanden die u wilt hebben in een bepaalde map zitten, ga dan naar die map.</p></li>
 <li class="steps">
 <p class="p">Type a word or words that you know appear in the file name, and they
       will be shown in the search bar. For example, if you name all your
-      invoices with the word "Invoice", type <span class="input">invoice</span>. Words are
+      invoices with the word “Invoice”, type <span class="input">invoice</span>. Words are
       matched regardless of case.</p>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Instead of typing words directly to bring up the search bar, you can
-	click the magnifying glass in the toolbar, or press
-        <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>F</kbd></span></span>.</p></div></div></div></div>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">In plaats van het direct intypen van woorden om de zoekbalk te krijgen, kunt u in de taakbalk klikken op het vergrootglas of drukken op <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>F</kbd></span></span>.</p></div></div></div></div>
 </li>
 <li class="steps">
-<p class="p">You can narrow your results by location and file type.</p>
+<p class="p">U kunt de zoekresultaten specifieker maken door locatie en/of bestandstype op te geven.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Click <span class="gui">Home</span> to restrict the search results to your
-          <span class="file">Home</span> folder, or <span class="gui">All Files</span> to search
-          everywhere.</p></li>
+<li class="list"><p class="p">Klik <span class="gui">Thuis</span> om de zoekresultaten tot uw <span class="file">Thuis</span> map te beperken, of <span class="gui">Alle bestanden</span> om overal te zoeken.</p></li>
 <li class="list"><p class="p">Click the <span class="gui">+</span> button and pick a <span class="gui">File Type</span> from
 	  the drop-down list to narrow the search results based on file type.
-	  Click the <span class="gui">x</span> button to remove this option and widen the
+	  Click the <span class="gui">×</span> button to remove this option and widen the
 	  search results.</p></li>
 </ul></div></div></div>
 </li>
-<li class="steps"><p class="p">You can open, copy, delete, or otherwise work with your files from the
-      search results, just as you would from any folder in the file
-      manager.</p></li>
-<li class="steps"><p class="p">Click the magnifying glass in the toolbar again to exit the search and
-      return to the folder.</p></li>
+<li class="steps"><p class="p">U kunt vanuit de zoekresultaten bestanden openen, kopiëren, verwijderen of op een andere manier met bestanden werken, net zoals u zou doen vanuit een map in bestandsbeheer.</p></li>
+<li class="steps"><p class="p">Klik in de taakbalk opnieuw op het vergrootglas om de zoekopdracht af te sluiten en naar de map terug te keren.</p></li>
 </ol></div>
 </div></div>
 </div>
@@ -91,7 +81,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Common tasks">Common tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

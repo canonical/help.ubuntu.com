@@ -61,7 +61,11 @@
 <p class="p">Κάντε κλικ στο κουμπί <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="ρυθμίσεις"></span></span> για να δείτε τη διεύθυνση MAC για την ασύρματη διεύθυνση ως <span class="gui">Διεύθυνση υλικού</span> στον πίνακα <span class="gui">Λεπτομέρειες</span>.</p>
 </li>
 </ol></div></div></div>
-<p class="p">Στην πράξη, μπορεί να χρειαστείτε να τροποποιήσετε ή να «παραπλανήσετε» μια διεύθυνση MAC. Για παράδειγμα, κάποιοι πάροχοι υπηρεσιών διαδικτύου μπορεί να απαιτούν τη χρήση μιας συγκεκριμένης διεύθυνσης MAC για να προσπελάσετε τις υπηρεσίες τους. Εάν η κάρτα δικτύου σταματήσει να δουλεύει και χρειάζεται να την αλλάξετε με μια νέα κάρτα, η υπηρεσία δεν θα δουλεύει πια. Σε τέτοιες περιπτώσεις, θα χρειαστείτε να παραπλανήσετε την διεύθυνση MAC.</p>
+<p class="p">In practice, you may need to modify or “spoof” a MAC address. For example,
+  some internet service providers may require that a specific MAC address be
+  used to access their service. If the network card stops working, and you need
+  to swap a new card in, the service won’t work anymore. In such cases, you
+  would need to spoof the MAC address.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

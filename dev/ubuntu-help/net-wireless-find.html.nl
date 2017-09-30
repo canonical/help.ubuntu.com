@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>I can't see my wireless network in the list</title>
+<title>I can’t see my wireless network in the list</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,30 +44,22 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html" title="Network problems">Network problems</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html" title="Draadloos netwerk">Draadloos netwerk</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="Wireless Networking">Wireless Networking</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-problem.html" title="Netwerkproblemen">Netwerkproblemen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">I can't see my wireless network in the list</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">I can’t see my wireless network in the list</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">There are a number of reasons why you might not be able to see your
   wireless network on the list of available networks from the system menu.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">If no networks are shown in the list, your wireless hardware could be
-  turned off, or it <span class="link"><a href="net-wireless-troubleshooting.html" title="Wireless network troubleshooter">may not be
-  working properly</a></span>. Make sure it is turned on.</p></li>
-<li class="list"><p class="p">You could be out of range of the network. Try moving closer to the
-  wireless base station/router and see if the network appears in the list after
-  a while.</p></li>
-<li class="list"><p class="p">The list of wireless networks takes time to update. If you have just
-  turned on your computer or moved to a different location, wait for a minute
-  or so and then check if the network has appeared in the list.</p></li>
-<li class="list"><p class="p">The network could be hidden. You need to
-  <span class="link"><a href="net-wireless-hidden.html" title="Connect to a hidden wireless network">connect in a different way</a></span> if it is a
-  hidden network.</p></li>
+<li class="list"><p class="p">Als er geen netwerken in de lijst getoond worden, dan kan het zijn dat uw draadloos-hardware uitgeschakeld is, of dat die <span class="link"><a href="net-wireless-troubleshooting.html" title="Probleemoplosser draadloos netwerk">mogelijk niet goed werkt</a></span>. Zorg ervoor dat het apparaat ingeschakeld is.</p></li>
+<li class="list"><p class="p">U kunt buiten bereik van het netwerk zijn. Probeer dichter bij het daadloos basisstation/de router te komen en kijk of het netwerk na een poosje in de lijst verschijnt.</p></li>
+<li class="list"><p class="p">Het duurt even voordat de lijst met draadloze netwerken bijgewerkt is. als u net uw computer heeft aangezet of naar een andere locatie bent gegaan, wacht een paar minuten en controleer dan of het netwerk in de lijst is verschenen.</p></li>
+<li class="list"><p class="p">Het netwerk kan verborgen zijn. U dient te <span class="link"><a href="net-wireless-hidden.html" title="Met een verborgen draadloos netwerk verbinden">verbinden op een andere manier</a></span> als het een verborgen netwerk is.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -77,25 +69,21 @@
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-problem.html" title="Network problems">Network problems</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-troubleshooting.html" title="Wireless network troubleshooter">Troubleshooting wireless connections</a></span>,
-      <span class="link"><a href="net-wireless-find.html" title="I can't see my wireless network in the list">finding your wifi network</a></span>…
+<a href="net-wireless.html" title="Draadloos netwerk">Draadloos netwerk</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html" title="Verbinding maken met een draadloos netwerk">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html" title="Met een verborgen draadloos netwerk verbinden">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Disconnecting</a></span>…
     </span>
 </li>
 <li class="links ">
-<a href="net-wireless.html" title="Wireless Networking">Wireless Networking</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html" title="Connect to a wireless network">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="Connect to a hidden wireless network">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="Why does my wireless network keep disconnecting?">Disconnecting</a></span>…
-    </span>
+<a href="net-problem.html" title="Netwerkproblemen">Netwerkproblemen</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Probleemoplosser draadloos netwerk">Problemen met draadloze verbindingen oplossen</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">Uw wifi-netwerk vinden</a></span>...</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-hidden.html" title="Connect to a hidden wireless network">Connect to a hidden wireless network</a><span class="desc"> — Connect to a wireless network that is not displayed in the network
-    list.</span>
+<a href="net-wireless-hidden.html" title="Met een verborgen draadloos netwerk verbinden">Met een verborgen draadloos netwerk verbinden</a><span class="desc"> — Verbind met een draadloos netwerk dat niet in de netwerklijst staat.</span>
 </li></ul></div>
 </div></div>
 </div>

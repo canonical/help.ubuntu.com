@@ -60,9 +60,8 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Allow files to be shared into your <span class="file">Downloads</span> folder</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span> overview and
-      start typing <span class="gui">Bluetooth</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Bluetooth</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Klik pada <span class="gui">Bluetooth</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Make sure that <span class="link"><a href="bluetooth-turn-on-off.html" title="Nyalakan atau matikan Bluetooth"><span class="gui">Bluetooth</span>
       is switched on</a></span>.</p></li>
 <li class="steps"><p class="p">Bluetooth-enabled devices can send files to your

@@ -58,7 +58,10 @@ one that makes the screen look better.</p>
 <div id="multihead" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Ko je priklopljenih več zaslonov</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">V primeru da imate z računalnikom povezana dva zaslona (na primer običajen zaslon in projektor), bosta morda zaslona imela različni ločljivosti. Grafična kartica računalnika lahko hkrati prikaže zaslon le pri eni ločljivosti, zato bo vsaj eden od zaslonov morda videti megleno.</p>
+<p class="p">If you have two displays connected to the computer (for example, a normal
+  monitor and a projector), the displays might have different resolutions.
+  However, the computer’s graphics card can only display the screen in one
+  resolution at a time, so at least one of the displays might look fuzzy.</p>
 <p class="p">You can set it so that the two displays have different resolutions, but
   you will not be able to display the same thing on both screens
   simultaneously. In effect, you will have two independent screens connected at

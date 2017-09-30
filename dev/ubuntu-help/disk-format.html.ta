@@ -49,7 +49,10 @@
 <div class="hgroup"><h1 class="title"><span class="title">நீக்கக்கூடிய வட்டிலிருந்து அனைத்தையும் அழிக்கவும்</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">உங்களிடம் USB மெமரி ஸ்டிக் அலல்து வெளிப்புற வன் வட்டு போன்ற நீக்கக்கூடிய வட்டு இருந்தால், அதில் உள்ள கோப்புகள் மற்றும் கோப்புறைகள் அனைத்தையும் மொத்தமாக நீங்கள் அகற்ற விரும்பலாம். வட்டை <span class="em">ஃபார்மேட்</span> செய்வதன் மூலம் இதைச் செய்யலாம், ஃபார்மேட் செய்வது வட்டில் உள்ள அனைத்து கோப்புகளையும் அழித்து வட்டை காலியாக்கும்.</p>
+<p class="p">If you have a removable disk, like a USB memory stick or an external hard
+ disk, you may sometimes wish to completely remove all of its files and
+ folders. You can do this by <span class="em">formatting</span> the disk — this deletes all
+ of the files on the disk and leaves it empty.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">நீக்கக்கூடிய வட்டு ஒன்றை ஃபார்மேட் செய்தல்</span></h2></div>
 <div class="region"><ol class="steps">

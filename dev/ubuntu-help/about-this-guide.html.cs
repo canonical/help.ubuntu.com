@@ -68,7 +68,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="more-help.html" title="Získat další nápovědu">Získat další nápovědu</a><span class="desc"> — <span class="link"><a href="about-this-guide.html" title="O tomto průvodci">Tipy k používání průvodce</a></span>, <span class="link"><a href="get-involved.html" title="Pomozte vylepšit tohoto průvodce">pomoc s vylepšením průvodce</a></span>…</span>
+<a href="more-help.html" title="Získat další nápovědu">Získat další nápovědu</a><span class="desc"> — <span class="link"><a href="about-this-guide.html" title="O tomto průvodci">Tipy k používání průvodce</a></span>, <span class="link"><a href="get-involved.html" title="Pomozte vylepšit překlady">pomoc s vylepšením průvodce</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -63,10 +63,7 @@
 <li class="steps"><p class="p">Válassza ki az előfizetést a csatlakozáshoz használt készüléknek megfelelően. Ez meghatározza a hozzáférési pont nevét. Nyomja meg a <span class="gui">Tovább</span> gombot.</p></li>
 <li class="steps"><p class="p">Erősítse meg a kiválasztott beállításokat az <span class="gui">Alkalmaz</span> gomb megnyomásával. A varázsló bezáródik, és a <span class="gui">Hálózat</span> panel megjeleníti a kapcsolat tulajdonságait.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">Some phones have a setting called <span class="em">USB tethering</span> that requires
-      no setup on the computer. When the setting is activated on the phone, the
-      connection will show up as <span class="gui">Ethernet Connected</span> in the system
-      menu and <span class="gui">USB ethernet</span> in the network panel.</p></div></div></div></div>
+<div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">Egyes telefonok rendelkeznek egy <span class="em">USB-internetmegosztás</span> nevű funkcióval, amely nem igényel beállítást a számítógép oldaláról. Amikor ezt a beállítást aktiválja a telefonon, a kapcsolat a rendszer menüben <span class="gui">Ethernet csatlakozva</span> néven, a hálózat panelen pedig <span class="gui">USB ehternet</span> néven jelenik meg.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

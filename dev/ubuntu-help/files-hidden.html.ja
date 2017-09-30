@@ -53,7 +53,8 @@
   files at your discretion. When a file is hidden, it is not displayed by the
   file manager, but it is still there in its folder.</p>
 <p class="p">ファイルを隠すには、そのファイル名を <span class="file">.</span> で始まる名前に<span class="link"><a href="files-rename.html" title="ファイル、フォルダーの名前を変更する">変更します</a></span>。たとえば、<span class="file">example.txt</span> という名前のファイルを隠しファイルにするには、<span class="file">.example.txt</span> という名前に変更してください。</p>
-<div class="note" title="注記"><div class="inner"><div class="region"><div class="contents"><p class="p">ファイルと同じ方法でフォルダーを隠すことができます。フォルダーの名前の先頭に、<span class="file">.</span> を配置します。</p></div></div></div></div>
+<div class="note" title="注記"><div class="inner"><div class="region"><div class="contents"><p class="p">You can hide folders in the same way that you can hide files. Hide a
+  folder by placing a <span class="file">.</span> at the beginning of the folder’s name.</p></div></div></div></div>
 </div>
 <div id="show-hidden" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">すべての隠しファイルを表示する</span></h2></div>

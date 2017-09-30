@@ -65,7 +65,12 @@
 <li class="steps"><p class="p">Το εικονίδιο δικτύου θα αλλάξει εμφάνιση καθώς ο υπολογιστής προσπαθεί να συνδεθεί στο δίκτυο.</p></li>
 <li class="steps"><p class="p">Αν η σύνδεση είναι επιτυχής, τότε το εικονίδιο θα αλλάξει σε μια τελεία με αρκετές καμπύλες μπάρες από πάνω του (<span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span>). Όσες περισσότερες είναι οι μπάρες τόσο δυνατότερο είναι η σύνδεση στο δίκτυο. Λιγότερες μπάρες σημαίνουν ότι η σύνδεση είναι ασθενέστερη και λιγότερο αξιόπιστη.</p></li>
 </ol></div></div></div>
-<p class="p">Εάν η σύνδεση δεν είναι πετυχημένη, μπορεί να σας ζητηθεί πάλι ο κωδικός προσβασής σας ή μπορεί απλά να σας πει ότι η σύνδεση έχει αποσυνδεθεί. Υπάρχουν πολλά πράγματα που μπορεί να το έχουν προκαλέσει. Μπορεί για παράδειγμα να έχετε εισάγει λάθος κωδικό πρόσβασης, το ασύρματο σήμα μπορεί να είναι υπερβολικά ασθενές ή η ασύρματη κάρτα του υπολογιστή σας μπορεί να έχει πρόβλημα. Δείτε <span class="link"><a href="net-wireless-troubleshooting.html" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Ανιχνευτής προβλημάτων ασύρματου δικτύου</a></span> για περισσότερη βοήθεια.</p>
+<p class="p">If the connection is not successful, you may be asked for your password
+  again or it might just tell you that the connection has been disconnected.
+  There are a number of things that could have caused this to happen. You could
+  have entered the wrong password, the wireless signal could be too weak, or
+  your computer’s wireless card might have a problem, for example. See
+  <span class="link"><a href="net-wireless-troubleshooting.html" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Ανιχνευτής προβλημάτων ασύρματου δικτύου</a></span> for more help.</p>
 <p class="p">Μια πιο ισχυρή σύνδεση σε ένα ασύρματο δίκτυο δεν σημαίνει αναγκαστικά ότι έχετε μια γρηγορότερη σύνδεση διαδικτύου, ή ότι θα έχετε πιο γρήγορες ταχύτητες λήψης. Η ασύρματη σύνδεση συνδέει τον υπολογιστή σας στην <span class="em">συσκευή που παρέχει τη σύνδεση διαδικτύου</span> (όπως ένας δρομολογητής ή μόντεμ), αλλά οι δύο συνδέσεις είναι στην πραγματικότητα διαφορετικές και έτσι εκτελούνται σε διαφορετικές ταχύτητες.</p>
 </div>
 <div class="sect sect-links" role="navigation">

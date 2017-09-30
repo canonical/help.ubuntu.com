@@ -50,15 +50,8 @@
 <div class="region">
 <div class="contents">
 <p class="p">Wenn Sie <span class="app">Kontakte</span> zum ersten mal ausführen, öffnet sich das Fenster <span class="gui">Adressbuch wählen</span>.</p>
-<p class="p">If you have <span class="link"><a href="accounts.html" title="Online-Konten">online accounts</a></span> configured, they
-  are listed with <span class="gui">Local Address Book</span>. Select an item from the
-  list and click <span class="gui">Done</span>. All new contacts you create
-  will be saved to the address book you choose. You are also able to view and
-  edit contacts in other address books.</p>
-<p class="p">If you have no online accounts configured, click
-  <span class="gui">Online Accounts</span> to begin the setup. If you do not
-  wish to set up online accounts at this time, click <span class="gui">Local
-  Address Book</span>.</p>
+<p class="p">Wenn Sie <span class="link"><a href="accounts.html" title="Online-Konten">Online-Konten</a></span> eingerichtet haben, so werden diese zusammen mit dem <span class="gui">lokalen Adressbuch</span> aufgeführt. Wählen Sie einen Eintrag aus der Liste und klicken Sie auf <span class="gui">Fertig</span>. Alle neuen Kontakte, die Sie anlegen, werden in das ausgewählte Adressbuch gespeichert. Selbstverständlich können Sie auch Kontakte in anderen Adressbüchern ansehen und bearbeiten.</p>
+<p class="p">Falls Sie noch keine Online-Konten eingerichtet haben, klicken Sie auf <span class="gui">Online-Konten</span>, um mit der Einrichtung zu beginnen. Sollten Sie zu diesem Zeitpunkt keine Online-Konten einrichten wollen, klicken Sie auf <span class="gui">Lokales Adressbuch</span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

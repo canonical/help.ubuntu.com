@@ -50,15 +50,8 @@
 <div class="region">
 <div class="contents">
 <p class="p">Při prvním spuštění <span class="app">Kontatků</span> se otevře okno <span class="gui">Výběr adresáře</span>.</p>
-<p class="p">If you have <span class="link"><a href="accounts.html" title="Účty on-line">online accounts</a></span> configured, they
-  are listed with <span class="gui">Local Address Book</span>. Select an item from the
-  list and click <span class="gui">Done</span>. All new contacts you create
-  will be saved to the address book you choose. You are also able to view and
-  edit contacts in other address books.</p>
-<p class="p">If you have no online accounts configured, click
-  <span class="gui">Online Accounts</span> to begin the setup. If you do not
-  wish to set up online accounts at this time, click <span class="gui">Local
-  Address Book</span>.</p>
+<p class="p">Pokud máte nastaveny <span class="link"><a href="accounts.html" title="Účty on-line">účty on-line</a></span>, jsou vypsány spolu s <span class="gui">Místním adresářem</span>. Vyberte některou položku v seznamu a klikněte na <span class="gui">Hotovo</span>. Všechny nové kontakty, které vytvoříte, se uloží do adresáře, který jste zvolili. Bude zároveň moci prohlížet a upravovat kontakty v ostatních adresářích.</p>
+<p class="p">Pokud účty on-line nemáte nastaveny, klikněte na <span class="gui">Účty on-line</span>, aby se zahájilo jejich nastavení. Jestliže si nepřejete účty on-line nastavit v tuto chvíli, klikněte na <span class="gui">Místní adresář</span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

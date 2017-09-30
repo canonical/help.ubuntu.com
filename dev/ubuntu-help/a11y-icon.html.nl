@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Find the universal access menu</title>
+<title>Het menu Universele toegang vinden</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,34 +43,29 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Universal access">Universal access</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Universele toegang">Universele toegang</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Find the universal access menu</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Het menu Universele toegang vinden</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">The <span class="em">universal access menu</span> is where you can turn on some of the
-  accessibility settings. You can find this menu by clicking the icon which
-  looks like a person surrounded by a circle on the top bar.</p>
+<p class="p">In het <span class="em">menu Universele toegang</span> kunt u enkele toegankelijkheidsinstellingen inschakelen. U kunt dit menu openen door te klikken op het pictogram dat eruit ziet als een persoon omringd door een cirkel, op de bovenste balk.</p>
 <div class="figure"><div class="inner">
 <a href="#" class="zoom" data-zoom-in-title="Afbeeldingen op normale grootte bekijken" data-zoom-out-title="Afbeeldingen verkleinen"></a><div class="region">
 <div class="contents"><div class="media media-image"><div class="inner"><img src="figures/universal-access-menu.png" class="media media-block" alt=""></div></div></div>
-<div class="desc">The universal access menu can be found on the top bar.</div>
+<div class="desc">Het menu Universele toegang kunt u vinden op de bovenste balk.</div>
 </div>
 </div></div>
-<p class="p">If you do not see the universal access menu, you can enable it from the
-  <span class="gui">Universal Access</span> settings panel:</p>
+<p class="p">Als u het menu Universele toegang niet ziet, kunt u het inschakelen vanuit het <span class="gui">Universele toegang</span>-instellingenpaneel.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Universal Access</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Universal Access</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Always Show Universal Access Menu</span> to
-      <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Universele toegang</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Universele toegang</span> om het paneel te openen.</p></li>
+<li class="steps"><p class="p">Zet <span class="gui">Menu Universele toegang altijd tonen</span> <span class="gui">AAN</span>.</p></li>
 </ol></div></div></div>
 <p class="p">To access this menu using the keyboard rather than the mouse, press
   <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> to move the
   keyboard focus to the top bar. A white line will appear underneath the
-  <span class="gui">Activities</span> button - this tells you which item on the top bar is
+  <span class="gui">Activities</span> button — this tells you which item on the top bar is
   selected. Use the arrow keys on the keyboard to move the white line under the
   universal access menu icon and then press <span class="key"><kbd>Enter</kbd></span> to open it. You
   can use the up and down arrow keys to select items in the menu. Press
@@ -81,13 +76,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="a11y.html" title="Universal access">Universal access</a><span class="desc"> — 
-     <span class="link"><a href="a11y.html#vision" title="Visual impairments">Seeing</a></span>,
-     <span class="link"><a href="a11y.html#sound" title="Hearing impairments">hearing</a></span>,
-     <span class="link"><a href="a11y.html#mobility" title="Mobility impairments">mobility</a></span>,
-     <span class="link"><a href="a11y-braille.html" title="Read screen in Braille">braille</a></span>,
-     <span class="link"><a href="a11y-mag.html" title="Magnify a screen area">screen magnifier</a></span>…
-    </span>
+<a href="a11y.html" title="Universele toegang">Universele toegang</a><span class="desc"> — <span class="link"><a href="a11y.html#vision" title="Visuele beperkingen">Zicht</a></span>, <span class="link"><a href="a11y.html#sound" title="Gehoorbeperkingen">gehoor</a></span>, <span class="link"><a href="a11y.html#mobility" title="Beperkte mobiliteit">mobiliteit</a></span>, <span class="link"><a href="a11y-braille.html" title="Het scherm in braille lezen">braille</a></span>, <span class="link"><a href="a11y-mag.html" title="Een schermgebied vergroten">vergrootglas</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

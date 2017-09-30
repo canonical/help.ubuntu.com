@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Write files to a CD or DVD</title>
+<title>Bestanden naar cd of dvd schrijven</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,64 +43,48 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Write files to a CD or DVD</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Bestanden naar cd of dvd schrijven</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can put files onto a blank disc by using <span class="gui">CD/DVD Creator</span>.
-  The option to create a CD or DVD will appear in the file manager as soon as
-  you place the CD into your CD/DVD writer. The file manager lets you transfer
-  files to other computers or perform <span class="link"><a href="backup-why.html" title="Back up your important files">backups</a></span> by
-  putting files onto a blank disc. To write files to a CD or DVD:</p>
+<p class="p">Met de toepassing <span class="gui">cd/dvd branden</span> kunt u bestanden op een lege schijf branden. Zodra u een cd in het cd/dvd-station plaatst, verschijnt in het bestandsbeheer de optie om een cd of dvd aan te maken. Het bestandsbeheer maakt het makkelijk om bestanden over te brengen naar andere computers of om <span class="link"><a href="backup-why.html" title="Reservekopieën maken van uw belangrijke bestanden">reservekopieën</a></span> te maken door bestanden op een lege cd/dvd te zetten. Om bestanden naar een lege cd of dvd te schrijven:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Place an empty disc into your CD/DVD writable drive.</p></li>
+<li class="steps"><p class="p">xPlaats een lege schijf in uw cd/dvd-station.</p></li>
 <li class="steps">
-<p class="p">In the <span class="gui">Blank CD/DVD-R Disc</span> notification that pops up at the
-      bottom of the screen, select <span class="gui">Open with CD/DVD Creator</span>. The
-      <span class="gui">CD/DVD Creator</span> folder window will open.</p>
-<p class="p">(You can also click on <span class="gui">Blank CD/DVD-R Disc</span> under
-      <span class="gui">Devices</span> in the file manager sidebar.)</p>
+<p class="p">Kies in het venster <span class="gui">Lege cd/dvd-r-schijf</span>, dat onderaan het scherm verschijnt, <span class="gui">Openen met CD/DVD Creator</span>. Het venster <span class="gui">CD/DVD Creator</span> wordt geopend. </p>
+<p class="p">(U kunt ook klikken op <span class="gui">Lege cd/dvd-schijf</span> onder <span class="gui">Apparaten</span> in de zijbalk van bestandsbeheer.)</p>
 </li>
-<li class="steps"><p class="p">In the <span class="gui">Disc Name</span> field, type a name for the disc.</p></li>
-<li class="steps"><p class="p">Drag or copy the desired files into the window.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Write to Disc</span>.</p></li>
+<li class="steps"><p class="p">Typ in het veld <span class="gui">Schijfnaam</span> een naam in voor de schijf.</p></li>
+<li class="steps"><p class="p">Sleep of de gewenste bestanden naar het venster.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Naar schijf schrijven</span>.</p></li>
 <li class="steps">
-<p class="p">Under <span class="gui">Select a disc to write to</span>, choose the blank disc.</p>
-<p class="p">(You could choose <span class="gui">Image file</span> instead. This will put the
-      files in a <span class="em">disc image</span>, which will be saved on your computer. You
-      can then burn that disc image onto a blank disc at a later date.)</p>
+<p class="p">Kies onder <span class="gui">Selecteer een schijf om naar toe te schrijven</span> de lege schijf.</p>
+<p class="p">(U kunt ook <span class="gui">Schijfkopiebestand</span> kiezen. Dit zal de bestanden plaatsen in een <span class="em">schijfkopie</span> die op uw computer zal worden opgeslagen. Daarna kunt u op een later tijdstip die schijfkopie op een lege schijf branden.</p>
 </li>
-<li class="steps"><p class="p">Click <span class="gui">Properties</span> if you want to adjust burning speed, the
-      location of temporary files, and other options. The default options
-      should be fine.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Eigenschappen</span> om de brandsnelheid, de locatie van de tijdelijke bestanden, en andere opties aan te passen. De standaard opties zouden goed genoeg moeten zijn.</p></li>
 <li class="steps">
-<p class="p">Click the <span class="gui">Burn</span> button to begin recording.</p>
-<p class="p">If <span class="gui">Burn Several Copies</span> is selected, you will be prompted
-      for additional discs.</p>
+<p class="p">Klik op de knop <span class="gui">Branden</span> om het opnemen te starten.</p>
+<p class="p">Als <span class="gui">Verschillende kopieën branden</span> geselecteerd is, wordt er om extra schijven gevraagd.</p>
 </li>
-<li class="steps"><p class="p">When the disc burning is complete, it will eject automatically. Choose
-      <span class="gui">Make More Copies</span> or <span class="gui">Close</span> to exit.</p></li>
+<li class="steps"><p class="p">Wanneer het branden van schijven is voltooid, zal deze automatisch worden uitgeworpen. Kies <span class="gui">Meer kopieën maken</span> of <span class="gui">Sluiten</span> om af te sluiten.</p></li>
 </ol></div></div></div>
 </div>
 <div id="problem" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">If the disc wasn't burned properly</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">If the disc wasn’t burned properly</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Sometimes the computer doesn't record the data correctly, and you won't be
+<p class="p">Sometimes the computer doesn’t record the data correctly, and you won’t be
   able to see the files you put onto the disc when you insert it into a
   computer.</p>
-<p class="p">In this case, try burning the disc again but use a lower burning speed,
-  for example, 12x rather than 48x. Burning at slower speeds is more reliable.
-  You can choose the speed by clicking the <span class="gui">Properties</span> button in the
-  <span class="gui">CD/DVD Creator</span> window.</p>
+<p class="p">Probeer in dit geval de schijf opnieuw te branden, maar gebruik daarbij een lagere brandsnelheid, bijvoorbeeld 12x in plaats van 48x. Met een lagere snelheid branden is betrouwbaarder. U kunt de snelheid kiezen door te klikken op de knop <span class="gui">Eigenschappen</span> in het venster <span class="gui">cd/dvd branden</span>.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

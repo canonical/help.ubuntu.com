@@ -57,11 +57,22 @@
   also protected.</p>
 <p class="p">Защита заключается в том, что изменять эти файлы или использовать приложения, изменяющие их, могут только пользователи с <span class="em">правами администратора</span>. В повседневной работе нет необходимости изменять системные файлы или использовать защищённые приложения, поэтому по умолчанию у вас нет прав доступа администратора.</p>
 <p class="p">Иногда может возникнуть необходимость в использовании этих приложений, поэтому можно временно получить права администратора, чтобы внести изменения. Если приложение требует административных полномочий, то вам будет предложено ввести пароль. Например, если вы хотите установить новые программы, установщик приложений (менеджер пакетов) предложит ввести пароль, чтобы получить возможность добавить новое приложение в систему. Как только установка завершится, вы снова лишитесь прав администратора.</p>
-<p class="p">Права администратора связаны с учётной записью пользователя. У пользователей-<span class="gui">Администраторов</span> эти права есть, у <span class="gui">Обычных</span> пользователей — нет. Без прав администратора вы не сможете устанавливать программы. Некоторые учётные записи (например, «root») имеют постоянные права администратора. Не следует работать с правами администратора постоянно, поскольку вы можете случайно изменить что-нибудь (например, удалить важные системные файлы).</p>
+<p class="p">Administrative privileges are associated with your user account.
+  <span class="gui">Administrator</span> users are allowed to have these privileges while
+  <span class="gui">Standard</span> users are not. Without administrative privileges you will
+  not be able to install software. Some user accounts (for example, the “root”
+  account) have permanent administrative privileges. You should not use
+  administrative privileges all of the time, because you might accidentally
+  change something you did not intend to (like delete a needed system file, for
+  example).</p>
 <p class="p">Если обобщить, административные полномочия позволяют изменять важные компоненты системы, но не дают сделать это случайно.</p>
 <div class="note" title="Примечание"><div class="inner">
-<div class="title title-note"><h2><span class="title">Кто такой «суперпользователь»?</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Пользователя с административными полномочиями иногда называют <span class="em">суперпользователем</span> просто потому, что этот пользователь имеет больше прав, чем обычные пользователи. Возможно, вам случалось видеть, как люди обсуждают <span class="cmd">su</span> и <span class="cmd">sudo</span> — это программы, временно дающие вам права «суперпользователя» (администратора).</p></div></div>
+<div class="title title-note"><h2><span class="title">What does “super user” mean?</span></h2></div>
+<div class="region"><div class="contents"><p class="p">A user with administrative privileges is sometimes called a <span class="em">super
+    user</span>. This is simply because that user has more privileges than normal
+    users. You might see people discussing things like <span class="cmd">su</span> and
+    <span class="cmd">sudo</span>; these are programs for temporarily giving you “super user”
+    (administrative) privileges.</p></div></div>
 </div></div>
 </div>
 <div id="advantages" class="sect"><div class="inner">
@@ -69,7 +80,11 @@
 <div class="region"><div class="contents">
 <p class="p">Требование обладать правами администратора для внесения важных изменений в систему полезно потому, что оно помогает предотвратить повреждение системы, случайное или намеренное.</p>
 <p class="p">Если иметь права администратора постоянно, то можно случайно изменить важный файл или запустить приложение, которое может ошибочно изменить что-то важное. Временное предоставление прав администратора, только тогда, когда они действительно нужны, уменьшает риск подобных ошибок.</p>
-<p class="p">Получать права администратора должны лишь надёжные, доверенные пользователи. Это не позволит другим пользователям создавать хаос в системе, например, удаляя нужные вам приложения, устанавливая ненужные приложения или изменяя важные файлы. Это полезно с точки зрения безопасности.</p>
+<p class="p">Only certain trusted users should be allowed to have administrative
+  privileges. This prevents other users from messing with the computer and
+  doing things like uninstalling applications that you need, installing
+  applications that you don’t want, or changing important files. This is useful
+  from a security standpoint.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -83,10 +98,10 @@
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="printing-setup-default-printer.html" title="Выбор принтера, используемого по умолчанию">Выбор принтера, используемого по умолчанию</a><span class="desc"> — Выберите принтер, которым пользуетесь чаще всего.</span>
+<a href="net-othersedit.html" title="Other users can’t edit the network connections">Other users can’t edit the network connections</a><span class="desc"> — Надо отключить опцию <span class="gui">Доступно всем пользователям</span> в параметрах сетевого соединения.</span>
 </li>
 <li class="links ">
-<a href="net-othersedit.html" title="Другие пользователи не могут изменять сетевые подключения">Другие пользователи не могут изменять сетевые подключения</a><span class="desc"> — Надо отключить опцию <span class="gui">Доступно всем пользователям</span> в параметрах сетевого соединения.</span>
+<a href="printing-setup-default-printer.html" title="Выбор принтера, используемого по умолчанию">Выбор принтера, используемого по умолчанию</a><span class="desc"> — Выберите принтер, которым пользуетесь чаще всего.</span>
 </li>
 <li class="links ">
 <a href="user-changepassword.html" title="Изменение пароля">Изменение пароля</a><span class="desc"> — Обеспечьте безопасность своей учётной записи с помощью частого изменения пароля.</span>

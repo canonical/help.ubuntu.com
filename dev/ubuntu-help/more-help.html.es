@@ -57,10 +57,7 @@
 <div class="linkdiv "><a class="linkdiv" href="about-this-guide.html" title="Acerca de esta guía"><span class="title">Acerca de esta guía</span><span class="linkdiv-dash"> — </span><span class="desc">Unos pocos consejos sobre el uso de la Guía del escritorio de Ubuntu.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="report-ubuntu-bug.html" title="Informar de un problema en Ubuntu"><span class="title">Informar de un problema en Ubuntu</span><span class="linkdiv-dash"> — </span><span class="desc">Cómo y dónde informar de problemas con Ubuntu.</span></a></div>
 </div>
-<div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="translate.html" title="Participate to improve translations"><span class="title">Participate to improve translations</span><span class="linkdiv-dash"> — </span><span class="desc">How and where to help translate these topics.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="get-involved.html" title="Participe para mejorar esta guía"><span class="title">Participe para mejorar esta guía</span><span class="linkdiv-dash"> — </span><span class="desc">Cómo y dónde informar errores en estos temas de ayuda.</span></a></div>
-</div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="get-involved.html" title="Participe para mejorar esta guía"><span class="title">Participe para mejorar esta guía</span><span class="linkdiv-dash"> — </span><span class="desc">Cómo y dónde informar errores en estos temas de ayuda.</span></a></div></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">

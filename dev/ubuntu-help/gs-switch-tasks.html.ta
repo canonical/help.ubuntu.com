@@ -57,9 +57,11 @@
 <video src="figures/gnome-task-switching.webm" preload="auto" controls="controls" class="media media-block" height="394" width="700" data-play-label="இயக்கு" data-pause-label="தாமதி"></video><div class="media-ttml">
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="1" data-ttml-end="5"><div class="media-ttml-node media-ttml-p" data-ttml-begin="1" data-ttml-end="5">பணிகளுக்கிடையே மாறுதல்</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="9" data-ttml-end="12"><div class="media-ttml-node media-ttml-p" data-ttml-begin="9" data-ttml-end="12">ஒரு பணிக்குச் செல்ல அதற்குரிய சாளரத்தைச் சொடுக்கவும்.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="12" data-ttml-end="14"><div class="media-ttml-node media-ttml-p" data-ttml-begin="12" data-ttml-end="14">திரையின் இடப்புறம் பக்கவாட்டில் ஒரு சாளரத்தைப் பெரிதாக்க, சாளரத்தின் தலைப்புப் பட்டியைப் பிடித்து, அதை திரையின் இடப்புறம் இழுத்துச் செல்லவும்.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="12" data-ttml-end="14"><div class="media-ttml-node media-ttml-p" data-ttml-begin="12" data-ttml-end="14">To maximize a window along the left side of the screen, grab
+            the window’s titlebar and drag it to the left.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="14" data-ttml-end="16"><div class="media-ttml-node media-ttml-p" data-ttml-begin="14" data-ttml-end="16">திரையில் பாதி தனிப்படுத்தப்பட்டிருக்கும் போது, சாளரத்தை விடுவிக்கவும்.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="16" data-ttml-end="0"><div class="media-ttml-node media-ttml-p" data-ttml-begin="16" data-ttml-end="0">வலப்புறம் பக்கவாட்டில் ஒரு சாளரத்தைப் பெரிதாக்க, சாளரத்தின் தலைப்புப் பட்டியைப் பிடித்து, அதை வலப்புறம் இழுத்துச் செல்லவும்.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="16" data-ttml-end="0"><div class="media-ttml-node media-ttml-p" data-ttml-begin="16" data-ttml-end="0">To maximize a window along the right side, grab the window’s
+            titlebar and drag it to the right.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="18" data-ttml-end="20"><div class="media-ttml-node media-ttml-p" data-ttml-begin="18" data-ttml-end="20">திரையில் பாதி தனிப்படுத்தப்பட்டிருக்கும் போது, சாளரத்தை விடுவிக்கவும்.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="23" data-ttml-end="27"><div class="media-ttml-node media-ttml-p" data-ttml-begin="23" data-ttml-end="27">
 <span class="gui">சாளர மாற்றியைக்</span> காண்பிக்க <span class="keyseq"><span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>+<span class="key"><kbd> Tab</kbd></span></span> ஐ அழுத்தவும்.</div></div>
@@ -82,7 +84,8 @@
 <div id="switching-tasks-tiling" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">சாளரங்களை கட்ட அமைப்பில் வை</span></h2></div>
 <div class="region"><div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">திரையின் பக்கவாட்டில் ஒரு சாளரத்தைப் பெரிதாக்க, சாளரத்தின் தலைப்புப் பட்டியைப் பிடித்து, அதை திரையின் இட அல்லது வலப்புறம் இழுத்துச் செல்லவும்.</p></li>
+<li class="steps"><p class="p">To maximize a window along a side of the screen, grab the window’s
+       titlebar and drag it to the left or right side of the screen.</p></li>
 <li class="steps"><p class="p">திரையில் பாதி தனிப்படுத்தப்பட்டிருக்கும் போது, சாளரத்தை திரையின் தேர்ந்தெடுக்கப்பட்ட பக்கமாக பெரிதாக்க, சாளரத்தை விடுவிக்கவும்.</p></li>
 <li class="steps"><p class="p">இரண்டு சாளரங்களை பக்கத்திற்கொன்றாக பெரிதாக்க, இரண்டாவது சாளரத்தின் தலைப்புப் பட்டியைப் பிடித்து திரையின் எதிர்ப்பக்கத்திற்கு இழுத்துச் செல்லவும்.</p></li>
 <li class="steps"><p class="p">திரையில் பாதி தனிப்படுத்தப்பட்டிருக்கும் போது, சாளரத்தை திரையின் எதிர்ப்புறமாக பெரிதாக்க, சாளரத்தை விடுவிக்கவும்.</p></li>

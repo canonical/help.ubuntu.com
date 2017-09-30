@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>The Lock Screen</title>
+<title>Het vergrendelingsscherm</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,10 +43,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Desktop</a> › <a class="trail" href="shell-overview.html#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">The Lock Screen</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Het vergrendelingsscherm</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">The lock screen means that you can see what is happening while your
@@ -58,7 +58,7 @@
 <li class="list"><p class="p">the name of the logged-in user</p></li>
 <li class="list"><p class="p">date and time, and certain notifications</p></li>
 <li class="list"><p class="p">battery and network status</p></li>
-<li class="list"><p class="p">the ability to control media playback - change the volume, skip a
+<li class="list"><p class="p">the ability to control media playback — change the volume, skip a
     track or pause your music without having to enter a password</p></li>
 </ul></div></div></div>
 <p class="p">To unlock your computer, raise the lock screen curtain by dragging it

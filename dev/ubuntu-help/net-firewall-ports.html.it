@@ -49,7 +49,11 @@
 <div class="hgroup"><h1 class="title"><span class="title">Porte di rete comunemente usate</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Questo è un elenco di porte di rete comunemente usate dalle applicazioni che forniscono servizi, come la condivisione di file o la visualizzazione remota del desktop. È possibile modificare il firewall di sistema per <span class="link"><a href="net-firewall-on-off.html" title="Abilitare o bloccare l'accesso al firewall">bloccare o consentire l'accesso</a></span> a questa applicazioni. Ci sono migliaia di porte in uso, quindi questa tabella non è completa.</p>
+<p class="p">This is a list of network ports commonly used by applications that provide
+  network services, like file sharing or remote desktop viewing. You can change
+  your system’s firewall to <span class="link"><a href="net-firewall-on-off.html" title="Abilitare o bloccare l'accesso al firewall">block or allow
+  access</a></span> to these applications. There are thousands of ports in use, so
+  this table isn’t complete.</p>
 <div class="table"><div class="inner"><div class="region"><table class="table" style="border-top-style: solid;">
 <thead><tr>
 <td><p class="p">Porta</p></td>
@@ -75,7 +79,8 @@
 <tr>
 <td><p class="p">5298/tcp</p></td>
 <td><p class="p">Presenza</p></td>
-<td><p class="p">Consente di comunicare lo stato di messaggistica istantanea, come «in linea» o «occupato», ad altre persone in rete.</p></td>
+<td><p class="p">Allows you to advertise your instant messaging status to other
+          people on the network, such as “online” or “busy”.</p></td>
 </tr>
 <tr class="shade">
 <td><p class="p">5900/tcp</p></td>

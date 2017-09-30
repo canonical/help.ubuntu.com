@@ -60,7 +60,11 @@
 <dd class="terms"><p class="p">Изменив это поле, можно переименовать файл. Существует и другой способ переименования файла: смотрите <span class="link"><a href="files-rename.html" title="Переименование файла или папки">Переименование файла или папки</a></span>.</p></dd>
 <dt class="terms"><span class="gui">Type</span></dt>
 <dd class="terms">
-<p class="p">Позволяет определить тип файла, например: документ PDF, текст OpenDocument или изображение в формате JPEG. От типа файла, кроме того, зависит то, в каком приложении его можно открыть. Например, нельзя открыть изображение в музыкальном проигрывателе. Подробнее об этом смотрите <span class="link"><a href="files-open.html" title="Открытие файлов в другом приложении">Открытие файлов в другом приложении</a></span>.</p>
+<p class="p">This helps you identify the type of the file, such as PDF document,
+    OpenDocument Text, or JPEG image. The file type determines which
+    applications can open the file, among other things. For example, you
+    can’t open a picture with a music player. See <span class="link"><a href="files-open.html" title="Открытие файлов в другом приложении">Открытие файлов в другом приложении</a></span>
+    for more information on this.</p>
 <p class="p"><span class="em">Тип MIME</span> файла показывается в скобках; тип MIME — это стандартный способ, который используют компьютеры для определения типа файла.</p>
 </dd>
 <dt class="terms">Содержание</dt>
@@ -72,7 +76,7 @@
 </dd>
 <dt class="terms">Parent Folder</dt>
 <dd class="terms"><p class="p">The location of each file on your computer is given by its <span class="em">absolute
-    path</span>. This is a unique "address" of the file on your computer, made up
+    path</span>. This is a unique “address” of the file on your computer, made up
     of a list of the folders that you would need to go into to find the file.
     For example, if Jim had a file called <span class="file">Resume.pdf</span> in his Home
     folder, its parent folder would be <span class="file">/home/jim</span> and its location

@@ -49,14 +49,14 @@
 <div class="hgroup"><h1 class="title"><span class="title">Säädä kontrastia</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can adjust the contrast of windows and buttons so that they're easier
+<p class="p">You can adjust the contrast of windows and buttons so that they’re easier
   to see. This is not the same as 
   changing the brightness of the whole screen; only parts of the
   <span class="em">user interface</span> will change.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Universal Access</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Napsauta <span class="gui">Esteettömyys</span> avataksesi paneelin.</p></li>
 <li class="steps"><p class="p">Switch <span class="gui">High Contrast</span> to <span class="gui">ON</span> in the
       <span class="gui">Seeing</span> section.</p></li>
 </ol></div></div></div>
@@ -77,7 +77,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="display-brightness.html" title="Set screen brightness">Set screen brightness</a><span class="desc"> — Change the screen brightness to make it more readable in bright
+<a href="display-brightness.html" title="Aseta näytön kirkkaus">Aseta näytön kirkkaus</a><span class="desc"> — Change the screen brightness to make it more readable in bright
     light.</span>
 </li></ul></div>
 </div></div>

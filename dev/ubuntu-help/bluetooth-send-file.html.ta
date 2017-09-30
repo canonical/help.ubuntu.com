@@ -53,7 +53,11 @@
 <div class="hgroup"><h1 class="title"><span class="title">ஒரு Bluetooth சாதனத்திற்கு கோப்புகளை அனுப்புதல்</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">சில மொபைல் தொலைபேசிகள் அல்லது மற்ற கணினிகள் போன்று இணைக்கப்பட்டுள்ள Bluetooth சாதனங்களுக்கு நீங்கள் கோப்புகளை அனுப்ப முடியும். சில வகை சாதனங்கள் கோப்புகள் பரிமாற்றத்தை அனுமதிக்காது அல்லது குறிப்பிட்ட சில வகை கோப்புகளின் பரிமாற்றத்தை அனுமதிக்காது. கோப்புகளை அனுப்ப மூன்று வழிகள் உள்ளன: மெனு பட்டியில் உள்ள Bluetooth சின்னத்தைப் பயன்படுத்தி அனுப்பலாம், Bluetooth அமைவுகள் சாளரத்திலிருந்து அனுப்பலாம் அல்லது கோப்பு நிர்வாகியில் இருந்து நேரடியாக அனுப்பலாம்.</p>
+<p class="p">You can send files to connected Bluetooth devices, such as some mobile
+    phones or other computers. Some types of devices don’t allow the transfer
+    of files, or specific types of files. You can send files in one of three
+    ways: using the Bluetooth icon in the menu bar, from the Bluetooth settings
+    window, or directly from the file manager.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
       start typing <span class="gui">Bluetooth</span>.</p></li>

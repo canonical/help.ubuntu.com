@@ -66,12 +66,12 @@
 </div></div>
 <p class="p">If you deleted the file by pressing <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Delete
   </kbd></span></span>, or by using the command line, the file has been permanently
-  deleted. Files that have been permanently deleted can't be recovered from the
+  deleted. Files that have been permanently deleted can’t be recovered from the
   <span class="gui">Trash</span>.</p>
 <p class="p">There are a number of recovery tools available that are sometimes able to
   recover files that were permanently deleted. These tools are generally not
   very easy to use, however. If you accidentally permanently deleted a file,
-  it's probably best to ask for advice on a support forum to see if you can
+  it’s probably best to ask for advice on a support forum to see if you can
   recover it.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -88,7 +88,8 @@
 <a href="files-delete.html" title="Delete files and folders">Delete files and folders</a><span class="desc"> — Remove files or folders you no longer need.</span>
 </li>
 <li class="links ">
-<a href="files-lost.html" title="ಕಳೆದುಹೋದ ಕಡತವನ್ನು ಹುಡುಕು">ಕಳೆದುಹೋದ ಕಡತವನ್ನು ಹುಡುಕು</a><span class="desc"> — ನೀವು ರಚಿಸಲಾದ ಅಥವ ಇಳಿಸಿಕೊಳ್ಳಲಾದ ಯಾವುದೆ ಕಡತವು ಕಂಡುಬರದೆ ಇದ್ದಲ್ಲಿ ಈ ಸಲಹೆಗಳನ್ನು ಅನುಸರಿಸಿ.</span>
+<a href="files-lost.html" title="ಕಳೆದುಹೋದ ಕಡತವನ್ನು ಹುಡುಕು">ಕಳೆದುಹೋದ ಕಡತವನ್ನು ಹುಡುಕು</a><span class="desc"> — Follow these tips if you can’t find a file you created or
+    downloaded.</span>
 </li>
 </ul></div>
 </div></div>

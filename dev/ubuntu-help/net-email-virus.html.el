@@ -54,8 +54,19 @@
 <div class="region">
 <div class="contents">
 <p class="p">Οι ιοί είναι προγράμματα που προκαλούν προβλήματα εάν καταφέρουν να βρουν τον δρόμο τους στον υπολογιστή σας. Ένας συνηθισμένος τρόπος τους για να μπουν στον υπολογιστή σας είναι μέσα από μηνύματα ηλεκτρονικής αλληλογραφίας.</p>
-<p class="p">Οι ιοί που μπορούν να επηρεάσουν υπολογιστές που εκτελούν Linux είναι αρκετά σπάνιοι, έτσι είναι <span class="link"><a href="net-antivirus.html" title="Χρειάζομαι λογισμικό προστασίας από ιούς;"> απίθανο να πάρετε έναν ιό μέσα από ηλεκτρονική αλληλογραφία ή αλλιώς</a></span>. Εάν δεχτείτε ένα μήνυμα με έναν κρυφό ιό σε αυτό, δεν θα έχει προφανώς καμιά επίδραση στον υπολογιστή σας. Έτσι, δεν χρειάζεται να σαρώσετε την ηλεκτρονική σας αλληλογγραφία για ιούς.</p>
-<p class="p">Μπορείτε, όμως, να θελήσετε να σαρώσετε την ηλεκτρονική σας αλληλογγραφία για ιούς σε περίπτωση που συμβεί να προωθήσετε έναν ιό από ένα άτομο σε ένα άλλο. Για παράδειγμα, εάν ένας φίλος σας έχει έναν υπολογιστή Windows με έναν ιό και σας στέλνει ένα μήνυμα που είναι με ιό και στη συνέχεια προωθήσετε αυτό το μήνυμα σε έναν άλλο φίλο με υπολογιστή Windows, τότε ο δεύτερος φίλος σας μπορεί να πάρει τον ιό επίσης. Μπορείτε να εγκαταστήσετε μια αντιική εφαρμογή για να σαρώνετε τα μηνύματά σας για να το αποφύγετε, αλλά είναι απίθανο να συμβεί και τα περισσότερα άτομα που χρησιμοποιούν Windows και Mac OS έχουν δικό τους αντιικό λογισμικό.</p>
+<p class="p">Viruses that can affect computers running Linux are quite rare, so you are
+  <span class="link"><a href="net-antivirus.html" title="Χρειάζομαι λογισμικό προστασίας από ιούς;">unlikely to get a virus through email or
+  otherwise</a></span>. If you receive an email with a virus hidden in it, it will
+  probably have no effect on your computer. As such, you probably don’t need to
+  scan your email for viruses.</p>
+<p class="p">You may, however, wish to scan your email for viruses in case you happen
+  to forward a virus from one person to another. For example, if one of your
+  friends has a Windows computer with a virus and sends you a virus-infected
+  email, and you then forward that email to another friend with a Windows
+  computer, then the second friend might get the virus too. You could install
+  an anti-virus application to scan your emails to prevent this, but it’s
+  unlikely to happen and most people using Windows and Mac OS have anti-virus
+  software of their own anyway.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -78,7 +89,8 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-antivirus.html" title="Χρειάζομαι λογισμικό προστασίας από ιούς;">Χρειάζομαι λογισμικό προστασίας από ιούς;</a><span class="desc"> — Υπάρχουν λίγοι ιοί στο Linux, έτσι προφανώς δεν χρειαζόσαστε λογισμικό προστασίας από ιούς.</span>
+<a href="net-antivirus.html" title="Χρειάζομαι λογισμικό προστασίας από ιούς;">Χρειάζομαι λογισμικό προστασίας από ιούς;</a><span class="desc"> — There are few Linux viruses, so you probably don’t need anti-virus
+    software.</span>
 </li></ul></div>
 </div></div>
 </div>

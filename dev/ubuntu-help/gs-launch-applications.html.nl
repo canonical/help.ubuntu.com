@@ -93,7 +93,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-apps-open.html" title="Start applications">Start applications</a><span class="desc"> — Launch apps from the <span class="gui">Activities</span> overview.</span>
+<a href="shell-apps-open.html" title="Toepassingen starten">Toepassingen starten</a><span class="desc"> — Launch apps from the <span class="gui">Activities</span> overview.</span>
 </li></ul></div>
 </div></div>
 </div>

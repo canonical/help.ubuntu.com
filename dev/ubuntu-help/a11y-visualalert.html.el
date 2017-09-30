@@ -50,7 +50,9 @@
 <div class="region">
 <div class="contents">
 <p class="p">Ο υπολογιστής σας θα παίξει έναν απλό ήχο ειδοποίησης για συγκεκριμένους τύπους μηνυμάτων και συμβάντων. Εάν δυσκολεύεστε να ακούσετε αυτούς τους ήχους, μπορείτε να κάνετε ή όλη την οθόνη ή το τρέχον παράθυρο να αναλάμψει οπτικά όποτε παίζεται ο ήχος ειδοποίησης.</p>
-<p class="p">Αυτό μπορεί επίσης να είναι χρήσιμο εάν είσαστε σε ένα περιβάλλον όπου χρειάζεστε ο υπολογιστής σας να είναι σιωπηλός, όπως σε μια βιβλιοθήκη. Δείτε <span class="link"><a href="sound-alert.html" title="Επιλογή ή απενεργοποίηση του ήχου ειδοποίησης">Επιλογή ή απενεργοποίηση του ήχου ειδοποίησης</a></span> για να μάθετε πώς να πάψετε τον ήχο ειδοποίησης, έπειτα ενεργοποιήστε τις οπτικές ειδοποιήσεις.</p>
+<p class="p">This can also be useful if you’re in an environment where you need your
+  computer to be silent, such as in a library. See <span class="link"><a href="sound-alert.html" title="Επιλογή ή απενεργοποίηση του ήχου ειδοποίησης">Επιλογή ή απενεργοποίηση του ήχου ειδοποίησης</a></span>
+  to learn how to mute the alert sound, then enable visual alerts.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Γενική πρόσβαση</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Γενική πρόσβαση</span> για να ανοίξετε τον πίνακα.</p></li>

@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Networking terms &amp; tips</title>
+<title>Netwerktermen &amp; -tips</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,20 +43,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Networking terms &amp; tips</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Netwerktermen &amp; -tips</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-proxy.html" title="Define proxy settings"><span class="title">Define proxy settings</span><span class="linkdiv-dash"> — </span><span class="desc">A proxy is an intermediary for web traffic, it can be used for accessing web services anonymously, for control or security purposes.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-findip.html" title="Find your IP address"><span class="title">Find your IP address</span><span class="linkdiv-dash"> — </span><span class="desc">Knowing your IP address can help you troubleshoot network problems.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-security-tips.html" title="Staying safe on the internet"><span class="title">Staying safe on the internet</span><span class="linkdiv-dash"> — </span><span class="desc">General tips to keep in mind when using the internet.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-proxy.html" title="Proxy-instellingen definiëren"><span class="title">Proxy-instellingen definiëren</span><span class="linkdiv-dash"> — </span><span class="desc">A proxy is an intermediary for web traffic, it can be used for accessing web services anonymously, for control or security purposes.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-findip.html" title="Uw IP-adres achterhalen"><span class="title">Uw IP-adres achterhalen</span><span class="linkdiv-dash"> — </span><span class="desc">Weten wat uw IP-adres is kan helpen bij het oplossen van netwerkproblemen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-security-tips.html" title="Veilig blijven op het internet"><span class="title">Veilig blijven op het internet</span><span class="linkdiv-dash"> — </span><span class="desc">Algemene tips om in gedachten te houden bij het gebruik van het internet.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-macaddress.html" title="What is a MAC address?"><span class="title">What is a MAC address?</span><span class="linkdiv-dash"> — </span><span class="desc">The unique identifier assigned to network hardware.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-what-is-ip-address.html" title="What is an IP address?"><span class="title">What is an IP address?</span><span class="linkdiv-dash"> — </span><span class="desc">An IP Address is like a phone number for your computer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-what-is-ip-address.html" title="Wat is een IP-adres?"><span class="title">Wat is een IP-adres?</span><span class="linkdiv-dash"> — </span><span class="desc">Een IP-adres is als een telefoonnummer voor uw computer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-macaddress.html" title="Wat is een MAC-adres?"><span class="title">Wat is een MAC-adres?</span><span class="linkdiv-dash"> — </span><span class="desc">De unieke code toegekend aan netwerkhardware.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -65,22 +65,22 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless.html" title="Wireless Networking">Wireless</a></span>,
-      <span class="link"><a href="net-wired.html" title="Wired Networking">wired</a></span>,
-      <span class="link"><a href="net-problem.html" title="Network problems">connection problems</a></span>,
-      <span class="link"><a href="net-browser.html" title="Web Browsers">web browsing</a></span>,
-      <span class="link"><a href="net-email.html" title="Email &amp; email software">email accounts</a></span>…
+<a href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a><span class="desc"> — 
+      <span class="link"><a href="net-wireless.html" title="Draadloos netwerk">Wireless</a></span>,
+      <span class="link"><a href="net-wired.html" title="Bekabeld netwerk">wired</a></span>,
+      <span class="link"><a href="net-problem.html" title="Netwerkproblemen">connection problems</a></span>,
+      <span class="link"><a href="net-browser.html" title="Webbrowsers">web browsing</a></span>,
+      <span class="link"><a href="net-email.html" title="E mail &amp; e-mailsoftware">email accounts</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Wireless Networking">Wireless Networking</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html" title="Connect to a wireless network">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="Connect to a hidden wireless network">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="Why does my wireless network keep disconnecting?">Disconnecting</a></span>…
+<a href="net-wireless.html" title="Draadloos netwerk">Draadloos netwerk</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html" title="Verbinding maken met een draadloos netwerk">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html" title="Met een verborgen draadloos netwerk verbinden">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Disconnecting</a></span>…
     </span>
 </li></ul></div>
 </div></div>

@@ -54,7 +54,7 @@
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-goa1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Klik op het <span class="gui"><a href="shell-introduction.html#yourname" title="You and your computer">systeemmenu</a></span> aan de rechterkant van de bovenste balk.</p></li>
+<li class="steps"><p class="p">Klik op het <span class="gui"><a href="shell-introduction.html#yourname" title="U en uw computer">systeemmenu</a></span> aan de rechterkant van de bovenste balk.</p></li>
 <li class="steps"><p class="p">Klik op de knop Instellingen linksonder in het menu.</p></li>
 <li class="steps"><p class="p">Selecteer het paneel <span class="gui">Datum &amp; Tijd</span></p></li>
 </ol></div></div></div>
@@ -82,12 +82,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="clock.html" title="Date &amp; time">Date &amp; time</a><span class="desc"> — 
-      <span class="link"><a href="clock-set.html" title="Change the date and time">Set date and time</a></span>,
-      <span class="link"><a href="clock-world.html" title="Add a world clock">world clocks</a></span>,
-      <span class="link"><a href="clock-timezone.html" title="Change your timezone">timezone</a></span>,
-      <span class="link"><a href="clock-calendar.html" title="Calendar appointments">calendar and appointments</a></span>…
-    </span>
+<a href="clock.html" title="Datum &amp; tijd">Datum &amp; tijd</a><span class="desc"> — <span class="link"><a href="clock-set.html" title="Datum en tijd wijzigen">Tijd en datum instellen</a></span>, <span class="link"><a href="clock-world.html" title="Een wereldklok toevoegen">wereldklokken</a></span>,<span class="link"><a href="clock-timezone.html" title="Uw tijdzone wijzigen">tijdzone</a></span>, <span class="link"><a href="clock-calendar.html" title="Agenda-afspraken">agenda en afspraken</a></span>...</span>
 </li></ul></div>
 </div></div>
 </div>

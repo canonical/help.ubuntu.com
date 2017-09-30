@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Install &amp; remove software">Přidat/odebrat software</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Instalace a odstranění softwaru">Přidat/odebrat software</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Přidávání zdrojů Personal Package Archive (PPA)</span></h1></div>
@@ -63,12 +63,10 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Na stránce s přehledem PPA nalezněte část <span class="gui">Adding this PPA to your system</span>. Poznamenejte si umístění PPA. Vypadá podobně jako <span class="code">ppa:mozillateam/firefox-next</span>.</p></li>
 <li class="steps"><p class="p">
-        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Launcher</span>, or search
-        for <span class="input">Software</span> in the search bar of the <span class="gui">Dash</span>.
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
       </p></li>
-<li class="steps"><p class="p">
-        When <span class="app">Ubuntu Software</span> launches, click <span class="gui">Software &amp; Updates</span>
-      </p></li>
+<li class="steps"><p class="p">Když se <span class="app">Ubuntu Software</span> spustí, klikněte na <span class="gui">Software &amp; Aktualizace</span></p></li>
 <li class="steps"><p class="p">Přejděte na kartu <span class="gui">Ostatní software</span>.</p></li>
 <li class="steps"><p class="p">
         Click <span class="gui">Add</span> and enter the PPA's location (as noted in step 1).
@@ -87,19 +85,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html" title="Odstranění aplikace">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html" title="Add software repositories">add repositories</a></span>…
-    </span>
+<a href="addremove.html" title="Instalace a odstranění softwaru">Instalace a odstranění softwaru</a><span class="desc"> — <span class="link"><a href="addremove-install.html" title="Instalace dodatečných aplikací">Instalace aplikací</a></span>, <span class="link"><a href="addremove-remove.html" title="Odstranění aplikace">odstranění aplikací</a></span>, <span class="link"><a href="addremove-sources.html" title="Přidávání zdrojů softwaru">přidání zdrojů softwaru</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove-sources.html" title="Add software repositories">
-    Add software repositories
-  </a><span class="desc"> — 
+<a href="addremove-sources.html" title="Přidávání zdrojů softwaru">Přidávání zdrojů softwaru</a><span class="desc"> — 
       Add repositories to extend the software sources Ubuntu uses for 
       installation and upgrades.
     </span>

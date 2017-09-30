@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Mouse pointer is not moving</title>
+<title>De muisaanwijzer beweegt niet</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,88 +44,55 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="mouse.html" title="Mouse">Mouse</a> › <a class="trail" href="mouse.html#problems" title="Common problems">Common problems</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="mouse.html" title="Muis">Muis</a> › <a class="trail" href="mouse.html#problems" title="Veel voorkomende problemen">Veel voorkomende problemen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="mouse.html" title="Mouse">Mouse</a> › <a class="trail" href="mouse.html#problems" title="Common problems">Common problems</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="mouse.html" title="Muis">Muis</a> › <a class="trail" href="mouse.html#problems" title="Veel voorkomende problemen">Veel voorkomende problemen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Mouse pointer is not moving</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">De muisaanwijzer beweegt niet</span></h1></div>
 <div class="region">
 <div class="contents"><div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="mouse-problem-notmoving.html#plugged-in" title="Check that the mouse is plugged in">Check that the mouse is plugged in</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#broken" title="Check that the mouse actually works">Check that the mouse actually works</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#wireless-mice" title="Checking wireless mice">Checking wireless mice</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html#plugged-in" title="Controleer of de muis is aangesloten">Controleer of de muis is aangesloten</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html#broken" title="Controleren of de muis überhaupt werkt">Controleren of de muis überhaupt werkt</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html#wireless-mice" title="Draadloze muizen controleren">Draadloze muizen controleren</a></li>
 </ul></div></div></div></div>
 <div id="plugged-in" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Check that the mouse is plugged in</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Controleer of de muis is aangesloten</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">
- If you have a mouse with a cable, check that it is firmly plugged in to
- your computer.
- </p>
-<p class="p">
- If it is a USB mouse (with a rectangular connector), try plugging it in to a
- different USB port. If it is a PS/2 mouse (with a small, round connector with
- six pins), make sure that it is plugged in to the green mouse port rather
- than the purple keyboard port. You may need to restart the computer if it was
- not plugged in.
- </p>
+<p class="p">Als u een muis met kabel heeft, controleer dan of deze stevig aangesloten is op uw computer.</p>
+<p class="p">Als het een USB-muis is (met een rechthoekige aansluiting), probeer dan de muis aan te sluiten op een andere USB-poort. Als het een PS/2-muis is (met een kleine, ronde aansluiting met zes pinnetjes), verzeker u er dan van dat de muis is aangesloten op de groene muispoort in plaats van de paarse toetsenbordpoort.</p>
 </div></div>
 </div></div>
 <div id="broken" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Check that the mouse actually works</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Controleren of de muis überhaupt werkt</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Plug the mouse in to a different computer and see if it works.</p>
-<p class="p">If the mouse is an optical or laser mouse, a light should be shining out
- of the bottom of the mouse if it is turned on.  If there is no light, check
- that it is turned on.  If it is and there is still no light, the mouse may be
- broken.</p>
+<p class="p">Sluit de muis op een andere computer aan om te zien of de muis werkt.</p>
+<p class="p">Als de muis een optische of lasermuis is, dan zou er een licht moeten branden onderaan de muis wanneer hij aan staat. Als er geen licht is, controleer dan of hij aan staat. Als dat zo is en er is nog steeds geen licht, dan is de muis mogelijk kapot.</p>
 </div></div>
 </div></div>
 <div id="wireless-mice" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Checking wireless mice</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Draadloze muizen controleren</span></h2></div>
 <div class="region"><div class="contents">
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Make sure the mouse is turned on. There is often a switch on the
       bottom of the mouse to turn the mouse off completely, so you can take it
       with you without it constantly waking up.</p></li>
-<li class="list"><p class="p">If you are using a Bluetooth mouse, make sure you have actually paired the
-   mouse with your computer. See <span class="link"><a href="bluetooth-connect-device.html" title="Connect your computer to a Bluetooth device">Connect your computer to a Bluetooth device</a></span>.</p></li>
-<li class="list"><p class="p">
-   Click a button and see if the mouse pointer moves now. Some wireless mice go
-   to sleep to save power, so might not respond until you click a button.
-   See <span class="link"><a href="mouse-wakeup.html" title="Mouse reacts with delay before it starts working">Mouse reacts with delay before it starts working</a></span>.
-   </p></li>
-<li class="list"><p class="p">
-   Check that the battery of the mouse is charged.
-   </p></li>
-<li class="list"><p class="p">
-   Make sure that the receiver (dongle) is firmly plugged in to the computer.
-   </p></li>
-<li class="list"><p class="p">
-   If your mouse and receiver can operate on different radio channels, make
-   sure that they are both set to the same channel.
-   </p></li>
-<li class="list"><p class="p">
-   You may need to press a button on the mouse, receiver or both to establish
-   a connection. The instruction manual of your mouse should have more details
-   if this is the case.
-   </p></li>
+<li class="list"><p class="p">Als u een Bluetooth muis gebruikt, zorg er dan voor dat u de muis aan uw computer gekoppeld heeft. Zie <span class="link"><a href="bluetooth-connect-device.html" title="Uw computer met een Bluetooth-apparaat verbinden">Uw computer met een Bluetooth-apparaat verbinden</a></span>.</p></li>
+<li class="list"><p class="p">Klik op een knop en kijk of de muisaanwijzer nu beweegt. Sommige draadloze muizen gaan in slaapstand om energie te sparen, dus reageren ze pas wanneer u op een knop drukt. Zie <span class="link"><a href="mouse-wakeup.html" title="Muis reageert met vertraging voordat het begint te werken">Muis reageert met vertraging voordat het begint te werken</a></span>.</p></li>
+<li class="list"><p class="p">Controleer of de batterij van de muis is opgeladen.</p></li>
+<li class="list"><p class="p">Zorg ervoor dat de ontvanger (dongle) stevig op de computer is aangesloten.</p></li>
+<li class="list"><p class="p">Als uw muis en ontvanger op verschillende radiokanalen kunnen opereren, zorg er dan voor dat ze allebei op hetzelfde kanaal zijn ingesteld.</p></li>
+<li class="list"><p class="p">Misschien moet u een knop indrukken op de muis, de ontvanger of allebei om een verbinding te bewerkstelligen. De handleiding van de muis zou hier meer informatie over moeten hebben als dit het geval is.</p></li>
 </ul></div></div></div>
-<p class="p">
- Most RF (radio) wireless mice should work automatically when you plug them
- into your computer. If you have a Bluetooth or IR (infrared) wireless mouse,
- you may need to perform some extra steps to get it working. The steps might
- depend on the make or model of your mouse.
- </p>
+<p class="p">De meeste RF (radio) draadloze muizen zouden automatisch moeten werken wanneer u ze op de computer aansluit. Als u een Bluetooth of IR (infrarood) draadloze muis heeft, dan moet u mogelijk wat extra stappen doorlopen om hem werkend te krijgen. De stappen kunnen afhangen van het merk of model van uw muis.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="mouse.html#problems" title="Common problems">Common mouse problems</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="mouse.html#problems" title="Veel voorkomende problemen">Veel voorkomende problemen met de muis</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

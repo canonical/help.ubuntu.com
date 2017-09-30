@@ -49,7 +49,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Ko nozīmē WEP un WPA?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">WEP un WPA (arī WPA2) ir dažādu šifrēšanas rīku nosaukumi, kuri tiek izmantoti, lai aizsargātu bezvadu tīkla savienojumus. Šifrēšana sajauc tīkla savienojumu, tā ka neviens nevar "noklausīties" to, kuras tīmekļa lapas jūs apskatāt. WEP nozīmē <span class="em">Wired Equivalent Privacy</span>, un WPA nozīmē <span class="em">Wireless Protected Access</span>. WPA2 ir WPA standarta otrā versija.</p>
+<p class="p">WEP un WPA (arī WPA2) ir dažādu šifrēšanas rīku nosaukumi, kuri tiek izmantoti, lai aizsargātu bezvadu tīkla savienojumus. Šifrēšana sajauc tīkla savienojumu, tā ka neviens nevar “noklausīties” to, kuras tīmekļa lapas jūs apskatāt. WEP nozīmē <span class="em">Wired Equivalent Privacy</span>, un WPA nozīmē <span class="em">Wireless Protected Access</span>. WPA2 ir WPA standarta otrā versija.</p>
 <p class="p">Izmantot <span class="em">kādu</span> šifrēšanas metodi vienmēr ir labāk, nekā neizmantot nevienu, bet WEP ir mazāk droša no šiem standartiem, un jums vajadzētu izvairīties no tās izmantošana. WPA2 ir visdrošākā no šiem 3 veidiem. Ja jūsu tīkla karte un maršrutētājs atbalsta WPA2, to jums vajadzētu izmantot, kad iestatāt savu bezvadu tīklu.</p>
 </div>
 <div class="sect sect-links" role="navigation">

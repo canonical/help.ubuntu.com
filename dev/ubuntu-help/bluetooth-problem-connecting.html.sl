@@ -61,7 +61,9 @@
       not be able to get the right drivers for them. In this case, you will
       probably have to get a different Bluetooth adapter.</p></dd>
 <dt class="terms">Adapter is not switched on</dt>
-<dd class="terms"><p class="p">Prepričajte se, da je vaš vmesnik Bluetooth vklopljen. Kliknite ikono Bluetooth v <span class="gui">menijski vrstici</span> in preverite, da ni <span class="link"><a href="bluetooth-turn-on-off.html" title="Vklop ali izklop Bluetooth">onemogočena</a></span>.</p></dd>
+<dd class="terms"><p class="p">Make sure that your Bluetooth adapter is switched on. Click the
+          Bluetooth icon in the <span class="gui">menu bar</span> and check that it’s not
+          <span class="link"><a href="bluetooth-turn-on-off.html" title="Vklop ali izklop Bluetooth">disabled</a></span>.</p></dd>
 <dt class="terms">Povezava naprave Bluetooth je izklopljena</dt>
 <dd class="terms"><p class="p">Check that Bluetooth is turned on on the device you are trying to
       connect to, and that it is <span class="link"><a href="bluetooth-visibility.html" title="Kaj je vidnost Bluetooth?">discoverable

@@ -57,7 +57,9 @@
 <p class="p">Es pressuposa que heu descarregat una imatge ISO de l'Ubuntu.</p>
 <p class="p">Per crear un disc d'inici des d'una imatge ISO de l'Ubuntu:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Obriu <span class="app">Creador de discs d'inici</span> des del <span class="gui">Quadre d'aplicacions</span>.</p></li>
+<li class="steps"><p class="p">
+        Open <span class="app">Startup Disk Creator</span> via the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">Si la imatge ISO és a la vostra carpeta de  <span class="gui">Descàrregues</span> i només hi ha una imatge ISO, el  <span class="app">Creador de discs d'inici</span> ja l'haurà seleccionat. En cas contrari, seleccioneu la imatge ISO correcta.</p></li>
 <li class="steps"><p class="p">Si el vostre ordinador té només una memòria USB, <span class="app">Creador de discs d'inici</span> ja l'haurà seleccionada. En cas contrari, seleccioneu el disc correcte.</p></li>
 <li class="steps"><p class="p">Cliqueu <span class="gui">Crear disc d'inici</span>.</p></li>

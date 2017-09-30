@@ -60,7 +60,7 @@
 <li class="steps"><p class="p">I fliken <span class="gui">Ingång</span>, välj enheten som du vill använda. Nivåindikatorn för ingången bör reagera när du pratar.</p></li>
 </ol></div>
 </div></div>
-<p class="p">Du kan justera volymen och stänga av mikrofonen från denna panelen.</p>
+<p class="p">Du kan justera volymen och stänga av mikrofonen från denna panel.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

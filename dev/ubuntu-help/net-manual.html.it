@@ -53,7 +53,11 @@
 <div class="hgroup"><h1 class="title"><span class="title">Configurare manualmente le impostazioni di rete</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Se la rete non assegna automaticamente le impostazioni al computer, può essere necessario inserirle manualmente. Si presume che siano già note le corrette impostazioni da usare, in caso contrario, può essere necessario rivolgersi all'amministratore di rete o consultare le impostazioni del router o dello switch di rete.</p>
+<p class="p">If your network doesn’t automatically assign network settings to your
+  computer, you may have to manually enter the settings yourself. This topic
+  assumes that you already know the correct settings to use. If not, you may
+  need to ask your network administrator or look at the settings of your router
+  or network switch.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Per configurare manualmente le impostazioni di rete:</span></h2></div>
 <div class="region"><ol class="steps">

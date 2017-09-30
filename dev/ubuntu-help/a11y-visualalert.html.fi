@@ -50,11 +50,13 @@
 <div class="region">
 <div class="contents">
 <p class="p">Tietokoneesi toistaa hälytysäänen tietynlaisille viesteille ja tapahtumille. Jos sinulla on vaikeuksia kuulla näitä ääniä, voit joko määrittää koko näytön tai nykyisen ikkunan välähtämään hälytysäänen toiston yhteydessä.</p>
-<p class="p">Tämä voi myös olla hyödyllistä, jos olet ympäristössä, jossa tietokoneesi täytyy olla hiljainen, kuten kirjastossa. Lue <span class="link"><a href="sound-alert.html" title="Valitse tai kytke hälytysääni pois päältä">Valitse tai kytke hälytysääni pois päältä</a></span> opetellaksesi, miten vaimentaa hälytysäänet ja sitten ota visuaaliset hälytykset käyttöön.</p>
+<p class="p">This can also be useful if you’re in an environment where you need your
+  computer to be silent, such as in a library. See <span class="link"><a href="sound-alert.html" title="Valitse tai kytke hälytysääni pois päältä">Valitse tai kytke hälytysääni pois päältä</a></span>
+  to learn how to mute the alert sound, then enable visual alerts.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Universal Access</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Napsauta <span class="gui">Esteettömyys</span> avataksesi paneelin.</p></li>
 <li class="steps"><p class="p">Press <span class="gui">Visual Alerts</span> in the <span class="gui">Hearing</span> section.</p></li>
 <li class="steps"><p class="p">Switch <span class="gui">Visual Alerts</span> to <span class="gui">ON</span>.</p></li>
 <li class="steps"><p class="p"> Select whether you want the entire screen or just your current window

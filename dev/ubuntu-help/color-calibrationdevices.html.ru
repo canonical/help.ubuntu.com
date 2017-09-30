@@ -68,9 +68,13 @@
 <li class="list"><p class="p">Colorimètre HCFR (колориметр)</p></li>
 </ul></div></div></div>
 <div class="note note-tip" title="Подсказка"><div class="inner"><div class="region"><div class="contents"><p class="p">В настоящее время Pantone Huey является наиболее дешёвым устройством, которое в силу своей простоты лучше всего поддерживается в Linux.</p></div></div></div></div>
-<p class="p">Благодаря Argyl,l поддерживаются следующие спектрометры для точечных и полосовых измерений в отражённом свете для калибровки и характеризации ваших принтеров:</p>
+<p class="p">
+    Thanks to Argyll there’s also a number of spot and strip reading
+    reflective spectrometers supported to help you calibrating and
+    characterizing your printers:
+  </p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">X-Rite DTP20 "Pulse" (спектрометр для точечных измерений в отражённом свете для анализа мазковых проб)</p></li>
+<li class="list"><p class="p">X-Rite DTP20 “Pulse” (“swipe” type reflective spectrometer)</p></li>
 <li class="list"><p class="p">X-Rite DTP22 Digital Swatchbook (спектрометр для точечных измерений в отражённом свете)</p></li>
 <li class="list"><p class="p">X-Rite DTP41 (спектрометр для точечных и полосовых измерений в отражённом свете)</p></li>
 <li class="list"><p class="p">X-Rite DTP41T (спектрометр для точечных и полосовых измерений в отражённом свете)</p></li>

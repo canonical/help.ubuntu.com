@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>What is a color profile?</title>
+<title>Wat is een kleurprofiel?</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,31 +44,20 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="color.html" title="Color management">Color management</a> › <a class="trail" href="color.html#profiles" title="Color profiles">Color profiles</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html#profiles" title="Kleurprofielen">Kleurprofielen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="color.html" title="Color management">Color management</a> › <a class="trail" href="color.html#profiles" title="Color profiles">Color profiles</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html#profiles" title="Kleurprofielen">Kleurprofielen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">What is a color profile?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Wat is een kleurprofiel?</span></h1></div>
 <div class="region">
 <div class="contents">
+<p class="p">Een kleurprofiel is een set gegevens die óf een apparaat zoals een projector óf een kleurruimte zoals sRGB kenmerkt.</p>
+<p class="p">De meeste kleurprofielen zijn in de vorm van een ICC-profiel, dat een klein bestand is met een <span class="input">.ICC</span> of <span class="input">.ICM</span>-bestandsextensie.</p>
+<p class="p">Kleurprofielen kunnen ingebed zijn in afbeeldingen om het kleurengamma van de gegevens te specificeren. Dit zorgt ervoor dat gebruikers dezelfde kleuren zien op verschillende apparaten.</p>
 <p class="p">
-    A color profile is a set of data that characterizes either a device
-    such as a projector or a color space such as sRGB.
-  </p>
-<p class="p">
-    Most color profiles are in the form of an ICC profile, which is a
-    small file with a <span class="input">.ICC</span> or <span class="input">.ICM</span> file
-    extension.
-  </p>
-<p class="p">
-    Color profiles can be embedded into images to specify the gamut range
-    of the data.
-    This ensures that users see the same colors on different devices.
-  </p>
-<p class="p">
-    Every device that is processing color should have it's own ICC
+    Every device that is processing color should have its own ICC
     profile and when this is achieved the system is said to have an
     <span class="em">end-to-end color-managed workflow</span>.
     With this kind of workflow you can be sure that colors are not being
@@ -80,25 +69,25 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#profiles" title="Color profiles">Color profiles</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html#profiles" title="Kleurprofielen">Kleurprofielen</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-canshareprofiles.html" title="Can I share my color profile?">Can I share my color profile?</a><span class="desc"> — Sharing color profiles is never a good idea as hardware changes over time.</span>
+<a href="color-howtoimport.html" title="Hoe importeer ik kleurprofielen?">Hoe importeer ik  kleurprofielen?</a><span class="desc"> — Kleurprofielen kunnen geïmporteerd worden door ze te openen.</span>
 </li>
 <li class="links ">
-<a href="color-assignprofiles.html" title="How do I assign profiles to devices?">How do I assign profiles to devices?</a><span class="desc"> — Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span>
+<a href="color-assignprofiles.html" title="Hoe kan ik profielen toewijzen aan apparaten?">Hoe kan ik profielen toewijzen aan apparaten?</a><span class="desc"> —  Ga in <span class="guiseq"><span class="gui">Instellingen</span> ▸ <span class="gui">Kleur</span></span> om een kleurprofiel voor uw scherm toe te voegen.</span>
 </li>
 <li class="links ">
-<a href="color-howtoimport.html" title="How do I import color profiles?">How do I import color profiles?</a><span class="desc"> — Color profiles can be imported by opening them.</span>
+<a href="color-canshareprofiles.html" title="Kan ik mijn kleurprofiel delen?">Kan ik mijn kleurprofiel delen?</a><span class="desc"> — Het delen van kleurprofielen is niet handig, omdat de hardware zelf met de tijd verandert.</span>
 </li>
 <li class="links ">
-<a href="color-whatisspace.html" title="What is a color space?">What is a color space?</a><span class="desc"> — A color space is a defined range of colors.</span>
+<a href="color-gettingprofiles.html" title="Waar kan ik een kleurprofiel verkrijgen?">Waar kan ik een kleurprofiel verkrijgen?</a><span class="desc"> — Kleurprofielen worden geleverd door leveranciers en kunnen door u zelf gegenereerd worden.</span>
 </li>
 <li class="links ">
-<a href="color-gettingprofiles.html" title="Where do I get color profiles?">Where do I get color profiles?</a><span class="desc"> — Color profiles are provided by vendors and can be generated yourself.</span>
+<a href="color-whatisspace.html" title="Wat is een kleurruimte?">Wat is een kleurruimte?</a><span class="desc"> — Een kleurruimte is een gedefinieerde waaier van kleuren.</span>
 </li>
 </ul></div>
 </div></div>

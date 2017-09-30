@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Color management</title>
+<title>Kleurbeheer</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,47 +44,46 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Color management</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Kleurbeheer</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="color-assignprofiles.html" title="How do I assign profiles to devices?"><span class="title">How do I assign profiles to devices?</span><span class="linkdiv-dash"> — </span><span class="desc">Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-whyimportant.html" title="Why is color management important?"><span class="title">Why is color management important?</span><span class="linkdiv-dash"> — </span><span class="desc">Color management is important for designers, photographers and artists.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-assignprofiles.html" title="Hoe kan ik profielen toewijzen aan apparaten?"><span class="title">Hoe kan ik profielen toewijzen aan apparaten?</span><span class="linkdiv-dash"> — </span><span class="desc"> Ga in <span class="guiseq"><span class="gui">Instellingen</span> ▸ <span class="gui">Kleur</span></span> om een kleurprofiel voor uw scherm toe te voegen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-whyimportant.html" title="Waarom is kleurbeheer belangrijk?"><span class="title">Waarom is kleurbeheer belangrijk?</span><span class="linkdiv-dash"> — </span><span class="desc">Kleurbeheer is belangrijk voor ontwerpers, fotografen en kunstenaars.</span></a></div>
 </div></div></div></div>
 <div id="profiles" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Color profiles</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Kleurprofielen</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-howtoimport.html" title="How do I import color profiles?"><span class="title">How do I import color profiles?</span><span class="linkdiv-dash"> — </span><span class="desc">Color profiles can be imported by opening them.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-whatisprofile.html" title="What is a color profile?"><span class="title">What is a color profile?</span><span class="linkdiv-dash"> — </span><span class="desc">A color profile is a simple file that expresses a color space or device response.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-howtoimport.html" title="Hoe importeer ik kleurprofielen?"><span class="title">Hoe importeer ik  kleurprofielen?</span><span class="linkdiv-dash"> — </span><span class="desc">Kleurprofielen kunnen geïmporteerd worden door ze te openen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-gettingprofiles.html" title="Waar kan ik een kleurprofiel verkrijgen?"><span class="title">Waar kan ik een kleurprofiel verkrijgen?</span><span class="linkdiv-dash"> — </span><span class="desc">Kleurprofielen worden geleverd door leveranciers en kunnen door u zelf gegenereerd worden.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-whatisspace.html" title="What is a color space?"><span class="title">What is a color space?</span><span class="linkdiv-dash"> — </span><span class="desc">A color space is a defined range of colors.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-gettingprofiles.html" title="Where do I get color profiles?"><span class="title">Where do I get color profiles?</span><span class="linkdiv-dash"> — </span><span class="desc">Color profiles are provided by vendors and can be generated yourself.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-whatisprofile.html" title="Wat is een kleurprofiel?"><span class="title">Wat is een kleurprofiel?</span><span class="linkdiv-dash"> — </span><span class="desc">Een kleurprofiel is een eenvoudig bestand dat een kleurruimte of de respons van een apparaat uitdrukt.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-whatisspace.html" title="Wat is een kleurruimte?"><span class="title">Wat is een kleurruimte?</span><span class="linkdiv-dash"> — </span><span class="desc">Een kleurruimte is een gedefinieerde waaier van kleuren.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="calibration" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Calibration</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Kalibratie</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-canshareprofiles.html" title="Can I share my color profile?"><span class="title">Can I share my color profile?</span><span class="linkdiv-dash"> — </span><span class="desc">Sharing color profiles is never a good idea as hardware changes over time.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrate-camera.html" title="How do I calibrate my camera?"><span class="title">How do I calibrate my camera?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrating your camera is important to capture accurate colors.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrate-printer.html" title="How do I calibrate my printer?"><span class="title">How do I calibrate my printer?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrating your printer is important to print accurate colors.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrate-scanner.html" title="How do I calibrate my scanner?"><span class="title">How do I calibrate my scanner?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrating your scanner is important to capture accurate colors.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrate-screen.html" title="How do I calibrate my screen?"><span class="title">How do I calibrate my screen?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrating your screen is important to display accurate
-    colors.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrate-camera.html" title="Hoe kalibreer ik mijn camera?"><span class="title">Hoe kalibreer ik mijn camera?</span><span class="linkdiv-dash"> — </span><span class="desc">Kalibreren van uw camera is belangrijk om kleuren nauwkeurig vast te leggen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrate-printer.html" title="Hoe kalibreer ik mijn printer?"><span class="title">Hoe kalibreer ik mijn printer?</span><span class="linkdiv-dash"> — </span><span class="desc">Het kalibreren van uw printer is belangrijk voor het afdrukken van accurate kleuren.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrate-scanner.html" title="Hoe kalibreer ik mijn scanner"><span class="title">Hoe kalibreer ik mijn scanner</span><span class="linkdiv-dash"> — </span><span class="desc">Kalibreren van uw scanner is belangrijk om kleuren nauwkeurig vast te leggen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrate-screen.html" title="Hoe kalibreer ik mijn scherm?"><span class="title">Hoe kalibreer ik mijn scherm?</span><span class="linkdiv-dash"> — </span><span class="desc">Kalibreren van uw scherm is belangrijk om kleuren nauwkeurig vast te leggen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-canshareprofiles.html" title="Kan ik mijn kleurprofiel delen?"><span class="title">Kan ik mijn kleurprofiel delen?</span><span class="linkdiv-dash"> — </span><span class="desc">Het delen van kleurprofielen is niet handig, omdat de hardware zelf met de tijd verandert.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-calibrationdevices.html" title="What color measuring instruments are supported?"><span class="title">What color measuring instruments are supported?</span><span class="linkdiv-dash"> — </span><span class="desc">We support a large number of calibration devices.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrationcharacterization.html" title="What's the difference between calibration and characterization?"><span class="title">What's the difference between calibration and characterization?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibration and characterization are different things entirely.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrationtargets.html" title="Which target types are supported?"><span class="title">Which target types are supported?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibration targets are needed to do scanner and camera profiling.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-why-calibrate.html" title="Why do I need to do calibration myself?"><span class="title">Why do I need to do calibration myself?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrating is important if you care about the colors you display or print.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-why-calibrate.html" title="Waarom moet ik zelf kalibreren?"><span class="title">Waarom moet ik zelf kalibreren?</span><span class="linkdiv-dash"> — </span><span class="desc">Kalibreren is belangrijk als u geeft om de weergave of het afdrukken van kleuren.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrationtargets.html" title="Welke doeltypen worden ondersteund?"><span class="title">Welke doeltypen worden ondersteund?</span><span class="linkdiv-dash"> — </span><span class="desc">Kalibratiedoelen zijn nodig om scanner- en cameraprofielen aan te kunnen maken.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrationdevices.html" title="Welke kleursensoren worden ondersteund?"><span class="title">Welke kleursensoren worden ondersteund?</span><span class="linkdiv-dash"> — </span><span class="desc">Wij ondersteunen een groot aantal kalibratie-apparaten.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrationcharacterization.html" title="What’s the difference between calibration and characterization?"><span class="title">What’s the difference between calibration and characterization?</span><span class="linkdiv-dash"> — </span><span class="desc">Kalibratie en karakterisering zijn totaal verschillende dingen.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -92,13 +91,12 @@
 <div class="hgroup"><h2 class="title"><span class="title">Problemen</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-notifications.html" title="Can I get notified when my color profile is inaccurate?"><span class="title">Can I get notified when my color profile is inaccurate?</span><span class="linkdiv-dash"> — </span><span class="desc">You can be notified if your color profile is old and inaccurate.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-testing.html" title="How do I test if color management is working correctly?"><span class="title">How do I test if color management is working correctly?</span><span class="linkdiv-dash"> — </span><span class="desc">Use the supplied test profiles to check that your profiles are being
-    applied correctly to your screen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-testing.html" title="Hoe kan ik controleren of kleurbeheer naar behoren werkt?"><span class="title">Hoe kan ik controleren of kleurbeheer naar behoren werkt?</span><span class="linkdiv-dash"> — </span><span class="desc">Gebruik de meegeleverde testprofielen om na te gaan of uw profielen correct worden toegepast op uw scherm.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-notifications.html" title="Kan ik gewaarschuwd worden als mijn kleurprofiel inaccuraat is?"><span class="title">Kan ik gewaarschuwd worden als mijn kleurprofiel inaccuraat is?</span><span class="linkdiv-dash"> — </span><span class="desc">U kan gewaarschuwd worden als uw kleurprofiel oud en inaccuraat is.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-missingvcgt.html" title="Missing information for whole-screen color correction?"><span class="title">Missing information for whole-screen color correction?</span><span class="linkdiv-dash"> — </span><span class="desc">Whole-screen color correction modifies all the screen colors on all windows.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-notspecifiededid.html" title="Why don't the default monitor profiles have a calibration expiry?"><span class="title">Why don't the default monitor profiles have a calibration expiry?</span><span class="linkdiv-dash"> — </span><span class="desc">Default monitor profiles do not have a calibration date.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-missingvcgt.html" title="Mist u informatie voor kleurcorrectie voor volledig scherm?"><span class="title">Mist u informatie voor kleurcorrectie voor volledig scherm?</span><span class="linkdiv-dash"> — </span><span class="desc">Kleurcorrectie voor het gehele scherm verandert alle kleuren op alle vensters.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-notspecifiededid.html" title="Why don’t the default monitor profiles have a calibration expiry?"><span class="title">Why don’t the default monitor profiles have a calibration expiry?</span><span class="linkdiv-dash"> — </span><span class="desc">Standaard monitorprofielen hebben geen kalibratiedatum.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -108,23 +106,10 @@
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Gebruikers- &amp; systeeminstellingen</a><span class="desc"> — 
-      <span class="link"><a href="keyboard.html" title="Keyboard">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html" title="Mouse">mouse</a></span>,
-      <span class="link"><a href="prefs-display.html" title="Display &amp; screen">display</a></span>,
-      <span class="link"><a href="prefs-language.html" title="Region &amp; Language">languages</a></span>,
-      <span class="link"><a href="user-accounts.html" title="User accounts">user accounts</a></span>…
-    </span>
+<a href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Gebruikers- &amp; systeeminstellingen</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Toetsenbord">Toetsenbord</a></span>, <span class="link"><a href="mouse.html" title="Muis">muis</a></span>, <span class="link"><a href="prefs-display.html" title="Weergave &amp; scherm">beeldscherm</a></span>, <span class="link"><a href="prefs-language.html" title="Regio &amp; taal">talen</a></span>, <span class="link"><a href="user-accounts.html" title="Gebruikersaccounts">gebruikersaccounts</a></span>...</span>
 </li>
 <li class="links ">
-<a href="hardware.html" title="Hardware &amp; drivers">Hardware &amp; drivers</a><span class="desc"> — 
-      <span class="link"><a href="hardware.html#problems" title="Common problems">Hardware problems</a></span>,
-      <span class="link"><a href="printing.html" title="Afdrukken">printers</a></span>,
-      <span class="link"><a href="power.html" title="Power &amp; battery">power settings</a></span>,
-      <span class="link"><a href="color.html" title="Color management">color management</a></span>,
-      <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>,
-      <span class="link"><a href="disk.html" title="Disks &amp; storage">disks</a></span>…
-    </span>
+<a href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware &amp; stuurprogramma's</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Veel voorkomende problemen">Hardware problemen</a></span>, <span class="link"><a href="printing.html" title="Afdrukken">printers</a></span>, <span class="link"><a href="power.html" title="Voeding &amp; accu">energie-instellingen</a></span>, <span class="link"><a href="color.html" title="Kleurbeheer">kleurbeheer</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disks.html" title="disks">schijven</a></span>...</span>
 </li>
 </ul></div>
 </div></div></div>

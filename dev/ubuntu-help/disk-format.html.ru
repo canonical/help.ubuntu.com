@@ -49,7 +49,10 @@
 <div class="hgroup"><h1 class="title"><span class="title">Удаление всего содержимого съёмного носителя</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Иногда возникает необходимость удалить все файлы и папки со съёмного носителя, такого как флэш-диск USB или внешний жёсткий диск. Сделать это можно, <span class="em">отформатировав</span> носитель — при этом все файлы с него будут удалены и он станет пустым.</p>
+<p class="p">If you have a removable disk, like a USB memory stick or an external hard
+ disk, you may sometimes wish to completely remove all of its files and
+ folders. You can do this by <span class="em">formatting</span> the disk — this deletes all
+ of the files on the disk and leaves it empty.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Форматирование съёмного носителя</span></h2></div>
 <div class="region"><ol class="steps">

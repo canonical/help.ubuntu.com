@@ -100,13 +100,7 @@
 <div class="region"><div class="contents">
 <div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-exit.png" width="250" class="media media-block" alt="Nabídka uživatele"></div></div>
 <p class="p">Klikněte na systémovou nabídku v pravém horním rohu, abyste mohli spravovat systémová nastavení a svůj počítač.</p>
-<p class="p">When you leave your computer, you can lock your screen to prevent other
-  people from using it. You can also quickly switch users without logging out
-  completely to give somebody else access to the computer, or you can
-  suspend or power off the computer from the menu. If you have a screen 
-  that supports vertical or horizontal rotation, you can quickly rotate the 
-  screen from the system menu. If your screen does not support rotation, 
-  you will not see the button.</p>
+<p class="p">Odcházíte-li od svého počítače, můžete uzamknout obrazovku a tím zabránit v jeho používání jiným lidem. Můžete také rychle bez odhlašování přepnout uživatele a dát tím tak přístup k počítači někomu jinému. Nebo můžete z nabídky počítač uspat nebo vypnout. V případě, že máte obrazovku, která podporuje změnu mezi svislým a vodorovným otočením, můžete přes systémovou nabídku otočení rychle přepnout. Pokud otočení nepodporuje, tlačítko neuvidíte.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-exit.html" title="Odhlášení nebo přepnutí uživatele, vypnutí">Zjistěte si více o přepínání uživatelů, odhlašování se a vypínání počítače.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></div>

@@ -63,7 +63,7 @@
 <div id="network" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Conexão de rede não estabeleceu adequadamente</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Em certos casos, quando você se conecta a uma rede sem fio, pode parecer que você se conectou com sucesso a primeira vista, mas, então, você será desconectado em seguida. Isso normalmente acontece porque seu computador teve sucesso parcial na conexão com a rede - ele conseguiu estabelecer uma conexão, mas não conseguiu finalizar a conexão por algum motivo e, então, foi desconectado.</p>
+<p class="p">Em certos casos, quando você se conecta a uma rede sem fio, pode parecer que você se conectou com sucesso a primeira vista, mas, então, você será desconectado em seguida. Isso normalmente acontece porque seu computador teve sucesso parcial na conexão com a rede — ele conseguiu estabelecer uma conexão, mas não conseguiu finalizar a conexão por algum motivo e, então, foi desconectado.</p>
 <p class="p">Um possível motivo para isso é que você inseriu a palavra-chave errada para a conexão sem fio ou que seu computador não tem permissão na rede (porque a rede requer um nome de usuário para se autenticar, por exemplo).</p>
 </div></div>
 </div></div>
@@ -92,7 +92,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-connect.html" title="Conectando a uma rede sem fio">Conectando a uma rede sem fio</a><span class="desc"> — Obtenha acesso à Internet - sem fio.</span>
+<a href="net-wireless-connect.html" title="Conectando a uma rede sem fio">Conectando a uma rede sem fio</a><span class="desc"> — Obtenha acesso à Internet — sem fio.</span>
 </li></ul></div>
 </div></div>
 </div>

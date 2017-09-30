@@ -80,8 +80,8 @@
       <span class="em">free</span> and <span class="em">open source</span>. This is because they cannot
       distribute drivers which are proprietary, or closed-source. If the
       correct driver for your wireless adapter is only available in a non-free,
-      or "binary-only" version, it may not be installed by default. If this is
-      the case, look on the wireless adapter manufacturer's website to see if
+      or “binary-only” version, it may not be installed by default. If this is
+      the case, look on the wireless adapter manufacturer’s website to see if
       they have any Linux drivers.</p>
 <p class="p">Some Linux distributions have a tool that can download restricted
       drivers for you. If your distribution has one of these, use it to see if

@@ -59,7 +59,10 @@
 </div>
 <div class="region">
 <div class="contents">
-<p class="p">Dans cette étape, vous allez vérifier quelques points de base de votre connexion réseau sans fil. Cette étape sert à s'assurer que votre problème réseau ne provient pas d'une cause relativement simple, comme un commutateur éteint par exemple et à vous préparer aux quelques étapes de dépannage suivantes.</p>
+<p class="p">In this step you will check some basic information about your wireless
+  network connection. This is to make sure that your networking problem isn’t
+  caused by a relatively simple issue, like the wireless connection being
+  turned off, and to prepare for the next few troubleshooting steps.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Vérifiez que votre ordinateur portable n'est pas connecté à une liaison Internet <span class="em">filaire</span>.</p></li>
 <li class="steps"><p class="p">Si vous utilisez un adaptateur externe (comme un adaptateur USB ou une carte PCMCIA qui se branchent à votre ordinateur), vérifiez qu'il est fermement inséré dans le bon logement de votre ordinateur.</p></li>

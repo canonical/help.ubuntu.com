@@ -59,7 +59,10 @@
 </div>
 <div class="region">
 <div class="contents">
-<p class="p">Σε αυτό το βήμα θα ελέγξετε μερικές βασικές πληροφορίες για την σύνδεση ασύρματου δικτύου. Αυτό γίνεται για να βεβαιωθείτε ότι το πρόβλημα του δικτύου δεν προκαλείται από ένα σχετικά απλό θέμα, όπως η απενεργοποίηση μιας ασύρματης σύνδεσης και για να προετοιμαστείτε για τα επόμενα λίγα βημάτα ανίχνευση του προβλήματος.</p>
+<p class="p">In this step you will check some basic information about your wireless
+  network connection. This is to make sure that your networking problem isn’t
+  caused by a relatively simple issue, like the wireless connection being
+  turned off, and to prepare for the next few troubleshooting steps.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Βεβαιωθείτε ότι ο φορητός υπολογιστής σας δεν είναι συνδεμένος σε μια <span class="em">ενσύρματη</span> σύνδεση διαδικτύου.</p></li>
 <li class="steps"><p class="p">Εάν έχετε έναν εξωτερικό ασύρματο προσαρμογέα (όπως έναν προσαρμογέα USB ή μια κάρτα PCMCIA που συνδέεται στον φορητό σας), βεβαιωθείτε ότι έχει εισαχθεί στέρεα στην κατάλληλη σχισμή του υπολογιστή σας.</p></li>

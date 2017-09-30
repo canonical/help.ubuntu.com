@@ -72,9 +72,11 @@
 </ol></div></div></div>
 </div>
 <div id="problem" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">ディスクの書き込みがうまくできなかった場合</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">If the disc wasn’t burned properly</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">ときにデータの書き込みが正常にできない場合があります。コンピューターにそのディスクをセットしてもファイルを見ることはできません</p>
+<p class="p">Sometimes the computer doesn’t record the data correctly, and you won’t be
+  able to see the files you put onto the disc when you insert it into a
+  computer.</p>
 <p class="p">この場合、書き込みをもう一度実行してみてください。ただし書き込み速度はより低速 (たとえば、48x よりも 12x) にします。低速なほど、より信頼性も高くなります。速度の選択は、<span class="gui">CD/DVD クリエーター</span>ウィンドウの<span class="gui">プロパティ</span>から可能です。</p>
 </div></div>
 </div></div>

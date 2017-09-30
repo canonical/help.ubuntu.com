@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Where do I get color profiles?</title>
+<title>Waar kan ik een kleurprofiel verkrijgen?</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,59 +44,47 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="color.html" title="Color management">Color management</a> › <a class="trail" href="color.html#profiles" title="Color profiles">Color profiles</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html#profiles" title="Kleurprofielen">Kleurprofielen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="color.html" title="Color management">Color management</a> › <a class="trail" href="color.html#profiles" title="Color profiles">Color profiles</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html#profiles" title="Kleurprofielen">Kleurprofielen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Where do I get color profiles?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Waar kan ik een kleurprofiel verkrijgen?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    The best way to get profiles is to generate them yourself, although
-    this does require some initial outlay.
-  </p>
-<p class="p">
-    Many manufacturers do try to provide color profiles for devices,
-    although sometimes they are wrapped up in <span class="em">driver bundles</span>
-    which you may need to download, extract and then search for the
-    color profiles.
-  </p>
+<p class="p">De beste manier om aan profielen te komen is door ze zelf te ontwikkelen, alhoewel dit wat onkosten met zich meebrengt.</p>
+<p class="p">Veel fabrikanten proberen wel kleurprofielen voor apparaten te verschaffen, alhoewel ze soms opgenomen zijn in <span class="em">driver-bundels</span> die u mogelijk moet downloaden en uitpakken om daarna te zoeken naar de kleurprofielen.</p>
 <p class="p">
     Some manufacturers do not provide accurate profiles for the hardware
     and the profiles are best avoided.
     A good clue is to download the profile, and if the creation date is
-    more than a year before the date you bought the device then it's
+    more than a year before the date you bought the device then it’s
     likely dummy data generated that is useless.
   </p>
-<p class="p">
-    See <span class="link"><a href="color-why-calibrate.html" title="Why do I need to do calibration myself?">Why do I need to do calibration myself?</a></span> for information on why vendor-supplied
-    profiles are often worse than useless.
-  </p>
+<p class="p">Zie <span class="link"><a href="color-why-calibrate.html" title="Waarom moet ik zelf kalibreren?">Waarom moet ik zelf kalibreren?</a></span> voor informatie over waarom door verkopers geleverde profielen vaak waardeloos zijn.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#profiles" title="Color profiles">Color profiles</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html#profiles" title="Kleurprofielen">Kleurprofielen</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-testing.html" title="How do I test if color management is working correctly?">How do I test if color management is working correctly?</a><span class="desc"> — Use the supplied test profiles to check that your profiles are being
-    applied correctly to your screen.</span>
+<a href="color-testing.html" title="Hoe kan ik controleren of kleurbeheer naar behoren werkt?">Hoe kan ik controleren of kleurbeheer naar behoren werkt?</a><span class="desc"> — Gebruik de meegeleverde testprofielen om na te gaan of uw profielen correct worden toegepast op uw scherm.</span>
 </li>
 <li class="links ">
-<a href="color-missingvcgt.html" title="Missing information for whole-screen color correction?">Missing information for whole-screen color correction?</a><span class="desc"> — Whole-screen color correction modifies all the screen colors on all windows.</span>
+<a href="color-missingvcgt.html" title="Mist u informatie voor kleurcorrectie voor volledig scherm?">Mist u informatie voor kleurcorrectie voor volledig scherm?</a><span class="desc"> — Kleurcorrectie voor het gehele scherm verandert alle kleuren op alle vensters.</span>
 </li>
 <li class="links ">
-<a href="color-whatisprofile.html" title="What is a color profile?">What is a color profile?</a><span class="desc"> — A color profile is a simple file that expresses a color space or device response.</span>
+<a href="color-why-calibrate.html" title="Waarom moet ik zelf kalibreren?">Waarom moet ik zelf kalibreren?</a><span class="desc"> — Kalibreren is belangrijk als u geeft om de weergave of het afdrukken van kleuren.</span>
 </li>
 <li class="links ">
-<a href="color-why-calibrate.html" title="Why do I need to do calibration myself?">Why do I need to do calibration myself?</a><span class="desc"> — Calibrating is important if you care about the colors you display or print.</span>
+<a href="color-whatisprofile.html" title="Wat is een kleurprofiel?">Wat is een kleurprofiel?</a><span class="desc"> — Een kleurprofiel is een eenvoudig bestand dat een kleurruimte of de respons van een apparaat uitdrukt.</span>
 </li>
 </ul></div>
 </div></div>

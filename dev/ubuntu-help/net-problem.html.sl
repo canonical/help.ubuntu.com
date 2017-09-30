@@ -50,13 +50,13 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-othersedit.html" title="Drugi uporabniki ne morejo urejati omrežnih povezav"><span class="title">Drugi uporabniki ne morejo urejati omrežnih povezav</span><span class="linkdiv-dash"> — </span><span class="desc">V možnostih omrežne povezave morate odstraniti oznako <span class="gui">Na voljo vsem uporabnikom</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-othersconnect.html" title="Drugi uporabniki se ne morejo povezati z internetom"><span class="title">Drugi uporabniki se ne morejo povezati z internetom</span><span class="linkdiv-dash"> — </span><span class="desc">Nastavitve (kot je geslo) za omrežno povezavo lahko shranite, da se lahko z njo povežejo vsi uporabniki računalnika.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html" title="I can’t see my wireless network in the list"><span class="title">I can’t see my wireless network in the list</span><span class="linkdiv-dash"> — </span><span class="desc">The wireless could be turned off or broken, or you may be trying to
+    connect to a hidden network.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-slow.html" title="Internet je počasen"><span class="title">Internet je počasen</span><span class="linkdiv-dash"> — </span><span class="desc">Morda se prejemajo druge stvari, morda imate slabo povezavo ali pa je zaposlen čas dneva.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-othersconnect.html" title="Other users can’t connect to the internet"><span class="title">Other users can’t connect to the internet</span><span class="linkdiv-dash"> — </span><span class="desc">Nastavitve (kot je geslo) za omrežno povezavo lahko shranite, da se lahko z njo povežejo vsi uporabniki računalnika.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html" title="Svojega brezžičnega omrežja ne morem videti na seznamu"><span class="title">Svojega brezžičnega omrežja ne morem videti na seznamu</span><span class="linkdiv-dash"> — </span><span class="desc">The wireless could be turned off or broken, or you may be trying to
-    connect to a hidden network.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-othersedit.html" title="Other users can’t edit the network connections"><span class="title">Other users can’t edit the network connections</span><span class="linkdiv-dash"> — </span><span class="desc">V možnostih omrežne povezave morate odstraniti oznako <span class="gui">Na voljo vsem uporabnikom</span>.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-disconnecting.html" title="Zakaj se povezava z mojim brezžičnim omrežjem kar naprej prekinja?"><span class="title">Zakaj se povezava z mojim brezžičnim omrežjem kar naprej prekinja?</span><span class="linkdiv-dash"> — </span><span class="desc">Morda imate šibek signal ali pa vam omrežje ne dopušča primerne povezave.</span></a></div>
 </div>
 </div></div></div></div>

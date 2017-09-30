@@ -80,7 +80,9 @@
 </div></div>
 </div></div>
 <p class="p"><span class="gui">認識するまでの間隔</span>のスライダーを使って、キー入力が認識されるまでに押しつづける必要のある時間を設定してください。</p>
-<p class="p">キーが押されたとき、キー入力が認識されたとき、押し下げ時間が足りずにキー入力が拒否されたときに、それぞれ音を鳴らすことができます。</p>
+<p class="p">You can have your computer make a sound when you press a key, when a key
+  press is accepted, or when a key press is rejected because you didn’t hold
+  the key down long enough.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

@@ -2,7 +2,7 @@
 <html lang=el>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Γιατί τα προεπιλεγμένα προφίλ οθόνης δεν λήγουν;</title>
+<title>Why don’t the default monitor profiles have a calibration expiry?</title>
 <link rel="stylesheet" type="text/css" href="el.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -58,7 +58,7 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Γιατί τα προεπιλεγμένα προφίλ οθόνης δεν λήγουν;</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Why don’t the default monitor profiles have a calibration expiry?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Το προεπιλεγμένο χρωματικό προφίλ που χρησιμοποιείται από κάθε οθόνη, δημιουργείται αυτόματα με βάση το <span class="link"><a href="https://en.wikipedia.org/wiki/Extended_Display_Identification_Data" title="https://en.wikipedia.org/wiki/Extended_Display_Identification_Data"> EDID</a></span> που είναι αποθηκευμένο στη μνήμη της οθόνης. Το EDID παρέχει μόνο τα διαθέσιμα χρώματα που είναι ικανή να απεικονίσει η οθόνη, και όχι άλλες πληροφορίες σχετικά με τη διόρθωση των χρωμάτων.</p>

@@ -54,9 +54,12 @@
 <li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Περιοχή &amp; γλώσσα</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Περιοχή &amp; γλώσσα</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στις <span class="gui">Μορφές</span>.</p></li>
-<li class="steps"><p class="p">Επιλέξτε την περιοχή και τη γλώσσα στις οποίες ταιριάζουν περισσότερο οι μορφές που θα θέλατε να χρησιμοποιήσετε. Αν η περιοχή και η γλώσσα σας δεν είναι καταχωρισμένες, κάντε κλικ στο <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="..."></span></span></span> στο κάτω μέρος της λίστας για να επιλέξετε από όλες τις διαθέσιμες περιοχές και γλώσσες.</p></li>
+<li class="steps"><p class="p">Επιλέξτε την περιοχή και τη γλώσσα στις οποίες ταιριάζουν περισσότερο οι μορφές που θα θέλατε να χρησιμοποιήσετε. Αν η περιοχή και η γλώσσα σας δεν είναι καταχωρισμένες, κάντε κλικ στο <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="…"></span></span></span> στο κάτω μέρος της λίστας για να επιλέξετε από όλες τις διαθέσιμες περιοχές και γλώσσες.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Ολοκλήρωση</span> για αποθήκευση.</p></li>
-<li class="steps"><p class="p">Απαντήστε στην ερώτηση, <span class="gui">Η συνεδρία σας πρέπει να επανεκκινηθεί για να εφαρμοστούν οι αλλαγές</span> κάνοντας κλικ στο <span class="gui">Επανεκκίνηση τώρα</span>, ή στο <span class="gui">X</span> για επανεκκίνηση αργότερα.</p></li>
+<li class="steps"><p class="p">Respond to the prompt, <span class="gui">Your session needs to be restarted for
+      changes to take effect</span> by clicking
+      <span class="gui">Restart Now</span>, or click
+      <span class="gui">×</span> to restart later.</p></li>
 </ol></div></div></div>
 <p class="p">Αφού επιλέξετε μια περιοχή, ο χώρος στα δεξιά της λίστας εμφανίζει διάφορα παραδείγματα για το πως εμφανίζονται οι ημερομηνίες καθώς και άλλες τιμές. Αν και δεν εμφανίζεται στα παραδείγματα, η περιοχή σας ελέγχει επίσης την ημέρα έναρξης της βδομάδας στα ημερολόγια.</p>
 </div>

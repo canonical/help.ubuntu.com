@@ -55,15 +55,25 @@
 <div class="hgroup"><h1 class="title"><span class="title">Μεσαίο κλικ</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Πολλά ποντίκια και μερικές πινακίδες αφής έχουν ένα μεσαίο κουμπί ποντικιού. Σε ένα ποντίκι με κυλιόμενο τροχό, μπορείτε συνήθως να πατήσετε αμέσως κάτω στον κυλιόμενο τροχό για μεσαίο κλικ. Εάν δεν έχετε ένα μεσαίο πλήκτρο ποντικιού, μπορείτε να πατήσετε το αριστερό και δεξιό πλήκτρο του ποντικιού ταυτόχρονα για μεσαίο κλικ.</p>
+<p class="p">Many mice and some touchpads have a middle mouse button. On a mouse
+with a scroll wheel, you can usually press directly down on the scroll
+wheel to middle-click. If you don’t have a middle mouse button, you
+can press the left and right mouse buttons at the same time to
+middle-click.</p>
 <p class="p">Στις πινακίδες αφής που υποστηρίζουν πατήματα πολλαπλών δακτύλων, μπορείτε να πατήσετε με τρία δάκτυλα μονομιάς για μεσαίο κλικ. Πρέπει να <span class="link"><a href="mouse-touchpad-click.html" title="Κάντε κλικ, σύρετε ή κυλήστε με την πινακίδα αφής">ενεργοποιήσετε το πάτημα πληκτρολόγησης</a></span> στις ρυθμίσεις πινακίδας αφής για να δουλέψει.</p>
 <p class="p">Πολλές εφαρμογές χρησιμοποιούν το μεσαίο κλικ για προχωρημένες συντομεύσεις κλικ.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Στην επισκόπηση <span class="gui">Δραστηριότητες</span>, μπορείτε να ανοίξετε γρήγορα ένα νέο παράθυρο για μια εφαρμογή στο δικό της χώρο εργασίας με μεσαίο κλικ. Απλά πατήστε μεσαίο κλικ στο εικονίδιο της εφαρμογής, είτε στο αρχικό πλαίσιο στα αριστερά, ή στην επισκόπηση των εφαρμογών. Η επισκόπηση εφαρμογών εμφανίζεται χρησιμοποιώντας το κουμπί πλέγματος στο αρχικό πλαίσιο.</p></li>
+<li class="list"><p class="p">In the <span class="gui">Activities</span> overview, you can quickly open a new
+  window for an application in its own new workspace with middle-click. Simply
+  middle-click on the application’s icon, either in the dash on the left, or in
+  the applications overview. The applications overview is displayed using the
+  grid button in the dash.</p></li>
 <li class="list"><p class="p">Πολλοί περιηγητές ιστού επιτρέπουν να ανοίξετε συνδέσμους σε καρτέλες γρήγορα με το μεσαίο πλήκτρο του ποντικιού. Απλά κάντε κλικ σε οποιοδήποτε σύνδεσμο με το μεσαίο πλήκτρο του ποντικιού και θα ανοίξει σε μια νέα καρτέλα. Προσέξτε στο κλικ του συνδέσμου στον περιηγητή ιστού <span class="app">Firefox</span>, όμως. Στο <span class="app">Firefox</span>, εάν πατήσετε το μεσαίο κλικ οπουδήποτε εκτός από έναν σύνδεσμο, θα προσπαθήσει να φορτώσει το επιλεγμένο κείμενό σας ως μία διεύθυνση, σαν να χρησιμοποιήσατε το μεσαίο κλικ για επικόλλησή του στη γραμμή τοποθεσίας και πατήσατε <span class="key"><kbd>Enter</kbd></span>.</p></li>
 <li class="list"><p class="p">Στον διαχειριστή αρχείων, το μεσαίο κλικ εξυπηρετεί δύο ρόλους. Το μεσαίο κλικ σε έναν φάκελο, θα ανοίξει μια νέα καρτέλα. Αυτό μιμείται τη συμπεριφορά δημοφιλών περιηγητών ιστού. Με μεσαίο κλικ σε ένα αρχείο, ανοίγειτο αρχείο, σαν να ήταν διπλό κλικ.</p></li>
 </ul></div></div></div>
-<p class="p">Μερικές ειδικές εφαρμογές επιτρέπουν τη χρήση του μεσαίου πλήκτρου του ποντικιού για άλλες λειτουργίες. Αναζητήστε στη βοήθεια των εφαρμογών σας για <span class="em">μεσαίο κλικ</span> ή <span class="em">μεσαίο πλήκτρο ποντικιού</span>.</p>
+<p class="p">Some specialized applications allow you to use the middle mouse
+button for other functions. Search your application’s help for
+<span class="em">middle-click</span> or <span class="em">middle mouse button</span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

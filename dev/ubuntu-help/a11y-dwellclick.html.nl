@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Simulate clicking by hovering</title>
+<title>Klikken simuleren door erboven te zweven</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,60 +44,39 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="mouse.html" title="Mouse">Mouse</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Universele toegang">Universele toegang</a> › <a class="trail" href="a11y.html#mobility" title="Beperkte mobiliteit">Beperkte mobiliteit</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Universal access">Universal access</a> › <a class="trail" href="a11y.html#mobility" title="Mobility impairments">Mobility impairments</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="mouse.html" title="Muis">Muis</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="mouse.html" title="Mouse">Mouse</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="mouse.html" title="Muis">Muis</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Simulate clicking by hovering</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Klikken simuleren door erboven te zweven</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can click or drag simply by hovering your mouse pointer over a control
-  or object on the screen. This is useful if you find it difficult to move the
-  mouse and click at the same time. This feature is called <span class="gui">Hover
-  Click</span> or Dwell Click.</p>
-<p class="p">When <span class="gui">Hover Click</span> is enabled, you can move your mouse pointer
-  over a control, let go of the mouse, and then wait for a while before the
-  button will be clicked for you.</p>
+<p class="p">U kunt klikken of slepen door simpelweg met de muisaanwijzer boven een knop of object op het scherm te zweven. Dit is nuttig wanneer het voor u moeilijk is de muis te bewegen en gelijktijdig te klikken. Deze functie wordt <span class="gui">ZweefKlik</span> of ‘Hangklik’ genoemd.</p>
+<p class="p">Wanneer <span class="gui">ZweefKlik</span> is ingeschakeld kunt u de muisaanwijzer boven een knop plaatsen, de muis loslaten en even wachten totdat er voor u op de knop geklikt wordt.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Universal Access</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Universal Access</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Click Assist</span> in the <span class="gui">Pointing &amp;
-      Clicking</span> section.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Hover Click</span> to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Universele toegang</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Universele toegang</span> om het paneel te openen.</p></li>
+<li class="steps"><p class="p">Druk op <span class="gui">Typ-assistent</span> onder het kopje <span class="gui">Aanwijzen &amp; klikken</span>.</p></li>
+<li class="steps"><p class="p">Zet <span class="gui">ZweefKlik</span> <span class="gui">AAN</span>.</p></li>
 </ol></div></div></div>
-<p class="p">The <span class="gui">Hover Click</span> window will open, and will stay above all of
-  your other windows. You can use this to choose what sort of click should
-  happen when you hover. For example, if you select <span class="gui">Secondary Click</span>,
-  you will right-click when you hover. After you double-click, right-click, or
-  drag, you will be automatically returned to clicking.</p>
-<p class="p">When you hover your mouse pointer over a button and do not move it, it will
-  gradually change color. When it has fully changed color, the button will be
-  clicked.</p>
-<p class="p">Adjust the <span class="gui">Delay</span> setting to change how long you have to hold
-  the mouse pointer still before clicking.</p>
-<p class="p">You do not need to hold the mouse perfectly still when hovering to click.
-  The pointer is allowed to move a little bit and will still click after a
-  while. If it moves too much, however, the click will not happen.</p>
-<p class="p">Adjust the <span class="gui">Motion threshold</span> setting to change how much the
-  pointer can move and still be considered to be hovering.</p>
+<p class="p">Het venster <span class="gui">Zweefklik</span> zal openen en zal zich altijd op de voorgrond bevinden, boven al uw andere vensters. U kunt dit venster gebruiken om te kiezen wat voor soort klik gemaakt moet worden wanneer de muis boven een knop zweeft. Bijvoorbeeld, als u <span class="gui">Secondaire klik</span> inschakelt, zal de muis automatisch rechtsklikken wanneer u boven een knop zweeft. Na het dubbelklikken, rechtsklikken of slepen, schakelt de muis automatisch terug naar normaal klikken.</p>
+<p class="p">Wanneer u de muisaanwijzer boven een knop laat zweven, en niet beweegt, zal de knop geleidelijk aan van kleur veranderen. Wanneer de knop volledig van kleur veranderd is, zal deze aangeklikt worden.</p>
+<p class="p">Gebruik de <span class="gui">Vertraging</span>-schuifbalk om in te stellen hoe lang u de muis stil moet houden voordat er een muisklik wordt uitgevoerd.</p>
+<p class="p">U hoeft de muis niet helemaal stil te houden wanneer u de muisaanwijzer boven een knop laat zweven. De muis mag een klein beetje bewegen, en zal dan nog steeds klikken. Indien de aanwijzer te hevig beweegt, zal de klik niet plaatsvinden.</p>
+<p class="p">Pas de instelling <span class="gui">Bewegingsdrempel</span> aan om te wijzigen hoeveel de muisaanwijzer mag bewegen om nog steeds als zweven beschouwd te worden.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Mobility impairments">Mobility impairments</a></li>
+<li class="links "><a href="a11y.html#mobility" title="Beperkte mobiliteit">Beperkte mobiliteit</a></li>
 <li class="links ">
-<a href="mouse.html" title="Mouse">Mouse</a><span class="desc"> — 
-      <span class="link"><a href="mouse-lefthanded.html" title="Use your mouse left-handed">Left-handed</a></span>,
-      <span class="link"><a href="mouse-sensitivity.html" title="Adjust speed of the mouse and touchpad">speed and sensitivity</a></span>,
-      <span class="link"><a href="mouse-touchpad-click.html" title="Click, drag, or scroll with the touchpad">touchpad clicking and scrolling</a></span>…
-    </span>
+<a href="mouse.html" title="Muis">Muis</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="Gebruik de muis met uw linker hand">Linkshandig</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="De snelheid van de muis en het touchpad aanpassen">snelheid en gevoeligheid</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Klik, sleep, of scroll met het touchpad">touchpad klikken en scrollen</a></span>...</span>
 </li>
 </ul></div>
 </div></div></div>

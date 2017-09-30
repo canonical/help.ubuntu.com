@@ -53,7 +53,8 @@
   files at your discretion. When a file is hidden, it is not displayed by the
   file manager, but it is still there in its folder.</p>
 <p class="p">Pour cacher un fichier, <span class="link"><a href="files-rename.html" title="Modification d'un nom de fichier ou de dossier">renommez-le</a></span> en ajoutant un point (<span class="file">.</span>) au début de son nom. Par exemple, pour cacher le fichier appelé <span class="file">exemple.txt</span>, modifiez son nom en <span class="file">.exemple.txt</span>.</p>
-<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">Vous pouvez cacher des dossiers de la même façon que les fichiers. Renommez le dossier en ajoutant un point (<span class="file">.</span>) au début de son nom.</p></div></div></div></div>
+<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">You can hide folders in the same way that you can hide files. Hide a
+  folder by placing a <span class="file">.</span> at the beginning of the folder’s name.</p></div></div></div></div>
 </div>
 <div id="show-hidden" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Affichage de tous les fichiers cachés</span></h2></div>

@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Cancel, pause or release a print job</title>
+<title>Een printopdracht annuleren, pauzeren, of  vrijgeven</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,53 +43,45 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Common problems">Problems</a> » <a class="trail" href="printing.html#problems" title="Printerproblemen">Printerproblemen</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="printing.html#problems" title="Printerproblemen">Printerproblemen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Cancel, pause or release a print job</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Een printopdracht annuleren, pauzeren, of  vrijgeven</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">You can cancel a pending print job and remove it from the queue in the
-  printer settings.</p></div>
+<div class="contents"><p class="p">U kunt een wachtende printopdracht annuleren, en het in de printerinstellingen uit de wachtrij verwijderen.</p></div>
 <div id="cancel-print-job" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Een afdruktaak annuleren</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">If you accidentally started printing a document, you can cancel the print
-  so that you do not need to waste any ink or paper.</p>
+<p class="p">Als u per ongeluk een document bent beginnen te printen, dan kunt u de printopdracht annuleren zodat u geen inkt of papier hoeft te verspillen.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">How to cancel a print job:</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Een printopdracht annuleren:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Printers</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Printers</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Show Jobs</span> button on the right-hand side of the
-      <span class="gui">Printers</span> dialog.</p></li>
-<li class="steps"><p class="p">Cancel the print job by clicking the stop button.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Printers</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Printers</span> om het paneel te openen.</p></li>
+<li class="steps"><p class="p">Klik de <span class="gui">Taken weergeven</span>-knop aan de rechterkant van het <span class="gui">Printers</span>-dialoogvenster.</p></li>
+<li class="steps"><p class="p">Annuleer de printopdracht door op de stopknop te klikken.</p></li>
 </ol></div>
 </div></div>
 <p class="p">If this does not cancel the print job like you expected, try holding down
   the <span class="em">cancel</span> button on your printer.</p>
 <p class="p">As a last resort, especially if you have a big print job with a lot of
-  pages that will not cancel, remove the paper from the printer's paper input
+  pages that will not cancel, remove the paper from the printer’s paper input
   tray. The printer should realize that there is no paper and will stop
   printing. You can then try canceling the print job again, or try turning the
   printer off and then on again.</p>
-<div class="note note-warning" title="Waarschuwing"><div class="inner"><div class="region"><div class="contents"><p class="p">Be careful that you don't damage the printer when removing the paper,
+<div class="note note-warning" title="Waarschuwing"><div class="inner"><div class="region"><div class="contents"><p class="p">Be careful that you don’t damage the printer when removing the paper,
     though. If you would have to pull hard on the paper to remove it, you
     should probably just leave it where it is.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="pause-release-print-job" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Pause and release a print job</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Een printopdracht pauzeren en vrijgeven.</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">If you want to pause or release a print job, you can do so by going to the
-  jobs dialog in the printer settings and click the appropriate button.</p>
+<p class="p">Als u een printopdracht wil pauzeren of vrijgeven, dan kunt u dat doen door in de printerinstellingen naar de taken-dialoog te gaan en de juiste knop te klikken.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Printers</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Printers</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Show Jobs</span> button on the right-hand side of the
-      <span class="gui">Printers</span> dialog and either pause or release the print job
-      based on your needs.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Printers</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Printers</span> om het paneel te openen.</p></li>
+<li class="steps"><p class="p">Klik de <span class="gui">Taken weergeven</span>-knop aan de rechterkant van het <span class="gui">Printers</span>-dialoogvenster en pauzeer de printopdracht of geef deze vrij, afhankelijk van wat u wenst.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -98,7 +90,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing.html#problems" title="Printerproblemen">Printerproblemen</a><span class="desc"> — Undetected printers, paper jams, print-outs that look wrong…</span>
+<a href="printing.html#problems" title="Printerproblemen">Printerproblemen</a><span class="desc"> — Printers die niet zijn gedetecteerd, vastlopend papier, afdrukken die er niet goed uitzien…</span>
 </li></ul></div>
 </div></div></div>
 </div>

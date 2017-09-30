@@ -57,7 +57,7 @@
 <li class="steps"><p class="p">Πατήστε στο <span class="gui">Ξεκλείδωμα</span> στην πάνω δεξιά γωνία και πληκτρολογήστε τον κωδικό πρόσβασής σας όταν σας ζητηθεί.</p></li>
 <li class="steps"><p class="p">Επιλέξτε τον χρήστη του οποίου θέλετε να αλλάξετε τα δικαιώματα.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στην ετικέτα <span class="gui">Τυπικά</span> δίπλα στο <span class="gui">Τύπος λογαριασμού</span> και επιλέξτε <span class="gui">Διαχειριστής</span>.</p></li>
-<li class="steps"><p class="p">Τα δικαιώματα του χρήστη θα αλλαχθούν όταν ξανασυνδεθεί.</p></li>
+<li class="steps"><p class="p">The user’s privileges will be changed when they next log in.</p></li>
 </ol></div></div></div>
 <div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents">
 <p class="p">Ο πρώτος λογαριασμός χρήστη στο σύστημα είναι συνήθως αυτός που έχει δικαιώματα διαχειριστή. Αυτός είναι ο λογαριασμός χρήστη που δημιουργήθηκε όταν πρωτοεγκαταστήσατε το σύστημα.</p>

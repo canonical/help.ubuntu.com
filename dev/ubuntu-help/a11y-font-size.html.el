@@ -57,7 +57,8 @@
 </ol></div></div></div>
 <p class="p">Εναλλακτικά, μπορείτε να αλλάξετε άμεσα το μέγεθος του κειμένου κάνοντας κλικ στο <span class="link"><a href="a11y-icon.html" title="Βρείτε το μενού γενικής πρόσβασης">εικονίδιο προσιτότητας</a></span> στην πάνω γραμμή και επιλέγοντας <span class="gui">Μεγάλο κείμενο</span>.</p>
 <div class="note note-tip" title="Συμβουλή"><div class="inner"><div class="region"><div class="contents"><p class="p">Σε πολλές εφαρμογές, μπορείτε να αυξήσετε το μέγεθος του κειμένου οποτεδήποτε πατώντας <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>+</kbd></span></span>. Για να μειώσετε το μέγεθος του κειμένου, πατήστε <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>-</kbd></span></span>.</p></div></div></div></div>
-<p class="p">Το <span class="gui">Μεγάλο κείμενο</span> θα κλιμακώσει το κείμενο κατά 1.2 φορές. Μπορείτε να χρησιμοποιήσετε το εργαλείο <span class="app">Μικρορυθμίσεις (Gnome Tweak Tool)</span> για να κάνετε το μέγεθος του κειμένου μεγαλύτερο ή μικρότερο.</p>
+<p class="p"><span class="gui">Large Text</span> will scale the text by 1.2 times. You can use
+  <span class="app">Tweaks</span> to make text size bigger or smaller.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

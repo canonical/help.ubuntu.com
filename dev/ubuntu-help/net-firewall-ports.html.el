@@ -49,7 +49,11 @@
 <div class="hgroup"><h1 class="title"><span class="title">Κοινές χρησιμοποιούμενες θύρες δικτύου</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Αυτή είναι μια λίστα δικτυακών θυρών που χρησιμοποιούνται γενικά από εφαρμογές που παρέχουν υπηρεσίες δικτύου, όπως κοινή χρήση αρχείων ή απομακρυσμένη προβολή επιφάνειας εργασίας. Μπορείτε να αλλάξετε το τείχος προστασίας του συστήματός σας σε <span class="link"><a href="net-firewall-on-off.html" title="Ενεργοποιήστε ή φράξτε την πρόσβαση τείχους προστασίας">να φράσσεται ή να επιτρέπεται πρόσβαση</a></span> σε αυτές τις εφαρμογές. Υπάρχουν χιλιάδες θύρες σε χρήση, έτσι αυτός ο πίνακας δεν είναι πλήρης.</p>
+<p class="p">This is a list of network ports commonly used by applications that provide
+  network services, like file sharing or remote desktop viewing. You can change
+  your system’s firewall to <span class="link"><a href="net-firewall-on-off.html" title="Ενεργοποιήστε ή φράξτε την πρόσβαση τείχους προστασίας">block or allow
+  access</a></span> to these applications. There are thousands of ports in use, so
+  this table isn’t complete.</p>
 <div class="table"><div class="inner"><div class="region"><table class="table" style="border-top-style: solid;">
 <thead><tr>
 <td><p class="p">Θύρα</p></td>
@@ -75,7 +79,8 @@
 <tr>
 <td><p class="p">5298/tcp</p></td>
 <td><p class="p">Διαθεσιμότητα</p></td>
-<td><p class="p">Επιτρέπει τη διαφήμιση της κατάστασης άμεσων μηνυμάτων σας σε άλλα άτομα στο δίκτυο, όπως "συνδεμένος" ή "απασχολημένος".</p></td>
+<td><p class="p">Allows you to advertise your instant messaging status to other
+          people on the network, such as “online” or “busy”.</p></td>
 </tr>
 <tr class="shade">
 <td><p class="p">5900/tcp</p></td>

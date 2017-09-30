@@ -56,7 +56,13 @@
 <p class="p">Profile warna adalah kumpulan data yang mencirikan suatu perangkat seperti projektor atau ruang warna seperti sRGB.</p>
 <p class="p">Kebanyakan profil warna adalah dalam bentuk profil ICC, yang merupakan berkas kecil dengan ekstensi berkas <span class="input">.ICC</span> atau <span class="input">.ICM</span>.</p>
 <p class="p">Profil warna dapat ditanamkan ke dalam gambar untuk menyatakan jangkauan gamut data. Ini memastikan bahwa pengguna melihat warna yang sama pada perangkat berbeda.</p>
-<p class="p">Setiap perangkat yang memroses warna mesti memiliki profil ICCnya sendiri dan ketika ini dicapai sistem dikatakan memiliki <span class="em">alur kerja warna terkelola ujung ke ujung</span>. Dengan alur kerja seperti ini Anda bisa yakin bahwa warna tak hilang atau diubah.</p>
+<p class="p">
+    Every device that is processing color should have its own ICC
+    profile and when this is achieved the system is said to have an
+    <span class="em">end-to-end color-managed workflow</span>.
+    With this kind of workflow you can be sure that colors are not being
+    lost or modified.
+  </p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

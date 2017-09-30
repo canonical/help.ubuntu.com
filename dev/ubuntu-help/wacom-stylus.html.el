@@ -53,14 +53,19 @@
 <li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Wacom Tablet</span>.</p></li>
 <li class="steps">
 <p class="p">Κάντε κλικ στο <span class="gui">Tablet Wacom</span> για να ανοίξετε τον πίνακα.</p>
-<div class="note note-tip" title="Συμβουλή"><div class="inner"><div class="region"><div class="contents"><p class="p">Εάν δεν ανιχνευτεί κανένα tablet, θα σας ζητηθεί <span class="gui">Παρακαλούμε ενεργοποιήστε ή συνδέστε το Wacom tablet</span>. Κάντε κλικ στο σύνδεσμο <span class="gui">Ρυθμίσεις Bluetooth</span> για να συνδέσετε ένα ασύρματο tablet.</p></div></div></div></div>
+<div class="note note-tip" title="Συμβουλή"><div class="inner"><div class="region"><div class="contents"><p class="p">If no tablet is detected, you’ll be asked to
+    <span class="gui">Please plug in or turn on your Wacom tablet</span>. Click the
+    <span class="gui">Bluetooth Settings</span> link to connect a wireless tablet.</p></div></div></div></div>
 </li>
 <li class="steps">
 <p class="p">Το κατώτερο μέρος του πλαισίου περιέχει λεπτομέρειες και ρυθμίσεις ειδικές για τη γραφίδα σας, με το όνομα της συσκευής (την κλάση γραφίδα) και διάγραμμα στα αριστερά. Αυτές οι ρυθμίσεις μπορούν να προσαρμοστούν:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="gui">Αίσθηση πίεσης της σβήστρας:</span> χρησιμοποιήστε τον ολισθητή για να ρυθμίσετε την "αίσθηση" (πώς μεταφράζεται η φυσική πίεση σε ψηφιακές τιμές) μεταξύ <span class="gui">Μαλακής</span> και <span class="gui">Δυνατής</span>.</p></li>
+<li class="list"><p class="p"><span class="gui">Eraser Pressure Feel:</span> use the slider to adjust the
+       “feel” (how physical pressure is translated to digital values) between
+       <span class="gui">Soft</span> and <span class="gui">Firm</span>.</p></li>
 <li class="list"><p class="p">Η ρύθμιση <span class="gui">Κουμπί/Κυλιόμενος τροχός</span> (αυτά αλλάζουν για να αντανακλούν τη γραφίδα). Κάντε κλικ στο μενού δίπλα σε κάθε ετικέτα για να επιλέξτε μια από αυτές τις λειτουργίες: Καμμία ενέργεια, Αριστερό κλικ κουμπιού του ποντικιού, Μεσαίο κλικ κουμπιού του ποντικιού, Δεξί κλικ κουμπιού του ποντικιού, Κύλιση πάνω, Κύλιση κάτω, Κύλιση αριστερά, Κύλιση δεξιά, πίσω, μπροστά.</p></li>
-<li class="list"><p class="p"><span class="gui">Αίσθηση πίεσης άκρης:</span> χρησιμοποιήστε τον ολισθητή για να ρυθμίσετε την "αίσθηση" μεταξύ <span class="gui">Μαλακής</span> και <span class="gui">Δυνατής</span>.</p></li>
+<li class="list"><p class="p"><span class="gui">Tip Pressure Feel:</span> use the slider to adjust the
+       “feel” between <span class="gui">Soft</span> and <span class="gui">Firm</span>.</p></li>
 </ul></div></div></div>
 </li>
 </ol></div></div></div>

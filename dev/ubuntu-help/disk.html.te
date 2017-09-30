@@ -49,16 +49,19 @@
 <div class="hgroup"><h1 class="title"><span class="title">డిస్కులు మరియు నిల్వ</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
+<div class="linkdiv "><a class="linkdiv" href="disk-resize.html" title="Adjust the size of a filesystem"><span class="title">Adjust the size of a filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Shrink or grow a filesystem and its partition.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="addremove-creator.html" title="Create a startup disk"><span class="title">
     Create a startup disk
   </span><span class="linkdiv-dash"> — </span><span class="desc"> 
     Convert a USB flash drive into a volume from which you can startup and install Ubuntu.
     </span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-repair.html" title="Repair a damaged filesystem"><span class="title">Repair a damaged filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Check if a filesystem is damaged and bring it back into a usable
+          state.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-capacity.html" title="ఎంత డిస్కు జాగా మిగిలివుందో పరిశీలించు"><span class="title">ఎంత డిస్కు జాగా మిగిలివుందో పరిశీలించు</span><span class="linkdiv-dash"> — </span><span class="desc">జాగా మరియు సామర్ధ్యం పరిశీలించుటకు <span class="gui">డిస్కు వాడుక విశ్లేషకి</span> లేదా <span class="gui">వ్యవస్థ మానిటర్</span> వుపయోగించు.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-format.html" title="తీసివేయదగ డిస్కు పైని మొత్తం తుడిచివేయి"><span class="title">తీసివేయదగ డిస్కు పైని మొత్తం తుడిచివేయి</span><span class="linkdiv-dash"> — </span><span class="desc">USB ఫ్లాష్ డ్రైవ్‌ను ఫార్మాట్ చేసి దాని నుండి అన్ని ఫైళ్ళు మరియు సంచయాలను తీసివేయి.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-benchmark.html" title="మీ హార్డు డిస్కు యొక్క పనితనం పరిశీలించండి"><span class="title">మీ హార్డు డిస్కు యొక్క పనితనం పరిశీలించండి</span><span class="linkdiv-dash"> — </span><span class="desc">అది ఎంత వేగంగా వుందో పరిశీలించుటకు మీ హార్డుడిస్కుపై బెంచ్‌మార్క్స్ నడుపండి.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-partitions.html" title="వాల్యూమ్లు మరియు విభజనలు నిర్వహించుము"><span class="title">వాల్యూమ్లు మరియు విభజనలు నిర్వహించుము</span><span class="linkdiv-dash"> — </span><span class="desc">వాల్యూమ్లు మరియు విభజనలు అనగా ఏమిటో అర్ధంచేసుకొని వాటిని నిర్వహించుటకు డిస్కు సౌలభ్యం వుపయోగించండి.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-check.html" title="హార్డు డిస్కు సమస్యలను పరిశీలించండి"><span class="title">హార్డు డిస్కు సమస్యలను పరిశీలించండి</span><span class="linkdiv-dash"> — </span><span class="desc">మీ హార్డుడిస్కు ఆరోగ్యంగా వుంచుటకు దాని సమస్యలను క్షుణ్ణంగా పరిశీలించండి.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-check.html" title="హార్డు డిస్కు సమస్యలను పరిశీలించండి"><span class="title">హార్డు డిస్కు సమస్యలను పరిశీలించండి</span><span class="linkdiv-dash"> — </span><span class="desc">Test your hard disk for problems to make sure that it’s healthy.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

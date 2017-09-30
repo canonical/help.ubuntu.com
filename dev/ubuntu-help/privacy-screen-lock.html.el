@@ -49,7 +49,12 @@
 <div class="hgroup"><h1 class="title"><span class="title">Αυτόματο κλείδωμα της οθόνης</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Όταν αφήνετε τον υπολογιστή σας, θα πρέπει <span class="link"><a href="shell-exit.html#lock-screen" title="Κλείδωμα της οθόνης">να κλειδώσετε την οθόνη</a></span> για να αποτρέψετε άλλα άτομα να χρησιμοποιήσουν την επιφάνειας εργασίας σας και να έχουν πρόσβαση στα αρχεία σας. Αν μερικές φορές ξεχνάτε να κλειδώσετε την οθόνη σας, μπορείτε να χρησιμοποιήσετε το αυτόματο κλείδωμα της οθόνης του υπολογιστή σας μετά από ορισμένη περίοδο χρόνου. Αυτό θα βοηθήσει την ασφάλεια του υπολογιστή σας, όταν δεν τον χρησιμοποιείτε.</p>
+<p class="p">When you leave your computer, you should
+  <span class="link"><a href="shell-exit.html#lock-screen" title="Κλείδωμα της οθόνης">lock the screen</a></span> to prevent
+  other people from using your desktop and accessing your files. If you
+  sometimes forget to lock your screen, you may wish to have your computer’s
+  screen lock automatically after a set period of time. This will help to
+  secure your computer when you aren’t using it.</p>
 <div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">Όταν η οθόνη σας είναι κλειδωμένη, οι εφαρμογές σας και οι διεργασίες του συστήματος θα συνεχίσουν να εκτελούνται, αλλά θα χρειαστείτε να εισάγετε τον κωδικό πρόσβασής σας για να αρχίσετε να τις χρησιμοποιείτε ξανά.</p></div></div></div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Για να ορίσετε τη διάρκεια του χρόνου πριν να κλειδωθεί η οθόνη σας αυτόματα:</span></h2></div>
@@ -60,7 +65,11 @@
 <li class="steps"><p class="p">Βεβαιωθείτε ότι το <span class="gui">Αυτόματο κλείδωμα οθόνης</span> έχει αλλάξει σε <span class="gui">ΝΑΙ</span>, έπειτα επιλέξτε τη διάρκεια του χρόνου από την πτυσσόμενο λίστα.</p></li>
 </ol></div>
 </div></div>
-<div class="note note-tip" title="Συμβουλή"><div class="inner"><div class="region"><div class="contents"><p class="p">Οι εφαρμογές μπορούν να εμφανίσουν ειδοποιήσεις σε εσάς οι οποίες εμφανίζονται στην οθόνη κλειδώματος. Αυτό είναι βολικό, για παράδειγμα αν θέλετε να δείτε για μηνύματα αλληλογραφίας χωρίς να ξεκλειδώσετε την οθόνη. Αν ανησυχείτε να μην σας δουν άλλα άτομα τις ειδοποιήσεις, απενεργοποιήστε την επιλογή <span class="gui">Εμφάνιση ειδοποιήσεων</span>.</p></div></div></div></div>
+<div class="note note-tip" title="Συμβουλή"><div class="inner"><div class="region"><div class="contents"><p class="p">Applications can present notifications to you that are still displayed
+    on your lock screen. This is convenient, for example, to see if you have
+    any email without unlocking your screen. If you’re concerned about other
+    people seeing these notifications, switch <span class="gui">Show Notifications</span>
+    off.</p></div></div></div></div>
 <p class="p">Όταν η οθόνη σας είναι κλειδωμένη και θέλετε να την ξεκλειδώσετε, πατήστε το πλήκτρο <span class="key"><kbd>Esc</kbd></span>, ή σύρετε το ποντίκι σας από πάνω έως κάτω. Έπειτα εισάγετε τον κωδικό πρόσβασής σας και πατήστε το πλήκτρο <span class="key"><kbd>Enter</kbd></span> ή κάντε κλικ στο <span class="gui">Ξεκλείδωμα</span>. Εναλλακτικά, αρχίστε απλά να πληκτρολογείτε τον κωδικό πρόσβασής σας και θα αναιρεθεί αυτόματα το κλείδωμα καθώς πληκτρολογείτε.</p>
 </div>
 <div class="sect sect-links" role="navigation">

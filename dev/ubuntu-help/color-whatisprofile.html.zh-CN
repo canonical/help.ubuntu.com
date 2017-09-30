@@ -56,7 +56,13 @@
 <p class="p">色彩配置文件是一组描述设备(如投影仪)或色彩空间(如 sRGB)特征的数据。</p>
 <p class="p">大多数色彩配置文件采用 ICC 配置文件的形式，这是一种带有 <span class="input">.ICC</span> 或 <span class="input">.ICM</span> 文件扩展名的小文件。</p>
 <p class="p">色彩配置文件可嵌入图像以指明数据的色域范围。这可以确保用户在不同设备上看到相同颜色。</p>
-<p class="p">处理颜色的每一台设备都应具有自己的 ICC 配置文件，实现这一点后，系统即被认定拥有<span class="em">端到端色彩管理工作流程</span>。有了这种工作流程，您就可以确信颜色不会丢失或修改。</p>
+<p class="p">
+    Every device that is processing color should have its own ICC
+    profile and when this is achieved the system is said to have an
+    <span class="em">end-to-end color-managed workflow</span>.
+    With this kind of workflow you can be sure that colors are not being
+    lost or modified.
+  </p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

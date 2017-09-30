@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>File properties</title>
+<title>Bestandseigenschappen</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,66 +43,50 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">File properties</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Bestandseigenschappen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">To view information about a file or folder, right-click it and select
-  <span class="gui">Properties</span>. You can also select the file and press
-  <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Enter</kbd></span></span>.</p>
-<p class="p">The file properties window shows you information like the type of file,
-  the size of the file, and when you last modified it. If you need this
-  information often, you
-  can have it displayed in <span class="link"><a href="nautilus-list.html" title="Files list columns preferences">list view columns</a></span>
-  or <span class="link"><a href="nautilus-display.html#icon-captions" title="Icon captions">icon captions</a></span>.</p>
-<p class="p">The information given on the <span class="gui">Basic</span> tab is explained below.
-  There are also
-  <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html" title="Set file permissions">Permissions</a></span></span>
-  and <span class="gui"><span class="link"><a href="files-open.html#default" title="Change the default application">Open With</a></span></span> tabs. For
-  certain types of files, such as images and videos, there will be an extra tab
-  that provides information like the dimensions, duration, and codec.</p>
+<p class="p">Om informatie over een bestand of map te bekijken klikt u er met rechts op en kiest u <span class="gui">Eigenschappen</span>.  U kunt ook het bestand selecteren en daarna drukken op <span class="guiseq"><span class="gui">Alt</span> ▸ <span class="gui">Enter</span></span>.</p>
+<p class="p">Het bestandseigenschappenvenster toont u informatie zoals het bestandstype, de bestandsgrootte, en de datum waarop u het bestand voor het laatst gewijzigd heeft. Als u deze informatie vaak nodig heeft, dan kunt u die laten weergeven in <span class="link"><a href="nautilus-list.html" title="Files list columns preferences">lijstkolommen</a></span> of <span class="link"><a href="nautilus-display.html#icon-captions" title="Pictogrambijschriften">pictogrambijschriften</a></span>.</p>
+<p class="p">De informatie op het tabblad <span class="gui">Eenvoudig</span> wordt hieronder uitgelegd. Er zijn ook nog de volgende tabbladen: <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html" title="Bestandsrechten instellen">Rechten</a></span></span> en <span class="gui"><span class="link"><a href="files-open.html#default" title="De standaardtoepassing wijzigen">Openen met</a></span></span>. Voor bepaalde bestandstypes, zoals afbeeldingen en video's, is er een extra tabblad met informatie zoals afmetingen, duur en codec.</p>
 </div>
 <div id="basic" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Basic properties</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Basiseigenschappen</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Name</span></dt>
-<dd class="terms"><p class="p">You can rename the file by changing this field.
-    You can also rename a file outside the properties window. See
-    <span class="link"><a href="files-rename.html" title="Rename a file or folder">Rename a file or folder</a></span>.</p></dd>
+<dt class="terms"><span class="gui">Naam</span></dt>
+<dd class="terms"><p class="p">U kunt het bestand hernoemen door dit veld te wijzigen. U kunt een bestand ook buiten het eigenschappenvenster hernoemen. Zie <span class="link"><a href="files-rename.html" title="Een bestand of map hernoemen">Een bestand of map hernoemen</a></span>.</p></dd>
 <dt class="terms"><span class="gui">Type</span></dt>
 <dd class="terms">
 <p class="p">This helps you identify the type of the file, such as PDF document,
     OpenDocument Text, or JPEG image. The file type determines which
     applications can open the file, among other things. For example, you
-    can't open a picture with a music player. See <span class="link"><a href="files-open.html" title="Open files with other applications">Open files with other applications</a></span>
+    can’t open a picture with a music player. See <span class="link"><a href="files-open.html" title="Bestanden openen met andere toepassingen">Bestanden openen met andere toepassingen</a></span>
     for more information on this.</p>
-<p class="p">The <span class="em">MIME type</span> of the file is shown in parentheses; MIME type is
-    a standard way that computers use to refer to the file type.</p>
+<p class="p">Het <span class="em">MIME-type</span> van het bestand wordt tussen haakjes getoond; MIME is een door computers gebruikte standaard manier om naar een bestandstype te verwijzen.</p>
 </dd>
-<dt class="terms">Contents</dt>
-<dd class="terms"><p class="p">This field is displayed if you are looking at the properties of a folder rather than a file. It helps you see the number of items in the folder.  If the folder includes other folders, each inner folder is counted as one item, even if it contains further items. Each file is also counted as one item. If the folder is empty, the contents will display <span class="gui">nothing</span>.</p></dd>
-<dt class="terms">Size</dt>
+<dt class="terms">Inhoud</dt>
+<dd class="terms"><p class="p">Dit veld wordt weergegeven als u de eigenschappen van een map bekijkt. Hier ziet u het aantal items in de map. Als de map andere mappen bevat, dan wordt elke submap geteld als één item, zelfs als deze nog meer items bevat. Elk bestand wordt ook als één item geteld. Als de map leeg is, dan staat er bij Inhoud ‘niets’.</p></dd>
+<dt class="terms">Grootte</dt>
 <dd class="terms">
-<p class="p">This field is displayed if you are looking at a file (not a folder). The size of a file tells you how much disk space it takes up. This is also an indicator of how long it will take to download a file or send it in an email (big files take longer to send/receive).</p>
-<p class="p">Sizes may be given in bytes, KB, MB, or GB; in the case of the last three, the size in bytes will also be given in parentheses. Technically, 1 KB is 1024 bytes, 1 MB is 1024 KB and so on.</p>
+<p class="p">Dit veld wordt weergegeven als u een bestand (niet een map) bekijkt. De grootte van een bestand vertelt u hoeveel schijfruimte het in beslag neemt. Dit vertelt ook iets over hoe lang het zal duren om een bestand te downloaden of mee te sturen in een e-mail (bij grote bestanden duurt het lang om ze te versturen of te ontvangen).</p>
+<p class="p">De grootte kan opgegeven zijn in bytes, KB, MB of GB; bij de laatste drie wordt ook tussel haakjes de grootte in bytes gegeven. 1 KB is 1024 bytes, 1 MB is 1024 KB enz.</p>
 </dd>
-<dt class="terms">Parent Folder</dt>
+<dt class="terms">Bovenliggende map</dt>
 <dd class="terms"><p class="p">The location of each file on your computer is given by its <span class="em">absolute
-    path</span>. This is a unique "address" of the file on your computer, made up
+    path</span>. This is a unique “address” of the file on your computer, made up
     of a list of the folders that you would need to go into to find the file.
     For example, if Jim had a file called <span class="file">Resume.pdf</span> in his Home
     folder, its parent folder would be <span class="file">/home/jim</span> and its location
     would be <span class="file">/home/jim/Resume.pdf</span>.</p></dd>
-<dt class="terms">Free Space</dt>
-<dd class="terms"><p class="p">This is only displayed for folders. It gives the amount of disk space
-    which is available on the disk that the folder is on. This is useful for
-    checking if the hard disk is full.</p></dd>
-<dt class="terms">Accessed</dt>
-<dd class="terms"><p class="p">The date and time when the file was last opened.</p></dd>
-<dt class="terms">Modified</dt>
-<dd class="terms"><p class="p">The date and time when the file was last changed and saved.</p></dd>
+<dt class="terms">Vrije ruimte</dt>
+<dd class="terms"><p class="p">Dit wordt alleen weergegeven voor mappen. Hier wordt de hoeveelheid schijfruimte opgegeven die beschikbaar is op de schijf waarop de map zich bevindt. Dit is nuttig om te controleren of de harde schijf vol is.</p></dd>
+<dt class="terms">Benaderd</dt>
+<dd class="terms"><p class="p">De datum en tijd waarop het bestand voor het laatst geopend werd.</p></dd>
+<dt class="terms">Gewijzigd</dt>
+<dd class="terms"><p class="p">De datum en tijd waarop het bestand voor het laatst werd gewijzigd en opgeslagen.</p></dd>
 </dl></div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -110,12 +94,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-file-properties-permissions.html" title="Set file permissions">Set file permissions</a><span class="desc"> — Control who can view and edit your files and folders.</span>
+<a href="nautilus-file-properties-permissions.html" title="Bestandsrechten instellen">Bestandsrechten instellen</a><span class="desc"> — Beheren wie uw bestanden en mappen mogen bekijken en bewerken.</span>
 </li></ul></div>
 </div></div>
 </div>

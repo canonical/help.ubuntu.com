@@ -64,7 +64,10 @@
 <div class="hgroup"><h2 class="title"><span class="title">Εγκατάσταση λογισμικού με το Synaptic</span></h2></div>
 <div class="region"><div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξετ το Synaptic από το <span class="gui">Dash</span> ή τον <span class="gui">Εκκινητή</span>. Θα χρειαστεί να εισάγετο τον κωδικό σας στο παράθυρο <span class="gui">Πιστοποίησης</span>.</p></li>
+<li class="steps"><p class="p">
+          Open <span class="app">Synaptic</span> via the <span class="em">Activities</span> search bar. You 
+          will need to enter your password in the <span class="gui">Authenticate</span> window.
+        </p></li>
 <li class="steps"><p class="p">Κάντε κλικ στην <span class="gui">Αναζήτηση</span> για να αναζητήσετε μια εφαρμογή, ή κάντε κλικ στα <span class="gui">Τμήματα</span> και κοιτάξτε μέσα στις κατηγορίες εφαρμογών για να βρείτε μία.</p></li>
 <li class="steps"><p class="p">Κάντε δεξί κλικ σε μία εφαρμογή που θέλετε να εγκαταστήσετε και επιλέξτε <span class="gui">Σημείωση για εγκατάσταση</span>.</p></li>
 <li class="steps"><p class="p">Αν σας ζητηθεί να επιλέξετε επιπρόσθετες αλλαγές, πατήστε <span class="gui">Επιλογή</span>.</p></li>

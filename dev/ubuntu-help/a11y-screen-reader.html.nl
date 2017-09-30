@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Read screen aloud</title>
+<title>Scherm hardop lezen</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,46 +43,38 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Universal access">Universal access</a> › <a class="trail" href="a11y.html#vision" title="Visual impairments">Visual impairments</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Universele toegang">Universele toegang</a> › <a class="trail" href="a11y.html#vision" title="Visuele beperkingen">Visuele beperkingen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Read screen aloud</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Scherm hardop lezen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">GNOME provides the <span class="app">Orca</span> screen reader to speak the user
-  interface. Depending on how you installed GNOME, you might not have
-  Orca installed. If not, install Orca first.</p>
-<p class="p">To start <span class="app">Orca</span> using the keyboard:</p>
-<div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps"><p class="p">Press <span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>S</kbd></span>.</p></li></ol></div></div></div>
-<p class="p">Or to start <span class="app">Orca</span> using a mouse and keyboard:</p>
+<p class="p">Gnome levert de <span class="app">Orca</span>-schermlezer waarmee de gebruikersinterface kan worden uitgesproken. Afhankelijk van hoe u Gnome geïnstalleerd heeft kan het zijn dat Orca bij u niet geïnstalleerd is. Als dat het geval is dient u Orca eerst te installeren.</p>
+<p class="p">Om <span class="app">Orca</span> te starten via het toetsenbord:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps"><p class="p">Druk op <span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>S</kbd></span>.</p></li></ol></div></div></div>
+<p class="p">Of om <span class="app">Orca</span> te starten via muis en toetsenbord:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Universal Access</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Universal Access</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Screen Reader</span> in the <span class="gui">Seeing</span> section, then
-      switch <span class="gui">Screen Reader</span> on in the dialog.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Universele toegang</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Universele toegang</span> om het paneel te openen.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Schermlezer</span> onder het kopje <span class="gui">Zicht</span>, en zet vervolgens <span class="gui">Schermlezer</span> aan in het venster.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Tip"><div class="inner">
-<div class="title title-note"><h2><span class="title">Quickly turn Screen Reader on and off</span></h2></div>
-<div class="region"><div class="contents"><p class="p">You can turn Screen Reader on and off by clicking the
-    <span class="link"><a href="a11y-icon.html" title="Find the universal access menu">accessibility icon</a></span> in the top bar and
-    selecting <span class="gui">Screen Reader</span>.</p></div></div>
+<div class="title title-note"><h2><span class="title">Schermlezer snel in- of uitschakelen</span></h2></div>
+<div class="region"><div class="contents"><p class="p">U kunt Schermlezer aan- en uitzetten door te klikken op het <span class="link"><a href="a11y-icon.html" title="Het menu Universele toegang vinden">toegankelijkheidspictogram</a></span> in de bovenste balk en <span class="gui">Schermlezer</span> te selecteren. </p></div></div>
 </div></div>
-<p class="p">Refer to the <span class="link"><a href="help:orca" title="help:orca">Orca Help</a></span> for
-  more information.</p>
+<p class="p">Kijk in de <span class="link"><a href="help:orca" title="help:orca">Hulp voor Orca</a></span> voor meer informatie.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#vision" title="Visual impairments">Visual impairments</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html#vision" title="Visuele beperkingen">Visuele beperkingen</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="a11y-braille.html" title="Read screen in Braille">Read screen in Braille</a><span class="desc"> — Use the <span class="app">Orca</span> screen reader with a refreshable Braille
-    display.</span>
+<a href="a11y-braille.html" title="Het scherm in braille lezen">Het scherm in braille lezen</a><span class="desc"> — Gebruik de schermlezer <span class="app">Orca</span> met een verversbaar braillescherm.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -74,9 +74,9 @@
 <dd class="terms"><p class="p">Umístění jednotlivých souborů v počítači je dáno jejich <span class="em">absolutní cestou</span>. Jedná se o jedinečnou „adresu“ souboru v počítači, která sestává ze seznamu složek, kterými musíte projít, abyste se k souboru dostali. Například, když má Honza v domovské složce soubor s názvem <span class="file">Výsledky.pdf</span>, je jeho rodičovskou složkou <span class="file">/home/honza</span> a jeho umístění je <span class="file">/home/honza/Výsledky.pdf</span>.</p></dd>
 <dt class="terms">Volné místo</dt>
 <dd class="terms"><p class="p">Zobrazuje se jen u složek. Uvádí množství volného místa, které je dostupné na disku, na kterém se složka nachází. Hodí se pro přehled, jestli není disk plný.</p></dd>
-<dt class="terms">Použitý</dt>
+<dt class="terms">Použito</dt>
 <dd class="terms"><p class="p">Datum a čas, kdy byl soubor naposledy otevřen.</p></dd>
-<dt class="terms">Změněný</dt>
+<dt class="terms">Změněno</dt>
 <dd class="terms"><p class="p">Datum a čas, kdy byl soubor naposledy změněn a uložen.</p></dd>
 </dl></div></div></div></div></div>
 </div></div>

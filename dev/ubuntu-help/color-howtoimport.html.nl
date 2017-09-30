@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>How do I import color profiles?</title>
+<title>Hoe importeer ik  kleurprofielen?</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,49 +44,40 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="color.html" title="Color management">Color management</a> › <a class="trail" href="color.html#profiles" title="Color profiles">Color profiles</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html#profiles" title="Kleurprofielen">Kleurprofielen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="color.html" title="Color management">Color management</a> › <a class="trail" href="color.html#profiles" title="Color profiles">Color profiles</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html#profiles" title="Kleurprofielen">Kleurprofielen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">How do I import color profiles?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Hoe importeer ik  kleurprofielen?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can import a color profile by double clicking on a <span class="file">.ICC</span>
-  or <span class="file">.ICM</span> file in the file browser.</p>
-<p class="p">Alternatively you can manage your color profiles through the
-  <span class="gui">Color</span> panel.</p>
+<p class="p">U kunt een kleurprofiel importeren door te dubbelklikken op een <span class="input">.ICC-</span> of <span class="input">.ICM-</span>-bestand in de bestandsverkenner.</p>
+<p class="p">U kunt ook uw kleurprofielen beheren via het venster <span class="gui">Kleur</span></p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Color</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Color</span> to open the panel and select your
-      device.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Add profile</span> to select an existing profile or import
-      a new profile.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Add</span> to confirm your selection.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Kleur</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Kleur</span> om het venster te openen en kies uw scanner.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Profiel toevoegen</span> om een bestaand profiel te selecteren of een nieuw profiel te importeren.</p></li>
+<li class="steps"><p class="p">Druk op <span class="gui">Toevoegen</span> om uw selectie te bevestigen.</p></li>
 </ol></div></div></div>
-<p class="p">The manufacturer of your display may supply a profile that you can use.
-  These profiles are usually made for the average display, so may not be perfect
-  for your specific one. For the best calibration, you should
-  <span class="link"><a href="color-calibrate-screen.html" title="How do I calibrate my screen?">create your own profile</a></span> using a
-  colorimeter or a spectrophotometer.</p>
+<p class="p">De fabrikant van uw scherm kan een profiel hebben meegeleverd dat u kunt gebruiken. Deze profielen zijn meestal gemaakt voor het gemiddelde scherm en dus niet ideaal voor dat van u. Voor de beste kalibratie kunt u <span class="link"><a href="color-calibrate-screen.html" title="Hoe kalibreer ik mijn scherm?">uw eigen profiel aanmaken</a></span> met behulp van een colorimeter of een spectrofotometer.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#profiles" title="Color profiles">Color profiles</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html#profiles" title="Kleurprofielen">Kleurprofielen</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-assignprofiles.html" title="How do I assign profiles to devices?">How do I assign profiles to devices?</a><span class="desc"> — Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span>
+<a href="color-assignprofiles.html" title="Hoe kan ik profielen toewijzen aan apparaten?">Hoe kan ik profielen toewijzen aan apparaten?</a><span class="desc"> —  Ga in <span class="guiseq"><span class="gui">Instellingen</span> ▸ <span class="gui">Kleur</span></span> om een kleurprofiel voor uw scherm toe te voegen.</span>
 </li>
 <li class="links ">
-<a href="color-whatisprofile.html" title="What is a color profile?">What is a color profile?</a><span class="desc"> — A color profile is a simple file that expresses a color space or device response.</span>
+<a href="color-whatisprofile.html" title="Wat is een kleurprofiel?">Wat is een kleurprofiel?</a><span class="desc"> — Een kleurprofiel is een eenvoudig bestand dat een kleurruimte of de respons van een apparaat uitdrukt.</span>
 </li>
 </ul></div>
 </div></div>

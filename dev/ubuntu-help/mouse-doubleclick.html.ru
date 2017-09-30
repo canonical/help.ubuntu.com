@@ -55,7 +55,10 @@
 <div class="hgroup"><h1 class="title"><span class="title">Настройка скорости двойного нажатия</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Двойное нажатие происходит при достаточно быстром двойном нажатии клавиши мыши. Если второе нажатие запаздывает, получается не двойное нажатие, а два одиночных нажатия. Если пользователю трудно быстро нажимать кнопку мыши, можно увеличить время задержки двойного нажатия.</p>
+<p class="p">Double-clicking only happens when you press the mouse button twice
+quickly enough. If the second press is too long after the first, you’ll
+just get two separate clicks, not a double click. If you have difficulty
+pressing the mouse button quickly, you should increase the timeout.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
   start typing <span class="gui">Universal Access</span>.</p></li>

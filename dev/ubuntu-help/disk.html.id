@@ -49,6 +49,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Disk &amp; penyimpanan</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
+<div class="linkdiv "><a class="linkdiv" href="disk-resize.html" title="Adjust the size of a filesystem"><span class="title">Adjust the size of a filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Shrink or grow a filesystem and its partition.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="addremove-creator.html" title="Create a startup disk"><span class="title">
     Create a startup disk
   </span><span class="linkdiv-dash"> — </span><span class="desc"> 
@@ -56,8 +57,10 @@
     </span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-format.html" title="Hapus segalanya dari disk lepas pasang"><span class="title">Hapus segalanya dari disk lepas pasang</span><span class="linkdiv-dash"> — </span><span class="desc">Hapus semua berkas dan folder dari suatu hard disk eksternal atau flash drive USB dengan memformatnya.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-partitions.html" title="Mengelola volume dan partisi"><span class="title">Mengelola volume dan partisi</span><span class="linkdiv-dash"> — </span><span class="desc">Memahami apa itu volume dan partisi dan memakai utilitas disk untuk mengelola mereka.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-check.html" title="Periksa hard disk Anda apakah bermasalah"><span class="title">Periksa hard disk Anda apakah bermasalah</span><span class="linkdiv-dash"> — </span><span class="desc">Uji hard disk Anda apakah bermasalah untuk memastikan itu sehat.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-check.html" title="Periksa hard disk Anda apakah bermasalah"><span class="title">Periksa hard disk Anda apakah bermasalah</span><span class="linkdiv-dash"> — </span><span class="desc">Test your hard disk for problems to make sure that it’s healthy.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-capacity.html" title="Periksa seberapa banyak ruang disk yang tersisa"><span class="title">Periksa seberapa banyak ruang disk yang tersisa</span><span class="linkdiv-dash"> — </span><span class="desc">Pakai <span class="gui">Penganalisa Penggunaan Disk</span> atau <span class="gui">Pemantau Sistem</span> untuk memeriksa ruang dan kapasitas.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-repair.html" title="Repair a damaged filesystem"><span class="title">Repair a damaged filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Check if a filesystem is damaged and bring it back into a usable
+          state.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-benchmark.html" title="Uji kinerja hard disk Anda"><span class="title">Uji kinerja hard disk Anda</span><span class="linkdiv-dash"> — </span><span class="desc">Jalankan benchmark pada hard disk Anda untuk memeriksa seberapa cepat dia.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">

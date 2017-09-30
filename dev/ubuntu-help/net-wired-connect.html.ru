@@ -55,7 +55,10 @@
   on the top bar with three dots while the connection is being established. The
   dots disappear when you are connected.</p>
 <p class="p">Если этого не произошло, в первую очередь проверьте, подключён ли сетевой кабель. Один его конец должен быть включен в прямоугольный порт Ethernet на компьютере, а второй должен быть подключён к сетевому коммутатору, маршрутизатору, настенной сетевой розетке и т.п. (в зависимости от устройства вашей сети). Иногда световой индикатор рядом с портом Ethernet указывает, что он подключён и активен.</p>
-<div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents"><p class="p">Нельзя просто подключить один компьютер к другому сетевым кабелем (по крайней мере, без некоторых дополнительных настроек). Чтобы соединить два компьютера, нужно подключить каждый из них к сетевому концентратору, маршрутизатору или коммутатору.</p></div></div></div></div>
+<div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents"><p class="p">You can’t plug one computer directly into another one with a network
+    cable (at least, not without some extra setting-up). To connect two
+    computers, you should plug them both into a network hub, router or
+    switch.</p></div></div></div></div>
 <p class="p">Если соединение всё ещё не установлено, возможно, ваша сеть не поддерживает автоматическую настройку (DHCP). В таком случае, придётся <span class="link"><a href="net-manual.html" title="Настройка параметров соединения вручную">настроить её вручную</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">

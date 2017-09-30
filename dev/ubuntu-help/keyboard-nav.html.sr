@@ -69,10 +69,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Тастери стрелица</p></td>
-<td style="border-top-style: solid;">
-<p class="p">Премештајте избор између ставки у једном управљању, или уз скуп односних управљања. Користите тастере стрелица да поставите у први план дугмад на траци алата, изаберете ставке на списку или у прегледу иконицама, или да изаберете радио дугме из групе.</p>
-<p class="p">У прегледу стаблом, користите леву и десну стрелицу да скупите и раширите ставке са садржајем.</p>
-</td>
+<td style="border-top-style: solid;"><p class="p">Премештајте избор између ставки у једном управљању, или уз скуп односних управљања. Користите тастере стрелица да поставите у први план дугмад на траци алата, изаберете ставке на списку или у прегледу иконицама, или да изаберете радио дугме из групе.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ктрл</kbd></span>+Тастери стрелица</span></p></td>
@@ -81,6 +78,10 @@
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Шифт</kbd></span>+Тастери стрелица</span></p></td>
 <td style="border-top-style: solid;"><p class="p">У прегледу списком или иконицама, изаберите све ставке од тренутно изабране све до новофокусиране ставке.</p></td>
+<td style="border-top-style: solid;"><p class="p">In a tree view, items that have children can be expanded or collapsed,
+    to show or hide their children: expand by pressing
+    <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>→</kbd></span></span>, and collapse by
+    pressing <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>←</kbd></span></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Размак</kbd></span></p></td>

@@ -63,10 +63,7 @@
 <li class="steps"><p class="p">Изаберите план у складу са врстом уређаја за повезивање. Ово ће одредити назив приступне тачке. Притисните <span class="gui">Следеће</span>.</p></li>
 <li class="steps"><p class="p">Потврдите подешавања која сте изабрали притиском на дугме <span class="gui">Примени</span>. Чаробњак ће се затворити а панел <span class="gui">Мреже</span> ће приказати својства ваше везе.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Савет"><div class="inner"><div class="region"><div class="contents"><p class="p">Some phones have a setting called <span class="em">USB tethering</span> that requires
-      no setup on the computer. When the setting is activated on the phone, the
-      connection will show up as <span class="gui">Ethernet Connected</span> in the system
-      menu and <span class="gui">USB ethernet</span> in the network panel.</p></div></div></div></div>
+<div class="note note-tip" title="Савет"><div class="inner"><div class="region"><div class="contents"><p class="p">Неки телефони имају поставку под називом <span class="em">УСБ повезивање</span> која не захтева подешавање на рачунару. Када је подешавање активирано на телефону, веза ће се појавити као <span class="gui">Повезан жичано</span> у системском изборнику а <span class="gui">УСБ жичана</span> на мрежном панелу.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

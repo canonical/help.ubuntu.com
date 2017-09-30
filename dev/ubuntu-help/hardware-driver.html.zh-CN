@@ -49,7 +49,9 @@
 <div class="hgroup"><h1 class="title"><span class="title">什么是驱动？</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">设备是您计算机实际“部分”，它们可能是<span class="em">外置</span>的，比如打印机和显示器，也可能是<span class="em">内置</span>的，比如显卡和声卡。</p>
+<p class="p">Devices are the physical “parts” of your computer. They may be
+<span class="em">external</span> like printers and monitor or <span class="em">internal</span> like graphics
+and audio cards.</p>
 <p class="p">为了能使用这些设备，需要知道如何跟它们沟通，这样的程序称作<span class="em">设备驱动</span>。</p>
 <p class="p">When you attach a device to your computer, you must have the correct driver
 installed for that device to work. For example, if you plug in a printer but

@@ -57,7 +57,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Användbara tangentbordsgenvägar</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Denna visa tillhandahåller en översikt över kortkommandon som kan hjälpa dig att använda ditt skrivbord och program mer effektivt. Om du inte kan använda en mus eller ett pekdon alls, se <span class="link"><a href="keyboard-nav.html" title="Tangentbordsnavigation">Tangentbordsnavigation</a></span> för vidare information om hur man navigerar i användargränssnittet enbart med tangentbordet.</p>
+<p class="p">Denna sida tillhandahåller en översikt över kortkommandon som kan hjälpa dig att använda ditt skrivbord och program mer effektivt. Om du inte kan använda en mus eller ett pekdon alls, se <span class="link"><a href="keyboard-nav.html" title="Tangentbordsnavigation">Tangentbordsnavigation</a></span> för vidare information om hur man navigerar i användargränssnittet enbart med tangentbordet.</p>
 <div class="table ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="true"></div>
 <div class="inner">

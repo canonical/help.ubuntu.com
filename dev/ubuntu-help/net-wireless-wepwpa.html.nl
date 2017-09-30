@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>What do WEP and WPA mean?</title>
+<title>Wat betekenen WEP en WPA?</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,33 +43,29 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="Wireless Networking">Wireless Networking</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html" title="Draadloos netwerk">Draadloos netwerk</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">What do WEP and WPA mean?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Wat betekenen WEP en WPA?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">WEP and WPA (along with WPA2) are names for different encryption tools
   used to secure your wireless connection. Encryption scrambles the network
-  connection so that no one can "listen in" to it and look at which web pages
+  connection so that no one can “listen in” to it and look at which web pages
   you are viewing, for example. WEP stands for <span class="em">Wired Equivalent
   Privacy</span>, and WPA stands for <span class="em">Wireless Protected Access</span>. WPA2 is
   the second version of the WPA standard.</p>
-<p class="p">Using <span class="em">some</span> encryption is always better than using none, but WEP
-  is the least secure of these standards, and you should not use it if you can
-  avoid it. WPA2 is the most secure of the three. If your wireless card and
-  router support WPA2, that is what you should use when setting up your
-  wireless network.</p>
+<p class="p">Het gebruik van <span class="em">enige</span> versleuteling is altijd beter dan geen, maar WEP is de minst veilige van deze standaarden; gebruik deze niet als u het kunt vermijden. WPA2 is de veiligste van de drie. Als uw draadloze kaart en router WPA2 ondersteunen, dan moet u deze gebruiken wanneer u uw draadloze netwerk instelt.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Wireless Networking">Wireless Networking</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html" title="Connect to a wireless network">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="Connect to a hidden wireless network">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="Why does my wireless network keep disconnecting?">Disconnecting</a></span>…
+<a href="net-wireless.html" title="Draadloos netwerk">Draadloos netwerk</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html" title="Verbinding maken met een draadloos netwerk">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html" title="Met een verborgen draadloos netwerk verbinden">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Disconnecting</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

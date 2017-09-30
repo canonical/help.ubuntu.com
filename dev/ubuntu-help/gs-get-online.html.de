@@ -60,7 +60,7 @@
 <li class="steps">
 <p class="p">Das Netzwerkverbindungssymbol rechts auf der oberen Leiste zeigt, dass Sie offline sind.</p>
 <p class="p">Der Offline-Status kann verschiedene Ursachen haben: Zum Beispiel ist das Netzwerkkabel nicht eingesteckt, der Rechner wurde in den <span class="em">Flugzeug-Modus</span> versetzt, oder es gibt keine verfügbaren Funknetzwerke in der Umgebung.</p>
-<p class="p">Wenn Sie eine kabelgebundene Verbindung verwenden wollen, stecken Sie einfach das Netzwerkkabel ein. Der Rechner wird versuchen, die Netzwerkverbindung für Sie automatisch einzurichten. </p>
+<p class="p">Wenn Sie eine kabelgebundene Verbindung verwenden wollen, stecken Sie einfach das Netzwerkkabel ein. Der Rechner wird versuchen, die Netzwerkverbindung für Sie automatisch einzurichten.</p>
 <p class="p">Während der Rechner die Netzwerkverbindung für Sie einrichtet, werden drei Punkte anstelle des Netzwerkverbindungssymbols angezeigt.</p>
 </li>
 <li class="steps"><p class="p">Sobald die Netzwerkverbindung erfolgreich eingerichtet wurde, ändert sich das Netzwerkverbindungssymbol und zeigt einen vernetzten Rechner an.</p></li>

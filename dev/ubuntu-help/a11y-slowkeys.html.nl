@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Turn on slow keys</title>
+<title>Trage toetsen inschakelen</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,50 +44,34 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="keyboard.html" title="Keyboard">Keyboard</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Universele toegang">Universele toegang</a> › <a class="trail" href="a11y.html#mobility" title="Beperkte mobiliteit">Beperkte mobiliteit</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Universal access">Universal access</a> › <a class="trail" href="a11y.html#mobility" title="Mobility impairments">Mobility impairments</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="keyboard.html" title="Toetsenbord">Toetsenbord</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="keyboard.html" title="Keyboard">Keyboard</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="keyboard.html" title="Toetsenbord">Toetsenbord</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Turn on slow keys</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Trage toetsen inschakelen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Turn on <span class="em">slow keys</span> if you would like there to be a delay between
-  pressing a key and that letter being displayed on the screen. This means that
-  you have to hold down each key you want to type for a little while before it
-  appears. Use slow keys if you accidentally press several keys at a time when
-  you type, or if you find it difficult to press the right key on the keyboard
-  first time.</p>
+<p class="p">Schakel <span class="em">Trage toetsen</span> in, wanneer u wilt dat er een vertraging is tussen het indrukken van een toets en het tonen van het teken op het beeldscherm. Dit betekent dat u de toets voor elk teken dat u wilt typen een tijdje ingedrukt moet houden voordat dat teken verschijnt. Gebruik toetsvertraging indien u per ongeluk gelijktijdig verschillende toetsen indrukt wanneer u typt, of wanneer het moeilijk voor u is direct de juist toets in te drukken.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Universal Access</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Universal Access</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Typing Assist (AccessX)</span> in the <span class="gui">Typing</span>
-      section.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Slow Keys</span> to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Universele toegang</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Universele toegang</span> om het paneel te openen.</p></li>
+<li class="steps"><p class="p">Druk op <span class="gui">Typ-assistent (AccessX)</span> onder het kopje <span class="gui">Typen</span>.</p></li>
+<li class="steps"><p class="p">Zet <span class="gui">Trage toetsen</span> <span class="gui">AAN</span>.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Tip"><div class="inner">
-<div class="title title-note"><h2><span class="title">Quickly turn slow keys on and off</span></h2></div>
+<div class="title title-note"><h2><span class="title">Trage toetsen snel aan- en uitzetten</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Under <span class="gui">Enable by Keyboard</span>, select
-    <span class="gui">Turn on accessibility features from the keyboard</span> to
-    turn slow keys on and off from the keyboard. When this option is selected,
-    you can press and hold <span class="key"><kbd>Shift</kbd></span> for eight seconds to enable or
-    disable slow keys.</p>
-<p class="p">You can also turn slow keys on and off by clicking the
-    <span class="link"><a href="a11y-icon.html" title="Find the universal access menu">accessibility icon</a></span> on the top bar and
-    selecting <span class="gui">Slow Keys</span>. The accessibility icon is visible when
-    one or more settings have been enabled from the <span class="gui">Universal Access</span>
-    panel.</p>
+<p class="p">Kies onder het kopje <span class="gui">Via toetsenbord inschakelen</span>, <span class="gui">Toegankelijkheidsfuncties via het toetsenbord inschakelen</span> om trage toetsen in- of uit te schakelen. Als deze optie is geselecteerd, kunt u <span class="key"><kbd>Shift</kbd></span> acht seconden lang ingedrukt houden om trage toetsen in- of uit te schakelen.</p>
+<p class="p">U kunt Trage toetsen ook in- en uitschakelen door te klikken op het <span class="link"><a href="a11y-icon.html" title="Het menu Universele toegang vinden">toegankelijkheidspictogram</a></span> in de bovenste balk en <span class="gui">Trage toetsen</span> te selecteren. Het toegankelijkheidspictogram is zichtbaar als één of meer instellingen in <span class="gui">Universele toegang</span> ingeschakeld zijn.</p>
 </div></div>
 </div></div>
-<p class="p">Use the <span class="gui">Acceptance delay</span> slider to control how long you have to
-  hold a key down for it to register.</p>
+<p class="p">Gebruik de <span class="gui">Vertraging voor accepteren</span>-schuifbalk om in te stellen hoe lang u de toets in moet drukken en vast moet houden voordat deze aanslag wordt geregistreerd.</p>
 <p class="p">You can have your computer make a sound when you press a key, when a key
-  press is accepted, or when a key press is rejected because you didn't hold
+  press is accepted, or when a key press is rejected because you didn’t hold
   the key down long enough.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -95,14 +79,14 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul>
+<li class="links "><a href="a11y.html#mobility" title="Beperkte mobiliteit">Beperkte mobiliteit</a></li>
 <li class="links ">
-<a href="keyboard.html" title="Keyboard">Keyboard</a><span class="desc"> — 
-      <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Keyboard layouts</a></span>,
-      <span class="link"><a href="keyboard-cursor-blink.html" title="Make the keyboard cursor blink">cursor blinking</a></span>,
-      <span class="link"><a href="a11y.html#mobility" title="Mobility impairments">keyboard accessibility</a></span>…
+<a href="keyboard.html" title="Toetsenbord">Toetsenbord</a><span class="desc"> — 
+      <span class="link"><a href="keyboard-layouts.html" title="Alternatieve toetsenbordindelingen gebruiken">Keyboard layouts</a></span>,
+      <span class="link"><a href="keyboard-cursor-blink.html" title="De toetsenbordcursor laten knipperen">cursor blinking</a></span>,
+      <span class="link"><a href="a11y.html#mobility" title="Beperkte mobiliteit">keyboard accessibility</a></span>…
     </span>
 </li>
-<li class="links "><a href="a11y.html#mobility" title="Mobility impairments">Mobility impairments</a></li>
 </ul></div>
 </div></div></div>
 </div>

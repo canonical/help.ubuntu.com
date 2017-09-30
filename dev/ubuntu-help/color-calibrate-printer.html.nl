@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>How do I calibrate my printer?</title>
+<title>Hoe kalibreer ik mijn printer?</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,57 +44,42 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="color.html" title="Color management">Color management</a> › <a class="trail" href="color.html#calibration" title="Calibration">Calibration</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html#calibration" title="Kalibratie">Kalibratie</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="color.html" title="Color management">Color management</a> › <a class="trail" href="color.html#calibration" title="Calibration">Calibration</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html#calibration" title="Kalibratie">Kalibratie</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">How do I calibrate my printer?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Hoe kalibreer ik mijn printer?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    There are two ways to profile a printer device:
-  </p>
+<p class="p">Er zijn twee manieren om een profiel te maken voor een printer:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Using a photospectrometer device like the Pantone ColorMunki</p></li>
-<li class="list"><p class="p">Downloading a printing a reference file from a color company</p></li>
+<li class="list"><p class="p">Het gebruik van een fotospectrometer apparaat zoals de Pantone ColorMunki</p></li>
+<li class="list"><p class="p">Door een afdrukreferentiebestand van een kleurenbedrijf te downloaden</p></li>
 </ul></div></div></div>
-<p class="p">
-    Using a color company to generate a printer profile is usually the
-    cheapest option if you only have one or two different paper types.
-    By downloading the reference chart from the companies website you
-    can then send them back the print in a padded envelope where they
-    will scan the paper, generate the profile and email you back an
-    accurate ICC profile.
-  </p>
-<p class="p">
-    Using an expensive device such as a ColorMunki works out cheaper only
-    if you are profiling a large number of ink sets or paper types.
-  </p>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">
-      If you change your ink supplier, make sure you recalibrate the printer!
-    </p></div></div></div></div>
+<p class="p">Het gebruik van een kleurenbedrijf om een printerprofiel aan te maken is meestal de goedkoopste oplossing, wanneer u alleen één of twee verschillende papiersoorten heeft. U kunt een referentiebestand van de website van de fabrikant downloaden en afdrukken en deze afdruk daarna in een bubbeltjesenvelop naar het bedrijf opsturen, waarna zij de afdruk zullen inscannen, het profiel aan zullen maken en u een accuraat ICC-profiel terug zullen e-mailen.</p>
+<p class="p">Met het aanschaffen van een duur apparaat zoals een ColorMunki bent u alleen goedkoper uit als u een groot aantal inktsoorten of papiertypes profileert.</p>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Als u uw inktpatroon vervangt, zorg er dan voor dat u de printer opnieuw kalibreert!</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#calibration" title="Calibration">Calibration</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html#calibration" title="Kalibratie">Kalibratie</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-calibrate-camera.html" title="How do I calibrate my camera?">How do I calibrate my camera?</a><span class="desc"> — Calibrating your camera is important to capture accurate colors.</span>
+<a href="color-calibrate-camera.html" title="Hoe kalibreer ik mijn camera?">Hoe kalibreer ik mijn camera?</a><span class="desc"> — Kalibreren van uw camera is belangrijk om kleuren nauwkeurig vast te leggen.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-scanner.html" title="How do I calibrate my scanner?">How do I calibrate my scanner?</a><span class="desc"> — Calibrating your scanner is important to capture accurate colors.</span>
+<a href="color-calibrate-scanner.html" title="Hoe kalibreer ik mijn scanner">Hoe kalibreer ik mijn scanner</a><span class="desc"> — Kalibreren van uw scanner is belangrijk om kleuren nauwkeurig vast te leggen.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-screen.html" title="How do I calibrate my screen?">How do I calibrate my screen?</a><span class="desc"> — Calibrating your screen is important to display accurate
-    colors.</span>
+<a href="color-calibrate-screen.html" title="Hoe kalibreer ik mijn scherm?">Hoe kalibreer ik mijn scherm?</a><span class="desc"> — Kalibreren van uw scherm is belangrijk om kleuren nauwkeurig vast te leggen.</span>
 </li>
 </ul></div>
 </div></div>

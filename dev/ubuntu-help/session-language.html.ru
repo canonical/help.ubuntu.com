@@ -57,7 +57,10 @@
 <li class="steps"><p class="p">Нажмите <span class="gui">Язык</span>.</p></li>
 <li class="steps"><p class="p">Выберите нужный вам регион и язык. Если вашего региона и языка нет в списке, нажмите <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="…"></span></span></span> в нижней части списка, чтобы выбрать регион и язык из всех доступных регионов и языков.</p></li>
 <li class="steps"><p class="p">Нажмите кнопку <span class="gui">Готово</span>.</p></li>
-<li class="steps"><p class="p">Появится окно с сообщением <span class="gui">Необходимо перезапустить сеанс, чтобы изменения вступили в силу</span>. Нажмите кнопку <span class="gui">Перезапустить сейчас</span>, чтобы перезапустить сеанс, или кнопку <span class="gui">X</span>, чтобы перезапустить сеанс позднее.</p></li>
+<li class="steps"><p class="p">Respond to the prompt, <span class="gui">Your session needs to be restarted for
+      changes to take effect</span> by clicking
+      <span class="gui">Restart Now</span>, or click
+      <span class="gui">×</span> to restart later.</p></li>
 </ol></div></div></div>
 <p class="p">Некоторые переводы могут быть неполными, некоторые приложения могут вообще не иметь поддержки для вашего языка. Все непереведённые текстовые сообщения будут показаны на языке, который использовали разработчики приложения, обычно это американский вариант английского языка.</p>
 <p class="p">В вашей домашней папке есть несколько специальных папок, в которых приложения могут сохранять музыку, изображения, документы и прочее. Эти папки используют стандартные имена, зависящие от выбранного языка. При следующем входе в систему вам будет предложено изменить названия этих папок на стандартные названия выбранного вами языка. Если вы планируете использовать новый язык постоянно, следует обновить названия папок.</p>
@@ -68,7 +71,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html" title="Язык и регион">Язык и регион</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Изменение языка">Язык</a></span>, <span class="link"><a href="session-formats.html" title="Изменение форматов даты и единиц измерения">регион и форматы</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">раскладки клавиатуры</a></span>…</span>
+<a href="prefs-language.html" title="Язык и регион">Язык и регион</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Изменение языка">Язык</a></span>, <span class="link"><a href="session-formats.html" title="Изменение форматов даты и единиц измерения">регион и форматы</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Использование альтернативных раскладок клавиатуры">раскладки клавиатуры</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

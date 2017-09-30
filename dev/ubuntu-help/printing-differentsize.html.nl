@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="printing.html" title="Afdrukken">Afdrukken</a> › <a class="trail" href="printing.html#paper" title="Verschillende papierformaten en indelingen">Sizes and layouts</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="printing.html" title="Afdrukken">Afdrukken</a> › <a class="trail" href="printing.html#paper" title="Verschillende papierformaten en indelingen">Formaten en indeling</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Het papierformaat wijzigen bij afdrukken</span></h1></div>
@@ -56,7 +56,7 @@
 <li class="steps"><p class="p">Selecteer het tabblad <span class="gui">Paginainstellingen</span></p></li>
 <li class="steps"><p class="p">Under the <span class="gui">Paper</span> column, choose your <span class="gui">Paper size</span>
       from the drop-down list.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Print</span> to print your document.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Afdrukken</span> om uw document af te drukken.</p></li>
 </ol></div></div></div>
 <p class="p">You can also use the <span class="gui">Orientation</span> drop-down list to choose a
   different orientation:</p>

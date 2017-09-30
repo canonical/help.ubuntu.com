@@ -52,7 +52,9 @@
 <p class="p">Μπορείτε να αφαιρέσετε έναν διαδικτυακό λογαριασμό που δεν θέλετε να χρησιμοποιείτε πια.</p>
 <div class="note note-tip" title="Συμβουλή"><div class="inner"><div class="region"><div class="contents">
 <p class="p">Αρκετές διαδικτυακές υπηρεσίες παρέχουν ένα διακριτικό εξουσιοδότησης το οποίο αποθηκεύει το GNOME αντί για τον κωδικό πρόσβασης σας. Αν αφαιρέσετε έναν λογαριασμό, θα πρέπει επίσης να ανακαλέσετε αυτό το πιστοποιητικό  στην διαδικτυακή υπηρεσία. Με τον τρόπο αυτό θα διασφαλιστεί πως καμία άλλη εφαρμογή ή ιστοσελίδα δεν θα μπορεί να συνδεθεί στην υπηρεσία αυτή χρησιμοποιώντας της εξουσιοδότηση του GNOME.</p>
-<p class="p">Για το πως να ανακαλέσετε την εξουσιοδότηση εξαρτάται από τον πάροχο της υπηρεσίας. Ελέγξτε τις ρυθμίσεις σας στην ιστοσελίδα του παρόχου για εξουσιοδοτημένες εφαρμογές ή ιστοσελίδες. Ψάξτε για μια εφαρμογή με το όνομα «GNOME» και αφαιρέστε την.</p>
+<p class="p">How to revoke the authorization depends on the service provider. Check
+    your settings on the provider’s website for authorized or connected apps
+    or sites. Look for an app called “GNOME” and remove it.</p>
 </div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Διαδικτυακοί λογαριασμοί</span>.</p></li>

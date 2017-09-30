@@ -59,7 +59,8 @@
 </ol></div></div></div>
 <p class="p">மாற்றாக, மேல் பட்டியில் உள்ள <span class="link"><a href="a11y-icon.html" title="அனைவருக்குமான அணுகல் மெனுவைக் கண்டறிதல்">அணுகல் வசதி சின்னத்தை</a></span> சொடுக்கி, <span class="gui">பெரிய உரை</span> என்பதைத் தேர்ந்தெடுப்பதன் மூலமும் நீங்கள் உரை அளவை விரைவாக மாற்றலாம்.</p>
 <div class="note note-tip" title="துணுக்கு"><div class="inner"><div class="region"><div class="contents"><p class="p">பல பயன்பாடுகளில், நீங்கள் <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>+</kbd></span></span> ஐ அழுத்தியே உரை அளவை எப்போது வேண்டுமானாலும் மாற்றலாம். உரை அளவைக் குறைக்க <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>-</kbd></span></span> ஐ அழுத்தவும்.</p></div></div></div></div>
-<p class="p"><span class="gui">பெரிய உரை</span> என்பது உரையை 1.2 மடங்கு பெரிதாக்கும். உரை அளவைப் பெரிதாக்க அல்லதுசிறிதாக்க நீங்கள் <span class="app">Tweak Tool</span> பயன்பாட்டைப் பயன்படுத்தலாம்.</p>
+<p class="p"><span class="gui">Large Text</span> will scale the text by 1.2 times. You can use
+  <span class="app">Tweaks</span> to make text size bigger or smaller.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

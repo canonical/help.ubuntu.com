@@ -63,8 +63,8 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Στην σελίδα επισκόπησης του αποθετηρίου PPA, κοιτάξτε για την ετικέτα που γράφει <span class="gui">Προσθήκη αυτού του PPA στο σύστημά σας</span>. Σημειώστε την τοποθεσία του αποθετηρίου PPA, η οποία θα πρέπει να έχει παρόμοια μορφή με το εξής: <span class="code">ppa:mozillateam/firefox-next</span>.</p></li>
 <li class="steps"><p class="p">
-        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Launcher</span>, or search
-        for <span class="input">Software</span> in the search bar of the <span class="gui">Dash</span>.
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
       </p></li>
 <li class="steps"><p class="p">
         When <span class="app">Ubuntu Software</span> launches, click <span class="gui">Software &amp; Updates</span>

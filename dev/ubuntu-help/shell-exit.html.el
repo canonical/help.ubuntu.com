@@ -61,7 +61,12 @@
 <div class="hgroup"><h2 class="title"><span class="title">Κλείδωμα της οθόνης</span></h2></div>
 <div class="region">
 <div class="contents">
-<p class="p">Εάν αφήνετε τον υπολογιστή σας για λίγο, θα πρέπει να κλειδώσετε την οθόνη σας για να αποτρέψετε άλλα άτομα να προσπελάσουν τα αρχεία σας ή να εκτελέσουν εφαρμογές. Όταν επιστρέψετε, αναιρέστε το <span class="link"><a href="shell-lockscreen.html" title="Κλείδωμα της οθόνης">κλείδωμα οθόνης</a></span> και εισάγετε τον κωδικό πρόσβασής σας για να επανασυνδεθείτε. Εάν δεν κλειδώσετε την οθόνη σας, θα κλειδώσει αυτόματα μετά από συγκεκριμένο χρόνο.</p>
+<p class="p">If you’re leaving your computer for a short time, you should lock your
+  screen to prevent other people from accessing your files or running
+  applications. When you return, raise the
+  <span class="link"><a href="shell-lockscreen.html" title="Κλείδωμα της οθόνης">lock screen</a></span> curtain and enter your
+  password to log back in. If you don’t lock your screen, it will lock
+  automatically after a certain amount of time.</p>
 <p class="p">Για να κλειδώσετε την οθόνη σας, κάντε κλικ στο μενού συστήματος στα δεξιά της πάνω γραμμής και πατήστε το κουμπί κλείδωμα οθόνης στο κάτω μέρος του μενού.</p>
 <p class="p">Όταν η οθόνη σας κλειδώσει, άλλοι χρήστες μπορούν να συνδεθούν στους δικούς τους λογαριασμούς κάνοντας κλικ στο <span class="gui">Σύνδεση ως άλλος χρήστης</span> στην οθόνη του κωδικού πρόσβασης. Μπορείτε να επιστρέψετε στην επιφάνεια εργασίας σας όταν τελειώσετε.</p>
 </div>
@@ -85,8 +90,15 @@
 <div class="hgroup"><h2 class="title"><span class="title">Αναστολή</span></h2></div>
 <div class="region">
 <div class="contents">
-<p class="p">Για να εξοικονομήσετε ενέργεια, αναστείλετε τον υπολογιστή σας όταν δεν τον χρησιμοποιείτε. Αν χρησιμοποιείτε έναν φορητό υπολογιστή, το GNOME αναστέλλει τον υπολογιστή σας αυτόματα όταν κλείσετε το καπάκι. Ένα μικρό ποσοστό ισχύος χρησιμοποιείται ακόμα κατά την αναστολή.</p>
-<p class="p">Για να αναστείλετε χειροκίνητα τον υπολογιστή σας, κάντε κλικ στο μενού συστήματος στα δεξιά της πάνω γραμμής και κρατήστε πατημένο το πλήκτρο <span class="key"><kbd>Alt</kbd></span>. Το κουμπί τερματισμού θα αλλάξει σε αναστολή. Πατήστε το κουμπί.</p>
+<p class="p">To save power, suspend your computer when you are not using it. If you use
+  a laptop, GNOME, by default, suspends your computer automatically when you
+  close the lid.
+  This saves your state to your computer’s memory and powers off most of the
+  computer’s functions. A very small amount of power is still used during
+  suspend.</p>
+<p class="p">To suspend your computer manually, click the system menu on the right side
+  of the top bar. From there you may either hold down the <span class="key"><kbd>Alt</kbd></span> key and 
+  click the power off button, or simply long-click the power off button.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

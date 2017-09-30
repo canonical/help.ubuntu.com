@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Sound, video &amp; pictures">Sound, video &amp; pictures</a> › <a class="trail" href="media.html#videos" title="Videos and video cameras">Videos</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Geluid, video &amp; foto's">Geluid, video &amp; foto's</a> › <a class="trail" href="media.html#videos" title="Video's en videocamera's">Video's</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Hoe kan ik niet-vrije codecs inschakelen om dvd's af te spelen?</span></h1></div>
@@ -73,13 +73,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="media.html#videos" title="Videos and video cameras">Videos</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="media.html#videos" title="Video's en videocamera's">Video's</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="video-dvd.html" title="Waarom kunnen dvd's niet worden afgespeeld?">Waarom kunnen dvd's niet worden afgespeeld?</a><span class="desc"> — You might not have the right codecs installed, or the DVD might be
-    the wrong region.</span>
+<a href="video-dvd.html" title="Why won’t DVDs play?">Why won’t DVDs play?</a><span class="desc"> — Het kan zijn dat u niet de juiste codecs geïnstalleerd heeft, of de dvd kan de verkeerde regiocode hebben.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -55,9 +55,19 @@
 <div id="files" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Файлы</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Можно задать права доступа для владельца файла, владеющей файлом группы, и всех остальных пользователей системы. Вы являетесь владельцем своих файлов и можете дать себе права доступа к ним только на чтение или на чтение и запись. Установите для файла право доступа только на чтение, если не хотите случайно изменить его.</p>
-<p class="p">Каждый пользователь на компьютере принадлежит к определённой группе. На домашних компьютерах для каждого пользователя обычно имеется своя собственная группа, и групповые права доступа используются редко. В организациях иногда создаются группы для каждого отдела и проекта. Каждый файл принадлежит не только своему владельцу, но и группе. Можно задать группу, владеющую файлом, чтобы управлять правами доступа сразу для всех пользователей в этой группе. В качестве группы, владеющей файлом вы можете выбрать только ту группу, к которой принадлежите сами.</p>
-<p class="p">Также можно задать права доступа для остальных пользователей, которые не являются владельцами файла и не принадлежат к группе, владеющей файлом.</p>
+<p class="p">You can set the permissions for the file owner, the group owner,
+    and all other users of the system. For your files, you are the owner,
+    and you can give yourself read-only or read-and-write permission.
+    Set a file to read-only if you don’t want to accidentally change it.</p>
+<p class="p">Every user on your computer belongs to a group. On home computers,
+    it is common for each user to have their own group, and group permissions
+    are not often used. In corporate environments, groups are sometimes used
+    for departments or projects. As well as having an owner, each file belongs
+    to a group. You can set the file’s group and control the permissions for
+    all users in that group. You can only set the file’s group to a group you
+    belong to.</p>
+<p class="p">You can also set the permissions for users other than the owner and
+    those in the file’s group.</p>
 <p class="p">Если файл является программой, например, сценарием, можно включить <span class="gui">Разрешить выполнение файла как программы</span> для его запуска. Даже если эта опция включена, менеджер файлов всё равно может открыть файл в приложении или спросить вас, что с ним нужно делать. Подробнее смотрите <span class="link"><a href="nautilus-behavior.html#executable" title="Исполняемые текстовые файлы">Исполняемые текстовые файлы</a></span>.</p>
 </div></div>
 </div></div>

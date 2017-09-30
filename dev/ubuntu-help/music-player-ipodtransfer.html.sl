@@ -2,7 +2,7 @@
 <html lang=sl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Ko skladbe kopiram na svoj iPod, se tam ne pojavijo</title>
+<title>Songs don’t appear on my iPod when I copy them onto it</title>
 <link rel="stylesheet" type="text/css" href="sl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,12 +46,12 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Zvok, video in slike">Zvok, video in slike</a> › <a class="trail" href="media.html#music" title="Glasba in prenosni predvajalniki zvoka">Glasba in predvajalniki</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Ko skladbe kopiram na svoj iPod, se tam ne pojavijo</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Songs don’t appear on my iPod when I copy them onto it</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Ko iPod vklopite na računalnik, se bo pojavil v vašemu predvajalniku glasbe in tudi v upravljalniku datotek (program <span class="app">Datoteke</span> v pregledu <span class="gui">Dejavnosti</span>). Skladbe morate na iPod kopirati s predvajalnikom glasbe - če jih kopirate z upravljalnikom datotek, ne bo deloval, ker skladbe ne bodo na pravem mestu. iPodu imajo posebno mesto za shranjevanje datotek do katerih lahko predvajalnik glasbe dostopa, upravljalnik datotek pa ne.</p>
+<p class="p">When you plug an iPod into your computer, it will appear in your music player application and also in the file manager (the <span class="app">Files</span> application in the <span class="gui">Activities</span> overview). You must copy songs onto the iPod using the music player — if you copy them across using the file manager, it won’t work because the songs won’t be put into the right location. iPods have a special location for storing songs which music player applications know how to get to but the file manager does not.</p>
 <p class="p">Pred odklopom iPoda počakajte, da se kopiranje skladb konča. Pred odklopom iPoda se prepričajte, da izberete <span class="link"><a href="files-removedrive.html" title="Varna odstranitev zunanjega pogona">njegovo varno odstranitev</a></span>. To bo zagotovilo, da so bile vse datoteke pravilno kopirane.</p>
-<p class="p">Eden od razlogov zakaj se skladbe morda na vašem iPodu ne pojavijo je, da glasbeni predvajalnik, ki ga uporabljate, ne podpira pretvarjanja skladb iz ene vrste zvoka v drugo. V primeru da kopirate skladbo, ki je shranjena v vrsto zvoka, ki je vaš iPod ne podpira (na primer datoteka Ogg Vorbis (.oga)), jo bo predvajalnik glasbe poskusil pretvoriti v vrsto, ki jo iPodi razumejo (kot je MP3). V primeru da ustrezen program za pretvarjanje (znan pod imenom kodek ali kodirnik) ni nameščen, predvajalnik glasbe ne bo mogel izvesti pretvorbe in zato glasbe ne bo kopiral. Ustrezen kodek poiščite v namestilniku programov.</p>
+<p class="p">A further reason why songs might not be appearing on your iPod is that the music player application you’re using does not support converting the songs from one audio format to another. If you copy a song which is saved in an audio format that is not supported by your iPod (for example, an Ogg Vorbis (.oga) file), the music player will try to convert it to a format that the iPod does understand, such as MP3. If the appropriate conversion software (also called a codec or encoder) is not installed, the music player will not be able to do the conversion and so will not copy the song. Look in the software installer for an appropriate codec.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

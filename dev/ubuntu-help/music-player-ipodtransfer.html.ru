@@ -2,7 +2,7 @@
 <html lang=ru>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Музыкальные композиции не появляются на моём iPod, когда я копирую их туда</title>
+<title>Songs don’t appear on my iPod when I copy them onto it</title>
 <link rel="stylesheet" type="text/css" href="ru.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,12 +46,12 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Звук, видео и изображения">Звук, видео и изображения</a> › <a class="trail" href="media.html#music" title="Музыка и портативные аудиоплееры">Музыка и проигрыватели</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Музыкальные композиции не появляются на моём iPod, когда я копирую их туда</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Songs don’t appear on my iPod when I copy them onto it</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">При подключении iPod к компьютеру, он появится в приложении для проигрывания музыки, а также в файловом менеджере (приложение <span class="app">Nautilus</span> из режима <span class="gui">Обзора</span>). Копировать музыку на iPod нужно с помощью музыкального плеера. Если использовать для этого менеджер файлов, то файлы не будут размещены в корректное местоположение, т.к. в iPods существует специальное местоположение для хранения музыки, и только музыкальные приложения знают туда путь, в отличие от менеджера файлов.</p>
+<p class="p">When you plug an iPod into your computer, it will appear in your music player application and also in the file manager (the <span class="app">Files</span> application in the <span class="gui">Activities</span> overview). You must copy songs onto the iPod using the music player — if you copy them across using the file manager, it won’t work because the songs won’t be put into the right location. iPods have a special location for storing songs which music player applications know how to get to but the file manager does not.</p>
 <p class="p">Перед извлечением iPod необходимо дождаться завершения копирования музыки. Перед извлечением iPod обязательно выберите пункт <span class="link"><a href="files-removedrive.html" title="Безопасное извлечение съёмного носителя">безопасное извлечение</a></span>, что обеспечит корректное завершение процесса копирования всех файлов.</p>
-<p class="p">Ещё одной причиной, из-за которой музыкальные композиции могут не появляться на iPod, может быть то, что используемый вами музыкальный проигрыватель не поддерживает преобразование музыки из одного аудиоформата в другой. Если вы копируете музыкальную композицию в аудиоформате, не поддерживаемом iPod (например, файл Ogg Vorbis (.oga)), музыкальный проигрыватель попытается преобразовать её в формат, которые iPod поддерживает, например, MP3. Если необходимая для преобразования программа (так называемый кодек или кодировщик) не установлена, музыкальный проигрыватель не сможет преобразовать и скопировать музыку. Поищите подходящий кодек в установщике программного обеспечения.</p>
+<p class="p">A further reason why songs might not be appearing on your iPod is that the music player application you’re using does not support converting the songs from one audio format to another. If you copy a song which is saved in an audio format that is not supported by your iPod (for example, an Ogg Vorbis (.oga) file), the music player will try to convert it to a format that the iPod does understand, such as MP3. If the appropriate conversion software (also called a codec or encoder) is not installed, the music player will not be able to do the conversion and so will not copy the song. Look in the software installer for an appropriate codec.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

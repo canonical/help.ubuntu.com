@@ -74,7 +74,9 @@
 <p class="p"><span class="app">கணினி கண்காணிப்புக் கருவி</span> கொண்டு காலியுள்ள வட்டு இடம் மற்றும் வட்டு கொள்ளளவைப் பார்க்க:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p"><span class="gui">செயல்பாடுகள்</span> மேலோட்டத்தில் இருந்து <span class="app">கணினி கண்காணிப்புக் கருவியைத்</span> திறக்கவும்.</p></li>
-<li class="steps"><p class="p">கணினி பகிர்வுகள் மற்றும் வட்டு இடப் பயன்பாடு ஆகியவற்றைக் காண <span class="gui">கோப்பு முறைமைகள்</span> தத்தலைத் தேர்ந்தெடுங்கள். <span class="gui">மொத்தம்</span>, <span class="gui">மீதம்</span>, <span class="gui">கிடைக்கக்கூடியது</span> மற்றும் <span class="gui">பயன்படுத்தியது</span> ஆகிய வகைகளின் படி தகவல் காட்டப்படும்.</p></li>
+<li class="steps"><p class="p">Select the <span class="gui">File Systems</span> tab to view the system’s partitions and
+  disk space usage.  The information is displayed according to <span class="gui">Total</span>,
+  <span class="gui">Free</span>, <span class="gui">Available</span> and <span class="gui">Used</span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -83,8 +85,9 @@
 <div class="region"><div class="contents">
 <p class="p">வட்டு மிக நிரம்பி இருந்தால் நீங்கள் செய்ய வேண்டியது:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">முக்கியமில்லாத அல்லது நீங்கள் இனி பயன்படுத்தாத கோப்புகளை அழிக்கவும்.</p></li>
-<li class="list"><p class="p">சிறிது காலத்திற்கு உங்களுக்குத் தேவைப்படாத முக்கியமான கோப்புகளை <span class="link"><a href="backup-why.html" title="உங்கள் முக்கியமான கோப்புகளை மறுபிரதி எடுக்கவும்">மறுபிரதிகள்</a></span> எடுத்துக்கொண்டு அவற்றை வன் வட்டிலிருந்து அழித்துவிடவும்.</p></li>
+<li class="list"><p class="p">Delete files that aren’t important or that you won’t use anymore.</p></li>
+<li class="list"><p class="p">Make <span class="link"><a href="backup-why.html" title="உங்கள் முக்கியமான கோப்புகளை மறுபிரதி எடுக்கவும்">backups</a></span> of the important files that
+   you won’t need for a while and delete them from the hard drive.</p></li>
 </ul></div></div></div>
 </div></div>
 </div></div>

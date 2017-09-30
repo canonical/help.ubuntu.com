@@ -53,10 +53,7 @@
 <div class="linkdiv "><a class="linkdiv" href="shell-introduction.html" title="Εισαγωγή στο GNOME"><span class="title">Εισαγωγή στο GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Μια οπτική εισαγωγή στην επιφάνεια εργασίας σας, η πάνω γραμμή και η επισκόπηση <span class="gui">Δραστηριότητες</span>.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Αποσύνδεση, τερματισμός ή αλλαγή χρηστών"><span class="title">Αποσύνδεση, τερματισμός ή αλλαγή χρηστών</span><span class="linkdiv-dash"> — </span><span class="desc">Μάθετε πώς να αφήσετε τον λογαριασμό χρήστη, αποσυνδέοντας, αλλάζοντας χρήστες κ.ο.κ.</span></a></div>
 </div>
-<div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Εκκίνηση εφαρμογών"><span class="title">Εκκίνηση εφαρμογών</span><span class="linkdiv-dash"> — </span><span class="desc">Ξεκινήστε εφαρμογές από την επισκόπηση <span class="gui">Δραστηριότητες</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-guest-session.html" title="Έναρξη μιας περιορισμένης συνεδρίας επισκέπτη"><span class="title">Έναρξη μιας περιορισμένης συνεδρίας επισκέπτη</span><span class="linkdiv-dash"> — </span><span class="desc">ΕΠιτρέψτε σε έναν φίλο ή συνάδελφο να δανειστεί τον υπολογιστή σας με ασφαλή τρόπο.</span></a></div>
-</div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Εκκίνηση εφαρμογών"><span class="title">Εκκίνηση εφαρμογών</span><span class="linkdiv-dash"> — </span><span class="desc">Ξεκινήστε εφαρμογές από την επισκόπηση <span class="gui">Δραστηριότητες</span>.</span></a></div></div>
 </div></div></div></div>
 <div id="desktop" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Προσαρμογή της επιφάνειας εργασίας σας</span></h2></div>

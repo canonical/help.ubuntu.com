@@ -51,7 +51,7 @@
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="linkdiv "><a class="linkdiv" href="net-wired-connect.html" title="Povezava z žičnim (Eternet) omrežjem"><span class="title">Povezava z žičnim (Eternet) omrežjem</span><span class="linkdiv-dash"> — </span><span class="desc">Za nastavitev večine žičnih omrežnih povezav morate le vklopiti omrežni kabel.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-vpn-connect.html" title="Povezava z VPN"><span class="title">Povezava z VPN</span><span class="linkdiv-dash"> — </span><span class="desc">Set up a VPN connection to a local network over the internet.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-manual.html" title="Ročno nastavi omrežne nastavitve"><span class="title">Ročno nastavi omrežne nastavitve</span><span class="linkdiv-dash"> — </span><span class="desc">You may have to enter network settings if they don't get assigned
+<div class="linkdiv "><a class="linkdiv" href="net-manual.html" title="Ročno nastavi omrežne nastavitve"><span class="title">Ročno nastavi omrežne nastavitve</span><span class="linkdiv-dash"> — </span><span class="desc">You may have to enter network settings if they don’t get assigned
     automatically.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-fixed-ip-address.html" title="Ustvarite povezavo s stalnim naslovom IP"><span class="title">Ustvarite povezavo s stalnim naslovom IP</span><span class="linkdiv-dash"> — </span><span class="desc">Uporaba statičnih naslovov IP vam lahko olajša zagotavljanje nekaterih omrežnih storitev z vašega računalnika.</span></a></div>
 </div></div></div></div>

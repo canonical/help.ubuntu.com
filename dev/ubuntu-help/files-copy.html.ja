@@ -50,7 +50,10 @@
 <div class="region">
 <div class="contents">
 <p class="p">ファイルやフォルダーは別の場所へコピーしたり移動したりできます。その方法としては、マウスによるドラッグ・アンド・ドロップ、コピーおよび貼り付けコマンド、あるいはキーボードショートカットがあります。</p>
-<p class="p">たとえば、プレゼンテーションファイルを持ちだして作業できるようにメモリースティックにコピーするとよいでしょう。あるいは、文書ファイルを編集するまえにバックアップコピーを取ることもできます (その後、編集内容が気に入らない場合はそのバックアップコピーを使用してください)。</p>
+<p class="p">For example, you might want to copy a presentation onto a memory stick so
+ you can take it to work with you. Or, you could make a back-up copy of a
+ document before you make changes to it (and then use the old copy if you don’t
+ like your changes).</p>
 <p class="p">ここで述べる説明は、ファイルとフォルダー両方に当てはまります。ファイルとフォルダーとまったく同じ方法でコピーや移動ができます。</p>
 <div class="steps ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
@@ -91,7 +94,8 @@
 <li class="steps"><p class="p">トップバーの<span class="gui">ファイル</span>をクリックして<span class="gui">新しいウィンドウ</span>を選択する (あるいは<span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>N</kbd></span></span> を押す) と、ふたつ目のウィンドウが開きます。新しいウィンドウでは、ファイルを移動またはコピーするフォルダーを表示します。</p></li>
 <li class="steps">
 <p class="p">一方のウィンドウから他方のウィンドウへファイルをドラッグします。移動先のフォルダーが<span class="em">同じ</span>デバイス上にある場合、ファイルを<span class="em">移動</span>します。移動先のフォルダーが<span class="em">異なる</span>デバイス上にある場合、ファイルを<span class="em">コピー</span>します</p>
-<p class="p">たとえば、USB メモリーからお使いのコンピューターのホームフォルダーへファイルをドラッグすると、あるデバイスから別のデバイスへドラッグすることになるので、ファイルのコピーが作成されます。</p>
+<p class="p">For example, if you drag a file from a USB memory stick to your Home folder,
+ it will be copied, because you’re dragging from one device to another.</p>
 <p class="p"><span class="key"><kbd>Ctrl</kbd></span> キーを押したままでドラッグすると、コピーとなり、<span class="key"><kbd>Shift</kbd></span> キーを押したままでドラッグすると、移動となります。</p>
 </li>
 </ol></div>

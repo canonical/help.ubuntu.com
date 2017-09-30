@@ -94,7 +94,7 @@
   together), but not others.</p>
 <p class="p">Select <span class="gui">Disable if two keys are pressed together</span> to enable
   this.</p>
-<p class="p">You can have the computer make a "beep" sound when you start typing a
+<p class="p">You can have the computer make a “beep” sound when you start typing a
   keyboard shortcut with sticky keys turned on. This is useful if you want to
   know that sticky keys is expecting a keyboard shortcut to be typed, so the
   next key press will be interpreted as part of a shortcut. Select <span class="gui">Beep

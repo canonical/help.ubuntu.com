@@ -78,7 +78,10 @@
 <div id="speakers" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">ஸ்பீக்கர்கள் இயக்கப்பட்டுள்ளதா என்றும் சரியாக இணைக்கப்பட்டுள்ளதா என்றும் பார்க்கவும்</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">உங்கள் கணினிக்கு வெளி ஸ்பீக்கர்கள் இருந்தால், அவை ஆன் செய்யப்பட்டுள்ளதா என்றும் ஒலியளவு அதிகமாக உள்ளதா என்றும் சோதிக்கவும். ஸ்பீக்கர் கேபிள் கணினியிலுள்ள "output" ஆடியோ சாக்கெட்டில் நன்கு செருகப்பட்டுள்ளதா என்றும் பார்க்கவும். வழக்கமாக இந்த சாக்கெட் வெளிர் பச்சை நிறத்தில் இருக்கும்.</p>
+<p class="p">If your computer has external speakers, make sure that they are turned on
+  and that the volume is turned up. Make sure that the speaker cable is securely
+  plugged into the “output” audio socket on your computer. This socket
+  is usually light green in color.</p>
 <p class="p">Some sound cards can switch between the socket they use for output
   (to the speakers) and the socket for input (from a microphone, for instance).
   The output socket may be different when running Linux, Windows or Mac OS.
@@ -91,7 +94,7 @@
 <div id="device" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Check that the correct sound device is selected</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Some computers have multiple "sound devices" installed. Some of these are
+<p class="p">Some computers have multiple “sound devices” installed. Some of these are
   capable of outputting sound and some are not, so you should check that you
   have the correct sound device selected. This might involve some
   trial-and-error to choose the right one.</p>

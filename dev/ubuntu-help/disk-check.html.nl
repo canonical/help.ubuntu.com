@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Check your hard disk for problems</title>
+<title>Controleer of er problemen zijn met u harde schijf</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,50 +43,44 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="disk.html" title="Disks &amp; storage">Disks &amp; storage</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="disk.html" title="Schijven &amp; opslag">Schijven &amp; opslag</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Check your hard disk for problems</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Controleer of er problemen zijn met u harde schijf</span></h1></div>
 <div class="region">
 <div class="contents"></div>
 <div id="disk-status" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Checking the hard disk</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">De harde schijf controleren</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Hard disks have a built-in health-check tool called <span class="app">SMART</span>
- (Self-Monitoring, Analysis, and Reporting Technology), which continually
- checks the disk for potential problems. SMART also warns you if the disk
- is about to fail, helping you avoid loss of important data.</p>
-<p class="p">Although SMART runs automatically, you can also check your disk's
+<p class="p">Harde schijven hebben een ingebouwd controlehulpmiddel genaamd <span class="app">SMART</span> (Self-Monitoring, Analysis, and Reporting Technology), dat voortdurend de schijf controleert op mogelijke problemen. SMART waarschuwt u ook wanneer de schijf op het punt staat te falen, waardoor u het verlies van belangrijke gegevens kunt voorkomen.</p>
+<p class="p">Although SMART runs automatically, you can also check your disk’s
  health by running the <span class="app">Disks</span> application:</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">Check your disk's health using the Disks application</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Check your disk’s health using the Disks application</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open <span class="app">Disks</span> from the <span class="gui">Activities</span> overview.</p></li>
-<li class="steps"><p class="p">Select the disk you want to check from the list of storage devices on
-    the left. Information and status of the disk will be shown.</p></li>
+<li class="steps"><p class="p">Open <span class="app">Schijven</span> vanuit het <span class="gui">Activiteiten</span>-overzicht.</p></li>
+<li class="steps"><p class="p">Selecteer de schijf die u wilt controleren in de lijst met opslagapparaten aan de linkerkant. U ziet dan informatie over en de status van de schijf verschijnen.</p></li>
 <li class="steps"><p class="p">Click the menu button and select <span class="gui">SMART Data &amp; Self-Tests…</span>.
-    The <span class="gui">Overall Assessment</span> should say "Disk is OK".</p></li>
-<li class="steps"><p class="p">See more information under <span class="gui">SMART Attributes</span>, or click the
-    <span class="gui">Start Self-test</span> button to run a self-test.</p></li>
+    The <span class="gui">Overall Assessment</span> should say “Disk is OK”.</p></li>
+<li class="steps"><p class="p">Meer informatie vindt u onder <span class="gui">SMART-Attributen</span>; u kunt ook klikken op de knop <span class="gui">Zelftest starten</span> om een zelftest te doen.</p></li>
 </ol></div>
 </div></div>
 </div></div>
 </div></div>
 <div id="disk-not-healthy" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">What if the disk isn't healthy?</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">What if the disk isn’t healthy?</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Even if the <span class="gui">Overall Assessment</span> indicates that the disk
-  <span class="em">isn't</span> healthy, there may be no cause for alarm. However, it's better
-  to be prepared with a <span class="link"><a href="backup-why.html" title="Back up your important files">backup</a></span> to prevent data
+  <span class="em">isn’t</span> healthy, there may be no cause for alarm. However, it’s better
+  to be prepared with a <span class="link"><a href="backup-why.html" title="Reservekopieën maken van uw belangrijke bestanden">backup</a></span> to prevent data
   loss.</p>
-<p class="p">If the status says "Pre-fail", the disk is still reasonably healthy but
+<p class="p">If the status says “Pre-fail”, the disk is still reasonably healthy but
  signs of wear have been detected which mean it might fail in the near future.
  If your hard disk (or computer) is a few years old, you are likely to see
  this message on at least some of the health checks. You should
- <span class="link"><a href="backup-how.html" title="How to back up">backup your important files regularly</a></span> and check
+ <span class="link"><a href="backup-how.html" title="Hoe een reservekopie te maken">backup your important files regularly</a></span> and check
  the disk status periodically to see if it gets worse.</p>
-<p class="p">If it gets worse, you may wish to take the computer/hard disk to a
- professional for further diagnosis or repair.</p>
+<p class="p">Als het erger wordt kunt u de computer/harde schijf naar een reparateur brengen voor verdere diagnose of reparatie.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -94,12 +88,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html" title="Disks &amp; storage">Disks &amp; storage</a><span class="desc"> — 
-    <span class="link"><a href="disk-capacity.html" title="Check how much disk space is left">Disk space</a></span>,
-    <span class="link"><a href="disk-benchmark.html" title="Test the performance of your hard disk">performance</a></span>,
-    <span class="link"><a href="disk-check.html" title="Check your hard disk for problems">problems</a></span>,
-    <span class="link"><a href="disk-partitions.html" title="Manage volumes and partitions">volumes and partitions</a></span>…
-  </span>
+<a href="disk.html" title="Schijven &amp; opslag">Schijven &amp; opslag</a><span class="desc"> — <span class="link"><a href="disk-capacity.html" title="Controleer hoeveel schijfruimte er nog besschikbaar is">Schijfruimte</a></span>, <span class="link"><a href="disk-benchmark.html" title="De prestaties van u harde schijf testen">presentatie</a></span>, <span class="link"><a href="disk-check.html" title="Controleer of er problemen zijn met u harde schijf">problemen</a></span>, <span class="link"><a href="disk-partitions.html" title="Volumes en partities beheren">volumes en partities</a></span>...</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -53,24 +53,33 @@
 <div class="hgroup"><h2 class="title"><span class="title">Έλεγχος του σκληρού δίσκου</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Οι σκληροί δίσκοι έχουν ένα ενσωματωμένο εργαλείο ελέγχου υγείας που λέγεται <span class="app">SMART</span> (τεχνολογία αυτοπαρακολούθησης, ανάλυσης και αναφοράς), που ελέγχει συνεχώς τον δίσκο για δυνητικά προβλήματα. Το SMART επίσης προειδοποιεί εάν ο δίσκος πρόκειται να αστοχήσει, βοηθώντας την αποφυγή απώλειας σημαντικών δεδομένων.</p>
-<p class="p">Αν και το SMART εκτελείται αυτόματα, μπορείτε επίσης να ελέγξετε την υγεία του δίσκου σας εκτελώντας την εφαρμογή <span class="app">Δίσκοι</span>:</p>
+<p class="p">Although SMART runs automatically, you can also check your disk’s
+ health by running the <span class="app">Disks</span> application:</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">Ελέγξτε την υγεία του δίσκου σας χρησιμοποιώντας την εφαρμογή δίσκοι</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Check your disk’s health using the Disks application</span></h3></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ανοίξτε το <span class="app">Δίσκοι</span> από την επισκόπηση <span class="gui">Δραστηριότητες</span>.</p></li>
 <li class="steps"><p class="p">Επιλέξτε τον δίσκο που θέλετε να ελέγξετε από την λίστα συσκευών αποθήκευσης στα αριστερά σας. Θα εμφανιστούν οι πληροφορίες και η κατάσταση του δίσκου.</p></li>
 <li class="steps"><p class="p">Click the menu button and select <span class="gui">SMART Data &amp; Self-Tests…</span>.
-    The <span class="gui">Overall Assessment</span> should say "Disk is OK".</p></li>
+    The <span class="gui">Overall Assessment</span> should say “Disk is OK”.</p></li>
 <li class="steps"><p class="p">Δείτε περισσότερες πληροφορίες στο <span class="gui">Χαρακτηριστικά SMART</span>, ή κάντε κλικ στο πλήκτρο <span class="gui">Έναρξη αυτοδιαγνωστικού ελέγχου</span> για να εκτελέσετε τον έλεγχο.</p></li>
 </ol></div>
 </div></div>
 </div></div>
 </div></div>
 <div id="disk-not-healthy" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Τι γίνεται εάν ο δίσκος δεν είναι υγιής;</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">What if the disk isn’t healthy?</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Ακόμα κι αν η <span class="gui">Συνολική αξιολόγηση</span> δείχνει ότι ο δίσκος <span class="em">δεν είναι</span> υγιής, ίσως να μην υπάρχει λόγος ανησυχίας. Ωστόσο, είναι καλύτερο να προετοιμαστείτε με ένα <span class="link"><a href="backup-why.html" title="Αντίγραφα ασφαλείας των σημαντικών σας αρχείων">αντίγραφο ασφαλείας</a></span> για να αποτρέψετε την απώλεια δεδομένων.</p>
-<p class="p">Εάν η κατάσταση λέει «προαποτυχία», τότε ο δίσκος είναι ακόμα αρκετά υγιής αλλά σημάδια φθοράς έχουν ανιχνευθεί που σημαίνει ότι μπορεί να αστοχήσει στο κοντινό μέλλον. Εάν ο σκληρός σας δίσκος (ή υπολογιστής) είναι σχετικά πρόσφατος, είναι πιθανό να δείτε αυτό το μήνυμα τουλάχιστον σε μερικούς από τους ελέγχους υγείας. Θα πρέπει <span class="link"><a href="backup-how.html" title="Πώς να δημιουργήσετε αντίγραφα ασφαλείας">να αντιγράφετε τα σημαντικά σας αρχεία συχνά</a></span> και να ελέγχετε την κατάσταση του δίσκου περιοδικά για να δείτε εάν χειροτερεύει.</p>
+<p class="p">Even if the <span class="gui">Overall Assessment</span> indicates that the disk
+  <span class="em">isn’t</span> healthy, there may be no cause for alarm. However, it’s better
+  to be prepared with a <span class="link"><a href="backup-why.html" title="Αντίγραφα ασφαλείας των σημαντικών σας αρχείων">backup</a></span> to prevent data
+  loss.</p>
+<p class="p">If the status says “Pre-fail”, the disk is still reasonably healthy but
+ signs of wear have been detected which mean it might fail in the near future.
+ If your hard disk (or computer) is a few years old, you are likely to see
+ this message on at least some of the health checks. You should
+ <span class="link"><a href="backup-how.html" title="Πώς να δημιουργήσετε αντίγραφα ασφαλείας">backup your important files regularly</a></span> and check
+ the disk status periodically to see if it gets worse.</p>
 <p class="p">Εάν χειροτερεύσει, ίσως θελήσετε να πάτε τον υπολογιστή/σκληρό δίσκο σε έναν επαγγελματία για παραιτέρω διάγνωση ή επισκευή.</p>
 </div></div>
 </div></div>

@@ -72,9 +72,11 @@
 </ol></div></div></div>
 </div>
 <div id="problem" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Si le disque n'a pas été gravé correctement</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">If the disc wasn’t burned properly</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Parfois l'ordinateur n'enregistre pas les données correctement et vous ne pourrez alors pas voir les fichiers que vous avez mis sur le disque quand vous l'insérez dans un ordinateur.</p>
+<p class="p">Sometimes the computer doesn’t record the data correctly, and you won’t be
+  able to see the files you put onto the disc when you insert it into a
+  computer.</p>
 <p class="p">Dans ce cas, tenter de graver le disque une nouvelle fois mais à plus basse vitesse, par exemple 12x au lieu de 48x. Graver plus lentement est plus sûr. Vous pouvez choisir la vitesse en cliquant le bouton <span class="gui">Propriétés</span> dans la fenêtre du <span class="gui">Créateur de CD/DVD</span>.</p>
 </div></div>
 </div></div>

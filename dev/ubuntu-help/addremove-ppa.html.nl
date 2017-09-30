@@ -58,7 +58,10 @@
 <div class="title title-steps"><h2><span class="title">Een PPA installeren</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Zoek op de PPA-overzichtspagina naar de kop <span class="gui">Deze PPA toevoegen aan uw systeem</span>. Noteer de locatie van de PPA; deze ziet er ongeveer zo uit: <span class="code">ppa:mozillateam/firefox-next</span>.</p></li>
-<li class="steps"><p class="p">Klik op het <span class="app">Ubuntu Software</span>-pictogram in de <span class="gui">Starter</span>, of zoek naar <span class="input">Software</span> in de zoekbalk van de <span class="gui">Snelzoeker</span>.</p></li>
+<li class="steps"><p class="p">
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">Klik, nadat <span class="app">Ubuntu Software</span> geopend is, op <span class="gui">Software &amp; Updates</span></p></li>
 <li class="steps"><p class="p">Ga naar het tabblad <span class="gui">Overige software</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Toevoegen</span> en geef de locatie van de PPA op (zoals aangegeven in stap 1).</p></li>

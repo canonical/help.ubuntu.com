@@ -51,25 +51,19 @@
 <div class="contents"></div>
 <div id="what" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Apa itu proksi?</span></h2></div>
-<div class="region"><div class="contents"><p class="p">A <span class="em">web proxy</span> filters websites that you look at, it receives
-  requests from your web browser to fetch web pages and their elements, and
-  following a policy will decide to pass them you back. They are commonly used
-  in businesses and at public wireless hotspots to control what websites you
-  can look at, prevent you from accessing the internet without logging in, or
-  to do security checks on websites.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Sebuah <span class="em">proksi web</span> menyaring situs web yang Anda lihat, itu menenerima permintaan dari peramban web Anda untuk mengambil halaman web dan elemen-elemennya, dan mengikuti kebijakan akan memutuskan untuk meneruskannya kembali. Mereka umumnya digunakan dalam bisnis dan di hotspot nirkabel publik untuk mengontrol situs web apa yang dapat Anda lihat, mencegah Anda dari mengakses internet tanpa log masuk, atau untuk melakukan pemeriksaan keamanan di situs web.</p></div></div>
 </div></div>
 <div id="change" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Mengubah metoda proksi</span></h2></div>
 <div class="region"><div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span> overview and
-      start typing <span class="gui">Network</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Jaringan</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Jaringan</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Pilih <span class="gui">Proksi jaringan</span> dari daftar di kiri.</p></li>
 <li class="steps">
 <p class="p">Choose which proxy method you want to use from:</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">None</span></dt>
+<dt class="terms"><span class="gui">Nihil</span></dt>
 <dd class="terms"><p class="p">The applications will use a direct connection to fetch the content
           from the web.</p></dd>
 <dt class="terms"><span class="gui">Manual</span></dt>

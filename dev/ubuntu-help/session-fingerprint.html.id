@@ -61,8 +61,7 @@
 <p class="p">You need <span class="link"><a href="user-admin-explain.html" title="Bagaimana privilese administratif bekerja?">administrator privileges</a></span>
   to edit user accounts other than your own.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span> overview and
-      start typing <span class="gui">Users</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Pengguna</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Pengguna</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Press on <span class="gui">Disabled</span>, next to <span class="gui">Fingerprint Login</span> to
       add a fingerprint for the selected account. If you are adding the

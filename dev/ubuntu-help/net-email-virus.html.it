@@ -54,8 +54,19 @@
 <div class="region">
 <div class="contents">
 <p class="p">I virus sono programmi che causano problemi se riescono a insediarsi nel computer. Una modo comune per far si che i virus infettino un computer è attraverso i messaggi di posta elettronica.</p>
-<p class="p">I virus che possono infettare computer che eseguono Linux sono piuttosto rari, quindi è <span class="link"><a href="net-antivirus.html" title="È necessario un software antivirus?">improbabile che essere infettati da un virus attraverso posta elettronica o altro</a></span>. Se si riceve una email che contiene un virus nascosto all'interno, probabilmente non avrà alcun effetto sul computer. Ne consegue che non è necessario eseguire un controllo dei virus sulle email.</p>
-<p class="p">È comunque possibile eseguire un controllo antivirus sulle email per evitare di inviare il virus da una persona a un'altra. Per esempio, se uno dei propri contatti invia una email infetta usando un computer con Windows, e questa viene inoltrata a un altro  contatto che usa Windows, anche questa persona potrebbe essere infettata dal virus. È possibile installare un'applicazione antivirus per controllare le email e prevenire questo inconveniente, ma è comunque improbabile che accada dato che la maggior parte degli utenti che usano Windows e Mac OS hanno già un proprio software antivirus installato.</p>
+<p class="p">Viruses that can affect computers running Linux are quite rare, so you are
+  <span class="link"><a href="net-antivirus.html" title="È necessario un software antivirus?">unlikely to get a virus through email or
+  otherwise</a></span>. If you receive an email with a virus hidden in it, it will
+  probably have no effect on your computer. As such, you probably don’t need to
+  scan your email for viruses.</p>
+<p class="p">You may, however, wish to scan your email for viruses in case you happen
+  to forward a virus from one person to another. For example, if one of your
+  friends has a Windows computer with a virus and sends you a virus-infected
+  email, and you then forward that email to another friend with a Windows
+  computer, then the second friend might get the virus too. You could install
+  an anti-virus application to scan your emails to prevent this, but it’s
+  unlikely to happen and most people using Windows and Mac OS have anti-virus
+  software of their own anyway.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -81,7 +92,8 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Confronta anche</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-antivirus.html" title="È necessario un software antivirus?">È necessario un software antivirus?</a><span class="desc"> — Ci sono pochi virus per Linux quindi, probabilmente, non è neccesario installare un antivirus.</span>
+<a href="net-antivirus.html" title="È necessario un software antivirus?">È necessario un software antivirus?</a><span class="desc"> — There are few Linux viruses, so you probably don’t need anti-virus
+    software.</span>
 </li></ul></div>
 </div></div>
 </div>

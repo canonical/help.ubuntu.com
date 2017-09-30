@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Send files to a Bluetooth device</title>
+<title>Bestanden sturen naar een Bluetooth-apparaat</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,43 +44,34 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html" title="Sharing">Sharing</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="sharing.html" title="Delen">Delen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Send files to a Bluetooth device</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Bestanden sturen naar een Bluetooth-apparaat</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">You can send files to connected Bluetooth devices, such as some mobile
-    phones or other computers. Some types of devices don't allow the transfer
+    phones or other computers. Some types of devices don’t allow the transfer
     of files, or specific types of files. You can send files in one of three
     ways: using the Bluetooth icon in the menu bar, from the Bluetooth settings
     window, or directly from the file manager.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Bluetooth</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Bluetooth</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Make sure Bluetooth is enabled: the switch in the titlebar should be
-      set to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Klik op het <span class="gui">Bluetooth</span> om het paneel te openen.</p></li>
+<li class="steps"><p class="p">Zorg ervoor dat Bluetooth aan staat: de schakelaar in de titelbalk moet <span class="gui">AAN</span> staan.</p></li>
 <li class="steps">
-<p class="p">In the <span class="gui">Devices</span> list, select the device to which to send the
-      files. If the desired device is not shown as <span class="gui">Connected</span> in the
-      list, you need to <span class="link"><a href="bluetooth-connect-device.html" title="Connect your computer to a Bluetooth device">connect</a></span>
-      to it.</p>
-<p class="p">A panel specific to the external device appears.</p>
+<p class="p">In de <span class="gui">Apparaten</span>-lijst, selecteer het apparaat waar u de bestanden heen wilt sturen. Als het gewenste apparaat niet als <span class="gui">Verbonden</span> staat aangegeven in de lijst, zult u er mee moeten <span class="link"><a href="bluetooth-connect-device.html" title="Uw computer met een Bluetooth-apparaat verbinden">verbinden</a></span>.</p>
+<p class="p">Een paneel verschijnt dat is toegespitst op het externe apparaat.</p>
 </li>
-<li class="steps"><p class="p">Click <span class="gui">Send Files…</span> and the file chooser will appear.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Bestanden versturen…</span> en de bestandskiezer zal verschijnen.</p></li>
 <li class="steps">
-<p class="p">Choose the file you want to send and click <span class="gui">Select</span>.</p>
-<p class="p">To send more than one file in a folder, hold down <span class="key"><kbd>Ctrl</kbd></span> as
-      you select each file.</p>
+<p class="p">Kies het bestand dat u wilt versturen en klik op <span class="gui">Selecteren</span>.</p>
+<p class="p">Om meer dan één bestand uit een map te versturen houdt u <span class="key"><kbd>Ctrl</kbd></span> ingedrukt bij het selecteren van elk van de bestanden.</p>
 </li>
-<li class="steps"><p class="p">The owner of the receiving device usually has to press a button to
-      accept the file. The <span class="gui">Bluetooth File Transfer</span> dialog will show
-      the progress bar. Click <span class="gui">Close</span> when the transfer is
-      complete.</p></li>
+<li class="steps"><p class="p">De eigenaar van het ontvangende apparaat moet meestal op een knop drukken om het bestand te accepteren. Het dialoogvenster <span class="gui">Bluetooth-bestandsoverdracht</span> zal de voortgangsbalk tonen. Druk op <span class="gui">Sluiten</span> wanneer de overdracht voltooid is.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -90,26 +81,17 @@
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — 
-      <span class="link"><a href="bluetooth-connect-device.html" title="Connect your computer to a Bluetooth device">Connect</a></span>,
-      <span class="link"><a href="bluetooth-send-file.html" title="Send files to a Bluetooth device">send files</a></span>,
-      <span class="link"><a href="bluetooth-turn-on-off.html" title="Turn Bluetooth on or off">turn on and off</a></span>…
-    </span>
+<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Uw computer met een Bluetooth-apparaat verbinden">Verbinden</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Bestanden sturen naar een Bluetooth-apparaat">bestanden overbrengen</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Bluetooth in- of uitschakelen">aan- en uitzetten</a></span>...</span>
 </li>
 <li class="links ">
-<a href="sharing.html" title="Sharing">Sharing</a><span class="desc"> — 
-      <span class="link"><a href="sharing-desktop.html" title="Share your desktop">Desktop sharing</a></span>,
-      <span class="link"><a href="files-share.html" title="Share files by email">Share files by email</a></span>,
-      <span class="link"><a href="sharing-media.html" title="Share your music, photos and videos">Media sharing</a></span>…
-    </span>
+<a href="sharing.html" title="Delen">Delen</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Deel uw desktop">Bureaublad delen</a></span>, <span class="link"><a href="files-share.html" title="Bestanden delen per e-mail">Bestanden delen per e-mail</a></span>, <span class="link"><a href="sharing-media.html" title="Uw muziek, foto's en video's delen">Media delen</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-share.html" title="Share files by email">Share files by email</a><span class="desc"> — Easily transfer files to your email contacts from the file
-    manager.</span>
+<a href="files-share.html" title="Bestanden delen per e-mail">Bestanden delen per e-mail</a><span class="desc"> — Bestanden eenvoudig overbrengen naar uw e-mailcontacten vanuit bestandsbeheer.</span>
 </li></ul></div>
 </div></div>
 </div>

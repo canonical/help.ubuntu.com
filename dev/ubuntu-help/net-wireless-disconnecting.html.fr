@@ -63,7 +63,12 @@
 <div id="network" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Mauvaise connexion au réseau</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Il arrive parfois que lors de votre connexion à un réseau sans fil, il semble que vous soyez connecté correctement au début, mais vous êtes déconnecté aussitôt après. Ceci est dû à une connexion incomplète de votre ordinateur au réseau - il a fait son possible pour établir une connexion, mais pour une raison inconnue, il n'a pas pu faire aboutir la connexion et celle-ci a été interrompue.</p>
+<p class="p">Sometimes, when you connect to a wireless network, it may appear that you
+ have successfully connected at first, but then you will be disconnected soon
+ after. This normally happens because your computer was only partially
+ successful in connecting to the network — it managed to establish a connection,
+ but was unable to finalize the connection for some reason and so was
+ disconnected.</p>
 <p class="p">De probables raisons à ceci sont la saisie d'une phrase de passe erronée ou l'interdiction de votre ordinateur sur le réseau (un nom d'utilisateur manquant pendant l'identification par exemple).</p>
 </div></div>
 </div></div>
@@ -82,7 +87,7 @@
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-problem.html" title="Problèmes réseau">Problèmes réseau</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Dépannage du réseau sans fil">Dépannage des connexions sans fil</a></span>, <span class="link"><a href="net-wireless-find.html" title="Absence de mon réseau sans fil dans la liste">trouver votre réseau Wifi</a></span>…</span>
+<a href="net-problem.html" title="Problèmes réseau">Problèmes réseau</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Dépannage du réseau sans fil">Dépannage des connexions sans fil</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">trouver votre réseau Wifi</a></span>…</span>
 </li>
 <li class="links ">
 <a href="net-wireless.html" title="Réseau sans fil">Réseau sans fil</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Connexion à un réseau sans fil">Se connecter au Wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Connexion à un réseau sans fil masqué">réseaux masqués</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Interruptions intempestives du réseau sans fil">déconnexion</a></span>…</span>
@@ -92,7 +97,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-connect.html" title="Connexion à un réseau sans fil">Connexion à un réseau sans fil</a><span class="desc"> — Aller sur Internet - sans fil.</span>
+<a href="net-wireless-connect.html" title="Connexion à un réseau sans fil">Connexion à un réseau sans fil</a><span class="desc"> — Get on the internet — wirelessly.</span>
 </li></ul></div>
 </div></div>
 </div>

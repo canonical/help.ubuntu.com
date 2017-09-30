@@ -72,7 +72,11 @@
 <p class="p">Some of the instructions in this guide ask you to type commands into the
     <span class="em">command line</span> (Terminal). You can find the <span class="app">Terminal</span> application in
     the <span class="gui">Activities</span> overview.</p>
-<p class="p">La mancanza di pratica nell'uso della riga di comando non costituisce un problema, in quanto questa guida fornisce indicazioni per ogni passo. Occorre solo ricordare di prestare attenzione alle lettere maiuscole e minuscole: i comandi tengono in considerazione anche questo aspetto ed è pertanto necessario digitarli <span class="em">esattamente</span> come sono visualizzati e premere <span class="key"><kbd>Invio</kbd></span> dopo aver digitato ciascun comando per eseguirlo.</p>
+<p class="p">If you are not familiar with using a command line, don’t worry — this
+    guide will direct you at each step. All you need to remember is that
+    commands are case-sensitive (so you must type them <span class="em">exactly</span> as they
+    appear here), and to press <span class="key"><kbd>Enter</kbd></span> after typing each command to
+    run it.</p>
 </div></div>
 </div></div>
 </div>
@@ -96,7 +100,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Confronta anche</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-connect.html" title="Connettersi a una rete WiFi">Connettersi a una rete WiFi</a><span class="desc"> — Connessione a Internet senza fili.</span>
+<a href="net-wireless-connect.html" title="Connettersi a una rete WiFi">Connettersi a una rete WiFi</a><span class="desc"> — Get on the internet — wirelessly.</span>
 </li></ul></div>
 </div></div>
 </div>

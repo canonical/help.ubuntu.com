@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Click and move mouse pointer using the keypad</title>
+<title>De muisaanwijzer met behulp van het numerieke toetsenbord klikken en bewegen.</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,36 +44,32 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="mouse.html" title="Mouse">Mouse</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Universele toegang">Universele toegang</a> › <a class="trail" href="a11y.html#mobility" title="Beperkte mobiliteit">Beperkte mobiliteit</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Universal access">Universal access</a> › <a class="trail" href="a11y.html#mobility" title="Mobility impairments">Mobility impairments</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="mouse.html" title="Muis">Muis</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="mouse.html" title="Mouse">Mouse</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="mouse.html" title="Muis">Muis</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Click and move mouse pointer using the keypad</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">De muisaanwijzer met behulp van het numerieke toetsenbord klikken en bewegen.</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you have difficulties using a mouse or other pointing device, you can
-  control the mouse pointer using the numeric keypad on your keyboard. This
-  feature is called <span class="em">mouse keys</span>.</p>
+<p class="p">Als u problemen heeft bij het gebruik van een muis of ander aanwijsapparaat, kunt u de muisaanwijzer via het numerieke toetsenbord besturen. Deze functie heet <span class="em">muistoetsen</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps">
-<p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Universal Access</span>.</p>
+<p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Universele toegang</span>.</p>
 <p class="p">You can access the <span class="gui">Activities</span> overview by pressing on it,
       by moving your mouse pointer against the top-left corner of the screen,
       using <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>
       followed by <span class="key"><kbd>Enter</kbd></span> or using
-      <span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span>.</p>
+      <span class="key"><a href="keyboard-key-super.html" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span>.</p>
 </li>
-<li class="steps"><p class="p">Click on <span class="gui">Universal Access</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Universele toegang</span> om het paneel te openen.</p></li>
 <li class="steps"><p class="p">Use the up and down arrow keys to select <span class="gui">Mouse Keys</span> in the
       <span class="gui">Pointing &amp; Clicking</span> section then press <span class="key"><kbd>Enter</kbd></span> to
       switch <span class="gui">Mouse Keys</span> to <span class="gui">On</span>.</p></li>
-<li class="steps"><p class="p">Make sure that <span class="key"><kbd>Num Lock</kbd></span> is turned off. You will now be able
-      to move the mouse pointer using the keypad.</p></li>
+<li class="steps"><p class="p">Zorg ervoor dat <span class="key"><kbd>Num Lock</kbd></span> uit staat. U kunt nu de muisaanwijzer besturen via het numerieke toetsenbord.</p></li>
 </ol></div></div></div>
 <p class="p">The keypad is a set of numerical buttons on your keyboard, usually
   arranged into a square grid. If you have a keyboard without a keypad (such as
@@ -81,33 +77,23 @@
   key and use certain other keys on your keyboard as a keypad. If you use this
   feature often on a laptop, you can purchase external USB or Bluetooth numeric
   keypads.</p>
-<p class="p">Each number on the keypad corresponds to a direction. For example,
-  pressing <span class="key"><kbd>8</kbd></span> will move the pointer upwards and pressing
-  <span class="key"><kbd>2</kbd></span> will move it downwards. Press the <span class="key"><kbd>5</kbd></span> key to click once
-  with the mouse, or quickly press it twice to double-click.</p>
+<p class="p">Elk cijfer op het numerieke toetsenbord komt overeen met een richting. Zo zal het indrukken van de <span class="key"><kbd>8</kbd></span> de muis naar boven bewegen en de <span class="key"><kbd>2</kbd></span> naar beneden. Druk op de <span class="key"><kbd>5</kbd></span> voor een éénmalige muisklik, of druk hem snel twee keer in voor een dubbelklik.</p>
 <p class="p">Most keyboards have a special key which allows you to right-click,
-  sometimes called the <span class="key"><a href="keyboard-key-menu.html" title="What is the Menu key?"><kbd>Menu</kbd></a></span> key. Note,
+  sometimes called the <span class="key"><a href="keyboard-key-menu.html" title="Wat is de Menu-toets?"><kbd>Menu</kbd></a></span> key. Note,
   however, that this key responds to where your keyboard focus is, not where
-  your mouse pointer is. See <span class="link"><a href="a11y-right-click.html" title="Simulate a right mouse click">Simulate a right mouse click</a></span> for information on
+  your mouse pointer is. See <span class="link"><a href="a11y-right-click.html" title="Een rechtermuisklik simuleren">Een rechtermuisklik simuleren</a></span> for information on
   how to right-click by holding down <span class="key"><kbd>5</kbd></span> or the left mouse button.</p>
-<p class="p">If you want to use the keypad to type numbers while mouse keys is enabled,
-  turn <span class="key"><kbd>Num Lock</kbd></span> on. The mouse cannot be controlled with the keypad
-  when <span class="key"><kbd>Num Lock</kbd></span> is turned on, though.</p>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">The normal number keys, in a line at the top of the keyboard, will not
-    control the mouse pointer. Only the keypad number keys can be used.</p></div></div></div></div>
+<p class="p">Als u het numerieke toetsenbord wilt gebruiken om cijfers te typen terwijl Muistoetsen ingeschakeld is, zet dan <span class="key"><kbd>Num Lock</kbd></span> aan. Let er op dat u de muis niet met het numerieke toetsenbord kunt besturen wanneer <span class="key"><kbd>Num Lock</kbd></span> aan staat.</p>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">De gewone cijfertoetsen, in een rij bovenaan het toetsenbord, besturen de muisaanwijzer niet. Alleen de toetsen van het numerieke toetsenbord kunnen gebruikt worden.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Mobility impairments">Mobility impairments</a></li>
+<li class="links "><a href="a11y.html#mobility" title="Beperkte mobiliteit">Beperkte mobiliteit</a></li>
 <li class="links ">
-<a href="mouse.html" title="Mouse">Mouse</a><span class="desc"> — 
-      <span class="link"><a href="mouse-lefthanded.html" title="Use your mouse left-handed">Left-handed</a></span>,
-      <span class="link"><a href="mouse-sensitivity.html" title="Adjust speed of the mouse and touchpad">speed and sensitivity</a></span>,
-      <span class="link"><a href="mouse-touchpad-click.html" title="Click, drag, or scroll with the touchpad">touchpad clicking and scrolling</a></span>…
-    </span>
+<a href="mouse.html" title="Muis">Muis</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="Gebruik de muis met uw linker hand">Linkshandig</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="De snelheid van de muis en het touchpad aanpassen">snelheid en gevoeligheid</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Klik, sleep, of scroll met het touchpad">touchpad klikken en scrollen</a></span>...</span>
 </li>
 </ul></div>
 </div></div></div>

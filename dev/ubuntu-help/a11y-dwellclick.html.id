@@ -58,12 +58,10 @@
 <p class="p">Anda dapat mengklik atau menyeret hanya dengan mengambangkan pointer tetikus Anda di atas suatu kendali atau objek pada layar. Ini berguna bila Anda merasa sulit untuk menggerakkan tetikus dan mengklik pada saat yang sama. Fitur ini dinamai <span class="gui">Klik Mengambang</span> atau Klik Menetap.</p>
 <p class="p">Ketika <span class="gui">Klik Mengambang</span> difungsikan, Anda dapat memindah pointer tetikus Anda lewat suatu kendali, melepas tetikus, lalu menunggu sejenak sebelum tombol akan diklikkan bagi Anda.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span> overview and
-      start typing <span class="gui">Universal Access</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akses Universal</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Akses Universal</span> untuk membuka panel.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Click Assist</span> in the <span class="gui">Pointing &amp;
-      Clicking</span> section.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Hover Click</span> to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Tekan <span class="gui">Bantu Klik</span> dalam seksi <span class="gui">Menunjuk &amp; Mengklik</span>.</p></li>
+<li class="steps"><p class="p">Ubah <span class="gui">Klik Mengambang</span> menjadi <span class="gui">Nyala</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Jendela <span class="gui">Klik Mengambang</span> akan terbuka, dan akan bertahan di atas semua jendela lain Anda. Anda dapat menggunakan ini untuk memilih apa jenis klik yang harus terjadi ketika Anda mengambang. Misalnya, jika Anda memilih <span class="gui">Klik Sekunder</span>, Anda akan klik kanan ketika Anda mengambang. Setelah Anda klik ganda, klik kanan, atau menyeret, Anda akan secara otomatis kembali ke mengklik.</p>
 <p class="p">Ketika Anda mengambangkan penunjuk tetikus Anda di atas suatu tombol dan tidak menggerakkannya, itu akan berangsur-angsur berubah warna. Ketika warnanya sudah berubah sepenuhnya, tombol akan diklik.</p>

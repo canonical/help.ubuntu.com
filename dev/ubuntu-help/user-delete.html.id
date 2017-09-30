@@ -49,12 +49,13 @@
 <div class="hgroup"><h1 class="title"><span class="title">Hapus suatu akun pengguna</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Anda dapat <span class="link"><a href="user-add.html" title="Menambah akun pengguna baru">menambah beberapa akun pengguna ke komputer Anda</a></span>. Bila seseorang tak memakai komputer Anda lagi, Anda dapat menghapus akun pengguna tersebut.</p>
+<p class="p">You can <span class="link"><a href="user-add.html" title="Menambah akun pengguna baru">add multiple user accounts to your
+  computer</a></span>. If somebody is no longer using your computer, you can delete
+  that user’s account.</p>
 <p class="p">You need <span class="link"><a href="user-admin-explain.html" title="Bagaimana privilese administratif bekerja?">administrator privileges</a></span>
   to delete user accounts.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span> overview and
-      start typing <span class="gui">Users</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Pengguna</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Users</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Press <span class="gui">Unlock</span> in the top right corner and
       type in your password when prompted.</p></li>
@@ -62,7 +63,7 @@
       <span class="gui">-</span> button, below the list of accounts on the
       left, to delete that user account.</p></li>
 <li class="steps"><p class="p">Each user has their own home folder for their files and settings. You
-      can choose to keep or delete the user's home folder. Click <span class="gui">Delete
+      can choose to keep or delete the user’s home folder. Click <span class="gui">Delete
       Files</span> if you are sure they will not be used anymore and you need to
       free up disk space. These files are permanently deleted. They cannot be
       recovered. You may want to back up the files to an external storage device

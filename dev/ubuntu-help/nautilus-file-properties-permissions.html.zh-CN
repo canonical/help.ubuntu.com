@@ -55,9 +55,19 @@
 <div id="files" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">文件</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">您可以设置文件的所有者，群组和其他用户的操作权限。对于您自己的文件，您就是所有者，您可以设定自己的权限为只读或者读写权限。设成只读可以避免无意中更改它。</p>
-<p class="p">系统中的每个用户有一个所属群组，在家用电脑上，通常每个用户都有自己的群组，并且组权限通常不使用，但是在公司环境中，组有时用于部门或项目。同所有者一样，每个文件也有一个所属组。您可以设置文件的属组仅为自己的组。</p>
-<p class="p">除了设置所有者和群组外，您还可以设置其他用户的权限。</p>
+<p class="p">You can set the permissions for the file owner, the group owner,
+    and all other users of the system. For your files, you are the owner,
+    and you can give yourself read-only or read-and-write permission.
+    Set a file to read-only if you don’t want to accidentally change it.</p>
+<p class="p">Every user on your computer belongs to a group. On home computers,
+    it is common for each user to have their own group, and group permissions
+    are not often used. In corporate environments, groups are sometimes used
+    for departments or projects. As well as having an owner, each file belongs
+    to a group. You can set the file’s group and control the permissions for
+    all users in that group. You can only set the file’s group to a group you
+    belong to.</p>
+<p class="p">You can also set the permissions for users other than the owner and
+    those in the file’s group.</p>
 <p class="p">如果是程序文件，比如脚本，您必须选中<span class="gui">允许以程序执行文件</span>才能运行它。甚至即使您选中了此项，文件管理器仍然会在一个程序中打开它，或者询问您如何操作。更多信息请参阅 <span class="link"><a href="nautilus-behavior.html#executable" title="可执行文本文件">可执行文本文件</a></span>。</p>
 </div></div>
 </div></div>

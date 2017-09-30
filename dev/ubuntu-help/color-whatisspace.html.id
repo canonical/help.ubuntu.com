@@ -65,7 +65,12 @@
 <p class="p">Pertama, melihat pada sRGB, yang merupakan ruang paling kecil dan dapat mengenkode sejumlah warna paling sedikit. Ini adalah aproksimase dari tampilan CRT berumur 10 tahun, sehingga kebanyakan monitor modern dapat menampilkan lebih banyak warna daripada ini dengan mudah. sRGB adalah standar <span class="em">kelipatan terkecil</span> dan dipakai pada sejumlah besar aplikasi (termasuk Internet).</p>
 <p class="p">AdobeRGB sering dipakai sebagai <span class="em">ruang penyuntingan</span>. Ini dapat mengenkode lebih banyak warna daripada sRGB, yang berarti Anda dapat mengubah warna dalam foto tanpa perlu khawatir bahwa warna paling menyala terpotong atau warna hitam terredam.</p>
 <p class="p">ProPhoto adalah ruang terbesar yang tersedia dan sering dipakai untuk pengarsipan dokumen. Ini dapat mengenkode hampir seluruh jangkauan warna yang terdeteksi oleh mata manusia, dan bahkan mengenkode warna yang tak dapat dideteksi mata!</p>
-<p class="p">Kini, bila ProPhoto jelas lebih baik, mengapa kita tidak memakainya untuk semua hal? Jawabannya tentang <span class="em">kuantisasi</span>. Bila Anda hanya memiliki 8 bit (256 tingkat) untuk mengenkode setiap kanal, maka suatu jangkauan yang lebih lebar akan memiliki jangkah lebih besar antar tiap nilai.</p>
+<p class="p">
+    Now, if ProPhoto is clearly better, why don’t we use it for everything?
+    The answer is to do with <span class="em">quantization</span>.
+    If you only have 8 bits (256 levels) to encode each channel, then a
+    larger range is going to have bigger steps between each value.
+  </p>
 <p class="p">Jangkah lebih lebar berarti kesalahan lebih besar antara warna yang ditangkap dan warna yang disimpan, dan bagi beberapa warna ini adalah masalah besar. Ternyata bahwa warna-warna kunci, seperti warna kulit sangat penting, dan bahkan kesalahan kecil akan membuat pemirsa tak terlatih menyadari bahwa sesuatu dalam foto terlihat salah.</p>
 <p class="p">Tentu saja, memakai gambar 16 bit akan meninggalkan lebih banyak langkah dan kesalahan kuantisasi yang jauh lebih kecil, tapi ini melipatduakan ukuran setiap berkas gambar. Kebanyakan isi yang ada sekarang adalah 8bpp, yaitu 8 bit-per-piksel.</p>
 <p class="p">Manajemen warna adalah suatu proses untuk mengonversi dari satu ruang warna ke lainnya, dimana suatu ruang warna bisa berupa ruang terdefinisi yang dikenal baik seperti sRGB, atau ruang ubahan seperti profil pencetak atau monitor Anda.</p>

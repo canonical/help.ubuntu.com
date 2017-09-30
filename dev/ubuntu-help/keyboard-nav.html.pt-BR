@@ -69,10 +69,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Teclas de setas</p></td>
-<td style="border-top-style: solid;">
-<p class="p">Move a seleção entre itens em um único controle ou entre um conjunto de controles relacionados. Use as teclas de setas para mover foco para botões em uma barra de ferramentas, selecione itens em uma visão de ícones ou lista ou selecione um botão de opção de um grupo.</p>
-<p class="p">Em uma visão de árvore, usa as teclas de seta para recolher e expandir itens com crianças.</p>
-</td>
+<td style="border-top-style: solid;"><p class="p">Move a seleção entre itens em um único controle ou entre um conjunto de controles relacionados. Use as teclas de setas para mover foco para botões em uma barra de ferramentas, selecione itens em uma visão de ícones ou lista ou selecione um botão de opção de um grupo.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+Teclas de setas</span></p></td>
@@ -81,6 +78,7 @@
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+Teclas de seta</span></p></td>
 <td style="border-top-style: solid;"><p class="p">Em uma visão de ícones ou lista, seleciona todos os itens de item atualmente selecionado para o item em foco recentemente.</p></td>
+<td style="border-top-style: solid;"><p class="p">Na visão de árvore, itens que possuem filhos podem ser expandidos ou recolhidos para, respectivamente, mostrá-los ou ocultá-los: expanda-os pressionando <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>→</kbd></span></span> e recolha-os pressionando <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>←</kbd></span></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Espaço</kbd></span></p></td>

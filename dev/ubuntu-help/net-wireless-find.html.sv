@@ -56,7 +56,7 @@
 <p class="p">Det finns ett antal skäl till varför du kanske inte kan se ditt trådlösa nätverk i listan över tillgängliga nätverk från systemmenyn.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Om inga nätverk visas i listan, kan din trådlösa hårdvara vara avstängd, eller så <span class="link"><a href="net-wireless-troubleshooting.html" title="Felsökning av trådlösa nätverk">fungerar den inte ordentligt</a></span>. Säkerställ att den är påslagen.</p></li>
-<li class="list"><p class="p">Du kan vara utom räckhåll för nätverket. Försök att flytta dig närmre den trådlösa basstationen/routern och se om nätverket visas i listan efter ett tag.</p></li>
+<li class="list"><p class="p">Du kan vara utom räckhåll för nätverket. Försök att flytta dig närmare den trådlösa basstationen/routern och se om nätverket visas i listan efter ett tag.</p></li>
 <li class="list"><p class="p">Listan över trådlösa nätverk tar tid att uppdatera. Om du nyss har slagit på din dator eller flyttat den till en annan plats, vänta en minut eller så och kontrollera sedan om nätverket har dykt upp i listan.</p></li>
 <li class="list"><p class="p">Nätverket kan vara dolt. Du måste <span class="link"><a href="net-wireless-hidden.html" title="Anslut till ett dolt, trådlöst nätverk">ansluta på ett annat sätt</a></span> om det är ett dolt nätverk.</p></li>
 </ul></div></div></div>

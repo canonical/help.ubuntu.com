@@ -2,7 +2,7 @@
 <html lang=fi>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Mitä eroa on kalibroinnilla ja profiloinnilla?</title>
+<title>What’s the difference between calibration and characterization?</title>
 <link rel="stylesheet" type="text/css" href="fi.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -50,7 +50,7 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Mitä eroa on kalibroinnilla ja profiloinnilla?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">What’s the difference between calibration and characterization?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Monet hämääntyvät usein kalibroinnin ja profiloinnin eroista. Kalibrointi on laitteen väriominaisuuksien muokkausta. Tämä toteutetaan yleensä kahdella tavalla:</p>
@@ -60,7 +60,11 @@
 </ul></div></div></div>
 <p class="p">Kalibroinnin tarkoitus on laittaa laite määrättyyn tilaan värivasteen suhteen. Tätä käytetään usein päivittäisenä toimena toistettavissa olevan värikäyttäytymisen saavuttamiseksi. Tavallisesti kalibrointia säilytetään laite- tai järjestelmäkohtaisissa tiedostomuodoissa, joihin tallennetaan laiteasetukset tai kanavakohtaiset kalibrointikäyrät.</p>
 <p class="p">Karakterisointi (eli profilointi( on laitteen värien toistamisen <span class="em">tallentamista</span>. Tulos tallennetaan yleensä laite-ICC-profiiliksi. Profiili ei muokkaa itsessään väriä, vaan se mahdollistaa CMM-järjestelmien (Color Management Module) tai väriasioita ymmärtävän ohjelman värien muokkaamiseen yhdessä toisen laitteen profiilin kanssa. Vain tietämällä kahden laitteen profiili on mahdollista siirtää värien toisto laitteelta toiselle onnistuneesti.</p>
-<div class="note" title="Huomautus"><div class="inner"><div class="region"><div class="contents"><p class="p">Huomaa, että kuvantaminen (profiili) on voimassa laitteelle, jos se on samassa tilassa kuin se oli kalibroitaessa.</p></div></div></div></div>
+<div class="note" title="Huomautus"><div class="inner"><div class="region"><div class="contents"><p class="p">
+      Note that a characterization (profile) will only be valid for a device
+      if it’s in the same state of calibration as it was when it was
+      characterized.
+    </p></div></div></div></div>
 <p class="p">Näyttöprofiilien tapauksessa saattaa olla hämmennystä aiheuttavaa, että kalibrointitiedot tallennetaan usein mukavuussyistä. Tapana on tallentaa tiedot <span class="em">vcgt</span>-merkintään. Vaikka se tallennetaan profiiliin, mikään tavallista ICC-työkaluista tai sovelluksista ei ole tietoinen siitä eikä tee sillä mitään. Samaan tapaan tavalliset näytön kalibrointityökalut ja -sovellukset eivät ole tietoisia siitä tai käytä tätä ICC-karakterisointitietoa.</p>
 </div>
 <div class="sect sect-links" role="navigation">

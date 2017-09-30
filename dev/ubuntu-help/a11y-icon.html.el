@@ -62,7 +62,14 @@
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Γενική πρόσβαση</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps"><p class="p">Αλλάξτε το <span class="gui">Να εμφανίζεται πά_ντα το καθολικό μενού πρόσβασης</span> σε <span class="gui">ΝΑΙ</span>.</p></li>
 </ol></div></div></div>
-<p class="p">Για πρόσβαση αυτού του μενού χρησιμοποιώντας το πληκτρολόγιο αντί του ποντικιού, πατήστε <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> για να μετακινήσετε την εστίαση πληκτρολογίου στην πάνω γραμμή. Μια λευκή γραμμή θα εμφανιστεί κάτω από το κουμπί <span class="gui">Δραστηριότητες</span> - αυτό σας λέει ποιο στοιχείο επιλέχτηκε στην πάνω γραμμή. Χρησιμοποιήστε τα πλήκτρα βέλους στο πληκτρολόγιο για να μετακινήσετε την λευκή γραμμή κάτω από το εικονίδιο μενού γενικής πρόσβασης και έπειτα πατήστε <span class="key"><kbd>Enter</kbd></span> για να το ανοίξετε. Μπορείτε να χρησιμοποιήσετε τα πλήκτρα πάνω και κάτω βέλους για την επιλογή στοιχείων στο μενού. Πατήστε <span class="key"><kbd>Enter</kbd></span> για εναλλαγή του επιλεγμένου στοιχείου.</p>
+<p class="p">To access this menu using the keyboard rather than the mouse, press
+  <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> to move the
+  keyboard focus to the top bar. A white line will appear underneath the
+  <span class="gui">Activities</span> button — this tells you which item on the top bar is
+  selected. Use the arrow keys on the keyboard to move the white line under the
+  universal access menu icon and then press <span class="key"><kbd>Enter</kbd></span> to open it. You
+  can use the up and down arrow keys to select items in the menu. Press
+  <span class="key"><kbd>Enter</kbd></span> to toggle the selected item.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

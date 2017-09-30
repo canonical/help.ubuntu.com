@@ -68,9 +68,13 @@
 <li class="list"><p class="p">Colorimètre HCFR (கலரிமீட்டர்)</p></li>
 </ul></div></div></div>
 <div class="note note-tip" title="துணுக்கு"><div class="inner"><div class="region"><div class="contents"><p class="p">தற்போது Linux இல் ஆதரிக்கப்படும் சிறந்த மற்றும் மலிவான வன்பொருள் Pantone Huey ஆகும்.</p></div></div></div></div>
-<p class="p">உங்கள் அச்சுப்பொறிகளை அளவை வகுக்கவும் பண்பமைக்கவும் உங்களுக்கு உதவ பல புள்ளி மற்றும் வரி வாசிப்பு எதிரொளிப்பு ஸ்பெக்ட்ரோமீட்டர்களையும் Argyll ஆதரிக்கிறது:</p>
+<p class="p">
+    Thanks to Argyll there’s also a number of spot and strip reading
+    reflective spectrometers supported to help you calibrating and
+    characterizing your printers:
+  </p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">X-Rite DTP20 "Pulse" ("swipe" வகை எதிரொளிப்பு ஸ்பெக்ட்ரோமீட்டர்)</p></li>
+<li class="list"><p class="p">X-Rite DTP20 “Pulse” (“swipe” type reflective spectrometer)</p></li>
 <li class="list"><p class="p">X-Rite DTP22 Digital Swatchbook (புள்ளி வகை எதிரொளிப்பு ஸ்பெக்ட்ரோமீட்டர்)</p></li>
 <li class="list"><p class="p">X-Rite DTP41 (புள்ளி மற்றும் வரி வாசிப்பு எதிரொளிப்பு ஸ்பெக்ட்ரோமீட்டர்)</p></li>
 <li class="list"><p class="p">X-Rite DTP41T (புள்ளி மற்றும் வரி வாசிப்பு எதிரொளிப்பு ஸ்பெக்ட்ரோமீட்டர்)</p></li>

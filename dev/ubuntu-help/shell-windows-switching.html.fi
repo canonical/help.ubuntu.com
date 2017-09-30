@@ -73,8 +73,6 @@
     applications with multiple windows pop down as you click through. Hold down
     <span class="key"><a href="keyboard-key-super.html" title="Mikä on Super-näppäin?"><kbd>Super</kbd></a></span> and press <span class="key"><kbd>`</kbd></span> (or the
     key above <span class="key"><kbd>Tab</kbd></span>) to step through the list.</p></div></div></div></div>
-<div class="note" title="Huomautus"><div class="inner"><div class="region"><div class="contents"><p class="p">In the window switcher, applications from different workspaces are
-    divided by vertical separators.</p></div></div></div></div>
 <p class="p">Ohjelmien välillä liikkuminen onnistuu myös nuolinäppäimillä <span class="key"><kbd>→</kbd></span> ja <span class="key"><kbd>←</kbd></span> tai valitsemalla se hiirellä.</p>
 <p class="p">Jos ohjelmalla on vain yksi ikkuna, ikkunan esikatselu avautuu <span class="key"><kbd>↓</kbd></span>-näppäimellä.</p>
 <p class="p">From the <span class="gui">Activities</span> overview, click on a

@@ -59,7 +59,7 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Atveriet lietotni <span class="app">Diski</span> no <span class="gui">Aktivitāšu</span> pārskata.</p></li>
 <li class="steps"><p class="p">Izvēlieties disku, kuru vēlaties pārbaudīt krātuvju ierīču saraksta pa kreisi. Diska informācija un status tiks parādīts.</p></li>
-<li class="steps"><p class="p">Spiediet uz izvēlnes pogas un izvēlieties <span class="gui">SMART dati un paštesti…</span>. <span class="gui">Kopējais novērtējums</span> jābūt "Disks ir kārtībā".</p></li>
+<li class="steps"><p class="p">Spiediet uz izvēlnes pogas un izvēlieties <span class="gui">SMART dati un paštesti…</span>. <span class="gui">Kopējais novērtējums</span> jābūt “Disks ir kārtībā”.</p></li>
 <li class="steps"><p class="p">Skatiet vairāk informācijas zem <span class="gui">SMART atribūti</span>, vai spiediet <span class="gui">Sākt paštestu</span> pogu un palaidiet paštestu.</p></li>
 </ol></div>
 </div></div>
@@ -69,7 +69,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Ko darīt, ja disks nav veselīgs?</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Pat ja <span class="gui">Kopējais novērtējums</span> parāda, ka disks <span class="em">nav</span> veselīgs, trauksmei varētu nebūt pamata. Tomēr būtu vēlams sagatavot <span class="link"><a href="backup-why.html" title="Veidojiet rezerves kopijas savām svarīgajām datnēm">rezerves kopiju</a></span>, lai novērstu datu zaudēšanu.</p>
-<p class="p">Ja statuss paziņo "Pre-fail", tad disks joprojām ir samērā veselīgs, bet ir atklātas nolietošanās pazīmes, kas nozīmē, ka var rasties kļūda tuvākajā nākotnē. Ja cietais disks (vai dators) ir vairākus gadus vecs, jums ir lielāka iespēja redzēt šo ziņojumu vismaz dažās veselības pārbaudēs. Jums regulāri vajadzētu <span class="link"><a href="backup-how.html" title="Kā veidot rezerves kopijas">veidot rezerves kopijas svarīgajām datnēm</a></span> un periodiski pārbaudīt diska statusu, lai pārliecinātos vai nekļūst sliktāk.</p>
+<p class="p">Ja statuss paziņo “Pre-fail”, tad disks joprojām ir samērā veselīgs, bet ir atklātas nolietošanās pazīmes, kas nozīmē, ka var rasties kļūda tuvākajā nākotnē. Ja cietais disks (vai dators) ir vairākus gadus vecs, jums ir lielāka iespēja redzēt šo ziņojumu vismaz dažās veselības pārbaudēs. Jums regulāri vajadzētu <span class="link"><a href="backup-how.html" title="Kā veidot rezerves kopijas">veidot rezerves kopijas svarīgajām datnēm</a></span> un periodiski pārbaudīt diska statusu, lai pārliecinātos vai nekļūst sliktāk.</p>
 <p class="p">Ja stāvoklis pasliktinās,ieteicams aiznest datoru/cieto disku profesionālim pilnīgākai diagnostikai vai remontam.</p>
 </div></div>
 </div></div>

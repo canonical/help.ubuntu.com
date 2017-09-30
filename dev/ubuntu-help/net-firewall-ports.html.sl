@@ -49,7 +49,11 @@
 <div class="hgroup"><h1 class="title"><span class="title">Pogosto uporabljena vrata omrežja</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">To je seznam omrežnih vrat, ki jih običajno uporabljajo programi, ki zagotavljajo omrežne storitve kot sta izmenjava datotek ali ogled oddaljenega namizja. Svoj sistemski požarni zid lahko spremenite, da <span class="link"><a href="net-firewall-on-off.html" title="Omogočanje in blokiranje dostopa do požarnega zidu">blokira ali omogoči dostop</a></span> do teh programov. V uporabi je na tisoče vrat, zato ta preglednica ni popolna.</p>
+<p class="p">This is a list of network ports commonly used by applications that provide
+  network services, like file sharing or remote desktop viewing. You can change
+  your system’s firewall to <span class="link"><a href="net-firewall-on-off.html" title="Omogočanje in blokiranje dostopa do požarnega zidu">block or allow
+  access</a></span> to these applications. There are thousands of ports in use, so
+  this table isn’t complete.</p>
 <div class="table"><div class="inner"><div class="region"><table class="table" style="border-top-style: solid;">
 <thead><tr>
 <td><p class="p">Vrata</p></td>
@@ -75,7 +79,8 @@
 <tr>
 <td><p class="p">5298/tcp</p></td>
 <td><p class="p">Prisotnost</p></td>
-<td><p class="p">Omogoča vam oglaševanje vašega stanja hipnega sporočanja z drugimi ljudmi v omrežju kot so "na voljo" ali "zaposleno".</p></td>
+<td><p class="p">Allows you to advertise your instant messaging status to other
+          people on the network, such as “online” or “busy”.</p></td>
 </tr>
 <tr class="shade">
 <td><p class="p">5900/tcp</p></td>

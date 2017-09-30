@@ -77,7 +77,7 @@
 <dt class="terms">Δίσκοι ήχου</dt>
 <dd class="terms"><p class="p">Επιλέξτε την αγαπημένη σας εφαρμογή μουσικής ή τον εξαγωγέα μουσικών CD για τη διαχείριση CD ήχου. Εάν χρησιμοποιείτε ηχητικά DVD (DVD-A), επιλέξτε πώς θα τα ανοίξετε στο <span class="gui">Άλλα μέσα…</span>. Εάν ανοίγετε έναν ηχητικό δίσκο με τον διαχειριστή αρχείων, τα κομμάτια θα εμφανίζονται ως αρχεία WAV, τα οποία μπορείτε να παίξετε σε οποιαδήποτε εφαρμογή αναπαραγωγής ήχου.</p></dd>
 <dt class="terms">Δίσκοι βίντεο</dt>
-<dd class="terms"><p class="p">Επιλέξτε την αγαπημένη σας εφαρμογή βίντεο για επεξεργασία βίντεο DVD. Χρησιμοποιήστε το κουμπί <span class="gui">Άλλα μέσα…</span> για να ορίσετε μια εφαρμογή για Blu-ray, HD DVD, βίντεο CD (VCD) και υπερβίντεο CD (SVCD). Εάν τα DVD ή άλλοι δίσκοι βίντεο δεν δουλεύουν σωστά όταν τα εισάγετε, δείτε <span class="link"><a href="video-dvd.html" title="Γιατί δεν παίζει το DVD;">Γιατί δεν παίζει το DVD;</a></span>.</p></dd>
+<dd class="terms"><p class="p">Επιλέξτε την αγαπημένη σας εφαρμογή βίντεο για επεξεργασία βίντεο DVD. Χρησιμοποιήστε το κουμπί <span class="gui">Άλλα μέσα…</span> για να ορίσετε μια εφαρμογή για Blu-ray, HD DVD, βίντεο CD (VCD) και υπερβίντεο CD (SVCD). Εάν τα DVD ή άλλοι δίσκοι βίντεο δεν δουλεύουν σωστά όταν τα εισάγετε, δείτε <span class="link"><a href="video-dvd.html" title="Why won’t DVDs play?">Why won’t DVDs play?</a></span>.</p></dd>
 <dt class="terms">Κενοί δίσκοι</dt>
 <dd class="terms"><p class="p">Χρησιμοποιήστε το κουμπί <span class="gui">Άλλα μέσα…</span> για να επιλέξετε μια εφαρμογή εγγραφής δίσκου για κενά CD, DVD, δίσκους Blu-ray και HD DVD.</p></dd>
 <dt class="terms">Κάμερες και φωτογραφίες</dt>
@@ -92,7 +92,7 @@
 <dt class="terms">Λογισμικό</dt>
 <dd class="terms">
 <p class="p">Μερικοί δίσκοι και αφαιρούμενα μέσα περιέχουν λογισμικό που υποτίθεται εκτελούνται αυτόματα όταν εισάγονται τα μέσα. Χρησιμοποιήστε την επιλογή <span class="gui">Λογισμικό</span> για να ελέγξετε τι θα κάνετε όταν μέσα με λογισμικό αυτόματης εκτέλεσης εισάγονται. Θα σας ζητηθεί πάντα μια επιβεβαίωση πριν την εκτέλεση του λογισμικού.</p>
-<div class="note note-warning" title="Προειδοποίηση"><div class="inner"><div class="region"><div class="contents"><p class="p">Να μην εκτελείτε ποτέ λογισμικό από μέσα που δεν εμπιστεύεστε.</p></div></div></div></div>
+<div class="note note-warning" title="Προειδοποίηση"><div class="inner"><div class="region"><div class="contents"><p class="p">Never run software from media you don’t trust.</p></div></div></div></div>
 </dd>
 </dl></div></div></div></div></div>
 </div></div>

@@ -2,7 +2,7 @@
 <html lang=el>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Δεν εμφανίζονται τραγούδια στο iPod μου όταν τα αντιγράφω σε αυτό</title>
+<title>Songs don’t appear on my iPod when I copy them onto it</title>
 <link rel="stylesheet" type="text/css" href="el.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,12 +46,12 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Ήχος, βίντεο &amp; εικόνες">Ήχος, βίντεο &amp; εικόνες</a> › <a class="trail" href="media.html#music" title="Μουσική και φορητοί αναπαραγωγείς ήχου">Μουσική και αναπαραγωγείς</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Δεν εμφανίζονται τραγούδια στο iPod μου όταν τα αντιγράφω σε αυτό</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Songs don’t appear on my iPod when I copy them onto it</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Όταν συνδέεται ένα iPod στον υπολογιστή σας, θα εμφανιστεί στην εφαρμογή μουσικής αναπαραγωγής και επίσης στον διαχειριστή αρχείων (η εφαρμογή <span class="app">Αρχεία</span> στην επισκόπηση <span class="gui">Δραστηριότητες</span>). Πρέπει να αντιγράψετε τραγούδια στο iPod χρησιμοποιώντας τον αναπαραγωγό μουσικής - εάν τα αντιγράφετε χρησιμοποιώντας τον διαχειριστή αρχείων, δεν θα δουλέψει επειδή τα τραγούδια δεν θα τοποθετηθούν στη σωστή θέση. Τα iPods έχουν μια ειδική θέση για αποθήκευση τραγουδιών που οι εφαρμογές αναπαραγωγής μουσικής ξέρουν πώς να τις βρουν, ενώ ο διαχειριστής αρχείων δεν ξέρει.</p>
+<p class="p">When you plug an iPod into your computer, it will appear in your music player application and also in the file manager (the <span class="app">Files</span> application in the <span class="gui">Activities</span> overview). You must copy songs onto the iPod using the music player — if you copy them across using the file manager, it won’t work because the songs won’t be put into the right location. iPods have a special location for storing songs which music player applications know how to get to but the file manager does not.</p>
 <p class="p">Χρειάζεται επίσης να περιμένετε να τελειώσει η αντιγραφή των τραγουδιών στο iPod πριν να το αποσυνδέσετε. Πριν αποσυνδέσετε το iPod, βεβαιωθείτε ότι επιλέξατε <span class="link"><a href="files-removedrive.html" title="Ασφαλής αφαίρεση ενός εξωτερικού οδηγού">ασφαλής αφαίρεση</a></span>. Αυτό θα επιβεβαιώσει ότι όλα τα τραγούδια έχουν αντιγραφεί σωστά.</p>
-<p class="p">Ακόμη ένας λόγος που τα τραγούδια μπορεί να μην εμφανίζονται στο iPod σας είναι ότι η εφαρμογή αναπαραγωγής μουσικής που χρησιμοποιείτε δεν υποστηρίζει μετατροπή των τραγουδιών από μια μορφή ήχου σε άλλη. Εάν αντιγράψατε ένα τραγούδι που αποθηκεύτηκε σε μια μορφή ήχου που δεν υποστηρίζεται από το iPod σας (για παράδειγμα, ένα αρχείο Ogg Vorbis (.oga)), ο αναπαραγωγός μουσικής θα προσπαθήσει να το μετατρέψει σε μια μορφή που το iPod καταλαβαίνει, όπως MP3. Εάν το κατάλληλο λογισμικό μετατροπής (που λέγεται επίσης κωδικοποιητής ή αποκωδικοποιητής) δεν είναι εγκατεστημένο, ο αναπαραγωγός μουσικής δεν θα μπορέσει να το μετατρέψει και έτσι δεν θα αντιγράψει το τραγούδι. Αναζητήστε στην εφαρμογή εγκατάστασης λογισμικού για έναν κατάλληλο κωδικοποιητή.</p>
+<p class="p">A further reason why songs might not be appearing on your iPod is that the music player application you’re using does not support converting the songs from one audio format to another. If you copy a song which is saved in an audio format that is not supported by your iPod (for example, an Ogg Vorbis (.oga) file), the music player will try to convert it to a format that the iPod does understand, such as MP3. If the appropriate conversion software (also called a codec or encoder) is not installed, the music player will not be able to do the conversion and so will not copy the song. Look in the software installer for an appropriate codec.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

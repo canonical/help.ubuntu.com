@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Wireless network troubleshooter</title>
+<title>Probleemoplosser draadloos netwerk</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,39 +44,33 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="Wireless Networking">Wireless Networking</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Wireless network troubleshooter">Wireless network troubleshooter</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html" title="Draadloos netwerk">Draadloos netwerk</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Common problems">Problems</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Wireless network troubleshooter">Wireless network troubleshooter</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting.html" title="Wireless network troubleshooter">Vorige</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-info.html" title="Wireless network troubleshooter">Volgende</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting.html" title="Probleemoplosser draadloos netwerk">Vorige</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-info.html" title="Probleemoplosser draadloos netwerk">Volgende</a>
 </div>
 <div class="hgroup">
-<h1 class="title"><span class="title">Wireless network troubleshooter</span></h1>
-<h2 class="subtitle"><span class="subtitle">Perform an initial connection check</span></h2>
+<h1 class="title"><span class="title">Probleemoplosser draadloos netwerk</span></h1>
+<h2 class="subtitle"><span class="subtitle">Voer eerst een vebindingscontrole uit</span></h2>
 </div>
 <div class="region">
 <div class="contents">
 <p class="p">In this step you will check some basic information about your wireless
-  network connection. This is to make sure that your networking problem isn't
+  network connection. This is to make sure that your networking problem isn’t
   caused by a relatively simple issue, like the wireless connection being
   turned off, and to prepare for the next few troubleshooting steps.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Make sure that your laptop is not connected to a <span class="em">wired</span>
-      internet connection.</p></li>
-<li class="steps"><p class="p">If you have an external wireless adapter (such as a USB adapter, or a
-      PCMCIA card that plugs into your laptop), make sure that it is firmly
-      inserted into the proper slot on your computer.</p></li>
-<li class="steps"><p class="p">If your wireless card is <span class="em">inside</span> your computer, make sure that 
-      the wireless switch is turned on (if it has one). Laptops often have
-      wireless switches that you can toggle by pressing a combination of
-      keyboard keys.</p></li>
+<li class="steps"><p class="p">Zorg ervoor dat uw laptop geen <span class="em">bekabelde</span> internetverbinding heeft.</p></li>
+<li class="steps"><p class="p">Als u een externe draadloze netwerkadapter heeft (zoals een draadloze USB-adapter of een PCMCIA-kaart die in uw laptop gestoken moet worden), controleer dan of deze in de juiste sleuf op uw computer is gestoken.</p></li>
+<li class="steps"><p class="p">Als uw draadloos netwerkkaart zich <span class="em">in</span> uw computer bevindt, controleer dan of de schakelaar (indien aanwezig) van uw draadloos netwerkadapter aanstaat. Laptops hebben vaak schakelaars die aan- en uitgezet kunnen worden via een toetsencombinatie op het toetsenbord.</p></li>
 <li class="steps"><p class="p">Click the system status area on the top bar and select
       <span class="gui">Wi-Fi</span>, then select <span class="gui">Wi-Fi Settings</span>. Make sure that
       <span class="gui">Wi-Fi</span> is set to <span class="gui">ON</span>. You should also check that
-      <span class="link"><a href="net-wireless-airplane.html" title="Turn off wireless (airplane mode)">Airplane Mode</a></span> is <span class="em">not</span>
+      <span class="link"><a href="net-wireless-airplane.html" title="Het draadloze netwerk uitschakelen (vliegtuig-modus)">Airplane Mode</a></span> is <span class="em">not</span>
       switched on.</p></li>
 <li class="steps">
 <p class="p">Open the Terminal, type <span class="cmd">nmcli device</span> and press
@@ -88,24 +82,20 @@
       to your wireless router.</p>
 </li>
 </ol></div></div></div>
-<p class="p">If you are connected to your wireless router, but you still cannot access
-  the internet, your router may not be set up correctly, or your Internet
-  Service Provider (ISP) maybe experiencing some technical problems. Review
-  your router and ISP setup guides to make sure the settings are correct, or
-  contact your ISP for support.</p>
+<p class="p">Als u verbonden bent met uw draadloze router, maar u heeft nog steeds geen toegang tot het internet, dan kan het zijn dat uw router niet goed ingesteld is, of uw Internet Service Provider (ISP) mogelijk technische problemen heeft. Raadpleeg de handleidingen van uw router en ISP-setup of neem contact op met uw ISP voor hulp.</p>
 <p class="p">If the information from <span class="cmd">nmcli device</span> did not indicate that you were
   connected to the network, click <span class="gui">Next</span> to proceed to the next
   portion of the troubleshooting guide.</p>
 </div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting.html" title="Wireless network troubleshooter">Vorige</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-info.html" title="Wireless network troubleshooter">Volgende</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting.html" title="Probleemoplosser draadloos netwerk">Vorige</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-info.html" title="Probleemoplosser draadloos netwerk">Volgende</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Wireless network troubleshooter">Wireless network troubleshooter</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
 </li></ul></div>
 </div></div></div>
 </div>

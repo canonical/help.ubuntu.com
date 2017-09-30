@@ -55,19 +55,25 @@
 <div class="hgroup"><h1 class="title"><span class="title">Srednji klik</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Veliko mišk in nekatere drsne ploščice imajo srednji miškin gumb. Na miškah z drsnim koleščkom lahko običajno za srednji klik pritisnete drsni kolešček. V primeru da nimate srednjega miškinega gumba, lahko za srednji klik hkrati pritisnete levi in desni miškin gumb.</p>
+<p class="p">Many mice and some touchpads have a middle mouse button. On a mouse
+with a scroll wheel, you can usually press directly down on the scroll
+wheel to middle-click. If you don’t have a middle mouse button, you
+can press the left and right mouse buttons at the same time to
+middle-click.</p>
 <p class="p">Na drsnih ploščicah, ki podpirajo udarce z več prsti, lahko za srednji klik enkrat udarite s tremi prsti. Da bo to delovalo, morate v nastavitvah <span class="link"><a href="mouse-touchpad-click.html" title="Kliknice, povlecite ali drsajte z drsno ploščico">omogočiti klikanje z udarjanjem</a></span>.</p>
 <p class="p">Veliko programov uporablja srednji klik za napredne bližnjice klikanja.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">In the <span class="gui">Activities</span> overview, you can quickly open a new
   window for an application in its own new workspace with middle-click. Simply
-  middle-click on the application's icon, either in the dash on the left, or in
+  middle-click on the application’s icon, either in the dash on the left, or in
   the applications overview. The applications overview is displayed using the
   grid button in the dash.</p></li>
 <li class="list"><p class="p">Večina spletnih brskalnikov vam dovoli hitro odpiranje povezav v zavihkih s srednjim miškinim klikom. Kliknite na povezavo s srednjim miškinim gumbom in odprla se bo v novem zavihku. Pri kliku na povezavo v spletnem brskalniku <span class="app">Firefox</span> bodite pozorni. V brskalniku <span class="app">Firefox</span> bo srednji klik drugje kot na povezavi poskusil naložiti izbrano besedilo URL, kot če bi s srednjim klikom prilepili besedilo v naslovno vrstico in pritisnili <span class="key"><kbd>Enter</kbd></span>.</p></li>
 <li class="list"><p class="p">V upravljalniku datotek srednji klik služi dvema vlogama. V primeru, da srednje kliknete na mapo, se bo odprla v novem zavihku. To posnema obnašanje priljubljenih spletnih brskalnikov. V primeru, da srednje kliknete datoteko, jo bo odprl, kot če bi jo dvokliknili.</p></li>
 </ul></div></div></div>
-<p class="p">Nekateri posebni programi vam omogočajo uporabo srednjega miškinega klika za druge zmožnosti. V pomoči za program iščite <span class="em">srednji klik</span> ali <span class="em">srednji miškin gumb</span>.</p>
+<p class="p">Some specialized applications allow you to use the middle mouse
+button for other functions. Search your application’s help for
+<span class="em">middle-click</span> or <span class="em">middle mouse button</span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

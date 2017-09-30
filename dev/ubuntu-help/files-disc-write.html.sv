@@ -74,7 +74,7 @@
 <div id="problem" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Om skivan inte brändes korrekt</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Ibland bränns skivan inte korrekt, och du kommer inte kunna komma åt filerna på skivan när du matar in den i en dator.</p>
+<p class="p">Ibland bränns skivan inte korrekt, och du kommer inte kunna se filerna på skivan när du matar in den i en dator.</p>
 <p class="p">Om detta händer, försöka att bränna skivan igen men använd en lägre brännhastighet, till exempel 12x istället för 48x. Att bränna på lägre hastigheter är mer tillförlitligt. Du kan välja hastighet genom att klicka på <span class="gui">Egenskaper</span> i fönstret <span class="gui">Cd/dvd-skaparen</span>.</p>
 </div></div>
 </div></div>

@@ -56,7 +56,13 @@
 <p class="p">రంగు ప్రొఫైల్ అనగా దత్తాంశ సమితి అది ప్రొజెక్టర్ వంటి పరికరంనుగాని లేదా sRGB వంటి రంగు జాగాను కాని కారెక్టరైజ్ చేయును.</p>
 <p class="p">చాలావరకు రంగు ప్రొఫైళ్ళు ICC ప్రొఫైల్ రూపంలో వుంటాయి, ఇది <span class="input">.ICC</span> లేదా <span class="input">.ICM</span> ఫైల్ విస్తరింపుతోని చిన్న ఫైలు.</p>
 <p class="p">దత్తాంశం యొక్క గామట్ పరిథిని తెలుపుటకు రంగు ప్రొఫైల్స్ చిత్రాలలోనికి ఎంబెడ్ చేయగలరు. వాడుకరులు ఒకే రంగులను వివిధ పరికరాలపై చూడగల్గునట్లు ఇది చేయును.</p>
-<p class="p">రంగును ప్రోసెస్ చేసే ప్రతి పరికరం దాని స్వంత ICC ప్రొఫైల్ కలిగివుండాలి మరియు ఇది ఆర్కైవ్ చేయబడినప్పుడు వ్యవస్థ <span class="em">ఎండ్-టు-ఎండ్ కలర్-నిర్వాహిత వర్కుఫ్లో</span> కలిగివుంటుంది. ఈ రకమైన పనిపోకడతో రంగులు కోల్పోలేదని లేదా సవరించబడలేదని మీరు ఖచ్చితంగా చెప్పవచ్చు.</p>
+<p class="p">
+    Every device that is processing color should have its own ICC
+    profile and when this is achieved the system is said to have an
+    <span class="em">end-to-end color-managed workflow</span>.
+    With this kind of workflow you can be sure that colors are not being
+    lost or modified.
+  </p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

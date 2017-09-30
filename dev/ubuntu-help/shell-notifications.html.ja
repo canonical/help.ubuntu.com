@@ -81,7 +81,8 @@
 <div id="hidenotifications" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">通知メッセージを非表示にする</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">何か作業をしている最中に邪魔をされたくない場合、メッセージの通知をオフにできます。</p>
+<p class="p">If you’re working on something and do not want to be bothered, you can
+  switch off notifications.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="アクティビティ画面">Activities</a></span> overview and
       start typing <span class="gui">Notifications</span>.</p></li>

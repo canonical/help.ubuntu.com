@@ -67,7 +67,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra el <span class="app">Terminal</span> pulsando <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>t</kbd></span></span> o buscando <span class="input">terminal</span> en el <span class="gui">Tablero</span>.</p></li>
 <li class="steps">
-<p class="p">Type <span class="cmd">sudo systemctl hibernate</span> into the terminal and press <span class="key"><kbd>Enter</kbd></span>.</p>
+<p class="p">Escriba <span class="cmd">sudo systemctl hibernate</span> en el terminal y pulse <span class="key"><kbd>Intro</kbd></span>.</p>
 <p class="p">Escriba su contraseña cuando se le pida.</p>
 </li>
 <li class="steps"><p class="p">Después de que se apague su equipo, enciéndalo de nuevo. ¿Se volvieron a abrir sus aplicaciones abiertas?</p></li>
@@ -85,8 +85,7 @@
 <div id="enable-hibernate" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Activar la hibernación</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">If the hibernate test works, you can continue to use the <span class="cmd">sudo systemctl hibernate</span>
-  command when you want to hibernate.</p>
+<p class="p">Si la prueba de hibernación funciona puede usar la orden <span class="cmd">sudo systemctl hibernate</span> cuando quiera hibernar el equipo.</p>
 <p class="p">También puede activar la opción de hibernar en los menús. Para hacerlo, use su editor de texto favorito para crear el archivo <span class="file">/etc/polkit-1/localauthority/50-local.d/com.ubuntu.enable-hibernate.pkla</span>. Añada lo siguiente al archivo y guárdelo:</p>
 <div class="code"><pre class="contents ">[Re-enable hibernate by default in upower]
 Identity=unix-user:*

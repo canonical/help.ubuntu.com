@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>How do I calibrate my scanner?</title>
+<title>Hoe kalibreer ik mijn scanner</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,54 +44,46 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="color.html" title="Color management">Color management</a> › <a class="trail" href="color.html#calibration" title="Calibration">Calibration</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html#calibration" title="Kalibratie">Kalibratie</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="color.html" title="Color management">Color management</a> › <a class="trail" href="color.html#calibration" title="Calibration">Calibration</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html#calibration" title="Kalibratie">Kalibratie</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">How do I calibrate my scanner?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Hoe kalibreer ik mijn scanner</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you want your scanner to represent the color accurately in scans, you
-  should calibrate it.</p>
+<p class="p">Als u wilt dat uw scanner kleuren de accuraat scant, moet u het kalibreren.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Make sure your scanner is connected to your computer with a cable or
-      over the network.</p></li>
-<li class="steps"><p class="p">Scan your calibration target and save it as an uncompressed TIFF
-      file.</p></li>
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Color</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Color</span> to open the panel and select your
-      scanner.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Calibrate…</span> to commence the
-      calibration.</p></li>
+<li class="steps"><p class="p">Zorg ervoor dat uw scanner met een kabel of via het netwerk met uw computer is verbonden.</p></li>
+<li class="steps"><p class="p">Scan uw kalibratiedoel en sla het op als niet-ingepakt TIFF-bestand.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Kleur</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Kleur</span> om het paneel te openen en selecteer uw scanner.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Kalibreren…</span> om de kalibratie te beginnen.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Scanner devices are incredibly stable over time and temperature, so do
-    not usually need to be recalibrated.</p></div></div></div></div>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Scanners zijn ongelooflijk stabiel in tijd en temperatuur en hoeven meestal niet opnieuw gekalibreerd te worden.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#calibration" title="Calibration">Calibration</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html#calibration" title="Kalibratie">Kalibratie</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-calibrate-camera.html" title="How do I calibrate my camera?">How do I calibrate my camera?</a><span class="desc"> — Calibrating your camera is important to capture accurate colors.</span>
+<a href="color-calibrate-camera.html" title="Hoe kalibreer ik mijn camera?">Hoe kalibreer ik mijn camera?</a><span class="desc"> — Kalibreren van uw camera is belangrijk om kleuren nauwkeurig vast te leggen.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-printer.html" title="How do I calibrate my printer?">How do I calibrate my printer?</a><span class="desc"> — Calibrating your printer is important to print accurate colors.</span>
+<a href="color-calibrate-printer.html" title="Hoe kalibreer ik mijn printer?">Hoe kalibreer ik mijn printer?</a><span class="desc"> — Het kalibreren van uw printer is belangrijk voor het afdrukken van accurate kleuren.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-screen.html" title="How do I calibrate my screen?">How do I calibrate my screen?</a><span class="desc"> — Calibrating your screen is important to display accurate
-    colors.</span>
+<a href="color-calibrate-screen.html" title="Hoe kalibreer ik mijn scherm?">Hoe kalibreer ik mijn scherm?</a><span class="desc"> — Kalibreren van uw scherm is belangrijk om kleuren nauwkeurig vast te leggen.</span>
 </li>
 <li class="links ">
-<a href="color-calibrationtargets.html" title="Which target types are supported?">Which target types are supported?</a><span class="desc"> — Calibration targets are needed to do scanner and camera profiling.</span>
+<a href="color-calibrationtargets.html" title="Welke doeltypen worden ondersteund?">Welke doeltypen worden ondersteund?</a><span class="desc"> — Kalibratiedoelen zijn nodig om scanner- en cameraprofielen aan te kunnen maken.</span>
 </li>
 </ul></div>
 </div></div>

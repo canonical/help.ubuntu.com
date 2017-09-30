@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Frequency of backups</title>
+<title>Frequentie van reservekopieën maken</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,36 +43,26 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html#backup" title="Backing up">Backing up</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#backup" title="Reservekopieën maken">Reservekopieën maken</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Frequency of backups</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Frequentie van reservekopieën maken</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">How often you make backups will depend on the type of data to be backed up.
- For example, if you are running a network environment with critical data stored
- on your servers, then even nightly backups may not be enough.</p>
-<p class="p">On the other hand, if you are backing up the data on your home computer
- then hourly backups would likely be unnecessary. You may find it helpful to
- consider the following points when planning your backup schedule:</p>
+<p class="p">Hoe vaak u reservekopieën maakt zal afhangen van het soort gegevens waarvan een reservekopie moet worden gemaakt. Als u bijvoorbeeld een netwerkomgeving draait waarbij er onmisbare gegevens op uw servers zijn opgeslagen, dan is het mogelijk zelfs onvoldoende elke nacht een reservekopie te maken.</p>
+<p class="p">Als u daarentegen reservekopieën maakt van gegevens op uw thuiscomputer, dan is elk uur een reservekopie maken hoogstwaarschijnlijk niet nodig. Bij het maken van uw reservekopieplanning kunt u mogelijk baat hebben bij de volgende punten:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
-<li class="list"><p class="p">The amount of time you spend on the computer.</p></li>
-<li class="list"><p class="p">How often and by how much the data on the computer changes.</p></li>
+<li class="list"><p class="p">De hoeveelheid tijd die u besteedt aan de computer.</p></li>
+<li class="list"><p class="p">Hoe vaak en in welke mate de gegevens op de computer wijzigen.</p></li>
 </ul></div></div></div>
-<p class="p">If the data you want to back up is lower priority, or subject to few
- changes, like music, e-mails and family photos, then weekly or even monthly
- backups may suffice. However, if you happen to be in the middle of a tax audit,
- more frequent backups may be necessary.</p>
-<p class="p">As a general rule, the amount of time in between backups should be no more
- than the amount of time you are willing to spend re-doing any lost work. For
- example, if spending a week re-writing lost documents is too long for you, you
- should back up at least once per week.</p>
+<p class="p">Als het alleen gaat om wat muziek, e-mails en familiefoto's, dan is het wekelijks of zelfs maandelijks maken van reservekopieën vaak voldoende. Maar als u bijvoorbeeld bezig bent met een belastingaangifte, dan is het misschien nodig vaker een reservekopie te maken.</p>
+<p class="p">In het algemeen geldt dat de tijdsduur tussen de reservekopieën niet langer moet zijn dan de tijd die het u zou kosten als u verloren werk opnieuw zou moeten maken. Als u bijvoorbeeld een week te lang vindt voor het opnieuw schrijven van verloren documenten, dan dient u minstens eenmaal per week een reservekopie te maken.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#backup" title="Backing up">Backing up</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html#backup" title="Reservekopieën maken">Reservekopieën maken</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

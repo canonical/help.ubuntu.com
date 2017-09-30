@@ -56,7 +56,9 @@
 <dt class="terms">Δεν αναγνωρίστηκε το Bluetooth</dt>
 <dd class="terms"><p class="p">Ο προσαρμογέας Bluetooth μπορεί να μην έχει αναγνωριστεί από τον υπολογιστή. Αυτό μπορεί να συνέβη επειδή οι <span class="link"><a href="hardware-driver.html" title="Τι είναι ένας οδηγός;">οδηγοί</a></span> για τον προσαρμογέα δεν είναι εγκατεστημένοι. Μερικοί προσαρμογείς Bluetooth δεν υποστηρίζονται στο Linux, έτσι ίσως να μην μπορείτε να βρείτε τους σωστούς οδηγούς για αυτούς. Σε αυτήν την περίπτωση, θα πρέπει να πάρετε προφανώς έναν διαφορετικό προσαρμογέα Bluetooth.</p></dd>
 <dt class="terms">Ο προσαρμογέας δεν ενεργοποιήθηκε</dt>
-<dd class="terms"><p class="p">Βεβαιωθείτε ότι ο προσαρμογέας σας Bluetooth είναι ενεργός. Κάντε κλικ στο εικονίδιο Bluetooth στη <span class="gui">γραμμή μενού</span> και ελέγξετε ότι δεν είναι <span class="link"><a href="bluetooth-turn-on-off.html" title="Ενεργοποίηση ή απενεργοποίηση του bluetooth">ανενεργός</a></span>.</p></dd>
+<dd class="terms"><p class="p">Make sure that your Bluetooth adapter is switched on. Click the
+          Bluetooth icon in the <span class="gui">menu bar</span> and check that it’s not
+          <span class="link"><a href="bluetooth-turn-on-off.html" title="Ενεργοποίηση ή απενεργοποίηση του bluetooth">disabled</a></span>.</p></dd>
 <dt class="terms">Ανενεργή σύνδεση συσκευής Bluetooth</dt>
 <dd class="terms"><p class="p">Ελέγξετε ότι το Bluetooth είναι ενεργό στη συσκευή στην οποία προσπαθείτε να συνδεθείτε και ότι αυτή είναι <span class="link"><a href="bluetooth-visibility.html" title="Τι είναι η ορατότητα Bluetooth;">αντιληπτή ή ορατή</a></span>. Για παράδειγμα, εάν προσπαθείτε να συνδεθείτε με ένα τηλέφωνο, βεβαιωθείτε ότι δεν είναι σε λειτουργία αεροπλάνου.</p></dd>
 <dt class="terms">Δεν υπάρχει προσαρμογέας Bluetooth στον υπολογιστή σας</dt>

@@ -53,7 +53,11 @@
 <div class="hgroup"><h1 class="title"><span class="title">Настройка параметров соединения вручную</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Если ваша сеть не назначает автоматически параметры сетевого соединения для вашего компьютера, вам придётся ввести их самому. В этой теме предполагается, что вам известны правильные настройки. Если нет, нужно узнать их у администратора сети или взглянуть на настройки сетевого маршрутизатора или коммутатора.</p>
+<p class="p">If your network doesn’t automatically assign network settings to your
+  computer, you may have to manually enter the settings yourself. This topic
+  assumes that you already know the correct settings to use. If not, you may
+  need to ask your network administrator or look at the settings of your router
+  or network switch.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Чтобы настроить параметры сетевого соединения вручную:</span></h2></div>
 <div class="region"><ol class="steps">

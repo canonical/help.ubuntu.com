@@ -2,7 +2,7 @@
 <html lang=zh-CN>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>当我往 iPod 中复制歌曲后，它们没有出现</title>
+<title>Songs don’t appear on my iPod when I copy them onto it</title>
 <link rel="stylesheet" type="text/css" href="zh-CN.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,12 +46,12 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="声音、视频 &amp; 图片">声音、视频 &amp; 图片</a> › <a class="trail" href="media.html#music" title="音乐和便携式音乐播放器">音乐和播放器</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">当我往 iPod 中复制歌曲后，它们没有出现</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Songs don’t appear on my iPod when I copy them onto it</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">当您插入一个 iPod 到计算机上以后，应该会出现音乐播放器程序，还会出现在文件管理器中(<span class="app">文件管理器</span>在<span class="gui">活动概览</span>中)，您必须要用音乐程序来复制音乐－如果您是通过文件管理器的话，那就会看不到，因为它们没有放到正确的位置。iPod 的歌曲存放在一个特殊的位置，只有音乐播放程序能找着，文件管理器找不着。</p>
+<p class="p">When you plug an iPod into your computer, it will appear in your music player application and also in the file manager (the <span class="app">Files</span> application in the <span class="gui">Activities</span> overview). You must copy songs onto the iPod using the music player — if you copy them across using the file manager, it won’t work because the songs won’t be put into the right location. iPods have a special location for storing songs which music player applications know how to get to but the file manager does not.</p>
 <p class="p">您还需要等歌曲复制完成才能拔下 iPod，在拔下之前，确保已经<span class="link"><a href="files-removedrive.html" title="安全移除一个外置设备">安全移除它</a></span>。这可以保证歌曲正确复制完成。</p>
-<p class="p">没有看到音乐的更深层次原因可能是，您复制的音乐格式不支持转换，如果您复制的格式 iPod 不能播放(如 Ogg 音乐(.oga)文件)，音乐播放器会尝试转换成 iPod 可以识别的格式 ，比如 Mp3。如果相应的转换软件(也叫编解码器或编码器)没有安装，音乐播放器将不能完成转换，也就不能复制音乐。在软件安装器中查找一下相应的编解码器。</p>
+<p class="p">A further reason why songs might not be appearing on your iPod is that the music player application you’re using does not support converting the songs from one audio format to another. If you copy a song which is saved in an audio format that is not supported by your iPod (for example, an Ogg Vorbis (.oga) file), the music player will try to convert it to a format that the iPod does understand, such as MP3. If the appropriate conversion software (also called a codec or encoder) is not installed, the music player will not be able to do the conversion and so will not copy the song. Look in the software installer for an appropriate codec.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

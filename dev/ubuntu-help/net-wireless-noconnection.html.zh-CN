@@ -2,7 +2,7 @@
 <html lang=zh-CN>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>我输入的密码是对的，但是还是不能连接</title>
+<title>I’ve entered the correct password, but I still can’t connect</title>
 <link rel="stylesheet" type="text/css" href="zh-CN.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,30 +46,30 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="无线网络">无线网络</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">我输入的密码是对的，但是还是不能连接</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">I’ve entered the correct password, but I still can’t connect</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">如果您确定输入的密码是正确的<span class="link"><a href="net-wireless-wepwpa.html" title="WEP 和 WPA 是什么意思？">无线连接密码</a></span>，但是仍然不能连接到网络，试试下面的操作：</p>
+<p class="p">If you’re sure that you entered the correct <span class="link"><a href="net-wireless-wepwpa.html" title="WEP 和 WPA 是什么意思？">wireless password</a></span> but you still can’t successfully connect to a wireless network, try some of the following:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
 <p class="p">Double-check that you have the correct password</p>
-<p class="p">密码是大小写敏感的(它是区分大写和小写字母的)，因此检查一下您输入的字母是否有误。</p>
+<p class="p">Passwords are case-sensitive (it matters whether they have capital or lower-case letters), so check that you didn’t get the case of one of the letters wrong.</p>
 </li>
 <li class="list">
 <p class="p">试试十六进制或 ASCII 密钥</p>
-<p class="p">您输入的密码也可以其他形式表示，即作为十六进制的字符串(数字 0-9 和字母 a-f)。如果您可访问通行码和密码/口令，请尝试键入通行码。确保在系统询问密码时选择正确的<span class="gui">无线安全</span>选项(例如，如果在为WEP 加密连接键入 40 个字符的通行码，则选择<span class="gui">WEP 40/128 位密钥</span>)。</p>
+<p class="p">The password you enter can also be represented in a different way — as a string of characters in hexadecimal (numbers 0-9 and letters a-f) called a pass key. Each password has an equivalent pass key. If you have access to the pass key as well as the password/passphrase, try typing the pass key instead. Make sure you select the correct <span class="gui">wireless security</span> option when asked for your password (for example, select <span class="gui">WEP 40/128-bit Key</span> if you’re typing the 40-character pass key for a WEP-encrypted connection).</p>
 </li>
 <li class="list">
 <p class="p">尝试关闭您的无线网卡，然后再开启它</p>
-<p class="p">有时无线网卡会被阻断或者出现小错误，这样它就不能连接。试着关闭网卡，然后再开启，让它重启一下－更多信息请参阅 <span class="link"><a href="net-wireless-troubleshooting.html" title="无线网络故障排除">无线网络故障排除</a></span></p>
+<p class="p">Sometimes wireless cards get stuck or experience a minor problem that means they won’t connect. Try turning the card off and then on again to reset it — see <span class="link"><a href="net-wireless-troubleshooting.html" title="无线网络故障排除">无线网络故障排除</a></span> for more information.</p>
 </li>
 <li class="list">
-<p class="p">Check that you're using the correct type of wireless security</p>
-<p class="p">当提示您输入无线安全密码时，您要选择无线安全所使用的类型，确保您选择的类型是无线路由器或基站使用的。这应该会默认选中，但有时由于某些原因没选中，如果您不知道选哪一个，可以多试几次，找出正确的选项。</p>
+<p class="p">Check that you’re using the correct type of wireless security</p>
+<p class="p">When prompted for your wireless security password, you can choose which type of wireless security to use. Make sure you choose the one that is used by the router or wireless base station. This should be selected by default, but sometimes it will not be for some reason. If you don’t know which one it is, use trial and error to go through the different options.</p>
 </li>
 <li class="list">
 <p class="p">检查您的无线网卡被正确地支持</p>
-<p class="p">一些无线网卡支持的不是很好，虽然它们显示已连接，但实际并没有，这是因为驱动缺乏支持。试试其他无线驱动，或者您需要执行一些额外的安装(像安装一个不同的<span class="em">固件</span>)。更多信息请参阅 <span class="link"><a href="net-wireless-troubleshooting.html" title="无线网络故障排除">无线网络故障排除</a></span></p>
+<p class="p">Some wireless cards aren’t supported very well. They show up as a wireless connection, but they can’t connect to a network because their drivers lack the ability to do this. See if you can get an alternative wireless driver, or if you need to perform some extra set-up (like installing a different <span class="em">firmware</span>). See <span class="link"><a href="net-wireless-troubleshooting.html" title="无线网络故障排除">无线网络故障排除</a></span> for more information.</p>
 </li>
 </ul></div></div></div>
 </div>

@@ -81,14 +81,17 @@
 <div class="region"><div class="contents">
 <p class="p">A kombináló billentyű egy speciális billentyű, amely lehetővé teszi speciális karakterek beírását több billentyű egymás utáni lenyomásával. Például egy ékezetes <span class="em">é</span> betű beírásához megnyomhatja a <span class="key"><kbd>kombináló</kbd></span> billentyűt, majd a <span class="key"><kbd>'</kbd></span>, végül az <span class="key"><kbd>e</kbd></span> billentyűket.</p>
 <p class="p">A billentyűzeteken nincs fizikai kombináló billentyű. Ehelyett megadhatja, hogy a billentyűzetén található billentyűk közül melyiket szeretné kombináló billentyűként használni.</p>
+<div class="note note-important" title="Fontos"><div class="inner"><div class="region"><div class="contents"><p class="p">Ezen beállítás módosításához telepítve kell lennie a <span class="app">Finomhangolónak</span> a számítógépre.</p></div></div></div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Kombináló billentyű definiálása</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Billentyűzet</span> szót.</p></li>
-<li class="steps"><p class="p">Kattintson a <span class="gui">Billentyűzet</span> ikonra a panel megnyitásához.</p></li>
-<li class="steps"><p class="p">Válassza a <span class="gui">Gyorsbillentyűk</span> fület, és kattintson a <span class="gui">Gépelés</span> kategóriára.</p></li>
-<li class="steps"><p class="p">Kattintson a <span class="gui">Kombináló billentyű</span> elemre a jobb oldalon.</p></li>
-<li class="steps"><p class="p">Kattintson a <span class="gui">Letiltva</span> elemre, és a legördülő menüből válassza ki a billentyűt, amelyet kombináló billentyűként szeretne használni. Választhatja például bármelyik <span class="key"><kbd>Ctrl</kbd></span>, a jobb <span class="key"><kbd>Alt</kbd></span>, a jobb <span class="key"><kbd>Win</kbd></span> vagy a <span class="key"><a href="keyboard-key-super.html" title="Mi az a Super billentyű?"><kbd>Super</kbd></a></span> billentyűt (ha van), a <span class="key"><a href="keyboard-key-menu.html" title="Mi az a Menü billentyű?"><kbd>Menü</kbd></a></span> vagy a <span class="key"><kbd>Caps Lock</kbd></span> billentyűt. A kiválasztott billentyű ezután csak kombináló billentyűként működik, és nem tudja az eredeti rendeltetésének megfelelően használni.</p></li>
+<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Finomhangoló</span> szót.</p></li>
+<li class="steps"><p class="p">Kattintson a <span class="gui">Finomhangoló</span> ikonra az alkalmazás megnyitásához.</p></li>
+<li class="steps"><p class="p">Kattintson a <span class="gui">Billentyűzet és egér</span> lapra.</p></li>
+<li class="steps"><p class="p">Kattintson a <span class="gui">Letiltva</span> gombra a <span class="gui">Kombináló billentyű</span> beállítás mellett.</p></li>
+<li class="steps"><p class="p">Kapcsolja be a kapcsolót az ablakban, és válassza ki a használni kívánt gyorsbillentyűt.</p></li>
+<li class="steps"><p class="p">Jelölje be a kombináló billentyűként használni kívánt billentyű jelölőnégyzetét.</p></li>
+<li class="steps"><p class="p">Zárja be a <span class="gui">Finomhangoló</span> ablakot.</p></li>
 </ol></div>
 </div></div>
 <p class="p">Számos általános karaktert beírhat a kombináló billentyű segítségével, például:</p>
@@ -110,7 +113,7 @@
 </div></div>
 <div id="layout" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Billentyűzetkiosztások</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Beállíthatja, hogy a billentyűzete – függetlenül a billentyűkre nyomtatott írásjelektől – egy másik nyelv karakterkiosztásának megfelelően működjön. A felső panelen található ikon segítségével könnyedén válthat a különböző billentyűzetkiosztások között. További információkért lásd: <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a></span>.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Beállíthatja, hogy a billentyűzete – függetlenül a billentyűkre nyomtatott írásjelektől – egy másik nyelv karakterkiosztásának megfelelően működjön. A felső panelen található ikon segítségével könnyedén válthat a különböző billentyűzetkiosztások között. További információkért lásd: <span class="link"><a href="keyboard-layouts.html" title="Alternatív billentyűzetkiosztások használata">Alternatív billentyűzetkiosztások használata</a></span>.</p></div></div>
 </div></div>
 <div id="im" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Beviteli módok</span></h2></div>
@@ -131,7 +134,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
+<a href="keyboard-layouts.html" title="Alternatív billentyűzetkiosztások használata">Alternatív billentyűzetkiosztások használata</a><span class="desc"> — Billentyűzetkiosztások hozzáadása és váltás köztük.</span>
 </li></ul></div>
 </div></div>
 </div>

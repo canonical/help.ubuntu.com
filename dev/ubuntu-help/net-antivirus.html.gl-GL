@@ -50,13 +50,14 @@
 <div class="region">
 <div class="contents">
 <p class="p">Se está usando Windows ou Mac OS, probabelmente estea executando un software anti-virus todo o tempo. Os antivirus execútanse en segundo plano, comprobando constantemente se o computador está executando virus que poidan atopar a súa forma de entrar no seu computador e causar problemas.</p>
-<p class="p">Anti-virus software does exist for Linux, but you probably don't need to
+<p class="p">Anti-virus software does exist for Linux, but you probably don’t need to
   use it. Viruses that affect Linux are still very rare. Some argue that this
   is because Linux is not as widely used as other operating systems, so no one
   writes viruses for it. Others argue that Linux is intrinsically more secure,
   and security problems that viruses could make use of are fixed very
   quickly.</p>
-<p class="p">En calquera razón, os virus en Linux son tan estraños que non tería que preocuparse sobre eles neste momento.</p>
+<p class="p">Whatever the reason, Linux viruses are so rare that you don’t really need
+  to worry about them at the moment.</p>
 <p class="p">Se quere asegurarse na seguranza, ou se quere comprobar se ten virus nos ficheiros que están pasando entre vostede e as persoas usando Windows e Mac OS, pode instalar un software antivirus. Busque no instalador de software ou en liña, existen uns cantos aplicativos dispoñíbeis.</p>
 </div>
 <div class="sect sect-links" role="navigation">

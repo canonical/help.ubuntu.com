@@ -56,7 +56,10 @@
 <div class="hgroup"><h2 class="title"><span class="title">Szoftverek telepítése a Synapticcal</span></h2></div>
 <div class="region"><div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Nyissa meg a Synapticot a <span class="gui">Dashból</span> vagy az <span class="gui">Indítóról</span>. A <span class="gui">Hitelesítés</span> ablakban meg kell adnia a jelszavát.</p></li>
+<li class="steps"><p class="p">
+          Open <span class="app">Synaptic</span> via the <span class="em">Activities</span> search bar. You 
+          will need to enter your password in the <span class="gui">Authenticate</span> window.
+        </p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Keresés</span> gombra egy alkalmazás kereséséhez, vagy kattintson a <span class="gui">Csoportok</span> gombra a kategóriák tallózásához.</p></li>
 <li class="steps"><p class="p">Kattintson a jobb egérgombbal a telepíteni kívánt alkalmazásra, és válassza a <span class="gui">Kijelölés telepítésre</span> menüpontot.</p></li>
 <li class="steps"><p class="p">Ha a program megkérdezi, hogy kijelöli-e a további változtatásokat, nyomja meg a <span class="gui">Kijelölés</span> gombot.</p></li>

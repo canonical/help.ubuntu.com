@@ -2,7 +2,7 @@
 <html lang=el>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Άλλοι χρήστες δεν μπορούν να συνδεθούν στο διαδίκτυο</title>
+<title>Other users can’t connect to the internet</title>
 <link rel="stylesheet" type="text/css" href="el.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,7 +46,7 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-problem.html" title="Προβλήματα δικτύου">Προβλήματα δικτύου</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Άλλοι χρήστες δεν μπορούν να συνδεθούν στο διαδίκτυο</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Other users can’t connect to the internet</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Όταν ρυθμίζετε μια σύνδεση δικτύου, όλοι οι άλλοι χρήστες στον υπολογιστή σας θα μπορούν κανονικά να το χρησιμοποιήσουν. Αν οι πληροφορίες σύνδεσης δεν είναι κοινόχρηστες, θα πρέπει να ελέγξετε τις ρυθμίσεις σύνδεσης.</p>
@@ -68,13 +68,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html" title="Προβλήματα δικτύου">Προβλήματα δικτύου</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Αντιμετώπιση προβλημάτων ασύρματων συνδέσεων</a></span>, <span class="link"><a href="net-wireless-find.html" title="Δεν μπορώ να δω το ασύρματο δίκτυό μου στη λίστα">Εύρεση του δικτύου wifi</a></span>…</span>
+<a href="net-problem.html" title="Προβλήματα δικτύου">Προβλήματα δικτύου</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Αντιμετώπιση προβλημάτων ασύρματων συνδέσεων</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">Εύρεση του δικτύου wifi</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-othersedit.html" title="Άλλοι χρήστες δε μπορούν να επεξεργαστούν τις συνδέσεις δικτύου">Άλλοι χρήστες δε μπορούν να επεξεργαστούν τις συνδέσεις δικτύου</a><span class="desc"> — Χρειάζεται να αποεπιλέξετε την επιλογή <span class="gui">Διαθέσιμο για όλους τους χρήστες</span> στις ρυθμίσεις σύνδεσης δικτύου.</span>
+<a href="net-othersedit.html" title="Other users can’t edit the network connections">Other users can’t edit the network connections</a><span class="desc"> — Χρειάζεται να αποεπιλέξετε την επιλογή <span class="gui">Διαθέσιμο για όλους τους χρήστες</span> στις ρυθμίσεις σύνδεσης δικτύου.</span>
 </li></ul></div>
 </div></div>
 </div>

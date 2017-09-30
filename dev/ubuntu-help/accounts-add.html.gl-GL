@@ -55,24 +55,12 @@
 <li class="steps"><p class="p">Prema <span class="gui">Contas en liñla</span> para abrir o panel.</p></li>
 <li class="steps"><p class="p">Prema o símbolo <span class="key"><kbd>+</kbd></span> na esquina inferior esquerda da xanela.</p></li>
 <li class="steps"><p class="p">Seleccione o tipo de conta que quere engadir.</p></li>
-<li class="steps"><p class="p">A small website window or dialog will open where you can enter your
-      online account credentials. For example, if you are setting up a Google
-      account, enter your Google username and password. Some providers allow
-      you to create a new account from the login dialog.</p></li>
-<li class="steps"><p class="p">If you have entered your credentials correctly, you will be prompted
-      to allow GNOME access to your online account. Authorize access to
-      continue.</p></li>
-<li class="steps"><p class="p">All services that are offered by an account provider will be enabled
-      by default. <span class="link"><a href="accounts-disable-service.html" title="Controle que servizos en liña dunha conta poden usarse para acceder">Switch</a></span>
-      individual services to <span class="gui">OFF</span> to disable them.</p></li>
+<li class="steps"><p class="p">Abrirase unha pequena xanela con unha páxina web que lle permitirá escribir as credenciais da súa conta en liña. Por exemplo, se está configurando unh aconta de Google, escriba o seu usuario e contrasinal de Google. Algúns fornecedores permítenlle crear unha nova conta desde o diálogo de inicio de sesión.</p></li>
+<li class="steps"><p class="p">Se escribiu as súas credenciais correctamente preguntaráselle para permitirlle a GNOME acceder ás súas contas en liña. Autorice o acceso para continuar.</p></li>
+<li class="steps"><p class="p">Todos os servizos ofrecidos por un fornecedor de contas estarán activos por omisión, <span class="link"><a href="accounts-disable-service.html" title="Controle que servizos en liña dunha conta poden usarse para acceder">Tróqueos</a></span> de forma individual a <span class="gui">O</span> para desactivalos.</p></li>
 </ol></div></div></div>
-<p class="p">After you have added accounts, applications can use those accounts for
-  the services you have chosen to allow. See <span class="link"><a href="accounts-disable-service.html" title="Controle que servizos en liña dunha conta poden usarse para acceder">Controle que servizos en liña dunha conta poden usarse para acceder</a></span>
-  for information on controlling which services to allow.</p>
-<div class="note note-tip" title="Suxestión"><div class="inner"><div class="region"><div class="contents"><p class="p">Many online services provide an authorization token which GNOME stores
-    instead of your password. If you remove an account, you should also revoke
-    that certificate in the online service. See <span class="link"><a href="accounts-remove.html" title="Retirar unha conta">Retirar unha conta</a></span>
-    for more information.</p></div></div></div></div>
+<p class="p">Despois de engadir as contas, os aplicativos poden usalas para os servizos que permitiu. Vexa <span class="link"><a href="accounts-disable-service.html" title="Controle que servizos en liña dunha conta poden usarse para acceder">Controle que servizos en liña dunha conta poden usarse para acceder</a></span> para obter máis información sobre como controlar o acceso aos servizos.</p>
+<div class="note note-tip" title="Suxestión"><div class="inner"><div class="region"><div class="contents"><p class="p">Algúns servizos en liña fornecen un token de autorización que GNOME almacena no lugar do seu contrasinal. Se eliminou unha conta terá que revocar o certificado no servizo en liña. Vexa <span class="link"><a href="accounts-remove.html" title="Retirar unha conta">Retirar unha conta</a></span> para obter máis información.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

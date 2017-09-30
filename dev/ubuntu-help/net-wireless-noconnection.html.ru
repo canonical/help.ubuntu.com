@@ -2,7 +2,7 @@
 <html lang=ru>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Я ввёл правильный пароль, но подключиться не удалось</title>
+<title>I’ve entered the correct password, but I still can’t connect</title>
 <link rel="stylesheet" type="text/css" href="ru.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,30 +46,30 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="Беспроводные сети">Беспроводные сети</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Я ввёл правильный пароль, но подключиться не удалось</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">I’ve entered the correct password, but I still can’t connect</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Если вы уверены, что <span class="link"><a href="net-wireless-wepwpa.html" title="Что такое WEP и WPA?">пароль беспроводной сети</a></span> введён правильно, но подключиться к сети всё равно не удаётся, попробуйте сделать следующее:</p>
+<p class="p">If you’re sure that you entered the correct <span class="link"><a href="net-wireless-wepwpa.html" title="Что такое WEP и WPA?">wireless password</a></span> but you still can’t successfully connect to a wireless network, try some of the following:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
 <p class="p">Double-check that you have the correct password</p>
-<p class="p">Пароли чувствительны к регистру (то есть к тому, какие буквы используются: заглавные или строчные), поэтому проверьте, не введена ли одна из букв не в том регистре.</p>
+<p class="p">Passwords are case-sensitive (it matters whether they have capital or lower-case letters), so check that you didn’t get the case of one of the letters wrong.</p>
 </li>
 <li class="list">
 <p class="p">Попробуйте ASCII или шестнадцатеричный ключ доступа</p>
-<p class="p">Вводимый пароль также может быть показан по-другому, в виде строки шестнадцатиричных символов (цифры от 0 до 9 и буквы от a до f), называемой ключом доступа. У каждого пароля есть равнозначный ключ доступа. Если у вас есть и ключ доступа и пароль, попробуйте вместо пароля ввести ключ доступа. Проверьте, что в диалоговом окне ввода пароля указан правильный <span class="gui">метод беспроводной защиты</span> (например, для 40-значного ключа доступа в WEP-защищённой сети выберите <span class="gui">40/128-битный ключ WEP</span>).</p>
+<p class="p">The password you enter can also be represented in a different way — as a string of characters in hexadecimal (numbers 0-9 and letters a-f) called a pass key. Each password has an equivalent pass key. If you have access to the pass key as well as the password/passphrase, try typing the pass key instead. Make sure you select the correct <span class="gui">wireless security</span> option when asked for your password (for example, select <span class="gui">WEP 40/128-bit Key</span> if you’re typing the 40-character pass key for a WEP-encrypted connection).</p>
 </li>
 <li class="list">
 <p class="p">Попробуйте отключить и снова включить сетевую карту</p>
-<p class="p">Иногда беспроводные карты зависают или испытывают небольшие проблемы, препятствующие соединению. Попробуйте отключить карту и снова включить, чтобы вернуть её в исходное состояние — подробнее смотрите <span class="link"><a href="net-wireless-troubleshooting.html" title="Устранение неполадок с беспроводной сетью">Устранение неполадок с беспроводной сетью</a></span>.</p>
+<p class="p">Sometimes wireless cards get stuck or experience a minor problem that means they won’t connect. Try turning the card off and then on again to reset it — see <span class="link"><a href="net-wireless-troubleshooting.html" title="Устранение неполадок с беспроводной сетью">Устранение неполадок с беспроводной сетью</a></span> for more information.</p>
 </li>
 <li class="list">
-<p class="p">Check that you're using the correct type of wireless security</p>
-<p class="p">В момент ввода пароля для беспроводной сети можно выбрать метод защиты беспроводной сети. Убедитесь в том, что вы указали именно тот метод, который используется вашим роутером или базовой станцией. Обычно он выбирается по умолчанию, но иногда по каким-то причинам этого не происходит. Если вы не знаете, какой именно метод используется, методом проб и ошибок подберите верный. </p>
+<p class="p">Check that you’re using the correct type of wireless security</p>
+<p class="p">When prompted for your wireless security password, you can choose which type of wireless security to use. Make sure you choose the one that is used by the router or wireless base station. This should be selected by default, but sometimes it will not be for some reason. If you don’t know which one it is, use trial and error to go through the different options.</p>
 </li>
 <li class="list">
 <p class="p">Проверка полноценной поддержки беспроводной карты</p>
-<p class="p">Некоторые беспроводные карты имеют неполноценную поддержку. Они показывают беспроводное сетевое подключение, но подключиться к сети не могут, т.к. в их драйверах отсутствует нужный функционал. Проверьте, можно ли найти альтернативный беспроводной драйвер или понадобится провести дополнительную настройку (например, установка другой <span class="em">прошивки</span>). Подробности см. здесь: <span class="link"><a href="net-wireless-troubleshooting.html" title="Устранение неполадок с беспроводной сетью">Устранение неполадок с беспроводной сетью</a></span>.</p>
+<p class="p">Some wireless cards aren’t supported very well. They show up as a wireless connection, but they can’t connect to a network because their drivers lack the ability to do this. See if you can get an alternative wireless driver, or if you need to perform some extra set-up (like installing a different <span class="em">firmware</span>). See <span class="link"><a href="net-wireless-troubleshooting.html" title="Устранение неполадок с беспроводной сетью">Устранение неполадок с беспроводной сетью</a></span> for more information.</p>
 </li>
 </ul></div></div></div>
 </div>

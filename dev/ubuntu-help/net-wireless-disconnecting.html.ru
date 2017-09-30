@@ -63,7 +63,12 @@
 <div id="network" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Сетевое соединение установлено неправильно</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Иногда при подключении к беспроводной сети может сначала показаться, что соединение установлено успешно, но вскоре после этого связь прерывается. Обычно это случается из-за того, что компьютеру удалось подключиться к сети лишь частично — ему удаётся установить соединение, но по каким-то причинам он не может довести эту процедуру до конца, и соединение прерывается.</p>
+<p class="p">Sometimes, when you connect to a wireless network, it may appear that you
+ have successfully connected at first, but then you will be disconnected soon
+ after. This normally happens because your computer was only partially
+ successful in connecting to the network — it managed to establish a connection,
+ but was unable to finalize the connection for some reason and so was
+ disconnected.</p>
 <p class="p">Возможной причиной может быть ввод неправильного пароля для беспроводной сети или отсутствие доступа в эту сеть у вашего компьютера (например, потому что для входа в сеть требуется указать имя пользователя).</p>
 </div></div>
 </div></div>
@@ -89,14 +94,14 @@
     </span>
 </li>
 <li class="links ">
-<a href="net-problem.html" title="Проблемы с сетью">Проблемы с сетью</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Устранение неполадок с беспроводной сетью">Проблемы с беспроводными соединениями</a></span>, <span class="link"><a href="net-wireless-find.html" title="Моей беспроводной сети нет в списке">поиск сети wifi</a></span>…</span>
+<a href="net-problem.html" title="Проблемы с сетью">Проблемы с сетью</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Устранение неполадок с беспроводной сетью">Проблемы с беспроводными соединениями</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">поиск сети wifi</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-connect.html" title="Подключение к беспроводной сети">Подключение к беспроводной сети</a><span class="desc"> — Подключение к Интернету — без проводов.</span>
+<a href="net-wireless-connect.html" title="Подключение к беспроводной сети">Подключение к беспроводной сети</a><span class="desc"> — Get on the internet — wirelessly.</span>
 </li></ul></div>
 </div></div>
 </div>

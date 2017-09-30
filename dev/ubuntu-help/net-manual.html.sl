@@ -53,7 +53,11 @@
 <div class="hgroup"><h1 class="title"><span class="title">Ročno nastavi omrežne nastavitve</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">V primeru da vaše omrežje vašemu računalniku nastavitev omrežja ne dodeli samodejno, jih boste morali vnesti ročno. Ta tema predpostavlja, da že veste, katere nastavitve morate vnesti. Če to ni res, vprašajte skrbnika omrežja ali poglejte nastavitve svojega usmerjevalnika ali stikala.</p>
+<p class="p">If your network doesn’t automatically assign network settings to your
+  computer, you may have to manually enter the settings yourself. This topic
+  assumes that you already know the correct settings to use. If not, you may
+  need to ask your network administrator or look at the settings of your router
+  or network switch.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Za ročno nastavitev svojih omrežnih povezav:</span></h2></div>
 <div class="region"><ol class="steps">

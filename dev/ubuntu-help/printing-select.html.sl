@@ -58,7 +58,8 @@
 <li class="steps"><p class="p">V besedilno polje vpišite številke strani, ki jih želite natisniti, ločene z vejicami. Za oznako obsega strani uporabite pomišljaj.</p></li>
 </ol></div></div></div>
 <div class="note" title="Opomba"><div class="inner"><div class="region"><div class="contents">
-<p class="p">Na primer, če v besedilno polje <span class="gui">Strani</span> vnesete "1,3,5-7,9" , bodo natisnjene strani 1, 3, 5, 6, 7 in 9.</p>
+<p class="p">For example, if you enter “1,3,5-7,9” in the <span class="gui">Pages</span> text box,
+    pages 1,3,5,6,7 and 9 will be printed.</p>
 <div class="media media-image"><div class="inner"><img src="figures/printing-select.png" class="media media-block" alt=""></div></div>
 </div></div></div></div>
 </div>

@@ -62,7 +62,10 @@
   </p>
 <p class="p">To remove an application:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Spiediet ikonu <span class="app">Ubuntu programmatūra</span> <span class="gui">Palaidējā</span>, vai meklējiet <span class="input">Programmatūra</span> meklēšanas joslā <span class="gui">Panelī</span>.</p></li>
+<li class="steps"><p class="p">
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">Kad <span class="app">Ubuntu programmatūra</span> atveras, spiediet pogu <span class="gui">Instalētās</span> loga augšpusē.</p></li>
 <li class="steps"><p class="p">Atrodiet lietotni, ko vēlaties izņemt, izmantojot meklēšanas lauku, vai ejot cauri instalēto lietotņu sarakstam.</p></li>
 <li class="steps"><p class="p">Izvēlieties lietotni un spiediet <span class="gui">Izņemt</span>.</p></li>

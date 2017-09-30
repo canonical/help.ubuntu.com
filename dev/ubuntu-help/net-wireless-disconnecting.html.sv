@@ -57,13 +57,13 @@
 <div class="hgroup"><h2 class="title"><span class="title">Svag trådlös signal</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">En vanlig orsaka till att man blir frånkopplad från ett trådlöst nätverk är att du har låg signal. Trådlösa nätverk har en begränsad räckvidd, så om du är alltför långt borta från den trådlösa basstationen kanske du inte får tillräckligt stark signal för att upprätthålla en anslutning. Väggar och andra objekt mellan dig och basstationen kan också försvaga signalen.</p>
-<p class="p">Nätverksikonen i systemraden visar hur stark din trådlösa signal är. Om signalen ser låg ut, prova att flytta närmre den trådlösa basstationen.</p>
+<p class="p">Nätverksikonen i systemraden visar hur stark din trådlösa signal är. Om signalen ser låg ut, prova att flytta närmare den trådlösa basstationen.</p>
 </div></div>
 </div></div>
 <div id="network" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Nätverksanslutningen etablerades inte ordentligt</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Ibland när du ansluter till ett trådlöst nätverk kan det se ut som om du har lyckats ansluta först, men du blir frånkopplad strax efteråt. Detta händer vanligtvis för att din dator bara delvis lyckades ansluta till nätverket - den lyckades etablera en anslutning, men lyckades inte avsluta anslutningen av någon anledning och blev därför frånkopplad.</p>
+<p class="p">Ibland när du ansluter till ett trådlöst nätverk kan det se ut som om du har lyckats ansluta först, men du blir frånkopplad strax efteråt. Detta händer vanligtvis för att din dator bara delvis lyckades ansluta till nätverket — den lyckades etablera en anslutning, men lyckades inte slutföra anslutningen av någon anledning och blev därför frånkopplad.</p>
 <p class="p">Ett möjligt skäl till detta är att du skrivit in fel lösenordsfras för det trådlösa nätverket, eller att din dator inte tilläts använda nätverket (till exempel på grund av att nätverket kräver ett användarnamn för att logga in).</p>
 </div></div>
 </div></div>
@@ -92,7 +92,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-connect.html" title="Anslut till ett trådlöst nätverk">Anslut till ett trådlöst nätverk</a><span class="desc"> — Nå internet - trådlöst.</span>
+<a href="net-wireless-connect.html" title="Anslut till ett trådlöst nätverk">Anslut till ett trådlöst nätverk</a><span class="desc"> — Nå internet — trådlöst.</span>
 </li></ul></div>
 </div></div>
 </div>

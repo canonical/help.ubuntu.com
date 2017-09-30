@@ -2,7 +2,7 @@
 <html lang=ru>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>В чём разница между калибровкой и профилированием?</title>
+<title>What’s the difference between calibration and characterization?</title>
 <link rel="stylesheet" type="text/css" href="ru.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -50,7 +50,7 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">В чём разница между калибровкой и профилированием?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">What’s the difference between calibration and characterization?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Многие поначалу путают два этих принципиально разных, хотя и взаимосвязанных процесса. Калибровкой является изменение цветового поведения устройства. Это как правило достигается двумя способами:</p>
@@ -60,7 +60,11 @@
 </ul></div></div></div>
 <p class="p">Идея калибровки состоит в приведении устройства к некоторому точно известному состоянию применительно к цветопередаче. Часто она используется как повседневное средство поддержки воспроизводимого поведения. Как правило, калибровка хранится в специфичном для устройства или системы формате файлов, куда записаны либо его настройки, либо поканальные корректирующие кривые.</p>
 <p class="p">Профилированием (иначе, характеризацией) называется <span class="em">запись</span> того, как устройство воспроизводит цвет или откликается на него. Результат профилирования как правило сохраняется в файле профиля ICC для этого устройства. Такой профиль сам ничего не меняет, а лишь позволяет системному модулю управления цветом или отдельному приложению изменить цвета при условии использования профиля другого устройства. Достоверно перенести цвет с одного устройства на другое можно лишь обладая актуальным цветовым профилем для каждого из них.</p>
-<div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents"><p class="p">Внимание: профиль действителен для устройства лишь в том случае, если оно находится в том же состоянии калибровки, при котором этот профиль был создан.</p></div></div></div></div>
+<div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents"><p class="p">
+      Note that a characterization (profile) will only be valid for a device
+      if it’s in the same state of calibration as it was when it was
+      characterized.
+    </p></div></div></div></div>
 <p class="p">В случае с профилями мониторов возникает дополнительная путаница, связанная с тем, что информация о калибровке для удобства часто хранится в самом профиле. Согласно принятому стандарту она хранится в теге <span class="em">vcgt</span>. Несмотря на то, что она всё же есть в профиле, обычные приложения с этими данными никак не работают. Точно так же нормальные приложения для калибровки никак не используют информацию, полученную при профилировании.</p>
 </div>
 <div class="sect sect-links" role="navigation">

@@ -49,7 +49,9 @@
 <div class="hgroup"><h1 class="title"><span class="title">Проверка резервной копии</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">После создания резервной копии файлов следует убедиться, что копирование прошло успешно. Иначе вы рискуете потерять важные данные, так как некоторые файлы могут отсутствовать в резервной копии.</p>
+<p class="p">After you have backed up your files, you should make sure that the
+ backup was successful. If it didn’t work properly, you could lose important
+ data since some files could be missing from the backup.</p>
 <p class="p">When you use <span class="app">Files</span> to copy or move files, the computer checks
    to make sure that all of the data transferred correctly. However, if you are
    transferring data that is very important to you, you may want to perform

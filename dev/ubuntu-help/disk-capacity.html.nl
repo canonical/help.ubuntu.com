@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Check how much disk space is left</title>
+<title>Controleer hoeveel schijfruimte er nog besschikbaar is</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,54 +43,43 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="disk.html" title="Disks &amp; storage">Disks &amp; storage</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="disk.html" title="Schijven &amp; opslag">Schijven &amp; opslag</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Check how much disk space is left</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Controleer hoeveel schijfruimte er nog besschikbaar is</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">You can check how much disk space is left with <span class="app">Disk Usage Analyzer</span>
- or <span class="app">System Monitor</span>.</p></div>
+<div class="contents"><p class="p">U kunt kijken hoeveel schijfruimte u over heeft via <span class="app">Schijfgebruik</span> en <span class="app">Systeemmonitor</span>.</p></div>
 <div id="disk-usage-analyzer" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Check with Disk Usage Analyzer</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Controleren met Schijfgebruik</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">To check the free disk space and disk capacity using <span class="app">Disk Usage
-  Analyzer</span>:</p>
+<p class="p">Om de vrije ruimte van de schijf en de schijfcapaciteit te controleren via <span class="app">Schijfgebruik</span>:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Open <span class="app">Disk Usage Analyzer</span> from the <span class="gui">Activities</span>
-      overview. The window will display a list of file locations together with
-      the usage and capacity of each.</p></li>
-<li class="list"><p class="p">Click one of the items in the list to view a detailed summary of the
-      usage for that item. Click the menu button, and then <span class="gui">Scan
-      Folder…</span> or <span class="gui">Scan Remote Folder…</span> to scan a different
-      location.</p></li>
+<li class="list"><p class="p">Open <span class="app">Schijfgebruik</span> vanuit het <span class="gui">Activiteiten</span>-overzicht. Het venster geeft een lijst met bestandslocaties weer tezamen met het gebruik en de capaciteit van elk.</p></li>
+<li class="list"><p class="p">Klik op één van de items in de lijst om een gedetailleerde samenvatting van het schijfgebruik te tonen. Klik op de menuknop, en dan op <span class="gui">Map scannen…</span> of <span class="gui">Map op afstand scannen…</span> om een andere locatie te scannen.</p></li>
 </ul></div></div></div>
-<p class="p">The information is displayed according to <span class="gui">Folder</span>,
-  <span class="gui">Size</span>, <span class="gui">Contents</span> and when the data was last
-  <span class="gui">Modified</span>. See more details in <span class="link"><a href="https://help.gnome.org/users/baobab/stable/" title="https://help.gnome.org/users/baobab/stable/"><span class="app">Disk
-  Usage Analyzer</span></a></span>.</p>
+<p class="p">De informatie wordt weergegeven naar <span class="gui">Map</span>, <span class="gui">Grootte</span>, <span class="gui">Inhoud</span> en wanneer de gegevens voor het laatst zijn <span class="gui">Gewijzigd</span>.  Ga voor meer informatie naar <span class="link"><a href="https://help.gnome.org/users/baobab/stable/" title="https://help.gnome.org/users/baobab/stable/"><span class="app">Schijfgebruik</span></a></span>.</p>
 </div></div>
 </div></div>
 <div id="system-monitor" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Check with System Monitor</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Met Systeemmonitor controleren</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">To check the free disk space and disk capacity with <span class="app">System Monitor</span>:</p>
+<p class="p">Vrije schijfruimte en schijfcapaciteit controleren met <span class="app">Systeemmonitor</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="app">System Monitor</span> application from the <span class="gui">Activities</span>
-  overview.</p></li>
-<li class="steps"><p class="p">Select the <span class="gui">File Systems</span> tab to view the system's partitions and
+<li class="steps"><p class="p">Open vanuit het <span class="gui">Activiteiten</span>overzicht de <span class="app">Systeemmonitor</span>-toepassing.</p></li>
+<li class="steps"><p class="p">Select the <span class="gui">File Systems</span> tab to view the system’s partitions and
   disk space usage.  The information is displayed according to <span class="gui">Total</span>,
   <span class="gui">Free</span>, <span class="gui">Available</span> and <span class="gui">Used</span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
 <div id="disk-full" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">What if the disk is too full?</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Wat als de schijf te vol is?</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">If the disk is too full you should:</p>
+<p class="p">Als de schijf te vol is moet u:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Delete files that aren't important or that you won't use anymore.</p></li>
-<li class="list"><p class="p">Make <span class="link"><a href="backup-why.html" title="Back up your important files">backups</a></span> of the important files that
-   you won't need for a while and delete them from the hard drive.</p></li>
+<li class="list"><p class="p">Delete files that aren’t important or that you won’t use anymore.</p></li>
+<li class="list"><p class="p">Make <span class="link"><a href="backup-why.html" title="Reservekopieën maken van uw belangrijke bestanden">backups</a></span> of the important files that
+   you won’t need for a while and delete them from the hard drive.</p></li>
 </ul></div></div></div>
 </div></div>
 </div></div>
@@ -99,12 +88,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html" title="Disks &amp; storage">Disks &amp; storage</a><span class="desc"> — 
-    <span class="link"><a href="disk-capacity.html" title="Check how much disk space is left">Disk space</a></span>,
-    <span class="link"><a href="disk-benchmark.html" title="Test the performance of your hard disk">performance</a></span>,
-    <span class="link"><a href="disk-check.html" title="Check your hard disk for problems">problems</a></span>,
-    <span class="link"><a href="disk-partitions.html" title="Manage volumes and partitions">volumes and partitions</a></span>…
-  </span>
+<a href="disk.html" title="Schijven &amp; opslag">Schijven &amp; opslag</a><span class="desc"> — <span class="link"><a href="disk-capacity.html" title="Controleer hoeveel schijfruimte er nog besschikbaar is">Schijfruimte</a></span>, <span class="link"><a href="disk-benchmark.html" title="De prestaties van u harde schijf testen">presentatie</a></span>, <span class="link"><a href="disk-check.html" title="Controleer of er problemen zijn met u harde schijf">problemen</a></span>, <span class="link"><a href="disk-partitions.html" title="Volumes en partities beheren">volumes en partities</a></span>...</span>
 </li></ul></div>
 </div></div></div>
 </div>

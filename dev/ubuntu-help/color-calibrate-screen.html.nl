@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>How do I calibrate my screen?</title>
+<title>Hoe kalibreer ik mijn scherm?</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,54 +44,44 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="color.html" title="Color management">Color management</a> › <a class="trail" href="color.html#calibration" title="Calibration">Calibration</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html#calibration" title="Kalibratie">Kalibratie</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="color.html" title="Color management">Color management</a> › <a class="trail" href="color.html#calibration" title="Calibration">Calibration</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html#calibration" title="Kalibratie">Kalibratie</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">How do I calibrate my screen?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Hoe kalibreer ik mijn scherm?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can calibrate your screen so that it shows more accurate color. This
-  is especially useful if you are involved in digital photography, design or
-  artwork.</p>
-<p class="p">You will need either a colorimeter or a spectrophotometer to do this. Both
-  devices are used to profile screens, but they work in slightly different
-  ways.</p>
+<p class="p">U kunt uw scherm kalibreren zodat het de kleuren accurater weergeeft. Dit is vooral nuttig als u zich bezig houdt met digitale fotografie, ontwerp of kunst.</p>
+<p class="p">Om dit te doen heeft u of een colorimeter of een spectrofotometer. Beide worden gebruikt om profielen voor schermen te maken, maar ze werken niet helemaal hetzelfde.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Color</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Color</span> to open the panel and select your
-      screen.</p></li>
-<li class="steps"><p class="p">Make sure your calibration device is connected to your computer.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Calibrate…</span> to commence the
-      calibration.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Kleur</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Kleur</span> om het paneel te openen en selecteer uw scherm.</p></li>
+<li class="steps"><p class="p">Zorg ervoor dat uw kalibratieappraat met uw computer is verbonden.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Kalibreren…</span> om de kalibratie te beginnen.</p></li>
 </ol></div></div></div>
-<p class="p">Screens change all the time: the backlight in a TFT display will halve in
-  brightness approximately every 18 months, and will get yellower as it gets
-  older. This means you should recalibrate your screen when the [!] icon
-  appears in the <span class="gui">Color</span> panel.</p>
-<p class="p">LED screens also change over time, but a much slower rate than TFTs.</p>
+<p class="p">Schermen veranderen voortdurend - de helderheid van de achtergrondverlichting in een TFT-scherm halveert ongeveer elke 18 maanden, en wordt geler naarmate deze ouder wordt. Dit betekent dat u uw scherm opnieuw dient te kalibreren wanneer het pictogram [!] in het <span class="gui">Kleur</span>-paneel verschijnt.</p>
+<p class="p">LED-schermen veranderen ook na verloop van tijd, maar veel minder snel dan TFT's.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#calibration" title="Calibration">Calibration</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html#calibration" title="Kalibratie">Kalibratie</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-calibrate-camera.html" title="How do I calibrate my camera?">How do I calibrate my camera?</a><span class="desc"> — Calibrating your camera is important to capture accurate colors.</span>
+<a href="color-calibrate-camera.html" title="Hoe kalibreer ik mijn camera?">Hoe kalibreer ik mijn camera?</a><span class="desc"> — Kalibreren van uw camera is belangrijk om kleuren nauwkeurig vast te leggen.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-printer.html" title="How do I calibrate my printer?">How do I calibrate my printer?</a><span class="desc"> — Calibrating your printer is important to print accurate colors.</span>
+<a href="color-calibrate-printer.html" title="Hoe kalibreer ik mijn printer?">Hoe kalibreer ik mijn printer?</a><span class="desc"> — Het kalibreren van uw printer is belangrijk voor het afdrukken van accurate kleuren.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-scanner.html" title="How do I calibrate my scanner?">How do I calibrate my scanner?</a><span class="desc"> — Calibrating your scanner is important to capture accurate colors.</span>
+<a href="color-calibrate-scanner.html" title="Hoe kalibreer ik mijn scanner">Hoe kalibreer ik mijn scanner</a><span class="desc"> — Kalibreren van uw scanner is belangrijk om kleuren nauwkeurig vast te leggen.</span>
 </li>
 </ul></div>
 </div></div>

@@ -59,7 +59,8 @@ because suspend is not supported properly by your hardware.</p></div>
 <div class="hgroup"><h2 class="title"><span class="title">コンピューターをサスペンドしたあと復帰できない</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">コンピューターをサスペンドしたあとキーボードやマウスを操作すると、通常ではコンピューターが再開してパスワード入力画面が表示されます。コンピューターが立ち上がらない場合は、電源ボタンを押してみてください (長押しせず、短く一度だけ押すこと)。</p>
-<p class="p">状態が変わらない場合は、モニターがオンになっていることを確認してからもう一度何かキーを押してみてください。</p>
+<p class="p">If this still does not help, make sure that your computer’s monitor is
+  switched on and try pressing a key on the keyboard again.</p>
 <p class="p">最後の手段として、電源ボタンを 5 秒から 10 秒ほど長押ししてコンピューターの電源をオフにします。ただし、これを行うと保存していない作業は全て失われることになります。これでコンピューターの電源を再びオンにすることができるでしょう。</p>
 <p class="p">コンピューターをサスペンドする度にこの問題が発生する場合は、お使いのハードウェアではサスペンド機能が正常に動作できない可能性があります。</p>
 <div class="note note-warning" title="警告"><div class="inner"><div class="region"><div class="contents"><p class="p">電源を失い、予備の供給電源 (動作するバッテリーなど) を得られない場合、コンピューターはオフになります。</p></div></div></div></div>

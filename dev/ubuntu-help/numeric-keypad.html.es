@@ -55,7 +55,7 @@
 <div class="contents">
 <p class="p">Mediante la tecla <span class="key"><kbd>Bloq Núm</kbd></span> es posible encender o apagar manualmente el teclado numérico. Además, la configuración del BIOS en muchos equipos incluyen una opción para especificar si el equipo debe arrancar con el teclado numérico encendido. Si no es así, existe otra manera de configurarlo:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p"><span class="link"><a href="addremove-install.html" title="Install additional applications">Instalar</a></span> del paquete <span class="em">numlockx</span>.</p></li>
+<li class="steps"><p class="p"><span class="link"><a href="addremove-install.html" title="Instalar aplicaciones adicionales">Instalar</a></span> del paquete <span class="em">numlockx</span>.</p></li>
 <li class="steps"><p class="p">Abra <span class="app"><span class="link"><a href="startup-applications.html" title="Aplicaciones al inicio">Aplicaciones al inicio</a></span></span> y añada el programa de arranque correspondiente a esta orden: <span class="cmd">numlockx on</span></p></li>
 </ol></div></div></div>
 <p class="p">Para activar el teclado numérico también en la pantalla de acceso, puede crearse un archivo de configuración especial. Presione <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span> para abrir una ventana de consola y, a continuación, ejecute esta orden (es una orden larga: aunque pueda aparecer en varias líneas en la pantalla, cópiela y péguela para evitar errores de escritura):</p>
@@ -66,7 +66,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html" title="Teclado">Teclado</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">distribuciones de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Hacer que parpadee el cursor del teclado">parpadeo del cursor</a></span>, <span class="link"><a href="a11y.html#mobility" title="Deficiencias motoras">accesibilidad del teclado</a></span>…</span>
+<a href="keyboard.html" title="Teclado">Teclado</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Usar distribuciones de teclado alternativas">distribuciones de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Hacer que parpadee el cursor del teclado">parpadeo del cursor</a></span>, <span class="link"><a href="a11y.html#mobility" title="Deficiencias motoras">accesibilidad del teclado</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

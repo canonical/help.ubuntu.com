@@ -49,13 +49,14 @@
 <div class="hgroup"><h1 class="title"><span class="title">Qu'est-ce qu'une adresse IP ?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">« IP address » signifie <span class="em">Internet Protocol address (adresse de Protocole Internet)</span>. Chaque périphérique connecté à un réseau (comme Internet) en possède une.</p>
+<p class="p">“IP address” stands for <span class="em">Internet Protocol address</span>, and each
+  device that is connected to a network (like the internet) has one.</p>
 <p class="p">Une adresse IP peut être comparée à votre numéro de téléphone. Ce dernier est une suite de chiffres unique qui identifie votre combiné pour que d'autres personnes puissent vous appeler. De la même façon, une adresse IP est une suite de chiffres unique qui identifie votre ordinateur pour qu'il puisse envoyer et recevoir des données d'autres ordinateurs.</p>
 <p class="p">Actuellement, la plupart des adresses IP se composent de quatre groupes de chiffres, chaque groupe étant séparé des autres par un point. Voici un exemple d'adresse IP : <span class="code">192.168.1.42</span>.</p>
 <div class="note note-tip" title="Astuce"><div class="inner"><div class="region"><div class="contents"><p class="p">An IP address can either be <span class="em">dynamic</span> or <span class="em">static</span>. Dynamic
     IP addresses are temporarily assigned each time your computer connects to a
     network. Static IP addresses are fixed, and do not change. Dynamic IP
-    addresses are more common that static addresses - static addresses are
+    addresses are more common that static addresses — static addresses are
     typically only used when there is a special need for them, such as in the
     administration of a server.</p></div></div></div></div>
 </div>

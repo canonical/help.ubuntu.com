@@ -58,7 +58,7 @@
 </li>
 <li class="steps"><p class="p">Du kan skriva ut mer än en sida av dokumentet per <span class="em">blad</span> papper också. Använd alternativet <span class="gui">Sidor per blad</span> för att göra detta.</p></li>
 </ol></div></div></div>
-<div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">Denna funktions tillgänglighet beror på vilken typ av skrivare du har, och vilket program du använder. Detta alternativt kan ibland saknas.</p></div></div></div></div>
+<div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">Denna funktions tillgänglighet beror på vilken typ av skrivare du har, och vilket program du använder. Detta alternativ kan ibland saknas.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

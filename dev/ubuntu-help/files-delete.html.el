@@ -57,7 +57,10 @@
 <li class="steps"><p class="p">Πατήστε το πλήκτρο <span class="key"><kbd>Delete</kbd></span> στο πληκτρολόγιο σας. Εναλλακτικά, μεταφέρετε το αντικείμενο στα <span class="gui">Απορρίμματα</span> στην πλευρική στήλη.</p></li>
 </ol></div>
 </div></div>
-<p class="p">Το αρχείο θα μετακινηθεί στα απορρίμματα και θα σας παρουσιαστεί με μια επιλογή <span class="gui">Αναίρεσης</span> της διαγραφής. Το κουμπί <span class="gui">Αναίρεση</span> θα εμφανιστεί για λίγα δευτερόλεπτα. Αν επιλέξετε <span class="gui">Αναίρεση</span>, το αρχείο θα ανακτηθεί στην αρχική του θέση.</p>
+<p class="p">The file will be moved to the trash, and you’ll be presented with an
+  option to <span class="gui">Undo</span> the deletion. The <span class="gui">Undo</span> button will appear
+  for a few seconds. If you select <span class="gui">Undo</span>, the file will be restored
+  to its original location.</p>
 <p class="p">Για να διαγράψετε αρχεία μόνιμα, και να ελευθερώσετε χώρο στον υπολογιστή σας, χρειάζετε να αδειάσετε τα απορρίμματα. Για να αδειάσετε τα απορρίμματα, δεξί κλικ στα <span class="gui">Απορρίμματα</span> στην πλευρική στήλη και επιλέξτε <span class="gui">Άδειασμα απορριμμάτων</span>.</p>
 </div>
 <div id="permanent" class="sect"><div class="inner">

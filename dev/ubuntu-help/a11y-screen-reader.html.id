@@ -49,27 +49,20 @@
 <div class="hgroup"><h1 class="title"><span class="title">Baca layar keras-keras</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">GNOME provides the <span class="app">Orca</span> screen reader to speak the user
-  interface. Depending on how you installed GNOME, you might not have
-  Orca installed. If not, install Orca first.</p>
-<p class="p">To start <span class="app">Orca</span> using the keyboard:</p>
-<div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps"><p class="p">Press <span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>S</kbd></span>.</p></li></ol></div></div></div>
-<p class="p">Or to start <span class="app">Orca</span> using a mouse and keyboard:</p>
+<p class="p">GNOME menyediakan pembaca layar <span class="app">Orca</span> untuk mengucapkan antar muka pengguna. Tergantung pada bagaimana Anda memasang GNOME, Orca mungkin tidak terpasang. Bila tidak, pasanglah Orca terlebih dahulu.</p>
+<p class="p">Untuk memulai <span class="app">Orca</span> menggunakan papan ketik:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps"><p class="p">Tekan <span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>S</kbd></span>.</p></li></ol></div></div></div>
+<p class="p">Untuk memulai <span class="app">Orca</span> memakai sebuah tetikus dan papan ketik:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span> overview and
-      start typing <span class="gui">Universal Access</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Universal Access</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Screen Reader</span> in the <span class="gui">Seeing</span> section, then
-      switch <span class="gui">Screen Reader</span> on in the dialog.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akses Universal</span>.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Akses Universal</span> untuk membuka panel.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Pembaca Layar</span> dalam seksi <span class="gui">Penglihatan</span>, lalu nyalakan <span class="gui">Pembaca Layar</span> dalam dialog.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Tip"><div class="inner">
-<div class="title title-note"><h2><span class="title">Quickly turn Screen Reader on and off</span></h2></div>
-<div class="region"><div class="contents"><p class="p">You can turn Screen Reader on and off by clicking the
-    <span class="link"><a href="a11y-icon.html" title="Temukan menu akses universal">accessibility icon</a></span> in the top bar and
-    selecting <span class="gui">Screen Reader</span>.</p></div></div>
+<div class="title title-note"><h2><span class="title">Menyalakan dan mematikan Pembaca Layar secara cepat</span></h2></div>
+<div class="region"><div class="contents"><p class="p">Anda dapat secara cepat menyalakan dan mematikan Pembaca Layar dengan mengklik <span class="link"><a href="a11y-icon.html" title="Temukan menu akses universal">ikon aksesibilitas</a></span> pada bilah puncak dan memilih <span class="gui">Pembaca Layar</span>.</p></div></div>
 </div></div>
-<p class="p">Refer to the <span class="link"><a href="help:orca" title="help:orca">Orca Help</a></span> for
-  more information.</p>
+<p class="p">Lihat <span class="link"><a href="help:orca" title="help:orca">Bantuan Orca</a></span> untuk informasi lebih lanjut.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

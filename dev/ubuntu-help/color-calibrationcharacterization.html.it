@@ -2,7 +2,7 @@
 <html lang=it>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Qual è la differenza tra calibrazione e caratterizzazione?</title>
+<title>What’s the difference between calibration and characterization?</title>
 <link rel="stylesheet" type="text/css" href="it.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -50,7 +50,7 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Qual è la differenza tra calibrazione e caratterizzazione?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">What’s the difference between calibration and characterization?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Molti utenti sono inizialmente confusi riguardo alla differenza tra calibrazione e caratterizzazione. La calibrazione è il processo di modifica del comportamento del colore di un dispositivo che viene generalmente eseguito utilizzando due meccanismi:</p>
@@ -60,7 +60,11 @@
 </ul></div></div></div>
 <p class="p">La calibrazione consiste nel porre un dispositivo in un determinato stato in base alla sua risposta al colore per mantenere un comportamento riproducibile di giorno in giorno. In genere, la calibrazione verrà conservata in formati file specifici per il dispositivo o per il sistema che registrano le impostazioni del dispositivo o le curve di calibrazione per ogni canale.</p>
 <p class="p">La caratterizzazione (o profiling) consiste nel <span class="em">registrare</span> il modo in cui il dispositivo riproduce o risponde al colore. In genere, il risultato è conservato in un profilo ICC del dispotivo e tale profilo in sé non modifica il colore in alcun modo. Esso permette a un sistema come un CMM (Color Management Module) o a un'applicazione consapevole del colore, di modificarlo quando viene combinato con un altro profilo del dispositivo. Solo conoscendo le caratteristiche di due dispositivi è possibile raggiungere un modo per trasferire il colore da un dispositivo all'altro.</p>
-<div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents"><p class="p">Notare che una caratterizzazione (profilo) sarà valida per un dispositivo solo se esso è nello stesso stato di calibrazione in cui era quando è stato caratterizzato.</p></div></div></div></div>
+<div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents"><p class="p">
+      Note that a characterization (profile) will only be valid for a device
+      if it’s in the same state of calibration as it was when it was
+      characterized.
+    </p></div></div></div></div>
 <p class="p">Nel caso di profili di monitor esistono alcune ulteriori controversie poiché spesso le informazioni di calibrazione, per convenienza, sono conservate nel profilo. Per convenzione sono conservate in un tag chiamato <span class="em">vcgt</span>. Malgrado esse siano conservate nel profilo, nessuno dei normali strumenti basati su ICC ne è consapevole o ne fa qualcosa. Similmente, i tipici strumenti e applicazioni di calibrazione dei monitor non saranno consapevoli o faranno qualcosa con le informazioni della caratterizzazione (profilo) ICC.</p>
 </div>
 <div class="sect sect-links" role="navigation">

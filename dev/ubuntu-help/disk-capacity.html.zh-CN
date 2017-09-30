@@ -74,7 +74,9 @@
 <p class="p">要使用<span class="app">系统监视器</span>来检查空余磁盘空间和磁盘容量：</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">在<span class="gui">活动</span>概览中，打开<span class="app">系统监视器</span>程序。</p></li>
-<li class="steps"><p class="p">选择<span class="gui">文件系统</span>标签页查看系统的分区和磁盘空间使用情况。信息根据<span class="gui">总计</span>、<span class="gui">空余</span>、<span class="gui">可用</span>和<span class="gui">已用</span>分别显示。</p></li>
+<li class="steps"><p class="p">Select the <span class="gui">File Systems</span> tab to view the system’s partitions and
+  disk space usage.  The information is displayed according to <span class="gui">Total</span>,
+  <span class="gui">Free</span>, <span class="gui">Available</span> and <span class="gui">Used</span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -83,8 +85,9 @@
 <div class="region"><div class="contents">
 <p class="p">如果磁盘太满您应该：</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">删除不重要的或者您不再使用的文件。</p></li>
-<li class="list"><p class="p">制作您暂时不用重要文件的<span class="link"><a href="backup-why.html" title="备份您的重要文件">备份</a></span>，然后从磁盘上删除它们。</p></li>
+<li class="list"><p class="p">Delete files that aren’t important or that you won’t use anymore.</p></li>
+<li class="list"><p class="p">Make <span class="link"><a href="backup-why.html" title="备份您的重要文件">backups</a></span> of the important files that
+   you won’t need for a while and delete them from the hard drive.</p></li>
 </ul></div></div></div>
 </div></div>
 </div></div>

@@ -65,7 +65,12 @@
 <p class="p">Regardons d'abord sRGB, qui est le plus petit espace colorimétrique et celui qui code le plus petit nombre de couleurs. Il correspond à celui d'un écran CRT de plus de dix ans et la grande majorité des écrans modernes affichent beaucoup plus de couleurs que lui. Le standard sRGB est le <span class="em">plus petit dénominateur commun</span> mais est néanmoins utilisé dans beaucoup d'applications (y compris internet).</p>
 <p class="p">AdobeRGB est souvent utilisé comme <span class="em">espace de retouches</span>. Il sait coder plus de couleurs que sRGB, ce qui signifie que vous pouvez modifier les couleurs d'une photo sans trop vous préoccuper de savoir si les couleurs les plus vives seront coupées ou les noirs écrasés.</p>
 <p class="p">ProPhoto est l'espace colorimétrique le plus étendu et est souvent utilisé pour l'archivage de documents. Il peut coder la totalité de la gamme de couleurs détectée par l'œil humain et même celles que l'œil ne peut pas voir !</p>
-<p class="p">Maintenant, si ProPhoto est effectivement le meilleur, pourquoi ne pas l'utiliser dans tous les cas ? La réponse est dans la <span class="em">quantification</span>. Si vous n'avez que 8 bits (256 niveaux) pour coder chaque canal, alors une plus grande gamme aura de plus grands intervalles entre chaque valeur.</p>
+<p class="p">
+    Now, if ProPhoto is clearly better, why don’t we use it for everything?
+    The answer is to do with <span class="em">quantization</span>.
+    If you only have 8 bits (256 levels) to encode each channel, then a
+    larger range is going to have bigger steps between each value.
+  </p>
 <p class="p">De plus grands intervalles signifient une erreur plus grande entre la couleur captée et celle restituée et pour certaines couleurs c'est un gros handicap. En fait, des couleurs clés comme celle de la peau, sont très importantes et même d'infimes erreurs vont conduire des personnes peu habituées à considérer que quelque chose ne va pas dans la photo.</p>
 <p class="p">Bien sûr, utiliser un format d'image en 16 bits comble beaucoup d'intervalles et de fait, diminue l'erreur de quantification, mais cela double aussi la taille du fichier de chaque image. Le meilleur usage aujourd'hui semble être le 8bpp, autrement dit le 8 bits par pixel.</p>
 <p class="p">La gestion des couleurs est le processus de conversion d'un espace colorimétrique à un autre, où un espace peut-être bien connu comme le sRGB ou un espace personnalisé comme le profil de votre écran ou de votre imprimante.</p>

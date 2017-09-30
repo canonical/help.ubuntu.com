@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Start applications</title>
+<title>Toepassingen starten</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,21 +46,21 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Start applications</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Toepassingen starten</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Move your mouse pointer to the
   <span class="gui">Activities</span> corner at the top left of the screen to show the
-  <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview. This is where you
+  <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activities</a></span> overview. This is where you
   can find all of your applications. You can also open the overview by pressing
-  the <span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span> key.</p>
-<p class="p">There are several ways of opening an application once you're in the
+  the <span class="key"><a href="keyboard-key-super.html" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span> key.</p>
+<p class="p">There are several ways of opening an application once you’re in the
   <span class="gui">Activities</span> overview:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Start typing the name of an application - searching begins instantly.
-      (If this doesn't happen, click the search bar at the top of the screen
-      and start typing.) If you don't know the exact name of an application, try
-      to type an related term. Click the application's icon to start it.</p></li>
+<li class="list"><p class="p">Start typing the name of an application — searching begins instantly.
+      (If this doesn’t happen, click the search bar at the top of the screen
+      and start typing.) If you don’t know the exact name of an application, try
+      to type an related term. Click the application’s icon to start it.</p></li>
 <li class="list">
 <p class="p">Some applications have icons in the <span class="em">dash</span>, the vertical strip
       of icons on the left-hand side of the <span class="gui">Activities</span> overview.
@@ -93,7 +93,7 @@
     <span class="em">command name</span>, and then press the <span class="key"><kbd>Enter</kbd></span> key.</p>
 <p class="p">For example, to launch <span class="app">Rhythmbox</span>, press
     <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> and type
-    '<span class="cmd">rhythmbox</span>' (without the single-quotes). The name of the app is
+    ‘<span class="cmd">rhythmbox</span>’ (without the single-quotes). The name of the app is
     the command to launch the program.</p>
 </div></div>
 </div></div>
@@ -106,12 +106,7 @@
 <div class="region"><ul>
 <li class="links "><a href="index.html" title="Handleiding Ubuntu-desktop">Handleiding Ubuntu-desktop</a></li>
 <li class="links ">
-<a href="shell-overview.html" title="Your desktop">Your desktop</a><span class="desc"> — 
-      <span class="link"><a href="clock-calendar.html" title="Calendar appointments">Calendar</a></span>,
-      <span class="link"><a href="shell-notifications.html" title="Notifications and the message tray">notifications</a></span>,
-      <span class="link"><a href="shell-keyboard-shortcuts.html" title="Useful keyboard shortcuts">keyboard shortcuts</a></span>,
-      <span class="link"><a href="shell-windows.html" title="Vensters en werkbladen">windows and workspaces</a></span>…
-    </span>
+<a href="shell-overview.html" title="Uw bureaublad">Uw bureaublad</a><span class="desc"> — <span class="link"><a href="clock-calendar.html" title="Agenda-afspraken">Agenda</a></span>, <span class="link"><a href="shell-notifications.html" title="Notifications and the message tray">meldingen</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Handige sneltoetsen">sneltoetsen</a></span>, <span class="link"><a href="shell-windows.html" title="Vensters en werkbladen">vensters en werkbladen</a></span>…</span>
 </li>
 </ul></div>
 </div></div>

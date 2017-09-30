@@ -69,10 +69,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Клавиши со стрелками</p></td>
-<td style="border-top-style: solid;">
-<p class="p">Перемещение выбора между частями одного элемента управления или группы взаимосвязанных элементов. Используйте клавиши со стрелками для выбора кнопки на панели инструментов, объектов при просмотре в режиме списка или значков, а также кнопки из группы радиокнопок.</p>
-<p class="p">При просмотре в виде дерева используйте клавиши со стрелками влево и вправо, чтобы свернуть или развернуть объекты с дочерними элементами.</p>
-</td>
+<td style="border-top-style: solid;"><p class="p">Перемещение выбора между частями одного элемента управления или группы взаимосвязанных элементов. Используйте клавиши со стрелками для выбора кнопки на панели инструментов, объектов при просмотре в режиме списка или значков, а также кнопки из группы радиокнопок.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+клавиши со стрелками</span></p></td>
@@ -81,6 +78,10 @@
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+клавиши со стрелками</span></p></td>
 <td style="border-top-style: solid;"><p class="p">В режиме списка или значков — выделение группы объектов, начиная с текущего выделенного объекта, и заканчивая вновь выбранным объектом.</p></td>
+<td style="border-top-style: solid;"><p class="p">In a tree view, items that have children can be expanded or collapsed,
+    to show or hide their children: expand by pressing
+    <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>→</kbd></span></span>, and collapse by
+    pressing <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>←</kbd></span></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Пробел</kbd></span></p></td>
@@ -226,7 +227,7 @@
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard.html" title="Клавиатура">Клавиатура</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Раскладки клавиатуры</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Как сделать клавиатурный курсор мигающим?">мигание курсора</a></span>, <span class="link"><a href="a11y.html#mobility" title="Ограничения подвижности">специальные возможности клавиатуры</a></span>…</span>
+<a href="keyboard.html" title="Клавиатура">Клавиатура</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Использование альтернативных раскладок клавиатуры">Раскладки клавиатуры</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Как сделать клавиатурный курсор мигающим?">мигание курсора</a></span>, <span class="link"><a href="a11y.html#mobility" title="Ограничения подвижности">специальные возможности клавиатуры</a></span>…</span>
 </li>
 <li class="links "><a href="a11y.html#mobility" title="Ограничения подвижности">Ограничения подвижности</a></li>
 </ul></div>

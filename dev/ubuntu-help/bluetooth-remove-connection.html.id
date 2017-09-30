@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Disconnect a Bluetooth device</title>
+<title>Putuskan sebuah perangkat Bluetooth</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,20 +46,15 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Disconnect a Bluetooth device</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Putuskan sebuah perangkat Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you do not want to be connected to a Bluetooth device anymore, you can
-  remove the connection. This is useful if you no longer want to use a device
-  like a mouse or headset, or if you no longer wish to transfer files to or
-  from a device.</p>
+<p class="p">Bila Anda tak ingin tersambung ke suatu perangkat Bluetooth lagi, Anda dapat menghapus koneksi. Ini berguna bila Anda tak ingin memakai lagi suatu perangkat seperti tetikus atau headset, atau Anda tak ingin lagi mentransfer berkas ke atau dari suatu perangkat.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Klik ikon Bluetooth pada <span class="gui">bilah menu</span> dan pilih <span class="gui">Pengaturan Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Pilih <span class="gui">Pengaturan Bluetooth</span> untuk membuka panel.</p></li>
-<li class="steps"><p class="p">Select the device which you want to disconnect from the list.</p></li>
-<li class="steps"><p class="p">In the device dialog box, switch <span class="gui">Connection</span> to
-      <span class="gui">OFF</span>, or to remove the device from the <span class="gui">Devices</span> list,
-      click <span class="gui">Remove Device</span>.</p></li>
+<li class="steps"><p class="p">Pilih perangkat yang ingin Anda putus dari daftar.</p></li>
+<li class="steps"><p class="p">Dalam kotak dialog perangkat, ubah <span class="gui">Koneksi</span> ke <span class="gui">MATI</span>, atau untuk menghapus perangkat dari daftar <span class="gui">Perangkat</span>, klik <span class="gui">Hapus Perangkat</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Anda dapat <span class="link"><a href="bluetooth-connect-device.html" title="Hubungkan komputer Anda ke perangkat Bluetooth">menyambung kembali perangkat Bluetooth</a></span> nanti bila diinginkan.</p>
 </div>

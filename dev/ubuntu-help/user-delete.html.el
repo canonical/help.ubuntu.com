@@ -49,14 +49,21 @@
 <div class="hgroup"><h1 class="title"><span class="title">Διαγραφή λογαριασμού χρήστη</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Μπορείτε <span class="link"><a href="user-add.html" title="Προσθήκη νέου λογαριασμού χρήστη">να προσθέσετε πολλαπλούς λογαριασμούς χρηστή στον υπολογιστή σας</a></span>. Εάν κάποιος δεν χρησιμοποιεί πια τον υπολογιστή σας, μπορείτε να διαγράψετε αυτόν τον λογαριασμό του χρήστη.</p>
+<p class="p">You can <span class="link"><a href="user-add.html" title="Προσθήκη νέου λογαριασμού χρήστη">add multiple user accounts to your
+  computer</a></span>. If somebody is no longer using your computer, you can delete
+  that user’s account.</p>
 <p class="p">Χρειάζεστε <span class="link"><a href="user-admin-explain.html" title="Πώς δουλεύουν τα δικαιώματα διαχειριστή;">δικαιώματα διαχειριστή</a></span> για να διαγράψετε τους λογαριασμούς χρήστη.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Χρήστες</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Χρήστες</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps"><p class="p">Πατήστε στο <span class="gui">Ξεκλείδωμα</span> στην πάνω δεξιά γωνία και πληκτρολογήστε τον κωδικό πρόσβασής σας όταν σας ζητηθεί.</p></li>
 <li class="steps"><p class="p">Επιλέξτε τον χρήστη που θέλετε να διαγράψετε και πατήστε το κουμπί <span class="gui">-</span>, κάτω από τον κατάλογο λογαριασμών στα αριστερά, για να διαγράψετε αυτόν τον λογαριασμό χρήστη.</p></li>
-<li class="steps"><p class="p">Κάθε χρήστης έχει τον δικό του προσωπικό φάκελο για τα αρχεία και τις ρυθμίσεις του. Μπορείτε να επιλέξετε να κρατήσετε ή να διαγράψετε τον προσωπικό φάκελο του χρήστη. Κάντε κλικ στο <span class="gui">Διαγραφή αρχείων</span>, εάν είσαστε σίγουρος ότι δεν θα χρησιμοποιηθούν πια και χρειάζεται να ελευθερώσετε τον χώρο στο δίσκο. Αυτά τα αρχεία διαγράφονται μόνιμα και δεν μπορούν να ανακτηθούν. Μπορεί να θελήσετε να δημιουργήσετε αντίγραφα ασφαλείας στα αρχεία σε έναν εξωτερικό δίσκο ή CD πριν τα διαγράψετε.</p></li>
+<li class="steps"><p class="p">Each user has their own home folder for their files and settings. You
+      can choose to keep or delete the user’s home folder. Click <span class="gui">Delete
+      Files</span> if you are sure they will not be used anymore and you need to
+      free up disk space. These files are permanently deleted. They cannot be
+      recovered. You may want to back up the files to an external storage device
+      before deleting them.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">

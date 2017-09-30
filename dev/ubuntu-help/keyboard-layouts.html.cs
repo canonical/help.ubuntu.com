@@ -2,7 +2,7 @@
 <html lang=cs>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Use alternative keyboard layouts</title>
+<title>Použití alternativního rozložení klávesnice</title>
 <link rel="stylesheet" type="text/css" href="cs.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -56,7 +56,7 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Use alternative keyboard layouts</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Použití alternativního rozložení klávesnice</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Pro klávesnice existují stovky rozložení pro různé jazyky. Dokonce i pro jednotlivé jazyky existují různá rozložení klávesnice jako například ergonomické rozložení Dvorak. U své klávesnice si můžete nastavit jakékoli rozložení, bez ohledu na to, jaké symboly máte na klávesách. Hodí se to především pokud často přepínáte mezi různými jazyky.</p>
@@ -68,6 +68,13 @@
       select the language which is associated with the layout, then select a
       layout and press <span class="gui">Add</span>.</p></li>
 </ol></div></div></div>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Some rarely used keyboard layout variants are not available by default when you click
+    the <span class="gui">+</span> button. To make also those input sources available you can open a terminal
+    window by pressing <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span>
+    and run this command:</p>
+<p class="p"><span class="cmd">gsettings set org.gnome.desktop.input-sources show-all-sources true</span></p>
+</div></div></div></div>
 <div class="note note-sidebar" title="Postranní"><div class="inner"><div class="region"><div class="contents"><p class="p">You can preview an image of any layout by selecting it in the list of
     <span class="gui">Input Sources</span> and clicking
     <span class="gui"><span class="media"><span class="media media-image"><img src="figures/input-keyboard-symbolic.png" height="16" width="16" class="media media-inline" alt="preview"></span></span></span></p></div></div></div></div>
@@ -80,7 +87,7 @@
   to the extra settings.</p>
 <p class="p">When you use multiple layouts, you can choose to have all windows use the
   same layout or to set a different layout for each window. Using a different
-  layout for each window is useful, for example, if you're writing an article
+  layout for each window is useful, for example, if you’re writing an article
   in another language in a word processor window. Your keyboard selection will
   be remembered for each window as you switch between windows. Press the
   <span class="gui">Options</span> button to select how you want to manage
@@ -108,13 +115,13 @@
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard.html" title="Klávesnice">Klávesnice</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Rozložení klávesnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Nastavení blikání textového kurzoru">blikání kurzoru</a></span>, <span class="link"><a href="a11y.html#mobility" title="Pohybová postižení">zpřístupnění klávesnice</a></span>…</span>
+<a href="keyboard.html" title="Klávesnice">Klávesnice</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Použití alternativního rozložení klávesnice">Rozložení klávesnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Nastavení blikání textového kurzoru">blikání kurzoru</a></span>, <span class="link"><a href="a11y.html#mobility" title="Pohybová postižení">zpřístupnění klávesnice</a></span>…</span>
 </li>
 <li class="links ">
 <a href="keyboard-shortcuts-set.html" title="Nastavení klávesových zkratek">Nastavení klávesových zkratek</a><span class="desc"> — Jak definovat nebo změnit klávesové zkratky v nastavení <span class="gui">Klávesnice</span>.</span>
 </li>
 <li class="links ">
-<a href="prefs-language.html" title="Region a jazyk">Region a jazyk</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Změna jazyka, který používáte">Jazyk</a></span>, <span class="link"><a href="session-formats.html" title="Změna formátů data a měrných jednotek">region a formáty</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">rozložení klávesnice</a></span>…</span>
+<a href="prefs-language.html" title="Region a jazyk">Region a jazyk</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Změna jazyka, který používáte">Jazyk</a></span>, <span class="link"><a href="session-formats.html" title="Změna formátů data a měrných jednotek">region a formáty</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Použití alternativního rozložení klávesnice">rozložení klávesnice</a></span>…</span>
 </li>
 </ul></div>
 </div></div>

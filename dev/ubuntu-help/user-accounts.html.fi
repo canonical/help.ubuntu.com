@@ -58,10 +58,9 @@
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="user-add.html" title="Lisää uusi käyttäjätili"><span class="title">Lisää uusi käyttäjätili</span><span class="linkdiv-dash"> — </span><span class="desc">Lisää uusia käyttäjiä, jotta myös muut ihmiset voivat käyttää tietokonetta.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="user-autologin.html" title="Kirjaudu automaattisesti"><span class="title">Kirjaudu automaattisesti</span><span class="linkdiv-dash"> — </span><span class="desc">Ota automaattinen kirjautuminen käyttöön, kun käynnistät koneen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-delete.html" title="Poista käyttäjätili"><span class="title">Poista käyttäjätili</span><span class="linkdiv-dash"> — </span><span class="desc">Poista tarpeettomat käyttäjät.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-guest-session.html" title="Rajoitettu vierasistunto"><span class="title">Rajoitettu vierasistunto</span><span class="linkdiv-dash"> — </span><span class="desc">Lainaa tietokonetta ystävällesi tai työtoverillesi huolettomasti.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-delete.html" title="Poista käyttäjätili"><span class="title">Poista käyttäjätili</span><span class="linkdiv-dash"> — </span><span class="desc">Poista tarpeettomat käyttäjät.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="user-changepicture.html" title="Vaihda sisäänkirjautumisruudussa käytettävä kuva"><span class="title">Vaihda sisäänkirjautumisruudussa käytettävä kuva</span><span class="linkdiv-dash"> — </span><span class="desc">Lisää kuvasi sisäänkirjautumis- ja käyttäjänvaihtonäkymään.</span></a></div>
 </div>
 </div></div></div></div></div>

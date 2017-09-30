@@ -2,9 +2,7 @@
 <html lang=de>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>
-    Install additional applications
-  </title>
+<title>Zusätzliche Anwendungen installieren</title>
 <link rel="stylesheet" type="text/css" href="de.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -48,18 +46,10 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Install &amp; remove software">Software hinzufügen/entfernen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">
-    Install additional applications
-  </span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Zusätzliche Anwendungen installieren</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    An application is software that has a graphical user interface (GUI).
-    The Ubuntu development team has chosen a default set of applications that we 
-    think makes Ubuntu very useful for most day-to-day tasks. However, you will 
-    certainly want to install more applications to make Ubuntu more useful to you.
-    To install an application, you can use <span class="app">Ubuntu Software</span>.
-   </p>
+<p class="p">Eine Anwendung ist Software mit einer grafischen Benutzungsoberfläche (GUI). Das Ubuntu-Entwicklungsteam hat eine Vorauswahl von Anwendungen getroffen, von denen es glaubt, dass sie Ubuntu sehr praktisch für die meisten täglichen Aufgaben machen. Vermutlich werden Sie weitere Anwendungen installieren wollen, um Ubuntu an Ihre Bedürfnisse anzupassen. Zur Installation von Programmen können Sie <span class="app">Ubuntu Software</span> verwenden.</p>
 <p class="p">
     Applications are available in two formats: snap packages and Debian packages.
     An application available as a snap package is from now on referred to as a <span class="em">snap</span>.
@@ -72,11 +62,12 @@
     such software, you can use <span class="link"><a href="addremove-install-synaptic.html" title="Synaptic zur erweiterten Anwendungsverwaltung nutzen">Synaptic</a></span>.
     Note that <span class="app">Synaptic</span> does not list snaps.
   </p>
-<p class="p">
-    To install an application:
-  </p>
+<p class="p">Zur Installation einer Anwendung:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Klicken Sie auf das <span class="app">Ubuntu Software</span> Symbol im <span class="gui">Launcher</span>, oder tippen Sie <span class="input">Software</span> in das Suchfeld der <span class="gui">Dash</span>.</p></li>
+<li class="steps"><p class="p">
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">Sobald <span class="app">Ubuntu Software</span> gestartet ist, suchen Sie nach einer Anwendung, wählen Sie eine Kategorie oder eine Anwendung aus der Liste.</p></li>
 <li class="steps"><p class="p">
         Select the application that you want to install and click 
@@ -101,9 +92,9 @@
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="addremove.html" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html" title="Install additional applications">Install applications</a></span>,
+      <span class="link"><a href="addremove-install.html" title="Zusätzliche Anwendungen installieren">Install applications</a></span>,
       <span class="link"><a href="addremove-remove.html" title="Eine Anwendung entfernen">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html" title="Add software repositories">add repositories</a></span>…
+      <span class="link"><a href="addremove-sources.html" title="Paketquellen hinzufügen">add repositories</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -111,9 +102,7 @@
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-remove.html" title="Eine Anwendung entfernen">Eine Anwendung entfernen</a><span class="desc"> — 
-      Remove applications that you no longer use.
-    </span>
+<a href="addremove-remove.html" title="Eine Anwendung entfernen">Eine Anwendung entfernen</a><span class="desc"> — Ungenutzte Anwendungen entfernen</span>
 </li>
 <li class="links ">
 <a href="prefs-language-install.html" title="Sprachen installieren">Sprachen installieren</a><span class="desc"> — Installieren von weiteren Übersetzungen und damit zusammenhängenden Paketen.</span>

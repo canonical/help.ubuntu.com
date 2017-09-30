@@ -80,7 +80,9 @@
 </div></div>
 </div></div>
 <p class="p">拖动<span class="gui">可接受延迟</span>滑块，设定按住多长时间才能输入一个按键。</p>
-<p class="p">您可以对计算机进行设置，使其在键被按下、按键被接受或由于键因未按下足够长时间而被拒绝时发出声音提示。</p>
+<p class="p">You can have your computer make a sound when you press a key, when a key
+  press is accepted, or when a key press is rejected because you didn’t hold
+  the key down long enough.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

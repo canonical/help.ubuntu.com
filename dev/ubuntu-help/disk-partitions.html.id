@@ -60,7 +60,8 @@
 <div id="manage" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Lihat dan kelola volume dan partisi memakai utilitas disk</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Anda dapat memeriksa dan mengubah volume penyimpanan komputer Anda dengan utilitas diska.</p>
+<p class="p">You can check and modify your computer’s storage volumes with the disk
+ utility.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui">Activities</span> overview and start <span class="app">Disks</span>.</p></li>
 <li class="steps"><p class="p">In the list of storage devices on the left, you will find hard disks,

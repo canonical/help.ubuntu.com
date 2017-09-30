@@ -55,7 +55,8 @@
 <div id="manage" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Προβολή και διαχείριση τόμων και κατατμήσεων χρησιμοποιώντας το εργαλείο δίσκου</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Μπορείτε να ελέγξετε και να τροποποιήσετε τους τόμους αποθήκευσης του υπολογιστή με το εργαλείο δίσκου.</p>
+<p class="p">You can check and modify your computer’s storage volumes with the disk
+ utility.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui">Δραστηριότητες</span> και ξεκινήστε την εφαρμογή <span class="app">Δίσκοι</span>.</p></li>
 <li class="steps"><p class="p">Στην λίστα συσκευών αποθήκευσης στα αριστερά σας, θα βρείτε σκληρούς δίσκους, δίσκους CD/DVD και άλλες φυσικές συσκευές. Πατήστε τη συσκευή που θέλετε να επιθεωρήσετε.</p></li>

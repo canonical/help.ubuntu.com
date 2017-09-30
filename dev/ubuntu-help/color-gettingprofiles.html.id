@@ -55,7 +55,13 @@
 <div class="contents">
 <p class="p">Cara terbaik untuk mendapat profil adalah menjangkitkannya sendiri, walaupun ini memerlukan sedikit modal awal.</p>
 <p class="p">Banyak pabrikan mencoba menyediakan profil warna bagi perangkat, walaupun kadang mereka dibungkus dalam <span class="em">bundel driver</span> yang mungkin perlu Anda unduh, ekstrak, lalu cari profil warnanya.</p>
-<p class="p">Beberapa pabrikan tak menyediakan profil yang akurat bagi perangkat keras dan profil tersebut sebaiknya dihindari. Petunjuk yang baik adalah dengan mengunduh profil, dan bila tanggal pembuatan lebih dari setahun sebelum tanggal Anda membeli perangkat maka boleh jadi itu adalah data dummy yang dijangkitkan dan tak berguna.</p>
+<p class="p">
+    Some manufacturers do not provide accurate profiles for the hardware
+    and the profiles are best avoided.
+    A good clue is to download the profile, and if the creation date is
+    more than a year before the date you bought the device then it’s
+    likely dummy data generated that is useless.
+  </p>
 <p class="p">Lihat <span class="link"><a href="color-why-calibrate.html" title="Mengapa saya perlu melakukan kalibrasi sendiri?">Mengapa saya perlu melakukan kalibrasi sendiri?</a></span> untuk informasi mengapa profil yang disediakan vendor sering kali lebih buruk daripada tak berguna.</p>
 </div>
 <div class="sect sect-links" role="navigation">

@@ -51,8 +51,11 @@
 <div class="contents">
 <p class="p">När du installerar Ubuntu kommer språket du valde för installationen installeras, tillsammans med engelska, men du kan lägga till andra språk.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the <span class="em">system menu</span> and select <span class="gui">System Settings</span>.</p></li>
-<li class="steps"><p class="p">I avdelningen Personligt, klicka på <span class="gui">Språkstöd</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Activities</a></span> overview and
+      start typing <span class="gui">Region &amp; Language</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Manage Installed Languages</span> button to open <span class="gui">Language
+      Support</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Installera / Ta bort språk...</span>. Fönstret <span class="gui">Installerade språk</span> visar en lista över alla tillgängliga språk, med de i nuläget installerade språken förbockade.</p></li>
 <li class="steps"><p class="p">Bocka för de språk du vill installera, och avbocka de nu installerade språk som du vill ta bort.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Verkställ ändringar</span>.</p></li>

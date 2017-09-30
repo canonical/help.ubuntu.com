@@ -81,14 +81,17 @@
 <div class="region"><div class="contents">
 <p class="p">Eine Compose-Taste ist eine spezielle Taste, die Ihnen das Drücken mehrerer Tasten auf einmal ermöglicht, um ein spezielles Zeichen zu erzeugen. Um beispielsweise den akzentuierten Buchstaben <span class="em">é</span> einzugeben, drücken Sie die <span class="key"><kbd>Compose-Taste</kbd></span>, dann <span class="key"><kbd>'</kbd></span> und dann <span class="key"><kbd>e</kbd></span>.</p>
 <p class="p">Tastaturen haben keine festen Compose-Tasten. Stattdessen können Sie eine der vorhandenen Tasten Ihrer Tastatur als Compose-Taste festlegen.</p>
+<div class="note note-important" title="Wichtig"><div class="inner"><div class="region"><div class="contents"><p class="p">Das <span class="app">Optimierungswerkzeug</span> muss auf Ihrem Rechner installiert sein, um diese Einstellung ändern zu können.</p></div></div></div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Eine Compose-Taste festlegen</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Tastatur</span> ein.</p></li>
-<li class="steps"><p class="p">Klicken Sie auf <span class="gui">Tastatur</span>, um das Panel zu öffnen.</p></li>
-<li class="steps"><p class="p">Wählen Sie <span class="gui">Tastaturkürzel</span> und klicken Sie auf <span class="gui">Texteingabe</span>.</p></li>
-<li class="steps"><p class="p">Klicken Sie auf <span class="gui">Compose-Taste</span> im rechten Teilfenster.</p></li>
-<li class="steps"><p class="p">Klicken Sie auf <span class="gui">Deaktiviert</span> und wählen Sie die Taste oder die Tasten aus, die Sie als Compose-Taste verwenden wollen. Sie können Tasten wie eine der <span class="key"><kbd>Strg</kbd></span>-Tasten, die rechte <span class="key"><kbd>Alt</kbd></span>-Taste, die rechte <span class="key"><kbd>Windows</kbd></span>- oder <span class="key"><kbd><span class="link"><a href="keyboard-key-super.html" title="Was ist die Super-Taste?">Super</a></span></kbd></span>-Taste verwenden, falls vorhanden, die <span class="key"><kbd><span class="link"><a href="keyboard-key-menu.html" title="Was ist die Menü-Taste?">Menü</a></span></kbd></span>-Taste, oder die <span class="key"><kbd>Feststelltaste</kbd></span>. Allerdings werden dann alle von Ihnen ausgewählten Tasten nur noch als Compose-Tasten verwendbar sein und nicht mehr für ihren eigentlichen Zweck.</p></li>
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Optimierungswerkzeug</span> ein.</p></li>
+<li class="steps"><p class="p">Klicken Sie auf <span class="gui">Optimierungswerkzeug</span>, um die Anwendung zu öffnen.</p></li>
+<li class="steps"><p class="p">Klicken Sie auf den Reiter <span class="gui">Tastatur und Maus</span>.</p></li>
+<li class="steps"><p class="p">Klicken Sie auf <span class="gui">Deaktiviert</span> im Abschnitt <span class="gui">Compose-Taste</span>.</p></li>
+<li class="steps"><p class="p">Aktivieren Sie den Schalter im Dialog und suchen Sie die gewünschte Tastenkombination, die Sie verwenden wollen.</p></li>
+<li class="steps"><p class="p">Aktivieren Sie das Ankreuzfeld an der Taste, die Sie als Compose-Taste verwenden wollen.</p></li>
+<li class="steps"><p class="p">Schließen Sie das Fenster <span class="gui">Optimierungswerkzeug</span>.</p></li>
 </ol></div>
 </div></div>
 <p class="p">Sie können viele häufig vorkommende Zeichen mit der Compose-Taste eingeben, zum Beispiel:</p>

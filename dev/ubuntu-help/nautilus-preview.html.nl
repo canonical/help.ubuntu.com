@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>File manager preview preferences</title>
+<title>Voorkeuren voor voorbeelden in bestandsbeheer</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,10 +43,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » <a class="trail" href="nautilus-prefs.html" title="File manager preferences">File manager preferences</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a> » <a class="trail" href="nautilus-prefs.html" title="Bestandsbeheer-voorkeuren">Bestandsbeheer-voorkeuren</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">File manager preview preferences</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Voorkeuren voor voorbeelden in bestandsbeheer</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">The file manager creates thumbnails to preview image, video, and text
@@ -54,25 +54,13 @@ files. Thumbnail previews can be slow for large files or over networks, so
 you can control when previews are made. Click <span class="gui">Files</span> in the top bar,
 pick <span class="gui">Preferences</span> and select the <span class="gui">Preview</span> tab.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Files</span></dt>
+<dt class="terms"><span class="gui">Bestanden</span></dt>
 <dd class="terms">
-<p class="p">By default, all previews are done for <span class="gui">Local Files Only</span>, those
-    on your computer or connected external drives. You can set this feature to
-    <span class="gui">Always</span> or <span class="gui">Never</span>. The file manager can
-    <span class="link"><a href="nautilus-connect.html" title="Browse files on a server or network share">browse files on other computers</a></span> over
-    a local area network or the internet. If you often browse files over a local
-    area network, and the network has high bandwidth, you may want to set the
-    preview option to <span class="gui">Always</span>.</p>
-<p class="p">In addition, you can use the <span class="gui">Only for files smaller than</span>
-    setting to limit the size of files previewed.</p>
+<p class="p">Standaard worden voorbeelden <span class="gui">alleen voor lokale bestanden</span> gebruikt, de bestanden op uw computer of op aangekoppelde externe apparaten. U kan deze functie op <span class="gui">Altijd</span> of <span class="gui">Nooit</span> instellen. De bestandsbeheerder kan via een lokaal netwerk of het internet <span class="link"><a href="nautilus-connect.html" title="Door bestanden op een server of netwerk bladeren">door bestanden op andere computers bladeren</a></span> . Als u regelmatig door bestanden op een lokaal netwerk bladert, en als het netwerk een hoge bandbreedte heeft, dan zou u de optie voor voorbeelden op <span class="gui">Altijd</span> kunnen instellen.</p>
+<p class="p">Daarnaast kunt u de instelling <span class="gui">Alleen voor bestanden kleiner dan</span> gebruiken om de grootte van de bestanden te beperken waarvan miniaturen worden weergeven.</p>
 </dd>
-<dt class="terms"><span class="gui">Folders</span></dt>
-<dd class="terms"><p class="p">If you show file sizes in <span class="link"><a href="nautilus-list.html" title="Files list columns preferences">list view columns</a></span>
-    or <span class="link"><a href="nautilus-display.html#icon-captions" title="Icon captions">icon captions</a></span>, folders will
-    be shown with a count of how many files and folders they contain. Counting items
-    in a folder can be slow, especially for very large folders, or over a network.
-    You can turn this feature on or off, or turn it on only for files on your
-    computer and local external drives.</p></dd>
+<dt class="terms"><span class="gui">Mappen</span></dt>
+<dd class="terms"><p class="p">Als u de bestandsgrootte toont in een <span class="link"><a href="nautilus-list.html" title="Files list columns preferences">kolom in de lijstweergave</a></span> of <span class="link"><a href="nautilus-display.html#icon-captions" title="Pictogrambijschriften">pictogrambijschrift</a></span>, dan zal bij mappen getoond worden hoeveel bestanden en mappen ze hebben. Het tellen van items in een map kan traag zijn, vooral voor hele grote mappen, of in een netwerk. U kunt deze functie in- of uitschakelen, of dit inschakelen alleen voor bestanden op uw computer en lokale externe schijven.</p></dd>
 </dl></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -81,14 +69,13 @@ pick <span class="gui">Preferences</span> and select the <span class="gui">Previ
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="File manager preferences">File manager preferences</a><span class="desc"> — View and set preferences for the file browser.</span>
+<a href="nautilus-prefs.html" title="Bestandsbeheer-voorkeuren">Bestandsbeheer-voorkeuren</a><span class="desc"> — Voorkeuren voor de bestandsbeheerder bekijken en instellen.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-preview.html" title="Preview files and folders">Preview files and folders</a><span class="desc"> — Quickly show and hide previews for documents, images, videos, and
-    more.</span>
+<a href="files-preview.html" title="Voorbeeldweergave voor bestanden en mappen">Voorbeeldweergave voor bestanden en mappen</a><span class="desc"> — Voorbeeldweergaven voor documenten, afbeeldingen, videos en meer snel weergeven of verbergen.</span>
 </li></ul></div>
 </div></div>
 </div>

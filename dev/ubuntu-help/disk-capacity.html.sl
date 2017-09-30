@@ -74,7 +74,9 @@
 <p class="p">Da bi preverili količino prostora na disku, ki je na voljo in velikost diska s programom <span class="app">Nadzornik sistema</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Odprite program <span class="app">Nadzornik sistema</span> iz pregleda <span class="gui">Dejavnosti</span>.</p></li>
-<li class="steps"><p class="p">Izberite zavihek <span class="gui">Datotečni sistemi</span> za ogled razdelkov sistema in porabo diska. Podatki so prikazani v <span class="gui">Skupaj</span>, <span class="gui">Razpoložljivo</span>, <span class="gui">Na voljo</span> in <span class="gui">Uporabljeno</span>.</p></li>
+<li class="steps"><p class="p">Select the <span class="gui">File Systems</span> tab to view the system’s partitions and
+  disk space usage.  The information is displayed according to <span class="gui">Total</span>,
+  <span class="gui">Free</span>, <span class="gui">Available</span> and <span class="gui">Used</span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -83,8 +85,9 @@
 <div class="region"><div class="contents">
 <p class="p">V primeru da je disk prepoln:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Izbrišite datoteke, ki niso pomembne ali jih ne boste več uporabljali.</p></li>
-<li class="list"><p class="p">Naredite <span class="link"><a href="backup-why.html" title="Ustvarjanje varnostne kopije pomembnih datotek">varnostne kopije</a></span> pomembnih datotek, ki jih nekaj časa ne boste potrebovali, ter jih izbrišite s trdega diska.</p></li>
+<li class="list"><p class="p">Delete files that aren’t important or that you won’t use anymore.</p></li>
+<li class="list"><p class="p">Make <span class="link"><a href="backup-why.html" title="Ustvarjanje varnostne kopije pomembnih datotek">backups</a></span> of the important files that
+   you won’t need for a while and delete them from the hard drive.</p></li>
 </ul></div></div></div>
 </div></div>
 </div></div>

@@ -2,7 +2,7 @@
 <html lang=ru>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Настройка режима слежения для планшета Wacom</title>
+<title>Set the Wacom tablet’s tracking mode</title>
 <link rel="stylesheet" type="text/css" href="ru.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,7 +46,7 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="wacom.html" title="Графический планшет Wacom">Графический планшет Wacom</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Настройка режима слежения для планшета Wacom</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Set the Wacom tablet’s tracking mode</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p"><span class="gui">Режим слежения</span> определяет, как курсор отображается на экране.</p>
@@ -55,14 +55,16 @@
     start typing <span class="gui">Wacom Tablet</span>.</p></li>
 <li class="steps">
 <p class="p">Нажмите <span class="gui">Планшет Wacom</span>, чтобы открыть этот раздел настроек.</p>
-<div class="note note-tip" title="Подсказка"><div class="inner"><div class="region"><div class="contents"><p class="p">Если планшет не обнаружен, вы увидите сообщение <span class="gui">Подключите или включите планшет Wacom</span>. Нажмите <span class="gui">Настройки Bluetooth</span> чтобы подключить беспроводной планшет.</p></div></div></div></div>
+<div class="note note-tip" title="Подсказка"><div class="inner"><div class="region"><div class="contents"><p class="p">If no tablet is detected, you’ll be asked to
+    <span class="gui">Please plug in or turn on your Wacom tablet</span>. Click the
+    <span class="gui">Bluetooth Settings</span> link to connect a wireless tablet.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Рядом с полем <span class="gui">Режим слежения</span> выберите <span class="gui">Планшет (абсолютный)</span> или <span class="gui">Сенсорная панель (относительный)</span>.</p></li>
 </ol></div></div></div>
 <div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents">
 <p class="p">В <span class="em">абсолютном</span> режиме каждая точка на планшете соответствует точке на экране. Например, левый верхний угол экрана всегда соответствует тому же углу планшета.</p>
 <p class="p">In <span class="em">relative</span> mode, if you lift the pointer off the tablet and put it
- down in a different position, the cursor on the screen doesn't move. This is
+ down in a different position, the cursor on the screen doesn’t move. This is
     the way a mouse operates.</p>
 </div></div></div></div>
 </div>

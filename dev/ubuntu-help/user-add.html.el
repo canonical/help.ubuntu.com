@@ -60,7 +60,9 @@
 <p class="p">Αν θέλετε ο νέος χρήστης να έχει <span class="link"><a href="user-admin-explain.html" title="Πώς δουλεύουν τα δικαιώματα διαχειριστή;">πρόσβαση διαχειριστή</a></span> στο σύστημα, επιλέξτε <span class="gui">Διαχειριστής</span> για τον τύπο του λογαριασμού.</p>
 <p class="p">Οι διαχειριστές μπορούν να κάνουν εργασίες όπως να προσθέσουν και να διαγράψουν χρήστες, να εγκαταστήσουν λογισμικό και οδηγούς και να αλλάξουν την ημερομηνία και την ώρα του συστήματος.</p>
 </li>
-<li class="steps"><p class="p">Εισάγετε το πλήρες όνομα του νέου χρήστη. Το όνομα χρήστη θα συμπληρωθεί αυτόματα με βάση το πλήρες όνομα. Αν δεν σας αρέσει το προτεινόμενο όνομα χρήστη, μπορείτε να το αλλάξετε.</p></li>
+<li class="steps"><p class="p">Enter the new user’s full name. The username will be filled in
+      automatically based on the full name. If you do not like the proposed
+      username, you can change it.</p></li>
 <li class="steps">
 <p class="p">Μπορείτε να επιλέξετε να ορίσετε έναν κωδικό πρόσβασης για τον νέο χρήστη, ή να επιτρέψετε τους ίδιους να τον ορίσουν κατά τη πρώτη σύνδεση τους.</p>
 <p class="p">Αν επιλέξετε να δημιουργήστε έναν κωδικό πρόσβασης, μπορείτε να πατήσετε το εικονίδιο <span class="gui"><span class="media"><span class="media media-image"><img src="figures/system-run-symbolic.svg" height="16" width="16" class="media media-inline" alt="δημιουργία κωδικού πρόσβασης"></span></span></span> για να δημιουργηθεί αυτόματα ένας τυχαίος κωδικός πρόσβασης.</p>
@@ -68,7 +70,10 @@
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Προσθήκη</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Αν θέλετε να αλλάξετε τον κωδικό πρόσβασης μετά τη δημιουργία του λογαριασμού, επιλέξτε τον λογαριασμό, <span class="gui">ξεκλειδώστε</span> τον το πλαίσιο και πατήστε στην τρέχουσα κατάσταση του κωδικού πρόσβασης.</p>
-<div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">Στον πίνακα <span class="gui">Χρήστες</span>, μπορείτε να κάνετε κλικ στην εικόνα δίπλα στο όνομα του χρήστη στα δεξιά για να ορίσετε μια εικόνα για τον λογαριασμό. Αυτή η εικόνα θα εμφανιστεί στο παράθυρο σύνδεσης. Το GNOME παρέχει μερικές έτοιμες φωτογραφίες που μπορείτε να χρησιμοποιήσετε, ή μπορείτε να επιλέξετε τη δικιά σας ή να πάρετε μια εικόνα με την ιστοκάμερά σας.</p></div></div></div></div>
+<div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">In the <span class="gui">Users</span> panel, you can click the image next to the
+    user’s name to the right to set an image for the account. This image will
+    be shown in the login window. GNOME provides some stock photos you can use,
+    or you can select your own or take a picture with your webcam.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

@@ -66,7 +66,13 @@
 </div></div>
 <div id="beeps" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">コンピューターがビープ音を発して電源が切れる</span></h2></div>
-<div class="region"><div class="contents"><p class="p">コンピューターの電源を入れるとビープ音が複数回鳴ったあと電源が切れてしまう (または起動に失敗する) 場合、何か問題が検出されたことを示している可能性があります。このようなビープ音は<span class="em">ビープコード</span>とも呼ばれ、ビープ音のパターンによって警告している問題の種類が異なります。ビープコードは製造元によって異なります。マザーボードのマニュアルを参照するか、修理に出す必要があります。</p></div></div>
+<div class="region"><div class="contents"><p class="p">If the computer beeps several times when you turn it on and then turns off
+  (or fails to start), it may be indicating that it has detected a problem.
+  These beeps are sometimes referred to as <span class="em">beep codes</span>, and the pattern
+  of beeps is intended to tell you what the problem with the computer is.
+  Different manufacturers use different beep codes, so you will have to consult
+  the manual for your computer’s motherboard, or take your computer in for
+  repairs.</p></div></div>
 </div></div>
 <div id="fans" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">コンピューターのファンは回っているのに画面には何も表示されません</span></h2></div>

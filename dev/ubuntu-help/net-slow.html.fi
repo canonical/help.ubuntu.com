@@ -54,7 +54,14 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
 <p class="p"><span class="em-bold em">Ruuhka-aika</span></p>
-<p class="p">Verkkoyhteyksien palveluntarjoajat asettavat yhteydet yleensä useiden eri talouksien käyttöön. Vaikka jokaisella taloudella on oma yhteys esimerkiksi puhelin- tai kaapeliverkon kautta, nämä useat eri yhteydet käyttävät kuitenkin yhteistä jakamoa. Jos kaikki saman jakamon yhteydet ovat kovassa käytössä esimerkiksi iltaisin, verkkoyhteys saattaa vaikuttaa hitaalta.</p>
+<p class="p">Internet service providers commonly setup internet connections so that
+      they are shared between several households. Even though you connect
+      separately, through your own phone line or cable connection, the
+      connection to the rest of the internet at the telephone exchange might
+      actually be shared. If this is the case and lots of your neighbors are
+      using the internet at the same time as you, you might notice a slow-down.
+      You’re most likely to experience this at times when your neighbors are
+      probably on the internet (in the evenings, for example).</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Useiden kohteiden samanaikainen lataaminen</span></p>
@@ -66,18 +73,27 @@
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Langattoman yhteyden heikko signaali</span></p>
-<p class="p">If you're connected to the internet by wireless (wifi), check the
+<p class="p">If you’re connected to the internet by wireless (wifi), check the
       network icon on the top bar to see if you have good wireless signal. If
-      not, the internet may be slow because you don't have a very strong
+      not, the internet may be slow because you don’t have a very strong
       signal.</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Hitaan mobiililaajakaistan käyttäminen</span></p>
-<p class="p">Jos käytät mobiililaajakaistayhteyttä (esimerkiksi mokkulaa tai puhelinta tietokoneen modeemina) ja huomaat sen olevan hidas, olet ehkä verkon katvealueella, eli paikassa, jossa verkon kuuluvuus ei ole hyvä. Jos näin käy, Ubuntu vaihtaa automaattisesti yhteyden nopeasta mobiililaajakaistasta yhteydestä - kuten 3G:stä - luotettavampaan mutta hitaampaan yhteyteen, kuten GPRS:ään.</p>
+<p class="p">If you have a mobile internet connection and notice that it is slow,
+      you may have moved into an area where signal reception is poor. When this
+      happens, the internet connection will automatically switch from a fast
+      “mobile broadband” connection like 3G to a more reliable, but slower,
+      connection like GPRS.</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Nettiselaimessa on ongelmia</span></p>
-<p class="p">Joissakin selaimissa voi olla teknisiä ongelmia (bugeja), jonka takia sivut latautuvat hitaasti. Tähän voi olla monia syitä: olet ehkä esimerkiksi vieraillut sivulla, joka rasittaa kohtuuttomasti selainta tai pitänyt selainta auki yhtäjaksoisesti pitkään. Kokeile sulkea kaikki selainikkunat ja avata ne sitten uudelleen, ja kokeile paraniko yhteysnopeus yhtään.</p>
+<p class="p">Sometimes web browsers encounter a problem that makes them run slow.
+      This could be for any number of reasons — you could have visited a
+      website that the browser struggled to load, or you might have had the
+      browser open for a long time, for example. Try closing all of the
+      browser’s windows and then opening the browser again to see if this makes
+      a difference.</p>
 </li>
 </ul></div></div></div>
 </div>
@@ -86,7 +102,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html" title="Yhteysongelmat">Yhteysongelmat</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Langattoman verkon vianselvitys">Langattoman yhteyden ongelmanratkaisu</a></span>, <span class="link"><a href="net-wireless-find.html" title="En näe langatonta verkkoani listalla">langattoman verkon löytäminen</a></span>…</span>
+<a href="net-problem.html" title="Yhteysongelmat">Yhteysongelmat</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Langattoman verkon vianselvitys">Langattoman yhteyden ongelmanratkaisu</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">langattoman verkon löytäminen</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -63,8 +63,15 @@
       deleted.</p></li>
 </ol></div>
 </div></div>
-<p class="p">Se il file è stato eliminato premendo <span class="keyseq"><span class="key"><kbd>Maiusc</kbd></span>+<span class="key"><kbd>Canc</kbd></span></span> o usando la riga di comando, il file viene definitivamente eliminato. I file definitivamente eliminati non possono essere ripristinati dal <span class="gui">Cestino</span>.</p>
-<p class="p">Esistono diversi strumenti che talvolta consentono di ripristinare file definitivamente eliminati. Di solito questi strumenti non sono comunque di semplice utilizzo. Se accidentalmente si elimina definitivamente un file, la cosa migliore da fare è probabilmente chiedere un consiglio su un forum di supporto su come ripristinarlo.</p>
+<p class="p">If you deleted the file by pressing <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Delete
+  </kbd></span></span>, or by using the command line, the file has been permanently
+  deleted. Files that have been permanently deleted can’t be recovered from the
+  <span class="gui">Trash</span>.</p>
+<p class="p">There are a number of recovery tools available that are sometimes able to
+  recover files that were permanently deleted. These tools are generally not
+  very easy to use, however. If you accidentally permanently deleted a file,
+  it’s probably best to ask for advice on a support forum to see if you can
+  recover it.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -80,7 +87,8 @@
 <a href="files-delete.html" title="Eliminare file e cartelle">Eliminare file e cartelle</a><span class="desc"> — Rimuovere file e cartelle non più necessarie.</span>
 </li>
 <li class="links ">
-<a href="files-lost.html" title="Trovare un file perso">Trovare un file perso</a><span class="desc"> — Suggerimenti da seguire quando non si riesce a trovare un file creato o scaricato.</span>
+<a href="files-lost.html" title="Trovare un file perso">Trovare un file perso</a><span class="desc"> — Follow these tips if you can’t find a file you created or
+    downloaded.</span>
 </li>
 </ul></div>
 </div></div>

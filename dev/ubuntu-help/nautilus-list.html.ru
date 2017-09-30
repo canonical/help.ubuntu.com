@@ -101,7 +101,7 @@
 <dd class="terms"><p class="p">Показывает MIME-тип объекта.</p></dd>
 <dt class="terms"><span class="gui">Адрес</span></dt>
 <dd class="terms"><p class="p">Путь к местоположению файла.</p></dd>
-<dt class="terms"><span class="gui">Modified – Time</span></dt>
+<dt class="terms"><span class="gui">Modified — Time</span></dt>
 <dd class="terms"><p class="p">Дата и время последнего изменения файла.</p></dd>
 <dt class="terms"><span class="gui">Последнее обращение</span></dt>
 <dd class="terms"><p class="p">Gives the date or time of the last time the file was modified.</p></dd>

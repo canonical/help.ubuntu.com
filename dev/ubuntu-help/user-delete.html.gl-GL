@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">You can <span class="link"><a href="user-add.html" title="Engadir unha nova conta de usuario">add multiple user accounts to your
   computer</a></span>. If somebody is no longer using your computer, you can delete
-  that user's account.</p>
+  that user’s account.</p>
 <p class="p">You need <span class="link"><a href="user-admin-explain.html" title="Como funcionan os privilexios administrativos?">administrator privileges</a></span>
   to delete user accounts.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
@@ -64,7 +64,7 @@
       <span class="gui">-</span> button, below the list of accounts on the
       left, to delete that user account.</p></li>
 <li class="steps"><p class="p">Each user has their own home folder for their files and settings. You
-      can choose to keep or delete the user's home folder. Click <span class="gui">Delete
+      can choose to keep or delete the user’s home folder. Click <span class="gui">Delete
       Files</span> if you are sure they will not be used anymore and you need to
       free up disk space. These files are permanently deleted. They cannot be
       recovered. You may want to back up the files to an external storage device

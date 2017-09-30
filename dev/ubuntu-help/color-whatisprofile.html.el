@@ -56,7 +56,13 @@
 <p class="p">Ένα χρωματικό προφίλ είναι ένα σύνολο δεδομένων που χαρακτηρίζει ή μια συσκευή όπως έναν προβολέα ή έναν χρωματικό χώρο όπως sRGB.</p>
 <p class="p">Τα περισσότερα χρωματικά προφίλ είναι στη μορφή ενός προφίλ ICC, που είναι ένα μικρό αρχείο με μια επέκταση αρχείου <span class="input">.ICC</span> ή <span class="input">.ICM</span>.</p>
 <p class="p">Τα χρωματικά προφίλ μπορούν να ενσωματωθούν σε εικόνες για να ορίσουν το εύρος του φάσματος των δεδομένων. Αυτό διασφαλίζει ότι οι χρήστες βλέπουν τα ίδια χρώματα σε διαφορετικές συσκευές.</p>
-<p class="p">Κάθε συσκευή που επεξεργάζεται χρώμα πρέπει να έχει το δικό του προφίλ ICC και όταν αυτό επιτευχθεί το σύστημα λέγεται ότι έχει μια <span class="em">ροή εργασίας που διαχειρίζεται χρώμα μεταφοράς</span>. Με αυτό το είδος ροής εργασίας μπορείτε να βεβαιωθείτε ότι τα χρώματα δεν χάνονται ή δεν τροποποιούνται.</p>
+<p class="p">
+    Every device that is processing color should have its own ICC
+    profile and when this is achieved the system is said to have an
+    <span class="em">end-to-end color-managed workflow</span>.
+    With this kind of workflow you can be sure that colors are not being
+    lost or modified.
+  </p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

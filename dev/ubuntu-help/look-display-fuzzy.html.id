@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">This can happen because the display resolution that you have set it is not
 the right one for your screen.</p>
-<p class="p">To solve this, open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span>
+<p class="p">To solve this, open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Activities</a></span>
 overview and start typing <span class="gui">Displays</span>. Click on <span class="gui">Displays</span>
 to open the panel. Try some of the <span class="gui">Resolution</span> options and set the
 one that makes the screen look better.</p>
@@ -61,7 +61,7 @@ one that makes the screen look better.</p>
 <div class="region"><div class="contents">
 <p class="p">If you have two displays connected to the computer (for example, a normal
   monitor and a projector), the displays might have different resolutions.
-  However, the computer's graphics card can only display the screen in one
+  However, the computer’s graphics card can only display the screen in one
   resolution at a time, so at least one of the displays might look fuzzy.</p>
 <p class="p">You can set it so that the two displays have different resolutions, but
   you will not be able to display the same thing on both screens
@@ -70,8 +70,7 @@ one that makes the screen look better.</p>
   cannot show the same window on both screens at once.</p>
 <p class="p">To set up the displays so that they each have their own resolution:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas:">Activities</a></span> overview and
-      start typing <span class="gui">Displays</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Tampilan</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Tampilan</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">The displays should be listed as <span class="gui">Mirrored</span>. Select your main
       display.</p></li>

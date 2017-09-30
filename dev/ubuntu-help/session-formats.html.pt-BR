@@ -56,7 +56,7 @@
 <li class="steps"><p class="p">Clique em <span class="gui">Formatos</span>.</p></li>
 <li class="steps"><p class="p">Selecione a região que melhor corresponda com os formatos que você gostaria de usar. Se sua região e idioma não estiverem listadas, clique em <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="…"></span></span></span> logo abaixo da lista para selecionar entre todas as regiões e idiomas disponíveis.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Concluído</span> para salvar.</p></li>
-<li class="steps"><p class="p">Responda a confirmação, <span class="gui">Sua sessão precisa ser reiniciada para que as alterações tenham efeito</span> clicando em <span class="gui">Reiniciar agora</span> ou em <span class="gui">X</span> para reiniciar posteriormente.</p></li>
+<li class="steps"><p class="p">Responda a confirmação, <span class="gui">Sua sessão precisa ser reiniciada para que as alterações tenham efeito</span> clicando em <span class="gui">Reiniciar agora</span> ou em <span class="gui">×</span> para reiniciar posteriormente.</p></li>
 </ol></div></div></div>
 <p class="p">Depois de ter selecionado a região, a área à direita da lista mostra vários exemplos de como as datas e outros valores são mostrados. Apesar de não mostrado nos exemplos, sua região também controla o dia que inicia a semana nos calendários.</p>
 </div>

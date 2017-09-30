@@ -70,12 +70,8 @@
 <div class="desc"><span class="desc"><span class="link"><a href="files-search.html" title="Hledání souborů">Hledání</a></span>, <span class="link"><a href="files-delete.html" title="Mazání souborů a složek">mazání souborů</a></span>, <span class="link"><a href="files.html#backup" title="Zálohování">zálohování</a></span>, <span class="link"><a href="files.html#removable" title="Výměnná média a externí disky">výměnná média</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="addremove.html" title="Install &amp; remove software">Install &amp; remove software</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="addremove-install.html" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html" title="Odstranění aplikace">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html" title="Add software repositories">add repositories</a></span>…
-    </span></div>
+<div class="links-grid-link"><a href="addremove.html" title="Instalace a odstranění softwaru">Instalace a odstranění softwaru</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="addremove-install.html" title="Instalace dodatečných aplikací">Instalace aplikací</a></span>, <span class="link"><a href="addremove-remove.html" title="Odstranění aplikace">odstranění aplikací</a></span>, <span class="link"><a href="addremove-sources.html" title="Přidávání zdrojů softwaru">přidání zdrojů softwaru</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs.html" title="Uživatelská a systémová nastavení">Uživatelská a systémová nastavení</a></div>
@@ -95,7 +91,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="more-help.html" title="Získat další nápovědu">Získat další nápovědu</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="about-this-guide.html" title="O tomto průvodci">Tipy k používání průvodce</a></span>, <span class="link"><a href="get-involved.html" title="Pomozte vylepšit tohoto průvodce">pomoc s vylepšením průvodce</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="about-this-guide.html" title="O tomto průvodci">Tipy k používání průvodce</a></span>, <span class="link"><a href="get-involved.html" title="Pomozte vylepšit překlady">pomoc s vylepšením průvodce</a></span>…</span></div>
 </div>
 </div></div></div>
 </div></div>

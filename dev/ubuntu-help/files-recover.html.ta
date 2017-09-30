@@ -61,8 +61,15 @@
 <li class="steps"><p class="p">நீங்கள் அழித்த கோப்பு அங்கு இருந்தால், அதை சொடுக்கி <span class="gui">மீட்டமை</span> என்பதைத் தேர்ந்தெடுக்கவும். அது எந்தக் கோப்புறையில் இருந்து அழிக்கப்பட்டதோ, அதே கோப்புறைக்கு மீட்டமைக்கப்படும்.</p></li>
 </ol></div>
 </div></div>
-<p class="p">நீங்கள் <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Delete </kbd></span></span> ஐப் பயன்படுத்தி அல்லது கட்டளை வரி மூலம் கோப்பை அழித்திருந்தால், கோப்பு நிரந்தரமாக அழிக்கப்பட்டிருக்கும். நிரந்தரமாக அழிக்கப்பட்ட கோப்புகளை <span class="gui">குப்பைத் தொட்டியில்</span> இருந்து மீட்க முடியாது.</p>
-<p class="p">சில மீட்புக் கருவிகளைக் கொண்டு நிரந்தரமாக அழிக்கப்பட்ட கோப்புகளை சில சமயம் மீட்க முடியும், அப்படிப்பட்ட பல கருவிகள் கிடைக்கின்றன. இந்தக் கருவிகள், பொதுவாக பயன்படுத்த மிகவும் எளிதானவை அல்ல. நீங்கள் எதிர்பாராமல் ஒரு கோப்பை நிரந்தரமாக அழித்துவிட்டால், நீங்கள் அதை மீட்க ஆதரவு மன்றத்தில் ஆலோசனை கேட்பது சிறந்த வழி.</p>
+<p class="p">If you deleted the file by pressing <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Delete
+  </kbd></span></span>, or by using the command line, the file has been permanently
+  deleted. Files that have been permanently deleted can’t be recovered from the
+  <span class="gui">Trash</span>.</p>
+<p class="p">There are a number of recovery tools available that are sometimes able to
+  recover files that were permanently deleted. These tools are generally not
+  very easy to use, however. If you accidentally permanently deleted a file,
+  it’s probably best to ask for advice on a support forum to see if you can
+  recover it.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -75,7 +82,8 @@
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="files-lost.html" title="இழந்த கோப்பைக் கண்டுபிடித்தல்">இழந்த கோப்பைக் கண்டுபிடித்தல்</a><span class="desc"> — நீங்கள் உருவாக்கிய அல்லது பதிவிறக்கம் செய்த கோப்பைக் கண்டுபிடிக்க முடியவில்லை என்றால், இந்த உதவிக் குறிப்புகளைப் பின்பற்றவும்.</span>
+<a href="files-lost.html" title="இழந்த கோப்பைக் கண்டுபிடித்தல்">இழந்த கோப்பைக் கண்டுபிடித்தல்</a><span class="desc"> — Follow these tips if you can’t find a file you created or
+    downloaded.</span>
 </li>
 <li class="links ">
 <a href="files-delete.html" title="கோப்புகள் மற்றும் கோப்புறைகளை அழித்தல்">கோப்புகள் மற்றும் கோப்புறைகளை அழித்தல்</a><span class="desc"> — இனி தேவைப்படாத கோப்புகள் அல்லது கோப்புறைகளை நீக்குதல்.</span>

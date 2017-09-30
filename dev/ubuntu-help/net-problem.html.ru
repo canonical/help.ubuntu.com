@@ -50,13 +50,13 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-othersedit.html" title="Другие пользователи не могут изменять сетевые подключения"><span class="title">Другие пользователи не могут изменять сетевые подключения</span><span class="linkdiv-dash"> — </span><span class="desc">Надо отключить опцию <span class="gui">Доступно всем пользователям</span> в параметрах сетевого соединения.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-othersconnect.html" title="Другие пользователи не могут подключиться к Интернету"><span class="title">Другие пользователи не могут подключиться к Интернету</span><span class="linkdiv-dash"> — </span><span class="desc">Можно сохранить параметры соединения так, чтобы подключиться мог любой пользователь компьютера.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-slow.html" title="Интернет работает медленно"><span class="title">Интернет работает медленно</span><span class="linkdiv-dash"> — </span><span class="desc">Возможно, выполняется загрузка, у вас плохое соединение, или это занятое время дня.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html" title="I can’t see my wireless network in the list"><span class="title">I can’t see my wireless network in the list</span><span class="linkdiv-dash"> — </span><span class="desc">The wireless could be turned off or broken, or you may be trying to
+    connect to a hidden network.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-othersconnect.html" title="Other users can’t connect to the internet"><span class="title">Other users can’t connect to the internet</span><span class="linkdiv-dash"> — </span><span class="desc">Можно сохранить параметры соединения так, чтобы подключиться мог любой пользователь компьютера.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-othersedit.html" title="Other users can’t edit the network connections"><span class="title">Other users can’t edit the network connections</span><span class="linkdiv-dash"> — </span><span class="desc">Надо отключить опцию <span class="gui">Доступно всем пользователям</span> в параметрах сетевого соединения.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html" title="Моей беспроводной сети нет в списке"><span class="title">Моей беспроводной сети нет в списке</span><span class="linkdiv-dash"> — </span><span class="desc">The wireless could be turned off or broken, or you may be trying to
-    connect to a hidden network.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-slow.html" title="Интернет работает медленно"><span class="title">Интернет работает медленно</span><span class="linkdiv-dash"> — </span><span class="desc">Возможно, выполняется загрузка, у вас плохое соединение, или это занятое время дня.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-disconnecting.html" title="Почему беспроводное соединение постоянно прерывается?"><span class="title">Почему беспроводное соединение постоянно прерывается?</span><span class="linkdiv-dash"> — </span><span class="desc">Сигнал может быть слабым, или настройки сети не позволяют установить корректное соединение.</span></a></div>
 </div>
 </div></div></div></div>

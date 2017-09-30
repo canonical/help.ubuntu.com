@@ -53,7 +53,11 @@
 <div class="hgroup"><h1 class="title"><span class="title">Bluetooth デバイスにファイルを送る</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">接続済みの Bluetooth デバイス、たとえばモバイル機器や他のコンピューターなどにファイルを転送することができます。デバイスの種類、あるいはファイルの種類によっては、転送できないことがあります。ファイルを転送するには、トップバーの Bluetooth アイコンからファイルを送る、あるいは、Bluetooth 設定ウィンドウからファイルを送る、ファイルマネージャーから直接ファイルを送る、という三つの方法が使用できます。</p>
+<p class="p">You can send files to connected Bluetooth devices, such as some mobile
+    phones or other computers. Some types of devices don’t allow the transfer
+    of files, or specific types of files. You can send files in one of three
+    ways: using the Bluetooth icon in the menu bar, from the Bluetooth settings
+    window, or directly from the file manager.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="アクティビティ画面">Activities</a></span> overview and
       start typing <span class="gui">Bluetooth</span>.</p></li>

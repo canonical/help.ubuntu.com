@@ -69,10 +69,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Nuolinäppäimet</p></td>
-<td style="border-top-style: solid;">
-<p class="p">Siirrä valintaa säätimen kohteiden välillä, tai vastaavanlaisten säätimien ryhmän välillä. Käytä nuolinäppäimiä kohdistaaksesi esimerkiksi työkalupalkin painikkeisiin tai valitaksesi kohteita.</p>
-<p class="p">Käytä puunäkymässä vasemmalle ja oikealle osoittavia nuolinäppäimiä laajentaaksesi tai supistaaksesi kohteen alinäkymiä.</p>
-</td>
+<td style="border-top-style: solid;"><p class="p">Siirrä valintaa säätimen kohteiden välillä, tai vastaavanlaisten säätimien ryhmän välillä. Käytä nuolinäppäimiä kohdistaaksesi esimerkiksi työkalupalkin painikkeisiin tai valitaksesi kohteita.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+nuolinäppäimet</span></p></td>
@@ -81,6 +78,10 @@
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+nuolinäppäimet</span></p></td>
 <td style="border-top-style: solid;"><p class="p">Valitse kaikki kohteet nykyisestä valitusta kohteesta uuteen kohdistettuun kohteeseen asti. Toimii vain luettelo- ja kuvakenäkymässä.</p></td>
+<td style="border-top-style: solid;"><p class="p">In a tree view, items that have children can be expanded or collapsed,
+    to show or hide their children: expand by pressing
+    <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>→</kbd></span></span>, and collapse by
+    pressing <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>←</kbd></span></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Välilyönti</kbd></span></p></td>
@@ -104,7 +105,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Mikä on Super-näppäin?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Open the application menu on the top bar.</p></td>
+<td style="border-top-style: solid;"><p class="p">Avaa sovellusvalikko yläpalkista.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> or
@@ -173,7 +174,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Esc</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Cycle through all open windows on a workspace.</p></td>
+<td style="border-top-style: solid;"><p class="p">Vaihda kaikkien työtilassa avoinna olevien ikkunoiden välillä.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span></p></td>
@@ -212,11 +213,11 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Move the current window one monitor to the left.</p></td>
+<td style="border-top-style: solid;"><p class="p">Siirrä nykyinen ikkuna yhden näytön verran vasemmalle.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>→</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Move the current window one monitor to the right.</p></td>
+<td style="border-top-style: solid;"><p class="p">Siirrä nykyinen ikkuna yhden näytön verran oikealle.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> tai <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↑</kbd></span></span></p></td>

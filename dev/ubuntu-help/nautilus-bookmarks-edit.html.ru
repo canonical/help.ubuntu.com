@@ -70,7 +70,12 @@
       <span class="gui">Rename…</span>.</p></li>
 <li class="steps">
 <p class="p">Наберите новое названия закладки в текстовом поле <span class="gui">Названия</span>.</p>
-<div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents"><p class="p">При переименовании закладки папка не переименовывается. Если создать две закладки на две разные папки с одинаковыми именами, названия закладок тоже будут одинаковыми и их нельзя будет отличить. В таком случае полезно дать одной из закладок название, отличающееся от имени папки, на которую она указывает.</p></div></div></div></div>
+<div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents"><p class="p">Renaming a bookmark does not rename the folder. If you have
+        bookmarks to two different folders in two different locations, but
+        which each have the same name, the bookmarks will have the same name,
+        and you won’t be able to tell them apart. In these cases, it is useful
+        to give a bookmark a name other than the name of the folder it points
+        to.</p></div></div></div></div>
 </li>
 </ol></div>
 </div></div>

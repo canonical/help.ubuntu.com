@@ -78,7 +78,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="video-dvd.html" title="Почему не воспроизводятся DVD?">Почему не воспроизводятся DVD?</a><span class="desc"> — Вероятно, не установлены необходимые кодеки, или DVD не из того региона.</span>
+<a href="video-dvd.html" title="Why won’t DVDs play?">Why won’t DVDs play?</a><span class="desc"> — Вероятно, не установлены необходимые кодеки, или DVD не из того региона.</span>
 </li></ul></div>
 </div></div>
 </div>

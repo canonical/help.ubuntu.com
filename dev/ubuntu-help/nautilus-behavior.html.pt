@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang=pt>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Preferências de comportamento do gestor de ficheiros</title>
+<link rel="stylesheet" type="text/css" href="pt.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
+<li><a href="http://www.ubuntu.com/support">Support</a></li>
+<li><a href="http://www.ubuntu.com/community">Community</a></li>
+<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Busca de ficheiros e diretórios">Ficheiros</a> › <a class="trail" href="files.html#more-file-tasks" title="Mais tarefas relacionadas com ficheiros">Mais tarefas relacionadas com ficheiros</a> » <a class="trail" href="nautilus-prefs.html" title="Preferências do gestor de ficheiros">Preferências do gestor de ficheiros</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Preferências de comportamento do gestor de ficheiros</span></h1></div>
+<div class="region">
+<div class="contents"><p class="p">Pode controlar se faz uma clique simples ou dupla aos ficheiros, como manejam-se  os ficheiros de texto executáveis e o comportamento da caixote do lixo. Carregue <span class="gui">Ficheiros</span> na barra superior, escolha <span class="gui">Preferências</span> e selecione a flange <span class="gui">Comportamento</span>.</p></div>
+<div id="behavior" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Comportamento</span></h2></div>
+<div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">Um só clique para abrir elementos</span></dt>
+<dt class="terms"><span class="gui">Um duplo clique para abrir elementos</span></dt>
+<dd class="terms"><p class="p">De maneira predeterminada, ao carregar uma vez selecionam-se ficheiros, e clicando duas vezes abrem-se. Pode optar por abrir ficheiros e diretórios clicándolos uma sozinha vez. No modo duma sozinha clique, pode manter apertada a tecla <span class="key"><kbd>Ctrl</kbd></span> enquanto clica com o rato para selecionar um ou mais ficheiros.</p></dd>
+</dl></div></div></div></div></div>
+</div></div>
+<div id="executable" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Ficheiros de texto executáveis</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Um ficheiro de texto executável é um ficheiro que contém um programa que pode executar. Os <span class="link"><a href="nautilus-file-properties-permissions.html" title="Estabelecer as permissões do ficheiro">permissões do ficheiro</a></span> também devem permitir que o ficheiro possa se executar como um programa. Os mais frequentes costumam ser scripts de <span class="sys">Shelh</span>, <span class="sys">Python</span> e <span class="sys">Perl</span>. Têm extensões <span class="file">.sh</span>, <span class="file">.py</span> e <span class="file">.pl</span> respetivamente.</p>
+<p class="p">Quando abre um ficheiro de texto executável, pode escolher entre:</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p"><span class="gui">Executar ficheiros de texto executáveis quando se abrem</span></p></li>
+<li class="list"><p class="p"><span class="gui">Ver ficheiros de texto executáveis quando se abrem</span></p></li>
+<li class="list"><p class="p"><span class="gui">Perguntar a cada vez</span></p></li>
+</ul></div></div></div>
+<p class="p">Se <span class="gui">Perguntar a cada vez</span> está selecionada, aparecerá um diálogo perguntando se quer executar ou ver o ficheiro de texto selecionado.</p>
+<p class="p">Os ficheiros de texto executáveis também se chamam <span class="em">scripts</span>. Todos os scripts da diretório <span class="file">~/.local/share/nautilus/scripts</span> aparecerão no menu contextual para um ficheiro no submenu <span class="gui">Scripts</span>. Quando se executa um script desde uma diretório local, todos os ficheiros selecionados passarão o script como parâmetros. Para executar um script sobre um ficheiro:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Navegue até a diretório que quer.</p></li>
+<li class="steps"><p class="p">Selecione o ficheiro que quer.</p></li>
+<li class="steps"><p class="p">Carregue com o botão direito sobre o ficheiro para abrir o menu contextual e selecione o script que executar do menu<span class="gui">Scripts</span>.</p></li>
+</ol></div></div></div>
+<div class="note note-important" title="Importante"><div class="inner"><div class="region"><div class="contents"><p class="p">Um script não passará como parâmetros quando se execute desde uma diretório remota, como uma diretório que mostra contido site ou <span class="sys">ftp</span>.</p></div></div></div></div>
+</div></div>
+</div></div>
+<div id="trash" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Papelera</span></h2></div>
+<div class="region">
+<div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">Perguntar antes de esvaziar a caixote do lixo</span></dt>
+<dd class="terms"><p class="p">Esta opção está selecionada de forma predeterminada. Quando se vai esvaziar a caixote do lixo, aparece uma mensagem confirmando se quer esvaziar a caixote do lixo ou eliminar os ficheiros.</p></dd>
+</dl></div></div></div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">Consulte também</span></h3></div>
+<div class="region"><ul><li class="links ">
+<a href="files-delete.html" title="Eliminar ficheiros e diretórios">Eliminar ficheiros e diretórios</a><span class="desc"> — Tirar ficheiros ou diretórios que já não precisa.</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Mais informação</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="nautilus-prefs.html" title="Preferências do gestor de ficheiros">Preferências do gestor de ficheiros</a><span class="desc"> — Ver e estabelecer as preferências para o navegador de ficheiros.</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer"><p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p></div>
+</div>
+</body>
+</html>

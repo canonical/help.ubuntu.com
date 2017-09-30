@@ -56,7 +56,7 @@
 <p class="p">Un perfil de color es un conjunto de datos que caracteriza o un dispositivo, tal como un proyector, o un espacio de color, tal como sRGB.</p>
 <p class="p">La mayoría de los perfiles de color están en un formato ICC, que es un pequeño archivo con una extensión <span class="input">.ICC</span> o <span class="input">.ICM</span>.</p>
 <p class="p">Los perfiles de color se pueden empotrar en imágenes para especificar el espectro del rango de los datos. Esto asegura que el usuario ve los mismos colores en diferentes dispositivos.</p>
-<p class="p">Cada dispositivo cuyo procesado de color debe tener su propio perfil ICC y cuando ésto se logra se dice que el sistema tiene un <span class="em">flujo de trabajo de color de principio a fin</span>. Con este flujo de trabajo puede estar seguro de que los colores no se pierden ni modifican.</p>
+<p class="p">Cada dispositivo que procese color debe tener su propio perfil ICC y cuando esto se logra se dice que el sistema tiene un <span class="em">flujo de trabajo de color de principio a fin</span>. Con este flujo de trabajo puede estar seguro de que los colores no se pierden ni modifican.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

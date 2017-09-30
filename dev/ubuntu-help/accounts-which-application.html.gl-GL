@@ -49,42 +49,26 @@
 <div class="hgroup"><h1 class="title"><span class="title">Servizos en liña e aplicativos</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Once you have added an online account, any application can use that
-  account for any of the available services that you have not
-  <span class="link"><a href="accounts-disable-service.html" title="Controle que servizos en liña dunha conta poden usarse para acceder">disabled</a></span>. Different
-  providers provide different services. This page lists the different
-  services and some of the applications that are known to use them.</p>
+<p class="p">En canto engada unha conta en liña, calquera aplicativo poderá usar a conta para calquera dos servizos dispoñíbeis que non <span class="link"><a href="accounts-disable-service.html" title="Controle que servizos en liña dunha conta poden usarse para acceder">desactivara</a></span>. Diferentes fornecedores fornecen distintos servizos. Esta páxina mostra os distintos servizos e algúns dos aplicativos que os usan.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Calendario</dt>
 <dd class="terms"><p class="p">O servizo de Calendario permítelle ver, engadir e editar eventos nun calendario en liña. É usado por aplicativos como <span class="app">Calendario</span>, <span class="app">Evolution</span> e <span class="app">California</span>.</p></dd>
 <dt class="terms">Conversas</dt>
-<dd class="terms"><p class="p">The Chat service allows you to chat with your contacts on popular
-      instant messaging platforms. It is used by the <span class="app">Empathy</span>
-      application.</p></dd>
+<dd class="terms"><p class="p">O servizo de chat permítelle falar cos seus contactos en plataformas de mensaxaría instantánea populares. É usado polo aplicativo <span class="app">Empathy</span>.</p></dd>
 <dt class="terms">Contactos</dt>
-<dd class="terms"><p class="p">The Contacts service allows you to see the published details of your
-      contacts on various services. It is used by applications like
-      <span class="app">Contacts</span> and <span class="app">Evolution</span>.</p></dd>
+<dd class="terms"><p class="p">O servizo de Contactos permítelle ver os detalles publicados dos seus contactos en varios servizos. É usado por aplicativos como <span class="app">Contactos</span> e <span class="app">Evolution</span>.</p></dd>
 <dt class="terms">Documentos</dt>
 <dd class="terms"><p class="p">O servizo de Documentos permítelle ver os seus documentos en liña como aqueles en Google Docs. Pode ver os seus documentos usando o aplicativo <span class="app">Documentos</span>.</p></dd>
 <dt class="terms">Ficheiros</dt>
 <dd class="terms"><p class="p">O servizo de Ficheiros engade unha localización de ficheiro remota, como se ten que engadir unha usando a funcionalidade <span class="link"><a href="nautilus-connect.html" title="Examinar ficheiros nun servidor ou compartición de rede">Conectarse ao servidor</a></span> nun xestor de ficheiros. Pode acceder a ficheiros remotos usndo o xestor de ficheiros, así como mediante os diálogos de abrir e gardar ficheiros nun aplicativo.</p></dd>
 <dt class="terms">Correo electrónico</dt>
-<dd class="terms"><p class="p">The Mail service allows you to send and receive email through an
-      email provider like Google. It is used by <span class="app">Evolution</span>.</p></dd>
+<dd class="terms"><p class="p">O servizo de Correo permítelle enviar e recibir correo electrónico mediante un fornecedor de correo como Google. É usado por <span class="app">Evolution</span>.</p></dd>
 <dt class="terms">Fotos</dt>
-<dd class="terms"><p class="p">The Photos service allows you to view your online photos such as
-      those you post on Facebook. You can view your photos using the
-      <span class="app">Photos</span> application.</p></dd>
+<dd class="terms"><p class="p">O servizo de Fotos permítelle ver as súas fotos en liña como as enviadas a Facebook. Pode ver as súas fotos usando o aplicativo <span class="app">Fotos</span>.</p></dd>
 <dt class="terms">Impresoras</dt>
-<dd class="terms"><p class="p">The Printers service allows you to send a PDF copy to a provider from
-      within the print dialog of any application. The provider might provide
-      print services, or it might just serve as storage for the PDF, which
-      you can download and print later.</p></dd>
+<dd class="terms"><p class="p">O servizo de Impresoras permítelle enviar unha copia dun PDF a un fornecedor desde o diálogo de impresión de moitos aplicativos. O fornecedor pode fornecer servizos de impresión, ou pode servir como almacenamento do PDF, que pode descargalo e imprimilo máis tarde.</p></dd>
 <dt class="terms">Ler máis tarde</dt>
-<dd class="terms"><p class="p">The Read Later service allows you to save a web page to external
-      services so that you can read it later on another device. No applications
-      currently use this service.</p></dd>
+<dd class="terms"><p class="p">O servizo de Ler máis tarde permítelle gardar unha páxina web en servizos externos para que poida leelas máis tarde noutro dispositivo. Ningún aplicativo actualmente usa este servizo.</p></dd>
 </dl></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">

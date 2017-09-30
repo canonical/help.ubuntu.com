@@ -73,7 +73,6 @@
     applications with multiple windows pop down as you click through. Hold down
     <span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span> and press <span class="key"><kbd>`</kbd></span> (or the
     key above <span class="key"><kbd>Tab</kbd></span>) to step through the list.</p></div></div></div></div>
-<div class="note" title="Opomba"><div class="inner"><div class="region"><div class="contents"><p class="p">V preklopniku oken so programu z različnih delovnih površin ločeni z navpičnimi ločilniki.</p></div></div></div></div>
 <p class="p">Med ikonami programov se lahko v preklopniku oken premikate s tipkama <span class="key"><kbd>→</kbd></span> ali <span class="key"><kbd>←</kbd></span> ali jo izberete z miškinim klikom.</p>
 <p class="p">Predoglede programov z enim okno lahko prikažete s tipko <span class="key"><kbd>↓</kbd></span>.</p>
 <p class="p">From the <span class="gui">Activities</span> overview, click on a

@@ -54,8 +54,18 @@
 <div class="region">
 <div class="contents">
 <p class="p">I profili del colore creati personalmente sono specifici all'hardware e alle condizioni d'illuminazione per cui sono stati calibrati. Un monitor attivo per poche centinaia di ore avrà un profilo del colore molto diverso da quello di un monitor simile con il numero seriale successivo che è stato acceso per mille ore.</p>
-<p class="p">Questo significa che nel caso in cui si condivida il proprio profilo del colore con un altro utente, si potrebbe essere <span class="em">più vicini</span> alla calibrazione, ma nel migliore dei casi è fuorviante dire che il loro monitor sia calibrato.</p>
-<p class="p">Similmente, a meno che tutti abbiano un'illuminazione controllata raccomandata (niente luce solare dalle finestre, muri neri, lampade a luce diurna ecc.) in una stanza dove hanno luogo la visualizzazione e la modifica di immagini, risulta inutile condividere un profilo creato nelle proprie condizioni d'illuminazione specifiche.</p>
+<p class="p">
+    This means if you share your color profile with somebody, you might
+    be getting them <span class="em">closer</span> to calibration, but it’s misleading
+    at best to say that their display is calibrated.
+  </p>
+<p class="p">
+    Similarly, unless everyone has recommended controlled lighting
+    (no sunlight from windows, black walls, daylight bulbs etc.) in a
+    room where viewing and editing images takes place, sharing a profile
+    that you created in your own specific lighting conditions doesn’t make
+    a lot of sense.
+  </p>
 <div class="note note-warning" title="Avvertimento"><div class="inner"><div class="region"><div class="contents"><p class="p">Prestare molta attenzione alla condizioni d'uso dei profili scaricati dai siti web o creati appositamente per voi.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">

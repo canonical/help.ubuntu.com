@@ -63,7 +63,7 @@
       type in your password when prompted.</p></li>
 <li class="steps"><p class="p">நீங்கள் அனுமதிகளை மாற்ற விரும்பும் பயனரைத் தேர்ந்தெடுக்கவும்.</p></li>
 <li class="steps"><p class="p"><span class="gui">கணக்கு வகை</span> க்கு அடுத்துள்ள <span class="gui">தரநிலை</span> லேபிளை சொடுக்கி, <span class="gui">நிர்வாகி</span> ஐ தேர்ந்தெடுக்கவும்.</p></li>
-<li class="steps"><p class="p">அடுத்த புகுபதிவில் பயனரின் அனுமதிகள் மாறியிருக்கும்.</p></li>
+<li class="steps"><p class="p">The user’s privileges will be changed when they next log in.</p></li>
 </ol></div></div></div>
 <div class="note" title="குறிப்பு"><div class="inner"><div class="region"><div class="contents">
 <p class="p">வழக்கமாக கணினியின் முதல் பயனர் கணக்கு நிர்வாக அனுமதிகள் கொண்டதாக இருக்கும். இது முதன்முதலில் இயக்க முறைமையை நிறுவும்போது உருவாக்கப்படும் பயனர் கணக்காகும்.</p>

@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Ibland matar skrivare felaktigt in pappersblad som fastnar.</p>
 <p class="p">Manualen för din skrivare kommer vanligtvis att tillhandahålla detaljerade instruktioner om hur du reder ut papperstrassel. Vanligtvis måste du öppna en av skrivarens paneler för att hitta trassel inuti och sedan stadigt (men försiktigt!) dra ut det intrasslade pappret ur skrivarens matningsmekanism.</p>
-<p class="p">När trasslet har retts ut kan du behöva trycka på skrivarens <span class="em">fortsätt</span>-knapp för att börja skriva igen. För vissa skrivare kan du till och med behöva stänga av skrivaren och slå på den igen, och sedan starta utskriftsjobbets på igen.</p>
+<p class="p">När trasslet har retts ut kan du behöva trycka på skrivarens <span class="em">fortsätt</span>-knapp för att börja skriva igen. För vissa skrivare kan du till och med behöva stänga av skrivaren och slå på den igen, och sedan starta utskriftsjobbet igen.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

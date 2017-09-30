@@ -57,11 +57,11 @@
 </li>
 <li class="list">
 <p class="p">Prova hex- eller ASCII-lösennyckeln</p>
-<p class="p">Lösenordet du matar in kan också representeras på ett annat sätt - som en sträng av hexadecimala tecken (siffrorna 0-9 och bokstäverna a-f) som kallas lösennyckel. Varje lösenord har en motsvarande lösennyckel. Om du har tillgång till lösennyckeln samt lösenordet/lösenfrasen, prova att skriva lösennyckeln istället. Säkerställ att du har alternativet <span class="gui">trådlös säkerhet</span> rätt inställt när du blir tillfrågad om ditt lösenord (välj till exempel <span class="gui">WEP 40/128-bitars nyckel</span> om du skriver in den 40 tecken långa lösennyckeln för WEP-krypterad anslutning).</p>
+<p class="p">Lösenordet du matar in kan också representeras på ett annat sätt — som en sträng av hexadecimala tecken (siffrorna 0-9 och bokstäverna a-f) som kallas lösennyckel. Varje lösenord har en motsvarande lösennyckel. Om du har tillgång till lösennyckeln samt lösenordet/lösenfrasen, prova att skriva lösennyckeln istället. Säkerställ att du har alternativet <span class="gui">trådlös säkerhet</span> rätt inställt när du blir tillfrågad om ditt lösenord (välj till exempel <span class="gui">WEP 40/128-bitars nyckel</span> om du skriver in den 40 tecken långa lösennyckeln för WEP-krypterad anslutning).</p>
 </li>
 <li class="list">
 <p class="p">Prova att stänga av ditt trådlösa kort och sätt igång det igen</p>
-<p class="p">Ibland kan trådlösa kort fastna eller råka ut för mindre problem som innebär att de inte fungerar ordentligt. Prova att stänga av kortet och sätta igång det igen för att återställa det - se <span class="link"><a href="net-wireless-troubleshooting.html" title="Felsökning av trådlösa nätverk">Felsökning av trådlösa nätverk</a></span> för vidare information.</p>
+<p class="p">Ibland kan trådlösa kort fastna eller råka ut för mindre problem som innebär att de inte fungerar ordentligt. Prova att stänga av kortet och sätta igång det igen för att återställa det — se <span class="link"><a href="net-wireless-troubleshooting.html" title="Felsökning av trådlösa nätverk">Felsökning av trådlösa nätverk</a></span> för vidare information.</p>
 </li>
 <li class="list">
 <p class="p">Kontrollera att du använder korrekt typ av trådlös säkerhet</p>

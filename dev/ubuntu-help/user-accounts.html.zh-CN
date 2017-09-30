@@ -58,10 +58,9 @@
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="user-add.html" title="添加一个新用户"><span class="title">添加一个新用户</span><span class="linkdiv-dash"> — </span><span class="desc">添加新用户以便其他从可以登录计算机。</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="user-autologin.html" title="Log in automatically"><span class="title">Log in automatically</span><span class="linkdiv-dash"> — </span><span class="desc">Set up automatic login for when you switch on your computer.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-delete.html" title="删除用户帐号"><span class="title">删除用户帐号</span><span class="linkdiv-dash"> — </span><span class="desc">删除您计算机上不再使用的用户。</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-guest-session.html" title="启动有限制的客人会话"><span class="title">启动有限制的客人会话</span><span class="linkdiv-dash"> — </span><span class="desc">让朋友或同事以一种安全的方式借用您的计算机。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-delete.html" title="删除用户帐号"><span class="title">删除用户帐号</span><span class="linkdiv-dash"> — </span><span class="desc">删除您计算机上不再使用的用户。</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="user-changepicture.html" title="更改登录屏幕图片"><span class="title">更改登录屏幕图片</span><span class="linkdiv-dash"> — </span><span class="desc">将您的照片添加到您的登录和用户屏幕。</span></a></div>
 </div>
 </div></div></div></div></div>

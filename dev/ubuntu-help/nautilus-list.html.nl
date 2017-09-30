@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » <a class="trail" href="nautilus-prefs.html" title="File manager preferences">File manager preferences</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a> » <a class="trail" href="nautilus-prefs.html" title="Bestandsbeheer-voorkeuren">Bestandsbeheer-voorkeuren</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Files list columns preferences</span></h1></div>
@@ -57,26 +57,24 @@
     the order in which the selected columns will appear. Click <span class="gui">Reset to
     Default</span> to undo any changes and return to the default columns.</p></div></div></div></div>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Name</span></dt>
+<dt class="terms"><span class="gui">Naam</span></dt>
 <dd class="terms">
 <p class="p">The name of folders and files.</p>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">The <span class="gui">Name</span> column cannot be hidden.</p></div></div></div></div>
 </dd>
-<dt class="terms"><span class="gui">Size</span></dt>
-<dd class="terms"><p class="p">The size of a folder is given as the number of items contained in the
-      folder. The size of a file is given as bytes, KB, or MB.</p></dd>
+<dt class="terms"><span class="gui">Grootte</span></dt>
+<dd class="terms"><p class="p">De grootte van een map wordt aangegeven als het aantal items in die map. De grootte van een bestand wordt gegeven in bytes, KB of MB.</p></dd>
 <dt class="terms"><span class="gui">Type</span></dt>
-<dd class="terms"><p class="p">Displayed as folder, or file type such as PDF document, JPEG image,
-      MP3 audio, and more.</p></dd>
-<dt class="terms"><span class="gui">Modified</span></dt>
+<dd class="terms"><p class="p">Weergegeven als map, of bestandstype zoals PDF-document, JPEG-afbeelding, MP3 audio.</p></dd>
+<dt class="terms"><span class="gui">Gewijzigd</span></dt>
 <dd class="terms"><p class="p">Gives the date of the last time the file was modified.</p></dd>
-<dt class="terms"><span class="gui">Owner</span></dt>
-<dd class="terms"><p class="p">The name of the user the folder or file is owned by.</p></dd>
-<dt class="terms"><span class="gui">Group</span></dt>
+<dt class="terms"><span class="gui">Eigenaar</span></dt>
+<dd class="terms"><p class="p">De naam van de gebruiker die eigenaar is van de map of het bestand.</p></dd>
+<dt class="terms"><span class="gui">Groep</span></dt>
 <dd class="terms"><p class="p">The group the file is owned by. Each user is normally in their own
       group, but it is possible to have many users in one group. For example, a
       department may have their own group in a work environment.</p></dd>
-<dt class="terms"><span class="gui">Permissions</span></dt>
+<dt class="terms"><span class="gui">Rechten</span></dt>
 <dd class="terms">
 <p class="p">Displays the file access permissions. For example,
       <span class="gui">drwxrw-r--</span></p>
@@ -84,12 +82,9 @@
 <li class="list"><p class="p">The first character is the file type. <span class="gui">-</span> means regular
           file and <span class="gui">d</span> means directory (folder). In rare cases, other
           characters can also be shown.</p></li>
-<li class="list"><p class="p">The next three characters <span class="gui">rwx</span> specify permissions for
-          the user who owns the file.</p></li>
-<li class="list"><p class="p">The next three <span class="gui">rw-</span> specify permissions for all members
-          of the group that owns the file.</p></li>
-<li class="list"><p class="p">The last three characters in the column <span class="gui">r--</span> specify
-          permissions for all other users on the system.</p></li>
+<li class="list"><p class="p">De volgende drie tekens <span class="gui">rwx</span> geven de rechten aan voor de gebruiker die eigenaar is van het bestand.</p></li>
+<li class="list"><p class="p">De volgende drie tekens <span class="gui">rw-</span> geven de rechten aan voor alle leden van de groep die eigenaar is van het bestand.</p></li>
+<li class="list"><p class="p">De laatste drie tekens in de kolom <span class="gui">r--</span> geven de rechten aan voor alle andere gebruikers van het systeem.</p></li>
 </ul></div></div></div>
 <p class="p">Each permission has the following meanings:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
@@ -102,14 +97,14 @@
 <li class="list"><p class="p"><span class="gui">-</span>: permission not set</p></li>
 </ul></div></div></div>
 </dd>
-<dt class="terms"><span class="gui">MIME Type</span></dt>
-<dd class="terms"><p class="p">Displays the MIME type of the item.</p></dd>
-<dt class="terms"><span class="gui">Location</span></dt>
-<dd class="terms"><p class="p">The path to the location of the file.</p></dd>
-<dt class="terms"><span class="gui">Modified – Time</span></dt>
-<dd class="terms"><p class="p">Gives the date and time of the last time the file was modified.</p></dd>
-<dt class="terms"><span class="gui">Accessed</span></dt>
-<dd class="terms"><p class="p">Gives the date or time of the last time the file was modified.</p></dd>
+<dt class="terms"><span class="gui">MIME-type</span></dt>
+<dd class="terms"><p class="p">Geeft het MIME-type van het item weer.</p></dd>
+<dt class="terms"><span class="gui">Locatie</span></dt>
+<dd class="terms"><p class="p">Het pad naar de locatie van het bestand.</p></dd>
+<dt class="terms"><span class="gui">Modified — Time</span></dt>
+<dd class="terms"><p class="p">Geeft de datum en tijd van de laatste keer dat het bestand werd gewijzigd.</p></dd>
+<dt class="terms"><span class="gui">Benaderd</span></dt>
+<dd class="terms"><p class="p">Geeft de datum of tijd van de laatste keer dat het bestand werd gewijzigd.</p></dd>
 </dl></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -117,7 +112,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="File manager preferences">File manager preferences</a><span class="desc"> — View and set preferences for the file browser.</span>
+<a href="nautilus-prefs.html" title="Bestandsbeheer-voorkeuren">Bestandsbeheer-voorkeuren</a><span class="desc"> — Voorkeuren voor de bestandsbeheerder bekijken en instellen.</span>
 </li></ul></div>
 </div></div></div>
 </div>

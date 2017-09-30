@@ -49,14 +49,17 @@
 <div class="hgroup"><h1 class="title"><span class="title">磁盘和存储器</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
+<div class="linkdiv "><a class="linkdiv" href="disk-resize.html" title="Adjust the size of a filesystem"><span class="title">Adjust the size of a filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Shrink or grow a filesystem and its partition.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="addremove-creator.html" title="Create a startup disk"><span class="title">
     Create a startup disk
   </span><span class="linkdiv-dash"> — </span><span class="desc"> 
     Convert a USB flash drive into a volume from which you can startup and install Ubuntu.
     </span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-repair.html" title="Repair a damaged filesystem"><span class="title">Repair a damaged filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Check if a filesystem is damaged and bring it back into a usable
+          state.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-format.html" title="擦除可移动磁盘上的所有数据"><span class="title">擦除可移动磁盘上的所有数据</span><span class="linkdiv-dash"> — </span><span class="desc">通过格式化，删除一个外接硬盘或 U 盘上的所有文件和文件夹。</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-capacity.html" title="检查磁盘剩余空间"><span class="title">检查磁盘剩余空间</span><span class="linkdiv-dash"> — </span><span class="desc">使用<span class="gui">磁盘使用分析器</span>或者<span class="gui">系统监视器</span>来检查磁盘容量和空闲情况。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-check.html" title="检查磁盘错误"><span class="title">检查磁盘错误</span><span class="linkdiv-dash"> — </span><span class="desc">您可以测试硬盘是否有问题以确保其健康。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-check.html" title="检查磁盘错误"><span class="title">检查磁盘错误</span><span class="linkdiv-dash"> — </span><span class="desc">Test your hard disk for problems to make sure that it’s healthy.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-benchmark.html" title="测试硬盘性能"><span class="title">测试硬盘性能</span><span class="linkdiv-dash"> — </span><span class="desc">您可以在您的硬盘上运行性能测试程序，检查其速度。</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-partitions.html" title="管理卷和分区"><span class="title">管理卷和分区</span><span class="linkdiv-dash"> — </span><span class="desc">了解什么是卷和分区，使用磁盘实用程序管理卷和分区。</span></a></div>
 </div></div></div></div>

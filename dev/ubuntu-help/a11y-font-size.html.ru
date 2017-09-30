@@ -58,7 +58,8 @@
 </ol></div></div></div>
 <p class="p">Также можно быстро изменить размер текста, нажав на <span class="link"><a href="a11y-icon.html" title="Найдите меню универсального доступа">значок специальных возможностей</a></span> в верхней панели и выбрав <span class="gui">Крупный текст</span>.</p>
 <div class="note note-tip" title="Подсказка"><div class="inner"><div class="region"><div class="contents"><p class="p">Во многих приложениях можно в любое время увеличить размер текста, нажав <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>+</kbd></span></span>. Чтобы уменьшить размер текста, нажмите <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>-</kbd></span></span>.</p></div></div></div></div>
-<p class="p"><span class="gui">Крупный текст</span> увеличит текст в 1.2 раза. Чтобы увеличить или уменьшить текст, используйте <span class="app">Дополнительные параметры</span>.</p>
+<p class="p"><span class="gui">Large Text</span> will scale the text by 1.2 times. You can use
+  <span class="app">Tweaks</span> to make text size bigger or smaller.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

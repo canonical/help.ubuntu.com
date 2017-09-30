@@ -70,7 +70,7 @@
 <p class="p">Administrative privileges are associated with your user account.
   <span class="gui">Administrator</span> users are allowed to have these privileges while
   <span class="gui">Standard</span> users are not. Without administrative privileges you will
-  not be able to install software. Some user accounts (for example, the "root"
+  not be able to install software. Some user accounts (for example, the “root”
   account) have permanent administrative privileges. You should not use
   administrative privileges all of the time, because you might accidentally
   change something you did not intend to (like delete a needed system file, for
@@ -78,11 +78,11 @@
 <p class="p">In summary, administrative privileges allow you to change important parts
   of your system when needed, but prevent you from doing it accidentally.</p>
 <div class="note" title="备注"><div class="inner">
-<div class="title title-note"><h2><span class="title">“超级用户”是什么意思？</span></h2></div>
+<div class="title title-note"><h2><span class="title">What does “super user” mean?</span></h2></div>
 <div class="region"><div class="contents"><p class="p">A user with administrative privileges is sometimes called a <span class="em">super
     user</span>. This is simply because that user has more privileges than normal
     users. You might see people discussing things like <span class="cmd">su</span> and
-    <span class="cmd">sudo</span>; these are programs for temporarily giving you "super user"
+    <span class="cmd">sudo</span>; these are programs for temporarily giving you “super user”
     (administrative) privileges.</p></div></div>
 </div></div>
 </div>
@@ -100,7 +100,7 @@
 <p class="p">Only certain trusted users should be allowed to have administrative
   privileges. This prevents other users from messing with the computer and
   doing things like uninstalling applications that you need, installing
-  applications that you don't want, or changing important files. This is useful
+  applications that you don’t want, or changing important files. This is useful
   from a security standpoint.</p>
 </div></div>
 </div></div>
@@ -119,7 +119,7 @@
     settings.</span>
 </li>
 <li class="links ">
-<a href="net-othersedit.html" title="其他用户无法控制网络连接">其他用户无法控制网络连接</a><span class="desc"> — 您需要在连接设置中取消选中<span class="gui">对所有用户可用</span>选项。</span>
+<a href="net-othersedit.html" title="Other users can’t edit the network connections">Other users can’t edit the network connections</a><span class="desc"> — 您需要在连接设置中取消选中<span class="gui">对所有用户可用</span>选项。</span>
 </li>
 <li class="links ">
 <a href="user-delete.html" title="删除用户帐号">删除用户帐号</a><span class="desc"> — 删除您计算机上不再使用的用户。</span>

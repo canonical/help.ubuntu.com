@@ -53,15 +53,16 @@
 <div class="hgroup"><h2 class="title"><span class="title">Проверка жёсткого диска</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Жёсткие диски имеют встроенный диагностический инструмент <span class="app">SMART</span> (Self-Monitoring, Analysis, and Reporting Technology), постоянно проверяющий диск на наличие потенциальных проблем. SMART предупредит вас в случае возможности выхода диска из строя, чтобы помочь избежать потери важных данных.</p>
-<p class="p">Хотя SMART запускается автоматически, можно также поверить исправность диска с помощью приложения <span class="app">Диски</span>:</p>
+<p class="p">Although SMART runs automatically, you can also check your disk’s
+ health by running the <span class="app">Disks</span> application:</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">Проверка исправности диска с помощью приложения <span class="app">Диски</span></span></h3></div>
+<div class="title title-steps"><h3><span class="title">Check your disk’s health using the Disks application</span></h3></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Откройте <span class="gui">Обзор</span> и откройте приложение <span class="app">Диски</span>.</p></li>
 <li class="steps"><p class="p">Select the disk you want to check from the list of storage devices on
     the left. Information and status of the disk will be shown.</p></li>
 <li class="steps"><p class="p">Click the menu button and select <span class="gui">SMART Data &amp; Self-Tests…</span>.
-    The <span class="gui">Overall Assessment</span> should say "Disk is OK".</p></li>
+    The <span class="gui">Overall Assessment</span> should say “Disk is OK”.</p></li>
 <li class="steps"><p class="p">See more information under <span class="gui">SMART Attributes</span>, or click the
     <span class="gui">Start Self-test</span> button to run a self-test.</p></li>
 </ol></div>
@@ -69,13 +70,18 @@
 </div></div>
 </div></div>
 <div id="disk-not-healthy" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Что делать, если диск неисправен?</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">What if the disk isn’t healthy?</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Even if the <span class="gui">Overall Assessment</span> indicates that the disk
-  <span class="em">isn't</span> healthy, there may be no cause for alarm. However, it's better
+  <span class="em">isn’t</span> healthy, there may be no cause for alarm. However, it’s better
   to be prepared with a <span class="link"><a href="backup-why.html" title="Резервное копирование важных данных">backup</a></span> to prevent data
   loss.</p>
-<p class="p">Статус «На грани отказа» означает, что диск в основном исправен, но были замечены признаки износа, что означает, что диск может начать сбоить в ближайшем будущем. Если вашему диску (или компьютеру) несколько лет, то, скорей всего, вы увидите это сообщение не один раз во время проверок работоспособности диска. Необходимо на постоянной основе <span class="link"><a href="backup-how.html" title="Как создать резервную копию">делать резервные копии важных файлов</a></span> и время от времени проверять состояние диска, чтобы успеть заметить признаки ухудшения.</p>
+<p class="p">If the status says “Pre-fail”, the disk is still reasonably healthy but
+ signs of wear have been detected which mean it might fail in the near future.
+ If your hard disk (or computer) is a few years old, you are likely to see
+ this message on at least some of the health checks. You should
+ <span class="link"><a href="backup-how.html" title="Как создать резервную копию">backup your important files regularly</a></span> and check
+ the disk status periodically to see if it gets worse.</p>
 <p class="p">Если состояние ухудшается, возможно, стоит показать компьютер или диск профессионалу для дальнейшей диагностики или ремонта.</p>
 </div></div>
 </div></div>

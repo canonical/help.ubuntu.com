@@ -82,11 +82,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-security.html" title="Tietoturva">Tietoturva</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="net-antivirus.html" title="Tarvitsenko virustentorjuntaohjelman?">Antivirus software</a></span>,
-      <span class="link"><a href="net-firewall-on-off.html" title="Salli ja estä ohjelmien yhteydet palomuurin läpi">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html" title="Yleisesti käytetyt verkkoportit">firewall ports</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-antivirus.html" title="Tarvitsenko virustentorjuntaohjelman?">Virustorjuntaohjelmisto</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Salli ja estä ohjelmien yhteydet palomuurin läpi">palomuurit</a></span>, <span class="link"><a href="net-firewall-ports.html" title="Yleisesti käytetyt verkkoportit">palomuurien portit</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-general.html" title="Verkkojen nimikkeet ja vinkit">Verkkojen nimikkeet ja vinkit</a></div>
@@ -94,7 +90,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-problem.html" title="Yhteysongelmat">Yhteysongelmat</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html" title="Langattoman verkon vianselvitys">Langattoman yhteyden ongelmanratkaisu</a></span>, <span class="link"><a href="net-wireless-find.html" title="En näe langatonta verkkoani listalla">langattoman verkon löytäminen</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html" title="Langattoman verkon vianselvitys">Langattoman yhteyden ongelmanratkaisu</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">langattoman verkon löytäminen</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="contacts.html" title="Yhteystiedot">Yhteystiedot</a></div>

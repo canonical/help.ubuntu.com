@@ -52,7 +52,7 @@
 <div id="codecs" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Installera rätt kodekar för dvd-uppspelning</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">För att spela dvd:er måste du ha rätt <span class="em">kodekar</span> installerade. En kodek är en bit programvara som låter program läsa ett video- eller ljudformat. Om ditt filmspelarprogram inte hittar rätt kodekar kan det erbjuda att installera dem åt dig. Om inte, måste du installera kodekarna manuellt - fråga om hjälp om hur du gör detta till exempel på din Linux-distributions supportforum.</p>
+<p class="p">För att spela dvd:er måste du ha rätt <span class="em">kodekar</span> installerade. En kodek är en bit programvara som låter program läsa ett video- eller ljudformat. Om ditt filmspelarprogram inte hittar rätt kodekar kan det erbjuda att installera dem åt dig. Om inte, måste du installera kodekarna manuellt — fråga om hjälp om hur du gör detta till exempel på din Linux-distributions supportforum.</p>
 <p class="p">Dvd:er är också <span class="em">kopieringsskyddade</span> via ett system som heter CSS. Detta förhindrar dig från att kopiera dvd:er, men det förhindrar också dig från att spela dem om du inte har extra programvara som hanterar kopieringsskyddet. Denna programvara finns tillgänglig från ett antal Linux-distributioner, men kan inte användas legalt i alla länder. Du kan köpa en kommersiell dvd-avkodare som kan hantera kopieringsskyddet från <span class="link"><a href="http://fluendo.com/shop/product/oneplay-dvd-player/" title="http://fluendo.com/shop/product/oneplay-dvd-player/">Fluendo</a></span>. Den fungerar med Linux och bör vara legal att använda i alla länder.</p>
 </div></div>
 </div></div>

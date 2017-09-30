@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Why does my wireless network keep disconnecting?</title>
+<title>Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,13 +44,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html" title="Network problems">Network problems</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html" title="Draadloos netwerk">Draadloos netwerk</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="Wireless Networking">Wireless Networking</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-problem.html" title="Netwerkproblemen">Netwerkproblemen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Why does my wireless network keep disconnecting?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?</span></h1></div>
 <div class="region">
 <div class="contents"><p class="p">You may find that you have been disconnected from a wireless network even
  though you wanted to stay connected. Your computer will normally try to
@@ -58,46 +58,32 @@
  bar will display three dots if it is trying to reconnect), but it can be
  annoying, especially if you were using the internet at the time.</p></div>
 <div id="signal" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Weak wireless signal</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Zwak signaal</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">A common reason for being disconnected from a wireless network is that you
- have low signal. Wireless networks have a limited range, so if you are too far
- away from the wireless base station you may not be able to get a strong enough
- signal to maintain a connection. Walls and other objects between you and the
- base station can also weaken the signal.</p>
+<p class="p">Een veelvoorkomende reden voor een verbroken verbinding met een draadloos netwerk is dat u een zwak signaal heeft. Draadloze netwerken hebben een beperkt bereik, dus als u zich te ver van het basisstation bevindt kunt u mogelijk geen signaal krijgen dat sterk genoeg is om de verbinding te behouden. Muren en andere objecten tussen u en het basisstation kunnen het signaal ook verzwakken.</p>
 <p class="p">The network icon on the top bar displays how strong your wireless signal is.
  If the signal looks low, try moving closer to the wireless base station.</p>
 </div></div>
 </div></div>
 <div id="network" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Network connection not being established properly</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Netwerkverbinding is niet op de  juiste manier tot stand gebracht</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Sometimes, when you connect to a wireless network, it may appear that you
  have successfully connected at first, but then you will be disconnected soon
  after. This normally happens because your computer was only partially
- successful in connecting to the network - it managed to establish a connection,
+ successful in connecting to the network — it managed to establish a connection,
  but was unable to finalize the connection for some reason and so was
  disconnected.</p>
-<p class="p">A possible reason for this is that you entered the wrong wireless
- passphrase, or that your computer was not allowed on the network (because the
- network requires a username to log in, for example).</p>
+<p class="p">Een mogelijke reden hiervoor is dat u het verkeerde wachtwoord heeft ingevoerd, of dat uw computer niet toegelaten werd tot het netwerk (omdat het netwerk bijvoorbeeld voor het aanmelden een gebruikersnaam nodig heeft.</p>
 </div></div>
 </div></div>
 <div id="hardware" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Unreliable wireless hardware/drivers</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Some wireless network hardware can be a little unreliable. Wireless
- networks are complicated, so wireless cards and base stations occasionally run
- into minor problems and may drop connections. This is annoying, but it happens
- quite regularly with many devices. If you are disconnected from wireless
- connections from time to time, this may be the only reason. If it happens very
- regularly, you may want to consider getting some different hardware.</p></div></div>
+<div class="hgroup"><h2 class="title"><span class="title">Onbetrouwbare hardware/stuurprogramma's voor draadloos netwerk</span></h2></div>
+<div class="region"><div class="contents"><p class="p">Sommige hardware voor draadloze netwerken kan wat onbetrouwbaar zijn. Draadloze netwerken zijn gecompliceerd; daardoor kunnen er kleine problemen zijn met netwerkkaarten en basisstations waardoor de verbinding wordt verbroken. Dit is vervelend, maar het komt vrij regelmatig voor bij veel apparaten. Als bij u van tijd tot tijd de verbinding met een draadloos netwerk verbroken wordt, dan kan dit de oorzaak zijn. Wanneer het zeer regelmatig gebeurt, kunt u overwegen andere hardware te gebruiken.</p></div></div>
 </div></div>
 <div id="busy" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Busy wireless networks</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Wireless networks in busy places (in universities and coffee shops, for
- example) often have many computers trying to connect to them at once. Sometimes
- these networks get too busy and may not be able to handle all of the computers
- that are trying to connect, so some of them get disconnected.</p></div></div>
+<div class="hgroup"><h2 class="title"><span class="title">Drukke draadloze netwerken</span></h2></div>
+<div class="region"><div class="contents"><p class="p">Draadloze netwerken op drukke plaatsen (op universiteiten en internetcafé's bijvoorbeeld) hebben vaak veel computers die tegelijk verbinding proberen te maken. Soms wordt het voor deze netwerken te druk en kunnen ze het aantal computers dat verbinding probeert te maken niet aan waardoor de verbinding van sommige computers wordt afgebroken.</p></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -106,24 +92,21 @@
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-problem.html" title="Network problems">Network problems</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-troubleshooting.html" title="Wireless network troubleshooter">Troubleshooting wireless connections</a></span>,
-      <span class="link"><a href="net-wireless-find.html" title="I can't see my wireless network in the list">finding your wifi network</a></span>…
+<a href="net-wireless.html" title="Draadloos netwerk">Draadloos netwerk</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html" title="Verbinding maken met een draadloos netwerk">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html" title="Met een verborgen draadloos netwerk verbinden">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Disconnecting</a></span>…
     </span>
 </li>
 <li class="links ">
-<a href="net-wireless.html" title="Wireless Networking">Wireless Networking</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html" title="Connect to a wireless network">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="Connect to a hidden wireless network">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="Why does my wireless network keep disconnecting?">Disconnecting</a></span>…
-    </span>
+<a href="net-problem.html" title="Netwerkproblemen">Netwerkproblemen</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Probleemoplosser draadloos netwerk">Problemen met draadloze verbindingen oplossen</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">Uw wifi-netwerk vinden</a></span>...</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-connect.html" title="Connect to a wireless network">Connect to a wireless network</a><span class="desc"> — Get on the internet - wirelessly.</span>
+<a href="net-wireless-connect.html" title="Verbinding maken met een draadloos netwerk">Verbinding maken met een draadloos netwerk</a><span class="desc"> — Get on the internet — wirelessly.</span>
 </li></ul></div>
 </div></div>
 </div>

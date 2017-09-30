@@ -69,10 +69,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Smerne tipke</p></td>
-<td style="border-top-style: solid;">
-<p class="p">Premika izbiro med predmeti v enem nadzorniku ali med zbirko pvoezanih nadzornikov. Uporabite smerne tipke za osredotočenje na gumbe v orodni vrstici, izbiro predmetov v seznamskem ali ikonskem pogledu ali izbiro izbrinega gumba iz skupine.</p>
-<p class="p">V drevesnem pogledu izberite tipki leve in desne puščice za zlaganje in razširitev predmetov s podrejenimi predmeti.</p>
-</td>
+<td style="border-top-style: solid;"><p class="p">Premika izbiro med predmeti v enem nadzorniku ali med zbirko pvoezanih nadzornikov. Uporabite smerne tipke za osredotočenje na gumbe v orodni vrstici, izbiro predmetov v seznamskem ali ikonskem pogledu ali izbiro izbrinega gumba iz skupine.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+Smerne tipke</span></p></td>
@@ -81,6 +78,10 @@
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+Smerne tipke</span></p></td>
 <td style="border-top-style: solid;"><p class="p">V seznamskem ali ikonskem pogledu izberite vse predmete iz trenutno izbranega predmeta na predmet, ki je na novo v žarišču.</p></td>
+<td style="border-top-style: solid;"><p class="p">In a tree view, items that have children can be expanded or collapsed,
+    to show or hide their children: expand by pressing
+    <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>→</kbd></span></span>, and collapse by
+    pressing <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>←</kbd></span></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Preslednica</kbd></span></p></td>
@@ -258,7 +259,7 @@
 <div class="region"><ul>
 <li class="links "><a href="a11y.html#mobility" title="Težave z gibanjem">Težave z gibanjem</a></li>
 <li class="links ">
-<a href="keyboard.html" title="Tipkovnica">Tipkovnica</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Razporeditve tipkovnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Ali naj vrivnik tipkovnice utripa">utripanje vrivnka</a></span>, <span class="link"><a href="a11y.html#mobility" title="Težave z gibanjem">dostopnost tipkovnice </a></span> ...</span>
+<a href="keyboard.html" title="Tipkovnica">Tipkovnica</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Uporaba nadomestnih razporeditev tipk">Razporeditve tipkovnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Ali naj vrivnik tipkovnice utripa">utripanje vrivnka</a></span>, <span class="link"><a href="a11y.html#mobility" title="Težave z gibanjem">dostopnost tipkovnice </a></span> ...</span>
 </li>
 </ul></div>
 </div></div>

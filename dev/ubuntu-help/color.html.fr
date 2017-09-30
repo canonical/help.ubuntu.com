@@ -73,10 +73,10 @@
 <div class="hgroup"><h2 class="title"><span class="title">Étalonnage</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-calibrationcharacterization.html" title="Différence entre étalonnage et caractérisation"><span class="title">Différence entre étalonnage et caractérisation</span><span class="linkdiv-dash"> — </span><span class="desc">Étalonner et caractériser sont deux choses complètement différentes.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-canshareprofiles.html" title="Partage de mon profil de couleurs"><span class="title">Partage de mon profil de couleurs</span><span class="linkdiv-dash"> — </span><span class="desc">Partager des profils de couleurs n'est jamais une bonne idée, car le matériel évolue dans le temps.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-calibrationdevices.html" title="Prise en charge d'instruments de mesure de la couleur"><span class="title">Prise en charge d'instruments de mesure de la couleur</span><span class="linkdiv-dash"> — </span><span class="desc">Nous prenons en charge de nombreux périphériques d'étalonnage.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-calibrationtargets.html" title="Types de cibles prises en charge"><span class="title">Types de cibles prises en charge</span><span class="linkdiv-dash"> — </span><span class="desc">Utiliser des cibles pour étalonner les scanners et appareils photos.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrationcharacterization.html" title="What’s the difference between calibration and characterization?"><span class="title">What’s the difference between calibration and characterization?</span><span class="linkdiv-dash"> — </span><span class="desc">Étalonner et caractériser sont deux choses complètement différentes.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-calibrate-camera.html" title="Étalonnage d'un appareil photo"><span class="title">Étalonnage d'un appareil photo</span><span class="linkdiv-dash"> — </span><span class="desc">Étalonner votre appareil photo est important pour obtenir des couleurs exactes.</span></a></div>
 </div>
 <div class="links-twocolumn">
@@ -91,11 +91,11 @@
 <div class="hgroup"><h2 class="title"><span class="title">Problèmes</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-notspecifiededid.html" title="Absence de date de péremption pour l'étalonnage des profils par défaut de l'écran"><span class="title">Absence de date de péremption pour l'étalonnage des profils par défaut de l'écran</span><span class="linkdiv-dash"> — </span><span class="desc">Les profils par défaut de l'écran n'ont pas de date d'étalonnage.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-missingvcgt.html" title="Informations manquantes pour la correction des couleurs de l'écran"><span class="title">Informations manquantes pour la correction des couleurs de l'écran</span><span class="linkdiv-dash"> — </span><span class="desc">Utiliser une correction de couleurs pour tout l'écran modifie toutes les couleurs d'affichage pour toutes les fenêtres.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-notifications.html" title="Réception d'une notification pour un profil de couleur inexact"><span class="title">Réception d'une notification pour un profil de couleur inexact</span><span class="linkdiv-dash"> — </span><span class="desc">Recevoir une notification si votre profil de couleur est ancien et inexact.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-notifications.html" title="Réception d'une notification pour un profil de couleur inexact"><span class="title">Réception d'une notification pour un profil de couleur inexact</span><span class="linkdiv-dash"> — </span><span class="desc">Recevoir une notification si votre profil de couleur est ancien et inexact.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-notspecifiededid.html" title="Why don’t the default monitor profiles have a calibration expiry?"><span class="title">Why don’t the default monitor profiles have a calibration expiry?</span><span class="linkdiv-dash"> — </span><span class="desc">Les profils par défaut de l'écran n'ont pas de date d'étalonnage.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-testing.html" title="Évaluation du fonctionnement correct de la gestion des couleurs"><span class="title">Évaluation du fonctionnement correct de la gestion des couleurs</span><span class="linkdiv-dash"> — </span><span class="desc">Utiliser les profils tests fournis pour s'assurer que vos profils sont appliqués correctement à votre écran.</span></a></div>
 </div>
 </div></div></div></div></div>

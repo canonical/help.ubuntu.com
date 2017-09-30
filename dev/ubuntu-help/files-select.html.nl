@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Select files by pattern</title>
+<title>Selecteer bestanden met een patroon</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,41 +43,30 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html#faq" title="Tips and questions">Tips and questions</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#faq" title="Tips en vragen">Tips en vragen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Select files by pattern</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Selecteer bestanden met een patroon</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can select files in a folder using a pattern on the file name.
-  Press <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>S</kbd></span></span> to bring up the
-  <span class="gui">Select Items Matching</span> window. Type in a pattern using
-  common parts of the file names plus wild card characters. There are
-  two wild card characters available:</p>
+<p class="p">U kunt bestanden in een map selecteren met gebruikmaking van een filter voor de bestandsnaam. Druk op <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>S</kbd></span></span> om het venster <span class="gui">Items selecteren die overeenkomen</span>  te krijgen. Typ een filter in van algemene delen van de bestandsnamen plus jokertekens. Er zijn twee jokertekens beschikbaar:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
-<li class="list"><p class="p"><span class="file">*</span> matches any number of any characters, even
-    no characters at all.</p></li>
-<li class="list"><p class="p"><span class="file">?</span> matches exactly one of any character.</p></li>
+<li class="list"><p class="p"><span class="file">*</span> komt overeen met een willekeurig aantal tekens, dus ook nul tekens.</p></li>
+<li class="list"><p class="p"><span class="file">?</span> komt overeen met exact één willekeurig teken.</p></li>
 </ul></div></div></div>
-<p class="p">For example:</p>
+<p class="p">Bijvoorbeeld:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
-<p class="p">If you have an OpenDocument Text file, a PDF file, and an
-    image that all have the same base name <span class="file">Invoice</span>, select
-    all three with the pattern</p>
-<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="file">Invoice.*</span></p></div></div></div></div>
+<p class="p">Als u een OpenDocument-tekstbestand, een PDF-bestand en een afbeelding heeft die allemaal dezelfde basisnaam <span class="file">Factuur</span> hebben, selecteer ze dan alle drie met het filter.</p>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="file">Factuur.*</span></p></div></div></div></div>
 </li>
 <li class="list">
-<p class="p">If you have some photos that are named like
-    <span class="file">Vacation-001.jpg</span>, <span class="file">Vacation-002.jpg</span>,
-    <span class="file">Vacation-003.jpg</span>; select them all with the pattern</p>
-<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="file">Vacation-???.jpg</span></p></div></div></div></div>
+<p class="p">Als u een aantal foto's heeft die als volgt genoemd zijn <span class="file">Vakantie-001.jpg</span>, <span class="file">Vakantie-002.jpg</span>, <span class="file">Vakantie-003.jpg</span>; kunt u deze selecteren met het patroon</p>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="file">Vakantie-???.jpg</span></p></div></div></div></div>
 </li>
 <li class="list">
-<p class="p">If you have photos as before, but you have edited some of them and
-    added <span class="file">-edited</span> to the end of the file name of the photos you
-    have edited, select the edited photos with</p>
-<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="file">Vacation-???-edited.jpg</span></p></div></div></div></div>
+<p class="p">Als u foto's heeft, maar u heeft sommige daarvan bewerkt en <span class="file">-bewerkt</span> toegevoegd aan het einde van de bestandsnaam van de foto's die u bewerkt heeft, selecteer de bewerkte foto's dan met</p>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="file">Vakantie-???-bewerkt.jpg</span></p></div></div></div></div>
 </li>
 </ul></div></div></div>
 </div>
@@ -85,7 +74,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Tips and questions">Tips and questions</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html#faq" title="Tips en vragen">Tips en vragen</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

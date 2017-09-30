@@ -49,7 +49,10 @@
 <div class="hgroup"><h1 class="title"><span class="title">Création d'un point d'accès sans fil</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Vous pouvez faire de votre ordinateur un point d'accès sans fil. Cela permet à d'autres périphériques de se connecter à vous sans créer un réseau séparé, et vous autorise à partager une connexion Internet fonctionnelle avec une autre interface, comme un réseau filaire ou un réseau cellulaire.</p>
+<p class="p">You can use your computer as a wireless hotspot. This allows other devices
+  to connect to you without a separate network, and allows you to share an
+  internet connection you’ve made with another interface, such as to a wired
+  network or over the cellular network.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#yourname" title="Vous et votre ordinateur">system menu</a></span> from the right
     side of the top bar.</p></li>
@@ -58,10 +61,12 @@
       Wi-Fi Not Connected</span> or the name of the wireless network to which
     you are already connected. The Wi-Fi section of the menu will expand.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Wi-Fi Settings</span>.</p></li>
-<li class="steps"><p class="p">Cliquez sur <span class="gui">Utiliser comme point d'accès...</span>.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Use as Hotspot…</span> button.</p></li>
 <li class="steps"><p class="p">Si vous êtes déjà connecté à un réseau sans fil, il vous est demandé si vous souhaitez vous en déconnecter. Un adaptateur réseau sans fil unique ne peut se connecter à ou créer un seul réseau à la fois. Confirmez en cliquant sur <span class="gui">Créer un nouveau réseau sans fil</span>.</p></li>
 </ol></div></div></div>
-<p class="p">Un nom de réseau (SSID) et une clé de chiffrement sont générés automatiquement. Le nom du réseau est basé sur le nom de votre ordinateur. Les autres périphériques ont besoin de ces informations pour se connecter au réseau que vous venez de créer.</p>
+<p class="p">A network name (SSID) and security key are automatically generated.
+The network name will be based on the name of your computer. Other devices
+will need this information to connect to the hotspot you’ve just created.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

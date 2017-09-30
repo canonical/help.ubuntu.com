@@ -51,7 +51,8 @@
 <div class="contents">
 <p class="p">Η εφαρμογή <span class="app">Αρχεία</span> σας δίνει τη δυνατότητα να αποκρύψετε και να εμφανίσετε αρχεία όποτε εσείς το επιθυμείτε. Όταν ένα αρχείο είναι κρυφό, δεν εμφανίζεται από τον διαχειριστή αρχείων, αλλά βρίσκεται ακόμα στον φάκελο του.</p>
 <p class="p">Για να κρύψετε ένα αρχείο, <span class="link"><a href="files-rename.html" title="Μετονομασία αρχείου ή φακέλου">μετονομάστε το</a></span> με μια <span class="file">.</span> στην αρχή του ονόματος του. Παραδείγματος χάρη, για να κρύψετε ένα αρχείο που λέγεται  <span class="file">παράδειγμα.txt</span>, θα πρέπει να το μετονομάσετε σε <span class="file">.παράδειγμα.txt</span>.</p>
-<div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">Μπορείτε να κρύψετε τους φακέλους με τον ίδιο τρόπο που κρύβετε αρχεία. Κρύψτε έναν φάκελο τοποθετώντας μία <span class="file">.</span> στην αρχή του ονόματος του φακέλου.</p></div></div></div></div>
+<div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">You can hide folders in the same way that you can hide files. Hide a
+  folder by placing a <span class="file">.</span> at the beginning of the folder’s name.</p></div></div></div></div>
 </div>
 <div id="show-hidden" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Προβολή όλων των κρυφών αρχείων</span></h2></div>

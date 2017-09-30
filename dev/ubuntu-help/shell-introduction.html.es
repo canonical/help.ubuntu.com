@@ -100,13 +100,7 @@
 <div class="region"><div class="contents">
 <div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-exit.png" width="250" class="media media-block" alt="Menú del usuario"></div></div>
 <p class="p">Pulse en el menú del sistema en la esquina superior derecha de la pantalla para la configuración del sistema y su equipo.</p>
-<p class="p">When you leave your computer, you can lock your screen to prevent other
-  people from using it. You can also quickly switch users without logging out
-  completely to give somebody else access to the computer, or you can
-  suspend or power off the computer from the menu. If you have a screen 
-  that supports vertical or horizontal rotation, you can quickly rotate the 
-  screen from the system menu. If your screen does not support rotation, 
-  you will not see the button.</p>
+<p class="p">Al dejar su equipo, puede bloquear la pantalla para evitar que otras personas lo usen. Puede rápidamente cambiar de usuario sin necesidad de iniciar la sesión completamente para dar a alguien acceso al equipo. O bien, puede suspender o apagar el equipo desde el menú.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-exit.html" title="Cerrar la sesión, apagar o cambiar de usuario">Aprender más acerca de cambiar de usuario, cerrar la sesión y apagar el equipo.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></div>

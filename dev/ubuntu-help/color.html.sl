@@ -80,9 +80,9 @@
 <div class="linkdiv "><a class="linkdiv" href="color-calibrate-screen.html" title="Kako umeriti zaslon?"><span class="title">Kako umeriti zaslon?</span><span class="linkdiv-dash"> — </span><span class="desc">Umerjanje zaslona je pomembno za natančen prikaz barv na zaslonu.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-calibrationcharacterization.html" title="Kakšna je razlika med umerjanjem in karakterizacijo?"><span class="title">Kakšna je razlika med umerjanjem in karakterizacijo?</span><span class="linkdiv-dash"> — </span><span class="desc">Umerjanje in karakterizacija sta dve popolnoma različni stvari.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-calibrationtargets.html" title="Katere vrste ciljev so podprte?"><span class="title">Katere vrste ciljev so podprte?</span><span class="linkdiv-dash"> — </span><span class="desc">Umerjevalni cilji so potrebni za do profiliranje kamere in optičnega bralnika.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-calibrationdevices.html" title="Kateri instrumenti za merjenje barv so podprti?"><span class="title">Kateri instrumenti za merjenje barv so podprti?</span><span class="linkdiv-dash"> — </span><span class="desc">Podpiramo veliko število naprav za umerjanje.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrationcharacterization.html" title="What’s the difference between calibration and characterization?"><span class="title">What’s the difference between calibration and characterization?</span><span class="linkdiv-dash"> — </span><span class="desc">Umerjanje in karakterizacija sta dve popolnoma različni stvari.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-why-calibrate.html" title="Zakaj moram sam izvesti umerjanje?"><span class="title">Zakaj moram sam izvesti umerjanje?</span><span class="linkdiv-dash"> — </span><span class="desc">Umerjanje je pomembno, če vam ni vseeno kakšne barve prikazujete ali natisnete.</span></a></div>
 </div>
 </div></div></div></div></div>
@@ -97,7 +97,7 @@
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="color-testing.html" title="Kako lahko preizkusim ali upravljanje barv deluje pravilno?"><span class="title">Kako lahko preizkusim ali upravljanje barv deluje pravilno?</span><span class="linkdiv-dash"> — </span><span class="desc">Use the supplied test profiles to check that your profiles are being
     applied correctly to your screen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-notspecifiededid.html" title="Zakaj privzetim profilom zaslona umeritev ne poteče?"><span class="title">Zakaj privzetim profilom zaslona umeritev ne poteče?</span><span class="linkdiv-dash"> — </span><span class="desc">Privzeti profili zaslona nimajo datuma umerjanja.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-notspecifiededid.html" title="Why don’t the default monitor profiles have a calibration expiry?"><span class="title">Why don’t the default monitor profiles have a calibration expiry?</span><span class="linkdiv-dash"> — </span><span class="desc">Privzeti profili zaslona nimajo datuma umerjanja.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>

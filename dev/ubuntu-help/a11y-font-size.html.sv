@@ -57,7 +57,7 @@
 </ol></div></div></div>
 <p class="p">Alternativt så kan du snabbt ändra textstorlek genom att klicka på <span class="link"><a href="a11y-icon.html" title="Hitta hjälpmedelsmenyn">hjälpmedelsikonen</a></span> i systemraden och välja <span class="gui">Stor text</span>.</p>
 <div class="note note-tip" title="Tips"><div class="inner"><div class="region"><div class="contents"><p class="p">I många program kan du öka textstorleken när som helst genom att trycka <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>+</kbd></span></span>. För att minska textstorleken tryck <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>-</kbd></span></span>.</p></div></div></div></div>
-<p class="p"><span class="gui">Stor text</span> kommer att skala texten med 1,2 gånger. Du kan använda <span class="app">Justeringsverktyget</span> för att göra texten större eller mindre.</p>
+<p class="p"><span class="gui">Stor text</span> kommer att skala texten med 1,2 gånger. Du kan använda <span class="app">Justering</span> för att göra texten större eller mindre.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

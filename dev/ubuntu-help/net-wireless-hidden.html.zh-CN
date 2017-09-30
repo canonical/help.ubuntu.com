@@ -49,8 +49,8 @@
 <div class="hgroup"><h1 class="title"><span class="title">连接到一个隐藏的无线网络</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">It is possible to set up a wireless network so that it is "hidden." Hidden
- networks won't show up in the list of wireless networks displayed in the
+<p class="p">It is possible to set up a wireless network so that it is “hidden.” Hidden
+ networks won’t show up in the list of wireless networks displayed in the
  <span class="gui">Network</span> settings. To connect to a hidden wireless network:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#yourname" title="您和您的计算机">system menu</a></span> from the right
@@ -69,13 +69,16 @@
 <li class="steps"><p class="p">Click <span class="gui">Connect</span>.</p></li>
 </ol></div></div></div>
 <p class="p">You may have to check the settings of the wireless access point or router
-  to see what the network name is. If you don't have the network name (SSID),
+  to see what the network name is. If you don’t have the network name (SSID),
   you can use the <span class="em">BSSID</span> (Basic Service Set Identifier, the access
-  point's MAC address), which looks something like <span class="gui">02:00:01:02:03:04</span>
+  point’s MAC address), which looks something like <span class="gui">02:00:01:02:03:04</span>
   and can usually be found on the underside of the access point.</p>
 <p class="p">You should also check the security settings for the wireless access point.
   Look for terms like WEP and WPA.</p>
-<div class="note" title="备注"><div class="inner"><div class="region"><div class="contents"><p class="p">您可能想隐藏自己的无线网络，通过阻止陌生人的连接来改善安全性。在实践中，这样的网络稍稍有些难发现，但仍然可以检测到。</p></div></div></div></div>
+<div class="note" title="备注"><div class="inner"><div class="region"><div class="contents"><p class="p">You may think that hiding your wireless network will improve security by
+ preventing people who don’t know about it from connecting. In practice, this
+ is not the case; the network is slightly harder to find but it is still
+ detectable.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -93,7 +96,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">亦见</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-find.html" title="我在列表中找不到我的无线网络">我在列表中找不到我的无线网络</a><span class="desc"> — The wireless could be turned off or broken, or you may be trying to
+<a href="net-wireless-find.html" title="I can’t see my wireless network in the list">I can’t see my wireless network in the list</a><span class="desc"> — The wireless could be turned off or broken, or you may be trying to
     connect to a hidden network.</span>
 </li></ul></div>
 </div></div>

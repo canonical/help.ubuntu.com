@@ -2,7 +2,7 @@
 <html lang=fi>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Set screen brightness</title>
+<title>Aseta näytön kirkkaus</title>
 <link rel="stylesheet" type="text/css" href="fi.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -50,7 +50,7 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Set screen brightness</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Aseta näytön kirkkaus</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Depending on your hardware, you can change the brightness of your screen to
@@ -98,16 +98,17 @@
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-autobrightness.html" title="Enable automatic brightness">Enable automatic brightness</a><span class="desc"> — Automatically control screen brightness to reduce battery use.</span>
-</li>
-<li class="links ">
 <a href="power-batterylife.html" title="Käytä vähemmän virtaa ja säästä siten akkua">Käytä vähemmän virtaa ja säästä siten akkua</a><span class="desc"> — Vinkkejä tietokoneen virrankäytön vähentämiseksi.</span>
 </li>
 <li class="links ">
 <a href="power-whydim.html" title="Miksi näyttö himmenee itsestään?">Miksi näyttö himmenee itsestään?</a><span class="desc"> — The screen will dim when the computer is idle in order to save power.</span>
 </li>
 <li class="links ">
-<a href="a11y-contrast.html" title="Säädä kontrastia">Säädä kontrastia</a><span class="desc"> — Aseta ikkunoiden ja painikkeiden väritasot sopiviksi, jotta näkeminen on entistä helpompaa.</span>
+<a href="power-autobrightness.html" title="Ota käyttöön automaattinen kirkkaus">Ota käyttöön automaattinen kirkkaus</a><span class="desc"> — Automatically control screen brightness to reduce battery use.</span>
+</li>
+<li class="links ">
+<a href="a11y-contrast.html" title="Säädä kontrastia">Säädä kontrastia</a><span class="desc"> — Make windows and buttons on the screen more (or less) vivid, so
+    they’re easier to see.</span>
 </li>
 </ul></div>
 </div></div>

@@ -52,7 +52,10 @@
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Το ποντίκι αντιδρά με καθυστέρηση πριν ξεκινήσει να δουλεύει</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">Τα ασύρματα και οπτικά ποντίκια, καθώς και οι πινακίδες αφής στους φορητούς υπολογιστές, μπορεί να χρειάζονται να "ξυπνήσουν" πριν να δουλέψουν. Αδρανοποιούνται αυτόματα όταν δεν χρησιμοποιούνται για να εξοικονομήσουν ισχύ μπαταρίας. Για να ξυπνήσετε το ποντίκι σας ή την πινακίδα αφής μπορείτε να κάνετε κλικ σε ένα πλήκτρο ποντικιού ή να κινήσετε το ποντίκι.</p></div>
+<div class="contents"><p class="p">Wireless and optical mice, as well as touchpads on laptops, may need to
+  “wake up” before they start working. They automatically go to sleep when not in
+  use to save battery power. To wake up your mouse or touchpad, you can click on
+  a mouse button or wiggle the mouse.</p></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">

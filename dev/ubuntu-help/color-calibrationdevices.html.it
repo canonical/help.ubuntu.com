@@ -68,9 +68,13 @@
 <li class="list"><p class="p">Colorimètre HCFR (colorimetro)</p></li>
 </ul></div></div></div>
 <div class="note note-tip" title="Suggerimento"><div class="inner"><div class="region"><div class="contents"><p class="p">Il Pantone Huey è attualmente la più economica e la meglio supportata periferica su Linux.</p></div></div></div></div>
-<p class="p">Grazie ad Argyll sono supportati un numero di spettrometri riflettenti in grado di leggere punti e strisce per aiutare a calibrare e caratterizzare la propria stampante:</p>
+<p class="p">
+    Thanks to Argyll there’s also a number of spot and strip reading
+    reflective spectrometers supported to help you calibrating and
+    characterizing your printers:
+  </p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">X-Rite DTP20 "Pulse" (spettrometro riflettente di tipo "swipe")</p></li>
+<li class="list"><p class="p">X-Rite DTP20 “Pulse” (“swipe” type reflective spectrometer)</p></li>
 <li class="list"><p class="p">X-Rite DTP22 Digital Swatchbook (spettrometro riflettente di tipo puntuale)</p></li>
 <li class="list"><p class="p">X-Rite DTP41 (spettrometro riflettente per lettura di punti e strisce)</p></li>
 <li class="list"><p class="p">X-Rite DTP41T (spettrometro riflettente per lettura di punti e strisce)</p></li>

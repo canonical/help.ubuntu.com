@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>What to back up</title>
+<title>Waarvan een reservekopie maken</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,47 +43,31 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html#backup" title="Backing up">Backing up</a> » <a class="trail" href="backup-why.html" title="Back up your important files">Backups</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#backup" title="Reservekopieën maken">Reservekopieën maken</a> » <a class="trail" href="backup-why.html" title="Reservekopieën maken van uw belangrijke bestanden">Reservekopieën</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">What to back up</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Waarvan een reservekopie maken</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Your priority should be to back up your
- <span class="link"><a href="backup-thinkabout.html" title="Where can I find the files I want to back up?">most important files</a></span> as well as those
- that are difficult to recreate.  For example, ranked from most important to
- least important:</p>
+<p class="p">U zou prioriteit moeten geven aan het maken van reservekopieën van uw  <span class="link"><a href="backup-thinkabout.html" title="Waar kan ik de bestanden vinden waarvan ik een reservekopie wil maken?">belangrijkste bestanden</a></span>, evenals bestanden die moeilijk opnieuw aan te maken zijn. Een voorbeeld van belangrijkst tot minst belangrijk:</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms">Your personal files</dt>
-<dd class="terms"><p class="p">This may include documents, spreadsheets, email, calendar appointments,
-   financial data, family photos, or any other personal files that you would
-   consider irreplaceable.</p></dd>
-<dt class="terms">Your personal settings</dt>
-<dd class="terms"><p class="p"> This includes changes you may have made to colors, backgrounds, screen
-   resolution and mouse settings on your desktop. This also includes application
-   preferences, such as settings for <span class="app">LibreOffice</span>, your music player,
-   and your email program. These are replaceable, but may take a while to
-   recreate.</p></dd>
-<dt class="terms">System settings</dt>
-<dd class="terms"><p class="p">Most people never change the system settings that are created during
-   installation. If you do customize your system settings for some reason, or if
-   you use your computer as a server, then you may wish to back up these
-   settings.</p></dd>
-<dt class="terms">Installed software</dt>
-<dd class="terms"><p class="p">The software you use can normally be restored quite quickly after a
-   serious computer problem by reinstalling it.</p></dd>
+<dt class="terms">Uw persoonlijke bestanden</dt>
+<dd class="terms"><p class="p">Documenten, spreadsheets, e-mail, agenda-afspraken, financiële gegevens, familiefoto's, en andere persoonlijk bestanden die u niet kunt vervangen.</p></dd>
+<dt class="terms">Uw persoonlijke instellingen</dt>
+<dd class="terms"><p class="p">Dit omvat wijzigingen die u mogelijk in uw bureaublad gemaakt heeft, zoals kleuren, achtergronden, schermresolutie en muisinstellingen. Dit omvat ook toepassingsvoorkeuren, zoals instellingen voor <span class="app">LibreOffice</span>, uw muziekafspeler, en uw e-mailprogramma. Deze kunnen opnieuw worden opgegeven, maar dat kan wel even duren.</p></dd>
+<dt class="terms">Systeeminstellingen</dt>
+<dd class="terms"><p class="p">De meeste mensen wijzigen nooit de instellingen die tijdens de installatie werden aangemaakt. Als u wel uw systeem aanpast, of als u een server gebruikt, wilt u deze instellingen mogelijk bewaren.</p></dd>
+<dt class="terms">Geïnstalleerde software</dt>
+<dd class="terms"><p class="p">De software die u gebruikt kan na problemen meestal teruggezet worden door het opnieuw te installeren.</p></dd>
 </dl></div></div></div>
-<p class="p">In general, you will want to back up files that are irreplaceable and files
- that require a great time investment to replace without a backup. If things are
- easy to replace, on the other hand, you may not want to use up disk space by
- having backups of them.</p>
+<p class="p">Over het algemeen zult u reservekopieën willen maken van bestanden die niet te vervangen zijn en bestanden die veel tijd kosten om terug te plaatsen zonder een reservekopie. Maar voor bestanden die gemakkelijk terug te plaatsen zijn, is het zonde schijfruimte te gebruiken en er reservekopieën van te maken.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="backup-why.html" title="Back up your important files">Back up your important files</a><span class="desc"> — Why, what, where and how of backups.</span>
+<a href="backup-why.html" title="Reservekopieën maken van uw belangrijke bestanden">Reservekopieën maken van uw belangrijke bestanden</a><span class="desc"> — Het waarom, wat, waar en hoe van reservekopieën maken.</span>
 </li></ul></div>
 </div></div></div>
 </div>

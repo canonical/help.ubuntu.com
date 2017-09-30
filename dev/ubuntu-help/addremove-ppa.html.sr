@@ -62,7 +62,10 @@
 <div class="title title-steps"><h2><span class="title">Инсталирајте ППА</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">На страници прегледа ППА, потражите заглавље <span class="gui">Додајте ову ППА на ваш систем</span>. Обратите пажњу на место ППА, које би требало да изгледа слично као: <span class="code">ppa:mozillateam/firefox-next</span>.</p></li>
-<li class="steps"><p class="p">Кликните на иконицу <span class="app">Убунтуов софтвер</span> на <span class="gui">Покретачу</span>, или потражите <span class="input">Софтвер</span> у траци претраге у <span class="gui">Полетнику</span>.</p></li>
+<li class="steps"><p class="p">
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">Када се покрене <span class="app">Убунтуов софтвер</span>, кликните <span class="gui">Софтвер и ажурирања</span></p></li>
 <li class="steps"><p class="p">Пређите на језичак <span class="gui">Остали програми</span>.</p></li>
 <li class="steps"><p class="p">

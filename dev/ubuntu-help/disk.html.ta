@@ -49,14 +49,17 @@
 <div class="hgroup"><h1 class="title"><span class="title">வட்டுகள் &amp; சேமிப்பிடம்</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
+<div class="linkdiv "><a class="linkdiv" href="disk-resize.html" title="Adjust the size of a filesystem"><span class="title">Adjust the size of a filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Shrink or grow a filesystem and its partition.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="addremove-creator.html" title="Create a startup disk"><span class="title">
     Create a startup disk
   </span><span class="linkdiv-dash"> — </span><span class="desc"> 
     Convert a USB flash drive into a volume from which you can startup and install Ubuntu.
     </span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-repair.html" title="Repair a damaged filesystem"><span class="title">Repair a damaged filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Check if a filesystem is damaged and bring it back into a usable
+          state.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-capacity.html" title="இன்னும் எவ்வளவு வட்டு இடம் உள்ளது எனப் பாருங்கள்"><span class="title">இன்னும் எவ்வளவு வட்டு இடம் உள்ளது எனப் பாருங்கள்</span><span class="linkdiv-dash"> — </span><span class="desc">இடம் மற்றும் கொள்ளளவைப் பார்க்க <span class="gui">வட்டு பயன்பாடு ஆராய்வி</span> அல்லது <span class="gui">கணினி கண்காணிப்புக் கருவி</span> ஐப் பயன்படுத்தவும்.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-benchmark.html" title="உங்கள் வன்வட்டின் செயல்திறனை சோதித்தல்"><span class="title">உங்கள் வன்வட்டின் செயல்திறனை சோதித்தல்</span><span class="linkdiv-dash"> — </span><span class="desc">உங்கள் வன்வட்டின் வேகத்தை அறிய அதில் பென்ச்மார்க்குகளை இயக்கவும்.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-check.html" title="உங்கள் வன்வட்டில் ஏதேனும் பிரச்சினைகள் உள்ளதா என சோதித்தல்"><span class="title">உங்கள் வன்வட்டில் ஏதேனும் பிரச்சினைகள் உள்ளதா என சோதித்தல்</span><span class="linkdiv-dash"> — </span><span class="desc">உங்கள் வன் வட்டில் ஏதேனும் பிரச்சினைகள் உள்ளதா என்றும் அது ஆரோக்கியமான தான் உள்ளதா என உறுதி செய்ய அதை சோதனை செய்யவும்.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-check.html" title="உங்கள் வன்வட்டில் ஏதேனும் பிரச்சினைகள் உள்ளதா என சோதித்தல்"><span class="title">உங்கள் வன்வட்டில் ஏதேனும் பிரச்சினைகள் உள்ளதா என சோதித்தல்</span><span class="linkdiv-dash"> — </span><span class="desc">Test your hard disk for problems to make sure that it’s healthy.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-partitions.html" title="தொகுதிகள் மற்றும் பிரிவாக்கங்களை நிர்வகித்தல்"><span class="title">தொகுதிகள் மற்றும் பிரிவாக்கங்களை நிர்வகித்தல்</span><span class="linkdiv-dash"> — </span><span class="desc">தொகுதிகள், பிரிவாக்கங்கள் என்றால் என்ன என்று புரிந்துகொண்டு, அவற்றை நிர்வகிக்க வட்டுப் பயன்பாட்டைப் பயன்படுத்தவும்.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-format.html" title="நீக்கக்கூடிய வட்டிலிருந்து அனைத்தையும் அழிக்கவும்"><span class="title">நீக்கக்கூடிய வட்டிலிருந்து அனைத்தையும் அழிக்கவும்</span><span class="linkdiv-dash"> — </span><span class="desc">வெளிப்புற வன் வட்டு அல்லது USB பிளாஷ் வட்டை ஃபார்மேட் செய்து அதிலுள்ள கோப்புகள் மற்றும் கோப்புறைகள் அனைத்தையும் அகற்றவும்.</span></a></div>
 </div></div></div></div>

@@ -53,10 +53,7 @@
 <div class="linkdiv "><a class="linkdiv" href="shell-introduction.html" title="Introduction à GNOME"><span class="title">Introduction à GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Une introduction visuelle au bureau, à la barre supérieure et à la vue d'ensemble des <span class="gui">Activités</span>.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Déconnexion, extinction, ou changement d'utilisateur"><span class="title">Déconnexion, extinction, ou changement d'utilisateur</span><span class="linkdiv-dash"> — </span><span class="desc">Apprendre à quitter son compte utilisateur, en se déconnectant, en changeant d'utilisateur…</span></a></div>
 </div>
-<div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Lancement d'applications"><span class="title">Lancement d'applications</span><span class="linkdiv-dash"> — </span><span class="desc">Lancer des applications à partir de la vue d'ensemble des <span class="gui">Activités</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-guest-session.html" title="Démarrer une session d'invité restreinte"><span class="title">Démarrer une session d'invité restreinte</span><span class="linkdiv-dash"> — </span><span class="desc">Laissez un ami ou un collègue emprunter votre ordinateur en toute sécurité.</span></a></div>
-</div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Lancement d'applications"><span class="title">Lancement d'applications</span><span class="linkdiv-dash"> — </span><span class="desc">Lancer des applications à partir de la vue d'ensemble des <span class="gui">Activités</span>.</span></a></div></div>
 </div></div></div></div>
 <div id="desktop" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Customize your desktop</span></h2></div>

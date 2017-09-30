@@ -49,7 +49,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Kas ir draiveris?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Ierīces ir jūsu datora fiziskas "sastāvdaļas". Tās var būt <span class="em">ārējas</span> kā printeri un monitors vai <span class="em">iekšējas</span> kā video kartes un skaņas kartes.</p>
+<p class="p">Ierīces ir jūsu datora fiziskas “sastāvdaļas”. Tās var būt <span class="em">ārējas</span> kā printeri un monitors vai <span class="em">iekšējas</span> kā video kartes un skaņas kartes.</p>
 <p class="p">Lai jūsu dators varētu izmantot šīs ierīces, tam ir jāzina, kā ar tām sazināties. To veic programma, ko sauc par <span class="em">ierīces draiveri</span>.</p>
 <p class="p">Kad jūs pievienojiet ierīci pie datora, jums ir jābūt instalētiem pareizajiem draiveriem darbam ar šo ierīci. Piemēram, ja jūs pievienojat printeri, bet pareizie draiveri nav pieejami, jūs nevarēsiet to izmantot. Parasti katrs ierīces modelis izmanto draiverus, kas neder citiem modeļiem.</p>
 <p class="p">Linux vidē lielākajai daļai ierīču draiveri ir instalēti pēc noklusējuma, tāpēc visam vajadzētu strādāt pēc pieslēgšanas. Tomēr var būt nepieciešams instalēt draiverus pašrocīgi, vai arī tie var nebūt pieejami vispār.</p>

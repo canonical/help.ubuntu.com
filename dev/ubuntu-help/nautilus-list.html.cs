@@ -50,7 +50,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">K dispozici je jedenáct různých sloupců s informace, které si můžete zobrazit ve sloupcovém zobrazení v <span class="gui">Souborech</span>. Klikněte na <span class="gui">Soubory</span> v horní liště, zvolte <span class="gui">Předvolby</span> a vyberte kartu <span class="gui">Sloupce seznamu</span>, abyste mohli vybrat, které sloupce budou viditelné.</p>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Můžete použít tlačítka <span class="gui">∧</span> a <span class="gui">∨</span> ke změně pořadí, v jakém se vybrané sloupce objeví. Když potřebujete změny vrátit zpět a používat výchozí sloupce, klikněte na <span class="gui">Vrátit na výchozí</span>.</p></div></div></div></div>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Můžete použít tlačítka <span class="gui">∧</span> a <span class="gui">∨</span> ke změně pořadí, v jakém se vybrané sloupce objeví. Když potřebujete změny vrátit zpět a používat výchozí sloupce, klikněte na <span class="gui">Nastavit na výchozí</span>.</p></div></div></div></div>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Název</span></dt>
 <dd class="terms">
@@ -61,7 +61,7 @@
 <dd class="terms"><p class="p">Velikost složky je dána počtem položek, které obsahuje. Velikost souboru je uvedena v bajtech, kB nebo MB.</p></dd>
 <dt class="terms"><span class="gui">Typ</span></dt>
 <dd class="terms"><p class="p">Zobrazeno buď jako složka nebo jako typ souboru, jako je dokument PDF, obrázek JPEG, zvuk MP3 apod.</p></dd>
-<dt class="terms"><span class="gui">Změněný</span></dt>
+<dt class="terms"><span class="gui">Změněno</span></dt>
 <dd class="terms"><p class="p">Uvádí datum z časového údaje, kdy byl soubor naposledy změněn.</p></dd>
 <dt class="terms"><span class="gui">Vlastník</span></dt>
 <dd class="terms"><p class="p">Jméno uživatele, který složku nebo soubor vlastní.</p></dd>
@@ -88,9 +88,9 @@
 <dd class="terms"><p class="p">Zobrazuje typ MIME položky.</p></dd>
 <dt class="terms"><span class="gui">Umístění</span></dt>
 <dd class="terms"><p class="p">Cesta k umístění souboru.</p></dd>
-<dt class="terms"><span class="gui">Změněný – čas</span></dt>
+<dt class="terms"><span class="gui">Změněno — čas</span></dt>
 <dd class="terms"><p class="p">Uvádí datum a čas, kdy byl soubor naposledy změněn.</p></dd>
-<dt class="terms"><span class="gui">Použitý</span></dt>
+<dt class="terms"><span class="gui">Použito</span></dt>
 <dd class="terms"><p class="p">Uvádí datum nebo čas, kdy byl soubor naposledy změněn.</p></dd>
 </dl></div></div></div>
 </div>

@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Create a wireless hotspot</title>
+<title>Een draadloos-hotspot creëren</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,43 +43,36 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="Wireless Networking">Wireless Networking</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html" title="Draadloos netwerk">Draadloos netwerk</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Create a wireless hotspot</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Een draadloos-hotspot creëren</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">You can use your computer as a wireless hotspot. This allows other devices
   to connect to you without a separate network, and allows you to share an
-  internet connection you've made with another interface, such as to a wired
+  internet connection you’ve made with another interface, such as to a wired
   network or over the cellular network.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#yourname" title="You and your computer">system menu</a></span> from the right
-    side of the top bar.</p></li>
-<li class="steps"><p class="p">Select
-    <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span>
-      Wi-Fi Not Connected</span> or the name of the wireless network to which
-    you are already connected. The Wi-Fi section of the menu will expand.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Wi-Fi Settings</span>.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Use as Hotspot...</span> button.</p></li>
-<li class="steps"><p class="p">If you are already connected to a wireless network, you will be
-  asked if you want to disconnect from that network. A single wireless adapter
-  can connect to or create only one network at a time. Click <span class="gui">Turn On</span>
-  to confirm.</p></li>
+<li class="steps"><p class="p">Open het <span class="link"><a href="unity-menubar-intro.html" title="unity-menubar-intro">Systeemmenu</a></span> aan de rechterzijde van de menubalk.</p></li>
+<li class="steps"><p class="p">Selecteer <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span> Wifi niet verbonden</span> of de naam van het draadloze netwerk waarmee u al verbonden bent. Het wifi-gedeelte van het menu zal nu uitklappen.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Wifi-instellingen</span>.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Use as Hotspot…</span> button.</p></li>
+<li class="steps"><p class="p">Als u al verbonden bent met een draadloos netwerk, dan wordt u gevraagd of u de verbinding met dat netwerk wilt verbreken. Een enkele draadloos-adapter kan met slechts één netwerk tegelijk verbinding maken of creëren. Klik op <span class="gui">Aanzetten</span> om te bevestigen.</p></li>
 </ol></div></div></div>
 <p class="p">A network name (SSID) and security key are automatically generated.
 The network name will be based on the name of your computer. Other devices
-will need this information to connect to the hotspot you've just created.</p>
+will need this information to connect to the hotspot you’ve just created.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Wireless Networking">Wireless Networking</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html" title="Connect to a wireless network">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="Connect to a hidden wireless network">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="Why does my wireless network keep disconnecting?">Disconnecting</a></span>…
+<a href="net-wireless.html" title="Draadloos netwerk">Draadloos netwerk</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html" title="Verbinding maken met een draadloos netwerk">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html" title="Met een verborgen draadloos netwerk verbinden">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Disconnecting</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

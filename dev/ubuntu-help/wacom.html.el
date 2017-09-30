@@ -49,8 +49,8 @@
 <div class="hgroup"><h1 class="title"><span class="title">Tablet γραφικών Wacom</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
+<div class="linkdiv "><a class="linkdiv" href="wacom-mode.html" title="Set the Wacom tablet’s tracking mode"><span class="title">Set the Wacom tablet’s tracking mode</span><span class="linkdiv-dash"> — </span><span class="desc">Αλλάξτε το tablet μεταξύ λειτουργίας tablet και λειτουργίας ποντικιού.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-multi-monitor.html" title="Επιλέξτε μια οθόνη"><span class="title">Επιλέξτε μια οθόνη</span><span class="linkdiv-dash"> — </span><span class="desc">Απεικονίστε το tablet Wacom σε μια συγκεκριμένη οθόνη.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="wacom-mode.html" title="Ορίστε την λειτουργία ανίχνευσης του tablet Wacom"><span class="title">Ορίστε την λειτουργία ανίχνευσης του tablet Wacom</span><span class="linkdiv-dash"> — </span><span class="desc">Αλλάξτε το tablet μεταξύ λειτουργίας tablet και λειτουργίας ποντικιού.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-stylus.html" title="Ρύθμιση της γραφίδας"><span class="title">Ρύθμιση της γραφίδας</span><span class="linkdiv-dash"> — </span><span class="desc">Ορίστε τις λειτουργίες κουμπιών και αίσθησης πίεσης της γραφίδας Wacom.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html" title="Χρησιμοποιήστε το αριστερόχειρο tablet"><span class="title">Χρησιμοποιήστε το αριστερόχειρο tablet</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the Wacom tablet to <span class="gui">Left-Handed Orientation</span>.</span></a></div>
 </div></div></div></div>

@@ -2,7 +2,7 @@
 <html lang=cs>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Install &amp; remove software</title>
+<title>Instalace a odstranění softwaru</title>
 <link rel="stylesheet" type="text/css" href="cs.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,41 +46,25 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Install &amp; remove software</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Instalace a odstranění softwaru</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="addremove-install.html" title="Install additional applications"><span class="title">
-    Install additional applications
-  </span><span class="linkdiv-dash"> — </span><span class="desc">
-      Use <span class="app">Ubuntu Software</span> to install additional applications and make Ubuntu more 
-      useful.
-    </span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-remove.html" title="Odstranění aplikace"><span class="title">Odstranění aplikace</span><span class="linkdiv-dash"> — </span><span class="desc">
-      Remove applications that you no longer use.
-    </span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-sources.html" title="Add software repositories"><span class="title">
-    Add software repositories
-  </span><span class="linkdiv-dash"> — </span><span class="desc">
-      Add repositories to extend the software sources Ubuntu uses for 
-      installation and upgrades.
-    </span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-install-synaptic.html" title="Použití Synaptic pro pokročilejší správu softwaru"><span class="title">Použití Synaptic pro pokročilejší správu softwaru</span><span class="linkdiv-dash"> — </span><span class="desc">
-      Synaptic is a powerful but complicated software management alternative to 
-      <span class="app">Ubuntu Software</span>.
-    </span></a></div>
-</div>
-<div class="links-twocolumn">
+<div class="linkdiv "><a class="linkdiv" href="addremove-install.html" title="Instalace dodatečných aplikací"><span class="title">Instalace dodatečných aplikací</span><span class="linkdiv-dash"> — </span><span class="desc">Použijte <span class="app">Ubuntu Software</span> k instalaci dodatečných aplikací a vylepšete své Ubuntu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-remove.html" title="Odstranění aplikace"><span class="title">Odstranění aplikace</span><span class="linkdiv-dash"> — </span><span class="desc">Odstraňte aplikace, které již nepoužíváte.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-install-synaptic.html" title="Použití Synaptic pro pokročilejší správu softwaru"><span class="title">Použití Synaptic pro pokročilejší správu softwaru</span><span class="linkdiv-dash"> — </span><span class="desc">Synaptic je efektivní, ale komplikovanou alternativou k <span class="app">Ubuntu Software</span>.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="addremove-ppa.html" title="Přidávání zdrojů Personal Package Archive (PPA)"><span class="title">Přidávání zdrojů Personal Package Archive (PPA)</span><span class="linkdiv-dash"> — </span><span class="desc">
         Add PPAs to extend the software sources Ubuntu uses for
         installation and upgrades.
     </span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html" title="Create a startup disk"><span class="title">
-    Create a startup disk
-  </span><span class="linkdiv-dash"> — </span><span class="desc"> 
-    Convert a USB flash drive into a volume from which you can startup and install Ubuntu.
+</div>
+<div class="links-twocolumn">
+<div class="linkdiv "><a class="linkdiv" href="addremove-sources.html" title="Přidávání zdrojů softwaru"><span class="title">Přidávání zdrojů softwaru</span><span class="linkdiv-dash"> — </span><span class="desc">
+      Add repositories to extend the software sources Ubuntu uses for 
+      installation and upgrades.
     </span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="prefs-language-install.html" title="Instalace jazyků"><span class="title">Instalace jazyků</span><span class="linkdiv-dash"> — </span><span class="desc">Instalace překladů a souvisejících balíků jazykové podpory.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html" title="Tvorba spouštěcího disku"><span class="title">Tvorba spouštěcího disku</span><span class="linkdiv-dash"> — </span><span class="desc">Převeďte jednotku USB flash do svazku, ze kterého budete moci spustit a instalovat Ubuntu.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">

@@ -63,7 +63,7 @@
 <p class="p">Você pode restringir seus resultados pela localização e tipo do arquivo.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Clique em <span class="gui">Pasta pessoal</span> para restringir os resultados de pesquisas a sua <span class="file">Pasta pessoal</span> ou <span class="gui">Todos arquivos</span> para pesquisar em tudo.</p></li>
-<li class="list"><p class="p">Clique em <span class="gui">+</span> e selecione um <span class="gui">Tipo de arquivo</span> na lista suspensa para restringir os resultados da pesquisa baseando-se no tipo de arquivo. Clique no botão <span class="gui">x</span> para remover esta opção e ampliar os resultados de pesquisa.</p></li>
+<li class="list"><p class="p">Clique em <span class="gui">+</span> e selecione um <span class="gui">Tipo de arquivo</span> na lista suspensa para restringir os resultados da pesquisa baseando-se no tipo de arquivo. Clique no botão <span class="gui">×</span> para remover esta opção e ampliar os resultados de pesquisa.</p></li>
 </ul></div></div></div>
 </li>
 <li class="steps"><p class="p">Você pode abrir, copiar, excluir ou fazer qualquer outra tarefa com seus arquivos a partir dos resultados da busca, assim como faria com qualquer outra pasta no seu gerenciador de arquivos.</p></li>

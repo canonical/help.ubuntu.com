@@ -2,7 +2,7 @@
 <html lang=el>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Το καινούργιο μου iPod δεν δουλεύει</title>
+<title>My new iPod won’t work</title>
 <link rel="stylesheet" type="text/css" href="el.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,10 +46,10 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Ήχος, βίντεο &amp; εικόνες">Ήχος, βίντεο &amp; εικόνες</a> › <a class="trail" href="media.html#music" title="Μουσική και φορητοί αναπαραγωγείς ήχου">Μουσική και αναπαραγωγείς</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Το καινούργιο μου iPod δεν δουλεύει</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">My new iPod won’t work</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Εάν έχετε ένα νέο iPod που δεν έχει ποτέ συνδεθεί προηγουμένως σε έναν υπολογιστή, δεν θα αναγνωριστεί σωστά όταν το συνδέσετε σε έναν υπολογιστή με Linux. Αυτό συμβαίνει επειδή τα iPod χρειάζονται να ρυθμιστούν και να ενημερωθούν χρησιμοποιώντας το λογισμικό <span class="app">iTunes</span>, που εκτελείται μόνο σε Windows και Mac OS.</p>
+<p class="p">If you have a new iPod that has never been connected to a computer before, it won’t be recognized properly when you connect it to a Linux computer. This is because iPods need to be set up and updated using the <span class="app">iTunes</span> software, which only runs on Windows and Mac OS.</p>
 <p class="p">Για να ρυθμίσετε το iPod σας, εγκαταστήστε το iTunes σε έναν υπολογιστή Windows και Mac και συνδέστε το. Θα οδηγηθείτε μέσα από λίγα βήματα για να το ρυθμίσετε. Εάν σας ζητηθεί η <span class="gui">Μορφή του τόμου</span>, επιλέξτε <span class="gui">MS-DOS (FAT)</span>, <span class="gui">Windows</span> ή παρόμοια. Η άλλη μορφή (HFS/Mac) δεν δουλεύει επίσης με Linux.</p>
 <p class="p">Μόλις έχετε τελειώσει την εγκατάσταση, το iPod πρέπει να δουλεύει κανονικά όταν το συνδέσετε σε έναν υπολογιστή Linux.</p>
 </div>

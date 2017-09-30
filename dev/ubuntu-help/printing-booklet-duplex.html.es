@@ -56,7 +56,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra el diálogo de impresión. Esto se puede hacer normalmente mediante el elemento de menú <span class="gui">Imprimir</span> o usando el atajo del teclado <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
 <li class="steps">
-<p class="p">Pulse el botón <span class="gui">Propiedades...</span>.</p>
+<p class="p">Pulse el botón <span class="gui">Propiedades…</span>.</p>
 <p class="p">En la lista desplegable <span class="gui">Orientación</span>, asegúrese de que la opción <span class="gui">Apaisado</span> está seleccionada</p>
 <p class="p">En la lista desplegable <span class="gui">Dos caras</span> elija <span class="gui">Margen corto</span>.</p>
 <p class="p">Pulse <span class="gui">Aceptar</span> para volver al diálogo de impresión.</p>

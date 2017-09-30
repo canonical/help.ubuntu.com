@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="printing.html" title="Afdrukken">Afdrukken</a> › <a class="trail" href="printing.html#paper" title="Verschillende papierformaten en indelingen">Sizes and layouts</a> » <a class="trail" href="printing-booklet.html" title="Print a booklet">Print a booklet</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="printing.html" title="Afdrukken">Afdrukken</a> › <a class="trail" href="printing.html#paper" title="Verschillende papierformaten en indelingen">Formaten en indeling</a> » <a class="trail" href="printing-booklet.html" title="Print a booklet">Print a booklet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Print a booklet on a double-sided printer</span></h1></div>
@@ -57,13 +57,13 @@
   first export it to a PDF by choosing <span class="guiseq"><span class="gui">File</span> ▸ <span class="gui">Export
   as PDF…</span></span>. Your document needs to have a multiple of 4 number of
   pages (4, 8, 12, 16,…). You may need to add up to 3 blank pages.</p>
-<p class="p">To print a booklet:</p>
+<p class="p">Om een boek te printen:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the print dialog. This can normally be done through
       <span class="gui">Print</span> in the menu or using the
       <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> keyboard shortcut.</p></li>
 <li class="steps">
-<p class="p">Click the <span class="gui">Properties...</span> button </p>
+<p class="p">Click the <span class="gui">Properties…</span> button </p>
 <p class="p">In the <span class="gui">Orientation</span> drop-down list, make sure that
       <span class="gui">Landscape</span> is selected.</p>
 <p class="p">In the <span class="gui">Duplex</span> drop-down list, select <span class="gui">Short Edge</span>.
@@ -74,14 +74,12 @@
 <li class="steps">
 <p class="p">Type the numbers of the pages in this order (n is the total number of
       pages, and a multiple of 4):</p>
-<p class="p">n, 1, 2, n-1, n-2, 3, 4, n-3, n-4, 5, 6, n-5, n-6, 7, 8, n-7, n-8, 9,
-      10, n-9, n-10, 11, 12, n-11…</p>
-<p class="p">Examples:</p>
+<p class="p">n, 1, 2, n-1, n-2, 3, 4, n-3, n-4, 5, 6, n-5, n-6, 7, 8, n-7, n-8, 9, 10, n-9, n-10, 11, 12, n-11…</p>
+<p class="p">Voorbeelden: </p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">4 page booklet: Type <span class="input">4,1,2,3</span></p></li>
-<li class="list"><p class="p">8 page booklet: Type <span class="input">8,1,2,7,6,3,4,5</span></p></li>
-<li class="list"><p class="p">20 page booklet: Type
-        <span class="input">20,1,2,19,18,3,4,17,16,5,6,15,14,7,8,13,12,9,10,11</span></p></li>
+<li class="list"><p class="p">Boek met 4 pagina's: Typ <span class="input">4,1,2,3</span></p></li>
+<li class="list"><p class="p">Boek met 8 pagina's: Typ <span class="input">8,1,2,7,6,3,4,5</span></p></li>
+<li class="list"><p class="p">Boek met 20 pagina's: Typ<span class="input">20,1,2,19,18,3,4,17,16,5,6,15,14,7,8,13,12,9,10,11</span></p></li>
 </ul></div></div></div>
 </li>
 <li class="steps">
@@ -90,7 +88,7 @@
 <p class="p">Under <span class="gui">Page Sides</span>, in the <span class="gui">Include</span> drop-down list,
       select <span class="gui">All pages</span>.</p>
 </li>
-<li class="steps"><p class="p">Click <span class="gui">Print</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Afdrukken</span>.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">

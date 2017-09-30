@@ -76,7 +76,13 @@
 </li>
 <li class="list">
 <p class="p">Look for restricted (binary) drivers.</p>
-<p class="p">Многие дистрибутивы Linux содержат лишь <span class="em">свободные</span> драйверы устройств <span class="em">с открытым исходным кодом</span>, так как они не имеют права распространять проприетарные драйверы, исходный код которых закрыт. Если драйвер вашего беспроводного адаптера доступен только в виде несвободной «только двоичной» версии, он может не устанавливаться по умолчанию. В этом случае посмотрите, нет ли на веб-сайте производителя беспроводного адаптера драйверов для Linux.</p>
+<p class="p">Many Linux distributions only come with device drivers which are
+      <span class="em">free</span> and <span class="em">open source</span>. This is because they cannot
+      distribute drivers which are proprietary, or closed-source. If the
+      correct driver for your wireless adapter is only available in a non-free,
+      or “binary-only” version, it may not be installed by default. If this is
+      the case, look on the wireless adapter manufacturer’s website to see if
+      they have any Linux drivers.</p>
 <p class="p">В некоторых дистрибутивах Linux есть инструмент, который может загрузить для вас проприетарные драйверы. Если он имеется в вашем дистрибутиве, используйте его, чтобы проверить, не найдёт ли он драйверы для беспроводного устройства.</p>
 </li>
 <li class="list">

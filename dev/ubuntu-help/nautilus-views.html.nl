@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Views preferences in Files</title>
+<title>Weergaven-voorkeuren in Bestanden</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,33 +43,29 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » <a class="trail" href="nautilus-prefs.html" title="File manager preferences">File manager preferences</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a> » <a class="trail" href="nautilus-prefs.html" title="Bestandsbeheer-voorkeuren">Bestandsbeheer-voorkeuren</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Views preferences in <span class="app">Files</span></span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Weergaven-voorkeuren in <span class="app">Bestanden</span></span></h1></div>
 <div class="region">
 <div class="contents"><p class="p">You can change how files and folders are grouped and sorted by default.
 Select <span class="guiseq"><span class="gui">Files</span> ▸ <span class="gui">Preferences</span></span> in the top bar while
 <span class="app">Files</span> is open and select the <span class="gui">Views</span> tab.</p></div>
 <div id="default-view" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Default view</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Standaardweergave</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Arrange items</span></dt>
+<dt class="terms"><span class="gui">Items ordenen</span></dt>
 <dd class="terms">
-<p class="p">You can change the default sort order that is used in folders using the
-    <span class="gui">Arrange items</span> drop-down list in the preferences to sort by name,
-    file size, file type, when they were last modified, when they were last
-    accessed or when they were trashed.</p>
-<p class="p">You can change how <span class="link"><a href="files-sort.html" title="Sort files and folders">files are
+<p class="p">U kan in de voorkeuren de voor mappen gebruikte standaard sorteervolgorde met behulp van de <span class="gui">Items sorteren</span> keuzelijst wijzigen om op naam, bestandsgrootte, bestandstype, wijzigingsdatum, wanneer ze het laatst geopend zijn, of wanneer ze naar de prullenbak zijn verplaatst te sorteren.</p>
+<p class="p">You can change how <span class="link"><a href="files-sort.html" title="Bestanden en mappen sorteren">files are
     sorted</a></span> in an individual folder by clicking the view options
     
     button in the toolbar and choosing <span class="gui">Name</span>,
     <span class="gui">Size</span>, <span class="gui">Type</span> or <span class="gui">Last Modified</span>, or by
     clicking the list column headers in list view.</p>
 </dd>
-<dt class="terms"><span class="gui">Sort folders before files</span></dt>
-<dd class="terms"><p class="p">By default, the file manager no longer shows all folders before files.
-    To see all folders listed before files, enable this option.</p></dd>
+<dt class="terms"><span class="gui">Mappen vóór bestanden sorteren</span></dt>
+<dd class="terms"><p class="p">De bestandsbeheerder geeft niet langer de mappen vóór de bestanden weer. Kies deze optie om alle mappen vóórde lijst met bestanden te laten weergeven.</p></dd>
 </dl></div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -77,7 +73,7 @@ Select <span class="guiseq"><span class="gui">Files</span> ▸ <span class="gui
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="File manager preferences">File manager preferences</a><span class="desc"> — View and set preferences for the file browser.</span>
+<a href="nautilus-prefs.html" title="Bestandsbeheer-voorkeuren">Bestandsbeheer-voorkeuren</a><span class="desc"> — Voorkeuren voor de bestandsbeheerder bekijken en instellen.</span>
 </li></ul></div>
 </div></div></div>
 </div>

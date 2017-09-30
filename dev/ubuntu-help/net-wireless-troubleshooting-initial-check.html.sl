@@ -59,7 +59,10 @@
 </div>
 <div class="region">
 <div class="contents">
-<p class="p">V naslednjem koraku boste preverili nekaj osnovnih podatkov o svoji brezžični povezavi. S tem boste preverili, da vaše težave ne povzroča relativno enostavna težava kot je izklopljena brezžična povezava in se pripravili na naslednjih nekaj korakov za odpravljanje težav.</p>
+<p class="p">In this step you will check some basic information about your wireless
+  network connection. This is to make sure that your networking problem isn’t
+  caused by a relatively simple issue, like the wireless connection being
+  turned off, and to prepare for the next few troubleshooting steps.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Prepričajte se, da vaš prenosnik ni povezan z <span class="em">žično</span> internetno povezavo.</p></li>
 <li class="steps"><p class="p">V primeru da imate zunanjo brezžično kartico (kot je brezžična kartica USB ali kartica PCMICA), se prepričajte, da je vstavljena v ustrezen prostor na računalniku.</p></li>

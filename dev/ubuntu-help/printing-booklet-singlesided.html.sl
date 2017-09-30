@@ -59,7 +59,7 @@
       <span class="gui">Print</span> in the menu or using the
       <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> keyboard shortcut.</p></li>
 <li class="steps">
-<p class="p">Click the <span class="gui">Properties...</span> button </p>
+<p class="p">Click the <span class="gui">Properties…</span> button </p>
 <p class="p">In the <span class="gui">Orientation</span> drop-down list, make sure that
       <span class="gui">Landscape</span> is selected.</p>
 <p class="p">Click <span class="gui">OK</span> to go back to the print dialog.</p>

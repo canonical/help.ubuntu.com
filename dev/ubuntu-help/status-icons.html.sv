@@ -167,7 +167,7 @@
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-no-route-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Det finns ingen dirigering för detta nätverket.</p></td>
+<td><p class="p">Det finns ingen dirigering för detta nätverk.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-offline-symbolic.svg" class="media media-block" alt=""></div></div></td>

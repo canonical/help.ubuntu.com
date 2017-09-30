@@ -50,8 +50,13 @@
 <div class="region">
 <div class="contents">
 <p class="p">Για να αλλάξετε την ένταση του ήχου, ανοίξτε το <span class="gui"><a href="shell-introduction.html#yourname" title="Εσείς και ο υπολογιστή σας">μενού συστήματος</a></span> από τη δεξιά πλευρά της πάνω γραμμής και μετακινήστε τον ολισθητή έντασης αριστερά ή δεξιά. Μπορείτε να κλείσετε πλήρως τον ήχο σύροντας τον ολισθητή τελείως αριστερά.</p>
-<p class="p">Μερικά πληκτρολόγια έχουν πλήκτρα που επιτρέπουν τον ελέγχο της έντασης. Φαίνονται κανονικά ως τυποποιημένα ηχεία με κύματα που βγαίνουν από μέσα τους. Είναι συχνά κοντά στα πλήκτρα "F" στην πάνω μεριά. Στα πληκτρολόγια φορητού υπολογιστή, είναι συνήθως στα πλήκτρα "F". Κρατήστε πατημένο το πλήκτρο <span class="key"><kbd class="key-Fn">Fn</kbd></span> στο πληκτρολόγιο σας για να το χρησιμοποιήσετε.</p>
-<p class="p">Φυσικά, εάν έχετε εξωτερικά ηχεία, μπορείτε επίσης να αλλάξετε την ένταση χρησιμοποιώντας τον ολισθητή έντασης των ηχείων. Μερικά ακουστικά έχουν επίσης ολισθητή έντασης.</p>
+<p class="p">Some keyboards have keys that let you control the volume. They normally
+  look like stylized speakers with waves coming out of them. They are often
+  near the “F” keys at the top. On laptop keyboards, they are usually on the
+  “F” keys.  Hold down the <span class="key"><kbd class="key-Fn">Fn</kbd></span> key on your keyboard to use them.</p>
+<p class="p">If you have external speakers, you can also change the volume
+  using the speakers’ volume control. Some headphones have a
+  volume control too.</p>
 </div>
 <div id="apps" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Αλλαγή της έντασης ήχου για μεμονωμένες εφαρμογές</span></h2></div>

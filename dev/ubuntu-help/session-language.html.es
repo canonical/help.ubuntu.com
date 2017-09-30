@@ -54,9 +54,9 @@
 <li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Región e idioma</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Región e idioma</span> para abrir el panel.</p></li>
 <li class="steps"><p class="p">Pulse <span class="gui">Idioma</span>.</p></li>
-<li class="steps"><p class="p">Seleccione su región y su idioma. Si su región e idioma no aparecen en la lista, pulse <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="..."></span></span></span> en la parte inferior de la lista para selecciona de entre todas las regiones e idiomas disponibles.</p></li>
+<li class="steps"><p class="p">Seleccione su región y su idioma. Si su región e idioma no aparecen en la lista, pulse <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="…"></span></span></span> en la parte inferior de la lista para selecciona de entre todas las regiones e idiomas disponibles.</p></li>
 <li class="steps"><p class="p">Pulse <span class="gui">Hecho</span> para guardar.</p></li>
-<li class="steps"><p class="p">Responda a la solicitud, <span class="gui">Debe reiniciar su sesión para que los cambios surtan efecto</span> pulsando en <span class="gui">Reiniciar ahora</span>, o pulse <span class="gui">X</span> para reiniciar más tarde.</p></li>
+<li class="steps"><p class="p">Responda a la solicitud, <span class="gui">Debe reiniciar su sesión para que los cambios surtan efecto</span> pulsando en <span class="gui">Reiniciar ahora</span>, o pulse <span class="gui">×</span> para reiniciar más tarde.</p></li>
 </ol></div></div></div>
 <p class="p">Algunas traducciones pueden estar incompletas y ciertas aplicaciones pueden no soportar su idioma por completo. Cualquier texto no traducido aparecerá en el idioma en el que se desarrolló el software de manera original, generalmente inglés americano.</p>
 <p class="p">Hay algunas carpetas especiales en la carpeta de inicio donde las aplicaciones pueden almacenar cosas como música, imágenes y documentos. Estas carpetas usan nombres estándar de acuerdo a su idioma. Cuando vuelva a entrar, se le preguntará si quiere cambiar el nombre de estas carpetas con los nombres estándar para el idioma seleccionado. Si va a utilizar el nuevo idioma todo el tiempo, debe actualizar los nombres de las carpetas.</p>
@@ -67,7 +67,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html" title="Región e idioma">Región e idioma</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Cambiar el idioma que usa">Idioma</a></span>, <span class="link"><a href="session-formats.html" title="Cambiar la fecha y los formatos de medida">región y formatos</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">distribuciones de teclado</a></span>…</span>
+<a href="prefs-language.html" title="Región e idioma">Región e idioma</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Cambiar el idioma que usa">Idioma</a></span>, <span class="link"><a href="session-formats.html" title="Cambiar la fecha y los formatos de medida">región y formatos</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Usar distribuciones de teclado alternativas">distribuciones de teclado</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

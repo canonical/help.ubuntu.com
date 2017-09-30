@@ -49,7 +49,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Kde uchovávat zálohy</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Kopie svých záloh bystě měli uchovávat někde mimo svůj počítač – například na externím disku. To zajistí, že když se počítač poškodí, záloha zůstane nedotčená. Z důvodu maximální bezpečnosti byste neměli zálohu uchovávat ani ve stejné budově, jako je počítač. Když by došlo k požáru nebo ke krádeži, mohli byste v případě uchování obou kopií na stejném místě o obě přijít.</p>
+<p class="p">Kopie svých záloh bystě měli uchovávat někde mimo svůj počítač — například na externím disku. To zajistí, že když se počítač poškodí, záloha zůstane nedotčená. Z důvodu maximální bezpečnosti byste neměli zálohu uchovávat ani ve stejné budově, jako je počítač. Když by došlo k požáru nebo ke krádeži, mohli byste v případě uchování obou kopií na stejném místě o obě přijít.</p>
 <p class="p">Důležité je také zvolit správné <span class="em">zálohovací médium</span>. Zálohovat potřebujete na zařízení, které má dostatečnou kapacitu pro všechny vaše zálohované soubory.</p>
 <div class="list"><div class="inner">
 <div class="title title-list"><h2><span class="title">Možná místní a vzdálená úložiště</span></h2></div>

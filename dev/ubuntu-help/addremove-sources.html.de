@@ -2,9 +2,7 @@
 <html lang=de>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>
-    Add software repositories
-  </title>
+<title>Paketquellen hinzufügen</title>
 <link rel="stylesheet" type="text/css" href="de.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -48,9 +46,7 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Install &amp; remove software">Software hinzufügen/entfernen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">
-    Add software repositories
-  </span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Paketquellen hinzufügen</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Software ist sowohl aus Drittquellen als auch aus den normalen Ubuntu-Paketquellen verfügbar. Wenn Sie Software von Drittquellen installieren möchten, müssen Sie diese Paketquellen zunächst zu Ubuntu hinzufügen.</p>
@@ -60,11 +56,12 @@
 </div></div></div></div>
 <p class="p">
 </p>
-<p class="p">
-   To add a repository:
-   </p>
+<p class="p">Eine Paketquelle hinzufügen:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Klicken Sie auf das <span class="app">Ubuntu Software</span> Symbol im <span class="gui">Launcher</span>, oder tippen Sie <span class="input">Software</span> in das Suchfeld der <span class="gui">Dash</span>.</p></li>
+<li class="steps"><p class="p">
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">Sobald <span class="app">Ubuntu Software</span> gestartet ist, klicken Sie auf <span class="gui">Software &amp; Updates</span></p></li>
 <li class="steps"><p class="p">Sie werden aufgefordert, Ihr Passwort einzugeben. Nachdem Sie das getan haben, wählen Sie den Reiter <span class="gui">Andere Software</span>.</p></li>
 <li class="steps">
@@ -95,9 +92,9 @@
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="addremove.html" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html" title="Install additional applications">Install applications</a></span>,
+      <span class="link"><a href="addremove-install.html" title="Zusätzliche Anwendungen installieren">Install applications</a></span>,
       <span class="link"><a href="addremove-remove.html" title="Eine Anwendung entfernen">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html" title="Add software repositories">add repositories</a></span>…
+      <span class="link"><a href="addremove-sources.html" title="Paketquellen hinzufügen">add repositories</a></span>…
     </span>
 </li></ul></div>
 </div></div>

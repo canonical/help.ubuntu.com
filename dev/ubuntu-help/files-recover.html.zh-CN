@@ -63,8 +63,15 @@
       deleted.</p></li>
 </ol></div>
 </div></div>
-<p class="p">如果您删除文件时使用的是 <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Delete</kbd></span></span> 或命令行，文件将无法使用该方法还原，因为它已被永久删除。</p>
-<p class="p">有一些还原工具有时能够还原永久删除的文件。不过，一般用起来不太容易。如果您意外永久删除了某个文件，最好还是到支持论坛咨询是否能够将其还原。</p>
+<p class="p">If you deleted the file by pressing <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Delete
+  </kbd></span></span>, or by using the command line, the file has been permanently
+  deleted. Files that have been permanently deleted can’t be recovered from the
+  <span class="gui">Trash</span>.</p>
+<p class="p">There are a number of recovery tools available that are sometimes able to
+  recover files that were permanently deleted. These tools are generally not
+  very easy to use, however. If you accidentally permanently deleted a file,
+  it’s probably best to ask for advice on a support forum to see if you can
+  recover it.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -80,7 +87,8 @@
 <a href="files-delete.html" title="删除文件和文件夹">删除文件和文件夹</a><span class="desc"> — 删除不再需要的文件或文件夹。</span>
 </li>
 <li class="links ">
-<a href="files-lost.html" title="查找丢失的文件">查找丢失的文件</a><span class="desc"> — 如果您找不到创建或下载的文件，请按下列提示操作。</span>
+<a href="files-lost.html" title="查找丢失的文件">查找丢失的文件</a><span class="desc"> — Follow these tips if you can’t find a file you created or
+    downloaded.</span>
 </li>
 </ul></div>
 </div></div>

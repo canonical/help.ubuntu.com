@@ -51,8 +51,11 @@
 <div class="contents">
 <p class="p">Выбранный при установке Ubuntu язык устанавливается совместно с английским, но в дальнейшем можно добавить и другие языки.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the <span class="em">system menu</span> and select <span class="gui">System Settings</span>.</p></li>
-<li class="steps"><p class="p">В разделе «Персональные» щёлкните <span class="gui">Язык системы</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
+      start typing <span class="gui">Region &amp; Language</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Manage Installed Languages</span> button to open <span class="gui">Language
+      Support</span>.</p></li>
 <li class="steps"><p class="p">Щёлкните <span class="gui">Установка и удаление языков...</span>. Окно <span class="gui">Установленные языки</span> покажет список всех имеющихся языков, уже установленные языки отмечены в списке.</p></li>
 <li class="steps"><p class="p">Отметьте языки, которые требуется установить, и снимите метки с тех языков, которые нужно удалить.</p></li>
 <li class="steps"><p class="p">Щёлкните <span class="gui">Применить изменения</span>.</p></li>
@@ -77,7 +80,7 @@
 <a href="addremove-install.html" title="Установка дополнительных приложений">Установка дополнительных приложений</a><span class="desc"> — Используйте <span class="app">Менеджер приложений Ubuntu</span> для установки дополнительных полезных приложений.</span>
 </li>
 <li class="links ">
-<a href="prefs-language.html" title="Язык и регион">Язык и регион</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Изменение языка">Язык</a></span>, <span class="link"><a href="session-formats.html" title="Изменение форматов даты и единиц измерения">регион и форматы</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">раскладки клавиатуры</a></span>…</span>
+<a href="prefs-language.html" title="Язык и регион">Язык и регион</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Изменение языка">Язык</a></span>, <span class="link"><a href="session-formats.html" title="Изменение форматов даты и единиц измерения">регион и форматы</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Использование альтернативных раскладок клавиатуры">раскладки клавиатуры</a></span>…</span>
 </li>
 </ul></div>
 </div></div>

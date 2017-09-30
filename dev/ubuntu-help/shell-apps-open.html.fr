@@ -54,12 +54,13 @@
   <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview. This is where you
   can find all of your applications. You can also open the overview by pressing
   the <span class="key"><a href="keyboard-key-super.html" title="Qu'est-ce que la touche Logo ?"><kbd>Super</kbd></a></span> key.</p>
-<p class="p">Il existe plusieurs manières d'ouvrir une application une fois que vous êtes dans la vue d'ensemble des <span class="gui">Activités</span> :</p>
+<p class="p">There are several ways of opening an application once you’re in the
+  <span class="gui">Activities</span> overview:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Start typing the name of an application - searching begins instantly.
-      (If this doesn't happen, click the search bar at the top of the screen
-      and start typing.) If you don't know the exact name of an application, try
-      to type an related term. Click the application's icon to start it.</p></li>
+<li class="list"><p class="p">Start typing the name of an application — searching begins instantly.
+      (If this doesn’t happen, click the search bar at the top of the screen
+      and start typing.) If you don’t know the exact name of an application, try
+      to type an related term. Click the application’s icon to start it.</p></li>
 <li class="list">
 <p class="p">Certaines applications possèdent des icônes sur le <span class="em">dash</span>, la bande verticale d'icônes sur le côté gauche de la vue d'ensemble des <span class="gui">Activités</span>. Cliquez sur l'une d'elles pour lancer l'application correspondante.</p>
 <p class="p">S'il y a des applications que vous utilisez très fréquemment, vous pouvez <span class="link"><a href="shell-apps-favorites.html" title="Ajout de vos applications préférées au lanceur">les ajouter au dash</a></span> vous-même.</p>
@@ -74,7 +75,10 @@
 <div class="title title-note"><h2><span class="title">Lancement rapide d'une commande</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Une autre façon de lancer une application est d'appuyer sur <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span>, de saisir son <span class="em">nom de commande</span> puis d'appuyer sur <span class="key"><kbd>Entrée</kbd></span>.</p>
-<p class="p">Par exemple, pour lancer <span class="app">Rhythmbox</span>, appuyez sur <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> et saisissez <span class="cmd">rhythmbox</span>. Le nom de l'application est la commande qui lance le programme.</p>
+<p class="p">For example, to launch <span class="app">Rhythmbox</span>, press
+    <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> and type
+    ‘<span class="cmd">rhythmbox</span>’ (without the single-quotes). The name of the app is
+    the command to launch the program.</p>
 </div></div>
 </div></div>
 </div>

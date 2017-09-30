@@ -75,7 +75,11 @@
 <p class="p">ఒకవేళ మీరు రెండు కీలను వొకేసారి నొక్కితే, స్టికీ కీలు వాటంతటవే తాత్కాలికంగా ఆఫ్ అయి మిమ్ములను కీబోర్డు లఘవులు ప్రవేశపెట్టుటకు అనుమతించును.</p>
 <p class="p">ఉదాహరణకు, మీరు స్టికీ కీలను ఆన్‌లో వుంచి <span class="key"><kbd>Super</kbd></span> మరియు <span class="key"><kbd>Tab</kbd></span> ఒకేసారి నొక్కితే, స్టికీ కీలు మీరు ఇంకొక కీ నొక్కునంతవరకు వేచివుండవు. మీరు ఒక కీ వత్తితే మాత్రం అది <span class="em">వేచివుంటుంది</span>. మీరు కొన్ని కీబోర్డు లఘవులు ఒకేసారి నొక్కితే(ఉదాహరణకు, దగ్గరగావున్న కీలు) ఇది వుపయోగకరంగా వుంటుంది, వేరేవాటికి కాదు.</p>
 <p class="p">దీనిని చేతనం చేయుటకు <span class="gui">రెండు కీలు ఒకేసారి నొక్కితే అచేతనంచేయి</span> ఎంపికచేయి</p>
-<p class="p">స్టికీ కీలు ఆన్‌చేసివుండి కీబోర్డ్ లఘవు టైపు చేయుట ప్రారంభించగానే కంప్యూటర్ "బీప్" శబ్ధం చేయునట్లు చేయవచ్చు. అలా మీకు స్టికీ కీలు కీబోర్డు లఘువు కొరకు చూస్తున్నాయని తెలుస్తుంది, కనుక తరువాతి కీ వత్తు అనునది లఘువు నందలి భాగముగా పరిగణించబడును. దీనిని చేతనం చేయుటకు <span class="gui">సవరణి కీ వత్తినప్పుడు శబ్ధం చేయి</span> ఎంపికచేయి.</p>
+<p class="p">You can have the computer make a “beep” sound when you start typing a
+  keyboard shortcut with sticky keys turned on. This is useful if you want to
+  know that sticky keys is expecting a keyboard shortcut to be typed, so the
+  next key press will be interpreted as part of a shortcut. Select <span class="gui">Beep
+  when a modifier key is pressed</span> to enable this.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

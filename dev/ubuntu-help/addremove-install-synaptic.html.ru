@@ -56,7 +56,10 @@
 <div class="hgroup"><h2 class="title"><span class="title">Установка программ с помощью Synaptic</span></h2></div>
 <div class="region"><div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Откройте Synaptic из <span class="gui">главного меню</span> или <span class="gui">панели запуска</span>. Потребуется ввести свой пароль в окне <span class="gui">аутентификации</span>.</p></li>
+<li class="steps"><p class="p">
+          Open <span class="app">Synaptic</span> via the <span class="em">Activities</span> search bar. You 
+          will need to enter your password in the <span class="gui">Authenticate</span> window.
+        </p></li>
 <li class="steps"><p class="p">Щёлкните <span class="gui">Поиск</span> для поиска приложения или <span class="gui">Разделы</span> и просмотрите категории, чтобы найти нужное приложение.</p></li>
 <li class="steps"><p class="p">Щёлкните правой кнопкой на приложении, которое нужно установить и выберите <span class="gui">Отметить для установки</span>.</p></li>
 <li class="steps"><p class="p">Если появится запрос об отметке дополнительных изменений, щёлкните <span class="gui">Отметить</span>.</p></li>

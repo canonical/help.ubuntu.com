@@ -59,8 +59,15 @@
 <li class="steps"><p class="p">Εάν το διαγραμμένο αρχείο σας είναι εκεί, κάντε κλικ σε αυτό και επιλέξτε <span class="gui">Επαναφορά</span>. Θα ανακτηθεί στον φάκελο από όπου διαγράφτηκε.</p></li>
 </ol></div>
 </div></div>
-<p class="p">Εάν διαγράψετε το αρχείο πατώντας <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Διαγραφή</kbd></span></span>, ή χρησιμοποιώντας τη γραμμή εντολών, το αρχείο έχει διαγραφεί μόνιμα. Αρχεία που έχουν διαγραφεί μόνιμα δεν μπορούν να ανακτηθούν από τα <span class="gui">Απορρίμματα</span>.</p>
-<p class="p">Υπάρχει ένας αριθμός από διαθέσιμα εργαλεία ανάκτησης που μπορούν μερικές φορές να ανακτήσουν αρχεία που διαγράφτηκαν μόνιμα. Αυτά τα εργαλεία γενικά δεν είναι πολύ εύχρηστα, όμως. Εάν διαγράψατε κατά λάθος μόνιμα ένα αρχείο, είναι προφανώς καλύτερο να ζητήσετε συμβουλή σε μια ομάδα υποστήριξης για να δείτε εάν μπορείτε να το ανακτήσετε.</p>
+<p class="p">If you deleted the file by pressing <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Delete
+  </kbd></span></span>, or by using the command line, the file has been permanently
+  deleted. Files that have been permanently deleted can’t be recovered from the
+  <span class="gui">Trash</span>.</p>
+<p class="p">There are a number of recovery tools available that are sometimes able to
+  recover files that were permanently deleted. These tools are generally not
+  very easy to use, however. If you accidentally permanently deleted a file,
+  it’s probably best to ask for advice on a support forum to see if you can
+  recover it.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -76,7 +83,8 @@
 <a href="files-delete.html" title="Διαγραφή αρχείων και φακέλων">Διαγραφή αρχείων και φακέλων</a><span class="desc"> — Αφαιρέστε αρχεία ή φακέλους που δεν χρειάζεστε πια.</span>
 </li>
 <li class="links ">
-<a href="files-lost.html" title="Εύρεση ενός χαμένου αρχείου">Εύρεση ενός χαμένου αρχείου</a><span class="desc"> — Ακολουθήστε αυτές τις συμβουλές, αν δεν μπορείτε να βρείτε ένα αρχείο που δημιουργήσατε ή κάνατε λήψη.</span>
+<a href="files-lost.html" title="Εύρεση ενός χαμένου αρχείου">Εύρεση ενός χαμένου αρχείου</a><span class="desc"> — Follow these tips if you can’t find a file you created or
+    downloaded.</span>
 </li>
 </ul></div>
 </div></div>

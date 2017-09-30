@@ -53,22 +53,29 @@
 <div class="hgroup"><h1 class="title"><span class="title">Γιατί ο υπολογιστής μου απενεργοποιείται όταν κλείνω το καπάκι;</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Όταν κλείνετε το καπάκι του φορητού σας, ο υπολογιστής σας θα <span class="link"><a href="power-suspend.html" title="Τι συμβαίνει όταν αναστέλλω τον υπολογιστή μου;"><span class="em">ανασταλεί</span></a></span> για να εξοικονομήσει ισχύ. Αυτό σημαίνει ότι ο υπολογιστής δεν είναι στην πραγματικότητα ανενεργός - έχει απλά μεταβεί σε αδρανοποίηση. Μπορείτε να συνεχίσετε ανοίγοντας το καπάκι. Εάν δεν συνεχίσει, δοκιμάστε κάνοντας κλικ στο ποντίκι ή πατώντας ένα πλήκτρο. Εάν δεν δουλεύει ακόμα, πατήστε το κουμπί ισχύος.</p>
+<p class="p">When you close the lid of your laptop, your computer will
+  <span class="link"><a href="power-suspend.html" title="Τι συμβαίνει όταν αναστέλλω τον υπολογιστή μου;"><span class="em">suspend</span></a></span> in order to save power.
+  This means that the computer is not actually turned off — it has just gone to
+  sleep. You can resume it by opening the lid. If it does not resume, try
+  clicking the mouse or pressing a key. If that still does not work, press the
+  power button.</p>
 <p class="p">Μερικοί υπολογιστές δεν μπορούν να ανασταλούν σωστά, κανονικά επειδή το υλικό τους δεν υποστηρίζεται πλήρως από το λειτουργικό σύστημα (για παράδειγμα, οι οδηγοί Linux είναι ατελείς). Σε αυτήν την περίπτωση, μπορεί να βρείτε ότι δεν μπορείτε να συνεχίσετε τον υπολογιστή σας αφού έχετε κλείσει το καπάκι. Μπορείτε να δοκιμάσετε <span class="link"><a href="power-suspendfail.html" title="Γιατί ο υπολογιστής μου δεν επιστρέφει μετά την αναστολή;">να ρυθμίσετε το πρόβλημα με την αναστολή</a></span>, ή μπορείτε να αποτρέψετε τον υπολογιστή από την προσπάθεια αναστολής όταν κλείνετε το καπάκι.</p>
 </div>
 <div id="nosuspend" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Σταματήστε τον υπολογιστή από αναστολή όταν το καπάκι είναι κλειστό</span></h2></div>
 <div class="region"><div class="contents">
 <div class="note note-important" title="Σημαντικό"><div class="inner"><div class="region"><div class="contents"><p class="p">Αυτές οι οδηγίες θα δουλέψουν μόνο αν χρησιμοποιείτε το <span class="app">systemd</span>. Επικοινωνήστε με τη διανομή σας για περισσότερες πληροφορίες.</p></div></div></div></div>
-<div class="note note-important" title="Σημαντικό"><div class="inner"><div class="region"><div class="contents"><p class="p">Πρέπει να έχετε εγκατεστημένο στον υπολογιστή σας το <span class="app">Εργαλείο μικρορυθμίσεων</span> για να αλλάξετε αυτή την ρύμθιση.</p></div></div></div></div>
+<div class="note note-important" title="Σημαντικό"><div class="inner"><div class="region"><div class="contents"><p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
+    change this setting.</p></div></div></div></div>
 <p class="p">Αν δεν θέλετε ο υπολογιστής σας να αναστέλλεται όταν κλείνετε το καπάκι, μπορείτε να απενεργοποιήσετε αυτή την συμπεριφορά.</p>
 <div class="note note-warning" title="Προειδοποίηση"><div class="inner"><div class="region"><div class="contents"><p class="p">Να είσαστε πολύ προσεκτικοί εάν αλλάζετε αυτήν τη ρύθμιση. Μερικοί φορητοί μπορεί να υπερθερμανθούν, εάν αφήνονται να εκτελούνται με το καπάκι κλειστό, ειδικά εάν είναι σε μια περιορισμένη θέση όπως σε ένα σακίδιο.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Εργαλείο μικρορυθμίσεων</span>.</p></li>
-<li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Εργαλείο μικρορυθμίσεων</span> για να ανοίξει η εφαρμογή.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Activities</a></span> overview and
+      start typing <span class="gui">Tweaks</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Tweaks</span> to open the application.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στην καρτέλα <span class="gui">Ενέργεια</span>.</p></li>
-<li class="steps"><p class="p">Αλλάξτε το <span class="gui">Να μην γίνεται αναστολή όταν κλείνει το καπάκι</span> σε <span class="gui">ΝΑΙ</span>.</p></li>
-<li class="steps"><p class="p">Κλείστε το παράθυρο <span class="gui">Εργαλείο μικρορυθμίσεων</span>.</p></li>
+<li class="steps"><p class="p">Switch <span class="gui">Don’t suspend on lid close</span> to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Close the <span class="gui">Tweaks</span> window.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>

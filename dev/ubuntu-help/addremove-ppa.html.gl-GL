@@ -58,7 +58,10 @@
 <div class="title title-steps"><h2><span class="title">Instalar unha PPA</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Na páxina de información da PPA , busque a cabeceira <span class="gui">Engadir esta PPA ao seu sistema</span>. Fíxese na localización da PPA que debería ser similar a: <span class="code">ppa:mozillateam/firefox-next</span>.</p></li>
-<li class="steps"><p class="p">Prema na icona de <span class="app">Ubuntu Software</span> que está no <span class="gui">Iniciador</span> ou procure novo <span class="input">Software</span> na barra de busca do <span class="gui">Panel</span>.</p></li>
+<li class="steps"><p class="p">
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">Cando se inicie o <span class="app">Ubuntu Software</span>, prema en <span class="gui">Software e actualizacións</span></p></li>
 <li class="steps"><p class="p">Vaia á lapela <span class="gui">Outro software</span>.</p></li>
 <li class="steps"><p class="p">Prema <span class="gui">Engadir</span> e introduza a localización da PPA  (como se dixo no paso 1).</p></li>

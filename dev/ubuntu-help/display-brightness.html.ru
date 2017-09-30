@@ -101,7 +101,8 @@
 <a href="power-autobrightness.html" title="Enable automatic brightness">Enable automatic brightness</a><span class="desc"> — Automatically control screen brightness to reduce battery use.</span>
 </li>
 <li class="links ">
-<a href="a11y-contrast.html" title="Настройка контрастности">Настройка контрастности</a><span class="desc"> — Сделайте окна и кнопки более (или менее) контрастными, чтобы их было лучше видно.</span>
+<a href="a11y-contrast.html" title="Настройка контрастности">Настройка контрастности</a><span class="desc"> — Make windows and buttons on the screen more (or less) vivid, so
+    they’re easier to see.</span>
 </li>
 <li class="links ">
 <a href="power-whydim.html" title="Почему мой экран через некоторое время гаснет?">Почему мой экран через некоторое время гаснет?</a><span class="desc"> — В целях экономии энергии, во время простоя компьютера экран гаснет.</span>

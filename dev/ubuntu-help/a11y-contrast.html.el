@@ -49,7 +49,10 @@
 <div class="hgroup"><h1 class="title"><span class="title">Προσαρμογή της αντίθεσης</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Μπορείτε να ρυθμίσετε την αντίθεση των παραθύρων και κουμπιών έτσι ώστε να είναι ευκολότερο να τα δείτε. Αυτό δεν είναι το ίδιο όπως η αλλαγή της φωτεινότητας όλης της οθόνης· μόνο μέρη της <span class="em">διεπαφής χρήστη</span> θα αλλάξουν.</p>
+<p class="p">You can adjust the contrast of windows and buttons so that they’re easier
+  to see. This is not the same as 
+  changing the brightness of the whole screen; only parts of the
+  <span class="em">user interface</span> will change.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Γενική πρόσβαση</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Γενική πρόσβαση</span> για να ανοίξετε τον πίνακα.</p></li>

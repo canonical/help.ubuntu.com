@@ -49,13 +49,14 @@
 <div class="hgroup"><h1 class="title"><span class="title">IPアドレスとは</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">「IP アドレス」は <span class="em">Internet Protocol address</span> の略であり、 (インターネットなどの) ネットワークに接続される各デバイスに割り振られます。</p>
+<p class="p">“IP address” stands for <span class="em">Internet Protocol address</span>, and each
+  device that is connected to a network (like the internet) has one.</p>
 <p class="p">IP アドレスは電話番号と似ています。電話番号とは、誰かが電話をかけることができるよう電話を特定する固有の数字の組み合わせです。同様に、IP アドレスは他のコンピューターとデータを送受信できるようコンピューターを識別する固有の番号セットになります。</p>
 <p class="p">現在、IP アドレスのほとんどは 4 つの番号セットから構成され、それぞれのセットはピリオドで区切られています。<span class="code">192.168.1.42</span> などがその例です。</p>
 <div class="note note-tip" title="ヒント"><div class="inner"><div class="region"><div class="contents"><p class="p">An IP address can either be <span class="em">dynamic</span> or <span class="em">static</span>. Dynamic
     IP addresses are temporarily assigned each time your computer connects to a
     network. Static IP addresses are fixed, and do not change. Dynamic IP
-    addresses are more common that static addresses - static addresses are
+    addresses are more common that static addresses — static addresses are
     typically only used when there is a special need for them, such as in the
     administration of a server.</p></div></div></div></div>
 </div>

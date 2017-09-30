@@ -78,7 +78,12 @@
     indicate a stronger connection to the network. Fewer bars mean the
     connection is weaker and might not be very reliable.</p></li>
 </ol></div></div></div>
-<p class="p">接続に失敗した場合、パスワードの再入力を求められる、または単に接続が切断された旨のメッセージが表示されます。このような場合いくつかの原因があります。たとえば、間違ったパスワードを入力した、ワイヤレス信号が弱すぎる、コンピューターのワイヤレスカードに問題があるなどです。ヘルプについては <span class="link"><a href="net-wireless-troubleshooting.html" title="無線ネットワークトラブルシューティング">無線ネットワークトラブルシューティング</a></span> をご覧ください。</p>
+<p class="p">If the connection is not successful, you may be asked for your password
+  again or it might just tell you that the connection has been disconnected.
+  There are a number of things that could have caused this to happen. You could
+  have entered the wrong password, the wireless signal could be too weak, or
+  your computer’s wireless card might have a problem, for example. See
+  <span class="link"><a href="net-wireless-troubleshooting.html" title="無線ネットワークトラブルシューティング">無線ネットワークトラブルシューティング</a></span> for more help.</p>
 <p class="p">ワイヤレスネットワークへの接続強度が高いからと言ってインターネット接続速度が必ずしも高速となるわけではなく、またダウンロード速度が速くなるわけでもありません。無線接続により、コンピューターは<span class="em">インターネット接続を提供するデバイス</span> (ルーターまたはモデムなど) に接続されますが、この 2 種類の接続は実際には異なるため別々の速度で実行されます。</p>
 </div>
 <div class="sect sect-links" role="navigation">

@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>What is a color space?</title>
+<title>Wat is een kleurruimte?</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,99 +44,48 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="color.html" title="Color management">Color management</a> › <a class="trail" href="color.html#profiles" title="Color profiles">Color profiles</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html#profiles" title="Kleurprofielen">Kleurprofielen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="color.html" title="Color management">Color management</a> › <a class="trail" href="color.html#profiles" title="Color profiles">Color profiles</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html#profiles" title="Kleurprofielen">Kleurprofielen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">What is a color space?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Wat is een kleurruimte?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    A color space is a defined range of colors.
-    Well known color spaces include sRGB, AdobeRGB and ProPhotoRGB.
-  </p>
-<p class="p">
-    The human visual system is not a simple RGB sensor, but we can
-    approximate how the eye responds with a CIE 1931 chromaticity diagram
-    that shows the human visual response as a horse-shoe shape.
-    You can see that in human vision there are many more shades of green
-    detected than blue or red.
-    With a trichromatic color space like RGB we represent the colors
-    on the computer using three values, which restricts up to encoding
-    a <span class="em">triangle</span> of colors.
-  </p>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">
-      Using models such as a CIE 1931 chromaticity diagram is a huge
-      simplification of the human visual system, and real gamuts are
-      expressed as 3D hulls, rather than 2D projections.
-      A 2D projection of a 3D shape can sometimes be misleading, so if
-      you want to see the 3D hull, use the <span class="code">gcm-viewer</span>
-      application.
-    </p></div></div></div></div>
+<p class="p">Een kleurruimte is een gedefinieerde waaier van kleuren. Bekende kleurruimtes zijn sRGB, AdobeRGB en ProPhotoRGB.</p>
+<p class="p">Het menselijk oog is geen simpele RGB-sensor, maar we kunnen benaderen hoe het oog reageert met een CIE 1931 kleurendriehoek dat de menselijke visuele reactie toont in de vorm van een hoefijzer. U ziet dat door het menselijk oog veel meer tinten groen worden waargenomen dan blauw of rood. Bij een driekleurenpalet zoals RGB worden de kleuren op de computer weergegeven met gebruikmaking van drie waarden, hetgeen zich beperkt tot het coderen van een <span class="em">driehoek</span> van kleuren.</p>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Modellen zoals de CIE 1931 kleurendriehoek gebruiken is een enorme simplificatie van het menselijke visuele systeem, en echte kleurengamma's worden uitgedrukt als 3D-rompen in plaats van 2D-projecties. Een 2D-projectie van een 3D-vorm kan soms misleidend zijn, dus als u de 3D-romp wilt zien, gebruik dan de toepassing <span class="code">gcm-viewer</span>.</p></div></div></div></div>
 <div class="figure"><div class="inner">
 <a href="#" class="zoom" data-zoom-in-title="Afbeeldingen op normale grootte bekijken" data-zoom-out-title="Afbeeldingen verkleinen"></a><div class="region">
 <div class="contents"><div class="media media-image"><div class="inner"><img src="figures/color-space.png" class="media media-block" alt=""></div></div></div>
-<div class="desc">sRGB, AdobeRGB and ProPhotoRGB represented by white triangles</div>
+<div class="desc">sRGB, AdobeRGB en ProPhotoRGB vertegenwoordigd door witte driehoeken</div>
 </div>
 </div></div>
+<p class="p">Kijk eerst naar sRGB, dit heeft de kleinste ruimte en kan het minste aantal kleuren coderen. Het is een benadering van een CRT-scherm van tien jaar oud; de meeste moderne schermen kunnen meer kleuren weergeven. sRGB is een <span class="em">least-common-denominator</span>-standaard en wordt gebruikt in een groot aantal toepassingen (inclusief het internet).</p>
+<p class="p">AdobeRGB wordt vaak als <span class="em">editing space</span> gebruikt. Het ondersteunt meer kleuren dan sRGB, wat betekent dat u kleuren van een foto kunt aanpassen zonder dat u bang hoeft te zijn dat de helderste kleuren ‘geclipped’ worden of de donkerste kleuren ‘gecrushed’.</p>
+<p class="p">PhoPhoto is het grootste beschikbare palet en wordt vaak gebruikt voor het archiveren van documenten. Het kan bijna het volledige bereik dat het menselijke oog detecteert coderen, en zelfs kleuren die niet door het oog kunnen worden waargenomen.</p>
 <p class="p">
-    First, looking at sRGB, which is the smallest space and can encode
-    the least number of colors.
-    It is an approximation of a 10 year old CRT display, and so most
-    modern monitors can easily display more colors than this.
-    sRGB is a <span class="em">least-common-denominator</span> standard and is used
-    in a large number of applications (including the Internet).
-  </p>
-<p class="p">
-    AdobeRGB is frequently used as an <span class="em">editing space</span>.
-    It can encode more colors than sRGB, which means you can change
-    colors in a photograph without worrying too much that the most vivid
-    colors are being clipped or the blacks crushed.
-  </p>
-<p class="p">
-    ProPhoto is the largest space available and is frequently used for
-    document archival.
-    It can encode nearly the whole range of colors detected by the human
-    eye, and even encode colors that the eye cannot detect!
-  </p>
-<p class="p">
-    Now, if ProPhoto is clearly better, why don't we use it for everything?
+    Now, if ProPhoto is clearly better, why don’t we use it for everything?
     The answer is to do with <span class="em">quantization</span>.
     If you only have 8 bits (256 levels) to encode each channel, then a
     larger range is going to have bigger steps between each value.
   </p>
-<p class="p">
-    Bigger steps mean a larger error between the captured color and the
-    stored color, and for some colors this is a big problem.
-    It turns out that key colors, like skin colors are very important,
-    and even small errors will make untrained viewers notice that something
-    in a photograph looks wrong.
-  </p>
-<p class="p">
-    Of course, using a 16 bit image is going to leave many more steps and
-    a much smaller quantization error, but this doubles the size of each
-    image file.
-    Most content in existence today is 8bpp, i.e. 8 bits-per-pixel.
-  </p>
-<p class="p">
-    Color management is a process for converting from one color space to
-    another, where a color space can be a well known defined space like
-    sRGB, or a custom space such as your monitor or printer profile.
-  </p>
+<p class="p">Grotere stappen betekent een grotere fout tussen de opgenomen kleur en de opgeslagen kleur, en voor sommige kleuren is dit een groot probleem. Het blijkt dat grondkleuren, net als huidskleuren, erg belangrijk zijn, en zelfs bij kleine fouten zullen  ongetrainde kijkers merken dat er iets mis is met de foto.</p>
+<p class="p">Natuurlijk zal het gebruik van een 16-bits afbeelding veel meer stappen hebben en een veel kleinere kwantisatiefout opleveren, maar dit verdubbelt de grootte van elk afbeeldingsbestand. Vandaag de dag zijn de meeste afbeeldingen 8bpp, dat is 8 bits per pixel.</p>
+<p class="p">Kleurbeheer is een proces voor het converteren van een kleur van een kleurruimte naar een andere, waarbij een kleurruimte een bekende gedefinieerde ruimte zoals sRGB kan zijn, of een aangepaste ruimte zoals een profiel voor uw monitor of printer.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#profiles" title="Color profiles">Color profiles</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html#profiles" title="Kleurprofielen">Kleurprofielen</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="color-whatisprofile.html" title="What is a color profile?">What is a color profile?</a><span class="desc"> — A color profile is a simple file that expresses a color space or device response.</span>
+<a href="color-whatisprofile.html" title="Wat is een kleurprofiel?">Wat is een kleurprofiel?</a><span class="desc"> — Een kleurprofiel is een eenvoudig bestand dat een kleurruimte of de respons van een apparaat uitdrukt.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -63,8 +63,15 @@
       deleted.</p></li>
 </ol></div>
 </div></div>
-<p class="p">V primeru da ste datoteko izbrisali s <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Delete</kbd></span></span> ali iz ukazne vrstice, datoteke na ta način ni mogočne obnoviti, ker je bila trajno izbrisana. Datotek, ki so bile trajno izbrisane, ni mogoče obnoviti iz <span class="gui">Smeti</span>.</p>
-<p class="p">Na voljo so številna obnovitvena orodja, ki lahko včasih obnovijo datoteke, ki so bile trajno izbrisane. Običajno jih ni enostavno uporabiti. V primeru da ste datoteko trajno izbrisali, za nasvet vprašajte na podpornem forumu.</p>
+<p class="p">If you deleted the file by pressing <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Delete
+  </kbd></span></span>, or by using the command line, the file has been permanently
+  deleted. Files that have been permanently deleted can’t be recovered from the
+  <span class="gui">Trash</span>.</p>
+<p class="p">There are a number of recovery tools available that are sometimes able to
+  recover files that were permanently deleted. These tools are generally not
+  very easy to use, however. If you accidentally permanently deleted a file,
+  it’s probably best to ask for advice on a support forum to see if you can
+  recover it.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -77,7 +84,8 @@
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="files-lost.html" title="Iskanje izgubljene datoteke">Iskanje izgubljene datoteke</a><span class="desc"> — Sledit tem namigom, če ne morete najti datoteke, ki ste jo ustvarili ali prejeli.</span>
+<a href="files-lost.html" title="Iskanje izgubljene datoteke">Iskanje izgubljene datoteke</a><span class="desc"> — Follow these tips if you can’t find a file you created or
+    downloaded.</span>
 </li>
 <li class="links ">
 <a href="files-delete.html" title="Izbris datotek in map">Izbris datotek in map</a><span class="desc"> — Odstranite datoteke ali mape, ki jih ne potrebujete več.</span>

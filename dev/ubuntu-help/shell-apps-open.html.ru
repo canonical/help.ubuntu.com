@@ -54,12 +54,13 @@
   <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview. This is where you
   can find all of your applications. You can also open the overview by pressing
   the <span class="key"><a href="keyboard-key-super.html" title="Что такое клавиша Super?"><kbd>Super</kbd></a></span> key.</p>
-<p class="p">Из <span class="gui">Обзора</span> приложения можно запускать нескольким способами:</p>
+<p class="p">There are several ways of opening an application once you’re in the
+  <span class="gui">Activities</span> overview:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Start typing the name of an application - searching begins instantly.
-      (If this doesn't happen, click the search bar at the top of the screen
-      and start typing.) If you don't know the exact name of an application, try
-      to type an related term. Click the application's icon to start it.</p></li>
+<li class="list"><p class="p">Start typing the name of an application — searching begins instantly.
+      (If this doesn’t happen, click the search bar at the top of the screen
+      and start typing.) If you don’t know the exact name of an application, try
+      to type an related term. Click the application’s icon to start it.</p></li>
 <li class="list">
 <p class="p">Значки некоторых приложений находятся в <span class="em">боковой панели</span> — вертикальная полоса в левой части <span class="gui">Обзора</span>. Чтобы запустить приложение, нажмите на его значок.</p>
 <p class="p">Часто используемые приложения можно <span class="link"><a href="shell-apps-favorites.html" title="Добавление приложений в боковую панель">добавить в боковую панель</a></span>.</p>
@@ -74,7 +75,10 @@
 <div class="title title-note"><h2><span class="title">Быстрое выполнение команд</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Ещё один способ запуска приложений: нажмите <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span>, введите <span class="em">команду</span> и нажмите <span class="key"><kbd>Enter</kbd></span>.</p>
-<p class="p">Например, чтобы запустить проигрыватель <span class="app">Rhythmbox</span>, нажмите <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span>, введите «rhythmbox» (кавычки вводить не надо). Название приложения — это команда для запуска программы.</p>
+<p class="p">For example, to launch <span class="app">Rhythmbox</span>, press
+    <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> and type
+    ‘<span class="cmd">rhythmbox</span>’ (without the single-quotes). The name of the app is
+    the command to launch the program.</p>
 </div></div>
 </div></div>
 </div>

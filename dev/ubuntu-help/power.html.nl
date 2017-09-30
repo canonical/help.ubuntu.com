@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Power &amp; battery</title>
+<title>Voeding &amp; accu</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,51 +44,51 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Power &amp; battery</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Voeding &amp; accu</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-status.html" title="Check the battery status"><span class="title">Check the battery status</span><span class="linkdiv-dash"> — </span><span class="desc">Display the status of the battery and connected devices.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html" title="Get the most out of your laptop battery"><span class="title">Get the most out of your laptop battery</span><span class="linkdiv-dash"> — </span><span class="desc">Tips such as "Do not let the battery charge get too low".</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-status.html" title="Controleer de accustatus"><span class="title">Controleer de accustatus</span><span class="linkdiv-dash"> — </span><span class="desc">Display the status of the battery and connected devices.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Afmelden, uitschakelen, van gebruiker wisselen"><span class="title">Afmelden, uitschakelen, van gebruiker wisselen</span><span class="linkdiv-dash"> — </span><span class="desc">Leer hoe u uw gebruikersaccount verlaat, door af te melden, van gebruiker te wisselen, enz.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batterylife.html" title="Gebruik minder stroom en verbeter de levensduur van de accu"><span class="title">Gebruik minder stroom en verbeter de levensduur van de accu</span><span class="linkdiv-dash"> — </span><span class="desc">Tips om het energieverbruik van uw computer te verminderen.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-hibernate.html" title="Hoe zet ik mijn computer in de slaapstand?"><span class="title">Hoe zet ik mijn computer in de slaapstand?</span><span class="linkdiv-dash"> — </span><span class="desc">De slaapstand is standaard uitgeschakeld omdat deze niet goed ondersteund wordt.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Log out, power off or switch users"><span class="title">Log out, power off or switch users</span><span class="linkdiv-dash"> — </span><span class="desc">Leer hoe u uw gebruikersaccount verlaat, door af te melden, van gebruiker te wisselen, enz.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-wireless.html" title="Switch off unused wireless technologies"><span class="title">Switch off unused wireless technologies</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-batterylife.html" title="Use less power and improve battery life"><span class="title">Use less power and improve battery life</span><span class="linkdiv-dash"> — </span><span class="desc">Tips to reduce the power consumption of your computer.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-closelid.html" title="Waarom wordt mijn computer uitgeschakeld wanneer ik hem dicht doe?"><span class="title">Waarom wordt mijn computer uitgeschakeld wanneer ik hem dicht doe?</span><span class="linkdiv-dash"> — </span><span class="desc">Laptops worden in de pauzestand gezet wanneer ze dicht gedaan worden, om energie te sparen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-suspend.html" title="What happens when I suspend my computer?"><span class="title">What happens when I suspend my computer?</span><span class="linkdiv-dash"> — </span><span class="desc">Suspend sends your computer to sleep so it uses less power.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html" title="Maak optimaal gebruik van uw laptopaccu"><span class="title">Maak optimaal gebruik van uw laptopaccu</span><span class="linkdiv-dash"> — </span><span class="desc">Tips such as “Do not let the battery charge get too low”.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-wireless.html" title="Ongebruikte draadloze technieken uitschakelen"><span class="title">Ongebruikte draadloze technieken uitschakelen</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-closelid.html" title="Waarom wordt mijn computer uitgeschakeld wanneer ik hem dichtdoe?"><span class="title">Waarom wordt mijn computer uitgeschakeld wanneer ik hem dichtdoe?</span><span class="linkdiv-dash"> — </span><span class="desc">Laptops worden in de pauzestand gezet wanneer ze dicht gedaan worden, om energie te sparen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-suspend.html" title="Wat gebeurt er wanneer ik mijn computer in de pauzestand zet?"><span class="title">Wat gebeurt er wanneer ik mijn computer in de pauzestand zet?</span><span class="linkdiv-dash"> — </span><span class="desc">Dit betekent dat uw computer in pauzestand wordt gezet zodat deze minder stroom verbruikt.</span></a></div>
 </div>
 </div></div></div></div>
 <div id="saving" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Power saving settings</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Energiebesparing-instellingen</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-autobrightness.html" title="Enable automatic brightness"><span class="title">Enable automatic brightness</span><span class="linkdiv-dash"> — </span><span class="desc">Automatically control screen brightness to reduce battery use.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-autobrightness.html" title="Automatische helderheid instellen"><span class="title">Automatische helderheid instellen</span><span class="linkdiv-dash"> — </span><span class="desc">Automatically control screen brightness to reduce battery use.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-autosuspend.html" title="Automatische pauzestand instellen"><span class="title">Automatische pauzestand instellen</span><span class="linkdiv-dash"> — </span><span class="desc">Configure your computer to suspend automatically.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-autosuspend.html" title="Set up automatic suspend"><span class="title">Set up automatic suspend</span><span class="linkdiv-dash"> — </span><span class="desc">Configure your computer to suspend automatically.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html" title="De tijd voordat het scherm zwart wordt instellen"><span class="title">De tijd voordat het scherm zwart wordt instellen</span><span class="linkdiv-dash"> — </span><span class="desc">De tijd voordat het scherm zwart wordt wijzigen om energie te sparen.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-whydim.html" title="Waarom wordt mijn scherm na enige tijd zwart?"><span class="title">Waarom wordt mijn scherm na enige tijd zwart?</span><span class="linkdiv-dash"> — </span><span class="desc">The screen will dim when the computer is idle in order to save power.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="faq" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Questions</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Vragen</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-batterywindows.html" title="Hoe komt het dat de levensduur van de accu lager is dan onder Windows/Mac OS?"><span class="title">Hoe komt het dat de levensduur van de accu lager is dan onder Windows/Mac OS?</span><span class="linkdiv-dash"> — </span><span class="desc">Tweaks van de fabrikant en verschillende schattingen van de levensduur van de accu kunnen de oorzaak zijn van dit probleem.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-batteryestimate.html" title="The estimated battery life is wrong"><span class="title">The estimated battery life is wrong</span><span class="linkdiv-dash"> — </span><span class="desc">The battery life displayed when you click on the <span class="gui">battery icon</span> is an estimate.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batteryestimate.html" title="De geschatte levensduur van de accu is fout"><span class="title">De geschatte levensduur van de accu is fout</span><span class="linkdiv-dash"> — </span><span class="desc">De levensduur van de accu welke wordt getoond wanneer u op het <span class="gui">accupictogram</span> klikt is een schatting.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batterywindows.html" title="Hoe komt het dat de accuduur lager is dan onder Windows/Mac OS?"><span class="title">Hoe komt het dat de accuduur lager is dan onder Windows/Mac OS?</span><span class="linkdiv-dash"> — </span><span class="desc">Tweaks van de fabrikant en verschillende schattingen van de accuduur kunnen de oorzaak zijn van dit probleem.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-lowpower.html" title="Why did my computer turn off when the battery got to 10%?"><span class="title">Why did my computer turn off when the battery got to 10%?</span><span class="linkdiv-dash"> — </span><span class="desc">Allowing the battery to completely discharge is bad for it.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-batteryslow.html" title="Why is my laptop slow when it is on battery?"><span class="title">Why is my laptop slow when it is on battery?</span><span class="linkdiv-dash"> — </span><span class="desc">Sommige laptops werken bewust trager wanneer ze op de accu draaien.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batteryslow.html" title="Waarom is mijn laptop traag als het op accuspanning loopt?"><span class="title">Waarom is mijn laptop traag als het op accuspanning loopt?</span><span class="linkdiv-dash"> — </span><span class="desc">Sommige laptops werken opzettelijk langzamer wanneer ze op de accu lopen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-lowpower.html" title="Waarom schakelde mijn computer uit toen de accu de 10% bereikte?"><span class="title">Waarom schakelde mijn computer uit toen de accu de 10% bereikte?</span><span class="linkdiv-dash"> — </span><span class="desc">Volledig ontladen is niet goed voor de accu.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -97,23 +97,22 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-nowireless.html" title="Ik heb geen draadloos netwerk na ontwaken van mijn computer"><span class="title">Ik heb geen draadloos netwerk na ontwaken van mijn computer</span><span class="linkdiv-dash"> — </span><span class="desc">Some wireless devices have problems handling when your computer is
+<div class="linkdiv "><a class="linkdiv" href="power-constantfan.html" title="De ventilator van de laptop staat altijd aan"><span class="title">De ventilator van de laptop staat altijd aan</span><span class="linkdiv-dash"> — </span><span class="desc">Het kan zijn dat er software om de ventilator te besturen ontbreekt, of uw laptop kan te warm worden.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-nowireless.html" title="Ik heb geen draadloos netwerk na het weer actief worden van mijn computer"><span class="title">Ik heb geen draadloos netwerk na het weer actief worden van mijn computer</span><span class="linkdiv-dash"> — </span><span class="desc">Some wireless devices have problems handling when your computer is
     suspended and does not resume properly.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html" title="Ik kan mijn computer niet aanzetten"><span class="title">Ik kan mijn computer niet aanzetten</span><span class="linkdiv-dash"> — </span><span class="desc">Loszittende kabels en hardwareproblemen zijn mogelijke oorzaken.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-hotcomputer.html" title="Mijn computer wordt erg warm"><span class="title">Mijn computer wordt erg warm</span><span class="linkdiv-dash"> — </span><span class="desc">Computers worden meestal warm, maar als ze te warm worden kunnen ze oververhit raken, hetgeen schadelijk kan zijn.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-constantfan.html" title="The laptop fan is always running"><span class="title">The laptop fan is always running</span><span class="linkdiv-dash"> — </span><span class="desc">Some fan-control software could be missing, or your laptop may be
-    running hot.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-hotcomputer.html" title="Mijn computer wordt erg warm"><span class="title">Mijn computer wordt erg warm</span><span class="linkdiv-dash"> — </span><span class="desc">Computers worden meestal warm, maar als ze te warm worden kunnen ze oververhit raken, hetgeen schadelijk kan zijn.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html" title="Why does my computer not turn back on after I suspended it?"><span class="title">Why does my computer not turn back on after I suspended it?</span><span class="linkdiv-dash"> — </span><span class="desc">Some computer hardware causes problems with suspend.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-othercountry.html" title="Will my computer work with a power supply in another country?"><span class="title">Will my computer work with a power supply in another country?</span><span class="linkdiv-dash"> — </span><span class="desc">Uw computer zal werken, maar mogelijk heeft u een andere stroomkabel of reisadapter nodig.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-othercountry.html" title="Zal mijn computer werken in een land met een andere stroomvoorziening?"><span class="title">Zal mijn computer werken in een land met een andere stroomvoorziening?</span><span class="linkdiv-dash"> — </span><span class="desc">Uw computer zal werken, maar mogelijk heeft u een andere stroomkabel of reisadapter nodig.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">Meer informatie</span></h3></div>
-<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="Common problems">Hardware problems</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="Veel voorkomende problemen">Hardwareproblemen</a></li></ul></div>
 </div></div></div>
 </div>
 </div>
@@ -124,23 +123,10 @@
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Gebruikers- &amp; systeeminstellingen</a><span class="desc"> — 
-      <span class="link"><a href="keyboard.html" title="Keyboard">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html" title="Mouse">mouse</a></span>,
-      <span class="link"><a href="prefs-display.html" title="Display &amp; screen">display</a></span>,
-      <span class="link"><a href="prefs-language.html" title="Region &amp; Language">languages</a></span>,
-      <span class="link"><a href="user-accounts.html" title="User accounts">user accounts</a></span>…
-    </span>
+<a href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Gebruikers- &amp; systeeminstellingen</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Toetsenbord">Toetsenbord</a></span>, <span class="link"><a href="mouse.html" title="Muis">muis</a></span>, <span class="link"><a href="prefs-display.html" title="Weergave &amp; scherm">beeldscherm</a></span>, <span class="link"><a href="prefs-language.html" title="Regio &amp; taal">talen</a></span>, <span class="link"><a href="user-accounts.html" title="Gebruikersaccounts">gebruikersaccounts</a></span>...</span>
 </li>
 <li class="links ">
-<a href="hardware.html" title="Hardware &amp; drivers">Hardware &amp; drivers</a><span class="desc"> — 
-      <span class="link"><a href="hardware.html#problems" title="Common problems">Hardware problems</a></span>,
-      <span class="link"><a href="printing.html" title="Afdrukken">printers</a></span>,
-      <span class="link"><a href="power.html" title="Power &amp; battery">power settings</a></span>,
-      <span class="link"><a href="color.html" title="Color management">color management</a></span>,
-      <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>,
-      <span class="link"><a href="disk.html" title="Disks &amp; storage">disks</a></span>…
-    </span>
+<a href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware &amp; stuurprogramma's</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Veel voorkomende problemen">Hardware problemen</a></span>, <span class="link"><a href="printing.html" title="Afdrukken">printers</a></span>, <span class="link"><a href="power.html" title="Voeding &amp; accu">energie-instellingen</a></span>, <span class="link"><a href="color.html" title="Kleurbeheer">kleurbeheer</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disks.html" title="disks">schijven</a></span>...</span>
 </li>
 </ul></div>
 </div></div></div>

@@ -59,7 +59,7 @@ application from the <span class="gui">Activities</span> overview, and click
 <span class="gui">Other Locations</span> in the sidebar. The file manager
 will find any computers on your local area network that advertize
 their ability to serve files. If you want to connect to a server
-on the internet, or if you do not see the computer you're looking
+on the internet, or if you do not see the computer you’re looking
 for, you can manually connect to a server by typing in its
 internet/network address.</p>
 <div class="steps"><div class="inner">
@@ -105,7 +105,8 @@ internet/network address.</p>
 <p class="p">உங்களிடம் ஒரு சேவையகத்தில் <span class="em">பாதுகாப்பான ஷெல்</span> கணக்கு இருந்தால், இந்த முறையை பயன்படுத்தி இணைக்க முடியும். பல வலை வழங்கிகள் தங்கள் உறுப்பினர்களுக்கு SSH கணக்குகளை வழங்குகின்றன, அதன் மூலம் அவர்கள் பாதுகாப்பாக கோப்புகளை பதிவேற்ற முடியும். SSH சேவையகத்தில் எப்போதும் புகுபதிவு செய்ய வேண்டியது அவசியம்.</p>
 <p class="p">ஒரு வழக்கமான SSH URL இப்படி இருக்கும்:</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ssh://username@servername.example.com/folder</span></p></div></div></div></div>
-<p class="p">SSH ஐப் பயன்படுத்தும் போது நீங்கள் அனுப்பும் அனைத்து தரவும் (உங்கள் கடவுச்சொல் உட்பட) உங்கள் பிணையத்தின் பிற பயனர்கள் பார்க்க முடியாதபடி குறியாக்கம் செய்யப்படுகின்றன.</p>
+<p class="p">When using SSH, all the data you send (including your password)
+  is encrypted so that other users on your network can’t see it.</p>
 </dd>
 <dt class="terms">FTP (புகுபதிவுடன்)</dt>
 <dd class="terms">
@@ -128,7 +129,11 @@ internet/network address.</p>
 </dd>
 <dt class="terms">WebDAV மற்றும் Secure WebDAV</dt>
 <dd class="terms">
-<p class="p">இணையத்தில் பயன்படுத்தப்படும் HTTP நெறிமுறையின் அடிப்படையில் அமைந்ததான, WebDAV முறை சில நேரங்களில் ஒரு அக பிணையத்தில் கோப்புகளைப் பகிர்ந்து கொள்ளவும் இணையத்தில் கோப்புகளைச் சேமிக்கவும் பயன்படுத்தப்படுகிறது. நீங்கள் இணைக்கும் சேவையகம் பாதுகாப்பான இணைப்புகளை ஆதரிக்கும் என்றால், நீங்கள் இந்த விருப்பத்தை தேர்வு செய்ய வேண்டும். மற்ற பயனர்கள் உங்கள் கடவுச்சொல்லைப் பார்க்க முடியாதபடி Secure WebDAV வலுவான SSL குறியாக்கத்தைப் பயன்படுத்துகிறது.</p>
+<p class="p">Based on the HTTP protocol used on the web, WebDAV is sometimes used to
+  share files on a local network and to store files on the internet. If the
+  server you’re connecting to supports secure connections, you should choose
+  this option. Secure WebDAV uses strong SSL encryption, so that other users
+  can’t see your password.</p>
 <p class="p">A WebDAV URL looks like this:</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">dav://example.hostname.com/path</span></p></div></div></div></div>
 </dd>

@@ -63,7 +63,12 @@
 <div class="hgroup"><h2 class="title"><span class="title">Verrouillage de l'écran</span></h2></div>
 <div class="region">
 <div class="contents">
-<p class="p">Si vous quittez votre ordinateur pendant très peu de temps, vous devriez verrouiller votre écran pour empêcher les autres personnes d'accéder à vos fichiers ou de lancer des applications. Lorsque vous revenez, relevez le rideau de <span class="link"><a href="shell-lockscreen.html" title="Verrouillage d'écran">verrouillage d'écran</a></span> et saisissez votre mot de passe pour vous reconnecter. Si vous ne verrouillez pas votre écran, il se verrouille automatiquement après un certain délai.</p>
+<p class="p">If you’re leaving your computer for a short time, you should lock your
+  screen to prevent other people from accessing your files or running
+  applications. When you return, raise the
+  <span class="link"><a href="shell-lockscreen.html" title="Verrouillage d'écran">lock screen</a></span> curtain and enter your
+  password to log back in. If you don’t lock your screen, it will lock
+  automatically after a certain amount of time.</p>
 <p class="p">Pour verrouiller votre écran, cliquez sur le menu système à droite dans la barre supérieure et appuyez sur le bouton de verrouillage d'écran en bas du menu.</p>
 <p class="p">Quand votre écran est verrouillé, les autres utilisateurs peuvent se connecter sur leur compte personnel en cliquant sur <span class="gui">Changer d'utilisateur</span> sur l'écran de mot de passe. Vous pouvez revenir sur votre ordinateur quand ils ont terminé.</p>
 </div>
@@ -90,10 +95,12 @@
 <p class="p">To save power, suspend your computer when you are not using it. If you use
   a laptop, GNOME, by default, suspends your computer automatically when you
   close the lid.
-  This saves your state to your computer's memory and powers off most of the
-  computer's functions. A very small amount of power is still used during
+  This saves your state to your computer’s memory and powers off most of the
+  computer’s functions. A very small amount of power is still used during
   suspend.</p>
-<p class="p">Pour mettre en veille votre ordinateur manuellement, cliquez sur le menu système à droite dans la barre supérieure puis gardez enfoncée la touche <span class="key"><kbd>Alt</kbd></span>. Le bouton d'extinction se transforme en bouton de mise en veille. Cliquez dessus.</p>
+<p class="p">To suspend your computer manually, click the system menu on the right side
+  of the top bar. From there you may either hold down the <span class="key"><kbd>Alt</kbd></span> key and 
+  click the power off button, or simply long-click the power off button.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

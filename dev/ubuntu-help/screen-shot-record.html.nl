@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Screenshots and screencasts</title>
+<title>Schermafdrukken en schermfilms</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,7 +46,7 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="Tips &amp; trucs">Tips &amp; trucs</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Screenshots and screencasts</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Schermafdrukken en schermfilms</span></h1></div>
 <div class="region">
 <div class="contents"><p class="p">You can take a picture of your screen (a <span class="em">screenshot</span>) or record a
   video of what is happening on the screen (a <span class="em">screencast</span>). This is
@@ -57,21 +57,14 @@
 <div class="hgroup"><h2 class="title"><span class="title">Een schermafdruk maken</span></h2></div>
 <div class="region">
 <div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open <span class="app">Screenshot</span> from the
-      <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview.</p></li>
-<li class="steps"><p class="p">In the <span class="app">Screenshot</span> window, select whether to grab the whole
-      screen, the current window, or an area of the screen. Set a delay if you
-      need to select a window or otherwise set up your desktop for the
-      screenshot. Then choose any effects you want.</p></li>
+<li class="steps"><p class="p">Open <span class="app">Schermafdruk</span> vanuit het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht.</p></li>
+<li class="steps"><p class="p">Kies in het venster <span class="app">Schermafdruk</span> of u een schermafdruk van het gehele bureaublad, het huidige venster of een gebied wilt maken. Stel een wachttijd in als u een venster wilt kiezen of uw bureaublad anders wilt instellen voor de schermafdruk. Kies daarna de gewenste effecten.</p></li>
 <li class="steps">
 <p class="p">Klik op <span class="gui">Schermafdruk maken</span>.</p>
-<p class="p">If you selected <span class="gui">Select area to grab</span>, the pointer changes
-       into a crosshair. Click and drag the area you want for the
-       screenshot.</p>
+<p class="p">Als u <span class="gui">Gebied selecteren</span> heeft gekozen, zal de cursor in een kruis veranderen. Sleep een rand om het gebied waarvan u een schermafdruk wilt maken.</p>
 </li>
 <li class="steps">
-<p class="p">In the <span class="gui">Save Screenshot</span> window, enter a file name and choose
-      a folder, then click <span class="gui">Save</span>.</p>
+<p class="p">Voer in het venster <span class="gui">Schermafdruk opslaan</span> een bestandsnaam in, kies een map en klik daarna op <span class="gui">Opslaan</span>.</p>
 <p class="p">Alternatively, import the screenshot directly into an image-editing
       application without saving it first. Click <span class="gui">Copy to Clipboard</span>
       then paste the image in the other application, or drag the screenshot
@@ -79,14 +72,13 @@
 </li>
 </ol></div></div></div></div>
 <div id="keyboard-shortcuts" class="sect"><div class="inner">
-<div class="hgroup"><h3 class="title"><span class="title">Keyboard shortcuts</span></h3></div>
+<div class="hgroup"><h3 class="title"><span class="title">Sneltoetsen</span></h3></div>
 <div class="region"><div class="contents">
 <p class="p">Quickly take a screenshot of the desktop, a window, or an area at any
     time using these global keyboard shortcuts:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
 <li class="list"><p class="p"><span class="key"><kbd>Prt Scrn</kbd></span> to take a screenshot of the desktop.</p></li>
-<li class="list"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Prt Scrn</kbd></span></span> to take a
-        screenshot of a window.</p></li>
+<li class="list"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Print Screen</kbd></span></span> om een schermafdruk van een venster te nemen.</p></li>
 <li class="list"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Prt Scrn</kbd></span></span> to take a
         screenshot of an area you select.</p></li>
 </ul></div></div></div>
@@ -103,7 +95,7 @@
 </div>
 </div></div>
 <div id="screencast" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Make a screencast</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Een scherm opnemen</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">You can make a video recording of what is happening on your screen:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
@@ -130,7 +122,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips.html" title="Tips &amp; trucs">Tips &amp; trucs</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Speciale tekens invoeren">Special characters</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Middle-click">middle click shortcuts</a></span>…</span>
+<a href="tips.html" title="Tips &amp; trucs">Tips &amp; trucs</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Speciale tekens invoeren">Speciale tekens</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Middelklik">middelmuisklik-sneltoetsen</a></span>...</span>
 </li></ul></div>
 </div></div></div>
 </div>

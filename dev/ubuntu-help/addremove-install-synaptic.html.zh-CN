@@ -64,7 +64,10 @@
 <div class="hgroup"><h2 class="title"><span class="title">使用新立得安装软件</span></h2></div>
 <div class="region"><div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">从 <span class="gui">Dash</span> 或<span class="gui">启动器</span>打开新立得，在<span class="gui">认证</span>窗口输入您的密码。</p></li>
+<li class="steps"><p class="p">
+          Open <span class="app">Synaptic</span> via the <span class="em">Activities</span> search bar. You 
+          will need to enter your password in the <span class="gui">Authenticate</span> window.
+        </p></li>
 <li class="steps"><p class="p"><span class="app">新立得</span> 打开时，单击<span class="gui">搜索</span>搜索应用程序，或单击<span class="gui">组别</span>，浏览类别以查找。</p></li>
 <li class="steps"><p class="p">右键单击您想要安装的应用程序，并选择<span class="gui">标记以便安装</span>。</p></li>
 <li class="steps"><p class="p">如果提示您标记其他修改，请单击<span class="gui">标记</span>。</p></li>

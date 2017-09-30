@@ -86,7 +86,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Energiatakarékossági okból függessze fel számítógépét, ha nem használja azt. Ha laptopot használ, akkor a GNOME alapesetben automatikusan felfüggeszti a számítógépét, amikor lecsukja a fedelet. Ez elmenti a munkamenet állapotát a számítógép memóriájába, és kikapcsolja a számítógép legtöbb funkcióját. A felfüggesztés alatt a számítógép kis mennyiségű áramot használ.</p>
-<p class="p">A számítógép saját kezűleg történő felfüggesztéséhez kattintson a rendszer menüre a felső sáv jobb oldalán, és tartsa lenyomva az <span class="key"><kbd>Alt</kbd></span> billentyűt. A Kikapcsolás menüpont átváltozik Felfüggesztéssé. Válassza ezt a menüpontot.</p>
+<p class="p">A számítógép saját kezűleg történő felfüggesztéséhez kattintson a rendszer menüre a felső sáv jobb oldalán, és vagy tartsa lenyomva az <span class="key"><kbd>Alt</kbd></span> billentyűt, és kattintson a Kikapcsolás gombra; vagy csak kattintson rá hosszan.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

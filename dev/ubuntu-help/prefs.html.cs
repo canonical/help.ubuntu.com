@@ -50,6 +50,10 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
+<div class="links-grid-link"><a href="startup-applications.html" title="Aplikace po spuštění">Aplikace po spuštění</a></div>
+<div class="desc"><span class="desc">Vyberte, které aplikace se mají spustit po přihlášení.</span></div>
+</div>
+<div class="links-grid ">
 <div class="links-grid-link"><a href="clock.html" title="Datum a čas">Datum a čas</a></div>
 <div class="desc"><span class="desc"><span class="link"><a href="clock-set.html" title="Změna data a času">Nastavení data a času</a></span>, <span class="link"><a href="clock-world.html" title="Přidání světového času">světové časy</a></span>, <span class="link"><a href="clock-timezone.html" title="Změna vašeho časového pásma">časové pásmo</a></span>, <span class="link"><a href="clock-calendar.html" title="Kalendářové události">kalendář a události</a></span>…</span></div>
 </div>
@@ -63,7 +67,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="keyboard.html" title="Klávesnice">Klávesnice</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Rozložení klávesnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Nastavení blikání textového kurzoru">blikání kurzoru</a></span>, <span class="link"><a href="a11y.html#mobility" title="Pohybová postižení">zpřístupnění klávesnice</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html" title="Použití alternativního rozložení klávesnice">Rozložení klávesnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Nastavení blikání textového kurzoru">blikání kurzoru</a></span>, <span class="link"><a href="a11y.html#mobility" title="Pohybová postižení">zpřístupnění klávesnice</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="mouse.html" title="Myš">Myš</a></div>
@@ -83,15 +87,11 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs-language.html" title="Region a jazyk">Region a jazyk</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="session-language.html" title="Změna jazyka, který používáte">Jazyk</a></span>, <span class="link"><a href="session-formats.html" title="Změna formátů data a měrných jednotek">region a formáty</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">rozložení klávesnice</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="session-language.html" title="Změna jazyka, který používáte">Jazyk</a></span>, <span class="link"><a href="session-formats.html" title="Změna formátů data a měrných jednotek">region a formáty</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Použití alternativního rozložení klávesnice">rozložení klávesnice</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="color.html" title="Správa barev">Správa barev</a></div>
 <div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html" title="Proč je správa barev důležitá?">Proč je to důležité</a></span>, <span class="link"><a href="color.html#profiles" title="Profily barev">profily barev</a></span>, <span class="link"><a href="color.html#calibration" title="Kalibrace">jak zkalibrovat zařízení</a></span>…</span></div>
-</div>
-<div class="links-grid ">
-<div class="links-grid-link"><a href="startup-applications.html" title="Startup Applications">Startup Applications</a></div>
-<div class="desc"><span class="desc">Choose what applications to start when you log in.</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="user-accounts.html" title="Uživatelské účty">Uživatelské účty</a></div>

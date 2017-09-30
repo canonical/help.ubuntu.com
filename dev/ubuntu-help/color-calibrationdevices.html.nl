@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>What color measuring instruments are supported?</title>
+<title>Welke kleursensoren worden ondersteund?</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,41 +44,37 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="color.html" title="Color management">Color management</a> › <a class="trail" href="color.html#calibration" title="Calibration">Calibration</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html#calibration" title="Kalibratie">Kalibratie</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="color.html" title="Color management">Color management</a> › <a class="trail" href="color.html#calibration" title="Calibration">Calibration</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html#calibration" title="Kalibratie">Kalibratie</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">What color measuring instruments are supported?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Welke kleursensoren worden ondersteund?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    GNOME relies on the Argyll color management system to support
-    color instruments. Thus the following display measuring instruments
-    are supported:
-  </p>
+<p class="p">Gnome gebruikt Argyll kleurbeheer om kleurinstrumenten te ondersteunen. Zo worden de volgende instrumenten voor het meten van beeldschermen ondersteund:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Gretag-Macbeth i1 Pro (spectrometer)</p></li>
 <li class="list"><p class="p">Gretag-Macbeth i1 Monitor (spectrometer)</p></li>
 <li class="list"><p class="p">Gretag-Macbeth i1 Display 1, 2 or LT (colorimeter)</p></li>
 <li class="list"><p class="p">X-Rite i1 Display Pro (colorimeter)</p></li>
-<li class="list"><p class="p">X-Rite ColorMunki Design or Photo (spectrometer)</p></li>
+<li class="list"><p class="p">X-Rite ColorMunki Design of Photo (spectrometer)</p></li>
 <li class="list"><p class="p">X-Rite ColorMunki Create (colorimeter)</p></li>
 <li class="list"><p class="p">X-Rite ColorMunki Display (colorimeter)</p></li>
 <li class="list"><p class="p">Pantone Huey (colorimeter)</p></li>
 <li class="list"><p class="p">MonacoOPTIX (colorimeter)</p></li>
-<li class="list"><p class="p">ColorVision Spyder 2 and 3 (colorimeter)</p></li>
+<li class="list"><p class="p">ColorVision Spyder 2 en 3 (colorimeter)</p></li>
 <li class="list"><p class="p">Colorimètre HCFR (colorimeter)</p></li>
 </ul></div></div></div>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">The Pantone Huey is currently the cheapest and best supported hardware in Linux.</p></div></div></div></div>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">De Pantone Heuy is momenteel de goedkoopste en de best ondersteunde hardware voor Linux.</p></div></div></div></div>
 <p class="p">
-    Thanks to Argyll there's also a number of spot and strip reading
+    Thanks to Argyll there’s also a number of spot and strip reading
     reflective spectrometers supported to help you calibrating and
     characterizing your printers:
   </p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">X-Rite DTP20 "Pulse" ("swipe" type reflective spectrometer)</p></li>
+<li class="list"><p class="p">X-Rite DTP20 “Pulse” (“swipe” type reflective spectrometer)</p></li>
 <li class="list"><p class="p">X-Rite DTP22 Digital Swatchbook (spot type reflective spectrometer)</p></li>
 <li class="list"><p class="p">X-Rite DTP41 (spot and strip reading reflective spectrometer)</p></li>
 <li class="list"><p class="p">X-Rite DTP41T (spot and strip reading reflective spectrometer)</p></li>
@@ -89,7 +85,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#calibration" title="Calibration">Calibration</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html#calibration" title="Kalibratie">Kalibratie</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

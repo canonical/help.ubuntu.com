@@ -60,7 +60,10 @@
 <p class="p">Вам может также понадобиться установить программу без графического интерфейса. Для установки таких программ можно воспользоваться <span class="link"><a href="addremove-install-synaptic.html" title="Используйте Synaptic для более продвинутого управления программным обеспечением">Synaptic</a></span>. Обратите внимание, что <span class="app">Synaptic</span> не показывает snap-пакеты.</p>
 <p class="p">Для того, чтобы установить приложение:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Щёлкните на значке <span class="app">Менеджера приложений Ubuntu</span> в <span class="gui">панели запуска</span> или наберите слово <span class="input">«приложений»</span> в строке поиска <span class="gui">главного меню</span>.</p></li>
+<li class="steps"><p class="p">
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
+      </p></li>
 <li class="steps"><p class="p">После запуска <span class="app">Менеджера приложений Ubuntu</span> выполните поиск требуемого приложения или выберите категорию и найдите это приложение в списке.</p></li>
 <li class="steps"><p class="p">Выберите нужное приложение и нажмите <span class="gui">Установить</span>.</p></li>
 <li class="steps"><p class="p">

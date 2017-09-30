@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>How do I test if color management is working correctly?</title>
+<title>Hoe kan ik controleren of kleurbeheer naar behoren werkt?</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,40 +44,30 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="color.html" title="Color management">Color management</a> › <a class="trail" href="color.html#problems" title="Problemen">Problemen</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html#problems" title="Problemen">Problemen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Settings</a> » <a class="trail" href="color.html" title="Color management">Color management</a> › <a class="trail" href="color.html#problems" title="Problemen">Problemen</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html#problems" title="Problemen">Problemen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">How do I test if color management is working correctly?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Hoe kan ik controleren of kleurbeheer naar behoren werkt?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">The effects of a color profile are sometimes subtle and it may be hard to
-  see if anything much has changed.</p>
-<p class="p">GNOME comes with several profiles for testing that make it very clear when
-  the profiles are being applied:</p>
+<p class="p">De effecten van een kleurprofiel zijn soms subtiel en het kan moeilijk zijn om te zien of er iets is veranderd.</p>
+<p class="p">In Gnome leveren we diverse testprofielen mee die het zeer duidelijk maken wanneer de profielen toegepast worden:</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms">Blue</dt>
-<dd class="terms"><p class="p">This will turn the screen blue and tests if the calibration curves are
-      being sent to the display.</p></dd>
+<dt class="terms">Blauw</dt>
+<dd class="terms"><p class="p">Dit maakt het scherm blauw en controleert of de kalibratiecurves naar het scherm worden verstuurd.</p></dd>
 </dl></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Color</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Color</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Select the device for which you want to add a profile. You may wish to
-      make a note of which profile is currently being used.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Add profile</span> to select a test profile, which should be
-      at the bottom of the list.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Add</span> to confirm your selection.</p></li>
-<li class="steps"><p class="p">To revert to your previous profile, select the device in the
-      <span class="gui">Color</span> panel, then select the profile that you were using
-      before you tried one of the test profiles and press <span class="gui">Enable</span> to
-      use it again.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Kleur</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Kleur</span> om het venster te openen.</p></li>
+<li class="steps"><p class="p">Selecteer het apparaat waarvoor u een profiel wilt toevoegen. U zou een notitie kunnen maken van welk profiel er nu in gebruik is.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Profiel toevoegen</span> om onderaan de lijst een testprofiel te kiezen.</p></li>
+<li class="steps"><p class="p">Druk op <span class="gui">Toevoegen</span> om uw selectie te bevestigen.</p></li>
+<li class="steps"><p class="p">Om terug te gaan naar uw vorige profiel kiest u het apparaat in het <span class="gui">Kleur</span>-venster en vervolgens het profiel dat u gebruikte voordat u een van de testprofielen probeerde; klik  op <span class="gui">Inschakelen</span> om het weer te gebruiken.</p></li>
 </ol></div></div></div>
-<p class="p">Using these profiles, you can clearly see when an application supports
-  color management.</p>
+<p class="p">Met deze profielen kunt u duidelijk zien wanneer een toepassing kleurbeheer ondersteunt.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -89,7 +79,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="color-gettingprofiles.html" title="Where do I get color profiles?">Where do I get color profiles?</a><span class="desc"> — Color profiles are provided by vendors and can be generated yourself.</span>
+<a href="color-gettingprofiles.html" title="Waar kan ik een kleurprofiel verkrijgen?">Waar kan ik een kleurprofiel verkrijgen?</a><span class="desc"> — Kleurprofielen worden geleverd door leveranciers en kunnen door u zelf gegenereerd worden.</span>
 </li></ul></div>
 </div></div>
 </div>

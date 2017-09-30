@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Tiedostot, kansiot ja etsiminen">Tiedostot</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » <a class="trail" href="nautilus-prefs.html" title="Tiedostonhallinnan asetukset">Tiedostonhallinnan asetukset</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Tiedostot, kansiot ja etsiminen">Tiedostot</a> › <a class="trail" href="files.html#more-file-tasks" title="Lisää tiedostoihin liittyviä tehtäviä">Lisää tiedostoihin liittyviä tehtäviä</a> » <a class="trail" href="nautilus-prefs.html" title="Tiedostonhallinnan asetukset">Tiedostonhallinnan asetukset</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Files list columns preferences</span></h1></div>
@@ -59,7 +59,7 @@
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Nimi</span></dt>
 <dd class="terms">
-<p class="p">The name of folders and files.</p>
+<p class="p">Tiedostojen ja kansioiden nimi.</p>
 <div class="note note-tip" title="Vinkki"><div class="inner"><div class="region"><div class="contents"><p class="p">The <span class="gui">Name</span> column cannot be hidden.</p></div></div></div></div>
 </dd>
 <dt class="terms"><span class="gui">Koko</span></dt>
@@ -101,7 +101,7 @@
 <dd class="terms"><p class="p">Näyttää kohteen MIME-tyypin.</p></dd>
 <dt class="terms"><span class="gui">Sijainti</span></dt>
 <dd class="terms"><p class="p">Tiedoston sijainnin polku.</p></dd>
-<dt class="terms"><span class="gui">Modified – Time</span></dt>
+<dt class="terms"><span class="gui">Modified — Time</span></dt>
 <dd class="terms"><p class="p">Tiedoston viimeisin muokkauspäivämäärä ja -aika.</p></dd>
 <dt class="terms"><span class="gui">Avattu</span></dt>
 <dd class="terms"><p class="p">Gives the date or time of the last time the file was modified.</p></dd>

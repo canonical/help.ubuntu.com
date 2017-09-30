@@ -60,7 +60,7 @@
 <li class="steps">
 <p class="p">Type a word or words that you know appear in the file name, and they
       will be shown in the search bar. For example, if you name all your
-      invoices with the word "Invoice", type <span class="input">invoice</span>. Words are
+      invoices with the word “Invoice”, type <span class="input">invoice</span>. Words are
       matched regardless of case.</p>
 <div class="note" title="Opomba"><div class="inner"><div class="region"><div class="contents"><p class="p">Instead of typing words directly to bring up the search bar, you can
 	click the magnifying glass in the toolbar, or press
@@ -74,7 +74,7 @@
           everywhere.</p></li>
 <li class="list"><p class="p">Click the <span class="gui">+</span> button and pick a <span class="gui">File Type</span> from
 	  the drop-down list to narrow the search results based on file type.
-	  Click the <span class="gui">x</span> button to remove this option and widen the
+	  Click the <span class="gui">×</span> button to remove this option and widen the
 	  search results.</p></li>
 </ul></div></div></div>
 </li>

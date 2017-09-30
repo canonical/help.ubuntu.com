@@ -58,7 +58,8 @@
 <li class="steps"><p class="p">Escriba os números das páxinas de desexa imprimir no cadro de texto, separados por comas. Use un guión para indicar un rango de páxinas.</p></li>
 </ol></div></div></div>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents">
-<p class="p">Por exemplo, se escribe «1,3,5-7,9» na caixa de texto <span class="gui">Páxinas</span>, imprimiranse as páxinas 1,3,5,6,7 e 9.</p>
+<p class="p">For example, if you enter “1,3,5-7,9” in the <span class="gui">Pages</span> text box,
+    pages 1,3,5,6,7 and 9 will be printed.</p>
 <div class="media media-image"><div class="inner"><img src="figures/printing-select.png" class="media media-block" alt=""></div></div>
 </div></div></div></div>
 </div>

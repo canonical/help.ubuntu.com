@@ -13,17 +13,17 @@
       </script><div id="container">
 <div id="container-inner">
 <div id="mothership"><ul>
-<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
-<li><a href="http://www.ubuntu.com/support">Support</a></li>
-<li><a href="http://www.ubuntu.com/community">Community</a></li>
-<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
 </ul></div>
 <div id="header">
 <h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
 <ul id="main-menu">
 <li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
 <li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
-<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
 </ul>
 </div>
 <div id="menu-search"><div id="search-box">
@@ -147,7 +147,7 @@
 </pre></div>
 <p class="para">There are several options available when using
       <span class="app application">virt-install</span>. For example:</p>
-<div class="screen"><pre class="contents "><span class="cmd command">sudo virt-install -n web_devel -r 256 \
+<div class="screen"><pre class="contents "><span class="cmd command">sudo virt-install -n web_devel -r 512 \
 --disk path=/var/lib/libvirt/images/web_devel.img,bus=virtio,size=4 -c \
 ubuntu-16.04-server-i386.iso --network network=default,model=virtio \
 --graphics vnc,listen=0.0.0.0 --noautoconsole -v</span>
@@ -159,7 +159,7 @@ ubuntu-16.04-server-i386.iso --network network=default,model=virtio \
           example.</p>
         </li>
 <li class="list itemizedlist">
-          <p class="para"><span class="em emphasis">-r 256:</span> specifies the amount of memory
+          <p class="para"><span class="em emphasis">-r 512:</span> specifies the amount of memory
           the virtual machine will use in megabytes.</p>
         </li>
 <li class="list itemizedlist">
@@ -328,6 +328,96 @@ ubuntu-16.04-server-i386.iso --network network=default,model=virtio \
 <p class="para">Some useful documentation on constraints and considerations about live migration can be found at the <a href="https://wiki.ubuntu.com/QemuKVMMigration" class="ulink" title="https://wiki.ubuntu.com/QemuKVMMigration">Ubuntu Wiki</a></p>
 </div></div>
 </div></div>
+<div class="sect3 sect" id="virtal-functions"><div class="inner">
+<div class="hgroup"><h3 class="title">Device Passthrough / Hotplug</h3></div>
+<div class="region"><div class="contents">
+<p class="para">
+             If instead of the here described hotplugging you want to always pass through a device add the xml content of the
+             device to your static guest xml representation via e.g. <span class="cmd command">virsh edit &lt;guestname&gt;</span>.
+             In that case you don't need to use <span class="em emphasis">attach/detach</span>.
+             There are different kinds of passthrough. Types available to you depend on your Hardware and software setup.
+         </p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist"> <p class="para">USB hotplug/passthrough</p> </li>
+<li class="list itemizedlist"> <p class="para">VF hotplug/Passthrough</p> </li>
+</ul></div>
+<p class="para">
+           But both kinds are handled in a very similar way and while there are various way to do it (e.g. also via qemu monitor)
+           driving such a change via libvirt is recommended.
+           That way libvirt can try to manage all sorts of special cases for you and also somewhat masks version differences.
+        </p>
+<p class="para">
+            In general when driving hotplug via libvirt you create a xml snippet that describes the device just as you would
+            do in a static <a href="https://libvirt.org/formatdomain.html" class="ulink" title="https://libvirt.org/formatdomain.html">guest description.</a>
+            A usb device is usually identified by Vendor/Product id's:
+<div class="screen"><pre class="contents ">&lt;hostdev mode='subsystem' type='usb' managed='yes'&gt;
+  &lt;source&gt;
+    &lt;vendor id='0x0b6d'/&gt;
+    &lt;product id='0x3880'/&gt;
+  &lt;/source&gt;
+&lt;/hostdev&gt;</pre></div>
+            Virtual functions are usually assigned via their PCI-ID (domain, bus, slot, function).
+<div class="screen"><pre class="contents ">&lt;hostdev mode='subsystem' type='pci' managed='yes'&gt;
+  &lt;source&gt;
+    &lt;address domain='0x0000' bus='0x04' slot='0x10' function='0x0'/&gt;
+  &lt;/source&gt;
+&lt;/hostdev&gt;</pre></div>
+        </p>
+<div class="note" title="Nòta"><div class="inner"><div class="region"><div class="contents">
+            <p class="para">
+                To get the Virtual function in the first place is very device dependent and can therefore not be fully covered here.
+                But in general it involves setting up an iommu, registering via <a href="https://www.kernel.org/doc/Documentation/vfio.txt" class="ulink" title="https://www.kernel.org/doc/Documentation/vfio.txt">VFIO</a> and sometimes requesting a number of VFs.
+                Here an example on ppc64el to get 4 VFs on a device:
+              <div class="screen"><pre class="contents ">$ sudo modprobe vfio-pci
+# identify device
+$ lspci -n -s 0005:01:01.3
+0005:01:01.3 0200: 10df:e228 (rev 10)
+# register and request VFs
+$ echo 10df e228 | sudo tee /sys/bus/pci/drivers/vfio-pci/new_id
+$ echo 4 | sudo tee /sys/bus/pci/devices/0005\:01\:00.0/sriov_numvfs
+              </pre></div>
+            </p>
+        </div></div></div></div>
+<p class="para">
+            You then attach or detach the device via libvirt by relating the guest with the xml snippet.
+<div class="screen"><pre class="contents "><span class="cmd command">virsh attach-device &lt;guestname&gt; &lt;device-xml&gt;</span>
+# Use the Device int the Guest
+<span class="cmd command">virsh detach-device &lt;guestname&gt; &lt;device-xml&gt;</span></pre></div>
+        </p>
+<div class="note note-warning" title="Alèrta"><div class="inner"><div class="region"><div class="contents">
+            <p class="para">
+               There are several associated known issues in regard to apparmor proetction protecting "too much".
+               You might need to tweak exceptions in the apparmor profiles until the bugs
+               <a href="https://bugs.launchpad.net/ubuntu/+source/libvirt/+bug/1552241" class="ulink" title="https://bugs.launchpad.net/ubuntu/+source/libvirt/+bug/1552241">1552241</a> (for USB) and
+               <a href="https://bugs.launchpad.net/ubuntu/+source/apparmor/+bug/1679704" class="ulink" title="https://bugs.launchpad.net/ubuntu/+source/apparmor/+bug/1679704">https://bugs.launchpad.net/ubuntu/+source/apparmor/+bug/1679704</a> (For VF assignment) are resolved.
+               To check if you are affected watch dmesg while you use the USB/VF passthrough/hotplug feature and verify if you see <a href="http://wiki.apparmor.net/index.php/AppArmor_Failures#Messages_in_the_Log_files" class="ulink" title="http://wiki.apparmor.net/index.php/AppArmor_Failures#Messages_in_the_Log_files">apparmor denies</a>.
+            </p>
+        </div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="monitor-via-libvirt"><div class="inner">
+<div class="hgroup"><h3 class="title">Access Qemu Monitor via libvirt</h3></div>
+<div class="region"><div class="contents">
+<p class="para">
+             The <a href="https://en.wikibooks.org/wiki/QEMU/Monitor" class="ulink" title="https://en.wikibooks.org/wiki/QEMU/Monitor">Qemu Monitor</a> is the way to interact with qemu/KVM while
+             a guest is running. This interface has many and very powerful features for experienced users.
+             When running under libvirt that monitor interface is bound by libvirt itself for management purposes, but a user
+             can run qemu monitor commands via libvirt still.
+             The general syntax is <span class="cmd command">virsh qemu-monitor-command [options] [guest] 'command'</span>
+         </p>
+<p class="para">
+             Libvirt covers most use cases needed, but if you every want/need to work around libvirt or want to tweak very special options you can e.g. add a device that way:
+             <div class="screen"><pre class="contents ">virsh qemu-monitor-command --hmp zesty-test-log 'drive_add 0 if=none,file=/var/lib/libvirt/images/test.img,format=raw,id=disk1'</pre></div>
+         </p>
+<p class="para">
+             But since the monitor is so powerful, you can do a lot especially for debugging purposes like showing the guest registers:
+             <div class="screen"><pre class="contents ">virsh qemu-monitor-command --hmp y-ipns 'info registers'
+RAX=00ffffc000000000 RBX=ffff8f0f5d5c7e48 RCX=0000000000000000 RDX=ffffea00007571c0
+RSI=0000000000000000 RDI=ffff8f0fdd5c7e48 RBP=ffff8f0f5d5c7e18 RSP=ffff8f0f5d5c7df8
+[...]</pre></div>
+         </p>
+</div></div>
+</div></div>
 <div class="sect3 sect" id="virt-manager"><div class="inner">
 <div class="hgroup"><h3 class="title">Gestionari de maquina virtuala</h3></div>
 <div class="region"><div class="contents">
@@ -417,6 +507,10 @@ ubuntu-16.04-server-i386.iso --network network=default,model=virtio \
 <li class="list itemizedlist">
           <p class="para">For information on Xen, including using Xen with libvirt,
           please see the <a href="https://help.ubuntu.com/community/Xen" class="ulink" title="https://help.ubuntu.com/community/Xen">Ubuntu Wiki Xen</a>
+          page.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">For basics how to assign VT-d devices to qemu/KVM, please see the <a href="http://www.linux-kvm.org/page/How_to_assign_devices_with_VT-d_in_KVM#Assigning_the_device" class="ulink" title="http://www.linux-kvm.org/page/How_to_assign_devices_with_VT-d_in_KVM#Assigning_the_device">linux-kvm</a>
           page.</p>
         </li>
 </ul></div></div></div>

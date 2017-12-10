@@ -13,17 +13,17 @@
       </script><div id="container">
 <div id="container-inner">
 <div id="mothership"><ul>
-<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
-<li><a href="http://www.ubuntu.com/support">Support</a></li>
-<li><a href="http://www.ubuntu.com/community">Community</a></li>
-<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
 </ul></div>
 <div id="header">
 <h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
 <ul id="main-menu">
 <li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
 <li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
-<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
 </ul>
 </div>
 <div id="menu-search"><div id="search-box">
@@ -124,7 +124,7 @@
           <p class="para"><span class="em emphasis">Настоятельно </span> рекомендуется, чтобы ваши авторизованные в сети пользователи имели uid в отдельном диапазоне от ваших локальных пользователей (скажем, начиная с 5000).</p>
         </div></div></div></div>
 <p class="para">Перед установкой сервера Kerberos требуется правильно настроить DNS-сервер для вашего домена. Поскольку область Kerberos по соглашению совпадает с именем домена, этот раздел использует домен <span class="em emphasis">EXAMPLE.COM</span>, настроенный как Primary Master по документации <a class="xref" href="dns-configuration.html#dns-primarymaster-configuration" title="Первичный мастер">Первичный мастер</a>.</p>
-<p class="para">Кроме того, Kerberos — протокол, зависимый от времени. Поэтому если локальное время системы на клиентской машине и на сервере отличается более чем на 5 минут (по умолчанию), рабочая станция не будет аутентифицирована. Для решения проблемы все узлы сети должны синхронизировать своё время по одному серверу <span class="em emphasis">Network Time Protocol (NTP)</span>. Детали настройки NTP смотрите в разделе <a class="xref" href="NTP.html" title="Синхронизация времени с NTP">Синхронизация времени с NTP</a>.</p>
+<p class="para">Кроме того, Kerberos — протокол, зависимый от времени. Поэтому если локальное время системы на клиентской машине и на сервере отличается более чем на 5 минут (по умолчанию), рабочая станция не будет аутентифицирована. Для решения проблемы все узлы сети должны синхронизировать своё время по одному серверу <span class="em emphasis">Network Time Protocol (NTP)</span>. Детали настройки NTP смотрите в разделе <a class="xref" href="NTP.html" title="Time Synchronisation">Time Synchronisation</a>.</p>
 <p class="para">Первый шаг по созданию области Kerberos — это установка пакетов <span class="app application">krb5-kdc</span> и <span class="app application">krb5-admin-server</span>. Введите в терминале:</p>
 <div class="screen"><pre class="contents "><span class="cmd command">sudo apt install krb5-kdc krb5-admin-server</span>
 </pre></div>

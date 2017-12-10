@@ -13,17 +13,17 @@
       </script><div id="container">
 <div id="container-inner">
 <div id="mothership"><ul>
-<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
-<li><a href="http://www.ubuntu.com/support">Support</a></li>
-<li><a href="http://www.ubuntu.com/community">Community</a></li>
-<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
 </ul></div>
 <div id="header">
 <h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
 <ul id="main-menu">
 <li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
 <li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
-<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
 </ul>
 </div>
 <div id="menu-search"><div id="search-box">
@@ -79,11 +79,11 @@
     </p>
 </div>
 <div class="links sectionlinks" role="navigation"><ul>
-<li class="links"><a class="xref" href="lxd.html#lxd-resources" title="Online Resources">Online Resources</a></li>
+<li class="links"><a class="xref" href="lxd.html#lxd-resources" title="Ressources en ligne">Ressources en ligne</a></li>
 <li class="links"><a class="xref" href="lxd.html#lxd-installation" title="Installation">Installation</a></li>
-<li class="links"><a class="xref" href="lxd.html#lxd-kernel-prep" title=" Kernel preparation "> Kernel preparation </a></li>
+<li class="links"><a class="xref" href="lxd.html#lxd-kernel-prep" title="Préparation du noyau">Préparation du noyau</a></li>
 <li class="links"><a class="xref" href="lxd.html#lxd-configuration" title="Configuration">Configuration</a></li>
-<li class="links"><a class="xref" href="lxd.html#lxd-first-container" title=" Creating your first container "> Creating your first container </a></li>
+<li class="links"><a class="xref" href="lxd.html#lxd-first-container" title="Création de votre premier conteneur">Création de votre premier conteneur</a></li>
 <li class="links"><a class="xref" href="lxd.html#lxd-server-config" title=" LXD Server Configuration "> LXD Server Configuration </a></li>
 <li class="links"><a class="xref" href="lxd.html#lxd-container-config" title=" Container configuration "> Container configuration </a></li>
 <li class="links"><a class="xref" href="lxd.html#lxd-profiles" title="Profils">Profils</a></li>
@@ -97,7 +97,7 @@
 <li class="links"><a class="xref" href="lxd.html#lxd-troubleshooting" title="Dépannage">Dépannage</a></li>
 </ul></div>
 <div class="sect2 sect" id="lxd-resources"><div class="inner">
-<div class="hgroup"><h2 class="title">Online Resources</h2></div>
+<div class="hgroup"><h2 class="title">Ressources en ligne</h2></div>
 <div class="region"><div class="contents">
 <p class="para">
       There is excellent documentation for <a href="http://github.com/lxc/lxd" class="ulink" title="http://github.com/lxc/lxd">getting started with LXD</a> in the online LXD README.
@@ -127,7 +127,7 @@
 </div></div>
 </div></div>
 <div class="sect2 sect" id="lxd-kernel-prep"><div class="inner">
-<div class="hgroup"><h2 class="title"> Kernel preparation </h2></div>
+<div class="hgroup"><h2 class="title">Préparation du noyau</h2></div>
 <div class="region"><div class="contents"><p class="para">
       In general, Ubuntu 16.04 should have all the desired features enabled by
       default.  One exception to this is that in order to enable swap
@@ -153,7 +153,7 @@
           or the size of a file to use as backing store.</p>
         </li>
 <li class="list itemizedlist">
-<p class="para">Availability over the network</p>
+<p class="para">Disponibilité sur le réseau</p>
         </li>
 <li class="list itemizedlist">
 <p class="para">A 'trust password' used by remote clients to vouch for their client certificate</p>
@@ -178,13 +178,13 @@
 </div></div>
 </div></div>
 <div class="sect2 sect" id="lxd-first-container"><div class="inner">
-<div class="hgroup"><h2 class="title"> Creating your first container </h2></div>
+<div class="hgroup"><h2 class="title">Création de votre premier conteneur</h2></div>
 <div class="region">
 <div class="contents"><p class="para">
       This section will describe the simplest container tasks.
       </p></div>
 <div class="sect3 sect"><div class="inner">
-<div class="hgroup"><h3 class="title"> Creating a container </h3></div>
+<div class="hgroup"><h3 class="title">Création d'un conteneur</h3></div>
 <div class="region"><div class="contents">
 <p class="para">
         Every new container is created based on either an image, an existing container,
@@ -207,12 +207,8 @@
             server for Ubuntu images.</p>
           </li>
 </ul></div>
-<p class="para">
-        The command to create and start a container is
-        </p>
-<div class="screen"><pre class="contents "><span class="cmd command">
-lxc launch remote:image containername
-</span>
+<p class="para">La commande pour créer et démarrer un conteneur est</p>
+<div class="screen"><pre class="contents "><span class="cmd command">lxc launch remote:image containername</span>
 </pre></div>
 <p class="para">
         Images are identified by their hash, but are also aliased.  The 'ubuntu'
@@ -235,9 +231,7 @@ lxc launch remote:image containername
       </p>
 <div class="screen"><pre class="contents "><span class="cmd command">lxc image info ubuntu:lts/arm64</span>
 </pre></div>
-<p class="para">
-        Now, let's start our first container:
-      </p>
+<p class="para">Maintenant, démarrons notre premier conteneur :</p>
 <div class="screen"><pre class="contents "><span class="cmd command">lxc launch ubuntu:xenial x1</span>
 </pre></div>
 <p class="para">

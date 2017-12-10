@@ -13,17 +13,17 @@
       </script><div id="container">
 <div id="container-inner">
 <div id="mothership"><ul>
-<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
-<li><a href="http://www.ubuntu.com/support">Support</a></li>
-<li><a href="http://www.ubuntu.com/community">Community</a></li>
-<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
 </ul></div>
 <div id="header">
 <h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
 <ul id="main-menu">
 <li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
 <li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
-<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
 </ul>
 </div>
 <div id="menu-search"><div id="search-box">
@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails"><div class="trail">
-<a href="../../16.04" class="trail">Ubuntu 16.04</a> » <a class="trail" href="index.html" title="Ubuntu Server Guide">Ubuntu Server Guide</a> » <a class="trail" href="email-services.html" title="Email Services">Email Services</a> » </div></div>
+<a href="../../18.04" class="trail">Ubuntu 18.04</a> » <a class="trail" href="index.html" title="Ubuntu Server Guide">Ubuntu Server Guide</a> » <a class="trail" href="email-services.html" title="Email Services">Email Services</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
@@ -68,57 +68,46 @@
 <div class="hgroup"><h2 class="title">Installation</h2></div>
 <div class="region"><div class="contents">
 <p class="para">
-            To install <span class="app application">dovecot</span>, run the following command in the
-            command prompt:
-	    </p>
+            To install a basic <span class="app application">Dovecot</span> server with common pop3 and imap functions, run the following command in the command prompt:
+            </p>
 <div class="screen"><pre class="contents "><span class="cmd command">sudo apt install dovecot-imapd dovecot-pop3d</span>
 </pre></div>
+<p class="para">
+                There are various other <span class="app application">Dovecot</span> modules like <span class="app application">dovecot-sieve</span> (mail filtering), <span class="app application">dovecot-solr</span> (full text search), ...
+            </p>
 </div></div>
 </div></div>
 <div class="sect2 sect" id="dovecot-configuration"><div class="inner">
 <div class="hgroup"><h2 class="title">Configuration</h2></div>
 <div class="region"><div class="contents">
 <p class="para">
-            To configure <span class="app application">dovecot</span>, you can edit the file
-            <span class="file filename">/etc/dovecot/dovecot.conf</span>. You can
-            choose the protocol you use. It could be pop3, pop3s (pop3
-            secure), imap and imaps (imap secure). A description of these protocols is beyond the scope of this guide. For further information, refer to the Wikipedia articles on <a href="http://en.wikipedia.org/wiki/POP3" class="ulink" title="http://en.wikipedia.org/wiki/POP3">POP3</a> and
-            <a href="http://en.wikipedia.org/wiki/Internet_Message_Access_Protocol" class="ulink" title="http://en.wikipedia.org/wiki/Internet_Message_Access_Protocol">IMAP</a>.
+            To configure <span class="app application">Dovecot</span>, you can edit the file
+            <span class="file filename">/etc/dovecot/dovecot.conf</span> and its included configfiles in <span class="file filename">/etc/dovecot/conf.d/</span>.
+            By default all installed protocols will be enabled via an include directive in <span class="file filename">/etc/dovecot/dovecot.conf</span>.
             </p>
-<p class="para">
-            IMAPS and POP3S are more secure that the simple IMAP and
-            POP3 because they use SSL encryption to connect. Once you
-            have chosen the protocol, amend the following line in the file
-            <span class="file filename">/etc/dovecot/dovecot.conf</span>:
-	    </p>
-<div class="code"><pre class="contents ">protocols = pop3 pop3s imap imaps
+<div class="code"><pre class="contents ">!include_try /usr/share/dovecot/protocols.d/*.protocol
 </pre></div>
 <p class="para">
-            Next, choose the mailbox you would like to use. <span class="app application">Dovecot</span> supports
-            <span class="em em-bold emphasis">maildir</span> and <span class="em em-bold emphasis">mbox</span> formats. These are the most
-            commonly used mailbox formats. They both have their own
-            benefits and are discussed on <a href="http://wiki2.dovecot.org/MailboxFormat" class="ulink" title="http://wiki2.dovecot.org/MailboxFormat">the Dovecot web site</a>.
-            </p>
-<p class="para">
-            Once you have chosen your mailbox type, edit the file
-            <span class="file filename">/etc/dovecot/conf.d/10-mail.conf</span> and change
-            the following line:
-            </p>
-<div class="code"><pre class="contents ">mail_location = maildir:~/Maildir # (for maildir)
-or
-mail_location = mbox:~/mail:INBOX=/var/spool/mail/%u # (for mbox)
-</pre></div>
+          IMAPS and POP3S are more secure because they use SSL encryption to
+          connect. A basic self signed ssl certificate is automatically set up
+          by package ssl-cert and used by dovecot in <span class="file filename">/etc/dovecot/conf.d/10-ssl.conf</span>.
+      </p>
 <div class="note" title="Note"><div class="inner"><div class="region"><div class="contents">
-	  <p class="para">
-	  You should configure your Mail Transport Agent (MTA) to transfer the
-	  incoming mail to this type of mailbox if it is different from the one
-	  you have configured.
-	  </p>
-	  </div></div></div></div>
+        <p class="para">
+            By default mbox format is configured, if required you can also use maildir.
+            More about that can be found in the comments at <span class="file filename">/etc/dovecot/conf.d//10-mail.conf</span>
+            Further benefits and details are discussed on <a href="https://wiki2.dovecot.org/MailboxFormat" class="ulink" title="https://wiki2.dovecot.org/MailboxFormat">the Dovecot web site</a>.
+        </p>
+      </div></div></div></div>
 <p class="para">
-          Once you have configured dovecot, restart the <span class="app application">dovecot</span> daemon
+      You should configure your Mail Transport Agent (MTA) to transfer the
+      incoming mail to the selected type of mailbox if it is different from the one
+      you have configured.
+      </p>
+<p class="para">
+          Once you have configured dovecot, restart the <span class="app application">Dovecot</span> daemon
           in order to test your setup:
-	  </p>
+      </p>
 <div class="screen"><pre class="contents "><span class="cmd command">sudo systemctl restart dovecot.service</span>
 </pre></div>
 <p class="para">
@@ -127,7 +116,7 @@ mail_location = mbox:~/mail:INBOX=/var/spool/mail/%u # (for mbox)
           <span class="cmd command">telnet localhost imap2</span>. If you see
           something like the following, the installation has been
           successful:
-	  </p>
+      </p>
 <div class="code"><pre class="contents ">bhuvan@rainbow:~$ telnet localhost pop3
 Trying 127.0.0.1...
 Connected to localhost.localdomain.
@@ -140,29 +129,22 @@ Escape character is '^]'.
 <div class="hgroup"><h2 class="title">Dovecot SSL Configuration</h2></div>
 <div class="region"><div class="contents">
 <p class="para">
-            To configure <span class="app application">dovecot</span> to use SSL, you can edit the file
-            <span class="file filename">/etc/dovecot/conf.d/10-ssl.conf</span> and amend
-            following lines:
-	    </p>
-<div class="code"><pre class="contents ">
-ssl = yes
-ssl_cert = &lt;/etc/ssl/certs/dovecot.pem
-ssl_key = &lt;/etc/ssl/private/dovecot.pem
-
+                <span class="app application">Dovecot</span> is now automatically configured to use SSL.
+                It uses the package ssl-cert which provides a self signed certificate.
+                You can edit the file <span class="file filename">/etc/dovecot/conf.d/10-ssl.conf</span> and amend
+                following lines if you want to set up a custom certificate (See <a class="xref" href="certificates-and-security.html" title="Certificates">Certificates</a> for more details.):
+        </p>
+<div class="code"><pre class="contents ">ssl_cert = &lt;/etc/dovecot/private/dovecot.pem
+ssl_key = &lt;/etc/dovecot/private/dovecot.key
 </pre></div>
 <p class="para">
-          You can get the SSL certificate from a Certificate Issuing
-          Authority or you can create self signed SSL certificate.
-	  The latter is a good option for email, because SMTP clients rarely
-	  complain about "self-signed certificates".
-	  Please
-          refer to <a class="xref" href="certificates-and-security.html" title="Certificates">Certificates</a>
-          for details about how to create self signed SSL certificate. Once
-          you create the certificate, you will have a key file and a
-          certificate file.  Please copy them to the location pointed
-          in the <span class="file filename">/etc/dovecot/conf.d/10-ssl.conf</span>
-          configuration file.
-          </p>
+      You can get the SSL certificate from a Certificate Issuing
+      Authority or you can create self signed SSL certificate.
+      Please refer to <a class="xref" href="certificates-and-security.html" title="Certificates">Certificates</a>
+      for details about how to create self signed SSL certificate. Once
+      you create the certificate, you will have a key file and a
+      certificate file that you want to make known in the config shown above.
+      </p>
 </div></div>
 </div></div>
 <div class="sect2 sect"><div class="inner">

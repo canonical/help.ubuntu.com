@@ -13,17 +13,17 @@
       </script><div id="container">
 <div id="container-inner">
 <div id="mothership"><ul>
-<li><a href="http://www.ubuntu.com/partners">Partners</a></li>
-<li><a href="http://www.ubuntu.com/support">Support</a></li>
-<li><a href="http://www.ubuntu.com/community">Community</a></li>
-<li><a href="http://www.ubuntu.com">Ubuntu.com</a></li>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
 </ul></div>
 <div id="header">
 <h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
 <ul id="main-menu">
 <li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
 <li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
-<li><a href="http://community.ubuntu.com/contribute/documentation/">Contribute</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
 </ul>
 </div>
 <div id="menu-search"><div id="search-box">
@@ -87,9 +87,9 @@
 
         <p class="para">Om te beginnen, plaats de volgende sleutel-/waardeparen in de <span class="em emphasis">[global]</span> sectie van <span class="file filename">/etc/samba/smb.conf</span>:</p>
 
-<div class="code"><pre class="contents ">   workgroup = VOORBEELD
-   …
-   security = gebruiker
+<div class="code"><pre class="contents ">   workgroup = EXAMPLE
+   ...
+   security = user
 </pre></div>
 
         <p class="para">De <span class="em emphasis">security</span>-parameter staat lager in de [global]-sectie en staat standaard in commentaar. Pas ook <span class="em emphasis">EXAMPLE</span> aan om het beter op uw omgeving af te stemmen.</p>

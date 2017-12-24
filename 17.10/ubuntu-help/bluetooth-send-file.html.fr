@@ -53,11 +53,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Envoi de fichiers vers un périphérique Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can send files to connected Bluetooth devices, such as some mobile
-    phones or other computers. Some types of devices don’t allow the transfer
-    of files, or specific types of files. You can send files in one of three
-    ways: using the Bluetooth icon in the menu bar, from the Bluetooth settings
-    window, or directly from the file manager.</p>
+<p class="p">Il est possible d'envoyer des fichiers vers des périphériques Bluetooth connectés, comme des téléphones portables ou d'autres ordinateurs. Certains types de périphériques ne permettent pas de transférer des fichiers, ou des types particuliers de fichiers. Vous pouvez envoyer des fichiers à partir de la fenêtre paramètres Bluetooth.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
       start typing <span class="gui">Bluetooth</span>.</p></li>

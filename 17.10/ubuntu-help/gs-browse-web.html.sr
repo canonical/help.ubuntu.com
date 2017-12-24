@@ -51,7 +51,15 @@
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Прегледање интернета</span></h1></div>
 <div class="region">
-<div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
+<div class="contents">
+<div class="media media-image"><div class="inner"><img src="gs-web-browser1-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Померите ваш показивач миша у горњи леви угао екрана где пише <span class="gui">Активности</span> да би вам се приказао <span class="gui">преглед активности</span>.</p></li>
+<li class="steps"><p class="p">Изаберите <span class="app">Firefox</span> иконицу прегледача са траке на левој страни екрана.</p></li>
+</ol></div></div></div>
+<div class="note" title="Белешка"><div class="inner"><div class="region"><div class="contents"><p class="p">Постоји и други начин за покретање прегледача, <span class="link"><a href="gs-use-system-search.html" title="Коришћење претраге система">куцањем речи</a></span> <span class="em">Firefox</span> у <span class="gui">прегледу активности</span>.</p></div></div></div></div>
+<div class="media media-image"><div class="inner"><img src="gs-web-browser2-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
 <li class="steps"><p class="p">Кликните на траку са адресом у врху прозора прегледача и почните са куцањем веб странице коју желите да погледате.</p></li>
 <li class="steps">
 <p class="p">Куцањем веб странице се започиње претраживање историје прегледања и обележивача, тако да није потребно запамтити тачну адресу.</p>
@@ -59,7 +67,8 @@
 </li>
 <li class="steps"><p class="p">Можете брзо изабрати веб страницу из падајућег списка користећи стрелице на тастатури.</p></li>
 <li class="steps"><p class="p">Након што изаберете веб страницу, притисните тастер <span class="key"><kbd>Enter</kbd></span> да бисте је отворили.</p></li>
-</ol></div></div></div></div>
+</ol></div></div></div>
+</div>
 <div class="links nextlinks">
 <a class="nextlinks-prev" href="gs-get-online.html" title="Приступање интернету">Претходно</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="Повезивање са налозима на мрежи">Следеће</a>
 </div>

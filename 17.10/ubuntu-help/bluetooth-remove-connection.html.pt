@@ -51,8 +51,8 @@
 <div class="contents">
 <p class="p">Se não quer voltar a ligar a um dispositivo Bluetooth pode tirar a conexão. É útil se já não quer voltar a usar um dispositivo como um rato ou uns auriculares ou se já não vai voltar a transferir ficheiros a ou desde um dispositivo.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Carregue no ícone de Bluetooth na <span class="gui">barra de menu</span> e selecione <span class="gui">Configuração de Bluetooth</span>.</p></li>
-<li class="steps"><p class="p">Selecione <span class="gui">Configuração de Bluetooth</span> para abrir o painel.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Carregue em <span class="gui">Bluetooth</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Selecione na lista o dispositivo que quer desligar.</p></li>
 <li class="steps"><p class="p">No quadro de diálogo de dispositivos, mude <span class="gui">Conexão</span> a <span class="gui">Apagado</span>, ou para tirar o dispositivo da lista de <span class="gui">Dispositivos</span>, carregue em <span class="gui">Tirar dispositivo</span>.</p></li>
 </ol></div></div></div>

@@ -51,7 +51,15 @@
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">ಜಾಲವನ್ನು ವೀಕ್ಷಿಸಿ</span></h1></div>
 <div class="region">
-<div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
+<div class="contents">
+<div class="media media-image"><div class="inner"><img src="gs-web-browser1-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p"><span class="gui">ಚಟುವಟಿಕೆಗಳ ಅವಲೋಕನವನ್ನು</span> ತೋರಿಸಲು ನಿಮ್ಮ ಮೌಸ್‌ನ ಸೂಚಕವನ್ನು ತೆರೆಯ ಮೇಲ್ಭಾಗದ ಎಡಗಡೆ ಇರುವ <span class="gui">ಚಟುವಟಿಕೆಗಳು</span> ಮೂಲೆಗೆ ತೆಗೆದುಕೊಂಡುಹೋಗಿ&gt;.</p></li>
+<li class="steps"><p class="p">ತೆರೆಯ ಎಡಭಾಗದಲ್ಲಿರುವ ಪಟ್ಟಿಯಿಂದ <span class="app">Firefox</span> ವೀಕ್ಷಕದ ಚಿಹ್ನೆಯನ್ನು ಆರಿಸಿಕೊಳ್ಳಿ.</p></li>
+</ol></div></div></div>
+<div class="note" title="ಸೂಚನೆ"><div class="inner"><div class="region"><div class="contents"><p class="p">ಪರ್ಯಾಯವಾಗಿ, ನೀವು <span class="gui">ಚಟುವಟಿಕೆಗಳ ಅವಲೋಕನ</span>ದಲ್ಲಿ <span class="em">Firefox</span> ಎಂದು <span class="link"><a href="gs-use-system-search.html" title="ವ್ಯವಸ್ಥೆಯ ಹುಡುಕಾಟವನ್ನು ಬಳಸಿ">ಟೈಪ್</a></span> ಮಾಡುವ ಮೂಲಕ ಜಾಲವೀಕ್ಷಕವನ್ನು ಆರಂಭಿಸಬಹುದು.</p></div></div></div></div>
+<div class="media media-image"><div class="inner"><img src="gs-web-browser2-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
 <li class="steps"><p class="p">ಜಾಲವೀಕ್ಷಕ ಕಿಟಕಿಯ ಮೇಲ್ಭಾಗದಲ್ಲಿರುವ ವಿಳಾಸ ಪಟ್ಟಿಯ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ ನೀವು ಭೇಟಿ ನೀಡಲು ಬಯಸುವ ಜಾಲತಾಣವನ್ನು ನಮೂದಿಸಲು ಪ್ರಾರಂಭಿಸಿ.</p></li>
 <li class="steps">
 <p class="p">ಒಂದು ಜಾಲತಾಣದಲ್ಲಿ ಟೈಪ್ ಮಾಡಿದಾಗ, ಅದಕ್ಕಾಗಿ ಜಾಲವೀಕ್ಷಣಾ ಇತಿಹಾಸದಲ್ಲಿ ಮತ್ತು ಬುಕ್‌ಮಾರ್ಕುಗಳಲ್ಲಿ ಹುಡುಕಲು ಆರಂಭಿಸಲಾಗುತ್ತದೆ, ಆದ್ದರಿಂದ ನೀವು ನಿಖರವಾದ ವಿಳಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವ ಅಗತ್ಯವಿರುವುದಿಲ್ಲ.</p>
@@ -59,7 +67,8 @@
 </li>
 <li class="steps"><p class="p">ಬೀಳಿಕೆ ಪಟ್ಟಿಯಿಂದ, ಬಾಣದ ಗುರುತಿನ ಕೀಲಿಗಳನ್ನು ಬಳಸಿಕೊಂಡು ನೀವು ಕ್ಷಿಪ್ರವಾಗಿ ಒಂದು ಜಾಲತಾಣವನ್ನು ಆರಿಸಬಹುದು.</p></li>
 <li class="steps"><p class="p">ನೀವು ಒಂದು ಜಾಲತಾಣವನ್ನು ಆರಿಸಿದ ನಂತರ, ಅದಕ್ಕೆ ಭೇಟಿ ನೀಡಲು <span class="key"><kbd>Enter</kbd></span> ಅನ್ನು ಒತ್ತಿ.</p></li>
-</ol></div></div></div></div>
+</ol></div></div></div>
+</div>
 <div class="links nextlinks">
 <a class="nextlinks-prev" href="gs-get-online.html" title="ಆನ್‌ಲೈನ್‌ಗೆ ಹೋಗಿ">ಹಿಂದಿನ</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="ಆನ್‌ಲೈನ್‌ ಖಾತೆಗಳೊಂದಿಗೆ ಸಂಪರ್ಕಿಸಿ">ಮುಂದಿನ</a>
 </div>

@@ -53,7 +53,7 @@
   <span class="gui">Activities</span> corner at the top left of the screen to show the
   <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview. This is where you
   can find all of your applications. You can also open the overview by pressing
-  the <span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span> key.</p>
+  the <span class="key"><a href="keyboard-key-super.html" title="Czym jest klawisz Super?"><kbd>Super</kbd></a></span> key.</p>
 <p class="p">There are several ways of opening an application once you’re in the
   <span class="gui">Activities</span> overview:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
@@ -104,10 +104,10 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="index.html" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li>
 <li class="links ">
-<a href="shell-overview.html" title="Your desktop">Your desktop</a><span class="desc"> — <span class="link"><a href="clock-calendar.html" title="Calendar appointments">Kalendarz</a></span>, <span class="link"><a href="shell-notifications.html" title="Powiadomienia i obszar powiadamiania">powiadomienia</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Przydatne skróty klawiszowe">skróty klawiszowe</a></span>, <span class="link"><a href="shell-windows.html" title="Okna i obszary robocze">okna i obszary robocze</a></span>…</span>
+<a href="shell-overview.html" title="Pulpit użytkownika">Pulpit użytkownika</a><span class="desc"> — <span class="link"><a href="clock-calendar.html" title="Spotkania w kalendarzu">Kalendarz</a></span>, <span class="link"><a href="shell-notifications.html" title="Powiadomienia i obszar powiadamiania">powiadomienia</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Przydatne skróty klawiszowe">skróty klawiszowe</a></span>, <span class="link"><a href="shell-windows.html" title="Okna i obszary robocze">okna i obszary robocze</a></span>…</span>
 </li>
+<li class="links "><a href="index.html" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

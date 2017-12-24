@@ -65,7 +65,7 @@
 </div></div>
 <p class="p">Du kan använda kommandoraden för att testa om viloläget fungerar på din dator.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna <span class="app">Terminalen</span> genom att trycka <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>t</kbd></span></span> eller genom att söka efter <span class="input">terminal</span> i <span class="gui">Snabbstartspanelen</span>.</p></li>
+<li class="steps"><p class="p">Öppna <span class="app">Terminal</span> genom att söka efter <span class="input">terminal</span> i <span class="gui">Aktivitetsöversikten</span>.</p></li>
 <li class="steps">
 <p class="p">Skriv <span class="cmd">sudo systemctl hibernate</span> i terminalen och tryck <span class="key"><kbd>Retur</kbd></span>.</p>
 <p class="p">Mata in ditt lösenord när du blir tillfrågad.</p>

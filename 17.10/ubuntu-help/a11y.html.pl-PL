@@ -131,12 +131,12 @@
 <a href="keyboard-nav.html" title="Keyboard navigation">Keyboard navigation</a><span class="desc"> — Use applications and the desktop without a mouse.</span>
 </li>
 <li class="links ">
-<a href="keyboard-repeat-keys.html" title="Manage repeated key presses">Manage repeated key presses</a><span class="desc"> — Make the keyboard not repeat letters when you hold down a key,
-    or change the delay and speed of repeat keys.</span>
+<a href="keyboard-osk.html" title="Klawiatura ekranowa">Klawiatura ekranowa</a><span class="desc"> — Use an on-screen keyboard to enter text by clicking buttons with the
+    mouse or a touchscreen.</span>
 </li>
 <li class="links ">
-<a href="keyboard-osk.html" title="Use an on-screen keyboard">Use an on-screen keyboard</a><span class="desc"> — Use an on-screen keyboard to enter text by clicking buttons with the
-    mouse or a touchscreen.</span>
+<a href="keyboard-repeat-keys.html" title="Manage repeated key presses">Manage repeated key presses</a><span class="desc"> — Make the keyboard not repeat letters when you hold down a key,
+    or change the delay and speed of repeat keys.</span>
 </li>
 <li class="links ">
 <a href="a11y-bouncekeys.html" title="Włączenie odskakujących klawiszy">Włączenie odskakujących klawiszy</a><span class="desc"> — Ignorowanie szybko powtórzonych naciśnięć tego samego klawisza.</span>
@@ -155,7 +155,7 @@
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">Proszę zobaczyć także</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-key-menu.html" title="What is the Menu key?">What is the <span class="key"><kbd>Menu</kbd></span> key?</a><span class="desc"> — The <span class="key"><kbd>Menu</kbd></span> key launches a context menu with the keyboard
+<a href="keyboard-key-menu.html" title="Czym jest klawisz Menu?">Czym jest klawisz <span class="key"><kbd>Menu</kbd></span>?</a><span class="desc"> — The <span class="key"><kbd>Menu</kbd></span> key launches a context menu with the keyboard
     rather than with a right-click.</span>
 </li></ul></div>
 </div></div></div>

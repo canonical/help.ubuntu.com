@@ -73,8 +73,8 @@ switch on the computer again.</p>
 </div></div>
 <p class="p">You can use the command line to test if hibernate works on your computer.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="app">Terminal</span> by pressing <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>t</kbd></span></span> or by searching for <span class="input">terminal</span>
-        in the <span class="gui">Dash</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="app">Terminal</span> by searching for <span class="input">terminal</span>
+     in the <span class="gui">Activities overview</span>.</p></li>
 <li class="steps">
 <p class="p">Type <span class="cmd">sudo systemctl hibernate</span> into the terminal and press <span class="key"><kbd>Enter</kbd></span>.</p>
 <p class="p">Enter your password when prompted.</p>

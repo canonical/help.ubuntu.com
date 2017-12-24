@@ -2,7 +2,7 @@
 <html lang=cs>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Změna prohlížeče, ve kterém se jako výchozím otevírají stránky WWW</title>
+<title>Změna prohlížeče, ve kterém se jako výchozím otevírají webové stránky</title>
 <link rel="stylesheet" type="text/css" href="cs.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,10 +43,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-browser.html" title="Prohlížeče WWW">Prohlížeče WWW</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-browser.html" title="Webové prohlížeče">Webové prohlížeče</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Změna prohlížeče, ve kterém se jako výchozím otevírají stránky WWW</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Změna prohlížeče, ve kterém se jako výchozím otevírají webové stránky</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Když kliknete v nějaké aplikaci na odkaz vedoucí na www, webový prohlížeč automaticky otevře danou webovou stránku. Pokud ale máte nainstalováno více prohlížečů, může se otevřít v jiném, než chcete. Napravit to můžete změnou výchozího webového prohlížeče:</p>
@@ -63,7 +63,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html" title="Prohlížeče WWW">Prohlížeče WWW</a><span class="desc"> — <span class="link"><a href="net-default-browser.html" title="Změna prohlížeče, ve kterém se jako výchozím otevírají stránky WWW">Změna výchozího prohlížeče</a></span>, <span class="link"><a href="net-install-flash.html" title="Instalace zásuvného modulu Flash">instalace zásuvného modulu Flash</a></span>…</span>
+<a href="net-browser.html" title="Webové prohlížeče">Webové prohlížeče</a><span class="desc"> — <span class="link"><a href="net-default-browser.html" title="Změna prohlížeče, ve kterém se jako výchozím otevírají webové stránky">Změna výchozího prohlížeče</a></span>, <span class="link"><a href="net-install-flash.html" title="Instalace zásuvného modulu Flash">instalace zásuvného modulu Flash</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

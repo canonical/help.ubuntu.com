@@ -78,10 +78,7 @@
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Nyílbillentyűk</kbd></span></span></p></td>
 <td style="border-top-style: solid;"><p class="p">Listában vagy ikonnézetben az összes elem kiválasztása a jelenleg kijelölt elemtől az újonnan fókuszba került elemig.</p></td>
-<td style="border-top-style: solid;"><p class="p">In a tree view, items that have children can be expanded or collapsed,
-    to show or hide their children: expand by pressing
-    <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>→</kbd></span></span>, and collapse by
-    pressing <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>←</kbd></span></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p">Fanézetben a gyermekekkel rendelkező elemek kibonthatók vagy összecsukhatók a gyermekek megjelenítéséhez vagy elrejtéséhez: a kibontáshoz nyomja meg a <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>→</kbd></span></span>, az összecsukáshoz a <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>←</kbd></span></span> billentyűkombinációt.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Szóköz</kbd></span></p></td>

@@ -56,7 +56,7 @@
 <dt class="terms">Hardware Bluetooth nebyl rozpoznán</dt>
 <dd class="terms"><p class="p">Váš adaptér nebo klíč Bluetooth nemusí být počítačem rozpoznán. Může to být tím, že není nainstalován <span class="link"><a href="hardware-driver.html" title="Co je to ovladač?">ovladač</a></span> pro daný adaptér. Některé adaptéry Bluetooth nejsou v Linuxu podporovány, takže pro ně správný ovladač neseženete. V takovém případě si nejspíše budete muset pořídit jiný adaptér Bluetooth.</p></dd>
 <dt class="terms">Adaptér není zapnutý</dt>
-<dd class="terms"><p class="p">Ujistěte se, že je adaptér Bluetooth zapnutý. Klikněte na ikonu Bluetooth na <span class="gui">horní liště</span> a zkontrolujte, že není <span class="link"><a href="bluetooth-turn-on-off.html" title="Zapnutí nebo vypnutí Bluetooth">vypnutý</a></span>.</p></dd>
+<dd class="terms"><p class="p">Ujistěte se, že je adaptér Bluetooth zapnutý. Otevřete panel Bluetooth a zkontrolujte, že není <span class="link"><a href="bluetooth-turn-on-off.html" title="Zapnutí nebo vypnutí Bluetooth">vypnutý</a></span>.</p></dd>
 <dt class="terms">Zařízení Bluetooth je nepřipojeno</dt>
 <dd class="terms"><p class="p">Zkontrolujte, jestli je Bluetooth na zařízení, se kterým se zkoušíte spojit, zapnuté a že je zařízení <span class="link"><a href="bluetooth-visibility.html" title="Co je to viditelnost Bluetooth?">vyhledatelné a viditelné</a></span>. Například, když se zkoušíte spojit s telefonem, ujistěte se, že není v režimu „letadlo“.</p></dd>
 <dt class="terms">Ve vašem počítači není adaptér Bluetooth</dt>

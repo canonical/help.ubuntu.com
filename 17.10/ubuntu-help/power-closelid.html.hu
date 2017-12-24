@@ -67,7 +67,8 @@
 <li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Finomhangoló</span> szót.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Finomhangoló</span> ikonra az alkalmazás megnyitásához.</p></li>
 <li class="steps"><p class="p">Kattintson az <span class="gui">Energiagazdálkodás</span> lapra.</p></li>
-<li class="steps"><p class="p">Kapcsolja <span class="gui">BE</span> a <span class="gui">Ne függessze fel a fedél lezárásakor</span> lehetőséget.</p></li>
+<li class="steps"><p class="p">Switch <span class="gui">Suspend when laptop lid is closed</span> to
+      <span class="gui">OFF</span>.</p></li>
 <li class="steps"><p class="p">Zárja be a <span class="gui">Finomhangoló</span> ablakot.</p></li>
 </ol></div></div></div>
 </div></div>

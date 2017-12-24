@@ -49,10 +49,20 @@
 <div class="hgroup"><h1 class="title"><span class="title">Aktivera eller inaktivera Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Du kan aktivera Bluetooth för att ansluta till andra Bluetooth-enheter eller stäng av det för att spara ström. För att aktivera Bluetooth, klicka på Bluetooth-ikonen i menyraden och slå om <span class="gui">Bluetooth</span> till <span class="gui">PÅ</span>.</p>
-<p class="p">Många bärbara datorer har en hårdvaruknapp eller tangentkombination för att aktivera och inaktivera Bluetooth. Om Bluetooth-hårdvaran är avstängd kommer du inte att se någon Bluetooth-ikon på menyraden. Leta efter en knapp på din dator eller en tangent på tangentbordet. En tangent på tangentbordet kombineras oftast med tangenten <span class="key"><kbd class="key-Fn">Fn</kbd></span>.</p>
-<p class="p">För att stänga av Bluetooth, klicka på Bluetooth-ikonen och slå om <span class="gui">Bluetooth</span> till <span class="gui">AV</span>.</p>
-<div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">Din dator är <span class="link"><a href="bluetooth-visibility.html" title="Vad är Bluetooth-synlighet?">synlig</a></span> om <span class="gui">Synlig</span> är inställd till <span class="gui">PÅ</span> i Bluetooth-menyn.</p></div></div></div></div>
+<p class="p">Du kan aktivera Bluetooth för att ansluta till andra Bluetooth-enheter eller stäng av det för att spara ström. För att aktivera Bluetooth:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Klicka på <span class="gui">Bluetooth</span> för att öppna panelen.</p></li>
+<li class="steps"><p class="p">Sätt inställningen längst upp till <span class="gui">PÅ</span>.</p></li>
+</ol></div></div></div>
+<p class="p">Många bärbara datorer har en hårdvaruknapp eller tangentkombination för att aktivera och inaktivera Bluetooth. Leta efter en knapp på din dator eller en tangent på tangentbordet. En tangent på tangentbordet kombineras oftast med tangenten <span class="key"><kbd class="key-Fn">Fn</kbd></span>.</p>
+<p class="p">För att inaktivera Bluetooth:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Öppna <span class="gui"><a href="shell-introduction.html#yourname" title="Du och din dator">systemmenyn</a></span> på högersidan av systemraden.</p></li>
+<li class="steps"><p class="p">Välj <span class="gui"><span class="media"><span class="media media-image"><img src="figures/bluetooth-active-symbolic.svg" class="media media-inline" alt=""></span></span> Används inte</span>. Bluetooth-delen av menyn kommer att expandera.</p></li>
+<li class="steps"><p class="p">Välj <span class="gui">Stäng av</span>.</p></li>
+</ol></div></div></div>
+<div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">Din dator är <span class="link"><a href="bluetooth-visibility.html" title="Vad är Bluetooth-synlighet?">synlig</a></span> så länge som panelen <span class="gui">Bluetooth</span> är öppen.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

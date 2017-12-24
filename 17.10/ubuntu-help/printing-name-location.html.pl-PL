@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="printing.html" title="Drukowanie">Drukowanie</a> › <a class="trail" href="printing.html#setup" title="Set up a printer">Setup</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="printing.html" title="Drukowanie">Drukowanie</a> › <a class="trail" href="printing.html#setup" title="Ustawianie drukarki">Ustawianie</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Zmiana nazwy lub położenia drukarki</span></h1></div>
@@ -59,29 +59,27 @@
 <div class="region"><div class="contents">
 <p class="p">If you want to change the name of a printer, take the following steps:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Printers</span>.</p></li>
-<li class="steps"><p class="p">Kliknij ikonę <span class="gui">Drukarki</span>, aby otworzyć panel.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Drukarki</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Drukarki</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Unlock</span> button in the top-right corner and enter
       your password.</p></li>
 <li class="steps"><p class="p">Click the name of your printer, and start typing a new name for
       the printer.</p></li>
-<li class="steps"><p class="p">Press <span class="key"><kbd>Enter</kbd></span> to save your changes.</p></li>
+<li class="steps"><p class="p">Naciśnij klawisz <span class="key"><kbd>Enter</kbd></span>, aby zapisać zmiany.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
 <div id="printer-location-change" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Zmiana położenia drukarki</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">To change the location of your printer:</p>
+<p class="p">Aby zmienić położenie drukarki:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Printers</span>.</p></li>
-<li class="steps"><p class="p">Kliknij ikonę <span class="gui">Drukarki</span>, aby otworzyć panel.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Drukarki</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Drukarki</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Unlock</span> button in the top-right corner and enter
       your password.</p></li>
 <li class="steps"><p class="p">Click the location, and start editing the location.</p></li>
-<li class="steps"><p class="p">Press <span class="key"><kbd>Enter</kbd></span> to save the changes.</p></li>
+<li class="steps"><p class="p">Naciśnij klawisz <span class="key"><kbd>Enter</kbd></span>, aby zapisać zmiany.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -90,7 +88,7 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
-<div class="region"><ul><li class="links "><a href="printing.html#setup" title="Set up a printer">Set up a printer</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="printing.html#setup" title="Ustawianie drukarki">Ustawianie drukarki</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>

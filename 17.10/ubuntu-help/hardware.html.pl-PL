@@ -52,12 +52,12 @@
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
 <div class="links-grid-link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="bluetooth-connect-device.html" title="Connect your computer to a Bluetooth device">Łączenie</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Send files to a Bluetooth device">wysyłanie plików</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Turn Bluetooth on or off">włączanie i wyłączanie</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="bluetooth-connect-device.html" title="Łączenie komputera z urządzeniem Bluetooth">Łączenie</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Wysyłanie plików do urządzenia Bluetooth">wysyłanie plików</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Włączanie i wyłączanie Bluetooth">włączanie i wyłączanie</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="printing.html" title="Drukowanie">Drukowanie</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="printing-setup.html" title="Set up a local printer">Local setup</a></span>,
+      <span class="link"><a href="printing-setup.html" title="Ustawianie lokalnej drukarki">Local setup</a></span>,
       
       <span class="link"><a href="printing-order.html" title="Make pages print in a different order">order and collate</a></span>,
       <span class="link"><a href="printing-2sided.html" title="Print two-sided and multi-page layouts">two-sided and multi-page</a></span>…
@@ -75,7 +75,7 @@
 <div class="links-grid ">
 <div class="links-grid-link"><a href="hardware-auth.html" title="Fingerprints &amp; smart cards">Fingerprints &amp; smart cards</a></div>
 <div class="desc"><span class="desc">
-    <span class="link"><a href="session-fingerprint.html" title="Log in with a fingerprint">Fingerprint readers</a></span>,
+    <span class="link"><a href="session-fingerprint.html" title="Logowanie za pomocą odcisku palca">Fingerprint readers</a></span>,
 
     smart cards…
   </span></div>
@@ -98,11 +98,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="color.html" title="Zarządzanie kolorami">Zarządzanie kolorami</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="color-whyimportant.html" title="Why is color management important?">Why is this important</a></span>,
-      <span class="link"><a href="color.html#profiles" title="Profile kolorów">Color profiles</a></span>,
-      <span class="link"><a href="color.html#calibration" title="Kalibracja">How to calibrate a device</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html" title="Why is color management important?">Dlaczego to jest ważne</a></span>, <span class="link"><a href="color.html#profiles" title="Profile kolorów">Profile kolorów</a></span>, <span class="link"><a href="color.html#calibration" title="Kalibracja">Jak skalibrować urządzenie</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="power.html" title="Zasilanie i akumulator">Zasilanie i akumulator</a></div>
@@ -114,9 +110,9 @@
 </div>
 </div></div></div>
 <div class="links topiclinks"><div class="inner">
-<div class="title title-links"><h2><span class="title">More topics</span></h2></div>
+<div class="title title-links"><h2><span class="title">Więcej tematów</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-driver.html" title="What is a driver?">What is a driver?</a><span class="desc"> — A hardware/device driver allows your computer to use devices that are
+<a href="hardware-driver.html" title="Czym jest sterownik?">Czym jest sterownik?</a><span class="desc"> — A hardware/device driver allows your computer to use devices that are
     attached to it.</span>
 </li></ul></div>
 </div></div>
@@ -136,15 +132,13 @@
     quality.</span>
 </li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Problemy z ekranem">Problemy z ekranem</a><span class="desc"> — 
-      Troubleshoot screen and graphics problems.
-    </span>
+<a href="hardware-problems-graphics.html" title="Problemy z ekranem">Problemy z ekranem</a><span class="desc"> — Rozwiązywanie problemów z ekranem i grafiką.</span>
 </li>
 <li class="links ">
-<a href="power.html#problems" title="Problemy">Problemy z zasilaniem</a><span class="desc"> — Troubleshoot problems with power and batteries.</span>
+<a href="power.html#problems" title="Problemy">Problemy z zasilaniem</a><span class="desc"> — Rozwiązywanie problemów z zasilaniem i akumulatorem.</span>
 </li>
 <li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Wireless network troubleshooter">Wireless network troubleshooter</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html" title="Rozwiązywanie problemów z siecią bezprzewodową">Rozwiązywanie problemów z siecią bezprzewodową</a><span class="desc"> — Identyfikowanie i naprawianie problemów z połączeniami bezprzewodowymi.</span>
 </li>
 </ul></div></div></div></div></div>
 </div></div>

@@ -53,7 +53,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Posílání souborů do zařízení Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Do připojeného zařízení Bluetooth, jako je mobilní telefon nebo jiný počítač, můžete poslat soubory. Některá zařízení ale přenos souborů neumožňují, nebo aspoň ne přenos všech typů souborů. Soubory lze poslat třemi různými způsoby: pomocí ikony Bluetooth na horní liště, z okna nastavení Bluetooth nebo přímo ze správce souborů.</p>
+<p class="p">Do připojeného zařízení Bluetooth, jako je mobilní telefon nebo jiný počítač, můžete poslat soubory. Některé zařízení ale soubor přenosů neumožňují, nebo ne přenos všech typů souborů. Soubory lze poslat z okna nastavení Bluetooth.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Bluetooth</span> otevřete příslušný panel.</p></li>

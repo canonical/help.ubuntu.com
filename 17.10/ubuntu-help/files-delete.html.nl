@@ -71,7 +71,7 @@
 <div class="title title-steps"><h3><span class="title">Een bestand permanent verwijderen:</span></h3></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Selecteer het item dat u wilt verwijderen.</p></li>
-<li class="steps"><p class="p">Houd de <span class="gui">Shift</span>-toets ingedrukt en druk vervolgens op de <span class="key"><kbd>Delete</kbd></span>-toets op u toetsenbord.</p></li>
+<li class="steps"><p class="p">Houd de <span class="key"><kbd>Shift</kbd></span>-toets ingedrukt en druk vervolgens op de <span class="key"><kbd>Delete</kbd></span>-toets op u toetsenbord.</p></li>
 <li class="steps"><p class="p">Omdat u dit niet ongedaan kunt maken, wordt u gevraagd te bevestigen om een bestand of de map te verwijderen.</p></li>
 </ol></div>
 </div></div>

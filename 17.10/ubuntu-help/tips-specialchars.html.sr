@@ -53,7 +53,6 @@
 <div role="navigation" class="links sectionlinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Начини уношења знакова</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="tips-specialchars.html#charmap" title="Таблица знакова">Таблица знакова</a></li>
 <li class="links "><a href="tips-specialchars.html#characters" title="Знакови">Знакови</a></li>
 <li class="links "><a href="tips-specialchars.html#compose" title="Саставни тастер">Саставни тастер</a></li>
 <li class="links "><a href="tips-specialchars.html#ctrlshiftu" title="Кодни приказ">Кодни приказ</a></li>
@@ -62,13 +61,6 @@
 </ul></div>
 </div></div>
 </div>
-<div id="charmap" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Таблица знакова</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p">Гном садржи програм таблице знакова који вам омогућава да разгледате све знакове Уникода. Користите таблицу знакова да пронађете знак који желите, и затим га умножите и убаците где вам је потребно.</p>
-<p class="p">Можете наћи <span class="app">Таблицу знакова</span> у прегледу <span class="gui">Активности</span>. За више података о таблици знакова, погледајте <span class="link"><a href="https://help.gnome.org/users/gucharmap/stable/" title="https://help.gnome.org/users/gucharmap/stable/">Упутство таблице знакова</a></span>.</p>
-</div></div>
-</div></div>
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Знакови</span></h2></div>
 <div class="region"><div class="contents">
@@ -91,6 +83,7 @@
 <li class="steps"><p class="p">Кликните на <span class="gui">Искључено</span> поред подешавања <span class="gui">Саставног тастера</span>.</p></li>
 <li class="steps"><p class="p">Укључите прекидач у прозорчету и изаберите пречицу на тастатури коју желите да користите.</p></li>
 <li class="steps"><p class="p">Означите кућицу тастера који желите да подесите као саставни тастер.</p></li>
+<li class="steps"><p class="p">Close the dialog.</p></li>
 <li class="steps"><p class="p">Затворите прозор <span class="gui">Алата за лицкање</span>.</p></li>
 </ol></div>
 </div></div>

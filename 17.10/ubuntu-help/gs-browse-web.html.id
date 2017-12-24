@@ -51,7 +51,15 @@
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Jelajah web</span></h1></div>
 <div class="region">
-<div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
+<div class="contents">
+<div class="media media-image"><div class="inner"><img src="gs-web-browser1-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Pindahkan penunjuk tetikus Anda ke pojok <span class="gui">Aktivitas</span> di kiri atas layar untuk menampilkan <span class="gui">Ringkasan Aktivitas</span>.</p></li>
+<li class="steps"><p class="p">Pilih ikon peramban <span class="app">Firefox</span> dari bilah di kiri layar.</p></li>
+</ol></div></div></div>
+<div class="note" title="Catatan"><div class="inner"><div class="region"><div class="contents"><p class="p">Sebagai alternatif, Anda dapat meluncurkan peramban dengan <span class="link"><a href="gs-use-system-search.html" title="Memakai pencarian sistem">sekedar mengetik</a></span> <span class="em">Firefox</span> dalam <span class="gui">Ringkasan Aktivitas</span>.</p></div></div></div></div>
+<div class="media media-image"><div class="inner"><img src="gs-web-browser2-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
 <li class="steps"><p class="p">Klik pada bilah alamat di bagian atas jendela peramban dan mulailah mengetikkan situs web yang ingin Anda kunjungi.</p></li>
 <li class="steps">
 <p class="p">Mengetikkan suatu situs web memulai pencariannya dalam riwayat peramban dan penanda taut, sehingga Anda tidak perlu mengingat alamat persisnya.</p>
@@ -59,7 +67,8 @@
 </li>
 <li class="steps"><p class="p">Dari daftar drop down, Anda dapat memilih suatu situs web secara cepat memakai tombol panah.</p></li>
 <li class="steps"><p class="p">Setelah Anda memilih suatu situs web, tekan <span class="key"><kbd>Enter</kbd></span> untuk mengunjunginya.</p></li>
-</ol></div></div></div></div>
+</ol></div></div></div>
+</div>
 <div class="links nextlinks">
 <a class="nextlinks-prev" href="gs-get-online.html" title="Menuju daring">Sebelumnya</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="Menyambung ke akun daring">Selanjutnya</a>
 </div>

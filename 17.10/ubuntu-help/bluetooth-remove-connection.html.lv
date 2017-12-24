@@ -51,8 +51,8 @@
 <div class="contents">
 <p class="p">Ja vairāk nevēlaties uzturēt savienojumu ar Bluetooth ierīci, jūs variet to izņemt. Tas noder, ja vairāk nevēlaties izmantot tādu ierīci kā pele vai austiņas, vai arī vairs neplānojat sūtīt vai saņemt datnes no dotās ierīces.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Spiediet Bluetooth ikonu <span class="gui">izvēlnes joslā</span> un izvēlieties <span class="gui">Bluetooth iestatījumi</span>.</p></li>
-<li class="steps"><p class="p">Spiediet <span class="gui">Bluetooth iestatījumi</span>, lai atvērtu paneli.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="gui">Bluetooth</span>, lai atvērtu paneli.</p></li>
 <li class="steps"><p class="p">No saraksta izvēlieties ierīci, kuru jūs vēlaties atvienot.</p></li>
 <li class="steps"><p class="p">Ierīces dialoglodziņā pārslēdziet <span class="gui">Savienojumu</span> uz <span class="gui">◯</span> vai, lai izņemtu ierīci no <span class="gui">Ierīču</span> saraksta, spiediet <span class="gui">Izņemt ierīci</span>.</p></li>
 </ol></div></div></div>

@@ -58,9 +58,8 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">How to cancel a print job:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Printers</span>.</p></li>
-<li class="steps"><p class="p">Kliknij ikonę <span class="gui">Drukarki</span>, aby otworzyć panel.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Drukarki</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Drukarki</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Show Jobs</span> button on the right-hand side of the
       <span class="gui">Printers</span> dialog.</p></li>
 <li class="steps"><p class="p">Cancel the print job by clicking the stop button.</p></li>
@@ -84,9 +83,8 @@
 <p class="p">If you want to pause or release a print job, you can do so by going to the
   jobs dialog in the printer settings and click the appropriate button.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Printers</span>.</p></li>
-<li class="steps"><p class="p">Kliknij ikonę <span class="gui">Drukarki</span>, aby otworzyć panel.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Drukarki</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Drukarki</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Show Jobs</span> button on the right-hand side of the
       <span class="gui">Printers</span> dialog and either pause or release the print job
       based on your needs.</p></li>

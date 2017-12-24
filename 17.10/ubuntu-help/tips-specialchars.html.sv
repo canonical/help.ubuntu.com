@@ -53,7 +53,6 @@
 <div role="navigation" class="links sectionlinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Metoder att mata in tecken</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="tips-specialchars.html#charmap" title="Teckentabell">Teckentabell</a></li>
 <li class="links "><a href="tips-specialchars.html#characters" title="Tecken">Tecken</a></li>
 <li class="links "><a href="tips-specialchars.html#compose" title="Compose-tangent">Compose-tangent</a></li>
 <li class="links "><a href="tips-specialchars.html#ctrlshiftu" title="Kodpunkter">Kodpunkter</a></li>
@@ -62,13 +61,6 @@
 </ul></div>
 </div></div>
 </div>
-<div id="charmap" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Teckentabell</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p">GNOME erbjuder ett teckentabellsprogram som låter dig bläddra genom alla tecken i Unicode. Använd teckentabellen för att hitta tecknet du önskar och kopiera och klistra sedan in det där du behöver det.</p>
-<p class="p">Du kan hitta <span class="app">Teckentabell</span> i översiktsvyn <span class="gui">Aktiviteter</span>. För mer information om teckentabellen, se <span class="link"><a href="https://help.gnome.org/users/gucharmap/stable/" title="https://help.gnome.org/users/gucharmap/stable/">manualen för Teckentabell</a></span>.</p>
-</div></div>
-</div></div>
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Tecken</span></h2></div>
 <div class="region"><div class="contents">
@@ -91,6 +83,7 @@
 <li class="steps"><p class="p">Tryck på <span class="gui">Inaktiverad</span> intill inställningen <span class="gui">Compose-tangent</span>.</p></li>
 <li class="steps"><p class="p">Slå på växeln i dialogen och välj tangentbordsgenvägen du vill använda.</p></li>
 <li class="steps"><p class="p">Kryssa i kryssrutan för den knapp du vill använda som Compose-tangent.</p></li>
+<li class="steps"><p class="p">Stäng dialogrutan.</p></li>
 <li class="steps"><p class="p">Stäng fönstret <span class="gui">Justering</span>.</p></li>
 </ol></div>
 </div></div>

@@ -53,18 +53,18 @@
 <div class="hgroup"><h1 class="title"><span class="title">Zarządzanie kolorami</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="color-assignprofiles.html" title="How do I assign profiles to devices?"><span class="title">How do I assign profiles to devices?</span><span class="linkdiv-dash"> — </span><span class="desc">Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-assignprofiles.html" title="Jak przydzielać profile urządzeniom?"><span class="title">Jak przydzielać profile urządzeniom?</span><span class="linkdiv-dash"> — </span><span class="desc">Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-whyimportant.html" title="Why is color management important?"><span class="title">Why is color management important?</span><span class="linkdiv-dash"> — </span><span class="desc">Color management is important for designers, photographers and artists.</span></a></div>
 </div></div></div></div>
 <div id="profiles" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Profile kolorów</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-howtoimport.html" title="How do I import color profiles?"><span class="title">How do I import color profiles?</span><span class="linkdiv-dash"> — </span><span class="desc">Color profiles can be imported by opening them.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-whatisprofile.html" title="What is a color profile?"><span class="title">What is a color profile?</span><span class="linkdiv-dash"> — </span><span class="desc">A color profile is a simple file that expresses a color space or device response.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-whatisprofile.html" title="Czym jest profil kolorów?"><span class="title">Czym jest profil kolorów?</span><span class="linkdiv-dash"> — </span><span class="desc">A color profile is a simple file that expresses a color space or device response.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-whatisspace.html" title="Czym jest przestrzeń kolorów?"><span class="title">Czym jest przestrzeń kolorów?</span><span class="linkdiv-dash"> — </span><span class="desc">A color space is a defined range of colors.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-whatisspace.html" title="What is a color space?"><span class="title">What is a color space?</span><span class="linkdiv-dash"> — </span><span class="desc">A color space is a defined range of colors.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-howtoimport.html" title="How do I import color profiles?"><span class="title">How do I import color profiles?</span><span class="linkdiv-dash"> — </span><span class="desc">Color profiles can be imported by opening them.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-gettingprofiles.html" title="Where do I get color profiles?"><span class="title">Where do I get color profiles?</span><span class="linkdiv-dash"> — </span><span class="desc">Color profiles are provided by vendors and can be generated yourself.</span></a></div>
 </div>
 </div></div></div></div></div>
@@ -74,11 +74,11 @@
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="color-canshareprofiles.html" title="Can I share my color profile?"><span class="title">Can I share my color profile?</span><span class="linkdiv-dash"> — </span><span class="desc">Sharing color profiles is never a good idea as hardware changes over time.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrate-camera.html" title="How do I calibrate my camera?"><span class="title">How do I calibrate my camera?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrating your camera is important to capture accurate colors.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrate-printer.html" title="How do I calibrate my printer?"><span class="title">How do I calibrate my printer?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrating your printer is important to print accurate colors.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrate-scanner.html" title="How do I calibrate my scanner?"><span class="title">How do I calibrate my scanner?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrating your scanner is important to capture accurate colors.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrate-screen.html" title="How do I calibrate my screen?"><span class="title">How do I calibrate my screen?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrating your screen is important to display accurate
+<div class="linkdiv "><a class="linkdiv" href="color-calibrate-camera.html" title="Jak skalibrować aparat?"><span class="title">Jak skalibrować aparat?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrating your camera is important to capture accurate colors.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrate-printer.html" title="Jak skalibrować drukarkę?"><span class="title">Jak skalibrować drukarkę?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrating your printer is important to print accurate colors.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrate-screen.html" title="Jak skalibrować ekran?"><span class="title">Jak skalibrować ekran?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrating your screen is important to display accurate
     colors.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrate-scanner.html" title="Jak skalibrować skaner?"><span class="title">Jak skalibrować skaner?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrating your scanner is important to capture accurate colors.</span></a></div>
 </div>
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="color-calibrationdevices.html" title="What color measuring instruments are supported?"><span class="title">What color measuring instruments are supported?</span><span class="linkdiv-dash"> — </span><span class="desc">We support a large number of calibration devices.</span></a></div>

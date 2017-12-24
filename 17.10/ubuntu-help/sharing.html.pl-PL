@@ -52,26 +52,20 @@
 <div class="linkdiv "><a class="linkdiv" href="nautilus-connect.html" title="Browse files on a server or network share"><span class="title">Browse files on a server or network share</span><span class="linkdiv-dash"> — </span><span class="desc">View and edit files on another computer over FTP, SSH, Windows
     shares, or WebDAV.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html" title="Control sharing over Bluetooth"><span class="title">Control sharing over Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Allow files to be uploaded to your computer over Bluetooth.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-send-file.html" title="Send files to a Bluetooth device"><span class="title">Send files to a Bluetooth device</span><span class="linkdiv-dash"> — </span><span class="desc">Share files to Bluetooth devices such as your phone.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-share.html" title="Share files by email"><span class="title">Share files by email</span><span class="linkdiv-dash"> — </span><span class="desc">Easily transfer files to your email contacts from the file
-    manager.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="sharing-personal.html" title="Share your personal files"><span class="title">Share your personal files</span><span class="linkdiv-dash"> — </span><span class="desc">Let other people access files in your <span class="file">Public</span>
     folder.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="sharing-media.html" title="Udostępnianie muzyki, zdjęć i filmów"><span class="title">Udostępnianie muzyki, zdjęć i filmów</span><span class="linkdiv-dash"> — </span><span class="desc">Udostępnianie multimediów w lokalnej sieci za pomocą UPnP.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="sharing-desktop.html" title="Udostępnianie pulpitu"><span class="title">Udostępnianie pulpitu</span><span class="linkdiv-dash"> — </span><span class="desc">Let other people view and interact with your desktop using VNC.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-send-file.html" title="Wysyłanie plików do urządzenia Bluetooth"><span class="title">Wysyłanie plików do urządzenia Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Wysyłanie plików do urządzeń Bluetooth, na przykład telefonu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-share.html" title="Wysyłanie plików pocztą"><span class="title">Wysyłanie plików pocztą</span><span class="linkdiv-dash"> — </span><span class="desc">Easily transfer files to your email contacts from the file
+    manager.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless.html" title="Sieć bezprzewodowa">Wireless</a></span>,
-      <span class="link"><a href="net-wired.html" title="Sieć przewodowa">wired</a></span>,
-      <span class="link"><a href="net-problem.html" title="Problemy z siecią">connection problems</a></span>,
-      <span class="link"><a href="net-browser.html" title="Przeglądarki WWW">web browsing</a></span>,
-      <span class="link"><a href="net-email.html" title="Email &amp; email software">email accounts</a></span>…
-    </span>
+<a href="net.html" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Sieć bezprzewodowa">Sieci bezprzewodowe</a></span>, <span class="link"><a href="net-wired.html" title="Sieć przewodowa">przewodowe</a></span>, <span class="link"><a href="net-problem.html" title="Problemy z siecią">problemy z połączeniem</a></span>, <span class="link"><a href="net-browser.html" title="Przeglądarki WWW">przeglądanie Internetu</a></span>, <span class="link"><a href="net-email.html" title="Poczta e-mail i klienty poczty">konta e-mail</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

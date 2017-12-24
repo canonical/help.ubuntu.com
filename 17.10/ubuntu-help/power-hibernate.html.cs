@@ -65,7 +65,7 @@
 </div></div>
 <p class="p">Můžete použít příkazovou řádku pro otestování funkčnosti hibernace.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete <span class="app">Terminál</span> stiskem kláves <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>t</kbd></span></span> nebo vyhledáním slova <span class="input">terminál</span> v nabídce <span class="gui">Dash</span>.</p></li>
+<li class="steps"><p class="p">Otevřte <span class="app">Terminál</span> vyhledáním výrazu <span class="input">terminál</span> v <span class="gui">Přehledu aktivit</span>.</p></li>
 <li class="steps">
 <p class="p">Type <span class="cmd">sudo systemctl hibernate</span> into the terminal and press <span class="key"><kbd>Enter</kbd></span>.</p>
 <p class="p">Po zobrazení žádosti zadejte své heslo.</p>

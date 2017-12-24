@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>What is the Super key?</title>
+<title>Czym jest klawisz Super?</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -50,7 +50,7 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">What is the <span class="key"><kbd>Super</kbd></span> key?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Czym jest klawisz <span class="key"><kbd>Super</kbd></span>?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">When you press the <span class="key"><kbd>Super</kbd></span> key, the <span class="gui">Activities</span>
@@ -63,9 +63,8 @@
 <p class="p">To change which key is used to display the <span class="gui">Activities</span>
   overview:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview, then
-      open the <span class="app">Settings</span>.</p></li>
-<li class="steps"><p class="p">Kliknij ikonę <span class="gui">Klawiatura</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Podgląd</a></span>, a następnie otwórz <span class="app">Ustawienia</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Klawiatura</span>.</p></li>
 <li class="steps"><p class="p">Kliknij kartę <span class="gui">Skróty</span>.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">System</span> on the left side of the window, and
       <span class="gui">Show the activities overview</span> on the right.</p></li>

@@ -67,7 +67,8 @@
 <li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Piedare</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Piedare</span>, lai atvērtu lietotni.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Barošanas</span> cilni.</p></li>
-<li class="steps"><p class="p">Pārslēdziet <span class="gui">Neiesnaudināt, kad tiek aizvērts vāks</span> uz <span class="gui">|</span>.</p></li>
+<li class="steps"><p class="p">Switch <span class="gui">Suspend when laptop lid is closed</span> to
+      <span class="gui">OFF</span>.</p></li>
 <li class="steps"><p class="p">Aizveriet <span class="gui">Piedares</span> logu.</p></li>
 </ol></div></div></div>
 </div></div>

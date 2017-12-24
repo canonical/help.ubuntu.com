@@ -56,9 +56,7 @@
 <dt class="terms">Perangkat keras Bluetooth tak dikenal</dt>
 <dd class="terms"><p class="p">Adaptor atau dongle Bluetooth Anda mungkin belum dikenali oleh komputer. Ini bisa jadi karena <span class="link"><a href="hardware-driver.html" title="Apa itu penggerak?">driver</a></span> untuk adaptor tidak diinstal. Beberapa adaptor Bluetooth tidak didukung pada Linux, sehingga Anda mungkin tidak bisa mendapatkan driver yang tepat untuk mereka. Dalam hal ini, Anda mungkin harus memakai adaptor Bluetooth yang lain.</p></dd>
 <dt class="terms">Adaptor Bluetooth tidak dinyalakan</dt>
-<dd class="terms"><p class="p">Make sure that your Bluetooth adapter is switched on. Click the
-          Bluetooth icon in the <span class="gui">menu bar</span> and check that it’s not
-          <span class="link"><a href="bluetooth-turn-on-off.html" title="Nyalakan atau matikan Bluetooth">disabled</a></span>.</p></dd>
+<dd class="terms"><p class="p">Pastikan bahwa adaptor Bluetooth Anda dinyalakan. Buka panel Bluetooth dan periksa bahwa itu tidak <span class="link"><a href="bluetooth-turn-on-off.html" title="Nyalakan atau matikan Bluetooth">dinonaktifkan</a></span>.</p></dd>
 <dt class="terms">Koneksi perangkat Bluetooth dimatikan</dt>
 <dd class="terms"><p class="p">Periksalah bahwa Bluetooth dinyalakan pada perangkat yang Anda coba hubungi, dan itu <span class="link"><a href="bluetooth-visibility.html" title="Apa itu kenampakan Bluetooth?">dapat ditemukan atau tampak</a></span>. Sebagai contoh, bila Anda mencoba menyambung ke suatu telepon, pastikan bahwa itu tidak dalam mode pesawat terbang.</p></dd>
 <dt class="terms">Tak ada adaptor Bluetooth dalam komputer Anda</dt>

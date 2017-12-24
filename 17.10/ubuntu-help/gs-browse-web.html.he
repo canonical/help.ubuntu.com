@@ -51,7 +51,15 @@
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">גלישה ברשת</span></h1></div>
 <div class="region">
-<div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
+<div class="contents">
+<div class="media media-image"><div class="inner"><img src="gs-web-browser1-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">הזיזו את הסמן אל <span class="gui">פעילויות</span> בפינה הימנית העליונה של המסך להצגת <span class="gui">סקירת הפעילויות</span>.</p></li>
+<li class="steps"><p class="p">בחרו בסמליל הדפדפן <span class="app">Firefox</span> מהסרגל בצדו הימני של המסך.</p></li>
+</ol></div></div></div>
+<div class="note" title="הערה"><div class="inner"><div class="region"><div class="contents"><p class="p">לחלופין, ניתן להפעיל את הדפדפן באמצעות <span class="link"><a href="gs-use-system-search.html" title="שימוש בחיפוש המערכת">הקלדת</a></span> <span class="em">Firefox</span> ב<span class="gui">סקירת הפעילויות</span>.</p></div></div></div></div>
+<div class="media media-image"><div class="inner"><img src="gs-web-browser2-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
 <li class="steps"><p class="p">לחצו על שורת הכתובת בחלקו העליון של חלון הדפדפן והתחילו בהקלדת אתר האינטרנט בו ברצונכם לבקר.</p></li>
 <li class="steps">
 <p class="p">הקלדת אתר אינטרנט מתחילה בחיפוש אחריו בהיסטורית הדפדפן והסימניות, כך שלא תצטרכו לזכור את הכתובת המדויקת.</p>
@@ -59,7 +67,8 @@
 </li>
 <li class="steps"><p class="p">מהרשימה ניתן לבחור במהירות את אתר האינטרנט באמצעות מקשי החצים.</p></li>
 <li class="steps"><p class="p">לאחר בחירת אתר אינטרנט, הקישו <span class="key"><kbd>Enter</kbd></span> כדי לבקר בו.</p></li>
-</ol></div></div></div></div>
+</ol></div></div></div>
+</div>
 <div class="links nextlinks">
 <a class="nextlinks-prev" href="gs-get-online.html" title="גישה לאינטרנט">הקודם</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="התחברות לחשבונות מקוונים">הבא</a>
 </div>

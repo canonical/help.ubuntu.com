@@ -51,7 +51,15 @@
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Világháló böngészése</span></h1></div>
 <div class="region">
-<div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
+<div class="contents">
+<div class="media media-image"><div class="inner"><img src="gs-web-browser1-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Vigye az egérmutatót a képernyő bal felső sarkában lévő <span class="gui">Tevékenységek</span> feliratra a <span class="gui">Tevékenységek áttekintés</span> megjelenítéséhez.</p></li>
+<li class="steps"><p class="p">Válassza ki a <span class="app">Firefox</span> ikonját a képernyő bal oldalán lévő sávból.</p></li>
+</ol></div></div></div>
+<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents"><p class="p">A böngészőt elindíthatja a <span class="em">Firefox</span> szó <span class="link"><a href="gs-use-system-search.html" title="Rendszerkeresés használata">begépelésével</a></span> is a <span class="gui">Tevékenységek áttekintésben</span>.</p></div></div></div></div>
+<div class="media media-image"><div class="inner"><img src="gs-web-browser2-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
 <li class="steps"><p class="p">Kattintson a böngészőablak tetején lévő címsorra, és kezdje el begépelni a felkeresni kívánt weboldal címét.</p></li>
 <li class="steps">
 <p class="p">A webcímek begépelése keresést indít a böngésző előzményei és könyvjelzői között, így nem kell emlékeznie a pontos címre.</p>
@@ -59,7 +67,8 @@
 </li>
 <li class="steps"><p class="p">A legördülő listából a nyílbillentyűkkel gyorsan kiválaszthat egy weboldalt.</p></li>
 <li class="steps"><p class="p">A weboldal kiválasztása után nyomja meg az <span class="key"><kbd>Enter</kbd></span> billentyűt a felkereséséhez.</p></li>
-</ol></div></div></div></div>
+</ol></div></div></div>
+</div>
 <div class="links nextlinks">
 <a class="nextlinks-prev" href="gs-get-online.html" title="Kapcsolódás a hálózatra">Előző</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="Kapcsolódás online fiókokhoz">Következő</a>
 </div>

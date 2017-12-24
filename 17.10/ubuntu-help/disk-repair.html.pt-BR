@@ -67,11 +67,7 @@
 <div class="note note-warning" title="Aviso"><div class="inner">
 <div class="title title-note"><h2><span class="title">Possibilidade de perda de dados na correção</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">If the filesystem structure is damaged it can affect the files stored
-     in it. In some cases these files can not be brought into a valid form
-     again and will be deleted or moved to a special directory. It is normally
-     the <span class="em">lost+found</span> folder in the top level directory of the filesystem
-     where these recovered file parts can be found.</p>
+<p class="p">Se a estrutura do sistema de arquivos estiver danificada, ela pode afetar os arquivos armazenados nele. Em alguns casos, esses arquivos não podem ser trazidos novamente para uma forma válida e serão excluídos ou movidos para um diretório especial. Normalmente, é a pasta <span class="em">lost+found</span> no diretório de nível superior do sistema de arquivos onde essas partes de arquivos recuperadas podem ser encontradas.</p>
 <p class="p">Se os dados forem valiosos demais para serem perdidos durante este processo, é aconselhável fazer uma cópia de segurança salvando uma imagem do volume antes da correção.</p>
 <p class="p">Esta imagem pode então ser processada com ferramentas de análise forense, como <span class="app">sleuthkit</span> para recuperar arquivos e partes de dados perdidos que não foram restaurados durante a reparação, além de arquivos removidos anteriormente.</p>
 </div></div>

@@ -53,7 +53,6 @@
 <div role="navigation" class="links sectionlinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Karakterbeviteli módszerek</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="tips-specialchars.html#charmap" title="Karaktertábla">Karaktertábla</a></li>
 <li class="links "><a href="tips-specialchars.html#characters" title="Karakterek">Karakterek</a></li>
 <li class="links "><a href="tips-specialchars.html#compose" title="Kombináló billentyű">Kombináló billentyű</a></li>
 <li class="links "><a href="tips-specialchars.html#ctrlshiftu" title="Kódpontok">Kódpontok</a></li>
@@ -62,13 +61,6 @@
 </ul></div>
 </div></div>
 </div>
-<div id="charmap" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Karaktertábla</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p">A GNOME karaktertábla alkalmazása segítségével böngészheti az Unicode összes karakterét. A kívánt karakter megkereséséhez használja a karaktertáblát, majd másolja és illessze be azt oda, ahol szüksége van rá.</p>
-<p class="p">A <span class="app">Karaktertábla</span> alkalmazást megtalálja a <span class="gui">Tevékenységek</span> áttekintésben. A karaktertáblával kapcsolatos további információkért lásd a <span class="link"><a href="https://help.gnome.org/users/gucharmap/stable/" title="https://help.gnome.org/users/gucharmap/stable/">karaktertábla kézikönyvét</a></span>.</p>
-</div></div>
-</div></div>
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Karakterek</span></h2></div>
 <div class="region"><div class="contents">
@@ -91,6 +83,7 @@
 <li class="steps"><p class="p">Kattintson a <span class="gui">Letiltva</span> gombra a <span class="gui">Kombináló billentyű</span> beállítás mellett.</p></li>
 <li class="steps"><p class="p">Kapcsolja be a kapcsolót az ablakban, és válassza ki a használni kívánt gyorsbillentyűt.</p></li>
 <li class="steps"><p class="p">Jelölje be a kombináló billentyűként használni kívánt billentyű jelölőnégyzetét.</p></li>
+<li class="steps"><p class="p">Close the dialog.</p></li>
 <li class="steps"><p class="p">Zárja be a <span class="gui">Finomhangoló</span> ablakot.</p></li>
 </ol></div>
 </div></div>

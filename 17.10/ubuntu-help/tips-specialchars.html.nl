@@ -55,7 +55,6 @@
 <div role="navigation" class="links sectionlinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Manieren om tekens in te voeren</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="tips-specialchars.html#charmap" title="Tekens en symbolen">Tekens en symbolen</a></li>
 <li class="links "><a href="tips-specialchars.html#characters" title="Tekens en symbolen">Tekens en symbolen</a></li>
 <li class="links "><a href="tips-specialchars.html#compose" title="Samensteltoets">Samensteltoets</a></li>
 <li class="links "><a href="tips-specialchars.html#ctrlshiftu" title="Codepunten">Codepunten</a></li>
@@ -64,18 +63,11 @@
 </ul></div>
 </div></div>
 </div>
-<div id="charmap" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Tekens en symbolen</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p">Gnome bevat een toepassing voor vreemde tekens en symbolen waarmee u door alle tekens in Unicode kunt bladeren. Gebruik Tekens en symbolen om het gewenste teken te zoeken en kopieer en plak dat waar u het nodig heeft.</p>
-<p class="p">U vindt <span class="app">Tekens en symbolen</span> in het <span class="gui">Activiteiten</span>-overzicht. Zie de <span class="link"><a href="https://help.gnome.org/users/gucharmap/stable/" title="https://help.gnome.org/users/gucharmap/stable/">Handleiding Tekens en symbolen</a></span> voor meer informatie hierover.</p>
-</div></div>
-</div></div>
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Tekens en symbolen</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Een andere handige toepassing die wordt geleverd met Gnome is <span class="app">Tekens en symbolen</span>. U kunt hiermee ongebruikelijke tekens zoeken en invoegen door teken-categorieën te doorzoeken met sleutelwoorden.</p>
-<p class="p">U vindt Tekens en Symbolen in het Activiteiten-overzicht. Zie de <span class="link"><a href="https://help.gnome.org/users/gucharmap/stable/" title="https://help.gnome.org/users/gucharmap/stable/">Handleiding Tekens en symbolen</a></span> voor meer informatie hierover.</p>
+<p class="p">U vindt Tekens en Symbolen in het Activiteiten-overzicht. Zie de <span class="link"><a href="help:gnome-characters" title="help:gnome-characters">Handleiding Tekens en symbolen</a></span> voor meer informatie hierover.</p>
 </div></div>
 </div></div>
 <div id="compose" class="sect"><div class="inner">
@@ -87,15 +79,19 @@
 <div class="note note-important" title="Belangrijk"><div class="inner"><div class="region"><div class="contents"><p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
       change this setting.</p></div></div></div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">Define a compose key</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Een samensteltoets definiëren</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activities</a></span> overview and
-      start typing <span class="gui">Tweaks</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activities</a></span>
+        overview and start typing <span class="gui">Tweaks</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Tweaks</span> to open the application.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Keyboard &amp; Mouse</span> tab.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Disabled</span> next to the <span class="gui">Compose Key</span> setting.</p></li>
-<li class="steps"><p class="p">Turn the switch on in the dialog and pick the keyboard shortcut you want to use.</p></li>
-<li class="steps"><p class="p">Tick the checkbox of the key that you want to set as the Compose key.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Disabled</span> next to the <span class="gui">Compose Key</span>
+        setting.</p></li>
+<li class="steps"><p class="p">Turn the switch on in the dialog and pick the keyboard shortcut you
+        want to use.</p></li>
+<li class="steps"><p class="p">Tick the checkbox of the key that you want to set as the Compose
+        key.</p></li>
+<li class="steps"><p class="p">Close the dialog.</p></li>
 <li class="steps"><p class="p">Close the <span class="gui">Tweaks</span> window.</p></li>
 </ol></div>
 </div></div>

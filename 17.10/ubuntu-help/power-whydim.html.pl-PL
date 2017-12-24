@@ -60,9 +60,8 @@
   computer again, the screen will brighten.</p>
 <p class="p">To stop the screen from dimming itself:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span>
-      overview and start typing <span class="gui">Power</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Power</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Zasilanie</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Zasilanie</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">Switch <span class="gui">Dim screen when inactive</span> to <span class="gui">OFF</span> in the <span class="gui">Power
       Saving</span> section.</p></li>
 </ol></div></div></div>
@@ -74,9 +73,7 @@
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Problemy z ekranem">Problemy z ekranem</a><span class="desc"> — 
-      Troubleshoot screen and graphics problems.
-    </span>
+<a href="hardware-problems-graphics.html" title="Problemy z ekranem">Problemy z ekranem</a><span class="desc"> — Rozwiązywanie problemów z ekranem i grafiką.</span>
 </li>
 <li class="links "><a href="power.html#saving" title="Ustawienia oszczędzania energii">Ustawienia oszczędzania energii</a></li>
 </ul></div>
@@ -88,11 +85,11 @@
 <a href="display-blank.html" title="Set screen blanking time">Set screen blanking time</a><span class="desc"> — Change the screen blanking time to save power.</span>
 </li>
 <li class="links ">
-<a href="display-brightness.html" title="Set screen brightness">Set screen brightness</a><span class="desc"> — Change the screen brightness to make it more readable in bright
-    light.</span>
+<a href="power-batterylife.html" title="Use less power and improve battery life">Use less power and improve battery life</a><span class="desc"> — Tips to reduce the power consumption of your computer.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="Use less power and improve battery life">Use less power and improve battery life</a><span class="desc"> — Tips to reduce the power consumption of your computer.</span>
+<a href="display-brightness.html" title="Ustawianie jasności ekranu">Ustawianie jasności ekranu</a><span class="desc"> — Change the screen brightness to make it more readable in bright
+    light.</span>
 </li>
 </ul></div>
 </div></div>

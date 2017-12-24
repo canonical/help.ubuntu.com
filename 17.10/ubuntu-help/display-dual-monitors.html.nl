@@ -57,10 +57,7 @@
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Schermen</span>.</p></li>
 <li class="steps"><p class="p">Klik op het <span class="gui">Schermen</span> om het paneel te openen.</p></li>
 <li class="steps">
-<p class="p">Click on the monitor that you would like to activate or deactivate,
-      then in the list of monitor configuration select <span class="gui">Turn Off</span> to
-      deactivate the monitor, or one of <span class="gui">Primary</span>,
-      <span class="gui">Secondary</span>, or <span class="gui">Mirror</span> to activate it.</p>
+<p class="p">Klik op de monitor die u wilt activeren of deactiveren en kies daarna in de lijst voor schermconfiguratie <span class="gui">Uitschakelen</span> om het scherm uit te schakelen, of kies <span class="gui">Primair</span>, <span class="gui">Secondair</span>, of <span class="gui">Spiegelen</span> om het te activeren.</p>
 <div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Het primaire scherm is het scherm met de <span class="link"><a href="shell-introduction.html" title="Inleiding tot Gnome">menubalk</a></span>, en waar het <span class="gui">Activiteiten</span>-overzicht getoond wordt.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Om de oriëntatie van het scherm te draaien gebruikt u de pijltjesknoppen totdat het voorbeeld juist is.</p></li>

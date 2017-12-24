@@ -51,7 +51,15 @@
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Περιήγηση στον Ιστό</span></h1></div>
 <div class="region">
-<div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
+<div class="contents">
+<div class="media media-image"><div class="inner"><img src="gs-web-browser1-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Μετακινήστε τον δείκτη του ποντικιού στη γωνία <span class="gui">Δραστηριότητες</span> πάνω αριστερά της οθόνης για να εμφανίσετε την επισκόπηση <span class="gui">Δραστηριότητες</span>.</p></li>
+<li class="steps"><p class="p">Επιλέξτε το εικονίδιο περιηγητή <span class="app">Firefox</span> από τη γραμμή στα αριστερά της οθόνης.</p></li>
+</ol></div></div></div>
+<div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">Εναλλακτικά, μπορείτε να ξεκινήσετε τον περιηγητή <span class="link"><a href="gs-use-system-search.html" title="Χρησιμοποιήστε το σύστημα αναζήτησης">πληκτρολογώντας απλά</a></span> <span class="em">Firefox</span> στην επισκόπηση <span class="gui">Δραστηριότητες</span>.</p></div></div></div></div>
+<div class="media media-image"><div class="inner"><img src="gs-web-browser2-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
 <li class="steps"><p class="p">Πατήστε στη γραμμή διευθύνσεων στην κορυφή του παραθύρου περιηγητή και αρχίστε να πληκτρολογείτε τον επιθυμητό ιστότοπο.</p></li>
 <li class="steps">
 <p class="p">Πληκτρολογώντας σε μια ιστοσελίδα ξεκινά η αναζήτηση της στο ιστορικό περιηγητή και τους σελιδοδείκτες, έτσι δεν χρειάζεστε να θυμόσαστε την ακριβή διεύθυνση.</p>
@@ -59,7 +67,8 @@
 </li>
 <li class="steps"><p class="p">Από την πτυσσόμενη λίστα, μπορείτε γρήγορα να επιλέξετε μια ιστοσελίδα χρησιμοποιώντας τα πλήκτρα βελών.</p></li>
 <li class="steps"><p class="p">Μετά την επιλογή μιας ιστοσελίδας, πατήστε <span class="key"><kbd>Enter</kbd></span> για να την επισκεφθείτε.</p></li>
-</ol></div></div></div></div>
+</ol></div></div></div>
+</div>
 <div class="links nextlinks">
 <a class="nextlinks-prev" href="gs-get-online.html" title="Σύνδεση στο δίκτυο">Προηγούμενο</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="Σύνδεση σε διαδικτυακούς λογαριασμούς">Επόμενο</a>
 </div>

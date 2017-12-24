@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Delete files and folders</title>
+<title>Usuwanie plików i katalogów</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,16 +46,16 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html#common-file-tasks" title="Często wykonywane zadania">Często wykonywane zadania</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Delete files and folders</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Usuwanie plików i katalogów</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">If you do not want a file or folder any more, you can delete it. When you
   delete an item it is moved to the <span class="gui">Trash</span> folder, where it is stored
-  until you empty the trash. You can <span class="link"><a href="files-recover.html" title="Recover a file from the Trash">restore
+  until you empty the trash. You can <span class="link"><a href="files-recover.html" title="Przywracanie pliku z Kosza">restore
   items</a></span> in the <span class="gui">Trash</span> folder to their original location if you
   decide you need them, or if they were accidentally deleted.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">To send a file to the trash:</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Aby przenieść plik do kosza:</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Select the item you want to place in the trash by clicking it
     once.</p></li>
@@ -77,7 +77,7 @@
 <p class="p">You can immediately delete a file permanently, without having to send it
     to the trash first.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">To permanently delete a file:</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Aby trwale usunąć plik:</span></h3></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Select the item you want to delete.</p></li>
 <li class="steps"><p class="p">Press and hold the <span class="key"><kbd>Shift</kbd></span> key, then press the
@@ -86,7 +86,7 @@
     you want to delete the file or folder.</p></li>
 </ol></div>
 </div></div>
-<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Deleted files on a <span class="link"><a href="files.html#removable" title="Removable drives and external disks">removable device
+<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Deleted files on a <span class="link"><a href="files.html#removable" title="Nośniki wymienne i dyski zewnętrzne">removable device
   </a></span> may not be visible on other operating systems, such Windows or Mac
   OS. The files are still there, and will be available when you plug the device
   back into your computer.</p></div></div></div></div>
@@ -102,9 +102,9 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="nautilus-behavior.html#trash" title="Kosz">File manager trash preferences</a></li>
+<li class="links "><a href="nautilus-behavior.html#trash" title="Kosz">Preferencje kosza menedżera plików</a></li>
 <li class="links ">
-<a href="files-recover.html" title="Recover a file from the Trash">Recover a file from the Trash</a><span class="desc"> — Deleted files are normally sent to the Trash, but can be
+<a href="files-recover.html" title="Przywracanie pliku z Kosza">Przywracanie pliku z Kosza</a><span class="desc"> — Deleted files are normally sent to the Trash, but can be
     recovered.</span>
 </li>
 </ul></div>

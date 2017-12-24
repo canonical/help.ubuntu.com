@@ -77,11 +77,12 @@
   change the setting for that behavior.</p>
 <div class="note note-warning" title="Waarschuwing"><div class="inner"><div class="region"><div class="contents"><p class="p">Wees zeer voorzichtig als u deze instelling wijzigt. Sommige laptops kunnen oververhit raken als ze actief blijven als de klep gesloten is, vooral als de laptop in een afgesloten plaats zoals een rugzak zit.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activities</a></span> overview and
-      start typing <span class="gui">Tweaks</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activities</a></span>
+      overview and start typing <span class="gui">Tweaks</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Tweaks</span> to open the application.</p></li>
 <li class="steps"><p class="p">Klik op het tabblad <span class="gui">Energie</span>.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Don’t suspend on lid close</span> to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Switch <span class="gui">Suspend when laptop lid is closed</span> to
+      <span class="gui">OFF</span>.</p></li>
 <li class="steps"><p class="p">Close the <span class="gui">Tweaks</span> window.</p></li>
 </ol></div></div></div>
 </div></div>

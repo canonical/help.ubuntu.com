@@ -65,7 +65,7 @@
 </div></div>
 <p class="p">Можете да користите линију наредби да испробате да ли замрзавање ради на вашем рачунару.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите <span class="app">Терминал</span> тако што ћете притиснути <span class="keyseq"><span class="key"><kbd>Ктрл</kbd></span>+<span class="key"><kbd>Алт</kbd></span>+<span class="key"><kbd>т</kbd></span></span> или потражите <span class="input">терминал</span> у <span class="gui">Полетнику</span>.</p></li>
+<li class="steps"><p class="p">Отворите <span class="app">Терминал</span> тако што ћете потражити <span class="input">терминал</span> у <span class="gui">Прегледу активности</span>.</p></li>
 <li class="steps">
 <p class="p">Type <span class="cmd">sudo systemctl hibernate</span> into the terminal and press <span class="key"><kbd>Enter</kbd></span>.</p>
 <p class="p">Унесите лозинку када будете упитани.</p>

@@ -53,7 +53,6 @@
 <div role="navigation" class="links sectionlinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Způsoby vkládání znaků</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="tips-specialchars.html#charmap" title="Mapa znaků">Mapa znaků</a></li>
 <li class="links "><a href="tips-specialchars.html#characters" title="Znaky">Znaky</a></li>
 <li class="links "><a href="tips-specialchars.html#compose" title="Klávesa Compose">Klávesa Compose</a></li>
 <li class="links "><a href="tips-specialchars.html#ctrlshiftu" title="Kódy znaků">Kódy znaků</a></li>
@@ -62,13 +61,6 @@
 </ul></div>
 </div></div>
 </div>
-<div id="charmap" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Mapa znaků</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p">GNOME přichází s aplikací <span class="app">Mapa znaků</span>, která umožňuje procházet všechny znaky Unikódu. Můžete ji použít k vyhledání požadovaného znaku, a k jeho případnému zkopírování a vložení.</p>
-<p class="p"><span class="app">Mapu znaků</span> najdete v přehledu <span class="gui">Činností</span>. Více informací o ní najdete v <span class="link"><a href="https://help.gnome.org/users/gucharmap/stable/" title="https://help.gnome.org/users/gucharmap/stable/">příručce k Mapě znaků</a></span>.</p>
-</div></div>
-</div></div>
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Znaky</span></h2></div>
 <div class="region"><div class="contents">
@@ -91,6 +83,7 @@
 <li class="steps"><p class="p">Klikněte na <span class="gui">Vypnuto</span> vedle nastavení <span class="gui">Klávesa Compose</span>.</p></li>
 <li class="steps"><p class="p">V dialogovém okně zapněte přepínač a zvolte klávesovou zkratku, kterou chcete používat.</p></li>
 <li class="steps"><p class="p">Zaškrtněte políčko u klávesy, kterou chcete nastavit jako klávesu Compose.</p></li>
+<li class="steps"><p class="p">Zavřete dialogové okno.</p></li>
 <li class="steps"><p class="p">Zavřete okno <span class="gui">Vyladění</span>.</p></li>
 </ol></div>
 </div></div>

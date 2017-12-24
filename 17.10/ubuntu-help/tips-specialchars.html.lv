@@ -53,7 +53,6 @@
 <div role="navigation" class="links sectionlinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Metodes, lai ievadītu rakstzīmes</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="tips-specialchars.html#charmap" title="Rakstzīmju karte">Rakstzīmju karte</a></li>
 <li class="links "><a href="tips-specialchars.html#characters" title="Rakstzīmes">Rakstzīmes</a></li>
 <li class="links "><a href="tips-specialchars.html#compose" title="Kompozīcijas taustiņi">Kompozīcijas taustiņi</a></li>
 <li class="links "><a href="tips-specialchars.html#ctrlshiftu" title="Koda punkti">Koda punkti</a></li>
@@ -62,13 +61,6 @@
 </ul></div>
 </div></div>
 </div>
-<div id="charmap" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Rakstzīmju karte</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p">GNOME nāk kopā ar rakstzīmju kartes programmu, kas ļauj jums aplūkot visas rakstzīmes unikodā. Izmantojiet rakstzīmju karti, lai atrast rakstzīmes, kuras jums vajag, un pēc tam nokopējiet un ielīmējiet tās, kur vien jums vajag.</p>
-<p class="p"><span class="gui">Aktivitāšu</span> pārskatā jūs varat atrast <span class="app">Rakstzīmju tabulu</span>. Lai uzzinātu vairāk par rakstzīmju tabulu, aplūkojiet <span class="link"><a href="https://help.gnome.org/users/gucharmap/stable/" title="https://help.gnome.org/users/gucharmap/stable/">rakstzīmju tabulas rokasgrāmatu</a></span>.</p>
-</div></div>
-</div></div>
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Rakstzīmes</span></h2></div>
 <div class="region"><div class="contents">
@@ -91,6 +83,7 @@
 <li class="steps"><p class="p">Spiediet uz <span class="gui">Izslēgts</span> pie iestatījuma <span class="gui">Kompozīcijas taustiņš</span>.</p></li>
 <li class="steps"><p class="p">Dialoglodziņā ieslēdziet slēdzi un izvēlieties tastatūras saīsni, ko vēlaties izmantot.</p></li>
 <li class="steps"><p class="p">Atzīmējiet atzīmes rūtiņā taustiņu, kuru vēlaties iestatīt kā komponēšanas taustiņu.</p></li>
+<li class="steps"><p class="p">Close the dialog.</p></li>
 <li class="steps"><p class="p">Aizveriet <span class="gui">Piedares</span> logu.</p></li>
 </ol></div>
 </div></div>

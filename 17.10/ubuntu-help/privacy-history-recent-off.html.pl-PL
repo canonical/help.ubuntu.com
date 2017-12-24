@@ -44,7 +44,7 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html#more-file-tasks" title="Inne zadania związane z plikami">Inne zadania związane z plikami</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="privacy.html" title="Ustawienia prywatności">Ustawienia prywatności</a> » </div>
 </div>
@@ -60,9 +60,8 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Turn off file history tracking</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Privacy</span>.</p></li>
-<li class="steps"><p class="p">Kliknij ikonę <span class="gui">Prywatność</span>, aby otworzyć panel.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Prywatność</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Prywatność</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">Usage &amp; History</span>.</p></li>
 <li class="steps">
 <p class="p">Set the <span class="gui">Recently Used</span> switch to <span class="gui">OFF</span>.</p>
@@ -78,9 +77,8 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Restrict the amount of time your file history is tracked</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Privacy</span>.</p></li>
-<li class="steps"><p class="p">Kliknij ikonę <span class="gui">Prywatność</span>, aby otworzyć panel.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Prywatność</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Prywatność</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">Usage &amp; History</span>.</p></li>
 <li class="steps"><p class="p">Ensure the <span class="gui">Recently Used</span> switch is <span class="gui">ON</span>.</p></li>
 <li class="steps"><p class="p">Select the length of time to <span class="gui">Retain History</span>. Choose from
@@ -96,7 +94,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li>
+<li class="links "><a href="files.html#more-file-tasks" title="Inne zadania związane z plikami">Inne zadania związane z plikami</a></li>
 <li class="links ">
 <a href="privacy.html" title="Ustawienia prywatności">Ustawienia prywatności</a><span class="desc"> — 
       <span class="link"><a href="privacy-screen-lock.html" title="Automatyczne blokowanie ekranu">Screen lock</a></span>,

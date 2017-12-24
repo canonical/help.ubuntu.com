@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>What is a color space?</title>
+<title>Czym jest przestrzeń kolorów?</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -50,7 +50,7 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">What is a color space?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Czym jest przestrzeń kolorów?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">
@@ -136,7 +136,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="color-whatisprofile.html" title="What is a color profile?">What is a color profile?</a><span class="desc"> — A color profile is a simple file that expresses a color space or device response.</span>
+<a href="color-whatisprofile.html" title="Czym jest profil kolorów?">Czym jest profil kolorów?</a><span class="desc"> — A color profile is a simple file that expresses a color space or device response.</span>
 </li></ul></div>
 </div></div>
 </div>

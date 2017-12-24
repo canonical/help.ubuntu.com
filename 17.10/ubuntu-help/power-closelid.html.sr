@@ -67,7 +67,8 @@
 <li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Tweaks</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Алат за лицкање</span> да га отворите.</p></li>
 <li class="steps"><p class="p">Притисните на језичак <span class="gui">Напајање</span>.</p></li>
-<li class="steps"><p class="p">Пребаците <span class="gui">Не обустављај при спуштању поклопца</span> на <span class="gui">УКЉ.</span>.</p></li>
+<li class="steps"><p class="p">Switch <span class="gui">Suspend when laptop lid is closed</span> to
+      <span class="gui">OFF</span>.</p></li>
 <li class="steps"><p class="p">Затворите прозор <span class="gui">Алата за лицкање</span>.</p></li>
 </ol></div></div></div>
 </div></div>

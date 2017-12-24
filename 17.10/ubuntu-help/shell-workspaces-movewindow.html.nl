@@ -67,8 +67,8 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Selecteer het venster dat u wilt verplaatsen (bijvoorbeeld met de <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> <span class="em"><a href="shell-windows-switching.html" title="Schakelen tussen vensters">vensterwisselaar</a></span>).</p></li>
 <li class="steps">
-<p class="p">Druk op <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> om het venster naar het werkblad boven het huidige werkblad in de <span class="gui">werkbladwisselaar</span> te verplaatsen .</p>
-<p class="p">Druk op <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span> om het venster naar het werkblad onder het huidige werkblad in de <span class="gui">werkbladwisselaar</span> te verplaatsen .</p>
+<p class="p">Druk op <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> om het venster naar het werkblad boven het huidige werkblad in de <span class="em">werkbladwisselaar</span> te verplaatsen .</p>
+<p class="p">Druk op <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span> om het venster naar het werkblad onder het huidige werkblad in de <span class="em">werkbladwisselaar</span> te verplaatsen .</p>
 </li>
 </ol></div>
 </div></div>

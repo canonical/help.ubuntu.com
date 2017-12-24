@@ -58,9 +58,8 @@
 <p class="p">If your pointer moves too fast or slow when you move your mouse or use
   your touchpad, you can adjust the pointer speed for these devices.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
-<li class="steps"><p class="p">Kliknij ikonę <span class="gui">Mysz i panel dotykowy</span>, aby otworzyć panel.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Mysz i panel dotykowy</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Mysz i panel dotykowy</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">Adjust the <span class="gui">Pointer Speed</span> slider until the pointer motion
       is comfortable for you. You will see one slider per each pointing device,
       such as mouse or touchpad.</p></li>

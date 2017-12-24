@@ -51,8 +51,8 @@
 <div class="contents">
 <p class="p">V případě, že již nadále nechcete být se zařízením Bluetooth spojeni, můžete spojení odebrat. To se hodí, když již nadále nechcete používat zařízení, jako je myš nebo sluchátka, nebo když si nadále nepřejete přenášet soubor do nebo ze zařízení.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Klikněte na ikonu Bluetooth v <span class="gui">nabídkové liště</span> a vyberte <span class="gui">Nastavení Bluetooth</span>.</p></li>
-<li class="steps"><p class="p">Kliknutím na <span class="gui">Nastavení Bluetooth</span> otevřete příslušný panel.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Kliknutím na <span class="gui">Bluetooth</span> otevřete příslušný panel.</p></li>
 <li class="steps"><p class="p">Vyberte v seznamu zařízení, které chcete odpojit.</p></li>
 <li class="steps"><p class="p">V dialogovém okně zařízení přepněte <span class="gui">Připojení</span> na <span class="gui">○</span> (vypnuto) nebo odeberte zařízení ze seznamu <span class="gui">Zařízení</span> kliknutím na <span class="gui">Odebrat zařízení</span>.</p></li>
 </ol></div></div></div>

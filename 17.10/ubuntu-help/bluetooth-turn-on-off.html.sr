@@ -49,10 +49,20 @@
 <div class="hgroup"><h1 class="title"><span class="title">Укључите или искључите блутут</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Можете да укључите блутут да се повежете на друге блутут уређаје, или да га искључите да сачувате енергију. Да укључите блутут, кликните на иконицу блутута на траци изборника и пребаците <span class="gui">Блутут</span> на <span class="gui">УКЉ.</span>.</p>
-<p class="p">Многи преносни рачунари имају физички прекидач или комбинацију тастера за укључивање и искључивање блутута. Ако је компонента блутута искључена, нећете видети иконицу блутута на траци изборника. Потражите прекидач на вашем рачунару или тастер на тастатури. Тастеру на тастатури се обично приступа уз помоћ <span class="key"><kbd class="key-Fn">Fn</kbd></span> тастера.</p>
-<p class="p">Да искључите блутут, кликните на иконицу блутута и пребаците <span class="gui">Блутут</span> на <span class="gui">ИСКЉ.</span>.</p>
-<div class="note" title="Белешка"><div class="inner"><div class="region"><div class="contents"><p class="p">Ваш рачунар је <span class="link"><a href="bluetooth-visibility.html" title="Шта је видљивост блутута?">видљив</a></span> ако је <span class="gui">Видљив</span> пребачено на <span class="gui">УКЉ.</span> у изборнику блутута.</p></div></div></div></div>
+<p class="p">Можете да укључите блутут да се повежете на друге блутут уређаје, или да га искључите да сачувате енергију. Да укључите блутут:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Блутут</span>.</p></li>
+<li class="steps"><p class="p">Кликните на <span class="gui">Блутут</span> да отворите панел.</p></li>
+<li class="steps"><p class="p">Пребаците прекидач на врху на <span class="gui">УКЉ.</span>.</p></li>
+</ol></div></div></div>
+<p class="p">Многи преносни рачунари имају физички прекидач или комбинацију тастера за укључивање и искључивање блутута. Потражите прекидач на вашем рачунару или тастер на тастатури. Тастеру на тастатури се обично приступа уз помоћ <span class="key"><kbd class="key-Fn">Fn</kbd></span> тастера.</p>
+<p class="p">Да искључите блутут:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Отворите <span class="gui"><a href="shell-introduction.html#yourname" title="Ви и ваш рачунар">изборник система</a></span> на десној страни горње траке.</p></li>
+<li class="steps"><p class="p">Изаберите <span class="gui"><span class="media"><span class="media media-image"><img src="figures/bluetooth-active-symbolic.svg" class="media media-inline" alt=""></span></span> Није у употреби</span>. Одељак блутута у изборнику ће се раширити.</p></li>
+<li class="steps"><p class="p">Изаберите <span class="gui">Искључи</span>.</p></li>
+</ol></div></div></div>
+<div class="note" title="Белешка"><div class="inner"><div class="region"><div class="contents"><p class="p">Ваш рачунар је <span class="link"><a href="bluetooth-visibility.html" title="Шта је видљивост блутута?">видљив</a></span> све док је отворен панел <span class="gui">блутута</span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

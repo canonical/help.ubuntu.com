@@ -49,7 +49,8 @@
 <div class="hgroup"><h1 class="title"><span class="title">Cambiar el fondo del escritorio y de la pantalla de bloqueo</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Puede cambiar la imagen usada como fondo o establecer un color sólido.</p>
+<p class="p">You can change the image used for your backgrounds or set it to be a
+  solid color.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Fondo</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Fondo</span> para abrir el panel.</p></li>

@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Set screen brightness</title>
+<title>Ustawianie jasności ekranu</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -50,7 +50,7 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Set screen brightness</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Ustawianie jasności ekranu</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Depending on your hardware, you can change the brightness of your screen to
@@ -66,9 +66,8 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">To set the screen brightness using the Power panel:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span>
-      overview and start typing <span class="gui">Power</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Power</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Zasilanie</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Zasilanie</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">Adjust the <span class="gui">Screen brightness</span> slider to the value you want to
       use. The change should take effect immediately.</p></li>
 </ol></div>
@@ -87,16 +86,10 @@
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-display.html" title="Ekran">Ekran</a><span class="desc"> — 
-      <span class="link"><a href="look-background.html" title="Change the desktop and lock screen backgrounds">Background</a></span>,
-      <span class="link"><a href="look-resolution.html" title="Change the resolution or rotation of the screen">size and rotation</a></span>,
-      brightness…
-    </span>
+<a href="prefs-display.html" title="Ekran">Ekran</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Zmiana tła pulpitu i ekranu blokady">Tło</a></span>, <span class="link"><a href="look-resolution.html" title="Change the resolution or rotation of the screen">rozmiar i obrót</a></span>, Jasność…</span>
 </li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Problemy z ekranem">Problemy z ekranem</a><span class="desc"> — 
-      Troubleshoot screen and graphics problems.
-    </span>
+<a href="hardware-problems-graphics.html" title="Problemy z ekranem">Problemy z ekranem</a><span class="desc"> — Rozwiązywanie problemów z ekranem i grafiką.</span>
 </li>
 </ul></div>
 </div></div>
@@ -107,13 +100,13 @@
 <a href="a11y-contrast.html" title="Dostosowanie kontrastu">Dostosowanie kontrastu</a><span class="desc"> — Bardziej (lub mniej) wyraźne okna i przyciski na ekranie.</span>
 </li>
 <li class="links ">
-<a href="power-autobrightness.html" title="Enable automatic brightness">Enable automatic brightness</a><span class="desc"> — Automatically control screen brightness to reduce battery use.</span>
-</li>
-<li class="links ">
 <a href="power-batterylife.html" title="Use less power and improve battery life">Use less power and improve battery life</a><span class="desc"> — Tips to reduce the power consumption of your computer.</span>
 </li>
 <li class="links ">
 <a href="power-whydim.html" title="Why does my screen go dim after a while?">Why does my screen go dim after a while?</a><span class="desc"> — The screen will dim when the computer is idle in order to save power.</span>
+</li>
+<li class="links ">
+<a href="power-autobrightness.html" title="Włączanie automatycznej jasności">Włączanie automatycznej jasności</a><span class="desc"> — Automatically control screen brightness to reduce battery use.</span>
 </li>
 </ul></div>
 </div></div>

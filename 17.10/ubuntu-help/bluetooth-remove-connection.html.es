@@ -51,8 +51,8 @@
 <div class="contents">
 <p class="p">Si no quiere volver a conectarse a un dispositivo Bluetooth puede quitar la conexión. Es útil si ya no quiere volver a usar un dispositivo como un ratón o unos auriculares o si ya no va a volver a transferir archivos a o desde un dispositivo.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Pulse en el icono de Bluetooth en la <span class="gui">barra de menú</span> y seleccione <span class="gui">Configuración de Bluetooth</span>.</p></li>
-<li class="steps"><p class="p">Seleccione <span class="gui">Configuración de Bluetooth</span> para abrir el panel.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Pulse en <span class="gui">Bluetooth</span> para abrir el panel.</p></li>
 <li class="steps"><p class="p">Seleccione en la lista el dispositivo que quiere desconectar.</p></li>
 <li class="steps"><p class="p">En el cuadro de diálogo de dispositivos, cambie <span class="gui">Conexión</span> a <span class="gui">Apagado</span>, o para quitar el dispositivo de la lista de <span class="gui">Dispositivos</span>, pulse en <span class="gui">Quitar dispositivo</span>.</p></li>
 </ol></div></div></div>

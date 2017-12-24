@@ -71,11 +71,12 @@
   change the setting for that behavior.</p>
 <div class="note note-warning" title="Предупреждение"><div class="inner"><div class="region"><div class="contents"><p class="p">Будьте осторожны при изменении этого параметра. Некоторые ноутбуки могут перегреваться, если оставить их включёнными с закрытой крышкой, особенно если они находятся в замкнутом пространстве, например, в рюкзаке.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
-      start typing <span class="gui">Tweaks</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span>
+      overview and start typing <span class="gui">Tweaks</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Tweaks</span> to open the application.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Power</span> tab.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Don’t suspend on lid close</span> to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Switch <span class="gui">Suspend when laptop lid is closed</span> to
+      <span class="gui">OFF</span>.</p></li>
 <li class="steps"><p class="p">Close the <span class="gui">Tweaks</span> window.</p></li>
 </ol></div></div></div>
 </div></div>

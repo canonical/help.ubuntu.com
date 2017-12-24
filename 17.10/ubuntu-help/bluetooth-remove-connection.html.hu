@@ -51,8 +51,8 @@
 <div class="contents">
 <p class="p">Ha nem szeretne többé egy adott Bluetooth-eszközhöz kapcsolódni, akkor eltávolíthatja a kapcsolatot. Ez akkor hasznos, ha már nem akar egy egeret vagy fejhallgatót használni, vagy nem akar fájlokat átvinni egy eszközre.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Kattintson a Bluetooth ikonra a <span class="gui">menüsávon</span>, és válassza a <span class="gui">Bluetooth beállításai</span> menüpontot.</p></li>
-<li class="steps"><p class="p">Kattintson a <span class="gui">Bluetooth beállításai</span> menüpontra a beállítópanel megnyitásához.</p></li>
+<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Bluetooth</span> szót.</p></li>
+<li class="steps"><p class="p">Kattintson a <span class="gui">Bluetooth</span> ikonra a panel megnyitásához.</p></li>
 <li class="steps"><p class="p">A listából válassza ki azt az eszközt, amelynek kapcsolatát bontani szeretné.</p></li>
 <li class="steps"><p class="p">Az eszköz ablakban a <span class="gui">Kapcsolatot</span> kapcsolja <span class="gui">KI</span>, vagy az eszköz eltávolításához az <span class="gui">Eszközök</span> listából nyomja meg az <span class="gui">Eszköz eltávolítása</span> gombot.</p></li>
 </ol></div></div></div>

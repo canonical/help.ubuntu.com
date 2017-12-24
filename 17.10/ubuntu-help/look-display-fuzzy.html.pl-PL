@@ -70,9 +70,8 @@ one that makes the screen look better.</p>
   cannot show the same window on both screens at once.</p>
 <p class="p">To set up the displays so that they each have their own resolution:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Displays</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Displays</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Ekrany</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Ekrany</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">The displays should be listed as <span class="gui">Mirrored</span>. Select your main
       display.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">Primary</span> in the list of display configurations, and
@@ -89,9 +88,7 @@ one that makes the screen look better.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-problems-graphics.html" title="Problemy z ekranem">Problemy z ekranem</a><span class="desc"> — 
-      Troubleshoot screen and graphics problems.
-    </span>
+<a href="hardware-problems-graphics.html" title="Problemy z ekranem">Problemy z ekranem</a><span class="desc"> — Rozwiązywanie problemów z ekranem i grafiką.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

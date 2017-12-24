@@ -65,7 +65,8 @@
 </div></div>
 <p class="p">Lepotilan toimintaa voi testata komentorivin kautta.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Avaa <span class="app">Pääte</span> painamalla <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>t</kbd></span></span> tai etsimällä hakusanalla <span class="input">pääte</span> <span class="gui">Unity-valikossa</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="app">Terminal</span> by searching for <span class="input">terminal</span>
+     in the <span class="gui">Activities overview</span>.</p></li>
 <li class="steps">
 <p class="p">Type <span class="cmd">sudo systemctl hibernate</span> into the terminal and press <span class="key"><kbd>Enter</kbd></span>.</p>
 <p class="p">Anna salasanasi, kun sitä kysytään.</p>

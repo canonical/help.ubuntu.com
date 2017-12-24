@@ -79,11 +79,12 @@
     if they are left running with the lid closed, especially if they are in
     a confined place like a backpack.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitetsoversigt">Activities</a></span> overview and
-      start typing <span class="gui">Tweaks</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitetsoversigt">Activities</a></span>
+      overview and start typing <span class="gui">Tweaks</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Tweaks</span> to open the application.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Power</span> tab.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Don’t suspend on lid close</span> to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Switch <span class="gui">Suspend when laptop lid is closed</span> to
+      <span class="gui">OFF</span>.</p></li>
 <li class="steps"><p class="p">Close the <span class="gui">Tweaks</span> window.</p></li>
 </ol></div></div></div>
 </div></div>

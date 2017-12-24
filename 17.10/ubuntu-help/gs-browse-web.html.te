@@ -51,7 +51,15 @@
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">వెబ్ బ్రౌజ్ చేయి</span></h1></div>
 <div class="region">
-<div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
+<div class="contents">
+<div class="media media-image"><div class="inner"><img src="gs-web-browser1-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p"><span class="gui">కార్యకలాపాల అవలోకనం</span> చూపుటకు తెర పైన ఎడమవైపు మూలన <span class="gui">కార్యకలాపాలు</span> కు మీ మౌస్ సూచకిని కదుపుము</p></li>
+<li class="steps"><p class="p">తెర ఎడమ-చేతి వైపుని పట్టీ నుండి <span class="app">ఫైర్‌ఫాక్స్</span> బ్రౌజర్ ప్రతిమను ఎంపికచేయి.</p></li>
+</ol></div></div></div>
+<div class="note" title="చీటి"><div class="inner"><div class="region"><div class="contents"><p class="p">ప్రత్యామ్నాయంగా, <span class="gui">కార్యకలాపాల అవలోకనం</span> నందు <span class="em">Firefox</span> <span class="link"><a href="gs-use-system-search.html" title="వ్యవస్థ అన్వేషణను వుపయోగించు">టైపు చేయుట</a></span> ద్వారా మీరు బ్రౌజర్ ఆరంభించవచ్చు.</p></div></div></div></div>
+<div class="media media-image"><div class="inner"><img src="gs-web-browser2-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
 <li class="steps"><p class="p">బ్రౌజర్ విండో పైన చిరునామా పట్టీ పై నొక్కి మీరు దర్శించాలని అనుకొనుచున్న వెబ్‌సైట్ టైపు చేయుట ప్రారంభించవచ్చు.</p></li>
 <li class="steps">
 <p class="p">వెబ్‌సైటు టైపు చేస్తే దాని కొరకు బ్రౌజర్ చరిత్ర నందు మరియు ఇష్టాంశాల నందు వెతుకును, కనుక మీరు ఖచ్చితమైన చిరునామాను గుర్తుంచుకోనవసరం లేదు.</p>
@@ -59,7 +67,8 @@
 </li>
 <li class="steps"><p class="p">డ్రాప్-డౌన్ జాబితా నుండి, మీరు వెబ్‌సైటును బాణపు కీలను వుపయోగించి త్వరగా ఎంపికచేయవచ్చు.</p></li>
 <li class="steps"><p class="p">మీరు వెబ్‌సైటును ఎంపికచేసిన తరువాత, దానిని దర్శించుటకు <span class="key"><kbd>Enter</kbd></span> వత్తుము.</p></li>
-</ol></div></div></div></div>
+</ol></div></div></div>
+</div>
 <div class="links nextlinks">
 <a class="nextlinks-prev" href="gs-get-online.html" title="ఆన్‌లైన్ రండి">క్రితం</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="ఆన్‌లైన్ ఖాతాలకు అనుసంధానించు">తరువాత </a>
 </div>

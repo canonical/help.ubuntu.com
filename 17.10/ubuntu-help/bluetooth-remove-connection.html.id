@@ -51,8 +51,8 @@
 <div class="contents">
 <p class="p">Bila Anda tak ingin tersambung ke suatu perangkat Bluetooth lagi, Anda dapat menghapus koneksi. Ini berguna bila Anda tak ingin memakai lagi suatu perangkat seperti tetikus atau headset, atau Anda tak ingin lagi mentransfer berkas ke atau dari suatu perangkat.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Klik ikon Bluetooth pada <span class="gui">bilah menu</span> dan pilih <span class="gui">Pengaturan Bluetooth</span>.</p></li>
-<li class="steps"><p class="p">Pilih <span class="gui">Pengaturan Bluetooth</span> untuk membuka panel.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Klik pada <span class="gui">Bluetooth</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Pilih perangkat yang ingin Anda putus dari daftar.</p></li>
 <li class="steps"><p class="p">Dalam kotak dialog perangkat, ubah <span class="gui">Koneksi</span> ke <span class="gui">MATI</span>, atau untuk menghapus perangkat dari daftar <span class="gui">Perangkat</span>, klik <span class="gui">Hapus Perangkat</span>.</p></li>
 </ol></div></div></div>

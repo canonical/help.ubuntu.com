@@ -49,7 +49,8 @@
 <div class="hgroup"><h1 class="title"><span class="title">Αλλαγή παρασκηνίου της επιφάνειας εργασίας και της οθόνης κλειδώματος</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Μπορείτε να αλλάξετε την χρησιμοποιούμενη εικόνα για τα παρασκήνια σας, ή να την ορίσετε ως συμπαγές χρώμα.</p>
+<p class="p">You can change the image used for your backgrounds or set it to be a
+  solid color.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Παρασκήνιο</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Παρασκήνιο</span> για να ανοίξετε τον πίνακα.</p></li>

@@ -56,7 +56,7 @@
 <dt class="terms">Hardware Bluetooth no reconocido</dt>
 <dd class="terms"><p class="p">Es posible que su equipo no haya reconocido su adaptador Bluetooth. Esto puede deberse a que no tenga instalados los <span class="link"><a href="hardware-driver.html" title="¿Qué es un controlador?">controladores</a></span> para su adaptador. Algunos adaptadores Bluetooth no están soportados en Linux, y por tanto no le será posible conseguir los controladores apropiados para ellos. En tal caso, probablemente tendrá que conseguir otro adaptador Bluetooth diferente.</p></dd>
 <dt class="terms">El adaptador no está conectado</dt>
-<dd class="terms"><p class="p">Asegúrese de que su adaptador Bluetooth está encendido. Pulse en el icono de Bluetooth en la <span class="gui">barra de menú</span> y compruebe que no está <span class="link"><a href="bluetooth-turn-on-off.html" title="Encender o apagar el Bluetooth">desactivado</a></span>.</p></dd>
+<dd class="terms"><p class="p">Asegúrese de que su adaptador Bluetooth está encendido. Abar el panel de Bluetooth y compruebe que no está <span class="link"><a href="bluetooth-turn-on-off.html" title="Encender o apagar el Bluetooth">desactivado</a></span>.</p></dd>
 <dt class="terms">Conexión del dispositivo Bluetooth apagada</dt>
 <dd class="terms"><p class="p">Compruebe que el dispositivo al que está intentando conectarse tiene activado el Bluetooth y que <span class="link"><a href="bluetooth-visibility.html" title="¿Qué es la visibilidad de Bluetooth?">se puede descubrir o está visible</a></span>. Por ejemplo, si está intentando conectarse a un teléfono, compruebe que no está en modo avión.</p></dd>
 <dt class="terms">No existe un dispositivo Bluetooth en su equipo</dt>

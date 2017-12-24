@@ -51,18 +51,14 @@
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-wireless.html" title="Sieć bezprzewodowa">Sieć bezprzewodowa</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="net-wireless-connect.html" title="Connect to a wireless network">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="Connect to a hidden wireless network">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="Why does my wireless network keep disconnecting?">Disconnecting</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-connect.html" title="Łączenie z siecią bezprzewodową">Łączenie z siecią Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Łączenie z ukrytą siecią bezprzewodową">Ukryte sieci</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Why does my wireless network keep disconnecting?">Rozłączanie</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-security.html" title="Bezpieczeństwo w Internecie">Bezpieczeństwo w Internecie</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-antivirus.html" title="Do I need anti-virus software?">Antivirus software</a></span>,
+      <span class="link"><a href="net-antivirus.html" title="Czy potrzebuję oprogramowania antywirusowego?">Antivirus software</a></span>,
       <span class="link"><a href="net-firewall-on-off.html" title="Enable or block firewall access">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html" title="Commonly-used network ports">firewall ports</a></span>…
+      <span class="link"><a href="net-firewall-ports.html" title="Często używane porty sieciowe">firewall ports</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
@@ -74,49 +70,46 @@
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-email.html" title="Email &amp; email software">Email &amp; email software</a></div>
+<div class="links-grid-link"><a href="contacts.html" title="Kontakty">Kontakty</a></div>
+<div class="desc"><span class="desc">Dostęp do kontaktów.</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="net-email.html" title="Poczta e-mail i klienty poczty">Poczta e-mail i klienty poczty</a></div>
 <div class="desc"><span class="desc">
       <span class="link"><a href="net-default-email.html" title="Change which mail application is used to write emails">Default email apps</a></span>,
       <span class="link"><a href="net-email-virus.html" title="Do I need to scan my emails for viruses?">Should I scan for viruses?</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="contacts.html" title="Kontakty">Kontakty</a></div>
-<div class="desc"><span class="desc">Access your contacts.</span></div>
-</div>
-<div class="links-grid ">
-<div class="links-grid-link"><a href="net-general.html" title="Networking terms &amp; tips">Networking terms &amp; tips</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="net-findip.html" title="Find your IP address">Find your IP address</a></span>,
-      <span class="link"><a href="net-wireless-wepwpa.html" title="What do WEP and WPA mean?">WEP &amp; WPA security</a></span>,
-      <span class="link"><a href="net-macaddress.html" title="What is a MAC address?">MAC addresses</a></span>,
-      <span class="link"><a href="net-proxy.html" title="Define proxy settings">proxies</a></span>…
-    </span></div>
-</div>
-<div class="links-grid ">
 <div class="links-grid-link"><a href="net-problem.html" title="Problemy z siecią">Problemy z siecią</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-wireless-troubleshooting.html" title="Wireless network troubleshooter">Troubleshooting wireless connections</a></span>,
-      <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">finding your wifi network</a></span>…
+      <span class="link"><a href="net-wireless-troubleshooting.html" title="Rozwiązywanie problemów z siecią bezprzewodową">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html" title="Mojej sieci bezprzewodowej nie ma na liście">finding your wifi network</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-browser.html" title="Przeglądarki WWW">Przeglądarki WWW</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="net-default-browser.html" title="Change which web browser opens websites by default">Change the default browser</a></span>,
-      <span class="link"><a href="net-install-flash.html" title="Zainstaluj wtyczkę Flash">install Flash</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-default-browser.html" title="Change which web browser opens websites by default">Zmiana domyślnej przeglądarki</a></span>, <span class="link"><a href="net-install-flash.html" title="Zainstaluj wtyczkę Flash">instalacja wtyczki Flash</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-wired.html" title="Sieć przewodowa">Sieć przewodowa</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-wired-connect.html" title="Connect to a wired (Ethernet) network">Wired internet connections</a></span>,
+      <span class="link"><a href="net-wired-connect.html" title="Łączenie z siecią przewodową (Ethernet)">Wired internet connections</a></span>,
       <span class="link"><a href="net-fixed-ip-address.html" title="Create a connection with a fixed IP address">Fixed IP addresses</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
+<div class="links-grid-link"><a href="net-general.html" title="Terminy sieciowe i wskazówki">Terminy sieciowe i wskazówki</a></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="net-findip.html" title="Find your IP address">Find your IP address</a></span>,
+      <span class="link"><a href="net-wireless-wepwpa.html" title="Co znaczy „WEP” i „WPA”?">WEP &amp; WPA security</a></span>,
+      <span class="link"><a href="net-macaddress.html" title="Czym jest adres MAC?">MAC addresses</a></span>,
+      <span class="link"><a href="net-proxy.html" title="Określanie ustawień pośrednika">proxies</a></span>…
+    </span></div>
+</div>
+<div class="links-grid ">
 <div class="links-grid-link"><a href="sharing.html" title="Udostępnianie">Udostępnianie</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="sharing-desktop.html" title="Udostępnianie pulpitu">Udostępnianie pulpitu</a></span>, <span class="link"><a href="files-share.html" title="Share files by email">Wysyłanie plików pocztą</a></span>, <span class="link"><a href="sharing-media.html" title="Udostępnianie muzyki, zdjęć i filmów">Udostępnianie multimediów</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="sharing-desktop.html" title="Udostępnianie pulpitu">Udostępnianie pulpitu</a></span>, <span class="link"><a href="files-share.html" title="Wysyłanie plików pocztą">Wysyłanie plików pocztą</a></span>, <span class="link"><a href="sharing-media.html" title="Udostępnianie muzyki, zdjęć i filmów">Udostępnianie multimediów</a></span>…</span></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">

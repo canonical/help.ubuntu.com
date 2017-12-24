@@ -53,7 +53,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Fájlok küldése Bluetooth-eszközre</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Az összekapcsolt Bluetooth-eszközökre, például telefonokra és más számítógépekre fájlokat küldhet. Egyes eszköztípusok nem engedélyezik fájlok, vagy bizonyos típusú fájlok küldését. Fájlokat három módon küldhet: a menüsáv Bluetooth ikonjának használatával, a Bluetooth beállításai ablakból vagy közvetlenül a fájlkezelőből.</p>
+<p class="p">Az összekapcsolt Bluetooth-eszközökre, például telefonokra és más számítógépekre fájlokat küldhet. Egyes eszköztípusok nem engedélyezik fájlok, vagy bizonyos típusú fájlok küldését. Fájlokat a Bluetooth beállításai ablakból küldhet.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Bluetooth</span> szót.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Bluetooth</span> ikonra a panel megnyitásához.</p></li>

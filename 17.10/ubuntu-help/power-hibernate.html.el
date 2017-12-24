@@ -65,7 +65,7 @@
 </div></div>
 <p class="p">Μπορείτε να χρησιμοποιήσετε τη γραμμή εντολών ώστε να δείτε αν η αδρανοποίηση λειτουργεί στον υπολογιστή σας.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε το <span class="app">Τερματικό</span> πιέζοντας το συνδυασμό πλήκτρων <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>t</kbd></span></span> ή αναζητώντας τον όρο <span class="input">τερματικό</span> στο <span class="gui">Dash</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε το <span class="app">Τερματικό</span> αναζητώντας τον όρο <span class="input">τερματικό</span> στο <span class="gui">Δραστηριότητες</span>.</p></li>
 <li class="steps">
 <p class="p">Type <span class="cmd">sudo systemctl hibernate</span> into the terminal and press <span class="key"><kbd>Enter</kbd></span>.</p>
 <p class="p">Εισαγάγετε τον κωδικό πρόσβασης όταν σας ζητηθεί.</p>

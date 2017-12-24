@@ -51,8 +51,9 @@
 <div class="contents">
 <p class="p">Si vous ne voulez plus être connecté à un périphérique Bluetooth, vous pouvez supprimer la connexion. C'est utile si vous ne voulez plus utiliser une souris ou un casque micro, ou si vous ne voulez plus transférer de fichiers vers ou depuis un périphérique.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Cliquez sur l'icône Bluetooth dans la <span class="gui">barre de menu</span> et sélectionnez <span class="gui">Paramètres Bluetooth</span>.</p></li>
-<li class="steps"><p class="p">Cliquez sur <span class="gui">Paramètres Bluetooth</span> pour ouvrir le panneau.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
+      start typing <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Cliquez sur <span class="gui">Bluetooth</span> pour ouvrir le panneau.</p></li>
 <li class="steps"><p class="p">Sélectionnez le périphérique que vous voulez déconnecter dans la liste.</p></li>
 <li class="steps"><p class="p">Dans la boîte de dialogue, basculez l'interrupteur <span class="gui">Connexion</span> sur <span class="gui">Désactivé</span>, ou pour supprimer le périphérique de la liste, cliquez sur <span class="gui">Retirer de la liste</span>.</p></li>
 </ol></div></div></div>

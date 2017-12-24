@@ -91,7 +91,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware &amp; stuurprogramma's</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="hardware.html#problems" title="Veel voorkomende problemen">Hardware problemen</a></span>, <span class="link"><a href="printing.html" title="Afdrukken">printers</a></span>, <span class="link"><a href="power.html" title="Voeding &amp; accu">energie-instellingen</a></span>, <span class="link"><a href="color.html" title="Kleurbeheer">kleurbeheer</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disks.html" title="disks">schijven</a></span>...</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="hardware.html#problems" title="Veel voorkomende problemen">Hardware problemen</a></span>, <span class="link"><a href="printing.html" title="Afdrukken">printers</a></span>, <span class="link"><a href="power.html" title="Voeding &amp; accu">energie-instellingen</a></span>, <span class="link"><a href="color.html" title="Kleurbeheer">kleurbeheer</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Schijven &amp; opslag">schijven</a></span>...</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="a11y.html" title="Universele toegang">Universele toegang</a></div>

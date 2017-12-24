@@ -51,7 +51,15 @@
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Путешествие по Интернету</span></h1></div>
 <div class="region">
-<div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
+<div class="contents">
+<div class="media media-image"><div class="inner"><img src="gs-web-browser1-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Откройте <span class="gui">Обзор</span>, переместив указатель мыши в левый верхний угол, где находится надпись <span class="gui">Обзор</span>.</p></li>
+<li class="steps"><p class="p">Выберите значок веб-браузера <span class="app">Firefox</span> в панели с левой стороны экрана.</p></li>
+</ol></div></div></div>
+<div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents"><p class="p">Веб-браузер можно запустить <span class="link"><a href="gs-use-system-search.html" title="Использование системного поиска">просто напечатав</a></span> <span class="em">Firefox</span> в <span class="gui">режиме обзора</span>.</p></div></div></div></div>
+<div class="media media-image"><div class="inner"><img src="gs-web-browser2-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
 <li class="steps"><p class="p">Нажмите на адресную строку в верхней части окна браузера и введите адрес сайта, который вы хотите открыть.</p></li>
 <li class="steps">
 <p class="p">При вводе адреса веб-сайта используется поиск по истории и закладкам веб-браузера, поэтому вам не нужно запоминать полный адрес сайта.</p>
@@ -59,7 +67,8 @@
 </li>
 <li class="steps"><p class="p">Вы можете выбрать веб-сайт в списке с помощью клавиш со стрелками.</p></li>
 <li class="steps"><p class="p">После того, как вы выберете веб-сайт, нажмите <span class="key"><kbd>Enter</kbd></span>, чтобы его открыть.</p></li>
-</ol></div></div></div></div>
+</ol></div></div></div>
+</div>
 <div class="links nextlinks">
 <a class="nextlinks-prev" href="gs-get-online.html" title="Подключение к сети">Назад</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="Подключение к сетевым учётным записям">Вперёд</a>
 </div>

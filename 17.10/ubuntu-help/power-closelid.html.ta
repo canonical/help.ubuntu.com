@@ -72,11 +72,12 @@
   change the setting for that behavior.</p>
 <div class="note note-warning" title="எச்சரிக்கை"><div class="inner"><div class="region"><div class="contents"><p class="p">இந்த அமைவை மாற்றினால் கவனமாக இருக்கவும். சில மடிக்கணினிகள் மூடி மூடியபடி இயங்கினால் அதிக வெப்பமாகலாம், குறிப்பாக அவை முதுகுப்பை போன்ற அடைபட்ட இடத்தில் இருந்தால் இதற்கு வாய்ப்பு அதிகம்.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
-      start typing <span class="gui">Tweaks</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span>
+      overview and start typing <span class="gui">Tweaks</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Tweaks</span> to open the application.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Power</span> tab.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Don’t suspend on lid close</span> to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Switch <span class="gui">Suspend when laptop lid is closed</span> to
+      <span class="gui">OFF</span>.</p></li>
 <li class="steps"><p class="p">Close the <span class="gui">Tweaks</span> window.</p></li>
 </ol></div></div></div>
 </div></div>

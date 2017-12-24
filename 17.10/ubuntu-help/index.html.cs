@@ -59,7 +59,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net.html" title="Sítě, www a e-mail">Sítě, www a e-mail</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html" title="Bezdrátové sítě">Bezdrátové</a></span>, <span class="link"><a href="net-wired.html" title="Drátová síť">drátové</a></span>, <span class="link"><a href="net-problem.html" title="Problémy se sítí">problémy s připojením</a></span>, <span class="link"><a href="net-browser.html" title="Prohlížeče WWW">prohlížení www</a></span>, <span class="link"><a href="net-email.html" title="E-mail a poštovní software">poštovní účty</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html" title="Bezdrátové sítě">Bezdrátové</a></span>, <span class="link"><a href="net-wired.html" title="Drátová síť">drátové</a></span>, <span class="link"><a href="net-problem.html" title="Problémy se sítí">problémy s připojením</a></span>, <span class="link"><a href="net-browser.html" title="Webové prohlížeče">prohlížení www</a></span>, <span class="link"><a href="net-email.html" title="E-mail a poštovní software">poštovní účty</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="media.html" title="Zvuk, video a obrázky">Zvuk, video a obrázky</a></div>

@@ -67,7 +67,7 @@
 <li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Vyladění</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Vyladění</span> otevřete aplikaci.</p></li>
 <li class="steps"><p class="p">Klikněte na kartu <span class="gui">Napájení</span>.</p></li>
-<li class="steps"><p class="p">Přepněte vypínač <span class="gui">Neuspávat při zavření víka</span> na <span class="gui">❙</span> (zapnuto).</p></li>
+<li class="steps"><p class="p">Přepněte vypínač <span class="gui">Při zavření víka uspat do paměti</span> na <span class="gui">❙</span> (zapnuto).</p></li>
 <li class="steps"><p class="p">Zavřete okno <span class="gui">Vyladění</span>.</p></li>
 </ol></div></div></div>
 </div></div>

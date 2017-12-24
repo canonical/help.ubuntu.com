@@ -51,7 +51,15 @@
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">वेब ब्राउज़ करें</span></h1></div>
 <div class="region">
-<div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
+<div class="contents">
+<div class="media media-image"><div class="inner"><img src="gs-web-browser1-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">अपने मॉउस पॉइंटर को <span class="gui">गतिविधि</span> कोने में स्क्रीन के शीर्ष पर <span class="gui">गतिविधि सारांश</span> ले जाएँ.</p></li>
+<li class="steps"><p class="p"><span class="app">फ़ायरफ़ॉक्स</span> ब्राउज़र चिह्न को पट्टी से चुनें स्क्रीन की बायीं ओर.</p></li>
+</ol></div></div></div>
+<div class="note" title="टिप्पणी"><div class="inner"><div class="region"><div class="contents"><p class="p">वैकल्पिक रूप से, आप ब्राउज़र को <span class="link"><a href="gs-use-system-search.html" title="तंत्र खोज का उपयोग करें">लॉन्च कर सकते हैं महज</a></span> <span class="app">फ़ायरफ़ॉक्स</span> को <span class="gui">गतिविधि सारांश</span> में टाइप करके.</p></div></div></div></div>
+<div class="media media-image"><div class="inner"><img src="gs-web-browser2-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
 <li class="steps"><p class="p">ब्राउज़र विंडो के शीर्ष पर पता पट्टी को क्लिक करें और वेबसाइट में टाइप करना आरंभ करें जिसे आप देखना चाहते हैं.</p></li>
 <li class="steps">
 <p class="p">किसी वेबसाइट में टाइप करना ब्राउज़र इतिहास और पुस्तचिह्न में इसे खोजना होता है ताकि आप सटीक पता याद रखने की जरूरत न रहे.</p>
@@ -59,7 +67,8 @@
 </li>
 <li class="steps"><p class="p">लटकती सूची से, तीर कुँजी का उपयोग करने वाली वेबसाइट को आप आसानी से चुन सकते हैं.</p></li>
 <li class="steps"><p class="p">वेबसाइट चुने जाने के बाद, <span class="key"><kbd>Enter</kbd></span> को इसे देखने के लिए दबाएँ.</p></li>
-</ol></div></div></div></div>
+</ol></div></div></div>
+</div>
 <div class="links nextlinks">
 <a class="nextlinks-prev" href="gs-get-online.html" title="ऑनलाइन होएँ">पिछला</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="ऑनलाइन खातों से कनेक्ट करें">अगला</a>
 </div>

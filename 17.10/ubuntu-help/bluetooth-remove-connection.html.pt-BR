@@ -51,8 +51,8 @@
 <div class="contents">
 <p class="p">Se você não deseja mais estar conectado a um dispositivo Bluetooth, você pode remover a conexão. Isso é útil se você não quiser mais usar um dispositivo como um mouse ou um fone de ouvido, ou se não quiser mais transferir arquivos de ou para um dispositivo.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Clique no ícone Bluetooth na <span class="gui">barra superior</span> e selecione <span class="gui">Configurações de Bluetooth</span>.</p></li>
-<li class="steps"><p class="p">Selecione <span class="gui">Configurações de Bluetooth</span> para abrir o painel.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Clique em <span class="gui">Bluetooth</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Selecione o dispositivo, da lista, ao qual você deseja se conectar.</p></li>
 <li class="steps"><p class="p">Na caixa de diálogo do dispositivo, alterne <span class="gui">Conexão</span> para <span class="key"><kbd>○</kbd></span>, ou remova o dispositivo da lista <span class="gui">Dispositivos</span>, clique <span class="gui">Remover dispositivo</span>.</p></li>
 </ol></div></div></div>

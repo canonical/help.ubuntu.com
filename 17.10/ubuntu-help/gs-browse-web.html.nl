@@ -51,7 +51,15 @@
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Surfen op het web</span></h1></div>
 <div class="region">
-<div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
+<div class="contents">
+<div class="media media-image"><div class="inner"><img src="gs-web-browser1-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Breng de muisaanwijzer naar de <span class="gui">Activiteiten</span>-hoek linksboven van het scherm om het <span class="gui">Activiteitenoverzicht</span> te tonen.</p></li>
+<li class="steps"><p class="p">Selecteer het pictogram van <span class="app">Firefox</span> in de balk aan de linkerkant van het scherm.</p></li>
+</ol></div></div></div>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">U kunt de browser ook starten door <span class="em">Firefox</span> <span class="link"><a href="gs-use-system-search.html" title="Gebruik de systeemzoekfunctie">gewoon in te typen</a></span> in het <span class="gui">Activiteitenoverzicht</span>.</p></div></div></div></div>
+<div class="media media-image"><div class="inner"><img src="gs-web-browser2-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
 <li class="steps"><p class="p">Klik op de adresbalk bovenaan het browservenster en begin met het intypen van de website die u wilt bezoeken.</p></li>
 <li class="steps">
 <p class="p">Bij het intypen van de website wordt het zoeken ernaar gestart in de geschiedenis en bladwijzers van de browser; u hoeft dus niet het exacte adres te onthouden.</p>
@@ -59,7 +67,8 @@
 </li>
 <li class="steps"><p class="p">Met de pijltjestoetsen kunt u snel een website uit de keuzelijst selecteren.</p></li>
 <li class="steps"><p class="p">Druk, nadat u een website geselecteerd heeft, op <span class="key"><kbd>Enter</kbd></span> om er naartoe te gaan.</p></li>
-</ol></div></div></div></div>
+</ol></div></div></div>
+</div>
 <div class="links nextlinks">
 <a class="nextlinks-prev" href="gs-get-online.html" title="Online gaan">Vorige</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="Verbinding maken met online-accounts">Volgende</a>
 </div>

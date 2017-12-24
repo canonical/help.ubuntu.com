@@ -53,11 +53,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Αποστολή αρχείων σε μια συσκευή Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can send files to connected Bluetooth devices, such as some mobile
-    phones or other computers. Some types of devices don’t allow the transfer
-    of files, or specific types of files. You can send files in one of three
-    ways: using the Bluetooth icon in the menu bar, from the Bluetooth settings
-    window, or directly from the file manager.</p>
+<p class="p">Μπορείτε να στείλετε αρχεία σε συνδεμένες συσκευές Bluetooth, όπως κινητά τηλέφωνα ή υπολογιστές. Μερικοί τύποι συσκευών δεν επιτρέπουν τη μεταφορά αρχείων, ή συγκεκριμένων τύπων αρχείων. Μπορείτε να στείλετε αρχεία χρησιμοποιώντας το παράθυρο ρυθμίσεων του Bluetooth.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Bluetooth</span> για να ανοίξετε τον πίνακα.</p></li>

@@ -50,7 +50,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Gebruik de <span class="app">Bestanden</span> bestandsbeheerder om door bestanden op uw computer te bladeren en ze te ordenen. U kunt het ook gebruiken om bestanden op opslagapparaten (zoals externe harde schijven) te beheren, op <span class="link"><a href="nautilus-connect.html" title="Door bestanden op een server of netwerk bladeren">bestandsservers</a></span>, en op het netwerk gedeelde mappen.</p>
-<p class="p">Klik op <span class="app">Bestanden</span> in het <span class="gui">Activiteiten</span>-overzicht om het bestandsbeheer te starten. U kunt ook naar bestanden en mappen zoeken via het overzicht, op dezelfde manier zoals u <span class="link"><a href="unity-dash-intro.html#dash-home" title="unity-dash-intro#dash-home">naar toepassingen zoekt</a></span>.</p>
+<p class="p">Klik op <span class="app">Bestanden</span> in het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht om het bestandsbeheer te starten. U kunt ook naar bestanden en mappen zoeken via het overzicht, op dezelfde manier zoals u <span class="link"><a href="shell-apps-open.html" title="Toepassingen starten">naar toepassingen zoekt</a></span>.</p>
 </div>
 <div id="files-view-folder-contents" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">De inhoud van mappen verkennen</span></h2></div>

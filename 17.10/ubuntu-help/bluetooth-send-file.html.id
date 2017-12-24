@@ -53,11 +53,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Kirim berkas ke perangkat Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can send files to connected Bluetooth devices, such as some mobile
-    phones or other computers. Some types of devices don’t allow the transfer
-    of files, or specific types of files. You can send files in one of three
-    ways: using the Bluetooth icon in the menu bar, from the Bluetooth settings
-    window, or directly from the file manager.</p>
+<p class="p">Anda dapat mengirim berkas ke perangkat Bluetooth terhubung, seperti beberapa ponsel atau komputer lainnya. Beberapa jenis perangkat tidak memungkinkan transfer berkas, atau tipe berkas tertentu. Anda dapat mengirim berkas  menggunakan jendela pengaturan Bluetooth.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Bluetooth</span> untuk membuka panel.</p></li>

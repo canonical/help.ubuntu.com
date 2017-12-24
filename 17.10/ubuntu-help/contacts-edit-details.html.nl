@@ -55,7 +55,7 @@
 <li class="steps"><p class="p">Klik <span class="gui">Bewerken</span> rechtsboven in de hoek van <span class="app">Contactpersonen</span>.</p></li>
 <li class="steps">
 <p class="p">Bewerk de contactpersoon-kenmerken</p>
-<p class="p">Om een <span class="gui">kenmerk</span> toe te voegen zoals een nieuw telefoonnummer of e-mailadres klikt u op <span class="gui">Nieuw kenmerk</span> en kies het veld dat u wil toevoegen.</p>
+<p class="p">Om een <span class="em">kenmerk</span> toe te voegen zoals een nieuw telefoonnummer of e-mailadres klikt u op <span class="gui">Nieuw kenmerk</span> en kies het veld dat u wil toevoegen.</p>
 </li>
 <li class="steps"><p class="p">Klik op <span class="gui">Gereed</span> om het bewerken van de contactpersoon te beëindigen.</p></li>
 </ol></div></div></div>

@@ -84,7 +84,7 @@
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-mail.svg" class="media media-inline" alt="Mail key symbol"></span></span> nebo <span class="key"><kbd>Mail</kbd></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Spustit prohlížeč WWW</p></td>
+<td style="border-top-style: solid;"><p class="p">Spustit webový prohlížeč</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-world.svg" class="media media-inline" alt="WWW key symbol"></span></span> nebo <span class="media"><span class="media media-image"><img src="figures/keyboard-key-home.svg" class="media media-inline" alt="WWW key symbol"></span></span> nebo <span class="key"><kbd>WWW</kbd></span></p></td>
 </tr>
 <tr>

@@ -55,7 +55,7 @@
 <div class="media media-image if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-top-bar.png" width="600" class="media media-block" alt="Górny pasek powłoki GNOME"></div></div>
 <p class="p">The top bar provides access to your windows and applications, your
   calendar and appointments, and
-  <span class="link"><a href="status-icons.html" title="What do the icons in the top bar mean?">system properties</a></span> like sound, networking,
+  <span class="link"><a href="status-icons.html" title="Co oznaczają ikony na górnym pasku?">system properties</a></span> like sound, networking,
   and power. In the status menu in the top bar, you can change the volume or
   screen brightness, edit your <span class="gui">Wi-Fi</span> connection details, check your
   battery status, log out or switch users, and turn off your computer.</p>
@@ -71,11 +71,11 @@
 <div id="activities" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title"><span class="gui">Activities</span> overview</span></h2></div>
 <div class="region"><div class="contents">
-<div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-activities.png" class="media media-block" alt="Activities button"></div></div>
+<div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-activities.png" class="media media-block" alt="Przycisk Podgląd"></div></div>
 <p class="p">To access your windows and applications,
   click the <span class="gui">Activities</span> button, or just move your mouse pointer to
   the top-left hot corner. You can also press the
-  <span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span> key on your keyboard. You can
+  <span class="key"><a href="keyboard-key-super.html" title="Czym jest klawisz Super?"><kbd>Super</kbd></a></span> key on your keyboard. You can
   see your windows and applications in the overview. You can also just start
   typing to search your applications, files, folders, and the web.</p>
 <div class="media media-image floatstart if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-dash.png" height="300" class="media media-block" alt="Pasek ulubionych"></div></div>
@@ -125,7 +125,7 @@
   time settings and open your full <span class="app">Evolution</span> calendar directly from
   the menu.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
-<li class="list"><p class="p"><span class="link"><a href="clock-calendar.html" title="Calendar appointments">Więcej informacji o kalendarzu i spotkaniach.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="clock-calendar.html" title="Spotkania w kalendarzu">Więcej informacji o kalendarzu i spotkaniach.</a></span></p></li>
 <li class="list"><p class="p"><span class="link"><a href="shell-notifications.html" title="Powiadomienia i obszar powiadamiania">Więcej informacji o powiadomieniach i obszarze powiadamiania.</a></span></p></li>
 </ul></div></div></div>
 </div></div>
@@ -164,7 +164,7 @@
 <p class="p">GNOME features a different approach to switching windows than a
     permanently visible window list found in other desktop environments. This
     lets you focus on the task at hand without distractions.</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-windows-switching.html" title="Switch between windows">Więcej informacji o przełączaniu między oknami.</a></span></p></li></ul></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-windows-switching.html" title="Przełączanie między oknami">Więcej informacji o przełączaniu między oknami.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -172,10 +172,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="index.html" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li>
 <li class="links ">
-<a href="shell-overview.html" title="Your desktop">Your desktop</a><span class="desc"> — <span class="link"><a href="clock-calendar.html" title="Calendar appointments">Kalendarz</a></span>, <span class="link"><a href="shell-notifications.html" title="Powiadomienia i obszar powiadamiania">powiadomienia</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Przydatne skróty klawiszowe">skróty klawiszowe</a></span>, <span class="link"><a href="shell-windows.html" title="Okna i obszary robocze">okna i obszary robocze</a></span>…</span>
+<a href="shell-overview.html" title="Pulpit użytkownika">Pulpit użytkownika</a><span class="desc"> — <span class="link"><a href="clock-calendar.html" title="Spotkania w kalendarzu">Kalendarz</a></span>, <span class="link"><a href="shell-notifications.html" title="Powiadomienia i obszar powiadamiania">powiadomienia</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Przydatne skróty klawiszowe">skróty klawiszowe</a></span>, <span class="link"><a href="shell-windows.html" title="Okna i obszary robocze">okna i obszary robocze</a></span>…</span>
 </li>
+<li class="links "><a href="index.html" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li>
 </ul></div>
 </div></div></div>
 </div>

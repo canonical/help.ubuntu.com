@@ -65,7 +65,7 @@
 </div></div>
 <p class="p">Za preizkus, če mirovanje deluje na vašem računalniku, lahko uporabite ukazno vrstico.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Odprite <span class="app">Terminal</span> s pritiskom <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>t</kbd></span></span> ali iskanjem <span class="input">terminal</span> v <span class="gui">Pregledni plošči</span>.</p></li>
+<li class="steps"><p class="p">Odprite <span class="app">Terminal</span> z iskanjem <span class="input">terminal</span> v <span class="gui">Pregledu dejavnosti</span>.</p></li>
 <li class="steps">
 <p class="p">Type <span class="cmd">sudo systemctl hibernate</span> into the terminal and press <span class="key"><kbd>Enter</kbd></span>.</p>
 <p class="p">Ob pozivu vnesite svoje geslo.</p>

@@ -54,7 +54,7 @@
   internet connection you’ve made with another interface, such as to a wired
   network or over the cellular network.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open het <span class="link"><a href="unity-menubar-intro.html" title="unity-menubar-intro">Systeemmenu</a></span> aan de rechterzijde van de menubalk.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#yourname" title="U en uw computer">Systeemmenu</a></span> aan de rechterzijde van de menubalk.</p></li>
 <li class="steps"><p class="p">Selecteer <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span> Wifi niet verbonden</span> of de naam van het draadloze netwerk waarmee u al verbonden bent. Het wifi-gedeelte van het menu zal nu uitklappen.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Wifi-instellingen</span>.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Use as Hotspot…</span> button.</p></li>

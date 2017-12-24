@@ -51,7 +51,15 @@
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Web を閲覧する</span></h1></div>
 <div class="region">
-<div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
+<div class="contents">
+<div class="media media-image"><div class="inner"><img src="gs-web-browser1-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">マウスポインターを画面左上隅の<span class="gui">アクティビティ</span>まで移動させ、<span class="gui">アクティビティ画面</span>を開きます。</p></li>
+<li class="steps"><p class="p">画面左端のバーから、<span class="app">Firefox</span> のアイコンを選択します。</p></li>
+</ol></div></div></div>
+<div class="note" title="注記"><div class="inner"><div class="region"><div class="contents"><p class="p">あるいは、<span class="gui">アクティビティ画面</span>で <span class="em">Firefox</span> と<span class="link"><a href="gs-use-system-search.html" title="システムの検索機能を使用する">入力</a></span>してブラウザーを起動することもできます。</p></div></div></div></div>
+<div class="media media-image"><div class="inner"><img src="gs-web-browser2-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
 <li class="steps"><p class="p">ブラウザーウィンドウ上部のアドレスバーを選択し、アクセスしたい Web サイトを入力します。</p></li>
 <li class="steps">
 <p class="p">Web サイトを入力すると、閲覧履歴やブックマークから該当するサイトが検索されます。そのため、サイトの正確なアドレスを覚えておく必要はありません。</p>
@@ -59,7 +67,8 @@
 </li>
 <li class="steps"><p class="p">ドロップダウンリストから、矢印キーを使って簡単にサイトを選択できます。</p></li>
 <li class="steps"><p class="p">サイトを選択して <span class="key"><kbd>Enter</kbd></span> を押すと、そのサイトにアクセスします。</p></li>
-</ol></div></div></div></div>
+</ol></div></div></div>
+</div>
 <div class="links nextlinks">
 <a class="nextlinks-prev" href="gs-get-online.html" title="ネットワークに接続する">前へ</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="オンラインアカウントに接続する">次へ</a>
 </div>

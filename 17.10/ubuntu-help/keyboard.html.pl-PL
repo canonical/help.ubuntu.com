@@ -63,20 +63,20 @@
 <div class="title title-links"><h2><span class="title">Ułatwienia dostępu</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard-nav.html" title="Keyboard navigation">Keyboard navigation</a><span class="desc"> — Use applications and the desktop without a mouse.</span>
-</li>
-<li class="links ">
-<a href="keyboard-osk.html" title="Use an on-screen keyboard">Use an on-screen keyboard</a><span class="desc"> — Use an on-screen keyboard to enter text by clicking buttons with the
-    mouse or a touchscreen.</span>
-</li>
-<li class="links ">
-<a href="keyboard-key-menu.html" title="What is the Menu key?">What is the <span class="key"><kbd>Menu</kbd></span> key?</a><span class="desc"> — The <span class="key"><kbd>Menu</kbd></span> key launches a context menu with the keyboard
+<a href="keyboard-key-menu.html" title="Czym jest klawisz Menu?">Czym jest klawisz <span class="key"><kbd>Menu</kbd></span>?</a><span class="desc"> — The <span class="key"><kbd>Menu</kbd></span> key launches a context menu with the keyboard
     rather than with a right-click.</span>
 </li>
 <li class="links ">
-<a href="keyboard-key-super.html" title="What is the Super key?">What is the <span class="key"><kbd>Super</kbd></span> key?</a><span class="desc"> — The <span class="key"><kbd>Super</kbd></span> key opens the <span class="gui">Activities</span> overview.
+<a href="keyboard-key-super.html" title="Czym jest klawisz Super?">Czym jest klawisz <span class="key"><kbd>Super</kbd></span>?</a><span class="desc"> — The <span class="key"><kbd>Super</kbd></span> key opens the <span class="gui">Activities</span> overview.
     You can usually find it next to the <span class="key"><kbd>Alt</kbd></span> key on your
     keyboard.</span>
+</li>
+<li class="links ">
+<a href="keyboard-nav.html" title="Keyboard navigation">Keyboard navigation</a><span class="desc"> — Use applications and the desktop without a mouse.</span>
+</li>
+<li class="links ">
+<a href="keyboard-osk.html" title="Klawiatura ekranowa">Klawiatura ekranowa</a><span class="desc"> — Use an on-screen keyboard to enter text by clicking buttons with the
+    mouse or a touchscreen.</span>
 </li>
 <li class="links ">
 <a href="a11y-bouncekeys.html" title="Włączenie odskakujących klawiszy">Włączenie odskakujących klawiszy</a><span class="desc"> — Ignorowanie szybko powtórzonych naciśnięć tego samego klawisza.</span>
@@ -107,7 +107,7 @@
 <a href="shell-keyboard-shortcuts.html" title="Przydatne skróty klawiszowe">Przydatne skróty klawiszowe</a><span class="desc"> — Get around the desktop using the keyboard.</span>
 </li>
 <li class="links ">
-<a href="keyboard-shortcuts-set.html" title="Set keyboard shortcuts">Set keyboard shortcuts</a><span class="desc"> — Define or change keyboard shortcuts in <span class="gui">Keyboard</span>
+<a href="keyboard-shortcuts-set.html" title="Ustawianie skrótów klawiszowych">Ustawianie skrótów klawiszowych</a><span class="desc"> — Define or change keyboard shortcuts in <span class="gui">Keyboard</span>
     settings.</span>
 </li>
 </ul></div>

@@ -49,7 +49,8 @@
 <div class="hgroup"><h1 class="title"><span class="title">Изменение фонов рабочего стола и экрана блокировки</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Можно изменить изображение, используемое в качестве фона рабочего стола, а также сделать фон однотонным.</p>
+<p class="p">You can change the image used for your backgrounds or set it to be a
+  solid color.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Background</span>.</p></li>

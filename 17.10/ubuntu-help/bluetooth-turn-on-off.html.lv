@@ -49,10 +49,20 @@
 <div class="hgroup"><h1 class="title"><span class="title">Ieslēgt vai izslēgt Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Jūs varat ieslēgt Bluetooth, lai savienotos ar citām Bluetooth ierīcēm, vai to izslēgt, lai taupītu enerģiju. Lai ieslēgtu Bluetooth, spiediet uz Bluetooth ikonas izvēlnes joslā un pārslēdziet <span class="gui">Bluetooth</span> uz <span class="gui">|</span>.</p>
-<p class="p">Daudziem klēpjdatoriem ir aparatūras slēdzis vai taustiņu kombinācija, lai ieslēgtu un izslēgtu Bluetooth. Ja Bluetooth aparatūra ir izslēgta, jūs neredzēsiet Bluetooth ikonu izvēļņu joslā. Lūkojieties pēc slēdža uz jūsu datora vai taustiņa jūsu tastatūrā. Tastatūras taustiņš parasti tiek izmantots kombinācijā ar <span class="key"><kbd class="key-Fn">Fn</kbd></span> taustiņu.</p>
-<p class="p">Lai izslēgtu Bluetooth, klikšķiniet uz Bluetooth ikonas un pārslēdziet <span class="gui">Bluetooth</span> slēdzi uz <span class="gui">◯</span>.</p>
-<div class="note" title="Piezīmes"><div class="inner"><div class="region"><div class="contents"><p class="p">Jūsu dators ir <span class="link"><a href="bluetooth-visibility.html" title="Kas ir Bluetooth redzamība?">redzams</a></span>, ja Bluetooth izvēlnē slēdzis <span class="gui">Redzams</span> ir pozīcijā <span class="gui">|</span>.</p></div></div></div></div>
+<p class="p">Jūs varat ieslēgt Bluetooth, lai savienotos ar citām Bluetooth ierīcēm, vai to izslēgt, lai taupītu enerģiju Lai ieslēgtu Bluetooth:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="gui">Bluetooth</span>, lai atvērtu paneli.</p></li>
+<li class="steps"><p class="p">Iestatiet augšup esošo slēdzi uz <span class="gui">|</span>.</p></li>
+</ol></div></div></div>
+<p class="p">Daudziem klēpjdatoriem ir aparatūras slēdzis vai taustiņu kombinācija, lai ieslēgtu un izslēgtu Bluetooth. Meklējiet slēdzi uz sava datora vai taustiņa savā tastatūrā. Tastatūras taustiņš parasti tiek izmantots kombinācijā ar <span class="key"><kbd class="key-Fn">Fn</kbd></span> taustiņu.</p>
+<p class="p">Lai izslēgtu Bluetooth:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#yourname" title="Jūs un jūsu dators">sistēmas izvēlni</a></span> augšējās joslas labajā pusē.</p></li>
+<li class="steps"><p class="p">Izvēlieties <span class="gui"><span class="media"><span class="media media-image"><img src="figures/bluetooth-active-symbolic.svg" class="media media-inline" alt=""></span></span> Netiek izmantots</span>. Bluetooth izvēlnes sadaļa izvērsīsies.</p></li>
+<li class="steps"><p class="p">Izvēlieties <span class="gui">Izslēgt</span>.</p></li>
+</ol></div></div></div>
+<div class="note" title="Piezīmes"><div class="inner"><div class="region"><div class="contents"><p class="p">Jūsu dators ir <span class="link"><a href="bluetooth-visibility.html" title="Kas ir Bluetooth redzamība?">redzams</a></span> kamēr ir atvērts <span class="gui">Bluetooth</span> panelis.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

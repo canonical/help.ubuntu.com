@@ -54,9 +54,8 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Change the display name of your computer:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Sharing</span>.</p></li>
-<li class="steps"><p class="p">Kliknij ikonę <span class="gui">Udostępnianie</span>, aby otworzyć panel.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Udostępnianie</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Udostępnianie</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">Edit the text below <span class="gui">Computer Name</span> to change the name your
       computer displays on the network.</p></li>
 </ol></div>

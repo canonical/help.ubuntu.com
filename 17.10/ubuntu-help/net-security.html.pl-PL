@@ -50,10 +50,10 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="linkdiv "><a class="linkdiv" href="net-firewall-on-off.html" title="Enable or block firewall access"><span class="title">Enable or block firewall access</span><span class="linkdiv-dash"> — </span><span class="desc">You can control which programs can access the network. This helps to keep your computer secure.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-firewall-ports.html" title="Commonly-used network ports"><span class="title">Commonly-used network ports</span><span class="linkdiv-dash"> — </span><span class="desc">You need to specify the right network port to enable/disable network
-    access for a program with your firewall.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-antivirus.html" title="Do I need anti-virus software?"><span class="title">Do I need anti-virus software?</span><span class="linkdiv-dash"> — </span><span class="desc">There are few Linux viruses, so you probably don’t need anti-virus
+<div class="linkdiv "><a class="linkdiv" href="net-antivirus.html" title="Czy potrzebuję oprogramowania antywirusowego?"><span class="title">Czy potrzebuję oprogramowania antywirusowego?</span><span class="linkdiv-dash"> — </span><span class="desc">There are few Linux viruses, so you probably don’t need anti-virus
     software.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-firewall-ports.html" title="Często używane porty sieciowe"><span class="title">Często używane porty sieciowe</span><span class="linkdiv-dash"> — </span><span class="desc">You need to specify the right network port to enable/disable network
+    access for a program with your firewall.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-email-virus.html" title="Do I need to scan my emails for viruses?"><span class="title">Do I need to scan my emails for viruses?</span><span class="linkdiv-dash"> — </span><span class="desc">Viruses are unlikely to infect your computer, but could infect the
     computers of people you email.</span></a></div>
 </div></div></div></div>
@@ -62,13 +62,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless.html" title="Sieć bezprzewodowa">Wireless</a></span>,
-      <span class="link"><a href="net-wired.html" title="Sieć przewodowa">wired</a></span>,
-      <span class="link"><a href="net-problem.html" title="Problemy z siecią">connection problems</a></span>,
-      <span class="link"><a href="net-browser.html" title="Przeglądarki WWW">web browsing</a></span>,
-      <span class="link"><a href="net-email.html" title="Email &amp; email software">email accounts</a></span>…
-    </span>
+<a href="net.html" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Sieć bezprzewodowa">Sieci bezprzewodowe</a></span>, <span class="link"><a href="net-wired.html" title="Sieć przewodowa">przewodowe</a></span>, <span class="link"><a href="net-problem.html" title="Problemy z siecią">problemy z połączeniem</a></span>, <span class="link"><a href="net-browser.html" title="Przeglądarki WWW">przeglądanie Internetu</a></span>, <span class="link"><a href="net-email.html" title="Poczta e-mail i klienty poczty">konta e-mail</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

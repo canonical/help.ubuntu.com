@@ -51,7 +51,15 @@
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Navegueu per la web</span></h1></div>
 <div class="region">
-<div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
+<div class="contents">
+<div class="media media-image"><div class="inner"><img src="gs-web-browser1-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Moveu el ratolí fins a la cantonada d'<span class="gui">Activitats</span> situat a la part superior esquerra de la pantalla per visualitzar la <span class="gui">Vista general de les activitats</span>.</p></li>
+<li class="steps"><p class="p">A la barra situada a part esquerra de la pantalla, feu clic a la icona del navegador d'Internet <span class="app">Firefox</span>.</p></li>
+</ol></div></div></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">També podeu executar el navegador <span class="link"><a href="gs-use-system-search.html" title="Utilitzeu el cercador del sistema">simplement teclejant</a></span> <span class="em">Firefox</span> a la <span class="gui">Vista general de les activitats</span>.</p></div></div></div></div>
+<div class="media media-image"><div class="inner"><img src="gs-web-browser2-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
 <li class="steps"><p class="p">Feu clic a la barra d'adreces situada a la part superior de la finestra del navegador i comenceu a escriure l'adreça del lloc web que voleu visitar.</p></li>
 <li class="steps">
 <p class="p">Des del moment que comenceu a escriure l'adreça d'un lloc web, el navegador el comença a cercar a l'historial i a les adreces d'interès, d'aquesta manera no cal que recordeu quina és l'adreça exacta.</p>
@@ -59,7 +67,8 @@
 </li>
 <li class="steps"><p class="p">A la llista desplegable podreu seleccionar ràpidament un lloc web mitjançant les tecles de desplaçament.</p></li>
 <li class="steps"><p class="p">Un cop seleccionada, premeu la tecla de <span class="key"><kbd>Retorn</kbd></span> per visitar-la.</p></li>
-</ol></div></div></div></div>
+</ol></div></div></div>
+</div>
 <div class="links nextlinks">
 <a class="nextlinks-prev" href="gs-get-online.html" title="Connecteu-vos">Anterior</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="Connecteu-vos als comptes en línia">Següent</a>
 </div>

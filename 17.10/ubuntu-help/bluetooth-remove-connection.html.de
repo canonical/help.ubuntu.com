@@ -51,8 +51,8 @@
 <div class="contents">
 <p class="p">Falls Sie sich nicht mehr mit einem Bluetooth-Gerät verbinden wollen, können Sie die Verbindung entfernen. Dies ist nützlich, wenn Sie ein Gerät wie eine Maus oder einen Kopfhörer nicht mehr verwenden oder keine Dateien mehr von einem oder zu einem Gerät übertragen wollen.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Klicken Sie auf das Bluetooth-Symbol in der <span class="gui">Menüleiste</span> und wählen Sie <span class="gui">Bluetooth-Einstellungen</span>.</p></li>
-<li class="steps"><p class="p">Wählen Sie <span class="gui">Bluetooth-Einstellungen</span>, um das Panel zu öffnen.</p></li>
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Bluetooth</span> ein.</p></li>
+<li class="steps"><p class="p">Klicken Sie auf <span class="gui">Bluetooth</span>, um das Panel zu öffnen.</p></li>
 <li class="steps"><p class="p">Wählen Sie das zu trennende Gerät aus der Liste aus.</p></li>
 <li class="steps"><p class="p">Stellen Sie <span class="gui">Verbindung</span> im Dialogfeld auf <span class="gui">AUS</span> oder klicken Sie auf <span class="gui">Gerät entfernen</span>, um es aus der <span class="gui">Geräte</span>-Liste zu entfernen.</p></li>
 </ol></div></div></div>

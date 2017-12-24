@@ -51,7 +51,15 @@
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Surfa på nätet</span></h1></div>
 <div class="region">
-<div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
+<div class="contents">
+<div class="media media-image"><div class="inner"><img src="gs-web-browser1-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Flytta din musmarkör till <span class="gui">Aktivitetshörnet</span> längst upp till vänster på skärmen för att visa <span class="gui">Aktivitetsöversikt</span>.</p></li>
+<li class="steps"><p class="p">Välj webbläsarikonen <span class="app">Firefox</span> i raden till vänster på skärmen.</p></li>
+</ol></div></div></div>
+<div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">Alternativt kan du starta webbläsaren genom att <span class="link"><a href="gs-use-system-search.html" title="Använd systemsökning">bara skriva</a></span> <span class="em">Firefox</span> i <span class="gui">Aktivitetsöversikt</span>.</p></div></div></div></div>
+<div class="media media-image"><div class="inner"><img src="gs-web-browser2-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
 <li class="steps"><p class="p">Klicka på adressfältet längst upp i webbläsarens fönster och skriv in adressen till den webbplats du vill besöka.</p></li>
 <li class="steps">
 <p class="p">När en webbplats skrivs in börjar webbläsaren söka efter den bland historik och bokmärken, så du behöver inte komma ihåg den exakta adressen.</p>
@@ -59,7 +67,8 @@
 </li>
 <li class="steps"><p class="p">Från rullgardinslistan kan du snabbt välja en webbplats genom att använda piltangenterna.</p></li>
 <li class="steps"><p class="p">Efter att du har valt en webbplats, tryck på <span class="key"><kbd>Retur</kbd></span> för att besöka sidan.</p></li>
-</ol></div></div></div></div>
+</ol></div></div></div>
+</div>
 <div class="links nextlinks">
 <a class="nextlinks-prev" href="gs-get-online.html" title="Ansluta till nätet">Föregående</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="Ansluta till nätkonton">Nästa</a>
 </div>

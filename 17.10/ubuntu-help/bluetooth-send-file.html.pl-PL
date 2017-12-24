@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Send files to a Bluetooth device</title>
+<title>Wysyłanie plików do urządzenia Bluetooth</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -50,24 +50,22 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Send files to a Bluetooth device</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Wysyłanie plików do urządzenia Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">You can send files to connected Bluetooth devices, such as some mobile
-    phones or other computers. Some types of devices don’t allow the transfer
-    of files, or specific types of files. You can send files in one of three
-    ways: using the Bluetooth icon in the menu bar, from the Bluetooth settings
-    window, or directly from the file manager.</p>
+  phones or other computers. Some types of devices do not allow the transfer
+  of files, or specific types of files. You can send files using the Bluetooth
+  settings window.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Bluetooth</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Bluetooth</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Bluetooth</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">Make sure Bluetooth is enabled: the switch in the titlebar should be
       set to <span class="gui">ON</span>.</p></li>
 <li class="steps">
 <p class="p">In the <span class="gui">Devices</span> list, select the device to which to send the
       files. If the desired device is not shown as <span class="gui">Connected</span> in the
-      list, you need to <span class="link"><a href="bluetooth-connect-device.html" title="Connect your computer to a Bluetooth device">connect</a></span>
+      list, you need to <span class="link"><a href="bluetooth-connect-device.html" title="Łączenie komputera z urządzeniem Bluetooth">connect</a></span>
       to it.</p>
 <p class="p">A panel specific to the external device appears.</p>
 </li>
@@ -90,17 +88,17 @@
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Connect your computer to a Bluetooth device">Łączenie</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Send files to a Bluetooth device">wysyłanie plików</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Turn Bluetooth on or off">włączanie i wyłączanie</a></span>…</span>
+<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Łączenie komputera z urządzeniem Bluetooth">Łączenie</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Wysyłanie plików do urządzenia Bluetooth">wysyłanie plików</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Włączanie i wyłączanie Bluetooth">włączanie i wyłączanie</a></span>…</span>
 </li>
 <li class="links ">
-<a href="sharing.html" title="Udostępnianie">Udostępnianie</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Udostępnianie pulpitu">Udostępnianie pulpitu</a></span>, <span class="link"><a href="files-share.html" title="Share files by email">Wysyłanie plików pocztą</a></span>, <span class="link"><a href="sharing-media.html" title="Udostępnianie muzyki, zdjęć i filmów">Udostępnianie multimediów</a></span>…</span>
+<a href="sharing.html" title="Udostępnianie">Udostępnianie</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Udostępnianie pulpitu">Udostępnianie pulpitu</a></span>, <span class="link"><a href="files-share.html" title="Wysyłanie plików pocztą">Wysyłanie plików pocztą</a></span>, <span class="link"><a href="sharing-media.html" title="Udostępnianie muzyki, zdjęć i filmów">Udostępnianie multimediów</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-share.html" title="Share files by email">Share files by email</a><span class="desc"> — Easily transfer files to your email contacts from the file
+<a href="files-share.html" title="Wysyłanie plików pocztą">Wysyłanie plików pocztą</a><span class="desc"> — Easily transfer files to your email contacts from the file
     manager.</span>
 </li></ul></div>
 </div></div>

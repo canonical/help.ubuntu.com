@@ -54,9 +54,8 @@
   This makes it so that everyone on the computer can <span class="em">connect</span> using
   that connection.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Network</span>.</p></li>
-<li class="steps"><p class="p">Kliknij ikonę <span class="gui">Sieć</span>, aby otworzyć panel.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Sieć</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Sieć</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">Wi-Fi</span> from the list on the left.</p></li>
 <li class="steps"><p class="p">Click the 
       <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span> button to open the connection
@@ -75,8 +74,8 @@
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="net-problem.html" title="Problemy z siecią">Problemy z siecią</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-troubleshooting.html" title="Wireless network troubleshooter">Troubleshooting wireless connections</a></span>,
-      <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">finding your wifi network</a></span>…
+      <span class="link"><a href="net-wireless-troubleshooting.html" title="Rozwiązywanie problemów z siecią bezprzewodową">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html" title="Mojej sieci bezprzewodowej nie ma na liście">finding your wifi network</a></span>…
     </span>
 </li></ul></div>
 </div></div>

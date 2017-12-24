@@ -56,9 +56,7 @@
 <dt class="terms">Bluetooth-hardware niet herkend</dt>
 <dd class="terms"><p class="p">Het kan zijn dat uw Bluetooth-adapter of -dongel niet herkend werd door de computer. Dit kan komen doordat de <span class="link"><a href="hardware-driver.html" title="Wat is een stuurprogramma?">stuurprogramma's</a></span> voor de adapter niet zijn geïnstalleerd. Sommige Bluetooth-adapters worden niet ondersteund door Linux waardoor u mogelijk niet aan de juiste stuurprogramma's ervoor kunt komen. In dit geval dient u waarschijnlijk een andere Bluetooth-adapter aan te schaffen.</p></dd>
 <dt class="terms">Adapter niet ingeschakeld</dt>
-<dd class="terms"><p class="p">Make sure that your Bluetooth adapter is switched on. Click the
-          Bluetooth icon in the <span class="gui">menu bar</span> and check that it’s not
-          <span class="link"><a href="bluetooth-turn-on-off.html" title="Bluetooth in- of uitschakelen">disabled</a></span>.</p></dd>
+<dd class="terms"><p class="p">Zorg ervoor dat uw Bluetooth-adapter is ingeschakeld. Open het Bluetooth-paneel en zorg ervoor dat het niet is <span class="link"><a href="bluetooth-turn-on-off.html" title="Bluetooth in- of uitschakelen">uitgeschakeld</a></span>.</p></dd>
 <dt class="terms">Bluetooth is op het externe apparaat uitgeschakeld</dt>
 <dd class="terms"><p class="p">Controleer of Bluetooth is ingeschakeld op het apparaat waarmee u probeert te verbinden, en dat het <span class="link"><a href="bluetooth-visibility.html" title="Wat is Bluetooth-zichtbaarheid?">gevonden kan worden of zichtbaar is</a></span>. Bijvoorbeeld, als u probeert te verbinden met een telefoon, zorg er dan voor dat die niet in vliegtuigmodus staat.</p></dd>
 <dt class="terms">Geen Bluetooth-adapter op uw computer</dt>

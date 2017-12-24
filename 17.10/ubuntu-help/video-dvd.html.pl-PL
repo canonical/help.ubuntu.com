@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Dźwięk, obraz i zdjęcia">Dźwięk, obraz i zdjęcia</a> › <a class="trail" href="media.html#videos" title="Filmy i kamery">Filmy</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Dźwięk, filmy i zdjęcia">Dźwięk, filmy i zdjęcia</a> › <a class="trail" href="media.html#videos" title="Filmy i kamery">Filmy</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Why won’t DVDs play?</span></h1></div>
@@ -52,7 +52,7 @@
   have the right DVD <span class="em">codecs</span> installed, or the DVD might be from a
   different <span class="em">region</span>.</p></div>
 <div id="codecs" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Installing the right codecs for DVD playback</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Instalowanie właściwych kodeków do odtwarzania płyt DVD</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">In order to play DVDs, you need to have the right <span class="em">codecs</span>
   installed.  A codec is a piece of software that allows applications to read a
@@ -71,7 +71,7 @@
 </div></div>
 </div></div>
 <div id="region" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Checking the DVD region</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Sprawdzanie regionu płyty DVD</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">DVDs have a <span class="em">region code</span>, which tells you in which region of the
   world they are allowed to be played. If the region of your computer’s DVD

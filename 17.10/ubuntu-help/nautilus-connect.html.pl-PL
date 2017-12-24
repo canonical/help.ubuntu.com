@@ -44,7 +44,7 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html#more-file-tasks" title="Inne zadania związane z plikami">Inne zadania związane z plikami</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="sharing.html" title="Udostępnianie">Udostępnianie</a> » </div>
 </div>
@@ -67,7 +67,7 @@ on the internet, or if you do not see the computer you’re looking
 for, you can manually connect to a server by typing in its
 internet/network address.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Connect to a file server</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Łączenie z serwerem plików</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">In the file manager, click <span class="gui">Other Locations</span> in the
    sidebar.</p></li>
@@ -91,13 +91,13 @@ internet/network address.</p>
 <div class="region"><div class="contents">
 <p class="p">A <span class="em">URL</span>, or <span class="em">uniform resource locator</span>, is a form of address
  that refers to a location or file on a network. The address is formatted like this:</p>
-<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">scheme://servername.example.com/folder</span></p></div></div></div></div>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">scheme://nazwa-serwera.example.com/katalog</span></p></div></div></div></div>
 <p class="p">The <span class="em">scheme</span> specifies the protocol or type of server. The
   <span class="em">example.com</span> portion of the address is called the <span class="em">domain name</span>.
   If a username is required, it is inserted before the server name:</p>
-<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">scheme://username@servername.example.com/folder</span></p></div></div></div></div>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">scheme://nazwa-użytkownika@nazwa-serwera.example.com/katalog</span></p></div></div></div></div>
 <p class="p">Some schemes require the port number to be specified. Insert it after the domain name:</p>
-<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">scheme://servername.example.com:port/folder</span></p></div></div></div></div>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">scheme://nazwa-serwera.example.com:port/katalog</span></p></div></div></div></div>
 <p class="p">Below are specific examples for the various server types that are supported.</p>
 </div></div>
 </div></div>
@@ -120,7 +120,7 @@ internet/network address.</p>
   to members so they can securely upload files. SSH servers always
   require you to log in.</p>
 <p class="p">A typical SSH URL looks like this:</p>
-<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ssh://username@servername.example.com/folder</span></p></div></div></div></div>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ssh://nazwa-użytkownika@nazwa-serwera.example.com/katalog</span></p></div></div></div></div>
 <p class="p">When using SSH, all the data you send (including your password)
   is encrypted so that other users on your network can’t see it.</p>
 </dd>
@@ -132,7 +132,7 @@ internet/network address.</p>
   you to use FTP to upload or download files. FTP sites with logins
   will usually allow you to delete and upload files.</p>
 <p class="p">A typical FTP URL looks like this:</p>
-<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ftp://username@ftp.example.com/path/</span></p></div></div></div></div>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ftp://nazwa-użytkownika@ftp.example.com/ścieżka/</span></p></div></div></div></div>
 </dd>
 <dt class="terms">Publiczny FTP</dt>
 <dd class="terms">
@@ -141,7 +141,7 @@ internet/network address.</p>
   username and password, and will usually not allow you to delete
   or upload files.</p>
 <p class="p">A typical anonymous FTP URL looks like this:</p>
-<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ftp://ftp.example.com/path/</span></p></div></div></div></div>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ftp://ftp.example.com/ścieżka/</span></p></div></div></div></div>
 <p class="p">Some anonymous FTP sites require you to log in with a
   public username and password, or with a public username using
   your email address as the password. For these servers, use the
@@ -156,7 +156,7 @@ internet/network address.</p>
   the right permissions on the remote computer, you can connect to a Windows
   share from the file manager.</p>
 <p class="p">A typical Windows share URL looks like this:</p>
-<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">smb://servername/Share</span></p></div></div></div></div>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">smb://nazwa-serwera/Udział</span></p></div></div></div></div>
 </dd>
 <dt class="terms">WebDAV i zabezpieczony WebDAV</dt>
 <dd class="terms">
@@ -166,7 +166,7 @@ internet/network address.</p>
   this option. Secure WebDAV uses strong SSL encryption, so that other users
   can’t see your password.</p>
 <p class="p">A WebDAV URL looks like this:</p>
-<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">dav://example.hostname.com/path</span></p></div></div></div></div>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">dav://nazwa-serwera.example.com/ścieżka</span></p></div></div></div></div>
 </dd>
 <dt class="terms">Udział NFS</dt>
 <dd class="terms">
@@ -175,7 +175,7 @@ internet/network address.</p>
   the user accessing the share, so no authentication credentials are
   needed when connecting.</p>
 <p class="p">A typical NFS share URL looks like this:</p>
-<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">nfs://servername/path</span></p></div></div></div></div>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">nfs://nazwa-serwera/ścieżka</span></p></div></div></div></div>
 </dd>
 </dl></div></div></div>
 </div></div>
@@ -186,16 +186,16 @@ internet/network address.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li>
+<li class="links "><a href="files.html#more-file-tasks" title="Inne zadania związane z plikami">Inne zadania związane z plikami</a></li>
 <li class="links ">
-<a href="sharing.html" title="Udostępnianie">Udostępnianie</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Udostępnianie pulpitu">Udostępnianie pulpitu</a></span>, <span class="link"><a href="files-share.html" title="Share files by email">Wysyłanie plików pocztą</a></span>, <span class="link"><a href="sharing-media.html" title="Udostępnianie muzyki, zdjęć i filmów">Udostępnianie multimediów</a></span>…</span>
+<a href="sharing.html" title="Udostępnianie">Udostępnianie</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Udostępnianie pulpitu">Udostępnianie pulpitu</a></span>, <span class="link"><a href="files-share.html" title="Wysyłanie plików pocztą">Wysyłanie plików pocztą</a></span>, <span class="link"><a href="sharing-media.html" title="Udostępnianie muzyki, zdjęć i filmów">Udostępnianie multimediów</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-share.html" title="Share files by email">Share files by email</a><span class="desc"> — Easily transfer files to your email contacts from the file
+<a href="files-share.html" title="Wysyłanie plików pocztą">Wysyłanie plików pocztą</a><span class="desc"> — Easily transfer files to your email contacts from the file
     manager.</span>
 </li></ul></div>
 </div></div>

@@ -55,7 +55,6 @@
 <div role="navigation" class="links sectionlinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Μέθοδοι για την εισαγωγή χαρακτήρων</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="tips-specialchars.html#charmap" title="Πίνακας χαρακτήρων">Πίνακας χαρακτήρων</a></li>
 <li class="links "><a href="tips-specialchars.html#characters" title="Χαρακτήρες">Χαρακτήρες</a></li>
 <li class="links "><a href="tips-specialchars.html#compose" title="Πλήκτρο σύνθεσης">Πλήκτρο σύνθεσης</a></li>
 <li class="links "><a href="tips-specialchars.html#ctrlshiftu" title="Σημεία κώδικα">Σημεία κώδικα</a></li>
@@ -64,13 +63,6 @@
 </ul></div>
 </div></div>
 </div>
-<div id="charmap" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Πίνακας χαρακτήρων</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p">Το GNOME έρχεται με μια εφαρμογή πίνακα χαρακτήρων που επιτρέπει την περιήγηση όλων των χαρακτήρων σε Unicode. Χρησιμοποιήστε τον πίνακα χαρακτήρων για να βρείτε τον χαρακτήρα που θέλετε και έπειτα αντιγράψτε και επικολλήστε τον όπου χρειάζεται.</p>
-<p class="p">Μπορείτε να βρείτε τον <span class="app">Πίνακας χαρακτήρων</span> στην επισκόπηση <span class="gui">Δραστηριότητες</span>. Για περισσότερες πληροφορίες στον πίνακα χαρακτήρων, δείτε <span class="link"><a href="https://help.gnome.org/users/gucharmap/stable/" title="https://help.gnome.org/users/gucharmap/stable/">Εγχειρίδιο πίνακα χαρακτήρων</a></span>.</p>
-</div></div>
-</div></div>
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Χαρακτήρες</span></h2></div>
 <div class="region"><div class="contents">
@@ -87,15 +79,19 @@
 <div class="note note-important" title="Σημαντικό"><div class="inner"><div class="region"><div class="contents"><p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
       change this setting.</p></div></div></div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">Define a compose key</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Ορισμός πλήκτρου σύνθεσης</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Activities</a></span> overview and
-      start typing <span class="gui">Tweaks</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Activities</a></span>
+        overview and start typing <span class="gui">Tweaks</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Tweaks</span> to open the application.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Keyboard &amp; Mouse</span> tab.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Disabled</span> next to the <span class="gui">Compose Key</span> setting.</p></li>
-<li class="steps"><p class="p">Turn the switch on in the dialog and pick the keyboard shortcut you want to use.</p></li>
-<li class="steps"><p class="p">Tick the checkbox of the key that you want to set as the Compose key.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Disabled</span> next to the <span class="gui">Compose Key</span>
+        setting.</p></li>
+<li class="steps"><p class="p">Turn the switch on in the dialog and pick the keyboard shortcut you
+        want to use.</p></li>
+<li class="steps"><p class="p">Tick the checkbox of the key that you want to set as the Compose
+        key.</p></li>
+<li class="steps"><p class="p">Close the dialog.</p></li>
 <li class="steps"><p class="p">Close the <span class="gui">Tweaks</span> window.</p></li>
 </ol></div>
 </div></div>

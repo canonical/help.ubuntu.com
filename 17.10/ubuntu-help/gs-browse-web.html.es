@@ -51,7 +51,15 @@
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Navegar por la Web</span></h1></div>
 <div class="region">
-<div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
+<div class="contents">
+<div class="media media-image"><div class="inner"><img src="gs-web-browser1-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Mueva el cursor del ratón hacia la esquina de <span class="gui">Actividades</span> en la esquina superior izquierda de la pantalla para mostrar la <span class="gui">Vista de actividades</span>.</p></li>
+<li class="steps"><p class="p">Seleccione el icono del navegador <span class="app">Firefox</span> desde la barra del lado izquierdo de la pantalla.</p></li>
+</ol></div></div></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Alternativamente, puede abrir el navegador <span class="app">Firefox</span> <span class="link"><a href="gs-use-system-search.html" title="Utilizar la búsqueda de sistema">simplemente escribiendo</a></span> el nombre del navegador en la <span class="gui">Vista de actividades</span>.</p></div></div></div></div>
+<div class="media media-image"><div class="inner"><img src="gs-web-browser2-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
 <li class="steps"><p class="p">Pulse la barra de direcciones que está en la parte superior de la ventana del navegador y comience a escribir en el sitio web que quiera visitar.</p></li>
 <li class="steps">
 <p class="p">Al escribir en un sitio web, comienza la búsqueda de ese sitio en el histórico de navegación y los marcadores, por lo tanto no necesita recordar la dirección exacta.</p>
@@ -59,7 +67,8 @@
 </li>
 <li class="steps"><p class="p">Desde la lista desplegable, puede seleccionar rápidamente un sitio web con las teclas de flechas.</p></li>
 <li class="steps"><p class="p">Después de haber seleccionado un sitio web, pulse <span class="key"><kbd>Intro</kbd></span> para visitarlo.</p></li>
-</ol></div></div></div></div>
+</ol></div></div></div>
+</div>
 <div class="links nextlinks">
 <a class="nextlinks-prev" href="gs-get-online.html" title="Conectarse a Internet">Anterior</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="Conectarse a cuentas en línea">Siguiente</a>
 </div>

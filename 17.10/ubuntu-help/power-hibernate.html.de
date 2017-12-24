@@ -65,7 +65,7 @@
 </div></div>
 <p class="p">Sie können die Kommandozeile benutzen, um die fehlerfreie Funktion des Ruhezustandes festzustellen.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öffnen Sie das <span class="app">Terminal</span>, indem Sie <span class="keyseq"><span class="key"><kbd>Strg</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>t</kbd></span></span> drücken oder suchen Sie nach <span class="input">terminal</span> im <span class="gui">Dash</span>.</p></li>
+<li class="steps"><p class="p">Öffnen Sie das <span class="app">Terminal</span>, indem Sie in der <span class="gui">Aktivitätenübersicht</span> nach <span class="input">Terminal</span> suchen.</p></li>
 <li class="steps">
 <p class="p">Type <span class="cmd">sudo systemctl hibernate</span> into the terminal and press <span class="key"><kbd>Enter</kbd></span>.</p>
 <p class="p">Geben Sie Ihr Kennwort ein, falls Sie dazu aufgefordert werden.</p>

@@ -53,11 +53,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Bestanden sturen naar een Bluetooth-apparaat</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can send files to connected Bluetooth devices, such as some mobile
-    phones or other computers. Some types of devices don’t allow the transfer
-    of files, or specific types of files. You can send files in one of three
-    ways: using the Bluetooth icon in the menu bar, from the Bluetooth settings
-    window, or directly from the file manager.</p>
+<p class="p">U kunt bestanden naar verbonden Bluetooth-apparaten sturen, zoals sommige mobiele telefoons of andere computers. Sommige apparaten staan het versturen of ontvangen van bestanden of bepaalde bestandstypen niet toe. U kunt bestanden versturen vanuit het venster Bluetooth-instellingen.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Klik op het <span class="gui">Bluetooth</span> om het paneel te openen.</p></li>

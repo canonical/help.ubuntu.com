@@ -51,7 +51,15 @@
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">இணையத்தில் உலாவவும்</span></h1></div>
 <div class="region">
-<div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
+<div class="contents">
+<div class="media media-image"><div class="inner"><img src="gs-web-browser1-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p"><span class="gui">செயல்பாடுகள் மேலோட்டத்தைக்</span> காண்பிக்க, உங்கள் சொடுக்கி சுட்டியை திரையின் மேல் இடப்புறம் உள்ள <span class="gui">செயல்பாடுகள்</span> மூலைக்குக் கொண்டு செல்லவும்.</p></li>
+<li class="steps"><p class="p">திரையின் இடப்புறம் உள்ள பட்டியிலிருந்து <span class="app">Firefox</span> உலாவி சின்னத்தைத் தேர்ந்தெடுக்கவும்.</p></li>
+</ol></div></div></div>
+<div class="note" title="குறிப்பு"><div class="inner"><div class="region"><div class="contents"><p class="p">மாறாக நீங்கள் <span class="gui">செயல்கள் மேலோட்டம்</span> என்பதில் <span class="em">Firefox</span> என <span class="link"><a href="gs-use-system-search.html" title="கணினி தேடலைப் பயன்படுத்து">தட்டச்சு செய்வதன்</a></span> மூலம் உலாவியை துவக்கலாம்.</p></div></div></div></div>
+<div class="media media-image"><div class="inner"><img src="gs-web-browser2-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
 <li class="steps"><p class="p">உலாவி சாளரத்தின் மேல் பகுதியில் உள்ள முகவரிப் பட்டியை சொடுக்கி நீங்கள் பார்க்க விரும்பும் வலைத்தளத்தை தட்டச்சு செய்யத் தொடங்கவும்.</p></li>
 <li class="steps">
 <p class="p">ஒரு வலைத்தளத்தைத் தட்டச்சு செய்தால், உலாவி வரலாறிலும் புத்தகக்குறிகளிலும் அது உள்ளதா எனத் தேடும் செயல் தொடங்கிவிடும், ஆகவே முகவரியை நீங்கள் துல்லியமாக நினைவு வைத்திருக்க வேண்டிய அவசியம் இல்லை.</p>
@@ -59,7 +67,8 @@
 </li>
 <li class="steps"><p class="p">கீழ் தோன்றும் பட்டியலில் இருந்து, அம்புக் குறி விசைகளைப் பயன்படுத்தி நீங்கள் ஒரு வலைத்தளத்தை விரைவாகத் தேர்ந்தெடுக்கலாம்.</p></li>
 <li class="steps"><p class="p">நீங்கள் ஒரு வலைத்தளத்தைத் தேர்ந்தெடுத்த பிறகு, அதற்குச் செல்ல <span class="key"><kbd>Enter</kbd></span> ஐ அழுத்தவும்.</p></li>
-</ol></div></div></div></div>
+</ol></div></div></div>
+</div>
 <div class="links nextlinks">
 <a class="nextlinks-prev" href="gs-get-online.html" title="ஆன்லைனில் பெறுக">முந்தைய</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="ஆன்லைன் கணக்குகளுக்கு இணைக்கவும்">அடுத்து</a>
 </div>

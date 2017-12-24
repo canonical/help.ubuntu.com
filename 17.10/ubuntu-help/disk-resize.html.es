@@ -2,7 +2,7 @@
 <html lang=es>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Adjust the size of a filesystem</title>
+<title>Ajustar el tamaño de un sistema de archivos</title>
 <link rel="stylesheet" type="text/css" href="es.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,7 +46,7 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware y controladores">Hardware</a> » <a class="trail" href="disk.html" title="Discos y almacenamiento">Discos y almacenamiento</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Adjust the size of a filesystem</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Ajustar el tamaño de un sistema de archivos</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">A filesystem can be grown to make use of the free space after its
@@ -54,30 +54,23 @@
      mounted.</p>
 <p class="p">To make space for another partition after the filesystem, it can be
      shrunk according to the free space within it.</p>
-<p class="p">Not all filesystems have resize support.</p>
-<p class="p">The partition size will be changed together with the filesystem size.
-     It is also possible to resize a partition without a filesystem in the
-     same way.</p>
+<p class="p">No todos los sistemas de archivos soportan el cambio de tamaño.</p>
+<p class="p">El tamaño de la partición se cambiará junto con el tamaño del sistema de archivos. También es posible redimensionar una partición sin un sistema de archivos del mismo modo.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Resize a filesystem/partition</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Redimensionar un sistema de archivos/partición</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra <span class="app">Discos</span> desde la vista de <span class="gui">Actividades</span>.</p></li>
-<li class="steps"><p class="p">Select the disk containing the filesystem in question from the list
-       of storage devices on the left. If there is more than one volume on
-       the disk, select the volume which contains the filesystem.</p></li>
-<li class="steps"><p class="p">In the toolbar underneath the <span class="gui">Volumes</span> section, click the
-       menu button. Then click <span class="gui">Resize Filesystem…</span> or
-       <span class="gui">Resize…</span> if there is no filesystem.</p></li>
+<li class="steps"><p class="p">Seleccione el disco que contiene el sistema de archivos de la lista de dispositivos de almacenamiento de la izquierda. Si hay más de un volumen en el disco, seleccione el que contiene el sistema de archivos.</p></li>
+<li class="steps"><p class="p">En la barra de herramientas, debajo de la sección <span class="gui">Volúmenes</span>, pulse el botón del menú. Después pulse <span class="gui">Redimensionar sistema de archivos…</span>. o <span class="gui">Redimensionar</span> si no hay sistema de archivos.</p></li>
 <li class="steps">
 <p class="p">A dialog will open where the new size can be chosen. The filesystem will
        be mounted to calculate the minimum size by the amount of current
        content. If shrinking is not supported the minimum size is the current
        size. Leave enough space within the filesystem when shrinking to ensure
        that it can work fast and reliably.</p>
-<p class="p">Depending on how much data has to be moved from the shrunk part, the
-       filesystem resize may take longer time.</p>
+<p class="p">Dependiendo de la cantidad de datos que se deben mover de la parte reducida, la redimensión del sistema de archivos puede tardar mucho tiempo.</p>
 <div class="note note-warning" title="Advertencia"><div class="inner"><div class="region"><div class="contents"><p class="p">The filesystem resize automatically involves
-         <span class="link"><a href="disk-repair.html" title="Repair a damaged filesystem">repairing</a></span> of the filesystem. Therefore
+         <span class="link"><a href="disk-repair.html" title="Reparar un sistema de archivos dañado">repairing</a></span> of the filesystem. Therefore
          it is advised to back up important data before starting. The action
          must not be stopped or it will result in a damaged filesystem.</p></div></div></div></div>
 </li>

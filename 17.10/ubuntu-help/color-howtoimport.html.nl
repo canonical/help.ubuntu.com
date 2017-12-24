@@ -53,7 +53,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Hoe importeer ik  kleurprofielen?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">U kunt een kleurprofiel importeren door te dubbelklikken op een <span class="input">.ICC-</span> of <span class="input">.ICM-</span>-bestand in de bestandsverkenner.</p>
+<p class="p">U kunt een kleurprofiel importeren door te dubbelklikken op een <span class="file">.ICC-</span> of <span class="file">.ICM-</span>-bestand in de bestandsverkenner.</p>
 <p class="p">U kunt ook uw kleurprofielen beheren via het venster <span class="gui">Kleur</span></p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Kleur</span>.</p></li>

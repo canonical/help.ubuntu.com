@@ -58,8 +58,7 @@
 <p class="p">Alternatively you can manage your color profiles through the
   <span class="gui">Color</span> panel.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Color</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Kolor</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Color</span> to open the panel and select your
       device.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Add profile</span> to select an existing profile or import
@@ -69,7 +68,7 @@
 <p class="p">The manufacturer of your display may supply a profile that you can use.
   These profiles are usually made for the average display, so may not be perfect
   for your specific one. For the best calibration, you should
-  <span class="link"><a href="color-calibrate-screen.html" title="How do I calibrate my screen?">create your own profile</a></span> using a
+  <span class="link"><a href="color-calibrate-screen.html" title="Jak skalibrować ekran?">create your own profile</a></span> using a
   colorimeter or a spectrophotometer.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -83,10 +82,10 @@
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-assignprofiles.html" title="How do I assign profiles to devices?">How do I assign profiles to devices?</a><span class="desc"> — Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span>
+<a href="color-whatisprofile.html" title="Czym jest profil kolorów?">Czym jest profil kolorów?</a><span class="desc"> — A color profile is a simple file that expresses a color space or device response.</span>
 </li>
 <li class="links ">
-<a href="color-whatisprofile.html" title="What is a color profile?">What is a color profile?</a><span class="desc"> — A color profile is a simple file that expresses a color space or device response.</span>
+<a href="color-assignprofiles.html" title="Jak przydzielać profile urządzeniom?">Jak przydzielać profile urządzeniom?</a><span class="desc"> — Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span>
 </li>
 </ul></div>
 </div></div>

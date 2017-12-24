@@ -65,7 +65,7 @@
 </div></div>
 <p class="p">Для проверки, работает ли спящий режим на вашем компьютере, можно использовать командную строку.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Откройте <span class="app">Терминал</span>, нажав <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>t</kbd></span></span>, или выполните поиск по слову <span class="input">терминал</span> в <span class="gui">главном меню</span>.</p></li>
+<li class="steps"><p class="p">Откройте <span class="app">Терминал</span>, выполнив поиск по слову <span class="input">терминал</span> в <span class="gui">главном меню</span>.</p></li>
 <li class="steps">
 <p class="p">Наберите <span class="cmd">sudo systemctl hibernate</span> в терминале и нажмите <span class="key"><kbd>Enter</kbd></span>.</p>
 <p class="p">После запроса введите свой пароль.</p>

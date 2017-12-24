@@ -46,11 +46,11 @@
 <div class="trail">
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="keyboard.html" title="Klawiatura">Klawiatura</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="keyboard.html" title="Klawiatura">Klawiatura</a> » <a class="trail" href="keyboard-shortcuts-set.html" title="Set keyboard shortcuts">Set keyboard shortcuts</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="keyboard.html" title="Klawiatura">Klawiatura</a> » <a class="trail" href="keyboard-shortcuts-set.html" title="Ustawianie skrótów klawiszowych">Ustawianie skrótów klawiszowych</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="keyboard.html" title="Klawiatura">Klawiatura</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="keyboard.html" title="Klawiatura">Klawiatura</a> » <a class="trail" href="keyboard-shortcuts-set.html" title="Set keyboard shortcuts">Set keyboard shortcuts</a> » </div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="keyboard.html" title="Klawiatura">Klawiatura</a> » <a class="trail" href="keyboard-shortcuts-set.html" title="Ustawianie skrótów klawiszowych">Ustawianie skrótów klawiszowych</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="prefs-language.html" title="Region i język">Region i język</a> » </div>
 </div>
@@ -107,7 +107,7 @@
   <span class="gui">Input Source</span> <span class="gui">Keyboard Shortcuts</span>. These shortcuts open 
   the <span class="gui">Input Source</span> chooser where you can move forward and backward. 
   By default, you can switch to the next input source with 
-  <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Space</kbd></span></span>
+  <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Czym jest klawisz Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Space</kbd></span></span>
   and to the previous one with
   <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Space</kbd></span></span>. You can
   change these shortcuts in the <span class="gui">Keyboard</span> settings.</p>
@@ -127,10 +127,10 @@
     </span>
 </li>
 <li class="links ">
-<a href="prefs-language.html" title="Region i język">Region i język</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Change which language you use">Język</a></span>, <span class="link"><a href="session-formats.html" title="Change date and measurement formats">region i formaty</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">układy klawiatury</a></span>…</span>
+<a href="prefs-language.html" title="Region i język">Region i język</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Zmiana używanego języka">Język</a></span>, <span class="link"><a href="session-formats.html" title="Change date and measurement formats">region i formaty</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">układy klawiatury</a></span>…</span>
 </li>
 <li class="links ">
-<a href="keyboard-shortcuts-set.html" title="Set keyboard shortcuts">Set keyboard shortcuts</a><span class="desc"> — Define or change keyboard shortcuts in <span class="gui">Keyboard</span>
+<a href="keyboard-shortcuts-set.html" title="Ustawianie skrótów klawiszowych">Ustawianie skrótów klawiszowych</a><span class="desc"> — Define or change keyboard shortcuts in <span class="gui">Keyboard</span>
     settings.</span>
 </li>
 </ul></div>
@@ -138,7 +138,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips-specialchars.html" title="Enter special characters">Enter special characters</a><span class="desc"> — Type characters not found on your keyboard, including foreign alphabets, mathematical symbols, and dingbats.</span>
+<a href="tips-specialchars.html" title="Wpisywanie znaków specjalnych">Wpisywanie znaków specjalnych</a><span class="desc"> — Type characters not found on your keyboard, including foreign alphabets, mathematical symbols, and dingbats.</span>
 </li></ul></div>
 </div></div>
 </div>

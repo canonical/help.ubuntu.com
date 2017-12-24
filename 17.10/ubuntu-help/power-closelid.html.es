@@ -67,7 +67,8 @@
 <li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Retoques</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Retoques</span> para abrir la aplicación.</p></li>
 <li class="steps"><p class="p">Pulse en la pestaña <span class="gui">Energía</span>.</p></li>
-<li class="steps"><p class="p">Active la <span class="gui">No suspender al cerrar la tapa</span> (<span class="gui">Encendido</span>).</p></li>
+<li class="steps"><p class="p">Switch <span class="gui">Suspend when laptop lid is closed</span> to
+      <span class="gui">OFF</span>.</p></li>
 <li class="steps"><p class="p">Cierre la ventana de la <span class="gui">Retoques</span>.</p></li>
 </ol></div></div></div>
 </div></div>

@@ -82,16 +82,16 @@
 <div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html" title="Řešení problémů s bezdrátovými sítěmi">Řešení problémů s bezdrátovým připojením</a></span>, <span class="link"><a href="net-wireless-find.html" title="Nevidím svoji bezdrátovou síť v seznamu">vyhledání vaší sítě Wi-Fi</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-browser.html" title="Prohlížeče WWW">Prohlížeče WWW</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-default-browser.html" title="Změna prohlížeče, ve kterém se jako výchozím otevírají stránky WWW">Změna výchozího prohlížeče</a></span>, <span class="link"><a href="net-install-flash.html" title="Instalace zásuvného modulu Flash">instalace zásuvného modulu Flash</a></span>…</span></div>
-</div>
-<div class="links-grid ">
 <div class="links-grid-link"><a href="sharing.html" title="Sdílení">Sdílení</a></div>
 <div class="desc"><span class="desc"><span class="link"><a href="sharing-desktop.html" title="Sdílení vaší plochy">Sdílení pracovní plochy</a></span>, <span class="link"><a href="files-share.html" title="Sdílení souborů přes e-mail">sdílení souborů přes e-mail</a></span>, <span class="link"><a href="sharing-media.html" title="Sdílení vaší hudby, fotografií a videí">sdílení multimédií</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-general.html" title="Terminologie sítí a rady">Terminologie sítí a rady</a></div>
 <div class="desc"><span class="desc"><span class="link"><a href="net-findip.html" title="Zjištění vaší IP adresy">Zjištění vaší adresy IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Co znamená WEP a WPA?">zabezpečení WEP a WPA</a></span>, <span class="link"><a href="net-macaddress.html" title="Co je to MAC adresa?">adresa MAC</a></span>, <span class="link"><a href="net-proxy.html" title="Nastavení proxy">proxy</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="net-browser.html" title="Webové prohlížeče">Webové prohlížeče</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-default-browser.html" title="Změna prohlížeče, ve kterém se jako výchozím otevírají webové stránky">Změna výchozího prohlížeče</a></span>, <span class="link"><a href="net-install-flash.html" title="Instalace zásuvného modulu Flash">instalace zásuvného modulu Flash</a></span>…</span></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">

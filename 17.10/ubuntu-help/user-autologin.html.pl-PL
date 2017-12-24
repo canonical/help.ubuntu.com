@@ -52,12 +52,11 @@
 <p class="p">You can change your settings so that you are automatically logged in to
   your account when you start up your computer:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Users</span>.</p></li>
-<li class="steps"><p class="p">Kliknij ikonę <span class="gui">Użytkownicy</span>, aby otworzyć panel.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Użytkownicy</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Użytkownicy</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">Select the user account that you want to log in to automatically at
       startup.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Unlock</span> and enter your password.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Odblokuj</span> i wpisz hasło.</p></li>
 <li class="steps"><p class="p">Toggle the <span class="gui">Automatic Login</span> switch to <span class="gui">ON</span>.</p></li>
 </ol></div></div></div>
 <p class="p">When you next start up your computer, you will be logged in automatically.

@@ -65,7 +65,7 @@
 </div></div>
 <p class="p">È possibile utilizzare la riga di comando per verificare il funzionamento dell'ibernazione sul proprio computer.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Aprire il <span class="app">Terminale</span> premendo <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>t</kbd></span></span> o cercando <span class="input">terminale</span> nella <span class="gui">Dash</span>.</p></li>
+<li class="steps"><p class="p">Aprire il <span class="app">Terminale</span> cercando <span class="input">terminale</span> in <span class="gui">Attività</span>.</p></li>
 <li class="steps">
 <p class="p">Type <span class="cmd">sudo systemctl hibernate</span> into the terminal and press <span class="key"><kbd>Enter</kbd></span>.</p>
 <p class="p">Inserire la password quando richiesto.</p>

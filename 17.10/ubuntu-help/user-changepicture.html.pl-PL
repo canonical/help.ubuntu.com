@@ -56,9 +56,8 @@
 <p class="p">You need <span class="link"><a href="user-admin-explain.html" title="How do administrative privileges work?">administrator privileges</a></span>
   to edit user accounts other than your own.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Users</span>.</p></li>
-<li class="steps"><p class="p">Kliknij ikonę <span class="gui">Użytkownicy</span>, aby otworzyć panel.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Użytkownicy</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Użytkownicy</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">If you want to edit a user other than yourself, press
       <span class="gui">Unlock</span> in the top right corner and type in your
       password when prompted.</p></li>

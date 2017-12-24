@@ -67,19 +67,19 @@
 <li class="list"><p class="p">Use the <span class="gui">Power</span> panel in <span class="app">Settings</span> to change your
     power settings. There are a number of options that will help to save power:
     you can <span class="link"><a href="display-blank.html" title="Set screen blanking time">automatically blank the screen</a></span>
-    after a certain time, reduce the <span class="link"><a href="display-brightness.html" title="Set screen brightness">screen
+    after a certain time, reduce the <span class="link"><a href="display-brightness.html" title="Ustawianie jasności ekranu">screen
     brightness</a></span>, and have the computer
-    <span class="link"><a href="power-autosuspend.html" title="Set up automatic suspend">automatically suspend</a></span> if you have not
+    <span class="link"><a href="power-autosuspend.html" title="Ustawianie automatycznego usypiania">automatically suspend</a></span> if you have not
     used it for a certain period of time.</p></li>
 <li class="list"><p class="p">Turn off any external devices (like printers and scanners) when you are
     not using them.</p></li>
 </ul></div></div></div></div></div>
 </div></div>
 <div id="laptop" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Laptops, netbooks, and other devices with batteries</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Laptopy, netbooki i inne urządzenia z akumulatorami</span></h2></div>
 <div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
-<p class="p">Reduce the <span class="link"><a href="display-brightness.html" title="Set screen brightness">screen
+<p class="p">Reduce the <span class="link"><a href="display-brightness.html" title="Ustawianie jasności ekranu">screen
      brightness</a></span>. Powering the screen accounts for a significant fraction
      of a laptop power consumption.</p>
 <p class="p">Most laptops have buttons on the keyboard (or a keyboard shortcut) that
@@ -96,7 +96,7 @@
 </ul></div></div></div></div></div>
 </div></div>
 <div id="advanced" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">More advanced tips</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Więcej zaawansowanych wskazówek</span></h2></div>
 <div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list"><li class="list">
 <p class="p">Reduce the number of tasks that are running in the background.
      Computers use more power when they have more work to do.</p>
@@ -125,11 +125,8 @@
 <a href="power-status.html" title="Check the battery status">Check the battery status</a><span class="desc"> — Display the status of the battery and connected devices.</span>
 </li>
 <li class="links ">
-<a href="display-brightness.html" title="Set screen brightness">Set screen brightness</a><span class="desc"> — Change the screen brightness to make it more readable in bright
+<a href="display-brightness.html" title="Ustawianie jasności ekranu">Ustawianie jasności ekranu</a><span class="desc"> — Change the screen brightness to make it more readable in bright
     light.</span>
-</li>
-<li class="links ">
-<a href="power-wireless.html" title="Switch off unused wireless technologies">Switch off unused wireless technologies</a><span class="desc"> — Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span>
 </li>
 <li class="links "><a href="shell-exit.html#suspend" title="Usypianie">Usypianie</a></li>
 <li class="links ">
@@ -143,6 +140,9 @@
 <a href="power-whydim.html" title="Why does my screen go dim after a while?">Why does my screen go dim after a while?</a><span class="desc"> — The screen will dim when the computer is idle in order to save power.</span>
 </li>
 <li class="links "><a href="shell-exit.html#shutdown" title="Wyłączanie i ponowne uruchamianie komputera">Wyłączanie i ponowne uruchamianie komputera</a></li>
+<li class="links ">
+<a href="power-wireless.html" title="Wyłączanie nieużywanych sieci bezprzewodowych">Wyłączanie nieużywanych sieci bezprzewodowych</a><span class="desc"> — Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span>
+</li>
 </ul></div>
 </div></div>
 </div>

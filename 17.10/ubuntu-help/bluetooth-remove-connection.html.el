@@ -51,8 +51,8 @@
 <div class="contents">
 <p class="p">Εάν δεν θέλετε να είστε συνδεδεμένοι σε μια συσκευή Bluetooth, μπορείτε να αφαιρέσετε τη σύνδεση. Αυτό είναι χρήσιμο εάν δεν θέλετε να χρησιμοποιήσετε μια συσκευή όπως ένα ποντίκι ή ακουστικά, ή εάν δεν θέλετε πια να μεταφέρετε αρχεία προς ή από τη συσκευή.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Κάντε κλικ στο εικονίδιο Bluetooth στη <span class="gui">γραμμή μενού</span> και επιλέξτε <span class="gui">Ρυθμίσεις Bluetooth</span>.</p></li>
-<li class="steps"><p class="p">Πατήστε στις <span class="gui">Ρυθμίσεις Bluetooth</span> για να ανοίξετε τον πίνακα.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Bluetooth</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps"><p class="p">Επιλέξτε τη συσκευή που θέλετε να αποσυνδέσετε από την λίστα.</p></li>
 <li class="steps"><p class="p">Στο πλαίσιο διαλόγου της συσκευής, αλλάξτε το <span class="gui">Σύνδεση</span> σε <span class="gui">ΟΧΙ</span>, ή για να αφαιρέσετε τη συσκευή από τη λίστα <span class="gui">Συσκευές</span>, κάντε κλικ στο <span class="gui">Αφαίρεση συσκευής</span>.</p></li>
 </ol></div></div></div>

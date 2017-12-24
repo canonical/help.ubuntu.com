@@ -55,7 +55,6 @@
 <div role="navigation" class="links sectionlinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Métodos para introduzir carateres</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="tips-specialchars.html#charmap" title="Mapa de carateres">Mapa de carateres</a></li>
 <li class="links "><a href="tips-specialchars.html#characters" title="Carateres">Carateres</a></li>
 <li class="links "><a href="tips-specialchars.html#compose" title="Tecla de composição">Tecla de composição</a></li>
 <li class="links "><a href="tips-specialchars.html#ctrlshiftu" title="Pontos de codigo">Pontos de codigo</a></li>
@@ -64,13 +63,6 @@
 </ul></div>
 </div></div>
 </div>
-<div id="charmap" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Mapa de carateres</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p">GNOME vem com um aplicação de mapa de carateres que lhe permite examinar todos os carateres em Unicode. Use o mapa de carateres para procurar o caráter que quer, e o copiar e o cole onde queira.</p>
-<p class="p">Pode encontrar o <span class="app">Mapa de carateres</span> na vista de <span class="gui">Atividades</span>. Para obter mais informação sobre o mapa de carateres, consulte o <span class="link"><a href="https://help.gnome.org/users/gucharmap/stable/" title="https://help.gnome.org/users/gucharmap/stable/">manual do mapa de carateres</a></span>.</p>
-</div></div>
-</div></div>
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Carateres</span></h2></div>
 <div class="region"><div class="contents">
@@ -87,15 +79,19 @@
 <div class="note note-important" title="Importante"><div class="inner"><div class="region"><div class="contents"><p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
       change this setting.</p></div></div></div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">Define a compose key</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Definir uma tecla de composição</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Atividades">Activities</a></span> overview and
-      start typing <span class="gui">Tweaks</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Atividades">Activities</a></span>
+        overview and start typing <span class="gui">Tweaks</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Tweaks</span> to open the application.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Keyboard &amp; Mouse</span> tab.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Disabled</span> next to the <span class="gui">Compose Key</span> setting.</p></li>
-<li class="steps"><p class="p">Turn the switch on in the dialog and pick the keyboard shortcut you want to use.</p></li>
-<li class="steps"><p class="p">Tick the checkbox of the key that you want to set as the Compose key.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Disabled</span> next to the <span class="gui">Compose Key</span>
+        setting.</p></li>
+<li class="steps"><p class="p">Turn the switch on in the dialog and pick the keyboard shortcut you
+        want to use.</p></li>
+<li class="steps"><p class="p">Tick the checkbox of the key that you want to set as the Compose
+        key.</p></li>
+<li class="steps"><p class="p">Close the dialog.</p></li>
 <li class="steps"><p class="p">Close the <span class="gui">Tweaks</span> window.</p></li>
 </ol></div>
 </div></div>

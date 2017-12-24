@@ -53,7 +53,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Skicka filer till en Bluetooth-enhet</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Du kan skicka filer till anslutna Bluetooth-enheter, exempelvis mobiltelefoner eller andra datorer. Vissa typer av enheter tillåter inte filöverföringar eller vissa typer av filer. Du kan skicka filer på tre olika sätt: genom att använda Bluetooth-ikonen på menyraden, från inställningsfönstret för Bluetooth, eller direkt från filhanteraren.</p>
+<p class="p">Du kan skicka filer till anslutna Bluetooth-enheter, exempelvis mobiltelefoner eller andra datorer. Vissa typer av enheter tillåter inte filöverföringar eller vissa specifika typer av filer. Du kan skicka filer via inställningsfönstret för Bluetooth.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Bluetooth</span> för att öppna panelen.</p></li>

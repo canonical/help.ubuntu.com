@@ -53,7 +53,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Enviando arquivos a um dispositivo Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Você pode enviar arquivos para dispositivos Bluetooth conectados, tais como alguns telefones celulares ou outros computadores. Alguns tipos de dispositivos não permitem a transferência de arquivos ou de tipos específicos de arquivos. Você pode fazer esses envios de três formas: usando o ícone Bluetooth na barra superior, a partir da janela de configurações de Bluetooth ou diretamente do gerenciador de arquivos.</p>
+<p class="p">Você pode enviar arquivos para dispositivos Bluetooth conectados, tais como alguns telefones celulares ou outros computadores. Alguns tipos de dispositivos não permitem a transferência de arquivos ou de tipos específicos de arquivos. Você pode enviar arquivos usando a janela de configurações de Bluetooth.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Bluetooth</span> para abrir o painel.</p></li>

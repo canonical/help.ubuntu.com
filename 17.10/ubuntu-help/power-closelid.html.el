@@ -70,11 +70,12 @@
 <p class="p">Αν δεν θέλετε ο υπολογιστής σας να αναστέλλεται όταν κλείνετε το καπάκι, μπορείτε να απενεργοποιήσετε αυτή την συμπεριφορά.</p>
 <div class="note note-warning" title="Προειδοποίηση"><div class="inner"><div class="region"><div class="contents"><p class="p">Να είσαστε πολύ προσεκτικοί εάν αλλάζετε αυτήν τη ρύθμιση. Μερικοί φορητοί μπορεί να υπερθερμανθούν, εάν αφήνονται να εκτελούνται με το καπάκι κλειστό, ειδικά εάν είναι σε μια περιορισμένη θέση όπως σε ένα σακίδιο.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Activities</a></span> overview and
-      start typing <span class="gui">Tweaks</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Activities</a></span>
+      overview and start typing <span class="gui">Tweaks</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Tweaks</span> to open the application.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στην καρτέλα <span class="gui">Ενέργεια</span>.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Don’t suspend on lid close</span> to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Switch <span class="gui">Suspend when laptop lid is closed</span> to
+      <span class="gui">OFF</span>.</p></li>
 <li class="steps"><p class="p">Close the <span class="gui">Tweaks</span> window.</p></li>
 </ol></div></div></div>
 </div></div>

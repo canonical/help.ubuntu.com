@@ -52,7 +52,7 @@
 <p class="p">Om een e-mail te sturen naar, te chatten of te telefoneren met iemand in <span class="app">Contacten</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Kies een contactpersoon uit uw contactenlijst</p></li>
-<li class="steps"><p class="p">Klik op het <span class="gui">kenmerk</span> dat u wil gebruiken. Bijvoorbeeld, als u uw contactpersoon wilt e-mailen, klikt u op het e-mailadres.</p></li>
+<li class="steps"><p class="p">Klik op het <span class="em">kenmerk</span> dat u wil gebruiken. Bijvoorbeeld, als u uw contactpersoon wilt e-mailen, klikt u op het e-mailadres.</p></li>
 <li class="steps"><p class="p">The corresponding application will be launched using the contact’s
       details.</p></li>
 </ol></div></div></div>

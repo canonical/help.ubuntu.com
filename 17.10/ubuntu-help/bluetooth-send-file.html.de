@@ -53,7 +53,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Dateien an ein Bluetooth-Gerät senden</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Sie können Dateien an andere verbundene Bluetooth-Geräte senden, zum Beispiel Mobiltelefone oder andere Rechner. Einige Gerätetypen ermöglichen keine Übertragungen von Dateien allgemein oder von bestimmten Dateitypen. Sie können Dateien auf drei verschiedene Arten übertragen: mit dem Bluetooth-Symbol in der Menüleiste, aus dem Bluetooth-Einstellungsfenster oder direkt über die Dateiverwaltung.</p>
+<p class="p">Sie können Dateien an verbundene Bluetooth-Geräte senden, zum Beispiel Mobiltelefone oder andere Rechner. Einige Gerätetypen ermöglichen keine Übertragungen von Dateien oder von bestimmten Dateitypen. Sie können Dateien mit dem Bluetooth-Einstellungsfenster verschicken.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Bluetooth</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Bluetooth</span>, um das Panel zu öffnen.</p></li>

@@ -62,10 +62,9 @@
 <div class="title title-steps"><h2><span class="title">To set the length of time before your screen locks
     automatically:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Privacy</span>.</p></li>
-<li class="steps"><p class="p">Kliknij ikonę <span class="gui">Prywatność</span>, aby otworzyć panel.</p></li>
-<li class="steps"><p class="p">Select <span class="gui">Screen Lock</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Prywatność</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Prywatność</span>, aby otworzyć panel.</p></li>
+<li class="steps"><p class="p">Wybierz <span class="gui">Blokada ekranu</span>.</p></li>
 <li class="steps"><p class="p">Make sure <span class="gui">Automatic Screen Lock</span> is switched <span class="gui">ON</span>,
       then select a length of time from the drop-down list.</p></li>
 </ol></div>

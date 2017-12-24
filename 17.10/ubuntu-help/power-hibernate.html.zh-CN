@@ -65,7 +65,7 @@
 </div></div>
 <p class="p">您可以使用以下命令测试休眠是否在您的电脑上正常工作。</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">通过按 <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>t</kbd></span></span> 或在 <span class="gui">Dash</span> 中搜索 <span class="input">终端</span> 来打开 <span class="app">终端</span>。</p></li>
+<li class="steps"><p class="p">在 <span class="gui">活动总揽</span> 中搜索 <span class="input">终端</span> 打开 <span class="app">终端</span>。</p></li>
 <li class="steps">
 <p class="p">Type <span class="cmd">sudo systemctl hibernate</span> into the terminal and press <span class="key"><kbd>Enter</kbd></span>.</p>
 <p class="p">按提示输入密码。</p>

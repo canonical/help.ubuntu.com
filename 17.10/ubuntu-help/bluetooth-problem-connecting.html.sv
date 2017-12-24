@@ -56,7 +56,7 @@
 <dt class="terms">Bluetooth-hårdvara kändes inte igen</dt>
 <dd class="terms"><p class="p">Din Bluetooth-adapter kanske inte har känts igen av datorn. Detta skulle kunna vara för att <span class="link"><a href="hardware-driver.html" title="Vad är en drivrutin?">drivrutiner</a></span> för adaptern inte installerats. Vissa Bluetooth-adaptrar saknar stöd under Linux, så du kan kanske inte få tag i rätt drivrutiner för dessa. Om det är fallet kommer du troligtvis att behöva skaffa en annan Bluetooth-adapter.</p></dd>
 <dt class="terms">Adaptern är inte påslagen</dt>
-<dd class="terms"><p class="p">Försäkra att din Bluetooth-adapter är påslagen. Klicka på Bluetooth-ikonen i <span class="gui">menyraden</span> och kontrollera att den inte är <span class="link"><a href="bluetooth-turn-on-off.html" title="Aktivera eller inaktivera Bluetooth">inaktiverad</a></span>.</p></dd>
+<dd class="terms"><p class="p">Försäkra att din Bluetooth-adapter är påslagen. Öppna Bluetooth-panelen och kontrollera att den inte är <span class="link"><a href="bluetooth-turn-on-off.html" title="Aktivera eller inaktivera Bluetooth">inaktiverad</a></span>.</p></dd>
 <dt class="terms">Enhetens Bluetooth-anslutning är avslagen</dt>
 <dd class="terms"><p class="p">Kontrollera att Bluetooth är påslaget i enheten du försöker ansluta till och att den är <span class="link"><a href="bluetooth-visibility.html" title="Vad är Bluetooth-synlighet?">detekterbar eller synlig</a></span>. Om du till exempel försöker ansluta till en telefon, säkerställ att den inte är i flygplansläge.</p></dd>
 <dt class="terms">Ingen Bluetooth-adapter i din dator</dt>

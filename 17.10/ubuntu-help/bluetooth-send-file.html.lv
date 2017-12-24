@@ -53,7 +53,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Sūtīt datnes uz Bluetooth ierīci</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Jūs varat nosūtīt datnes uz savienotajām Bluetooth ierīcēm, tādām kā daži mobilie telefoni vai citi datori. Daži ierīču tipi neatļauj datņu vai specifisku datņu tipu pārraidi. Jūs varat sūtīt datnes vienā no trijiem veidiem — izmantojot Bluetooth izvēļņu joslā, no Bluetooth iestatījumu loga, vai tieši no datņu pārvaldnieka.</p>
+<p class="p">Jūs varat nosūtīt datnes uz savienotajām Bluetooth ierīcēm, tādām kā daži mobilie telefoni vai citi datori. Daži ierīču tipi neatļauj datņu vai specifisku datņu tipu pārraidi. Jūs varat sūtīt datnes, izmantojot  Bluetooth iestatījumu logu.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Bluetooth</span>, lai atvērtu paneli.</p></li>

@@ -49,10 +49,24 @@
 <div class="hgroup"><h1 class="title"><span class="title">Activation ou désactivation du Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Activez le Bluetooth pour vous connecter aux autres périphériques Bluetooth, ou désactivez-le pour économiser l'énergie. Pour activer le Bluetooth, cliquez sur l'icône Bluetooth dans la barre de menu et basculez l'interrupteur <span class="gui">Bluetooth</span> sur <span class="gui">Activé</span>.</p>
-<p class="p">Beaucoup d'ordinateurs portables disposent d'un sélecteur matériel ou possèdent une combinaison de touches pour activer ou désactiver le Bluetooth. Si le matériel Bluetooth est éteint, vous n'avez pas d'icône Bluetooth dans la barre supérieure de l'écran. Recherchez un bouton sur votre ordinateur ou une touche sur votre clavier. On peut souvent accéder à la touche clavier grâce à la touche <span class="key"><kbd class="key-Fn">Fn</kbd></span>.</p>
-<p class="p">Pour désactiver le Bluetooth, cliquez sur l'icône Bluetooth puis basculez l'interrupteur <span class="gui">Bluetooth</span> sur <span class="gui">Désactivé</span>.</p>
-<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">Votre ordinateur est <span class="link"><a href="bluetooth-visibility.html" title="Qu'est-ce que la visibilité Bluetooth ?">visible</a></span> tant que l'interrupteur <span class="gui">Visible</span> est sur <span class="gui">Activé</span> dans le menu Bluetooth.</p></div></div></div></div>
+<p class="p">Activez le Bluetooth pour vous connecter aux autres périphériques Bluetooth, ou désactivez-le pour économiser l'énergie. Pour activer le Bluetooth :</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
+      start typing <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Cliquez sur <span class="gui">Bluetooth</span> pour ouvrir le panneau.</p></li>
+<li class="steps"><p class="p">Basculez l'interrupteur dans la partie supérieure sur <span class="gui">Activé</span>.</p></li>
+</ol></div></div></div>
+<p class="p">Beaucoup d'ordinateurs portables disposent d'un sélecteur matériel ou ont une combinaison de touches pour activer ou désactiver le Bluetooth. Recherchez un bouton sur votre ordinateur ou une touche sur votre clavier. On peut souvent accéder à la touche clavier grâce à la touche <span class="key"><kbd class="key-Fn">Fn</kbd></span>.</p>
+<p class="p">Pour désactiver le Bluetooth :</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#yourname" title="Vous et votre ordinateur">system menu</a></span> from the
+      right side of the top bar.</p></li>
+<li class="steps"><p class="p">Select
+      <span class="gui"><span class="media"><span class="media media-image"><img src="figures/bluetooth-active-symbolic.svg" class="media media-inline" alt=""></span></span>
+      Not In Use</span>. The Bluetooth section of the menu will expand.</p></li>
+<li class="steps"><p class="p">Sélectionnez <span class="gui">Éteindre</span>.</p></li>
+</ol></div></div></div>
+<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">Votre ordinateur est <span class="link"><a href="bluetooth-visibility.html" title="Qu'est-ce que la visibilité Bluetooth ?">visible</a></span> tant que le panneau <span class="gui">Bluetooth</span> est ouvert.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

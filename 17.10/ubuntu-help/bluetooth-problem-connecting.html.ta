@@ -61,9 +61,9 @@
       not be able to get the right drivers for them. In this case, you will
       probably have to get a different Bluetooth adapter.</p></dd>
 <dt class="terms">Adapter is not switched on</dt>
-<dd class="terms"><p class="p">Make sure that your Bluetooth adapter is switched on. Click the
-          Bluetooth icon in the <span class="gui">menu bar</span> and check that it’s not
-          <span class="link"><a href="bluetooth-turn-on-off.html" title="Bluetooth ஐ இயக்குதல் அல்லது அணைத்தல்">disabled</a></span>.</p></dd>
+<dd class="terms"><p class="p">Make sure that your Bluetooth adapter is switched on. Open the
+        Bluetooth panel and check that it is not
+        <span class="link"><a href="bluetooth-turn-on-off.html" title="Bluetooth ஐ இயக்குதல் அல்லது அணைத்தல்">disabled</a></span>.</p></dd>
 <dt class="terms">சாதன Bluetooth இணைப்பு அணைக்கப்பட்டுள்ளது</dt>
 <dd class="terms"><p class="p">Check that Bluetooth is turned on on the device you are trying to
       connect to, and that it is <span class="link"><a href="bluetooth-visibility.html" title="Bluetooth புலப்படுதன்மை என்றால் என்ன?">discoverable

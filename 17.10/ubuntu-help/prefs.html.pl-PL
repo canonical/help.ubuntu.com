@@ -51,24 +51,15 @@
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
 <div class="links-grid-link"><a href="clock.html" title="Data i czas">Data i czas</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="clock-set.html" title="Zmiana daty i czasu">Set date and time</a></span>,
-      <span class="link"><a href="clock-world.html" title="Dodawanie zegara światowego">world clocks</a></span>,
-      <span class="link"><a href="clock-timezone.html" title="Zmiana strefy czasowej">timezone</a></span>,
-      <span class="link"><a href="clock-calendar.html" title="Calendar appointments">calendar and appointments</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="clock-set.html" title="Zmiana daty i czasu">Ustawianie daty i czasu</a></span>, <span class="link"><a href="clock-world.html" title="Dodawanie zegara światowego">zegary światowe</a></span>, <span class="link"><a href="clock-timezone.html" title="Zmiana strefy czasowej">strefa czasowa</a></span>, <span class="link"><a href="clock-calendar.html" title="Spotkania w kalendarzu">kalendarz i spotkania</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="media.html#sound" title="Basic sound">Dźwięk</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="sound-volume.html" title="Zmiana głośności dźwięku">Głośność</a></span>, <span class="link"><a href="sound-usespeakers.html" title="Use different speakers or headphones">głośniki i słuchawki</a></span>, <span class="link"><a href="sound-usemic.html" title="Use a different microphone">mikrofony</a></span>…</span></div>
+<div class="links-grid-link"><a href="media.html#sound" title="Dźwięk">Dźwięk</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="sound-volume.html" title="Zmiana głośności dźwięku">Głośność</a></span>, <span class="link"><a href="sound-usespeakers.html" title="Używanie innych głośników lub słuchawek">głośniki i słuchawki</a></span>, <span class="link"><a href="sound-usemic.html" title="Używanie innego mikrofonu">mikrofony</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs-display.html" title="Ekran">Ekran</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="look-background.html" title="Change the desktop and lock screen backgrounds">Background</a></span>,
-      <span class="link"><a href="look-resolution.html" title="Change the resolution or rotation of the screen">size and rotation</a></span>,
-      brightness…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="look-background.html" title="Zmiana tła pulpitu i ekranu blokady">Tło</a></span>, <span class="link"><a href="look-resolution.html" title="Change the resolution or rotation of the screen">rozmiar i obrót</a></span>, Jasność…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="keyboard.html" title="Klawiatura">Klawiatura</a></div>
@@ -96,7 +87,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs-language.html" title="Region i język">Region i język</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="session-language.html" title="Change which language you use">Język</a></span>, <span class="link"><a href="session-formats.html" title="Change date and measurement formats">region i formaty</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">układy klawiatury</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="session-language.html" title="Zmiana używanego języka">Język</a></span>, <span class="link"><a href="session-formats.html" title="Change date and measurement formats">region i formaty</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">układy klawiatury</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="startup-applications.html" title="Startup Applications">Startup Applications</a></div>
@@ -124,11 +115,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="color.html" title="Zarządzanie kolorami">Zarządzanie kolorami</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="color-whyimportant.html" title="Why is color management important?">Why is this important</a></span>,
-      <span class="link"><a href="color.html#profiles" title="Profile kolorów">Color profiles</a></span>,
-      <span class="link"><a href="color.html#calibration" title="Kalibracja">How to calibrate a device</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html" title="Why is color management important?">Dlaczego to jest ważne</a></span>, <span class="link"><a href="color.html#profiles" title="Profile kolorów">Profile kolorów</a></span>, <span class="link"><a href="color.html#calibration" title="Kalibracja">Jak skalibrować urządzenie</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="power.html" title="Zasilanie i akumulator">Zasilanie i akumulator</a></div>

@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Where can I find the files I want to back up?</title>
+<title>Gdzie mogę znaleźć pliki do zachowania w kopii zapasowej?</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,49 +43,31 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html#backup" title="Backing up">Backing up</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html#backup" title="Kopie zapasowe">Kopie zapasowe</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Where can I find the files I want to back up?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Gdzie mogę znaleźć pliki do zachowania w kopii zapasowej?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Deciding which files to back up, and locating them, is the most difficult
- step when attempting to perform a backup. Listed below are the most common
- locations of important files and settings that you may want to back up.</p>
+<p class="p">Najtrudniejszym krokiem podczas tworzenia kopii zapasowej jest decyzja, które pliki zachować i gdzie je znaleźć. Poniżej znajduje się lista najczęstszych miejsc ważnych plików i ustawień, które warto zachować.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
-<p class="p">Personal files (documents, music, photos and videos)</p>
-<p class="p">These are usually stored in your home folder (<span class="file">/home/your_name</span>).
- They could be in subfolders such as Desktop, Documents, Pictures, Music and
- Videos.</p>
-<p class="p">If your backup medium has sufficient space (if it is an external hard
-  disk, for example), consider backing up the entire Home folder. You can find
-  out how much disk space your Home folder takes up by using the
-  <span class="app">Disk Usage Analyzer</span>.</p>
+<p class="p">Pliki użytkownika (dokumenty, muzyka, zdjęcia i filmy)</p>
+<p class="p">Są zwykle przechowywane w katalogu domowym (<span class="file">/home/nazwa-użytkownika</span>). Mogą być w podkatalogach, takich jak Pulpit, Obrazy, Muzyka i Wideo.</p>
+<p class="p">Jeśli na nośniku kopii zapasowej jest wystarczająco miejsca (na przykład, jeśli to zewnętrzny dysk twardy), to rozważ zachowanie całego katalogu domowego. Można sprawdzić, ile miejsca na dysku zajmuje za pomocą <span class="app">Analizatora wykorzystania dysku</span>.</p>
 </li>
 <li class="list">
 <p class="p">Ukryte pliki</p>
-<p class="p">Any file or folder name that starts with a period (.) is hidden by
-  default. To view hidden files, click the
-  <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down.png" class="media media-inline" alt="View options"></span></span></span>
-  button in the toolbar, and then choose <span class="gui">Show Hidden Files</span>, or press
-  <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. You can copy these to a
-  backup location like any other file.</p>
+<p class="p">Pliki i katalogi z nazwami zaczynającymi się od kropki (.) są domyślnie ukryte. Aby je wyświetlić, kliknij przycisk <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down.png" class="media media-inline" alt="Opcje widoku"></span></span></span> na pasku narzędziowym, a następnie zaznacz opcję <span class="gui">Ukryte pliki</span>, albo naciśnij klawisze <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Można skopiować te pliki do kopii zapasowej tak samo, jak inne pliki.</p>
 </li>
 <li class="list">
-<p class="p">Personal settings (desktop preferences, themes, and software settings)</p>
-<p class="p">Most applications store their settings in hidden folders inside your Home
- folder (see above for information on hidden files).</p>
-<p class="p">Most of your application settings will be stored in the hidden folders
- <span class="file">.config</span> and <span class="file">.local</span> in your Home folder.</p>
+<p class="p">Ustawienia użytkownika (preferencje pulpitu, motywy i ustawienia programów)</p>
+<p class="p">Większość programów przechowuje swoje ustawienia w ukrytych katalogach w katalogu domowym (powyżej znajdują się informacje o ukrytych plikach).</p>
+<p class="p">Większość ustawień programów jest przechowywanych w ukrytych katalogach <span class="file">.config</span> i <span class="file">.local</span> w katalogu domowym.</p>
 </li>
 <li class="list">
 <p class="p">Ustawienia systemowe</p>
-<p class="p">Settings for important parts of the system are not stored in your Home
-  folder. There are a number of locations that they could be stored, but most
-  are stored in the <span class="file">/etc</span> folder. In general, you will not need to
-  back up these files on a home computer. If you are running a server, however,
-  you should back up the files for the services that it is running.</p>
+<p class="p">Ustawienia ważnych części systemu nie są przechowywane w katalogu domowym. Mogą one być w wielu miejscach, ale większość jest w katalogu <span class="file">/etc</span>. Generalnie nie ma potrzeby zachowywania tych plików na komputerze domowym. W przypadku serwera należy zachować pliki działających usług.</p>
 </li>
 </ul></div></div></div>
 </div>
@@ -93,7 +75,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#backup" title="Backing up">Backing up</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html#backup" title="Kopie zapasowe">Kopie zapasowe</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

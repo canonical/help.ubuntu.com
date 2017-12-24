@@ -59,9 +59,8 @@
 <div class="region"><div class="contents">
 <p class="p">You can tap your touchpad to click instead of using a button.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
-<li class="steps"><p class="p">Kliknij ikonę <span class="gui">Mysz i panel dotykowy</span>, aby otworzyć panel.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Mysz i panel dotykowy</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Mysz i panel dotykowy</span>, aby otworzyć panel.</p></li>
 <li class="steps">
 <p class="p">In the <span class="gui">Touchpad</span> section, check <span class="gui">Tap to click</span>.</p>
 <div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">The <span class="gui">Touchpad</span> section only appears if your system has a
@@ -79,7 +78,7 @@
       buttons to right-click. See <span class="link"><a href="a11y-right-click.html" title="Symulacja kliknięcia prawym przyciskiem myszy">Symulacja kliknięcia prawym przyciskiem myszy</a></span> for a method
       of right-clicking without a second mouse button.</p></li>
 <li class="list"><p class="p">If your touchpad supports multi-finger taps,
-      <span class="link"><a href="mouse-middleclick.html" title="Middle-click">middle-click</a></span> by tapping with three
+      <span class="link"><a href="mouse-middleclick.html" title="Kliknięcie środkowym przyciskiem myszy">middle-click</a></span> by tapping with three
       fingers at once.</p></li>
 </ul></div></div></div>
 <div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">When tapping or dragging with multiple fingers, make sure your fingers
@@ -92,9 +91,8 @@
 <div class="region"><div class="contents">
 <p class="p">You can scroll using your touchpad using two fingers.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
-<li class="steps"><p class="p">Kliknij ikonę <span class="gui">Mysz i panel dotykowy</span>, aby otworzyć panel.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Mysz i panel dotykowy</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Mysz i panel dotykowy</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">Touchpad</span> section, check <span class="gui">Two finger
       scroll</span>.</p></li>
 </ol></div></div></div>
@@ -113,9 +111,8 @@
 <p class="p">You can drag content as if sliding a physical piece of paper using the
   touchpad.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
-<li class="steps"><p class="p">Kliknij ikonę <span class="gui">Mysz i panel dotykowy</span>, aby otworzyć panel.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Mysz i panel dotykowy</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Mysz i panel dotykowy</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">Touchpad</span> section, check <span class="gui">Natural
       scrolling</span>.</p></li>
 </ol></div></div></div>

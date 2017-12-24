@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Als u een computer heeft waarop een draadloos netwerk ingeschakeld is, dan kunt u verbinden met een draadloos netwerk dat binnen bereik is om toegang te krijgen tot internet, gedeelde bestanden te bekijken op het netwerk, enz.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open het <span class="link"><a href="unity-menubar-intro.html" title="unity-menubar-intro">Systeemmenu</a></span> aan de rechterzijde van de menubalk.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#yourname" title="U en uw computer">Systeemmenu</a></span> aan de rechterzijde van de menubalk.</p></li>
 <li class="steps"><p class="p">Selecteer <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span> Wifi niet verbonden</span>. Het wifi-gedeelte van het menu klapt uit.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Netwerk selecteren</span>.</p></li>
 <li class="steps">

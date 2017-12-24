@@ -51,7 +51,17 @@
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Esplorare il web</span></h1></div>
 <div class="region">
-<div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
+<div class="contents">
+<div class="media media-image"><div class="inner"><img src="gs-web-browser1-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Spostare il puntatore del mouse sull'angolo <span class="gui">Attività</span> in alto a sinistra sullo schermo per mostrare la <span class="gui">Panoramica attività</span>.</p></li>
+<li class="steps"><p class="p">Select the <span class="app">Firefox</span> browser icon from the bar on the
+      left-hand side of the screen.</p></li>
+</ol></div></div></div>
+<div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents"><p class="p">Alternatively, you can launch the browser by <span class="link"><a href="gs-use-system-search.html" title="Usare la ricerca di sistema">just typing</a></span> <span class="em">Firefox</span> in the
+    <span class="gui">Activities Overview</span>.</p></div></div></div></div>
+<div class="media media-image"><div class="inner"><img src="gs-web-browser2-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
 <li class="steps"><p class="p">Click the address bar at the top of the browser window and start
        typing in the website you want to visit.</p></li>
 <li class="steps">
@@ -60,7 +70,8 @@
 </li>
 <li class="steps"><p class="p">È possibile selezionare rapidamente un sito web dall'elenco a discesa usando i tasti freccia.</p></li>
 <li class="steps"><p class="p">Una volta selezionato il sito web, premere <span class="key"><kbd>Invio</kbd></span> per visitarlo.</p></li>
-</ol></div></div></div></div>
+</ol></div></div></div>
+</div>
 <div class="links nextlinks">
 <a class="nextlinks-prev" href="gs-get-online.html" title="Andare online">Indietro</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="Connettere ad account online">Avanti</a>
 </div>

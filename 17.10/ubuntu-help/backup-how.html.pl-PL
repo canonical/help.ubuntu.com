@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>How to back up</title>
+<title>Jak wykonywać kopię zapasową</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,33 +43,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html#backup" title="Backing up">Backing up</a> » <a class="trail" href="backup-why.html" title="Back up your important files">Kopie zapasowe</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html#backup" title="Kopie zapasowe">Kopie zapasowe</a> » <a class="trail" href="backup-why.html" title="Tworzenie kopii zapasowych ważnych plików">Kopie zapasowe</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">How to back up</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Jak wykonywać kopię zapasową</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">The easiest way of backing up your files and settings is to let a backup
- application manage the backup process for you. A number of different backup
- applications are available, for example <span class="app">Déjà Dup</span>.</p>
-<p class="p">The help for your chosen backup application will walk you through setting
- your preferences for the backup, as well as how to restore your data.</p>
-<p class="p">An alternative option is to <span class="link"><a href="files-copy.html" title="Copy or move files and folders">copy your files</a></span>
- to a safe location, such as an external hard drive, another computer on the
- network, or a USB drive. Your <span class="link"><a href="backup-thinkabout.html" title="Where can I find the files I want to back up?">personal files</a></span>
- and settings are usually in your Home folder, so you can copy them from there.</p>
-<p class="p">The amount of data you can back up is limited by the size of the storage
- device. If you have the room on your backup device, it is best to back up the
- entire Home folder with the following exceptions:</p>
+<p class="p">Najłatwiejszym sposobem tworzenia kopii zapasowej plików i ustawień jest użycie programu, który zrobi to automatycznie. Dostępnych jest wiele programów tego typu, na przykład <span class="app">Déjà Dup</span>.</p>
+<p class="p">Pomoc wybranego programu pomoże ustawić preferencje kopii zapasowych, a także pokaże, jak przywrócić dane.</p>
+<p class="p">Inną możliwością jest <span class="link"><a href="files-copy.html" title="Kopiowanie i przenoszenie plików i katalogów">skopiowanie plików</a></span> w bezpieczne miejsce, takie jak zewnętrzny dysk twardy, inny komputer w sieci lub dysk USB. <span class="link"><a href="backup-thinkabout.html" title="Gdzie mogę znaleźć pliki do zachowania w kopii zapasowej?">Pliki użytkownika</a></span> i ustawienia zwykle znajdują się w katalogu domowym, więc można je z niego skopiować.</p>
+<p class="p">Ilość danych, jaką można zachować w kopii zapasowej jest ograniczona rozmiarem urządzenia do przechowywania danych. Jeśli na urządzeniu jest wystarczająca ilość miejsca, to najlepiej jest zachować cały katalog domowy, z wyjątkiem:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Files that are already backed up somewhere else, such as to a CD, DVD,
- or other removable media.</p></li>
-<li class="list"><p class="p">Files that you can recreate easily. For example, if you are a
- programmer, you do not have to back up the files that get produced when you
- compile your programs. Instead, just make sure that you back up the original
- source files.</p></li>
-<li class="list"><p class="p">Any files in the Trash folder. Your Trash folder can be found in
- <span class="file">~/.local/share/Trash</span>.</p></li>
+<li class="list"><p class="p">Pliki już zachowane na innym nośniku, takim jak płyta CD, DVD czy innym nośniku wymiennym.</p></li>
+<li class="list"><p class="p">Pliki, które można łatwo odtworzyć. Na przykład programiści nie muszą zachowywać plików tworzonych podczas kompilowania programów. Lepiej jest upewnić się, że oryginalne pliki źródłowe są zachowane.</p></li>
+<li class="list"><p class="p">Pliki w Koszu. Kosz znajduje się w katalogu <span class="file">~/.local/share/Trash</span>.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -77,7 +64,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="backup-why.html" title="Back up your important files">Back up your important files</a><span class="desc"> — Why, what, where and how of backups.</span>
+<a href="backup-why.html" title="Tworzenie kopii zapasowych ważnych plików">Tworzenie kopii zapasowych ważnych plików</a><span class="desc"> — Dlaczego, co, gdzie i jak robić kopie zapasowe.</span>
 </li></ul></div>
 </div></div></div>
 </div>

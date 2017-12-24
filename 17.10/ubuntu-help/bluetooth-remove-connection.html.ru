@@ -54,8 +54,9 @@
   like a mouse or headset, or if you no longer wish to transfer files to or
   from a device.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Нажмите на значок Bluetooth в <span class="gui">панели меню</span> и выберите <span class="gui">Настроить Bluetooth</span>.</p></li>
-<li class="steps"><p class="p">Выберите <span class="gui">Параметры Bluetooth</span>, чтобы открыть панель.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
+      start typing <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Bluetooth</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Select the device which you want to disconnect from the list.</p></li>
 <li class="steps"><p class="p">In the device dialog box, switch <span class="gui">Connection</span> to
       <span class="gui">OFF</span>, or to remove the device from the <span class="gui">Devices</span> list,

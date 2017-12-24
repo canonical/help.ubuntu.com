@@ -2,7 +2,7 @@
 <html lang=hu>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Adjust the size of a filesystem</title>
+<title>Fájlrendszer méretének beállítása</title>
 <link rel="stylesheet" type="text/css" href="hu.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,49 +46,29 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardver és illesztőprogramok">Hardver</a> » <a class="trail" href="disk.html" title="Lemezek és tárolók">Lemezek és tárolók</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Adjust the size of a filesystem</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Fájlrendszer méretének beállítása</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">A filesystem can be grown to make use of the free space after its
-     partition. Often this is even possible while the filesystem is
-     mounted.</p>
-<p class="p">To make space for another partition after the filesystem, it can be
-     shrunk according to the free space within it.</p>
-<p class="p">Not all filesystems have resize support.</p>
-<p class="p">The partition size will be changed together with the filesystem size.
-     It is also possible to resize a partition without a filesystem in the
-     same way.</p>
+<p class="p">A fájlrendszer növelésével kihasználható a meglévő partíció utáni üres hely. Ez gyakran akkor is lehetséges, ha a fájlrendszer csatolva van.</p>
+<p class="p">A fájlrendszer a benne található üres hely erejéig zsugorítható a hely felszabadításához egy új, mögé helyezett partíciónak.</p>
+<p class="p">Nem minden fájlrendszer támogatja az átméretezést.</p>
+<p class="p">A partíció mérete a fájlrendszer méretével együtt lesz módosítva. Ugyanígy lehetséges a fájlrendszer nélküli partíciók átméretezése is.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Resize a filesystem/partition</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Fájlrendszer/partíció átméretezése</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Nyissa meg a <span class="app">Lemezeket</span> a <span class="gui">Tevékenységek</span> áttekintésből.</p></li>
-<li class="steps"><p class="p">Select the disk containing the filesystem in question from the list
-       of storage devices on the left. If there is more than one volume on
-       the disk, select the volume which contains the filesystem.</p></li>
-<li class="steps"><p class="p">In the toolbar underneath the <span class="gui">Volumes</span> section, click the
-       menu button. Then click <span class="gui">Resize Filesystem…</span> or
-       <span class="gui">Resize…</span> if there is no filesystem.</p></li>
+<li class="steps"><p class="p">Válassza ki a fájlrendszert tartalmazó lemezt a tárolóeszközök bal oldali listájából. Ha több kötet is van a lemezen, akkor válassza ki a fájlrendszert tartalmazó kötetet.</p></li>
+<li class="steps"><p class="p">A <span class="gui">Kötetek</span> szakasz alatti eszköztáron kattintson a menü gombra, majd a <span class="gui">Fájlrendszer átméretezése</span> vagy ha nincs fájlrendszer, akkor a <span class="gui">Formázás…</span> menüpontra.</p></li>
 <li class="steps">
-<p class="p">A dialog will open where the new size can be chosen. The filesystem will
-       be mounted to calculate the minimum size by the amount of current
-       content. If shrinking is not supported the minimum size is the current
-       size. Leave enough space within the filesystem when shrinking to ensure
-       that it can work fast and reliably.</p>
-<p class="p">Depending on how much data has to be moved from the shrunk part, the
-       filesystem resize may take longer time.</p>
-<div class="note note-warning" title="Figyelmeztetés"><div class="inner"><div class="region"><div class="contents"><p class="p">The filesystem resize automatically involves
-         <span class="link"><a href="disk-repair.html" title="Repair a damaged filesystem">repairing</a></span> of the filesystem. Therefore
-         it is advised to back up important data before starting. The action
-         must not be stopped or it will result in a damaged filesystem.</p></div></div></div></div>
+<p class="p">Megjelenik egy ablak, ahol kiválasztható az új méret. A fájlrendszer csatolásra kerül a minimális méret kiszámításához az aktuális tartalom alapján. Ha a zsugorítás nem támogatott, akkor a minimális méret az aktuális méret. Zsugorításkor hagyjon elegendő helyet a fájlrendszeren, hogy az gyorsan és megbízhatóan működhessen.</p>
+<p class="p">A zsugorított részről áthelyezendő adatok mennyiségétől függően a fájlrendszer átméretezése hosszabb ideig is eltarthat.</p>
+<div class="note note-warning" title="Figyelmeztetés"><div class="inner"><div class="region"><div class="contents"><p class="p">A fájlrendszer átméretezése automatikusan magába foglalja a fájlrendszer <span class="link"><a href="disk-repair.html" title="Sérült fájlrendszer javítása">javítását</a></span>. Emiatt a kezdés előtt javasolt biztonsági mentést készíteni a fontos adatokról. Ezt a műveletet nem szabad leállítani, mert az sérült fájlrendszert hagyna maga után.</p></div></div></div></div>
 </li>
 <li class="steps">
-<p class="p">Confirm to start the action by clicking
-         <span class="gui">Resize</span>.</p>
-<p class="p">The action will unmount the filesystem if resizing a mounted filesystem
-      is not supported. Be patient while the filesystem is resized.</p>
+<p class="p">Erősítse meg a művelet elkezdését az <span class="gui">Átméretezés</span> gombra kattintással.</p>
+<p class="p">A művelet leválasztja a fájlrendszert, ha a csatolt fájlrendszer átméretezése nem támogatott. Legyen türelmes a fájlrendszer átméretezéséig.</p>
 </li>
-<li class="steps"><p class="p">After completion of the needed resize and repair actions the filesystem
-       is ready to be used again.</p></li>
+<li class="steps"><p class="p">A szükséges átméretezési és javítási műveletek befejezése után a fájlrendszer készen áll a használatra.</p></li>
 </ol></div>
 </div></div>
 </div>

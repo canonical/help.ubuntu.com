@@ -65,7 +65,7 @@
 </div></div>
 <p class="p">U kunt de opdrachtregel gebruiken om te kijken of de slaapstand werkt op uw computer.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open een <span class="app">Terminalvenster</span> door te drukken op <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>t</kbd></span></span> of door naar <span class="input">terminal</span> te zoeken in de <span class="gui">Snelzoeker</span>.</p></li>
+<li class="steps"><p class="p">Open een <span class="app">Terminalvenster</span> door naar <span class="input">terminal</span> te zoeken  in het <span class="gui">Activiteitenoverzicht</span>.</p></li>
 <li class="steps">
 <p class="p">Open een terminalvenster, typ <span class="cmd">sudo systemctl hibernate</span> in en druk daarna op <span class="key"><kbd>Enter</kbd></span>.</p>
 <p class="p">Voer uw wachtwoord in wanneer daar naar gevraagd wordt.</p>

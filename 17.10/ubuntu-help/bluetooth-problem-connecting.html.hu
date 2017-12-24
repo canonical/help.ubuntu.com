@@ -56,7 +56,7 @@
 <dt class="terms">A Bluetooth hardver ismeretlen</dt>
 <dd class="terms"><p class="p">Lehet, hogy a számítógép nem ismerte fel a Bluetooth-adaptert vagy dongle-t. Ennek az lehet az oka, hogy az adapter <span class="link"><a href="hardware-driver.html" title="Mi az az illesztőprogram?">illesztőprogramja</a></span> nincs telepítve. Néhány Bluetooth-adapter nem támogatott Linux alatt, így lehet, hogy nem tud illesztőprogramot beszerezni hozzájuk. Ebben az esetben próbáljon meg másik Bluetooth-adaptert beszerezni.</p></dd>
 <dt class="terms">Az adapter nincs bekapcsolva</dt>
-<dd class="terms"><p class="p">Győződjön meg róla, hogy a Bluetooth-adapter be van kapcsolva. Kattintson a Bluetooth ikonra a <span class="gui">menüsávon</span>, és ellenőrizze, hogy nincs-e <span class="link"><a href="bluetooth-turn-on-off.html" title="Bluetooth be- vagy kikapcsolása">kikapcsolva</a></span>.</p></dd>
+<dd class="terms"><p class="p">Győződjön meg róla, hogy a Bluetooth-adapter be van kapcsolva. Nyissa meg a Bluetooth panelt, és ellenőrizze, hogy nincs-e <span class="link"><a href="bluetooth-turn-on-off.html" title="Bluetooth be- vagy kikapcsolása">kikapcsolva</a></span>.</p></dd>
 <dt class="terms">Az eszköz Bluetooth-kapcsolata ki van kapcsolva</dt>
 <dd class="terms"><p class="p">Ellenőrizze, hogy a Bluetooth be van kapcsolva az eszközön, amelyhez csatlakozni kíván, és <span class="link"><a href="bluetooth-visibility.html" title="Mi az a Bluetooth-láthatóság?">felfedezhető vagy látható</a></span>. Ha például egy telefonhoz próbál csatlakozni, ellenőrizze, hogy az nincs-e repülő módban.</p></dd>
 <dt class="terms">Nincs Bluetooth csatoló a számítógépben</dt>

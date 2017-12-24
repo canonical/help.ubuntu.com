@@ -67,7 +67,7 @@
 <li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Justering</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Justering</span> för att öppna programmet.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Ström</span>-fliken.</p></li>
-<li class="steps"><p class="p">Slå om <span class="gui">Försätt inte i vänteläge då locket stängs</span> till <span class="gui">PÅ</span>.</p></li>
+<li class="steps"><p class="p">Slå om <span class="gui">Gå in i vänteläge då locket på den bärbara datorn stängs</span> till <span class="gui">AV</span>.</p></li>
 <li class="steps"><p class="p">Stäng fönstret <span class="gui">Justering</span>.</p></li>
 </ol></div></div></div>
 </div></div>

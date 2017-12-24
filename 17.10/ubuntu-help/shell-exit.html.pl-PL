@@ -118,10 +118,10 @@
 <div class="title"><h3><span class="title">Proszę zobaczyć także</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-autosuspend.html" title="Set up automatic suspend">Set up automatic suspend</a><span class="desc"> — Configure your computer to suspend automatically.</span>
+<a href="power-batterylife.html" title="Use less power and improve battery life">Use less power and improve battery life</a><span class="desc"> — Tips to reduce the power consumption of your computer.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="Use less power and improve battery life">Use less power and improve battery life</a><span class="desc"> — Tips to reduce the power consumption of your computer.</span>
+<a href="power-autosuspend.html" title="Ustawianie automatycznego usypiania">Ustawianie automatycznego usypiania</a><span class="desc"> — Configure your computer to suspend automatically.</span>
 </li>
 <li class="links ">
 <a href="power-suspend.html" title="What happens when I suspend my computer?">What happens when I suspend my computer?</a><span class="desc"> — Suspend sends your computer to sleep so it uses less power.</span>
@@ -164,10 +164,10 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="index.html" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li>
 <li class="links ">
-<a href="shell-overview.html" title="Your desktop">Your desktop</a><span class="desc"> — <span class="link"><a href="clock-calendar.html" title="Calendar appointments">Kalendarz</a></span>, <span class="link"><a href="shell-notifications.html" title="Powiadomienia i obszar powiadamiania">powiadomienia</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Przydatne skróty klawiszowe">skróty klawiszowe</a></span>, <span class="link"><a href="shell-windows.html" title="Okna i obszary robocze">okna i obszary robocze</a></span>…</span>
+<a href="shell-overview.html" title="Pulpit użytkownika">Pulpit użytkownika</a><span class="desc"> — <span class="link"><a href="clock-calendar.html" title="Spotkania w kalendarzu">Kalendarz</a></span>, <span class="link"><a href="shell-notifications.html" title="Powiadomienia i obszar powiadamiania">powiadomienia</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Przydatne skróty klawiszowe">skróty klawiszowe</a></span>, <span class="link"><a href="shell-windows.html" title="Okna i obszary robocze">okna i obszary robocze</a></span>…</span>
 </li>
+<li class="links "><a href="index.html" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li>
 <li class="links ">
 <a href="power.html" title="Zasilanie i akumulator">Zasilanie i akumulator</a><span class="desc"> — 
       <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,

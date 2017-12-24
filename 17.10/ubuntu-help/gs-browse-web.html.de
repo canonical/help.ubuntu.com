@@ -51,7 +51,15 @@
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Im Internet surfen</span></h1></div>
 <div class="region">
-<div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
+<div class="contents">
+<div class="media media-image"><div class="inner"><img src="gs-web-browser1-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Bewegen Sie den Mauszeiger zu der <span class="gui">Aktivitäten</span>-Ecke am linken oberen Rand des Bildschirms, um die <span class="gui">Aktivitäten-Übersicht</span> anzuzeigen.</p></li>
+<li class="steps"><p class="p">Wählen Sie das Browser-Symbol <span class="app">Firefox</span> in der Leiste an der linken Seite des Bildschirms aus.</p></li>
+</ol></div></div></div>
+<div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents"><p class="p">Alternativ können Sie den Browser starten, indem Sie <span class="em">Firefox</span> in die <span class="gui">Aktivitäten-Übersicht</span> <span class="link"><a href="gs-use-system-search.html" title="Die Systemsuche verwenden">einfach eintippen</a></span>.</p></div></div></div></div>
+<div class="media media-image"><div class="inner"><img src="gs-web-browser2-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
 <li class="steps"><p class="p">Klicken Sie auf die Adressleiste oben im Browser-Fenster und geben Sie die Internetseite ein, die Sie besuchen wollen.</p></li>
 <li class="steps">
 <p class="p">Beim Eingeben der Internetseite wird begonnen, in der Chronik des Browsers und in den Lesezeichen zu suchen, so dass Sie nicht die exakte Adresse wissen müssen.</p>
@@ -59,7 +67,8 @@
 </li>
 <li class="steps"><p class="p">In der Auswahlliste können Sie eine Internetseite einfach mit den Pfeiltasten auswählen.</p></li>
 <li class="steps"><p class="p">Nachdem Sie eine Internetseite ausgewählt haben, drücken Sie die <span class="key"><kbd>Eingabetaste</kbd></span>, um sie zu besuchen.</p></li>
-</ol></div></div></div></div>
+</ol></div></div></div>
+</div>
 <div class="links nextlinks">
 <a class="nextlinks-prev" href="gs-get-online.html" title="Online gehen">Zurück</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="Mit Online-Konten verbinden">Weiter</a>
 </div>

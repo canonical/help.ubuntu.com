@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Turn off wireless (airplane mode)</title>
+<title>Wyłączanie urządzeń bezprzewodowych (tryb samolotowy)</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,7 +46,7 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-wireless.html" title="Sieć bezprzewodowa">Sieć bezprzewodowa</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Turn off wireless (airplane mode)</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Wyłączanie urządzeń bezprzewodowych (tryb samolotowy)</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">If you have your computer on an airplane (or some other area where wireless
@@ -55,11 +55,10 @@
  for example).</p>
 <div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Using <span class="em">Airplane Mode</span> will completely turn off all wireless
     connections, including WiFi, 3G and Bluetooth connections.</p></div></div></div></div>
-<p class="p">To turn on airplane mode:</p>
+<p class="p">Aby włączyć tryb samolotowy:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Network</span>.</p></li>
-<li class="steps"><p class="p">Kliknij ikonę <span class="gui">Sieć</span>, aby otworzyć panel.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Sieć</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Sieć</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">Switch <span class="gui">Airplane Mode</span> to <span class="gui">ON</span>. This will turn off
       your wireless connection until you disable airplane mode again.</p></li>
 </ol></div></div></div>
@@ -72,11 +71,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Sieć bezprzewodowa">Sieć bezprzewodowa</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html" title="Connect to a wireless network">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="Connect to a hidden wireless network">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="Why does my wireless network keep disconnecting?">Disconnecting</a></span>…
-    </span>
+<a href="net-wireless.html" title="Sieć bezprzewodowa">Sieć bezprzewodowa</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Łączenie z siecią bezprzewodową">Łączenie z siecią Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Łączenie z ukrytą siecią bezprzewodową">Ukryte sieci</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Why does my wireless network keep disconnecting?">Rozłączanie</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

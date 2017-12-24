@@ -55,7 +55,7 @@
   This can be useful if you want to transfer the document to another machine
   or to share it with someone.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">To print to file:</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Aby wydrukować do pliku:</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the print dialog by pressing
       <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
@@ -78,7 +78,7 @@
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="printing.html" title="Drukowanie">Drukowanie</a><span class="desc"> — 
-      <span class="link"><a href="printing-setup.html" title="Set up a local printer">Local setup</a></span>,
+      <span class="link"><a href="printing-setup.html" title="Ustawianie lokalnej drukarki">Local setup</a></span>,
       
       <span class="link"><a href="printing-order.html" title="Make pages print in a different order">order and collate</a></span>,
       <span class="link"><a href="printing-2sided.html" title="Print two-sided and multi-page layouts">two-sided and multi-page</a></span>…

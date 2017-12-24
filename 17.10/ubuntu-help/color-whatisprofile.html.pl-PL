@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>What is a color profile?</title>
+<title>Czym jest profil kolorów?</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -50,7 +50,7 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">What is a color profile?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Czym jest profil kolorów?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">
@@ -89,13 +89,13 @@
 <a href="color-canshareprofiles.html" title="Can I share my color profile?">Can I share my color profile?</a><span class="desc"> — Sharing color profiles is never a good idea as hardware changes over time.</span>
 </li>
 <li class="links ">
-<a href="color-assignprofiles.html" title="How do I assign profiles to devices?">How do I assign profiles to devices?</a><span class="desc"> — Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span>
+<a href="color-whatisspace.html" title="Czym jest przestrzeń kolorów?">Czym jest przestrzeń kolorów?</a><span class="desc"> — A color space is a defined range of colors.</span>
 </li>
 <li class="links ">
 <a href="color-howtoimport.html" title="How do I import color profiles?">How do I import color profiles?</a><span class="desc"> — Color profiles can be imported by opening them.</span>
 </li>
 <li class="links ">
-<a href="color-whatisspace.html" title="What is a color space?">What is a color space?</a><span class="desc"> — A color space is a defined range of colors.</span>
+<a href="color-assignprofiles.html" title="Jak przydzielać profile urządzeniom?">Jak przydzielać profile urządzeniom?</a><span class="desc"> — Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span>
 </li>
 <li class="links ">
 <a href="color-gettingprofiles.html" title="Where do I get color profiles?">Where do I get color profiles?</a><span class="desc"> — Color profiles are provided by vendors and can be generated yourself.</span>

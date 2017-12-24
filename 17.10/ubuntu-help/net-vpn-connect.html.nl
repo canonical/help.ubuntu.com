@@ -76,7 +76,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Netwerk</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Netwerk</span> om het paneel te openen.</p></li>
-<li class="steps"><p class="p">Aan de onderkant van de lijst aan de linkerkant, klik op de <span class="key"><kbd>+</kbd></span>-knop om een nieuwe verbinding toe te voegen.</p></li>
+<li class="steps"><p class="p">Aan de onderkant van de lijst aan de linkerkant, klik op de <span class="gui">+</span>-knop om een nieuwe verbinding toe te voegen.</p></li>
 <li class="steps"><p class="p">Kies <span class="gui">VPN</span> in de interface-lijst.</p></li>
 <li class="steps"><p class="p">Kies welk soort VPN-verbinding u heeft.</p></li>
 <li class="steps"><p class="p">Vul de VPN-verbindingsdetails in en druk daarna op <span class="gui">Toevoegen</span> als u klaar bent.</p></li>

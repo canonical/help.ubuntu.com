@@ -122,11 +122,11 @@
     to navigate the menus.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Czym jest klawisz Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
 <td style="border-top-style: solid;"><p class="p">Open the application menu on the top bar.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> lub <span class="key"><a href="keyboard-key-menu.html" title="What is the Menu key?"><kbd>Menu</kbd></a></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> lub <span class="key"><a href="keyboard-key-menu.html" title="Czym jest klawisz Menu?"><kbd>Menu</kbd></a></span></p></td>
 <td style="border-top-style: solid;"><p class="p">Pop up the context menu for the current selection, as if you had
       right-clicked.</p></td>
 </tr>
@@ -146,14 +146,14 @@
 <div class="title title-table"><h2><span class="title">Navigate the desktop</span></h2></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
-<td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> lub klawisz <span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span></p></td>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> lub klawisz <span class="key"><a href="keyboard-key-super.html" title="Czym jest klawisz Super?"><kbd>Super</kbd></a></span></p></td>
 <td><p class="p">Switch between the <span class="gui">Activities</span> overview and desktop. In
     the overview, start typing to instantly search your applications, contacts,
     and documents.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html" title="Switch between windows">Quickly switch between
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html" title="Przełączanie między oknami">Quickly switch between
     windows</a></span>. Hold down <span class="key"><kbd>Shift</kbd></span> for reverse order.</p></td>
 </tr>
 <tr>
@@ -175,7 +175,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> lub <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Up</kbd></span></span> i <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span> lub <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Down</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html" title="Switch between workspaces">Switch between
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html" title="Przełączanie między obszarami roboczymi">Switch between
      workspaces</a></span>.</p></td>
 </tr>
 <tr>
@@ -239,7 +239,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> lub <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↑</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-maximize.html" title="Maximize and unmaximize a window">Maximize</a></span> a window. Press
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-maximize.html" title="Maksymalizowanie i cofanie maksymalizacji okna">Maximize</a></span> a window. Press
     <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> or
     <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↓</kbd></span></span> to
     restore a maximized window to its original size.</p></td>

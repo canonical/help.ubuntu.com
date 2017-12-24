@@ -53,7 +53,6 @@
 <div role="navigation" class="links sectionlinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Methoden zum Eingeben von Zeichen</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="tips-specialchars.html#charmap" title="Zeichentabelle">Zeichentabelle</a></li>
 <li class="links "><a href="tips-specialchars.html#characters" title="Zeichen">Zeichen</a></li>
 <li class="links "><a href="tips-specialchars.html#compose" title="Compose-Taste">Compose-Taste</a></li>
 <li class="links "><a href="tips-specialchars.html#ctrlshiftu" title="Ersetzungscodes">Ersetzungscodes</a></li>
@@ -62,13 +61,6 @@
 </ul></div>
 </div></div>
 </div>
-<div id="charmap" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Zeichentabelle</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p">GNOME liefert eine Zeichentabelle, die Ihnen das Durchsuchen aller Unicode-Zeichen ermöglicht. Verwenden Sie diese Zeichentabelle, um die gewünschten Zeichen zu finden, und fügen Sie sie anschließend ein, wo immer Sie wollen.</p>
-<p class="p">Sie finden die <span class="app">Zeichentabelle</span> in der <span class="gui">Aktivitäten</span>-Übersicht. Weitere Informationen zur Zeichentabelle finden Sie im <span class="link"><a href="https://help.gnome.org/users/gucharmap/stable/" title="https://help.gnome.org/users/gucharmap/stable/">Zeichentabelle-Handbuch</a></span>.</p>
-</div></div>
-</div></div>
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Zeichen</span></h2></div>
 <div class="region"><div class="contents">
@@ -91,6 +83,7 @@
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Deaktiviert</span> im Abschnitt <span class="gui">Compose-Taste</span>.</p></li>
 <li class="steps"><p class="p">Aktivieren Sie den Schalter im Dialog und suchen Sie die gewünschte Tastenkombination, die Sie verwenden wollen.</p></li>
 <li class="steps"><p class="p">Aktivieren Sie das Ankreuzfeld an der Taste, die Sie als Compose-Taste verwenden wollen.</p></li>
+<li class="steps"><p class="p">Close the dialog.</p></li>
 <li class="steps"><p class="p">Schließen Sie das Fenster <span class="gui">Optimierungswerkzeug</span>.</p></li>
 </ol></div>
 </div></div>

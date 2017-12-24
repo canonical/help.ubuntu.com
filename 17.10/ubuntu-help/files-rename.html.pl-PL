@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Rename a file or folder</title>
+<title>Zmiana nazwy pliku lub katalogu</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,13 +46,13 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html#common-file-tasks" title="Często wykonywane zadania">Często wykonywane zadania</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Rename a file or folder</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Zmiana nazwy pliku lub katalogu</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">As with other file managers, you can use <span class="app">Files</span> to change the
   name of a file or folder.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">To rename a file or folder:</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Aby zmienić nazwę pliku lub katalogu:</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Right-click on the item and select <span class="gui">Rename</span>, or select
     the file and press <span class="key"><kbd>F2</kbd></span>.</p></li>
@@ -75,7 +75,7 @@
     name.</p></div></div></div></div>
 </div>
 <div id="valid-chars" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Valid characters for file names</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Prawidłowe znaki dla nazw plików</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">You can use any character except the <span class="file">/</span> (slash) character in
     file names. Some devices, however, use a <span class="em">file system</span> that has more
@@ -84,14 +84,14 @@
     <span class="file">?</span>, <span class="file">*</span>, <span class="file">&lt;</span>, <span class="file">"</span>,
     <span class="file">:</span>, <span class="file">&gt;</span>, <span class="file">/</span>.</p>
 <div class="note note-warning" title="Ostrzeżenie"><div class="inner"><div class="region"><div class="contents"><p class="p">If you name a file with a <span class="file">.</span> as the first character, the
-    file will be <span class="link"><a href="files-hidden.html" title="Hide a file">hidden</a></span> when you attempt to
+    file will be <span class="link"><a href="files-hidden.html" title="Ukrywanie pliku">hidden</a></span> when you attempt to
     view it in the file manager.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="common-probs" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Często występujące problemy</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms">The file name is already in use</dt>
+<dt class="terms">Nazwa pliku jest już używana</dt>
 <dd class="terms">
 <p class="p">You cannot have two files or folders with the same name in the same
         folder. If you try to rename a file to a name that already exists in
@@ -101,7 +101,7 @@
         Using different file names like this is allowed, though it is not
         recommended.</p>
 </dd>
-<dt class="terms">The file name is too long</dt>
+<dt class="terms">Nazwa pliku jest za długa</dt>
 <dd class="terms"><p class="p">On some file systems, file names can have no more than 255
         characters in their names.  This 255 character limit includes both the
         file name and the path to the file (for example,
@@ -111,7 +111,7 @@
 <dd class="terms"><p class="p">If <span class="gui">Rename</span> is grayed out, you do not have permission to
         rename the file. You should use caution with renaming such files, as
         renaming some protected files may cause your system to become unstable.
-        See <span class="link"><a href="nautilus-file-properties-permissions.html" title="Set file permissions">Set file permissions</a></span> for more
+        See <span class="link"><a href="nautilus-file-properties-permissions.html" title="Ustawianie uprawnień plików">Ustawianie uprawnień plików</a></span> for more
         information.</p></dd>
 </dl></div></div></div></div></div>
 </div></div>

@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Log in with a fingerprint</title>
+<title>Logowanie za pomocą odcisku palca</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,7 +46,7 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="hardware-auth.html" title="Fingerprints &amp; smart cards">Fingerprints &amp; smart cards</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Log in with a fingerprint</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Logowanie za pomocą odcisku palca</span></h1></div>
 <div class="region">
 <div class="contents"><p class="p">If your system has a supported fingerprint scanner, you can record your
   fingerprint and use it to log in.</p></div>
@@ -61,9 +61,8 @@
 <p class="p">You need <span class="link"><a href="user-admin-explain.html" title="How do administrative privileges work?">administrator privileges</a></span>
   to edit user accounts other than your own.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Users</span>.</p></li>
-<li class="steps"><p class="p">Kliknij ikonę <span class="gui">Użytkownicy</span>, aby otworzyć panel.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Użytkownicy</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Użytkownicy</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">Press on <span class="gui">Disabled</span>, next to <span class="gui">Fingerprint Login</span> to
       add a fingerprint for the selected account. If you are adding the
       fingerprint for a different user, you will first need to
@@ -101,7 +100,7 @@
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="hardware-auth.html" title="Fingerprints &amp; smart cards">Fingerprints &amp; smart cards</a><span class="desc"> — 
-    <span class="link"><a href="session-fingerprint.html" title="Log in with a fingerprint">Fingerprint readers</a></span>,
+    <span class="link"><a href="session-fingerprint.html" title="Logowanie za pomocą odcisku palca">Fingerprint readers</a></span>,
 
     smart cards…
   </span>

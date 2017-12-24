@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Change which language you use</title>
+<title>Zmiana używanego języka</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -46,22 +46,21 @@
 <span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="prefs-language.html" title="Region i język">Region i język</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Change which language you use</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Zmiana używanego języka</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">You can use your desktop and applications in any of dozens of languages,
   provided you have the proper language packs installed on your computer.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Region &amp; Language</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Region i język</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Region i język</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">Wybierz <span class="gui">Język</span>.</p></li>
 <li class="steps"><p class="p">Select your desired region and language. If your region and language
       are not listed, click
       <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="…"></span></span></span>
       at the bottom of the list to select from all available regions and
       languages.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Done</span> to save.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Gotowe</span>, aby zapisać.</p></li>
 <li class="steps"><p class="p">Respond to the prompt, <span class="gui">Your session needs to be restarted for
       changes to take effect</span> by clicking
       <span class="gui">Restart Now</span>, or click
@@ -84,7 +83,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html" title="Region i język">Region i język</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Change which language you use">Język</a></span>, <span class="link"><a href="session-formats.html" title="Change date and measurement formats">region i formaty</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">układy klawiatury</a></span>…</span>
+<a href="prefs-language.html" title="Region i język">Region i język</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Zmiana używanego języka">Język</a></span>, <span class="link"><a href="session-formats.html" title="Change date and measurement formats">region i formaty</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">układy klawiatury</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

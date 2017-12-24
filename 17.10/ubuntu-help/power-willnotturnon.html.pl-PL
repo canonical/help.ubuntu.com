@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>My computer will not turn on</title>
+<title>Komputer się nie włącza</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -50,7 +50,7 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">My computer will not turn on</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Komputer się nie włącza</span></h1></div>
 <div class="region">
 <div class="contents"><p class="p">There are a number of reasons why your computer will not turn on. This topic
 gives a brief overview of some of the possible reasons.</p></div>
@@ -64,7 +64,7 @@ gives a brief overview of some of the possible reasons.</p></div>
   removable.</p></div></div>
 </div></div>
 <div id="hardwareproblem" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Problem with the computer hardware</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Problem sprzętowy</span></h2></div>
 <div class="region"><div class="contents"><p class="p">A component of your computer may be broken or malfunctioning. If this is
   the case, you will need to get your computer repaired. Common faults include
   a broken power supply unit, incorrectly-fitted components (such as the
@@ -96,12 +96,10 @@ gives a brief overview of some of the possible reasons.</p></div>
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Problemy z ekranem">Problemy z ekranem</a><span class="desc"> — 
-      Troubleshoot screen and graphics problems.
-    </span>
+<a href="hardware-problems-graphics.html" title="Problemy z ekranem">Problemy z ekranem</a><span class="desc"> — Rozwiązywanie problemów z ekranem i grafiką.</span>
 </li>
 <li class="links ">
-<a href="power.html#problems" title="Problemy">Problemy z zasilaniem</a><span class="desc"> — Troubleshoot problems with power and batteries.</span>
+<a href="power.html#problems" title="Problemy">Problemy z zasilaniem</a><span class="desc"> — Rozwiązywanie problemów z zasilaniem i akumulatorem.</span>
 </li>
 </ul></div>
 </div></div></div>

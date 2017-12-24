@@ -49,7 +49,8 @@
 <div class="hgroup"><h1 class="title"><span class="title">Az asztal és a zárolási képernyő hátterének megváltoztatása</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">A háttérként használt kép megváltoztatható, illetve egyszerű színre vagy színátmenetre cserélhető.</p>
+<p class="p">You can change the image used for your backgrounds or set it to be a
+  solid color.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Háttér</span> szót</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Háttér</span> ikonra a panel megnyitásához.</p></li>

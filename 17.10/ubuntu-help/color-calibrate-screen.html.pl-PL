@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>How do I calibrate my screen?</title>
+<title>Jak skalibrować ekran?</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -50,7 +50,7 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">How do I calibrate my screen?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Jak skalibrować ekran?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">You can calibrate your screen so that it shows more accurate color. This
@@ -60,8 +60,7 @@
   devices are used to profile screens, but they work in slightly different
   ways.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Color</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Kolor</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Color</span> to open the panel and select your
       screen.</p></li>
 <li class="steps"><p class="p">Make sure your calibration device is connected to your computer.</p></li>
@@ -85,13 +84,13 @@
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-calibrate-camera.html" title="How do I calibrate my camera?">How do I calibrate my camera?</a><span class="desc"> — Calibrating your camera is important to capture accurate colors.</span>
+<a href="color-calibrate-camera.html" title="Jak skalibrować aparat?">Jak skalibrować aparat?</a><span class="desc"> — Calibrating your camera is important to capture accurate colors.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-printer.html" title="How do I calibrate my printer?">How do I calibrate my printer?</a><span class="desc"> — Calibrating your printer is important to print accurate colors.</span>
+<a href="color-calibrate-printer.html" title="Jak skalibrować drukarkę?">Jak skalibrować drukarkę?</a><span class="desc"> — Calibrating your printer is important to print accurate colors.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-scanner.html" title="How do I calibrate my scanner?">How do I calibrate my scanner?</a><span class="desc"> — Calibrating your scanner is important to capture accurate colors.</span>
+<a href="color-calibrate-scanner.html" title="Jak skalibrować skaner?">Jak skalibrować skaner?</a><span class="desc"> — Calibrating your scanner is important to capture accurate colors.</span>
 </li>
 </ul></div>
 </div></div>

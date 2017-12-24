@@ -51,8 +51,8 @@
 <div class="contents">
 <p class="p">Om du inte längre vill vara ansluten till en Bluetooth-enhet kan du ta bort anslutningen. Detta är användbart om du inte längre vill använda en enhet, till exempel en mus eller hörlurar, eller om du inte längre vill överföra filer till eller från en enhet.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Klicka på Bluetooth-ikonen i <span class="gui">menyraden</span> och välj <span class="gui">Bluetooth-inställningar</span>.</p></li>
-<li class="steps"><p class="p">Klicka på <span class="gui">Bluetooth-inställningar</span> för att öppna panelen.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Klicka på <span class="gui">Bluetooth</span> för att öppna panelen.</p></li>
 <li class="steps"><p class="p">Välj enheten i listan som du vill koppla från.</p></li>
 <li class="steps"><p class="p">I enhetens dialogruta, ställ om <span class="gui">Anslutning</span> till <span class="gui">AV</span>, eller för att ta bort enheten från listan <span class="gui">Enheter</span>, klicka på <span class="gui">Ta bort enhet</span>.</p></li>
 </ol></div></div></div>

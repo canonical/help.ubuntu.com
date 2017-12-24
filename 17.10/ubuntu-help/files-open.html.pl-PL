@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Open files with other applications</title>
+<title>Otwieranie plików w innych programach</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,10 +43,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html#more-file-tasks" title="Inne zadania związane z plikami">Inne zadania związane z plikami</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Open files with other applications</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Otwieranie plików w innych programach</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">When you double-click (or middle-click) a file in the file manager, it
@@ -65,7 +65,7 @@ file manager will search online for packages containing applications
 that are known to handle files of that type.</p>
 </div>
 <div id="default" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Change the default application</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Zmiana domyślnego programu</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">You can change the default application that is used to open files of a
   given type. This will allow you to open your preferred application when you
@@ -76,7 +76,7 @@ that are known to handle files of that type.</p>
     change. For example, to change which application is used to open MP3 files,
     select a <span class="file">.mp3</span> file.</p></li>
 <li class="steps"><p class="p">Right-click the file and select <span class="gui">Properties</span>.</p></li>
-<li class="steps"><p class="p">Select the <span class="gui">Open With</span> tab.</p></li>
+<li class="steps"><p class="p">Wybierz kartę <span class="gui">Otwieranie</span>.</p></li>
 <li class="steps">
 <p class="p">Select the application you want and click
     <span class="gui">Set as default</span>.</p>
@@ -95,7 +95,7 @@ that are known to handle files of that type.</p>
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Inne zadania związane z plikami">Inne zadania związane z plikami</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

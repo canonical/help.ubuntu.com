@@ -50,10 +50,9 @@
 <div class="region">
 <div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-    start typing <span class="gui">Wacom Tablet</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Tablet firmy Wacom</span>.</p></li>
 <li class="steps">
-<p class="p">Kliknij ikonę <span class="gui">Tablet firmy Wacom</span>, aby otworzyć panel.</p>
+<p class="p">Kliknij <span class="gui">Tablet firmy Wacom</span>, aby otworzyć panel.</p>
 <div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">If no tablet is detected, you’ll be asked to
     <span class="gui">Please plug in or turn on your Wacom tablet</span>. Click the
     <span class="gui">Bluetooth Settings</span> link to connect a wireless tablet.</p></div></div></div></div>

@@ -51,8 +51,8 @@
 <div class="contents">
 <p class="p">Ако више не желите да будете повезани на Блутут уређај, можете да уклоните везу. Ово је корисно ако више не желите да користите уређај као што је миш или слушалице са микрофоном, или ако више не желите да пребацујете датотеке на или са уређаја.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Кликните на иконицу Блутута на <span class="gui">траци изборника</span> и изаберите <span class="gui">Подешавања блутута</span>.</p></li>
-<li class="steps"><p class="p">Изаберите <span class="gui">Подешавања блутута</span> да отворите панел.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Блутут</span>.</p></li>
+<li class="steps"><p class="p">Кликните на <span class="gui">Блутут</span> да отворите панел.</p></li>
 <li class="steps"><p class="p">Изаберите уређај који желите да искључите са списка.</p></li>
 <li class="steps"><p class="p">У прозорчету уређаја, пребаците <span class="gui">Веза</span> на <span class="gui">ИСКЉ.</span>, или да уклоните уређај са списка <span class="gui">Уређаји</span>, кликните <span class="gui">Уклони уређај</span>.</p></li>
 </ol></div></div></div>

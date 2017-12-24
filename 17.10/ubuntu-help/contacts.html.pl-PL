@@ -53,11 +53,11 @@
  contacts, locally or in your <span class="link"><a href="accounts.html" title="Konta online">Online Accounts</a></span>.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="linkdiv "><a class="linkdiv" href="contacts-setup.html" title="Starting Contacts for the first time"><span class="title">Starting Contacts for the first time</span><span class="linkdiv-dash"> — </span><span class="desc">Store your contacts in a local address book or in an online account.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-add-remove.html" title="Add or remove a contact"><span class="title">Add or remove a contact</span><span class="linkdiv-dash"> — </span><span class="desc">Add or remove a contact in the local address book.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="contacts-connect.html" title="Connect with your contact"><span class="title">Connect with your contact</span><span class="linkdiv-dash"> — </span><span class="desc">Email, chat with, or phone a contact.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-add-remove.html" title="Dodawanie i usuwanie kontaktów"><span class="title">Dodawanie i usuwanie kontaktów</span><span class="linkdiv-dash"> — </span><span class="desc">Dodawanie i usuwanie kontaktów w lokalnej książce adresowej.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="contacts-edit-details.html" title="Edit contact details"><span class="title">Edit contact details</span><span class="linkdiv-dash"> — </span><span class="desc">Edit the information for each contact.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="contacts-link-unlink.html" title="Link and unlink contacts"><span class="title">Link and unlink contacts</span><span class="linkdiv-dash"> — </span><span class="desc">Combine information for a contact from multiple sources.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-search.html" title="Search for a contact"><span class="title">Search for a contact</span><span class="linkdiv-dash"> — </span><span class="desc">Search for a contact.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-search.html" title="Wyszukiwanie kontaktu"><span class="title">Wyszukiwanie kontaktu</span><span class="linkdiv-dash"> — </span><span class="desc">Wyszukiwanie kontaktu.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -65,13 +65,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless.html" title="Sieć bezprzewodowa">Wireless</a></span>,
-      <span class="link"><a href="net-wired.html" title="Sieć przewodowa">wired</a></span>,
-      <span class="link"><a href="net-problem.html" title="Problemy z siecią">connection problems</a></span>,
-      <span class="link"><a href="net-browser.html" title="Przeglądarki WWW">web browsing</a></span>,
-      <span class="link"><a href="net-email.html" title="Email &amp; email software">email accounts</a></span>…
-    </span>
+<a href="net.html" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Sieć bezprzewodowa">Sieci bezprzewodowe</a></span>, <span class="link"><a href="net-wired.html" title="Sieć przewodowa">przewodowe</a></span>, <span class="link"><a href="net-problem.html" title="Problemy z siecią">problemy z połączeniem</a></span>, <span class="link"><a href="net-browser.html" title="Przeglądarki WWW">przeglądanie Internetu</a></span>, <span class="link"><a href="net-email.html" title="Poczta e-mail i klienty poczty">konta e-mail</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

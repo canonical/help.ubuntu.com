@@ -86,14 +86,14 @@
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
+<a href="color-whatisprofile.html" title="Czym jest profil kolorów?">Czym jest profil kolorów?</a><span class="desc"> — A color profile is a simple file that expresses a color space or device response.</span>
+</li>
+<li class="links ">
 <a href="color-testing.html" title="How do I test if color management is working correctly?">How do I test if color management is working correctly?</a><span class="desc"> — Use the supplied test profiles to check that your profiles are being
     applied correctly to your screen.</span>
 </li>
 <li class="links ">
 <a href="color-missingvcgt.html" title="Missing information for whole-screen color correction?">Missing information for whole-screen color correction?</a><span class="desc"> — Whole-screen color correction modifies all the screen colors on all windows.</span>
-</li>
-<li class="links ">
-<a href="color-whatisprofile.html" title="What is a color profile?">What is a color profile?</a><span class="desc"> — A color profile is a simple file that expresses a color space or device response.</span>
 </li>
 <li class="links ">
 <a href="color-why-calibrate.html" title="Why do I need to do calibration myself?">Why do I need to do calibration myself?</a><span class="desc"> — Calibrating is important if you care about the colors you display or print.</span>

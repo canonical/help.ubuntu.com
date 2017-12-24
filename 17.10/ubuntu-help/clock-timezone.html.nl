@@ -52,13 +52,10 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en begin met het intypen van <span class="gui">Datum &amp; tijd</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Instellingen voor datum en tijd…</span> om het paneel te openen.</p></li>
-<li class="steps"><p class="p">If you have <span class="gui">Automatic Time Zone</span> set to <span class="gui">ON</span>, your
-      time zone should update automatically if you have an internet
-      connection. To update your time zone manually, set this to
-      <span class="gui">OFF</span>.</p></li>
+<li class="steps"><p class="p">Als <span class="gui">Automatische tijdzone</span> <span class="gui">AAN</span> staat, dan moet uw tijdzone automatisch bijgewerkt zijn als u een internetverbinding heeft. Om de tijdzone handmatig bij te werken dient u dit op <span class="gui">UIT</span> te zetten.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Tijdzone</span> en kies op de kaart uw lokatie of zoek naar uw huidige plaats.</p></li>
 </ol></div></div></div>
-<p class="p">De tijd zal automatisch worden bijgewerkt wanneer u een andere lokatie kiest. Misschien wilt u ook <span class="link"><a href="clock-timezone.html" title="Uw tijdzone wijzigen">de tijdzone handmatig instellen</a></span>.</p>
+<p class="p">De tijd zal automatisch worden bijgewerkt wanneer u een andere lokatie kiest. Misschien wilt u ook <span class="link"><a href="clock-set.html" title="Datum en tijd wijzigen">de tijdzone handmatig instellen</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

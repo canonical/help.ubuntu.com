@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>What is a MAC address?</title>
+<title>Czym jest adres MAC?</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,10 +43,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-general.html" title="Networking terms &amp; tips">Networking terms &amp; tips</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-general.html" title="Terminy sieciowe i wskazówki">Terminy sieciowe i wskazówki</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">What is a MAC address?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Czym jest adres MAC?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">A <span class="em">MAC address</span> is the unique identifier that is assigned by the
@@ -57,9 +57,8 @@
   colon. <span class="code">00:1B:44:11:3A:B7</span> is an example of a MAC address.</p>
 <p class="p">To identify the MAC address of your own network hardware:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Network</span>.</p></li>
-<li class="steps"><p class="p">Kliknij ikonę <span class="gui">Sieć</span>, aby otworzyć panel.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Sieć</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Sieć</span>, aby otworzyć panel.</p></li>
 <li class="steps">
 <p class="p">Choose which device, <span class="gui">Wi-Fi</span> or <span class="gui">Wired</span>, from
       the left pane.</p>
@@ -82,11 +81,11 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="Networking terms &amp; tips">Networking terms &amp; tips</a><span class="desc"> — 
+<a href="net-general.html" title="Terminy sieciowe i wskazówki">Terminy sieciowe i wskazówki</a><span class="desc"> — 
       <span class="link"><a href="net-findip.html" title="Find your IP address">Find your IP address</a></span>,
-      <span class="link"><a href="net-wireless-wepwpa.html" title="What do WEP and WPA mean?">WEP &amp; WPA security</a></span>,
-      <span class="link"><a href="net-macaddress.html" title="What is a MAC address?">MAC addresses</a></span>,
-      <span class="link"><a href="net-proxy.html" title="Define proxy settings">proxies</a></span>…
+      <span class="link"><a href="net-wireless-wepwpa.html" title="Co znaczy „WEP” i „WPA”?">WEP &amp; WPA security</a></span>,
+      <span class="link"><a href="net-macaddress.html" title="Czym jest adres MAC?">MAC addresses</a></span>,
+      <span class="link"><a href="net-proxy.html" title="Określanie ustawień pośrednika">proxies</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

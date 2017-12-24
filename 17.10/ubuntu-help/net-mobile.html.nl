@@ -54,7 +54,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">If you do not have a built-in 3G modem, connect your phone or
     Internet stick to a USB port on your computer.</p></li>
-<li class="steps"><p class="p">Open het <span class="link"><a href="unity-menubar-intro.html" title="unity-menubar-intro">Systeemmenu</a></span> aan de rechterzijde van de menubalk.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#yourname" title="U en uw computer">Systeemmenu</a></span> aan de rechterzijde van de menubalk.</p></li>
 <li class="steps">
 <p class="p">Select
     <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-cellular-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span>

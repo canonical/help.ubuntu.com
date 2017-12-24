@@ -88,7 +88,7 @@
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">SSH</dt>
 <dd class="terms">
-<p class="p">V případě, že máte na serveru účet <span class="em">secure shell</span>, můžete se přihlásit pomocí této metody. Řada poskytovatelů hostování WWW nabízí zákazníkům účet SSH, aby mohli bezpečně nahrávat své soubory. Servery SSH vždy požadují přihlášení.</p>
+<p class="p">V případě, že máte na serveru účet <span class="em">secure shell</span>, můžete se přihlásit pomocí této metody. Řada poskytovatelů hostování webů nabízí zákazníkům účet SSH, aby mohli bezpečně nahrávat své soubory. Servery SSH vždy požadují přihlášení.</p>
 <p class="p">Typická adresa URL pro SSH vypadá nějak takto:</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ssh://uzivatelskejmeno@nazevserveru.priklad.cz/slozka</span></p></div></div></div></div>
 <p class="p">Když používáte SSH, jsou všechna posílaná data (včetně hesel) šifrována, takže ostatní uživatelé v síti je nemohou vidět.</p>

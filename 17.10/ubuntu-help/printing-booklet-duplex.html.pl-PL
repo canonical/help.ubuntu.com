@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="printing.html" title="Drukowanie">Drukowanie</a> › <a class="trail" href="printing.html#paper" title="Different paper sizes and layouts">Sizes and layouts</a> » <a class="trail" href="printing-booklet.html" title="Print a booklet">Print a booklet</a> » </div></div>
+<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="printing.html" title="Drukowanie">Drukowanie</a> › <a class="trail" href="printing.html#paper" title="Różne rozmiary i układy papieru">Rozmiary i układy</a> » <a class="trail" href="printing-booklet.html" title="Drukowanie broszury">Drukowanie broszury</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Print a booklet on a double-sided printer</span></h1></div>
@@ -57,7 +57,7 @@
   first export it to a PDF by choosing <span class="guiseq"><span class="gui">File</span> ▸ <span class="gui">Export
   as PDF…</span></span>. Your document needs to have a multiple of 4 number of
   pages (4, 8, 12, 16,…). You may need to add up to 3 blank pages.</p>
-<p class="p">To print a booklet:</p>
+<p class="p">Aby wydrukować broszurę:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the print dialog. This can normally be done through
       <span class="gui">Print</span> in the menu or using the
@@ -77,10 +77,9 @@
 <p class="p">n, 1, 2, n-1, n-2, 3, 4, n-3, n-4, 5, 6, n-5, n-6, 7, 8, n-7, n-8, 9, 10, n-9, n-10, 11, 12, n-11…</p>
 <p class="p">Przykłady:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">4 page booklet: Type <span class="input">4,1,2,3</span></p></li>
-<li class="list"><p class="p">8 page booklet: Type <span class="input">8,1,2,7,6,3,4,5</span></p></li>
-<li class="list"><p class="p">20 page booklet: Type
-        <span class="input">20,1,2,19,18,3,4,17,16,5,6,15,14,7,8,13,12,9,10,11</span></p></li>
+<li class="list"><p class="p">4-stronicowa broszura: wpisz <span class="input">4,1,2,3</span>.</p></li>
+<li class="list"><p class="p">8-stronicowa broszura: wpisz <span class="input">8,1,2,7,6,3,4,5</span>.</p></li>
+<li class="list"><p class="p">20-stronicowa broszura: wpisz <span class="input">20,1,2,19,18,3,4,17,16,5,6,15,14,7,8,13,12,9,10,11</span>.</p></li>
 </ul></div></div></div>
 </li>
 <li class="steps">
@@ -97,7 +96,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing-booklet.html" title="Print a booklet">Print a booklet</a><span class="desc"> — How to print a folded, multi-page booklet using A4 or Letter-sized
+<a href="printing-booklet.html" title="Drukowanie broszury">Drukowanie broszury</a><span class="desc"> — How to print a folded, multi-page booklet using A4 or Letter-sized
     paper.</span>
 </li></ul></div>
 </div></div></div>

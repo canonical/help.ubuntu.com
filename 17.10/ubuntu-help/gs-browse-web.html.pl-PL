@@ -51,7 +51,15 @@
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Przeglądanie WWW</span></h1></div>
 <div class="region">
-<div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
+<div class="contents">
+<div class="media media-image"><div class="inner"><img src="gs-web-browser1-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Przesuń kursor myszy na <span class="gui">Podgląd</span> w lewym górnym rogu ekranu, aby wyświetlić <span class="gui">ekran podglądu</span>.</p></li>
+<li class="steps"><p class="p">Wybierz ikonę przeglądarki <span class="app">Firefox</span> z paska po lewej stronie ekranu.</p></li>
+</ol></div></div></div>
+<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Można także uruchomić przeglądarkę <span class="link"><a href="gs-use-system-search.html" title="Używanie wyszukiwania systemowego">po prostu wpisując</a></span> <span class="em">Firefox</span> na <span class="gui">ekranie podglądu</span>.</p></div></div></div></div>
+<div class="media media-image"><div class="inner"><img src="gs-web-browser2-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
 <li class="steps"><p class="p">Kliknij pasek adresu na górze okna przeglądarki i zacznij wpisywać stronę, którą chcesz odwiedzić.</p></li>
 <li class="steps">
 <p class="p">Wpisanie strony WWW rozpocznie jej wyszukiwanie w historii przeglądarki i zakładkach, więc nie trzeba pamiętać jej dokładnego adresu.</p>
@@ -59,7 +67,8 @@
 </li>
 <li class="steps"><p class="p">Z tej listy można szybko wybrać stronę WWW za pomocą klawiszy strzałek.</p></li>
 <li class="steps"><p class="p">Po wybraniu strony naciśnij klawisz <span class="key"><kbd>Enter</kbd></span>, aby ją odwiedzić.</p></li>
-</ol></div></div></div></div>
+</ol></div></div></div>
+</div>
 <div class="links nextlinks">
 <a class="nextlinks-prev" href="gs-get-online.html" title="Łączenie z siecią">Poprzednia</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="Łączenie z kontami online">Następna</a>
 </div>
@@ -75,10 +84,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html" title="Przeglądarki WWW">Przeglądarki WWW</a><span class="desc"> — 
-      <span class="link"><a href="net-default-browser.html" title="Change which web browser opens websites by default">Change the default browser</a></span>,
-      <span class="link"><a href="net-install-flash.html" title="Zainstaluj wtyczkę Flash">install Flash</a></span>…
-    </span>
+<a href="net-browser.html" title="Przeglądarki WWW">Przeglądarki WWW</a><span class="desc"> — <span class="link"><a href="net-default-browser.html" title="Change which web browser opens websites by default">Zmiana domyślnej przeglądarki</a></span>, <span class="link"><a href="net-install-flash.html" title="Zainstaluj wtyczkę Flash">instalacja wtyczki Flash</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

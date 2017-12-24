@@ -53,7 +53,6 @@
 <div role="navigation" class="links sectionlinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Métodos para introducir caracteres</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="tips-specialchars.html#charmap" title="Mapa de caracteres">Mapa de caracteres</a></li>
 <li class="links "><a href="tips-specialchars.html#characters" title="Caracteres">Caracteres</a></li>
 <li class="links "><a href="tips-specialchars.html#compose" title="Tecla de composición">Tecla de composición</a></li>
 <li class="links "><a href="tips-specialchars.html#ctrlshiftu" title="Puntos de código">Puntos de código</a></li>
@@ -62,13 +61,6 @@
 </ul></div>
 </div></div>
 </div>
-<div id="charmap" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Mapa de caracteres</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p">GNOME viene con una aplicación de mapa de caracteres que le permite examinar todos los caracteres en Unicode. Use el mapa de caracteres para buscar el carácter que quiere, y cópielo y péguelo donde quiera.</p>
-<p class="p">Puede encontrar el <span class="app">Mapa de caracteres</span> en la vista de <span class="gui">Actividades</span>. Para obtener más información sobre el mapa de caracteres, consulte el <span class="link"><a href="https://help.gnome.org/users/gucharmap/stable/" title="https://help.gnome.org/users/gucharmap/stable/">manual del mapa de caracteres</a></span>.</p>
-</div></div>
-</div></div>
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Caracteres</span></h2></div>
 <div class="region"><div class="contents">
@@ -91,6 +83,7 @@
 <li class="steps"><p class="p">Pulse en <span class="gui">Desactivado</span> junto a la opción de <span class="gui">Tecla de composición</span>.</p></li>
 <li class="steps"><p class="p">Active el interruptor en el diálogo y elija el atajo del teclado que quiere usar.</p></li>
 <li class="steps"><p class="p">Marque la casilla de la tecla que quiere usar como Tecla de composición.</p></li>
+<li class="steps"><p class="p">Close the dialog.</p></li>
 <li class="steps"><p class="p">Cierre la ventana de la <span class="gui">Retoques</span>.</p></li>
 </ol></div>
 </div></div>

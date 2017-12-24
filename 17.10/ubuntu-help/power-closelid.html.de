@@ -67,7 +67,8 @@
 <li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Optimierungswerkzeug</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Optimierungswerkzeug</span>, um die Anwendung zu öffnen.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf den Reiter <span class="gui">Energie</span>.</p></li>
-<li class="steps"><p class="p">Stellen Sie <span class="gui">Bei Schließen des Deckels nicht in Bereitschaft gehen</span> auf <span class="gui">AN</span>.</p></li>
+<li class="steps"><p class="p">Switch <span class="gui">Suspend when laptop lid is closed</span> to
+      <span class="gui">OFF</span>.</p></li>
 <li class="steps"><p class="p">Schließen Sie das Fenster <span class="gui">Optimierungswerkzeug</span>.</p></li>
 </ol></div></div></div>
 </div></div>

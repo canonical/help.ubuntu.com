@@ -57,27 +57,27 @@
 <div class="linkdiv "><a class="linkdiv" href="power-status.html" title="Check the battery status"><span class="title">Check the battery status</span><span class="linkdiv-dash"> — </span><span class="desc">Display the status of the battery and connected devices.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html" title="Get the most out of your laptop battery"><span class="title">Get the most out of your laptop battery</span><span class="linkdiv-dash"> — </span><span class="desc">Tips such as “Do not let the battery charge get too low”.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-hibernate.html" title="How do I hibernate my computer?"><span class="title">How do I hibernate my computer?</span><span class="linkdiv-dash"> — </span><span class="desc">Hibernate is disabled by default since it's not well supported.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-wireless.html" title="Switch off unused wireless technologies"><span class="title">Switch off unused wireless technologies</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batterylife.html" title="Use less power and improve battery life"><span class="title">Use less power and improve battery life</span><span class="linkdiv-dash"> — </span><span class="desc">Tips to reduce the power consumption of your computer.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-batterylife.html" title="Use less power and improve battery life"><span class="title">Use less power and improve battery life</span><span class="linkdiv-dash"> — </span><span class="desc">Tips to reduce the power consumption of your computer.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-suspend.html" title="What happens when I suspend my computer?"><span class="title">What happens when I suspend my computer?</span><span class="linkdiv-dash"> — </span><span class="desc">Suspend sends your computer to sleep so it uses less power.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-closelid.html" title="Why does my computer turn off when I close the lid?"><span class="title">Why does my computer turn off when I close the lid?</span><span class="linkdiv-dash"> — </span><span class="desc">Laptops go to sleep when you close the lid, in order to save
     power.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Wylogowywanie, wyłączanie komputera i przełączanie użytkowników"><span class="title">Wylogowywanie, wyłączanie komputera i przełączanie użytkowników</span><span class="linkdiv-dash"> — </span><span class="desc">Learn how to leave your user account, by logging out, switching
     users, and so on.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-wireless.html" title="Wyłączanie nieużywanych sieci bezprzewodowych"><span class="title">Wyłączanie nieużywanych sieci bezprzewodowych</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span></a></div>
 </div>
 </div></div></div></div>
 <div id="saving" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Ustawienia oszczędzania energii</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-autobrightness.html" title="Enable automatic brightness"><span class="title">Enable automatic brightness</span><span class="linkdiv-dash"> — </span><span class="desc">Automatically control screen brightness to reduce battery use.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="display-blank.html" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-autosuspend.html" title="Ustawianie automatycznego usypiania"><span class="title">Ustawianie automatycznego usypiania</span><span class="linkdiv-dash"> — </span><span class="desc">Configure your computer to suspend automatically.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-autosuspend.html" title="Set up automatic suspend"><span class="title">Set up automatic suspend</span><span class="linkdiv-dash"> — </span><span class="desc">Configure your computer to suspend automatically.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-whydim.html" title="Why does my screen go dim after a while?"><span class="title">Why does my screen go dim after a while?</span><span class="linkdiv-dash"> — </span><span class="desc">The screen will dim when the computer is idle in order to save power.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-autobrightness.html" title="Włączanie automatycznej jasności"><span class="title">Włączanie automatycznej jasności</span><span class="linkdiv-dash"> — </span><span class="desc">Automatically control screen brightness to reduce battery use.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -100,10 +100,10 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-nowireless.html" title="I have no wireless network when I wake up my computer"><span class="title">I have no wireless network when I wake up my computer</span><span class="linkdiv-dash"> — </span><span class="desc">Some wireless devices have problems handling when your computer is
-    suspended and does not resume properly.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html" title="Komputer się nie włącza"><span class="title">Komputer się nie włącza</span><span class="linkdiv-dash"> — </span><span class="desc">Loose cables and hardware problems are possible reasons.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-hotcomputer.html" title="My computer gets really hot"><span class="title">My computer gets really hot</span><span class="linkdiv-dash"> — </span><span class="desc">Computers usually get warm, but if they get too hot they can overheat, which can be damaging.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html" title="My computer will not turn on"><span class="title">My computer will not turn on</span><span class="linkdiv-dash"> — </span><span class="desc">Loose cables and hardware problems are possible reasons.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-nowireless.html" title="Po przebudzeniu komputera sieć bezprzewodowa nie działa"><span class="title">Po przebudzeniu komputera sieć bezprzewodowa nie działa</span><span class="linkdiv-dash"> — </span><span class="desc">Some wireless devices have problems handling when your computer is
+    suspended and does not resume properly.</span></a></div>
 </div>
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="power-constantfan.html" title="The laptop fan is always running"><span class="title">The laptop fan is always running</span><span class="linkdiv-dash"> — </span><span class="desc">Some fan-control software could be missing, or your laptop may be

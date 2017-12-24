@@ -54,10 +54,9 @@
 <div class="region">
 <div class="contents">
 <p class="p">You can send files to connected Bluetooth devices, such as some mobile
-    phones or other computers. Some types of devices don’t allow the transfer
-    of files, or specific types of files. You can send files in one of three
-    ways: using the Bluetooth icon in the menu bar, from the Bluetooth settings
-    window, or directly from the file manager.</p>
+  phones or other computers. Some types of devices do not allow the transfer
+  of files, or specific types of files. You can send files using the Bluetooth
+  settings window.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="కార్యకలాపాల అవలోకనం">Activities</a></span> overview and
       start typing <span class="gui">Bluetooth</span>.</p></li>

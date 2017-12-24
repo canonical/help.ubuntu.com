@@ -51,7 +51,15 @@
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Gå på webbet</span></h1></div>
 <div class="region">
-<div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
+<div class="contents">
+<div class="media media-image"><div class="inner"><img src="gs-web-browser1-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Flyt din musemarkør til hjørnet med <span class="gui">Aktiviteter</span>, øverst til venstre på skærmen, for at vise <span class="gui">Aktivitetsoversigten</span>.</p></li>
+<li class="steps"><p class="p">Vælg browserikonet <span class="app">Firefox</span> fra linjen på venstre side af skærmen.</p></li>
+</ol></div></div></div>
+<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">Du kan også starte browseren ved <span class="link"><a href="gs-use-system-search.html" title="Brug systemsøgningen">blot at skrive</a></span> <span class="em">Firefox</span> i <span class="gui">Aktivitetsoversigten</span>.</p></div></div></div></div>
+<div class="media media-image"><div class="inner"><img src="gs-web-browser2-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
 <li class="steps"><p class="p">Klik på adresslinjen øverst i browservinduet, og begynd at skrive det websted, du vil besøge.</p></li>
 <li class="steps">
 <p class="p">Indtastning af et websted starter en søgning efter det i browserhistorikken og bogmærkerne, så du ikke behøver at huske den præcise adresse.</p>
@@ -59,7 +67,8 @@
 </li>
 <li class="steps"><p class="p">Du kan hurtigt vælge et websted fra rullegardinslisten ved at bruge piletasterne.</p></li>
 <li class="steps"><p class="p">Tryk på <span class="key"><kbd>Enter</kbd></span> efter du har valgt webstedet, for at besøge det.</p></li>
-</ol></div></div></div></div>
+</ol></div></div></div>
+</div>
 <div class="links nextlinks">
 <a class="nextlinks-prev" href="gs-get-online.html" title="Kom online">Forrige</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="Forbind til onlinekonti">Næste</a>
 </div>

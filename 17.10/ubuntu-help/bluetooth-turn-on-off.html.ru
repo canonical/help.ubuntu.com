@@ -50,14 +50,27 @@
 <div class="region">
 <div class="contents">
 <p class="p">You can turn Bluetooth on to connect to other Bluetooth devices, or turn
-    it off to conserve power. To turn Bluetooth on, click the Bluetooth icon in
-    the menu bar and switch <span class="gui">Bluetooth</span> to <span class="gui">ON</span>.</p>
-<p class="p">На многих ноутбуках есть аппаратный переключатель или комбинация клавиш для включения и выключения Bluetooth. Если Bluetooth-оборудование выключено, вы не увидите значок Bluetooth в панели меню. Поищите переключатель на компьютере или клавишу на клавиатуре. Часто доступ к этой клавише осуществляется с помощью клавиши <span class="key"><kbd class="key-Fn">Fn</kbd></span>.</p>
-<p class="p">To turn Bluetooth off, click the Bluetooth icon and switch
-    <span class="gui">Bluetooth</span> to <span class="gui">OFF</span>.</p>
-<div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents"><p class="p">Your computer is <span class="link"><a href="bluetooth-visibility.html" title="Что такое видимость Bluetooth?">visible</a></span>
-    if <span class="gui">Visible</span> is switched to <span class="gui">ON</span> in the Bluetooth
-    menu.</p></div></div></div></div>
+  it off to conserve power. To turn Bluetooth on:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
+      start typing <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Bluetooth</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Set the switch at the top to <span class="gui">ON</span>.</p></li>
+</ol></div></div></div>
+<p class="p">Many laptop computers have a hardware switch or key combination to turn
+  Bluetooth on and off. Look for a switch on your computer or a key on your
+  keyboard. The keyboard key is often accessed with the help of the
+  <span class="key"><kbd class="key-Fn">Fn</kbd></span> key.</p>
+<p class="p">Чтобы выключить Bluetooth:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#yourname" title="Вы и ваш компьютер">system menu</a></span> from the
+      right side of the top bar.</p></li>
+<li class="steps"><p class="p">Select
+      <span class="gui"><span class="media"><span class="media media-image"><img src="figures/bluetooth-active-symbolic.svg" class="media media-inline" alt=""></span></span>
+      Not In Use</span>. The Bluetooth section of the menu will expand.</p></li>
+<li class="steps"><p class="p">Выберите <span class="gui">Выключить</span>.</p></li>
+</ol></div></div></div>
+<div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents"><p class="p">Компьютер остаётся <span class="link"><a href="bluetooth-visibility.html" title="Что такое видимость Bluetooth?">видимым</a></span> пока открыта панель <span class="gui">Bluetooth</span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

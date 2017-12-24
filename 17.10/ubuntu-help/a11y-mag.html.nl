@@ -58,12 +58,8 @@
 </ol></div></div></div>
 <p class="p">U kunt nu in het schermgebied bewegen. Door uw muis naar de rand van het scherm te bewegen, beweegt u het vergrote gebied in verschillende richtingen, waarmee u het gebied van uw keuze kunt zien.</p>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">U kunt zoomen ook snel in- en uitschakelen door te klikken op het <span class="link"><a href="a11y-icon.html" title="Het menu Universele toegang vinden">toegankelijkheidspictogram</a></span> in de bovenste balk en <span class="gui">Zoomen</span> te selecteren. </p></div></div></div></div>
-<p class="p">You can change the magnification factor, the mouse tracking, and the
-  position of the magnified view on the screen. Adjust these in the
-  <span class="gui">Magnifier</span> tab of the <span class="gui">Zoom Options</span> window.</p>
-<p class="p">You can activate crosshairs to help you find the mouse or touchpad
-  pointer. Switch them on and adjust their length, color, and thickness in the
-  <span class="gui">Crosshairs</span> tab of the <span class="gui">Zoom</span> settings window.</p>
+<p class="p">U kunt de vergrotingsfactor, het volgen van de muis, en de positie van de vergrote weergave op het scherm wijzigen. Pas deze aan in het <span class="gui">Vergrootglas</span>-tabblad van het <span class="gui">Zoomopties</span>-venster.</p>
+<p class="p">U kunt een draadkruis aanzetten om u te helpen bij het vinden van de muis of touchpad-cursor. U kunt het aanzetten en de lengte, kleur en dikte aanpassen in het <span class="gui">Draadkruis</span>-tabblad van het <span class="gui">Zoomopties</span>-venster.</p>
 <p class="p">U kunt overschakelen naar inverse video of <span class="gui">Wit op zwart</span>, en de helderheid, contrast en kleur van het vergrootglas aanpassen. De combinatie van deze opties is nuttig voor mensen met beperkt zicht, lichtschuwheid, of gewoon om de computer te gebruiken met tegenlicht. Selecteer het <span class="gui">Kleureffecten</span>-tabblad in het <span class="gui">Zoom</span>-instellingenvenster om deze opties te kunnen inschakelen en wijzigen.</p>
 </div>
 <div class="sect sect-links" role="navigation">

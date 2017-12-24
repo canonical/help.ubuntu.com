@@ -53,49 +53,49 @@
 <div class="hgroup"><h2 class="title"><span class="title">Często wykonywane zadania</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-browse.html" title="Browse files and folders"><span class="title">Browse files and folders</span><span class="linkdiv-dash"> — </span><span class="desc">Manage and organize files with the file manager.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-copy.html" title="Copy or move files and folders"><span class="title">Copy or move files and folders</span><span class="linkdiv-dash"> — </span><span class="desc">Copy or move items to a new folder.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-delete.html" title="Delete files and folders"><span class="title">Delete files and folders</span><span class="linkdiv-dash"> — </span><span class="desc">Remove files or folders you no longer need.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-preview.html" title="Preview files and folders"><span class="title">Preview files and folders</span><span class="linkdiv-dash"> — </span><span class="desc">Quickly show and hide previews for documents, images, videos, and
+<div class="linkdiv "><a class="linkdiv" href="files-copy.html" title="Kopiowanie i przenoszenie plików i katalogów"><span class="title">Kopiowanie i przenoszenie plików i katalogów</span><span class="linkdiv-dash"> — </span><span class="desc">Kopiowanie i przenoszenie elementów do nowego katalogu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-preview.html" title="Podgląd plików i katalogów"><span class="title">Podgląd plików i katalogów</span><span class="linkdiv-dash"> — </span><span class="desc">Quickly show and hide previews for documents, images, videos, and
     more.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-sort.html" title="Porządkowanie plików i katalogów"><span class="title">Porządkowanie plików i katalogów</span><span class="linkdiv-dash"> — </span><span class="desc">Arrange files by name, size, type, or when they were changed.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-browse.html" title="Przeglądanie plików i katalogów"><span class="title">Przeglądanie plików i katalogów</span><span class="linkdiv-dash"> — </span><span class="desc">Manage and organize files with the file manager.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-rename.html" title="Rename a file or folder"><span class="title">Rename a file or folder</span><span class="linkdiv-dash"> — </span><span class="desc">Change file or folder name.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-search.html" title="Search for files"><span class="title">Search for files</span><span class="linkdiv-dash"> — </span><span class="desc">Locate files based on file name and type.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-sort.html" title="Sort files and folders"><span class="title">Sort files and folders</span><span class="linkdiv-dash"> — </span><span class="desc">Arrange files by name, size, type, or when they were changed.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-delete.html" title="Usuwanie plików i katalogów"><span class="title">Usuwanie plików i katalogów</span><span class="linkdiv-dash"> — </span><span class="desc">Remove files or folders you no longer need.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-search.html" title="Wyszukiwanie plików"><span class="title">Wyszukiwanie plików</span><span class="linkdiv-dash"> — </span><span class="desc">Locate files based on file name and type.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-rename.html" title="Zmiana nazwy pliku lub katalogu"><span class="title">Zmiana nazwy pliku lub katalogu</span><span class="linkdiv-dash"> — </span><span class="desc">Zmiana nazwy pliku lub katalogu.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="more-file-tasks" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">More file-related tasks</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Inne zadania związane z plikami</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="nautilus-connect.html" title="Browse files on a server or network share"><span class="title">Browse files on a server or network share</span><span class="linkdiv-dash"> — </span><span class="desc">View and edit files on another computer over FTP, SSH, Windows
     shares, or WebDAV.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-lost.html" title="Find a lost file"><span class="title">Find a lost file</span><span class="linkdiv-dash"> — </span><span class="desc">Follow these tips if you can’t find a file you created or
-    downloaded.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-open.html" title="Open files with other applications"><span class="title">Open files with other applications</span><span class="linkdiv-dash"> — </span><span class="desc">Open files using an application that isn’t the default one for that
+<div class="linkdiv "><a class="linkdiv" href="files-open.html" title="Otwieranie plików w innych programach"><span class="title">Otwieranie plików w innych programach</span><span class="linkdiv-dash"> — </span><span class="desc">Open files using an application that isn’t the default one for that
     type of file. You can change the default too.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="nautilus-prefs.html" title="Preferencje menedżera plików"><span class="title">Preferencje menedżera plików</span><span class="linkdiv-dash"> — </span><span class="desc">View and set preferences for the file browser.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-recover.html" title="Przywracanie pliku z Kosza"><span class="title">Przywracanie pliku z Kosza</span><span class="linkdiv-dash"> — </span><span class="desc">Deleted files are normally sent to the Trash, but can be
+    recovered.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="privacy-purge.html" title="Purge trash &amp; temporary files"><span class="title">Purge trash &amp; temporary files</span><span class="linkdiv-dash"> — </span><span class="desc">Set how often your trash and temporary files will be cleared
     from your computer.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-recover.html" title="Recover a file from the Trash"><span class="title">Recover a file from the Trash</span><span class="linkdiv-dash"> — </span><span class="desc">Deleted files are normally sent to the Trash, but can be
-    recovered.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-share.html" title="Share files by email"><span class="title">Share files by email</span><span class="linkdiv-dash"> — </span><span class="desc">Easily transfer files to your email contacts from the file
-    manager.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html" title="Turn off or limit file history tracking"><span class="title">Turn off or limit file history tracking</span><span class="linkdiv-dash"> — </span><span class="desc">Stop or limit your computer from tracking your recently-used
     files.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-disc-write.html" title="Write files to a CD or DVD"><span class="title">Write files to a CD or DVD</span><span class="linkdiv-dash"> — </span><span class="desc">Put files and documents onto a blank CD or DVD using a CD/DVD
-    burner.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-share.html" title="Wysyłanie plików pocztą"><span class="title">Wysyłanie plików pocztą</span><span class="linkdiv-dash"> — </span><span class="desc">Easily transfer files to your email contacts from the file
+    manager.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-lost.html" title="Wyszukiwanie zgubionego pliku"><span class="title">Wyszukiwanie zgubionego pliku</span><span class="linkdiv-dash"> — </span><span class="desc">Follow these tips if you can’t find a file you created or
+    downloaded.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-basic.html" title="Właściwości pliku"><span class="title">Właściwości pliku</span><span class="linkdiv-dash"> — </span><span class="desc">View basic file information, set permissions, and choose
     default applications.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-disc-write.html" title="Zapisywanie plików na płycie CD lub DVD"><span class="title">Zapisywanie plików na płycie CD lub DVD</span><span class="linkdiv-dash"> — </span><span class="desc">Put files and documents onto a blank CD or DVD using a CD/DVD
+    burner.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="removable" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Removable drives and external disks</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Nośniki wymienne i dyski zewnętrzne</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="Open applications for devices or discs"><span class="title">Open applications for devices or discs</span><span class="linkdiv-dash"> — </span><span class="desc">Automatically run applications for CDs and DVDs, cameras,
     audio players, and other devices and media.</span></a></div></div>
@@ -103,34 +103,32 @@
 </div></div></div></div></div>
 </div></div>
 <div id="backup" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Backing up</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Kopie zapasowe</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="backup-why.html" title="Back up your important files"><span class="title">Back up your important files</span><span class="linkdiv-dash"> — </span><span class="desc">Why, what, where and how of backups.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="backup-frequency.html" title="Frequency of backups"><span class="title">Frequency of backups</span><span class="linkdiv-dash"> — </span><span class="desc">Learn how often you should backup your important files to make sure
-    that they are safe.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="backup-restore.html" title="Restore a backup"><span class="title">Restore a backup</span><span class="linkdiv-dash"> — </span><span class="desc">Retrieve your files from a backup.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-frequency.html" title="Częstość kopii zapasowych"><span class="title">Częstość kopii zapasowych</span><span class="linkdiv-dash"> — </span><span class="desc">Jak często wykonywać kopię zapasową ważnych plików, aby zapewnić ich bezpieczeństwo.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-thinkabout.html" title="Gdzie mogę znaleźć pliki do zachowania w kopii zapasowej?"><span class="title">Gdzie mogę znaleźć pliki do zachowania w kopii zapasowej?</span><span class="linkdiv-dash"> — </span><span class="desc">Lista katalogów, w których można odnaleźć dokumenty, pliki i ustawienia warte zachowania.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-restore.html" title="Przywracanie kopii zapasowej"><span class="title">Przywracanie kopii zapasowej</span><span class="linkdiv-dash"> — </span><span class="desc">Przywracanie plików z kopii zapasowej.</span></a></div>
 </div>
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="backup-check.html" title="Sprawdzanie kopii zapasowej"><span class="title">Sprawdzanie kopii zapasowej</span><span class="linkdiv-dash"> — </span><span class="desc">Sprawdzanie poprawności kopii zapasowej.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="backup-thinkabout.html" title="Where can I find the files I want to back up?"><span class="title">Where can I find the files I want to back up?</span><span class="linkdiv-dash"> — </span><span class="desc">A list of folders where you can find documents, files and settings
-    that you may want to back up.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-why.html" title="Tworzenie kopii zapasowych ważnych plików"><span class="title">Tworzenie kopii zapasowych ważnych plików</span><span class="linkdiv-dash"> — </span><span class="desc">Dlaczego, co, gdzie i jak robić kopie zapasowe.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="faq" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Tips and questions</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Wskazówki i pytania</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="nautilus-bookmarks-edit.html" title="Edit folder bookmarks"><span class="title">Edit folder bookmarks</span><span class="linkdiv-dash"> — </span><span class="desc">Add, delete, and rename bookmarks in the file manager.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-hidden.html" title="Hide a file"><span class="title">Hide a file</span><span class="linkdiv-dash"> — </span><span class="desc">Make a file invisible, so you cannot see it in the file
-    manager.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-select.html" title="Select files by pattern"><span class="title">Select files by pattern</span><span class="linkdiv-dash"> — </span><span class="desc">Press <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>S</kbd></span></span> to select multiple
     files which have similar names.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-templates.html" title="Templates for commonly-used document types"><span class="title">Templates for commonly-used document types</span><span class="linkdiv-dash"> — </span><span class="desc">Quickly create new documents from custom file templates.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-permissions.html" title="Set file permissions"><span class="title">Set file permissions</span><span class="linkdiv-dash"> — </span><span class="desc">Control who can view and edit your files and folders.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-templates.html" title="Templates for commonly-used document types"><span class="title">Templates for commonly-used document types</span><span class="linkdiv-dash"> — </span><span class="desc">Quickly create new documents from custom file templates.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-hidden.html" title="Ukrywanie pliku"><span class="title">Ukrywanie pliku</span><span class="linkdiv-dash"> — </span><span class="desc">Make a file invisible, so you cannot see it in the file
+    manager.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-permissions.html" title="Ustawianie uprawnień plików"><span class="title">Ustawianie uprawnień plików</span><span class="linkdiv-dash"> — </span><span class="desc">Control who can view and edit your files and folders.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-tilde.html" title="What is a file with a ~ at the end of its name?"><span class="title">What is a file with a <span class="file">~</span> at the end of its name?</span><span class="linkdiv-dash"> — </span><span class="desc">These are backup files. They are hidden by default.</span></a></div>
 </div>
 </div></div></div></div></div>

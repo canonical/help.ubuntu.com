@@ -53,10 +53,9 @@
   <span class="link"><a href="user-admin-explain.html" title="How do administrative privileges work?">administrative privileges</a></span>. Some tasks
   require administrative privileges in order to work, such as:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">connecting to networks or wireless networks,</p></li>
-<li class="list"><p class="p">viewing the contents of a different disk partition (for example, a
-      Windows partition), or</p></li>
-<li class="list"><p class="p">installing new applications.</p></li>
+<li class="list"><p class="p">łączenie z sieciami (także bezprzewodowymi),</p></li>
+<li class="list"><p class="p">wyświetlanie zawartości innej partycji dysku (na przykład systemu Windows),</p></li>
+<li class="list"><p class="p">instalowanie nowych programów.</p></li>
 </ul></div></div></div>
 <p class="p">You can <span class="link"><a href="user-admin-change.html" title="Change who has administrative privileges">change who has administrative
   privileges</a></span>.</p>

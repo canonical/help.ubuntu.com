@@ -51,7 +51,15 @@
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Navegar pola web</span></h1></div>
 <div class="region">
-<div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
+<div class="contents">
+<div class="media media-image"><div class="inner"><img src="gs-web-browser1-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Mova o seu punteiro do rato á esquina <span class="gui">Actividades</span> na parte superior esquerda da pantalla para mostrar a <span class="gui">Vista xeral de actividades</span>.</p></li>
+<li class="steps"><p class="p">Seleccione a icona do navegador <span class="app">Firefox</span> desde a barra da parte esquerda da pantalla.</p></li>
+</ol></div></div></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Ou se non, pode iniciar o navegador <span class="link"><a href="gs-use-system-search.html" title="Usar a busca do sistema">simplemente escribindo</a></span> <span class="em">Firefox</span> na <span class="gui">Vista xeral de actividades</span>.</p></div></div></div></div>
+<div class="media media-image"><div class="inner"><img src="gs-web-browser2-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
 <li class="steps"><p class="p">Prema na barra de enderezos na parte superior da xanela do navegador e comece a escribir o sitio web que quere visitar.</p></li>
 <li class="steps">
 <p class="p">Ao escribir un sitio web comeza a busca do mesmo no historial e marcadores do seu navegador, polo que non terá que lembrar o enderezo exacto.</p>
@@ -59,7 +67,8 @@
 </li>
 <li class="steps"><p class="p">Desde a lista despregábel poderá seleccionar de forma rápida un sitio web usando os teclas de frecha do seu teclado.</p></li>
 <li class="steps"><p class="p">Despois de que seleccionara un sitio web, prema <span class="key"><kbd>Intro</kbd></span> para visitala.</p></li>
-</ol></div></div></div></div>
+</ol></div></div></div>
+</div>
 <div class="links nextlinks">
 <a class="nextlinks-prev" href="gs-get-online.html" title="Conectarse a Internet">Anterior</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="Conectarse a contas en liña">Seguinte</a>
 </div>

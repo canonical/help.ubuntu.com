@@ -65,7 +65,7 @@
 </div></div>
 <p class="p">Vous pouvez utiliser cette ligne de commande pour tester si l'hibernation fonctionne sur votre ordinateur.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ouvrez le <span class="app">Terminal</span> en appuyant en même temps sur <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>t</kbd></span></span> ou en cherchant le <span class="input">terminal</span> dans le <span class="gui">Tableau de bord</span>.</p></li>
+<li class="steps"><p class="p">Ouvrez l'application <span class="app">Terminal</span> à partir de la <span class="gui">vue d'ensemble des activités</span>.</p></li>
 <li class="steps">
 <p class="p">Saisissez la commande <span class="cmd">sudo systemctl hibernate</span> dans le terminal et appuyez sur la touche <span class="key"><kbd>Entrée</kbd></span>.</p>
 <p class="p">Entrer votre mot de passe quand demandé.</p>

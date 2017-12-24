@@ -49,10 +49,20 @@
 <div class="hgroup"><h1 class="title"><span class="title">Encender o apagar el Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Puede activar su Bluetooth para usar dispositivos Bluetooth y enviar y recibir archivos, o apagarlo para ahorrar energía. Para activar el Bluetooth, pulse en el icono de Bluetooth en la barra de menú y encienda el <span class="gui">Bluetooth</span> (<span class="gui">Activado</span>).</p>
-<p class="p">Muchos portátiles tienen un interruptor físico o una combinación de teclas para encender y apagar el Bluetooth. Si el interruptor físico está apagado, no podrá ver el icono de Bluetooth en la barra de menú. Busque un interruptor en su equipo o una tecla en su teclado. La tecla suele ir asociada a la tecla <span class="key"><kbd class="key-Fn">Fn</kbd></span>.</p>
-<p class="p">Para apagar el Bluetooth, pulse el icono de Bluetooth y <span class="gui">Apague</span> el <span class="gui">Bluetooth</span>.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">El equipo es <span class="link"><a href="bluetooth-visibility.html" title="¿Qué es la visibilidad de Bluetooth?">visible</a></span> si la opción <span class="gui">Visible</span> esté abierta <span class="gui">Activadaz</span> en el menú de Bluetooth.</p></div></div></div></div>
+<p class="p">Puede activar su Bluetooth para usar dispositivos Bluetooth y enviar y recibir archivos, o apagarlo para ahorrar energía. Para activar el Bluetooth:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Pulse en <span class="gui">Bluetooth</span> para abrir el panel.</p></li>
+<li class="steps"><p class="p">Mueva el deslizador de la parte superior a <span class="gui">Encendido</span>.</p></li>
+</ol></div></div></div>
+<p class="p">Muchos portátiles tienen un interruptor físico o una combinación de teclas para encender y apagar el Bluetooth. Busque un interruptor en su equipo o una tecla en su teclado. La tecla suele ir asociada a la tecla <span class="key"><kbd class="key-Fn">Fn</kbd></span>.</p>
+<p class="p">Para apagar el Bluetooth:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Abra el <span class="gui"><a href="shell-introduction.html#yourname" title="Usted y su equipo">menú del sistema</a></span> en la parte derecha de la barra superior.</p></li>
+<li class="steps"><p class="p">Seleccione <span class="gui"><span class="media"><span class="media media-image"><img src="figures/bluetooth-active-symbolic.svg" class="media media-inline" alt=""></span></span> No está en uso</span>. La sección Bluetooth del menú se expandirá.</p></li>
+<li class="steps"><p class="p">Seleccione <span class="gui">Apagar</span>.</p></li>
+</ol></div></div></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">El equipo es <span class="link"><a href="bluetooth-visibility.html" title="¿Qué es la visibilidad de Bluetooth?">visible</a></span> mientras el panel de <span class="gui">Bluetooth</span> esté abierto.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

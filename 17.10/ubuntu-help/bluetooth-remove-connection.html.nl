@@ -51,8 +51,8 @@
 <div class="contents">
 <p class="p">Als u niet langer verbonden wilt zijn met een Bluetooth-apparaat, dan kunt u de verbinding verwijderen. Dit is handig wanneer u een apparaat zoals een muis of koptelefoon niet langer wilt gebruiken, of wanneer u geen bestanden meer over wilt zetten van het ene apparaat naar het andere.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Klik op het <span class="gui">Bluetooth-pictogram</span> in de <span class="gui">menubalk</span> en kies <span class="gui">Bluetoothinstellingen</span>.</p></li>
-<li class="steps"><p class="p">Selecteer <span class="gui">Bluetooth-instellingen</span> om het paneel te openen.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Klik op het <span class="gui">Bluetooth</span> om het paneel te openen.</p></li>
 <li class="steps"><p class="p">Selecteer het apparaat dat u wilt uitschakelen in de lijst.</p></li>
 <li class="steps"><p class="p">Zet in het dialoogvenster van het apparaat <span class="gui">Verbinding</span> op <span class="gui">UIT</span>, of klik op <span class="gui">Apparaat verwijderen</span> om het apparaat te verwijderen uit de lijst met <span class="gui">Apparaten</span>.</p></li>
 </ol></div></div></div>
